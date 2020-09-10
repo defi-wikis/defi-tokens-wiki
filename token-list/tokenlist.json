@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:40.495Z",
+    "timestamp": "2020-09-10T23:50:45.662Z",
     "version": {
         "major": 1,
-        "minor": 18,
+        "minor": 19,
         "patch": 0
     },
     "keywords": [
@@ -134,6 +134,13 @@
             "symbol": "GST2",
             "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "Chai",
+            "symbol": "CHAI",
+            "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+            "decimals": 18
         }
     ]
 }
