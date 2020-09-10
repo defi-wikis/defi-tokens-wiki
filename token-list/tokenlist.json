@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:12.998Z",
+    "timestamp": "2020-09-10T23:50:18.104Z",
     "version": {
         "major": 1,
-        "minor": 13,
+        "minor": 14,
         "patch": 0
     },
     "keywords": [
@@ -97,6 +97,13 @@
             "name": "Balancer",
             "symbol": "BAL",
             "address": "0xd8E1C43a29dC0311dcaDBacCc8C3b677CD462a1b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Synthetix",
+            "symbol": "SNX",
+            "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
             "decimals": 18
         }
     ]
