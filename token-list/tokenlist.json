@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:49:50.758Z",
+    "timestamp": "2020-09-10T23:49:55.233Z",
     "version": {
         "major": 1,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     },
     "keywords": [
@@ -69,6 +69,13 @@
             "symbol": "CSAI",
             "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Sai",
+            "symbol": "SAI",
+            "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+            "decimals": 18
         }
     ]
 }
