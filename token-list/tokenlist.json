@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:49.923Z",
+    "timestamp": "2020-09-10T23:56:49.345Z",
     "version": {
         "major": 1,
-        "minor": 20,
+        "minor": 21,
         "patch": 0
     },
     "keywords": [
@@ -147,6 +147,13 @@
             "name": "HayCoin",
             "symbol": "HAY",
             "address": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PIZZA Token",
+            "symbol": "PIZZ",
+            "address": "0x9E809ed2b193fCEF8a6f14E98546B5dF0f400203",
             "decimals": 18
         }
     ]
