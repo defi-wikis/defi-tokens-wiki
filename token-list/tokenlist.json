@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:45.662Z",
+    "timestamp": "2020-09-10T23:50:49.923Z",
     "version": {
         "major": 1,
-        "minor": 19,
+        "minor": 20,
         "patch": 0
     },
     "keywords": [
@@ -140,6 +140,13 @@
             "name": "Chai",
             "symbol": "CHAI",
             "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HayCoin",
+            "symbol": "HAY",
+            "address": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
             "decimals": 18
         }
     ]
