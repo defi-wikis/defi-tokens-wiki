@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:03.960Z",
+    "timestamp": "2020-09-10T23:50:08.302Z",
     "version": {
         "major": 1,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     },
     "keywords": [
@@ -84,6 +84,13 @@
             "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Chi Gastoken by 1inch",
+            "symbol": "CHI",
+            "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
+            "decimals": 0
         }
     ]
 }
