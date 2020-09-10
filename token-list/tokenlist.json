@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:49:55.233Z",
+    "timestamp": "2020-09-10T23:50:03.960Z",
     "version": {
         "major": 1,
-        "minor": 10,
+        "minor": 11,
         "patch": 0
     },
     "keywords": [
@@ -76,6 +76,14 @@
             "symbol": "SAI",
             "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Compound",
+            "symbol": "COMP",
+            "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png"
         }
     ]
 }
