@@ -1,0 +1,44 @@
+{
+    "name": "DeFi Token List",
+    "timestamp": "2020-09-10T22:28:03.871Z",
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    },
+    "keywords": [
+        "dharma",
+        "defi"
+    ],
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "defi": {
+            "name": "DeFi",
+            "description": "Tokens that enable financial services using smart contracts"
+        },
+        "yield-farming": {
+            "name": "Yield Farming",
+            "description": "Tokens that earn rewards using permissionless liquidity protocols"
+        },
+        "business-services": {
+            "name": "Business Services",
+            "description": "Tokens that can be redeemed in exchange for business tokens"
+        },
+        "oracle": {
+            "name": "DeFi",
+            "description": "Tokens for protocols that provide smart contracts with external information"
+        },
+        "dex": {
+            "name": "DEX",
+            "description": "Tokens for decentralized exchange protocols which enables peer-to-peer trading of tokens"
+        },
+        "exchange-based": {
+            "name": "Exchange Based",
+            "description": "Tokens that offer holders discounts on trading fees and other benefits"
+        }
+    },
+    "tokens": []
+}
