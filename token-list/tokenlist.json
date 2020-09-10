@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:08.302Z",
+    "timestamp": "2020-09-10T23:50:12.998Z",
     "version": {
         "major": 1,
-        "minor": 12,
+        "minor": 13,
         "patch": 0
     },
     "keywords": [
@@ -91,6 +91,13 @@
             "symbol": "CHI",
             "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Balancer",
+            "symbol": "BAL",
+            "address": "0xd8E1C43a29dC0311dcaDBacCc8C3b677CD462a1b",
+            "decimals": 18
         }
     ]
 }
