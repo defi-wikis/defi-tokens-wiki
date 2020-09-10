@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:49:44.863Z",
+    "timestamp": "2020-09-10T23:49:50.758Z",
     "version": {
         "major": 1,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "keywords": [
@@ -61,6 +61,13 @@
             "name": "Dharma USDC",
             "symbol": "DUSDC",
             "address": "0xcF31ecEE30ACcc18A48a532332D97BEf2D01e97b",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Compound Sai",
+            "symbol": "CSAI",
+            "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
             "decimals": 8
         }
     ]
