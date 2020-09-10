@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:27.604Z",
+    "timestamp": "2020-09-10T23:50:35.043Z",
     "version": {
         "major": 1,
-        "minor": 16,
+        "minor": 17,
         "patch": 0
     },
     "keywords": [
@@ -119,6 +119,14 @@
             "symbol": "ESS",
             "address": "0x0019a8860FA173D40831D03dD2e668Cfc6a59F35",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xdac17f958d2ee523a2206206994597c13d831ec7/icon.png"
         }
     ]
 }
