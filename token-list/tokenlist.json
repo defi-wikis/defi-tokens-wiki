@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:50:18.104Z",
+    "timestamp": "2020-09-10T23:50:22.872Z",
     "version": {
         "major": 1,
-        "minor": 14,
+        "minor": 15,
         "patch": 0
     },
     "keywords": [
@@ -104,6 +104,13 @@
             "name": "Synthetix",
             "symbol": "SNX",
             "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SAINT FAME: Genesis Shirt",
+            "symbol": "FAME",
+            "address": "0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
             "decimals": 18
         }
     ]
