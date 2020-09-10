@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:49:35.803Z",
+    "timestamp": "2020-09-10T23:49:40.248Z",
     "version": {
         "major": 1,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "keywords": [
@@ -48,6 +48,13 @@
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dharma DAI",
+            "symbol": "DDAI",
+            "address": "0x00000000001876eB1444c986fD502e618c587430",
+            "decimals": 8
         }
     ]
 }
