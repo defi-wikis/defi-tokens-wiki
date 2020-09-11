@@ -55,6 +55,10 @@ For **adding metadata to a token**:
 - Create a PR to the main repo
 - Wait for your PR to be approved by an admin
 
+## Notes
+- `dharmaVerificationStatus` indicates whether a token is the most popular token for that token symbol
+- any new `tag` can be added in the `tags` array
+- the only social links supported are Twitter, Discord, Telegram, and Website
 
 ## Disclaimer
 The Dharma team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
