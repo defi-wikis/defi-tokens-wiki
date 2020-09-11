@@ -3,5 +3,22 @@
     "symbol": "MKR",
     "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "The MKR token—the governance token of the Maker Protocol—allows those who hold it to vote on changes to the Maker Protocol. Note that anyone, not only MKR holders, can submit proposals for an MKR vote.",
+    "socialLinks": [
+        {
+            "type": "website",
+            "value": "https://makerdao.com/"
+        },
+        {
+
+            "type": "twitter",
+            "value": "https://twitter.com/MakerDAO"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/makerdaoOfficial"
+        }
+    ],
+    "tags": ["governance", "defi"]
 }
