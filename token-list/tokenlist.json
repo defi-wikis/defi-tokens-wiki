@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T19:13:06.768Z",
+    "timestamp": "2020-09-11T19:18:44.739Z",
     "version": {
         "major": 1,
-        "minor": 77,
+        "minor": 78,
         "patch": 0
     },
     "keywords": [
@@ -356,6 +356,13 @@
             "name": "Sashimi Beta",
             "symbol": "SASH",
             "address": "0x2392C0dD35A701b3658016816BfC74e7BA0FC141",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xplosive Ethereum",
+            "symbol": "xETH",
+            "address": "0xaA19673aA1b483a5c4f73B446B4f851629a7e7D6",
             "decimals": 18
         }
     ]
