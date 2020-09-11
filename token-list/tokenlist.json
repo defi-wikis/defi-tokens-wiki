@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T19:50:57.683Z",
+    "timestamp": "2020-09-11T19:52:34.692Z",
     "version": {
         "major": 1,
-        "minor": 81,
+        "minor": 82,
         "patch": 0
     },
     "keywords": [
@@ -386,6 +386,13 @@
             "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "vn.finance",
+            "symbol": "VFI",
+            "address": "0x44001A5656BaAFa5A3359cEd8fa38e150A71Eea2",
+            "decimals": 18
         }
     ]
 }
