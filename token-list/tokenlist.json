@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T15:50:14.740Z",
+    "timestamp": "2020-09-11T15:50:19.049Z",
     "version": {
         "major": 1,
-        "minor": 29,
+        "minor": 30,
         "patch": 0
     },
     "keywords": [
@@ -54,6 +54,13 @@
             "name": "Dharma USDC",
             "symbol": "DUSDC",
             "address": "0x00000000008943c65cAf789FFFCF953bE156f6f8",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Dharma DAI",
+            "symbol": "DDAI",
+            "address": "0x00000000001876eB1444c986fD502e618c587430",
             "decimals": 8
         }
     ]
