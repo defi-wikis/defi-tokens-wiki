@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:19:18.214Z",
+    "timestamp": "2020-09-11T16:19:23.241Z",
     "version": {
         "major": 1,
-        "minor": 43,
+        "minor": 44,
         "patch": 0
     },
     "keywords": [
@@ -119,6 +119,13 @@
             "name": "SAINT FAME: Genesis Shirt",
             "symbol": "FAME",
             "address": "0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unisocks Edition 0",
+            "symbol": "SOCKS",
+            "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
             "decimals": 18
         }
     ]
