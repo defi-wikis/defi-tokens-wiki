@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:44:19.582Z",
+    "timestamp": "2020-09-11T20:48:58.984Z",
     "version": {
         "major": 1,
-        "minor": 89,
+        "minor": 90,
         "patch": 0
     },
     "keywords": [
@@ -157,7 +157,10 @@
             "symbol": "WBTC",
             "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "decimals": 8,
-            "logoURI": "https://tokens.dharma.io/assets/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/icon.png",
+            "tags": [
+                "defi"
+            ]
         },
         {
             "chainId": 1,
