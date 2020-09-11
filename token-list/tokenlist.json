@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T17:49:59.063Z",
+    "timestamp": "2020-09-11T17:50:03.895Z",
     "version": {
         "major": 1,
-        "minor": 70,
+        "minor": 71,
         "patch": 0
     },
     "keywords": [
@@ -314,6 +314,13 @@
             "name": "WPPTOKEN",
             "symbol": "WPP",
             "address": "0x056dD20b01799E9C1952c7c9a5ff4409a6110085",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WPPToken",
+            "symbol": "WPP",
+            "address": "0x1955d744F9435522Be508D1Ba60E3c12D0690B6A",
             "decimals": 18
         }
     ]
