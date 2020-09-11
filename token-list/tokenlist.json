@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:49:09.387Z",
+    "timestamp": "2020-09-11T20:49:15.520Z",
     "version": {
         "major": 1,
-        "minor": 92,
+        "minor": 93,
         "patch": 0
     },
     "keywords": [
@@ -120,7 +120,11 @@
             "symbol": "COMP",
             "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png",
+            "tags": [
+                "defi",
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
