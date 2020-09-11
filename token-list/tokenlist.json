@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:02:55.232Z",
+    "timestamp": "2020-09-11T20:12:59.830Z",
     "version": {
         "major": 1,
-        "minor": 85,
+        "minor": 86,
         "patch": 0
     },
     "keywords": [
@@ -410,6 +410,13 @@
             "name": "Wire Finance",
             "symbol": "WIRF",
             "address": "0xECdd966Cf4e53e3d5720c522740C691fF58dd76F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Roast Network",
+            "symbol": "ROAST",
+            "address": "0xA21952c5de9938787f0EE3ad86869c03e8DCe921",
             "decimals": 18
         }
     ]
