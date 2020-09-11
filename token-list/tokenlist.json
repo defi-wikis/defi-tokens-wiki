@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T19:38:34.149Z",
+    "timestamp": "2020-09-11T19:50:57.683Z",
     "version": {
         "major": 1,
-        "minor": 80,
+        "minor": 81,
         "patch": 0
     },
     "keywords": [
@@ -378,6 +378,14 @@
             "symbol": "HCN",
             "address": "0x5dcfD03B7d517C02990eed81782052f4A68Da7E7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e/icon.png"
         }
     ]
 }
