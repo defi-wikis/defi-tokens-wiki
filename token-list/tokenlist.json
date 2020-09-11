@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T17:07:34.432Z",
+    "timestamp": "2020-09-11T17:27:43.900Z",
     "version": {
         "major": 1,
-        "minor": 66,
+        "minor": 67,
         "patch": 0
     },
     "keywords": [
@@ -287,6 +287,13 @@
             "symbol": "CAN",
             "address": "0x46EE7D0E5080B0FE3D16701c0dbBC6916E3C77C5",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "yfOMEGA",
+            "symbol": "YFOMEGA",
+            "address": "0xE8fcF5e2adA14994e734aDC05620A5AAf7d3300c",
+            "decimals": 18
         }
     ]
 }
