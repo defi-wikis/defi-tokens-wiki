@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T17:01:59.676Z",
+    "timestamp": "2020-09-11T17:06:50.296Z",
     "version": {
         "major": 1,
-        "minor": 64,
+        "minor": 65,
         "patch": 0
     },
     "keywords": [
@@ -273,6 +273,13 @@
             "symbol": "PGST",
             "address": "0x9cA3e89C7ae8f3b2057cACc6C92E4A021F47056A",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YearnEasyWealthFinance",
+            "symbol": "YEWF",
+            "address": "0xD2941a5D96EA86006d9465968f8C605d8d67EA33",
+            "decimals": 18
         }
     ]
 }
