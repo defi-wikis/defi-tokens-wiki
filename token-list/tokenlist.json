@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:49:05.174Z",
+    "timestamp": "2020-09-11T20:49:09.387Z",
     "version": {
         "major": 1,
-        "minor": 91,
+        "minor": 92,
         "patch": 0
     },
     "keywords": [
@@ -441,6 +441,13 @@
             "name": "DexChain",
             "symbol": "DXCN",
             "address": "0x11F623c38b442425EC82fBc590e2D38Ce777f6FE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nigiri",
+            "symbol": "NIGIRI",
+            "address": "0x27c0639Bae5CBFA7cD6c3e0b675ee3eb71FDfcDc",
             "decimals": 18
         }
     ]
