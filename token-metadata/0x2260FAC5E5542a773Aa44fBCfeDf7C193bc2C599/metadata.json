@@ -4,7 +4,7 @@
     "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 8,
     "dharmaVerificationStatus": "VERIFIED",
-    "description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.\n\nWBTC brings greater liquidity to the Ethereum ecosystem including decentralized exchanges (DEXs) and financial applications. Today, the majority of trading volume takes place on centralized exchanges with Bitcoin. WBTC changes that, bringing Bitcoin's liquidity to DEXs and making it possible to use Bitcoin for token trades.",
+    "description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led. WBTC brings greater liquidity to the Ethereum ecosystem including decentralized exchanges (DEXs) and financial applications. Today, the majority of trading volume takes place on centralized exchanges with Bitcoin. WBTC changes that, bringing Bitcoin's liquidity to DEXs and making it possible to use Bitcoin for token trades.",
     "socialLinks": [
         {
             "type": "Website",
