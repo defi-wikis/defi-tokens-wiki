@@ -3,5 +3,6 @@
     "symbol": "COMP",
     "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["defi"]
 }
