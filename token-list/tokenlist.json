@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:18:08.647Z",
+    "timestamp": "2020-09-11T16:18:43.634Z",
     "version": {
         "major": 1,
-        "minor": 36,
+        "minor": 37,
         "patch": 0
     },
     "keywords": [
@@ -69,6 +69,13 @@
             "name": "Compound DAI",
             "symbol": "CDAI",
             "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Compound USDC",
+            "symbol": "CUSDC",
+            "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
             "decimals": 8
         }
     ]
