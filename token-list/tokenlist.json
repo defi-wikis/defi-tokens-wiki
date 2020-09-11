@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:59:09.144Z",
+    "timestamp": "2020-09-11T21:16:06.327Z",
     "version": {
         "major": 1,
-        "minor": 95,
+        "minor": 96,
         "patch": 0
     },
     "keywords": [
@@ -466,6 +466,13 @@
             "name": "Milk.farming",
             "symbol": "MIFI",
             "address": "0x61402CAd3249386D52DF06bA253E6266DFe40475",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hms Token",
+            "symbol": "HMC",
+            "address": "0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
             "decimals": 18
         }
     ]
