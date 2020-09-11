@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:17:54.906Z",
+    "timestamp": "2020-09-11T16:18:03.100Z",
     "version": {
         "major": 1,
-        "minor": 34,
+        "minor": 35,
         "patch": 0
     },
     "keywords": [
@@ -55,6 +55,14 @@
             "symbol": "WETH",
             "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dai",
+            "symbol": "DAI",
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6b175474e89094c44da98b954eedeac495271d0f/icon.png"
         }
     ]
 }
