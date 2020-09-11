@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T17:01:40.269Z",
+    "timestamp": "2020-09-11T17:01:59.676Z",
     "version": {
         "major": 1,
-        "minor": 63,
+        "minor": 64,
         "patch": 0
     },
     "keywords": [
@@ -266,6 +266,13 @@
             "symbol": "WNDAU",
             "address": "0x621a074d9A3da8FD090618B96cB4eE8836b924c0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PGST",
+            "symbol": "PGST",
+            "address": "0x9cA3e89C7ae8f3b2057cACc6C92E4A021F47056A",
+            "decimals": 8
         }
     ]
 }
