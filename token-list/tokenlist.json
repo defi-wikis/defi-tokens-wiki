@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T19:55:34.385Z",
+    "timestamp": "2020-09-11T20:00:47.871Z",
     "version": {
         "major": 1,
-        "minor": 83,
+        "minor": 84,
         "patch": 0
     },
     "keywords": [
@@ -66,7 +66,11 @@
             "symbol": "DAI",
             "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x6b175474e89094c44da98b954eedeac495271d0f/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x6b175474e89094c44da98b954eedeac495271d0f/icon.png",
+            "tags": [
+                "stablecoin",
+                "defi"
+            ]
         },
         {
             "chainId": 1,
