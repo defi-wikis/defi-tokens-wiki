@@ -26,5 +26,9 @@
     "exchange-based": {
         "name": "Exchange Based",
         "description": "Tokens that offer holders discounts on trading fees and other benefits"
+    },
+    "lending": {
+        "name": null,
+        "description": null
     }
 }
