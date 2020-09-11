@@ -9,6 +9,14 @@
         {
             "type": "Twitter",
             "value": "https://twitter.com/centre_io"
+        },
+        {
+            "type": "Website",
+            "value": "https://www.centre.io/usdc"
+        },
+        {
+            "type": "Discord",
+            "value": "https://discord.gg/TAvy8Y"
         }
     ],
     "tags": ["defi", "stablecoin"]
