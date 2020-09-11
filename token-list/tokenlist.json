@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T17:29:39.620Z",
+    "timestamp": "2020-09-11T17:37:05.566Z",
     "version": {
         "major": 1,
-        "minor": 68,
+        "minor": 69,
         "patch": 0
     },
     "keywords": [
@@ -300,6 +300,13 @@
             "name": "SYFI.Finance",
             "symbol": "SYFI.v2",
             "address": "0xCF2A3cD5E41391F27BE3332a68E177B163478Ab5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SUN TOKEN",
+            "symbol": "SUN",
+            "address": "0xC04FDFD94deC0dbf5e4394e28dDC6952A053B0ad",
             "decimals": 18
         }
     ]
