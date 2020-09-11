@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T22:37:59.524Z",
+    "timestamp": "2020-09-11T22:48:49.263Z",
     "version": {
         "major": 1,
-        "minor": 105,
+        "minor": 106,
         "patch": 0
     },
     "keywords": [
@@ -512,6 +512,13 @@
             "name": "Awake",
             "symbol": "Awake",
             "address": "0x9571Cc706B6Ff4Ab58e908863dCBbeadaf41CaC5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XXX",
+            "symbol": "XXX",
+            "address": "0x3C042629a688090556C06Ed3Bb7BB910497A10B8",
             "decimals": 18
         }
     ]
