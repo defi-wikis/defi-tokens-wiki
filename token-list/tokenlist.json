@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:29:39.259Z",
+    "timestamp": "2020-09-11T16:29:46.217Z",
     "version": {
         "major": 1,
-        "minor": 54,
+        "minor": 55,
         "patch": 0
     },
     "keywords": [
@@ -204,6 +204,13 @@
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x514910771af9ca656af840dff83e8264ecf986ca/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bitfinex LEO Token",
+            "symbol": "LEO",
+            "address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
+            "decimals": 18
         }
     ]
 }
