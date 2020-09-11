@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:49:15.520Z",
+    "timestamp": "2020-09-11T20:56:19.932Z",
     "version": {
         "major": 1,
-        "minor": 93,
+        "minor": 94,
         "patch": 0
     },
     "keywords": [
@@ -452,6 +452,13 @@
             "name": "Nigiri",
             "symbol": "NIGIRI",
             "address": "0x27c0639Bae5CBFA7cD6c3e0b675ee3eb71FDfcDc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OPTICAL NETWORK",
+            "symbol": "OPTC",
+            "address": "0x3CC83C2400E00a54fA1E588D62BC28bf15D5def5",
             "decimals": 18
         }
     ]
