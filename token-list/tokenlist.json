@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:29:20.152Z",
+    "timestamp": "2020-09-11T16:29:29.744Z",
     "version": {
         "major": 1,
-        "minor": 52,
+        "minor": 53,
         "patch": 0
     },
     "keywords": [
@@ -188,6 +188,14 @@
             "symbol": "aDAI",
             "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xdac17f958d2ee523a2206206994597c13d831ec7/icon.png"
         }
     ]
 }
