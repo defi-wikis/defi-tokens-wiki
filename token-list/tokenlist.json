@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:42:38.906Z",
+    "timestamp": "2020-09-11T20:44:19.582Z",
     "version": {
         "major": 1,
-        "minor": 88,
+        "minor": 89,
         "patch": 0
     },
     "keywords": [
@@ -431,6 +431,13 @@
             "name": "Evident Proof Token",
             "symbol": "EPT",
             "address": "0x8D67f5aBBFF137768a1e7935375b90EECec538cA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DexChain",
+            "symbol": "DXCN",
+            "address": "0x11F623c38b442425EC82fBc590e2D38Ce777f6FE",
             "decimals": 18
         }
     ]
