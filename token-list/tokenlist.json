@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:25:03.468Z",
+    "timestamp": "2020-09-11T16:25:12.112Z",
     "version": {
         "major": 1,
-        "minor": 46,
+        "minor": 47,
         "patch": 0
     },
     "keywords": [
@@ -142,6 +142,14 @@
             "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/icon.png"
         }
     ]
 }
