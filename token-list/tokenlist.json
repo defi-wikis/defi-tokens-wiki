@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:29:46.217Z",
+    "timestamp": "2020-09-11T16:29:52.567Z",
     "version": {
         "major": 1,
-        "minor": 55,
+        "minor": 56,
         "patch": 0
     },
     "keywords": [
@@ -211,6 +211,13 @@
             "symbol": "LEO",
             "address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CRO",
+            "symbol": "CRO",
+            "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+            "decimals": 8
         }
     ]
 }
