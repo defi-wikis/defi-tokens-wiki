@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:29:29.744Z",
+    "timestamp": "2020-09-11T16:29:39.259Z",
     "version": {
         "major": 1,
-        "minor": 53,
+        "minor": 54,
         "patch": 0
     },
     "keywords": [
@@ -196,6 +196,14 @@
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0xdac17f958d2ee523a2206206994597c13d831ec7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x514910771af9ca656af840dff83e8264ecf986ca/icon.png"
         }
     ]
 }
