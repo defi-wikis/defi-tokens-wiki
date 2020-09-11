@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:19:23.241Z",
+    "timestamp": "2020-09-11T16:19:30.777Z",
     "version": {
         "major": 1,
-        "minor": 44,
+        "minor": 45,
         "patch": 0
     },
     "keywords": [
@@ -126,6 +126,13 @@
             "name": "Unisocks Edition 0",
             "symbol": "SOCKS",
             "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Humanity",
+            "symbol": "HUM",
+            "address": "0xbBd1706d16418bb136e1497A73d3af4164586DA0",
             "decimals": 18
         }
     ]
