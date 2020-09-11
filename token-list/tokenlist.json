@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:19:12.979Z",
+    "timestamp": "2020-09-11T16:19:18.214Z",
     "version": {
         "major": 1,
-        "minor": 42,
+        "minor": 43,
         "patch": 0
     },
     "keywords": [
@@ -113,6 +113,13 @@
             "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SAINT FAME: Genesis Shirt",
+            "symbol": "FAME",
+            "address": "0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
+            "decimals": 18
         }
     ]
 }
