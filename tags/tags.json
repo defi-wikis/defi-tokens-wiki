@@ -21,7 +21,7 @@
     },
     "dex": {
         "name": "DEX",
-        "description": "Tokens for decentralized exchange protocols which enables peer-to-peer trading of tokens"
+        "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
     },
     "exchange-based": {
         "name": "Exchange Based",
