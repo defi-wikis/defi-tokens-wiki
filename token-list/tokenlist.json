@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:25:33.912Z",
+    "timestamp": "2020-09-11T16:25:42.044Z",
     "version": {
         "major": 1,
-        "minor": 50,
+        "minor": 51,
         "patch": 0
     },
     "keywords": [
@@ -173,6 +173,14 @@
             "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Kyber Network Crystal",
+            "symbol": "KNC",
+            "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/icon.png"
         }
     ]
 }
