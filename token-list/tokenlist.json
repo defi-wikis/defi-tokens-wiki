@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:30:05.754Z",
+    "timestamp": "2020-09-11T16:30:15.792Z",
     "version": {
         "major": 1,
-        "minor": 58,
+        "minor": 59,
         "patch": 0
     },
     "keywords": [
@@ -232,6 +232,14 @@
             "symbol": "cETH",
             "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Reputation",
+            "symbol": "REP",
+            "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1985365e9f78359a9b6ad760e32412f4a445e862/icon.png"
         }
     ]
 }
