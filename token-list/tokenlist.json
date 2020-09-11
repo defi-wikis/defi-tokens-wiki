@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T17:06:50.296Z",
+    "timestamp": "2020-09-11T17:07:34.432Z",
     "version": {
         "major": 1,
-        "minor": 65,
+        "minor": 66,
         "patch": 0
     },
     "keywords": [
@@ -280,6 +280,13 @@
             "symbol": "YEWF",
             "address": "0xD2941a5D96EA86006d9465968f8C605d8d67EA33",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COINWAYCOIN",
+            "symbol": "CAN",
+            "address": "0x46EE7D0E5080B0FE3D16701c0dbBC6916E3C77C5",
+            "decimals": 10
         }
     ]
 }
