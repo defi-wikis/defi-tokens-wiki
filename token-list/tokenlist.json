@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:29:52.567Z",
+    "timestamp": "2020-09-11T16:29:59.963Z",
     "version": {
         "major": 1,
-        "minor": 56,
+        "minor": 57,
         "patch": 0
     },
     "keywords": [
@@ -218,6 +218,13 @@
             "symbol": "CRO",
             "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Paxos Standard",
+            "symbol": "PAX",
+            "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+            "decimals": 18
         }
     ]
 }
