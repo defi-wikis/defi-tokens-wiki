@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T22:29:39.191Z",
+    "timestamp": "2020-09-11T22:32:44.443Z",
     "version": {
         "major": 1,
-        "minor": 102,
+        "minor": 103,
         "patch": 0
     },
     "keywords": [
@@ -498,6 +498,13 @@
             "name": "Sonic.yield finance",
             "symbol": "$SYFI",
             "address": "0x95e7311bD98C4D70BBA64333FdBC0A9dDf27aEa0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "houseofcards.finance",
+            "symbol": "HOC",
+            "address": "0x929d87A3aaAbc18da7f34945C896F4500CDB0043",
             "decimals": 18
         }
     ]
