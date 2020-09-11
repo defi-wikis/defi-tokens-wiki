@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T21:49:04.823Z",
+    "timestamp": "2020-09-11T22:06:34.124Z",
     "version": {
         "major": 1,
-        "minor": 100,
+        "minor": 101,
         "patch": 0
     },
     "keywords": [
@@ -484,6 +484,13 @@
             "name": "CGCX Exchange Token",
             "symbol": "CGCX",
             "address": "0x8B35368cCbaDbfBf2D19e8d3D8e58e3DdB63853a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CRUG.DICE",
+            "symbol": "CDIE",
+            "address": "0x38C802a54a1e058Dc3444079F818B287d3d4fEC1",
             "decimals": 18
         }
     ]
