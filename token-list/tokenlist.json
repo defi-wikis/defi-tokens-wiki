@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T19:52:34.692Z",
+    "timestamp": "2020-09-11T19:55:34.385Z",
     "version": {
         "major": 1,
-        "minor": 82,
+        "minor": 83,
         "patch": 0
     },
     "keywords": [
@@ -392,6 +392,13 @@
             "name": "vn.finance",
             "symbol": "VFI",
             "address": "0x44001A5656BaAFa5A3359cEd8fa38e150A71Eea2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RawDeFi",
+            "symbol": "RDF",
+            "address": "0x4510C0751c2D3860EB8B8D012fd5159021EB774d",
             "decimals": 18
         }
     ]
