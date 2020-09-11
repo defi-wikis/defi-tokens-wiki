@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:25:20.418Z",
+    "timestamp": "2020-09-11T16:25:25.866Z",
     "version": {
         "major": 1,
-        "minor": 48,
+        "minor": 49,
         "patch": 0
     },
     "keywords": [
@@ -158,6 +158,13 @@
             "address": "0xba100000625a3754423978a60c9317c58a424e3D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xba100000625a3754423978a60c9317c58a424e3d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OMGToken",
+            "symbol": "OMG",
+            "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+            "decimals": 18
         }
     ]
 }
