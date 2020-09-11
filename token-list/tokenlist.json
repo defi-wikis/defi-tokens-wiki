@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T20:00:47.871Z",
+    "timestamp": "2020-09-11T20:02:55.232Z",
     "version": {
         "major": 1,
-        "minor": 84,
+        "minor": 85,
         "patch": 0
     },
     "keywords": [
@@ -403,6 +403,13 @@
             "name": "RawDeFi",
             "symbol": "RDF",
             "address": "0x4510C0751c2D3860EB8B8D012fd5159021EB774d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wire Finance",
+            "symbol": "WIRF",
+            "address": "0xECdd966Cf4e53e3d5720c522740C691fF58dd76F",
             "decimals": 18
         }
     ]
