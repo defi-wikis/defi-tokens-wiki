@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:30:15.792Z",
+    "timestamp": "2020-09-11T16:30:30.438Z",
     "version": {
         "major": 1,
-        "minor": 59,
+        "minor": 60,
         "patch": 0
     },
     "keywords": [
@@ -240,6 +240,14 @@
             "address": "0x1985365e9f78359a9B6AD760e32412f4a445E862",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1985365e9f78359a9b6ad760e32412f4a445e862/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Republic Token",
+            "symbol": "REN",
+            "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x408e41876cccdc0f92210600ef50372656052a38/icon.png"
         }
     ]
 }
