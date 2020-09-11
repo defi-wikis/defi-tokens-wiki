@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:30:37.173Z",
+    "timestamp": "2020-09-11T16:35:47.937Z",
     "version": {
         "major": 1,
-        "minor": 61,
+        "minor": 62,
         "patch": 0
     },
     "keywords": [
@@ -47,7 +47,11 @@
             "symbol": "USDC",
             "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "decimals": 6,
-            "logoURI": "https://tokens.dharma.io/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48/icon.png",
+            "tags": [
+                "stablecoin",
+                "defi"
+            ]
         },
         {
             "chainId": 1,
