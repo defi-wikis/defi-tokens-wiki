@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:25:25.866Z",
+    "timestamp": "2020-09-11T16:25:33.912Z",
     "version": {
         "major": 1,
-        "minor": 49,
+        "minor": 50,
         "patch": 0
     },
     "keywords": [
@@ -165,6 +165,14 @@
             "symbol": "OMG",
             "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Numeraire",
+            "symbol": "NMR",
+            "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1776e1f26f98b1a5df9cd347953a26dd3cb46671/icon.png"
         }
     ]
 }
