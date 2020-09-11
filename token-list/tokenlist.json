@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:18:43.634Z",
+    "timestamp": "2020-09-11T16:18:48.727Z",
     "version": {
         "major": 1,
-        "minor": 37,
+        "minor": 38,
         "patch": 0
     },
     "keywords": [
@@ -76,6 +76,13 @@
             "name": "Compound USDC",
             "symbol": "CUSDC",
             "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Dharma USDC",
+            "symbol": "DUSDC",
+            "address": "0x00000000008943c65cAf789FFFCF953bE156f6f8",
             "decimals": 8
         }
     ]
