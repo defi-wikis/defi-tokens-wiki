@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:25:12.112Z",
+    "timestamp": "2020-09-11T16:25:20.418Z",
     "version": {
         "major": 1,
-        "minor": 47,
+        "minor": 48,
         "patch": 0
     },
     "keywords": [
@@ -150,6 +150,14 @@
             "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Balancer",
+            "symbol": "BAL",
+            "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xba100000625a3754423978a60c9317c58a424e3d/icon.png"
         }
     ]
 }
