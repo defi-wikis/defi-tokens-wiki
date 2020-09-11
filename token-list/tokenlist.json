@@ -1,16 +1,45 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-10T23:56:49.345Z",
+    "timestamp": "2020-09-11T00:14:13.999Z",
     "version": {
         "major": 1,
-        "minor": 21,
+        "minor": 22,
         "patch": 0
     },
     "keywords": [
         "dharma",
         "defi"
     ],
-    "tags": {},
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "defi": {
+            "name": "DeFi",
+            "description": "Tokens that enable financial services using smart contracts"
+        },
+        "yield-farming": {
+            "name": "Yield Farming",
+            "description": "Tokens that earn rewards using permissionless liquidity protocols"
+        },
+        "business-services": {
+            "name": "Business Services",
+            "description": "Tokens that can be redeemed in exchange for business tokens"
+        },
+        "oracle": {
+            "name": "DeFi",
+            "description": "Tokens for protocols that provide smart contracts with external information"
+        },
+        "dex": {
+            "name": "DEX",
+            "description": "Tokens for decentralized exchange protocols which enables peer-to-peer trading of tokens"
+        },
+        "exchange-based": {
+            "name": "Exchange Based",
+            "description": "Tokens that offer holders discounts on trading fees and other benefits"
+        }
+    },
     "tokens": [
         {
             "chainId": 1,
@@ -83,7 +112,10 @@
             "symbol": "COMP",
             "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png",
+            "tags": [
+                "defi"
+            ]
         },
         {
             "chainId": 1,
