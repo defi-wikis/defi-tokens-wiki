@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:30:30.438Z",
+    "timestamp": "2020-09-11T16:30:37.173Z",
     "version": {
         "major": 1,
-        "minor": 60,
+        "minor": 61,
         "patch": 0
     },
     "keywords": [
@@ -248,6 +248,13 @@
             "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x408e41876cccdc0f92210600ef50372656052a38/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Enjin Coin",
+            "symbol": "ENJ",
+            "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+            "decimals": 18
         }
     ]
 }
