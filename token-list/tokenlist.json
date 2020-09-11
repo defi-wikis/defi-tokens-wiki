@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T16:19:30.777Z",
+    "timestamp": "2020-09-11T16:25:03.468Z",
     "version": {
         "major": 1,
-        "minor": 45,
+        "minor": 46,
         "patch": 0
     },
     "keywords": [
@@ -134,6 +134,14 @@
             "symbol": "HUM",
             "address": "0xbBd1706d16418bb136e1497A73d3af4164586DA0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Synthetix",
+            "symbol": "SNX",
+            "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/icon.png"
         }
     ]
 }
