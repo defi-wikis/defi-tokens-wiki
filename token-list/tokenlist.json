@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T18:09:53.650Z",
+    "timestamp": "2020-09-11T18:11:49.306Z",
     "version": {
         "major": 1,
-        "minor": 74,
+        "minor": 75,
         "patch": 0
     },
     "keywords": [
@@ -335,6 +335,13 @@
             "name": "TOKYO.cityswap.io",
             "symbol": "TOKYO",
             "address": "0x2132eb4708284092377031D97B2Aa058403CE98f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoLiveLeak",
+            "symbol": "CLL",
+            "address": "0x3dC9a42fa7Afe57BE03c58fD7F4411b1E466C508",
             "decimals": 18
         }
     ]
