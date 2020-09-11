@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T22:06:34.124Z",
+    "timestamp": "2020-09-11T22:29:39.191Z",
     "version": {
         "major": 1,
-        "minor": 101,
+        "minor": 102,
         "patch": 0
     },
     "keywords": [
@@ -491,6 +491,13 @@
             "name": "CRUG.DICE",
             "symbol": "CDIE",
             "address": "0x38C802a54a1e058Dc3444079F818B287d3d4fEC1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sonic.yield finance",
+            "symbol": "$SYFI",
+            "address": "0x95e7311bD98C4D70BBA64333FdBC0A9dDf27aEa0",
             "decimals": 18
         }
     ]
