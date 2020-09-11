@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T21:16:06.327Z",
+    "timestamp": "2020-09-11T21:30:14.617Z",
     "version": {
         "major": 1,
-        "minor": 96,
+        "minor": 97,
         "patch": 0
     },
     "keywords": [
@@ -473,6 +473,13 @@
             "name": "Hms Token",
             "symbol": "HMC",
             "address": "0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CGCX Exchange Token",
+            "symbol": "CGCX",
+            "address": "0x8B35368cCbaDbfBf2D19e8d3D8e58e3DdB63853a",
             "decimals": 18
         }
     ]
