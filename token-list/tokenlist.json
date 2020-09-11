@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T22:48:49.263Z",
+    "timestamp": "2020-09-11T23:18:54.800Z",
     "version": {
         "major": 1,
-        "minor": 106,
+        "minor": 107,
         "patch": 0
     },
     "keywords": [
@@ -519,6 +519,13 @@
             "name": "XXX",
             "symbol": "XXX",
             "address": "0x3C042629a688090556C06Ed3Bb7BB910497A10B8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YLIVE.FIANCE",
+            "symbol": "YLIVE",
+            "address": "0x0a893FF1BDc43D42be4d17fb50b808289E52A20C",
             "decimals": 18
         }
     ]
