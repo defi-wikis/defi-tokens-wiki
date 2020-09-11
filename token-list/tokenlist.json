@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-11T18:11:49.306Z",
+    "timestamp": "2020-09-11T18:59:34.030Z",
     "version": {
         "major": 1,
-        "minor": 75,
+        "minor": 76,
         "patch": 0
     },
     "keywords": [
@@ -342,6 +342,13 @@
             "name": "CryptoLiveLeak",
             "symbol": "CLL",
             "address": "0x3dC9a42fa7Afe57BE03c58fD7F4411b1E466C508",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kye",
+            "symbol": "KYE",
+            "address": "0x273dB7238B46FDFdD28f553f4AE7f7da736A8D92",
             "decimals": 18
         }
     ]
