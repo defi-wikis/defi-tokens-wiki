@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:27:59.408Z",
+    "timestamp": "2020-09-12T18:39:06.496Z",
     "version": {
         "major": 1,
-        "minor": 198,
+        "minor": 199,
         "patch": 0
     },
     "keywords": [
@@ -1164,6 +1164,13 @@
             "symbol": "TEST",
             "address": "0x2b9dDe565ddF9B736C9051286b216f66A8219e36",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "PieDAO DEFI Small Cap",
+            "symbol": "DEFI+S",
+            "address": "0xaD6A626aE2B43DCb1B39430Ce496d2FA0365BA9C",
+            "decimals": 18
         }
     ]
 }
