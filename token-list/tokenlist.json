@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T08:30:12.456Z",
+    "timestamp": "2020-09-12T08:31:54.586Z",
     "version": {
         "major": 1,
-        "minor": 139,
+        "minor": 140,
         "patch": 0
     },
     "keywords": [
@@ -751,6 +751,13 @@
             "symbol": "DMN",
             "address": "0x47AC83906da2c038D802123cA0d97E50Bf8FC2db",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TomoTouch Coin",
+            "symbol": "TOUCH",
+            "address": "0xB0Ab2381B967018cD0Edfdf77216b06aF0538d48",
+            "decimals": 8
         }
     ]
 }
