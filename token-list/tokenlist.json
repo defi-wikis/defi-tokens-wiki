@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T01:01:09.462Z",
+    "timestamp": "2020-09-12T01:21:07.299Z",
     "version": {
         "major": 1,
-        "minor": 114,
+        "minor": 115,
         "patch": 0
     },
     "keywords": [
@@ -576,6 +576,13 @@
             "symbol": "UFT",
             "address": "0xD4B7A02BE85B9A3C311765356100907c12340DA0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sentcoins token",
+            "symbol": "STC",
+            "address": "0xd7a70da492498a19078ACcAA4ABE0Cc28EE8E098",
+            "decimals": 8
         }
     ]
 }
