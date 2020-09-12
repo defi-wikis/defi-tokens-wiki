@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:39:06.496Z",
+    "timestamp": "2020-09-12T18:49:39.152Z",
     "version": {
         "major": 1,
-        "minor": 199,
+        "minor": 200,
         "patch": 0
     },
     "keywords": [
@@ -1170,6 +1170,13 @@
             "name": "PieDAO DEFI Small Cap",
             "symbol": "DEFI+S",
             "address": "0xaD6A626aE2B43DCb1B39430Ce496d2FA0365BA9C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cool Network",
+            "symbol": "COOL",
+            "address": "0xaF83851788E9673257ebe4d70710bF82D1B4e215",
             "decimals": 18
         }
     ]
