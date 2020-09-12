@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:06:39.222Z",
+    "timestamp": "2020-09-12T18:11:05.383Z",
     "version": {
         "major": 1,
-        "minor": 195,
+        "minor": 196,
         "patch": 0
     },
     "keywords": [
@@ -1142,6 +1142,13 @@
             "name": "Seppuku.me",
             "symbol": "SEPPUKU",
             "address": "0x02DDbc11e2447108Dd983e60Fa0a7D5a7d7b563a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfbtc.finance",
+            "symbol": "YFBTC",
+            "address": "0x368118EA45de7B134676cd41b39dE82143da694b",
             "decimals": 18
         }
     ]
