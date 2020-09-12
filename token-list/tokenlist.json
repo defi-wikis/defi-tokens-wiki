@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T22:38:39.349Z",
+    "timestamp": "2020-09-12T22:44:48.829Z",
     "version": {
         "major": 1,
-        "minor": 219,
+        "minor": 220,
         "patch": 0
     },
     "keywords": [
@@ -1310,6 +1310,13 @@
             "name": "Proxeus",
             "symbol": "XES",
             "address": "0xA017ac5faC5941f95010b12570B812C974469c2C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "devilfinance",
+            "symbol": "DVL",
+            "address": "0x881eEcfb2E8514c1ea93040D3C0e050490752a53",
             "decimals": 18
         }
     ]
