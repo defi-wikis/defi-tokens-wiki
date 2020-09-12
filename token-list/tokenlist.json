@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T21:41:25.311Z",
+    "timestamp": "2020-09-12T22:01:19.051Z",
     "version": {
         "major": 1,
-        "minor": 216,
+        "minor": 217,
         "patch": 0
     },
     "keywords": [
@@ -1289,6 +1289,13 @@
             "name": "Soy.Finance",
             "symbol": "SOFI",
             "address": "0xACcdd6eC6AD44c4b7322B54731a82cEC49A8CDd7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tofu.Swap",
+            "symbol": "TFS",
+            "address": "0x1E4033D03bBFfCA405fb213Dd12966C5b0Be905A",
             "decimals": 18
         }
     ]
