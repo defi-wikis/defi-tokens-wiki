@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T10:38:05.305Z",
+    "timestamp": "2020-09-12T10:44:44.728Z",
     "version": {
         "major": 1,
-        "minor": 150,
+        "minor": 151,
         "patch": 0
     },
     "keywords": [
@@ -827,6 +827,13 @@
             "name": "Wasabi.Finance",
             "symbol": "WAFI",
             "address": "0xdD79B2B4dA5101Eb71808A887c98Ef50A0FbC874",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deficopper.com",
+            "symbol": "DCOP",
+            "address": "0x390cc97854F85DDB7E84229589b3CC7BE16CF0f1",
             "decimals": 18
         }
     ]
