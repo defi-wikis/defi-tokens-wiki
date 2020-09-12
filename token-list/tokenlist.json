@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T21:16:29.175Z",
+    "timestamp": "2020-09-12T21:16:44.062Z",
     "version": {
         "major": 1,
-        "minor": 212,
+        "minor": 213,
         "patch": 0
     },
     "keywords": [
@@ -1261,6 +1261,13 @@
             "name": "Colendi Token",
             "symbol": "COLENDI",
             "address": "0x0cAF75CaDf8264b2524447a8f3b24E7Bf82450fb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yieldfarming.insure",
+            "symbol": "SAFE",
+            "address": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
             "decimals": 18
         }
     ]
