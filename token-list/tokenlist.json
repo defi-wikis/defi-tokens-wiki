@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T10:32:59.007Z",
+    "timestamp": "2020-09-12T10:38:05.305Z",
     "version": {
         "major": 1,
-        "minor": 149,
+        "minor": 150,
         "patch": 0
     },
     "keywords": [
@@ -820,6 +820,13 @@
             "name": "CCRich",
             "symbol": "CCR",
             "address": "0xFA324A14b2190034B6B27f87E6A88b0736297AcB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wasabi.Finance",
+            "symbol": "WAFI",
+            "address": "0xdD79B2B4dA5101Eb71808A887c98Ef50A0FbC874",
             "decimals": 18
         }
     ]
