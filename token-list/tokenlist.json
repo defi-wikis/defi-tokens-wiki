@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T01:29:39.159Z",
+    "timestamp": "2020-09-12T01:36:44.474Z",
     "version": {
         "major": 1,
-        "minor": 116,
+        "minor": 117,
         "patch": 0
     },
     "keywords": [
@@ -590,6 +590,13 @@
             "symbol": "CREED",
             "address": "0x6bA51A4317bCe30A37Fd2568E673D041a221547a",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aurum",
+            "symbol": "AU",
+            "address": "0x2a9BB210921C6d4F80ec0A84b192F138e2f67ed5",
+            "decimals": 0
         }
     ]
 }
