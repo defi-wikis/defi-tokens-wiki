@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T05:24:44.479Z",
+    "timestamp": "2020-09-12T05:36:09.376Z",
     "version": {
         "major": 1,
-        "minor": 127,
+        "minor": 128,
         "patch": 0
     },
     "keywords": [
@@ -667,6 +667,13 @@
             "symbol": "scUSD",
             "address": "0x15FE17Da18288D1799643be1BB07fb939626f5f9",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "True Reply Research Token",
+            "symbol": "REPLY",
+            "address": "0x124D4297E943FD24b72a5737B5e081De0fd1ae9b",
+            "decimals": 18
         }
     ]
 }
