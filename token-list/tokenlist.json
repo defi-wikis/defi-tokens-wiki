@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T09:52:54.182Z",
+    "timestamp": "2020-09-12T10:12:19.438Z",
     "version": {
         "major": 1,
-        "minor": 145,
+        "minor": 146,
         "patch": 0
     },
     "keywords": [
@@ -793,6 +793,13 @@
             "symbol": "YFIIG",
             "address": "0xeF8bA8cBa86f81B3108f60186FCe9c81B5096D5c",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sentcoins.com v3",
+            "symbol": "STC",
+            "address": "0xF6575D4c5F16791427F0BA2b69d81892343763D2",
+            "decimals": 8
         }
     ]
 }
