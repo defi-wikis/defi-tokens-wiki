@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T03:04:24.051Z",
+    "timestamp": "2020-09-12T03:09:14.620Z",
     "version": {
         "major": 1,
-        "minor": 122,
+        "minor": 123,
         "patch": 0
     },
     "keywords": [
@@ -631,6 +631,13 @@
             "name": "YFVToken",
             "symbol": "YFVT",
             "address": "0x86Eb85870C239B82c9Bb77C2A00510e0bb4545d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "moa finance Protocol",
+            "symbol": "MFI",
+            "address": "0x4Ce7e0C5fF485F0e4E19cFb5c0D84bDcf758cBbE",
             "decimals": 18
         }
     ]
