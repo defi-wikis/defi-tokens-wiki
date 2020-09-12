@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T22:01:19.051Z",
+    "timestamp": "2020-09-12T22:07:14.623Z",
     "version": {
         "major": 1,
-        "minor": 217,
+        "minor": 218,
         "patch": 0
     },
     "keywords": [
@@ -1296,6 +1296,13 @@
             "name": "Tofu.Swap",
             "symbol": "TFS",
             "address": "0x1E4033D03bBFfCA405fb213Dd12966C5b0Be905A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZFI",
+            "symbol": "ZFI",
+            "address": "0x2bBF51Bd3f9342F6e44EF6e0cb2E22780D1F23cb",
             "decimals": 18
         }
     ]
