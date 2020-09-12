@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T23:43:19.576Z",
+    "timestamp": "2020-09-12T23:51:49.260Z",
     "version": {
         "major": 1,
-        "minor": 221,
+        "minor": 222,
         "patch": 0
     },
     "keywords": [
@@ -1324,6 +1324,13 @@
             "name": "Hedget",
             "symbol": "HGET",
             "address": "0xdB12f6A6c432fAc0712faCeDfB9DCC684FbC5EDd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ponzi Scheme @ Ponzi.Finance",
+            "symbol": "PONZl",
+            "address": "0x3ab1675EbD895eA7D51D235b07A11FfE8b95ca54",
             "decimals": 18
         }
     ]
