@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T10:27:25.205Z",
+    "timestamp": "2020-09-12T10:32:59.007Z",
     "version": {
         "major": 1,
-        "minor": 148,
+        "minor": 149,
         "patch": 0
     },
     "keywords": [
@@ -813,6 +813,13 @@
             "name": "CC Token",
             "symbol": "CC",
             "address": "0xC4Be51aA8175b77eA9eaA051DbF17d0ebcc66C4f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CCRich",
+            "symbol": "CCR",
+            "address": "0xFA324A14b2190034B6B27f87E6A88b0736297AcB",
             "decimals": 18
         }
     ]
