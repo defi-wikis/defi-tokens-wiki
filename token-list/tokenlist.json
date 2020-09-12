@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T03:32:43.962Z",
+    "timestamp": "2020-09-12T04:00:14.350Z",
     "version": {
         "major": 1,
-        "minor": 124,
+        "minor": 125,
         "patch": 0
     },
     "keywords": [
@@ -645,6 +645,13 @@
             "name": "devilfinance",
             "symbol": "DVL",
             "address": "0xDC1361b81eBBf0F882a11D933e6FE4746D5FcB3e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OnlyDak",
+            "symbol": "Dak",
+            "address": "0x4d5d7F9AA6d188b9386A2Fb55b550697Fa52E9C1",
             "decimals": 18
         }
     ]
