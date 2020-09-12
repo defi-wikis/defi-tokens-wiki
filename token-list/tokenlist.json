@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T20:18:05.839Z",
+    "timestamp": "2020-09-12T20:25:58.720Z",
     "version": {
         "major": 1,
-        "minor": 207,
+        "minor": 208,
         "patch": 0
     },
     "keywords": [
@@ -1226,6 +1226,13 @@
             "name": "chads.vc",
             "symbol": "$CHADS",
             "address": "0xa1B337021a78102d79EBC73634ab145E32fDBA5b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "chads.vc",
+            "symbol": "CHADS",
+            "address": "0x69692D3345010a207b759a7D1af6fc7F38b35c5E",
             "decimals": 18
         }
     ]
