@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T11:45:44.096Z",
+    "timestamp": "2020-09-12T12:11:19.588Z",
     "version": {
         "major": 1,
-        "minor": 159,
+        "minor": 160,
         "patch": 0
     },
     "keywords": [
@@ -890,6 +890,13 @@
             "name": "LollipopSwap.org",
             "symbol": "LOLLIPOP",
             "address": "0xF59142b05b8c02CDD8ea3066152C38423179e6CD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PITAYAswap",
+            "symbol": "PITAYA",
+            "address": "0x9527Bf8828a991537558f33d291271b206376412",
             "decimals": 18
         }
     ]
