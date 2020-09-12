@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T11:06:14.968Z",
+    "timestamp": "2020-09-12T11:13:59.229Z",
     "version": {
         "major": 1,
-        "minor": 156,
+        "minor": 157,
         "patch": 0
     },
     "keywords": [
@@ -870,6 +870,13 @@
             "symbol": "coral",
             "address": "0xC26Acad10f9EF48d4f79ebFE6a274DbeF4eB1357",
             "decimals": 12
+        },
+        {
+            "chainId": 1,
+            "name": "Seaco Network",
+            "symbol": "SNK",
+            "address": "0xa230A73bcB5bE51D1828D32383077b2779407862",
+            "decimals": 18
         }
     ]
 }
