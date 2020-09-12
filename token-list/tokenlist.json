@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T13:51:19.000Z",
+    "timestamp": "2020-09-12T13:55:14.555Z",
     "version": {
         "major": 1,
-        "minor": 169,
+        "minor": 170,
         "patch": 0
     },
     "keywords": [
@@ -961,6 +961,13 @@
             "symbol": "YFIIG",
             "address": "0x55624eF714A9f5e6201e8D83B1BB7bab8B834514",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RubySwap.exchange",
+            "symbol": "RUBY",
+            "address": "0x4C1911A80474991be7AE8BCB7e100ede8e3de657",
+            "decimals": 0
         }
     ]
 }
