@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:11:05.383Z",
+    "timestamp": "2020-09-12T18:18:38.964Z",
     "version": {
         "major": 1,
-        "minor": 196,
+        "minor": 197,
         "patch": 0
     },
     "keywords": [
@@ -1149,6 +1149,13 @@
             "name": "yfbtc.finance",
             "symbol": "YFBTC",
             "address": "0x368118EA45de7B134676cd41b39dE82143da694b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "perp.finance",
+            "symbol": "DEGO",
+            "address": "0x9490e2E03Fa4d653aeed991b01990e0682d91034",
             "decimals": 18
         }
     ]
