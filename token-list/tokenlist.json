@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T12:11:19.588Z",
+    "timestamp": "2020-09-12T12:24:34.600Z",
     "version": {
         "major": 1,
-        "minor": 160,
+        "minor": 161,
         "patch": 0
     },
     "keywords": [
@@ -897,6 +897,13 @@
             "name": "PITAYAswap",
             "symbol": "PITAYA",
             "address": "0x9527Bf8828a991537558f33d291271b206376412",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Scale Network",
+            "symbol": "YES",
+            "address": "0x202Ba3136e02B863F856276C5703a1Bfdd3B5dC7",
             "decimals": 18
         }
     ]
