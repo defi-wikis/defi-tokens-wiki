@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T08:01:34.375Z",
+    "timestamp": "2020-09-12T08:22:39.428Z",
     "version": {
         "major": 1,
-        "minor": 137,
+        "minor": 138,
         "patch": 0
     },
     "keywords": [
@@ -736,6 +736,13 @@
             "name": "SAMURAI",
             "symbol": "SAM",
             "address": "0x53378825D95281737914a8A2ac0E5A9304aE5Ed7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfdelta.finance",
+            "symbol": "YFDELTA",
+            "address": "0xCB6C1Bb3585B3a358eB74357e0d077eFe89edE1d",
             "decimals": 18
         }
     ]
