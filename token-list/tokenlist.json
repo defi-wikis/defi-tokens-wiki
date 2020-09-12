@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T13:44:54.979Z",
+    "timestamp": "2020-09-12T13:45:49.856Z",
     "version": {
         "major": 1,
-        "minor": 167,
+        "minor": 168,
         "patch": 0
     },
     "keywords": [
@@ -946,6 +946,13 @@
             "name": "EVZ",
             "symbol": "EVZ",
             "address": "0x7A939Bb714fd2A48EbeB1E495AA9aaa74BA9fA68",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YBlock.Finance",
+            "symbol": "YBF",
+            "address": "0xfc0D6BEA5303aa2868F412839dBAbaB7B5688e8E",
             "decimals": 18
         }
     ]
