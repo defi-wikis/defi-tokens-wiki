@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T14:39:34.149Z",
+    "timestamp": "2020-09-12T14:58:09.499Z",
     "version": {
         "major": 1,
-        "minor": 172,
+        "minor": 173,
         "patch": 0
     },
     "keywords": [
@@ -981,6 +981,13 @@
             "name": "Mettalex",
             "symbol": "MTLX",
             "address": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Snipp Finance",
+            "symbol": "SNIPP",
+            "address": "0x056527c9F79E65A63394B14A5d98e06a7306F8DF",
             "decimals": 18
         }
     ]
