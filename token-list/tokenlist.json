@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T06:53:39.064Z",
+    "timestamp": "2020-09-12T06:59:51.461Z",
     "version": {
         "major": 1,
-        "minor": 131,
+        "minor": 132,
         "patch": 0
     },
     "keywords": [
@@ -694,6 +694,13 @@
             "name": "YearnFastBlast.Finance",
             "symbol": "YFBF",
             "address": "0x86a20EDC194CA0504CCc03d068197348A66E6FD8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Iq invest token",
+            "symbol": "IQI",
+            "address": "0xB9076BB251285aa70E05d38fB1c061474AeFdb7a",
             "decimals": 18
         }
     ]
