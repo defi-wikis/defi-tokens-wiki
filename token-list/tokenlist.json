@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:06:39.629Z",
+    "timestamp": "2020-09-12T17:19:34.169Z",
     "version": {
         "major": 1,
-        "minor": 184,
+        "minor": 185,
         "patch": 0
     },
     "keywords": [
@@ -1066,6 +1066,13 @@
             "symbol": "JAC",
             "address": "0x345972d4FeB4bEAe93999C8A4573F8DFf4d95da9",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Anal Sex Lovers",
+            "symbol": "ANAL",
+            "address": "0xFc42C999240E32fD2cA254bA27C9BAE2279a65F4",
+            "decimals": 18
         }
     ]
 }
