@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T11:05:55.433Z",
+    "timestamp": "2020-09-12T11:06:14.968Z",
     "version": {
         "major": 1,
-        "minor": 155,
+        "minor": 156,
         "patch": 0
     },
     "keywords": [
@@ -863,6 +863,13 @@
             "symbol": "YFIIG",
             "address": "0x6FDB15240D1337F09E2AB497ef5fA7d4956776DE",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "coral.finance",
+            "symbol": "coral",
+            "address": "0xC26Acad10f9EF48d4f79ebFE6a274DbeF4eB1357",
+            "decimals": 12
         }
     ]
 }
