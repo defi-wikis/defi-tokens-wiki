@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T12:27:39.045Z",
+    "timestamp": "2020-09-12T12:29:24.292Z",
     "version": {
         "major": 1,
-        "minor": 162,
+        "minor": 163,
         "patch": 0
     },
     "keywords": [
@@ -911,6 +911,13 @@
             "name": "Smart Trade",
             "symbol": "STE",
             "address": "0x3114D0051bB688D9472e541342A5ce156d9aEb87",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "samurai token",
+            "symbol": "SAM",
+            "address": "0x5Ea1518ebD3b56Ed6f29a960F68C4bD3bD8a11F3",
             "decimals": 18
         }
     ]
