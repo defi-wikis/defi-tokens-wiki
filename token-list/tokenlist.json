@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T15:37:49.618Z",
+    "timestamp": "2020-09-12T16:04:05.803Z",
     "version": {
         "major": 1,
-        "minor": 176,
+        "minor": 177,
         "patch": 0
     },
     "keywords": [
@@ -1009,6 +1009,13 @@
             "name": "Soft Yearn Finance",
             "symbol": "SYFI",
             "address": "0xe3D65e9919E8D5Af43a15a5756062aa6b8DcB4c4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.Cash",
+            "symbol": "YCH",
+            "address": "0x152c70DB0A27d07AF54BC73e3E8c3C90F79369B5",
             "decimals": 18
         }
     ]
