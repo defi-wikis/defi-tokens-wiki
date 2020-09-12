@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T02:15:12.837Z",
+    "timestamp": "2020-09-12T02:25:59.303Z",
     "version": {
         "major": 1,
-        "minor": 118,
+        "minor": 119,
         "patch": 0
     },
     "keywords": [
@@ -603,6 +603,13 @@
             "name": "Phala",
             "symbol": "PHA",
             "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EggSwap.org",
+            "symbol": "EGG",
+            "address": "0x774b5B07Ceff197eDe1E5FCc9c793656964A1707",
             "decimals": 18
         }
     ]
