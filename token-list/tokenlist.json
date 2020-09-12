@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T15:35:14.805Z",
+    "timestamp": "2020-09-12T15:37:49.618Z",
     "version": {
         "major": 1,
-        "minor": 175,
+        "minor": 176,
         "patch": 0
     },
     "keywords": [
@@ -1002,6 +1002,13 @@
             "name": "YearnFairFastFarming.Finance",
             "symbol": "YFFFF",
             "address": "0x006A825bB45E38A58A2d5ecBf9e2353a8F3A859F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soft Yearn Finance",
+            "symbol": "SYFI",
+            "address": "0xe3D65e9919E8D5Af43a15a5756062aa6b8DcB4c4",
             "decimals": 18
         }
     ]
