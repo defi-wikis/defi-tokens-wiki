@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T11:13:59.229Z",
+    "timestamp": "2020-09-12T11:20:19.557Z",
     "version": {
         "major": 1,
-        "minor": 157,
+        "minor": 158,
         "patch": 0
     },
     "keywords": [
@@ -876,6 +876,13 @@
             "name": "Seaco Network",
             "symbol": "SNK",
             "address": "0xa230A73bcB5bE51D1828D32383077b2779407862",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sun Balancer",
+            "symbol": "SUNB",
+            "address": "0xb1E8Dd67A9cE15b3C7BE9951e9207a4C8C12993D",
             "decimals": 18
         }
     ]
