@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T21:36:29.756Z",
+    "timestamp": "2020-09-12T21:41:25.311Z",
     "version": {
         "major": 1,
-        "minor": 215,
+        "minor": 216,
         "patch": 0
     },
     "keywords": [
@@ -1282,6 +1282,13 @@
             "name": "YEET",
             "symbol": "YEET",
             "address": "0xaA62A002CE856D9fe1874E7f8558a38Fc1E49CCA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soy.Finance",
+            "symbol": "SOFI",
+            "address": "0xACcdd6eC6AD44c4b7322B54731a82cEC49A8CDd7",
             "decimals": 18
         }
     ]
