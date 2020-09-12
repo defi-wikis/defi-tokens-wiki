@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T11:20:19.557Z",
+    "timestamp": "2020-09-12T11:45:44.096Z",
     "version": {
         "major": 1,
-        "minor": 158,
+        "minor": 159,
         "patch": 0
     },
     "keywords": [
@@ -883,6 +883,13 @@
             "name": "Sun Balancer",
             "symbol": "SUNB",
             "address": "0xb1E8Dd67A9cE15b3C7BE9951e9207a4C8C12993D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LollipopSwap.org",
+            "symbol": "LOLLIPOP",
+            "address": "0xF59142b05b8c02CDD8ea3066152C38423179e6CD",
             "decimals": 18
         }
     ]
