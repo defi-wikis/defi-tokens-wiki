@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T13:42:35.369Z",
+    "timestamp": "2020-09-12T13:44:54.979Z",
     "version": {
         "major": 1,
-        "minor": 166,
+        "minor": 167,
         "patch": 0
     },
     "keywords": [
@@ -940,6 +940,13 @@
             "symbol": "HGET",
             "address": "0x237e6C502B2E218E04A77B2A84f42236301011c1",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "EVZ",
+            "symbol": "EVZ",
+            "address": "0x7A939Bb714fd2A48EbeB1E495AA9aaa74BA9fA68",
+            "decimals": 18
         }
     ]
 }
