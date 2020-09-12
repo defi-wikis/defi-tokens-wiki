@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T06:18:49.353Z",
+    "timestamp": "2020-09-12T06:53:39.064Z",
     "version": {
         "major": 1,
-        "minor": 130,
+        "minor": 131,
         "patch": 0
     },
     "keywords": [
@@ -687,6 +687,13 @@
             "name": "PepperSwap.org",
             "symbol": "PEPPER",
             "address": "0xA72079f5619c457994700d95C92096010566bf0b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFastBlast.Finance",
+            "symbol": "YFBF",
+            "address": "0x86a20EDC194CA0504CCc03d068197348A66E6FD8",
             "decimals": 18
         }
     ]
