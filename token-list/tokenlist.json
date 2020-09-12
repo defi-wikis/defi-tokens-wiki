@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T01:21:07.299Z",
+    "timestamp": "2020-09-12T01:29:39.159Z",
     "version": {
         "major": 1,
-        "minor": 115,
+        "minor": 116,
         "patch": 0
     },
     "keywords": [
@@ -583,6 +583,13 @@
             "symbol": "STC",
             "address": "0xd7a70da492498a19078ACcAA4ABE0Cc28EE8E098",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Creed Finance",
+            "symbol": "CREED",
+            "address": "0x6bA51A4317bCe30A37Fd2568E673D041a221547a",
+            "decimals": 18
         }
     ]
 }
