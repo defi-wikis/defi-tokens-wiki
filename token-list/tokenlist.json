@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T16:13:39.861Z",
+    "timestamp": "2020-09-12T16:22:19.228Z",
     "version": {
         "major": 1,
-        "minor": 180,
+        "minor": 181,
         "patch": 0
     },
     "keywords": [
@@ -1038,6 +1038,13 @@
             "symbol": "BEANS",
             "address": "0x7E9aB6f6d3E2b564A4134946F99dEFF720b45463",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "RubySwap.exchange Official",
+            "symbol": "RUBY",
+            "address": "0x97CD6168F329a86B2697936Cd5ff1b9287D1FB12",
+            "decimals": 18
         }
     ]
 }
