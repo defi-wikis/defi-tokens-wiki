@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T00:08:29.724Z",
+    "timestamp": "2020-09-12T00:15:14.590Z",
     "version": {
         "major": 1,
-        "minor": 108,
+        "minor": 109,
         "patch": 0
     },
     "keywords": [
@@ -533,6 +533,13 @@
             "name": "Korz Finance",
             "symbol": "KORZ",
             "address": "0xDF73FD1e0CF083ae9161794dc17d87cBD499381a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KKK",
+            "symbol": "KKK",
+            "address": "0x978e2b0657576b9E990004745584bB46E8D249Ad",
             "decimals": 18
         }
     ]
