@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T00:15:14.590Z",
+    "timestamp": "2020-09-12T00:23:54.080Z",
     "version": {
         "major": 1,
-        "minor": 109,
+        "minor": 110,
         "patch": 0
     },
     "keywords": [
@@ -540,6 +540,13 @@
             "name": "KKK",
             "symbol": "KKK",
             "address": "0x978e2b0657576b9E990004745584bB46E8D249Ad",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PotFinance",
+            "symbol": "yPOT",
+            "address": "0x943a589e094538D9A7f457AaF10d7b8Ab7C9a92E",
             "decimals": 18
         }
     ]
