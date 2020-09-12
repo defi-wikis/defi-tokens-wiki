@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T16:04:05.803Z",
+    "timestamp": "2020-09-12T16:10:24.583Z",
     "version": {
         "major": 1,
-        "minor": 177,
+        "minor": 178,
         "patch": 0
     },
     "keywords": [
@@ -1017,6 +1017,13 @@
             "symbol": "YCH",
             "address": "0x152c70DB0A27d07AF54BC73e3E8c3C90F79369B5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFlex.Finance",
+            "symbol": "YFLEX",
+            "address": "0x62Fe4D7c2f851F5d49ec756BBbB8B051F27086e0",
+            "decimals": 2
         }
     ]
 }
