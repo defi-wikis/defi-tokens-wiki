@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T08:31:54.586Z",
+    "timestamp": "2020-09-12T08:36:14.369Z",
     "version": {
         "major": 1,
-        "minor": 140,
+        "minor": 141,
         "patch": 0
     },
     "keywords": [
@@ -758,6 +758,13 @@
             "symbol": "TOUCH",
             "address": "0xB0Ab2381B967018cD0Edfdf77216b06aF0538d48",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Isik Coin",
+            "symbol": "ISIKC",
+            "address": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
+            "decimals": 4
         }
     ]
 }
