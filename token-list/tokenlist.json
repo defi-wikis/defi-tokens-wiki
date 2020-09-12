@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:51:28.943Z",
+    "timestamp": "2020-09-12T17:57:24.949Z",
     "version": {
         "major": 1,
-        "minor": 192,
+        "minor": 193,
         "patch": 0
     },
     "keywords": [
@@ -1121,6 +1121,13 @@
             "name": "ZEON",
             "symbol": "ZEON",
             "address": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "perp.finance",
+            "symbol": "PERP",
+            "address": "0x5d3c4C8F2399E0FC0500F97fdEbD9Da2033B9d48",
             "decimals": 18
         }
     ]
