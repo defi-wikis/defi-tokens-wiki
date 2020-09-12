@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T08:22:39.428Z",
+    "timestamp": "2020-09-12T08:30:12.456Z",
     "version": {
         "major": 1,
-        "minor": 138,
+        "minor": 139,
         "patch": 0
     },
     "keywords": [
@@ -743,6 +743,13 @@
             "name": "yfdelta.finance",
             "symbol": "YFDELTA",
             "address": "0xCB6C1Bb3585B3a358eB74357e0d077eFe89edE1d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DanteMyth Network",
+            "symbol": "DMN",
+            "address": "0x47AC83906da2c038D802123cA0d97E50Bf8FC2db",
             "decimals": 18
         }
     ]
