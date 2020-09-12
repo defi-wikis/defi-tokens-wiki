@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T01:36:44.474Z",
+    "timestamp": "2020-09-12T02:15:12.837Z",
     "version": {
         "major": 1,
-        "minor": 117,
+        "minor": 118,
         "patch": 0
     },
     "keywords": [
@@ -597,6 +597,13 @@
             "symbol": "AU",
             "address": "0x2a9BB210921C6d4F80ec0A84b192F138e2f67ed5",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Phala",
+            "symbol": "PHA",
+            "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+            "decimals": 18
         }
     ]
 }
