@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:01:14.934Z",
+    "timestamp": "2020-09-12T18:06:39.222Z",
     "version": {
         "major": 1,
-        "minor": 194,
+        "minor": 195,
         "patch": 0
     },
     "keywords": [
@@ -1135,6 +1135,13 @@
             "name": "YearnBumperHarvest.Finance",
             "symbol": "YBHF",
             "address": "0xE34b52cA0B010608a078B168aEa273E6EEDe8cF0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Seppuku.me",
+            "symbol": "SEPPUKU",
+            "address": "0x02DDbc11e2447108Dd983e60Fa0a7D5a7d7b563a",
             "decimals": 18
         }
     ]
