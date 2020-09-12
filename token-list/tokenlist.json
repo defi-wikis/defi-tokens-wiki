@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T07:13:39.385Z",
+    "timestamp": "2020-09-12T07:37:34.046Z",
     "version": {
         "major": 1,
-        "minor": 135,
+        "minor": 136,
         "patch": 0
     },
     "keywords": [
@@ -723,6 +723,13 @@
             "symbol": "ASAC",
             "address": "0x6913cCabBC337F0ea7b4109dd8200D61c704D332",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Naira Swap",
+            "symbol": "NGNS",
+            "address": "0x951309028857034B65CB7F779f0a3E59EF3E7CC3",
+            "decimals": 18
         }
     ]
 }
