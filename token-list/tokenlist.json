@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T11:03:24.610Z",
+    "timestamp": "2020-09-12T11:05:55.433Z",
     "version": {
         "major": 1,
-        "minor": 154,
+        "minor": 155,
         "patch": 0
     },
     "keywords": [
@@ -855,6 +855,13 @@
             "name": "kklip",
             "symbol": "KLIP",
             "address": "0x8d696103b6D654AE48FFe76389aFEbBd1e599422",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFII Gold",
+            "symbol": "YFIIG",
+            "address": "0x6FDB15240D1337F09E2AB497ef5fA7d4956776DE",
             "decimals": 18
         }
     ]
