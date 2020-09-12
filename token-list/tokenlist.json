@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T11:00:54.220Z",
+    "timestamp": "2020-09-12T11:03:24.610Z",
     "version": {
         "major": 1,
-        "minor": 153,
+        "minor": 154,
         "patch": 0
     },
     "keywords": [
@@ -848,6 +848,13 @@
             "name": "EVERYONESCRYPTO",
             "symbol": "EOC",
             "address": "0xA8006e3Ac1bD94e54E3136B8e5dD75db0163e6f4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "kklip",
+            "symbol": "KLIP",
+            "address": "0x8d696103b6D654AE48FFe76389aFEbBd1e599422",
             "decimals": 18
         }
     ]
