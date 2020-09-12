@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:05:07.069Z",
+    "timestamp": "2020-09-12T17:06:39.629Z",
     "version": {
         "major": 1,
-        "minor": 183,
+        "minor": 184,
         "patch": 0
     },
     "keywords": [
@@ -1059,6 +1059,13 @@
             "symbol": "LTX",
             "address": "0x6ad758757C2764ED8958B04Ec03338159b03D59F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jackbit",
+            "symbol": "JAC",
+            "address": "0x345972d4FeB4bEAe93999C8A4573F8DFf4d95da9",
+            "decimals": 8
         }
     ]
 }
