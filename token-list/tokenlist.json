@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T06:59:51.461Z",
+    "timestamp": "2020-09-12T07:07:59.085Z",
     "version": {
         "major": 1,
-        "minor": 132,
+        "minor": 133,
         "patch": 0
     },
     "keywords": [
@@ -701,6 +701,13 @@
             "name": "Iq invest token",
             "symbol": "IQI",
             "address": "0xB9076BB251285aa70E05d38fB1c061474AeFdb7a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ponzi Scheme @ Ponzi.Finance",
+            "symbol": "PONZI",
+            "address": "0xD4501b7449b444072cCaaa53A2FCA348c7c34e0a",
             "decimals": 18
         }
     ]
