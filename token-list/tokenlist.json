@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T21:15:59.047Z",
+    "timestamp": "2020-09-12T21:16:29.175Z",
     "version": {
         "major": 1,
-        "minor": 211,
+        "minor": 212,
         "patch": 0
     },
     "keywords": [
@@ -1255,6 +1255,13 @@
             "symbol": "HGET",
             "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Colendi Token",
+            "symbol": "COLENDI",
+            "address": "0x0cAF75CaDf8264b2524447a8f3b24E7Bf82450fb",
+            "decimals": 18
         }
     ]
 }
