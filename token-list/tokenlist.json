@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T10:13:44.141Z",
+    "timestamp": "2020-09-12T10:27:25.205Z",
     "version": {
         "major": 1,
-        "minor": 147,
+        "minor": 148,
         "patch": 0
     },
     "keywords": [
@@ -806,6 +806,13 @@
             "name": "AvocadoSwap.org",
             "symbol": "Avocado",
             "address": "0x2FD851d98211038eF59A0755584888350d14B71C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CC Token",
+            "symbol": "CC",
+            "address": "0xC4Be51aA8175b77eA9eaA051DbF17d0ebcc66C4f",
             "decimals": 18
         }
     ]
