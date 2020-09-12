@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:39:07.177Z",
+    "timestamp": "2020-09-12T17:40:39.035Z",
     "version": {
         "major": 1,
-        "minor": 188,
+        "minor": 189,
         "patch": 0
     },
     "keywords": [
@@ -1093,6 +1093,13 @@
             "name": "Fuel Finance",
             "symbol": "YFUEL",
             "address": "0xbD301BE09eB78Df47019aa833D29eDc5D815D838",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ParticleSwap",
+            "symbol": "PTS",
+            "address": "0xe86faD3D3Df05eBC12a3f78F8164cf54a1DE8435",
             "decimals": 18
         }
     ]
