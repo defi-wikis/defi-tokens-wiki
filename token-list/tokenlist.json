@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T20:56:29.804Z",
+    "timestamp": "2020-09-12T21:15:59.047Z",
     "version": {
         "major": 1,
-        "minor": 210,
+        "minor": 211,
         "patch": 0
     },
     "keywords": [
@@ -1248,6 +1248,13 @@
             "symbol": "SSN",
             "address": "0xc8A80F1950A9019034Ed1C0B5f0bd078126D0384",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hedget",
+            "symbol": "HGET",
+            "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+            "decimals": 6
         }
     ]
 }
