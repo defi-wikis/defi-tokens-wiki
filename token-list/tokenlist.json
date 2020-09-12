@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T06:03:14.580Z",
+    "timestamp": "2020-09-12T06:18:49.353Z",
     "version": {
         "major": 1,
-        "minor": 129,
+        "minor": 130,
         "patch": 0
     },
     "keywords": [
@@ -680,6 +680,13 @@
             "name": "Synapse",
             "symbol": "SYN",
             "address": "0x0fA11B3bb6320574773DE4A27c28d5E8596210f8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PepperSwap.org",
+            "symbol": "PEPPER",
+            "address": "0xA72079f5619c457994700d95C92096010566bf0b",
             "decimals": 18
         }
     ]
