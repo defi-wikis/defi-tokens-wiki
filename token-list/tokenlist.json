@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T00:44:49.907Z",
+    "timestamp": "2020-09-12T00:48:54.597Z",
     "version": {
         "major": 1,
-        "minor": 112,
+        "minor": 113,
         "patch": 0
     },
     "keywords": [
@@ -561,6 +561,13 @@
             "name": "based token",
             "symbol": "based",
             "address": "0x4E81c2B1D7c616aF022ddc7552918EdBd817AeCb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ropst Finance",
+            "symbol": "RPST",
+            "address": "0x9c738427DfA6B57cBcE7132Cb79DE2D42b364453",
             "decimals": 18
         }
     ]
