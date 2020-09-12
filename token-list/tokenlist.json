@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:56:09.852Z",
+    "timestamp": "2020-09-12T18:59:48.646Z",
     "version": {
         "major": 1,
-        "minor": 201,
+        "minor": 202,
         "patch": 0
     },
     "keywords": [
@@ -1184,6 +1184,13 @@
             "name": "MagnusCapital",
             "symbol": "MGC",
             "address": "0xad352Dc52084Ea38DF72937F9eca021C1c69Cf34",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dego.finance",
+            "symbol": "DEGO",
+            "address": "0x88EF27e69108B2633F8E1C184CC37940A075cC02",
             "decimals": 18
         }
     ]
