@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T19:04:34.833Z",
+    "timestamp": "2020-09-12T19:27:59.383Z",
     "version": {
         "major": 1,
-        "minor": 203,
+        "minor": 204,
         "patch": 0
     },
     "keywords": [
@@ -1198,6 +1198,13 @@
             "name": "Hegic",
             "symbol": "HEGIC",
             "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yeild Tomato Farming Finance",
+            "symbol": "YTFF",
+            "address": "0x2E91c777cdc113875Cd793C634128452E6C43aAE",
             "decimals": 18
         }
     ]
