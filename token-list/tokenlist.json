@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T10:54:09.190Z",
+    "timestamp": "2020-09-12T11:00:54.220Z",
     "version": {
         "major": 1,
-        "minor": 152,
+        "minor": 153,
         "patch": 0
     },
     "keywords": [
@@ -841,6 +841,13 @@
             "name": "Ponzi Scheme @ Ponzi.Finance",
             "symbol": "P0NZI",
             "address": "0xF4eEA0E5064ACEC26Bc5DEf978dEb5dA42678321",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EVERYONESCRYPTO",
+            "symbol": "EOC",
+            "address": "0xA8006e3Ac1bD94e54E3136B8e5dD75db0163e6f4",
             "decimals": 18
         }
     ]
