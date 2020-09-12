@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T12:29:24.292Z",
+    "timestamp": "2020-09-12T12:58:39.178Z",
     "version": {
         "major": 1,
-        "minor": 163,
+        "minor": 164,
         "patch": 0
     },
     "keywords": [
@@ -918,6 +918,13 @@
             "name": "samurai token",
             "symbol": "SAM",
             "address": "0x5Ea1518ebD3b56Ed6f29a960F68C4bD3bD8a11F3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "chads.vc",
+            "symbol": "CHADS",
+            "address": "0xd5F2C713354dE987Af07DEa8E88D25acFd4C0F13",
             "decimals": 18
         }
     ]
