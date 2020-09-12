@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T16:12:44.230Z",
+    "timestamp": "2020-09-12T16:13:39.861Z",
     "version": {
         "major": 1,
-        "minor": 179,
+        "minor": 180,
         "patch": 0
     },
     "keywords": [
@@ -1031,6 +1031,13 @@
             "symbol": "CREAM",
             "address": "0x449bE56720ed4C3ac9310D3af4429a960b74A9A0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "beans.farm",
+            "symbol": "BEANS",
+            "address": "0x7E9aB6f6d3E2b564A4134946F99dEFF720b45463",
+            "decimals": 2
         }
     ]
 }
