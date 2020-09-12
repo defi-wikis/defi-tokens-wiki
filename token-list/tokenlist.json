@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T03:09:14.620Z",
+    "timestamp": "2020-09-12T03:32:43.962Z",
     "version": {
         "major": 1,
-        "minor": 123,
+        "minor": 124,
         "patch": 0
     },
     "keywords": [
@@ -638,6 +638,13 @@
             "name": "moa finance Protocol",
             "symbol": "MFI",
             "address": "0x4Ce7e0C5fF485F0e4E19cFb5c0D84bDcf758cBbE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "devilfinance",
+            "symbol": "DVL",
+            "address": "0xDC1361b81eBBf0F882a11D933e6FE4746D5FcB3e",
             "decimals": 18
         }
     ]
