@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T13:55:14.555Z",
+    "timestamp": "2020-09-12T14:36:34.220Z",
     "version": {
         "major": 1,
-        "minor": 170,
+        "minor": 171,
         "patch": 0
     },
     "keywords": [
@@ -968,6 +968,13 @@
             "symbol": "RUBY",
             "address": "0x4C1911A80474991be7AE8BCB7e100ede8e3de657",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Sumo.finance Token",
+            "symbol": "SUFI",
+            "address": "0x1C4D7A931106afdA5fD12bEeC129a4E809E79786",
+            "decimals": 18
         }
     ]
 }
