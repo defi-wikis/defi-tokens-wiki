@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T19:57:14.436Z",
+    "timestamp": "2020-09-12T20:10:09.416Z",
     "version": {
         "major": 1,
-        "minor": 205,
+        "minor": 206,
         "patch": 0
     },
     "keywords": [
@@ -1212,6 +1212,13 @@
             "name": "MutantToken",
             "symbol": "MUTANT",
             "address": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZYTH",
+            "symbol": "ZYTH",
+            "address": "0x8B347235C4b6571cFe18Ef7BAc4Be2029e1A3d25",
             "decimals": 18
         }
     ]
