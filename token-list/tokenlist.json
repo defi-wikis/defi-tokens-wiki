@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T10:12:19.438Z",
+    "timestamp": "2020-09-12T10:13:44.141Z",
     "version": {
         "major": 1,
-        "minor": 146,
+        "minor": 147,
         "patch": 0
     },
     "keywords": [
@@ -800,6 +800,13 @@
             "symbol": "STC",
             "address": "0xF6575D4c5F16791427F0BA2b69d81892343763D2",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "AvocadoSwap.org",
+            "symbol": "Avocado",
+            "address": "0x2FD851d98211038eF59A0755584888350d14B71C",
+            "decimals": 18
         }
     ]
 }
