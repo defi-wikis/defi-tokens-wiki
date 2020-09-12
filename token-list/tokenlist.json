@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T22:44:48.829Z",
+    "timestamp": "2020-09-12T23:43:19.576Z",
     "version": {
         "major": 1,
-        "minor": 220,
+        "minor": 221,
         "patch": 0
     },
     "keywords": [
@@ -1317,6 +1317,13 @@
             "name": "devilfinance",
             "symbol": "DVL",
             "address": "0x881eEcfb2E8514c1ea93040D3C0e050490752a53",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hedget",
+            "symbol": "HGET",
+            "address": "0xdB12f6A6c432fAc0712faCeDfB9DCC684FbC5EDd",
             "decimals": 18
         }
     ]
