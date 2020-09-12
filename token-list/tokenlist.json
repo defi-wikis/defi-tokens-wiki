@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T20:38:34.198Z",
+    "timestamp": "2020-09-12T20:56:29.804Z",
     "version": {
         "major": 1,
-        "minor": 209,
+        "minor": 210,
         "patch": 0
     },
     "keywords": [
@@ -1240,6 +1240,13 @@
             "name": "YQYQ",
             "symbol": "YQYQ",
             "address": "0xf1b48BEEE9Cd78f29c6D9815Ca2C5498B5121CdB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sunshine Network",
+            "symbol": "SSN",
+            "address": "0xc8A80F1950A9019034Ed1C0B5f0bd078126D0384",
             "decimals": 18
         }
     ]
