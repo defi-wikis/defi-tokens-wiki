@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T21:16:44.062Z",
+    "timestamp": "2020-09-12T21:22:45.462Z",
     "version": {
         "major": 1,
-        "minor": 213,
+        "minor": 214,
         "patch": 0
     },
     "keywords": [
@@ -1268,6 +1268,13 @@
             "name": "yieldfarming.insure",
             "symbol": "SAFE",
             "address": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.cash",
+            "symbol": "YCH",
+            "address": "0x3D48046f6213451FAaF06C5953D7394c13590Ec4",
             "decimals": 18
         }
     ]
