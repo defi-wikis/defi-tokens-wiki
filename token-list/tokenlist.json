@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T14:36:34.220Z",
+    "timestamp": "2020-09-12T14:39:34.149Z",
     "version": {
         "major": 1,
-        "minor": 171,
+        "minor": 172,
         "patch": 0
     },
     "keywords": [
@@ -974,6 +974,13 @@
             "name": "Sumo.finance Token",
             "symbol": "SUFI",
             "address": "0x1C4D7A931106afdA5fD12bEeC129a4E809E79786",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mettalex",
+            "symbol": "MTLX",
+            "address": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
             "decimals": 18
         }
     ]
