@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T07:07:59.085Z",
+    "timestamp": "2020-09-12T07:13:09.494Z",
     "version": {
         "major": 1,
-        "minor": 133,
+        "minor": 134,
         "patch": 0
     },
     "keywords": [
@@ -708,6 +708,13 @@
             "name": "Ponzi Scheme @ Ponzi.Finance",
             "symbol": "PONZI",
             "address": "0xD4501b7449b444072cCaaa53A2FCA348c7c34e0a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfiworld.network",
+            "symbol": "YFIW",
+            "address": "0x22852adbCE944149c0996c6EDD7eE8d6E9C5f5d4",
             "decimals": 18
         }
     ]
