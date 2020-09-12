@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T13:45:49.856Z",
+    "timestamp": "2020-09-12T13:51:19.000Z",
     "version": {
         "major": 1,
-        "minor": 168,
+        "minor": 169,
         "patch": 0
     },
     "keywords": [
@@ -953,6 +953,13 @@
             "name": "YBlock.Finance",
             "symbol": "YBF",
             "address": "0xfc0D6BEA5303aa2868F412839dBAbaB7B5688e8E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFII Gold",
+            "symbol": "YFIIG",
+            "address": "0x55624eF714A9f5e6201e8D83B1BB7bab8B834514",
             "decimals": 18
         }
     ]
