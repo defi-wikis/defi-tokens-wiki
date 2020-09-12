@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:18:38.964Z",
+    "timestamp": "2020-09-12T18:27:59.408Z",
     "version": {
         "major": 1,
-        "minor": 197,
+        "minor": 198,
         "patch": 0
     },
     "keywords": [
@@ -1157,6 +1157,13 @@
             "symbol": "DEGO",
             "address": "0x9490e2E03Fa4d653aeed991b01990e0682d91034",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Grey.holdings",
+            "symbol": "TEST",
+            "address": "0x2b9dDe565ddF9B736C9051286b216f66A8219e36",
+            "decimals": 0
         }
     ]
 }
