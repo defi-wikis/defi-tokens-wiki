@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T02:43:34.417Z",
+    "timestamp": "2020-09-12T03:04:24.051Z",
     "version": {
         "major": 1,
-        "minor": 121,
+        "minor": 122,
         "patch": 0
     },
     "keywords": [
@@ -625,6 +625,13 @@
             "symbol": "SYFI",
             "address": "0x322124122DF407b0d0D902cB713B3714FB2e2E1F",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "YFVToken",
+            "symbol": "YFVT",
+            "address": "0x86Eb85870C239B82c9Bb77C2A00510e0bb4545d3",
+            "decimals": 18
         }
     ]
 }
