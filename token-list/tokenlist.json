@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:57:24.949Z",
+    "timestamp": "2020-09-12T18:01:14.934Z",
     "version": {
         "major": 1,
-        "minor": 193,
+        "minor": 194,
         "patch": 0
     },
     "keywords": [
@@ -1128,6 +1128,13 @@
             "name": "perp.finance",
             "symbol": "PERP",
             "address": "0x5d3c4C8F2399E0FC0500F97fdEbD9Da2033B9d48",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnBumperHarvest.Finance",
+            "symbol": "YBHF",
+            "address": "0xE34b52cA0B010608a078B168aEa273E6EEDe8cF0",
             "decimals": 18
         }
     ]
