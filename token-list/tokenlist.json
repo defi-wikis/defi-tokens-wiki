@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:59:48.646Z",
+    "timestamp": "2020-09-12T19:04:34.833Z",
     "version": {
         "major": 1,
-        "minor": 202,
+        "minor": 203,
         "patch": 0
     },
     "keywords": [
@@ -1191,6 +1191,13 @@
             "name": "dego.finance",
             "symbol": "DEGO",
             "address": "0x88EF27e69108B2633F8E1C184CC37940A075cC02",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hegic",
+            "symbol": "HEGIC",
+            "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
             "decimals": 18
         }
     ]
