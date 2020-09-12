@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T14:58:09.499Z",
+    "timestamp": "2020-09-12T15:25:49.457Z",
     "version": {
         "major": 1,
-        "minor": 173,
+        "minor": 174,
         "patch": 0
     },
     "keywords": [
@@ -988,6 +988,13 @@
             "name": "Snipp Finance",
             "symbol": "SNIPP",
             "address": "0x056527c9F79E65A63394B14A5d98e06a7306F8DF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFine.Finance Value",
+            "symbol": "YFFV",
+            "address": "0xE8e58A91654Adfc135e89c9Dd0f39A3177232FBD",
             "decimals": 18
         }
     ]
