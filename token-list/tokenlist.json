@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T04:13:59.406Z",
+    "timestamp": "2020-09-12T05:24:44.479Z",
     "version": {
         "major": 1,
-        "minor": 126,
+        "minor": 127,
         "patch": 0
     },
     "keywords": [
@@ -660,6 +660,13 @@
             "symbol": "SYFI",
             "address": "0x50862f251437FBc8742edcc32E5b4F723a4BFb7B",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "StableCredit",
+            "symbol": "scUSD",
+            "address": "0x15FE17Da18288D1799643be1BB07fb939626f5f9",
+            "decimals": 8
         }
     ]
 }
