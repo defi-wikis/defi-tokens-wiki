@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T13:01:59.082Z",
+    "timestamp": "2020-09-12T13:42:35.369Z",
     "version": {
         "major": 1,
-        "minor": 165,
+        "minor": 166,
         "patch": 0
     },
     "keywords": [
@@ -933,6 +933,13 @@
             "symbol": "YFFT",
             "address": "0x1Adeb7610B1181AFA49Ec33e0F7044902D72972e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hedget",
+            "symbol": "HGET",
+            "address": "0x237e6C502B2E218E04A77B2A84f42236301011c1",
+            "decimals": 8
         }
     ]
 }
