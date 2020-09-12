@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T18:49:39.152Z",
+    "timestamp": "2020-09-12T18:56:09.852Z",
     "version": {
         "major": 1,
-        "minor": 200,
+        "minor": 201,
         "patch": 0
     },
     "keywords": [
@@ -1177,6 +1177,13 @@
             "name": "Cool Network",
             "symbol": "COOL",
             "address": "0xaF83851788E9673257ebe4d70710bF82D1B4e215",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MagnusCapital",
+            "symbol": "MGC",
+            "address": "0xad352Dc52084Ea38DF72937F9eca021C1c69Cf34",
             "decimals": 18
         }
     ]
