@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T08:36:14.369Z",
+    "timestamp": "2020-09-12T08:51:49.778Z",
     "version": {
         "major": 1,
-        "minor": 141,
+        "minor": 142,
         "patch": 0
     },
     "keywords": [
@@ -765,6 +765,13 @@
             "symbol": "ISIKC",
             "address": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "RabbitsFinance",
+            "symbol": "RAB",
+            "address": "0x6c0F0B18EE6eE185E6e2C80f020aCa7b6db0471B",
+            "decimals": 18
         }
     ]
 }
