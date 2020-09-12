@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:19:34.169Z",
+    "timestamp": "2020-09-12T17:26:39.149Z",
     "version": {
         "major": 1,
-        "minor": 185,
+        "minor": 186,
         "patch": 0
     },
     "keywords": [
@@ -1072,6 +1072,13 @@
             "name": "Anal Sex Lovers",
             "symbol": "ANAL",
             "address": "0xFc42C999240E32fD2cA254bA27C9BAE2279a65F4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "creed.finance",
+            "symbol": "yCREED",
+            "address": "0x2e77a7CDBf2aeb0b70AF9F1521f9818848E7887B",
             "decimals": 18
         }
     ]
