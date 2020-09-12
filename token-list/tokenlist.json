@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T05:36:09.376Z",
+    "timestamp": "2020-09-12T06:03:14.580Z",
     "version": {
         "major": 1,
-        "minor": 128,
+        "minor": 129,
         "patch": 0
     },
     "keywords": [
@@ -673,6 +673,13 @@
             "name": "True Reply Research Token",
             "symbol": "REPLY",
             "address": "0x124D4297E943FD24b72a5737B5e081De0fd1ae9b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Synapse",
+            "symbol": "SYN",
+            "address": "0x0fA11B3bb6320574773DE4A27c28d5E8596210f8",
             "decimals": 18
         }
     ]
