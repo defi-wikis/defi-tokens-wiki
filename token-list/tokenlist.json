@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T19:27:59.383Z",
+    "timestamp": "2020-09-12T19:57:14.436Z",
     "version": {
         "major": 1,
-        "minor": 204,
+        "minor": 205,
         "patch": 0
     },
     "keywords": [
@@ -1205,6 +1205,13 @@
             "name": "Yeild Tomato Farming Finance",
             "symbol": "YTFF",
             "address": "0x2E91c777cdc113875Cd793C634128452E6C43aAE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MutantToken",
+            "symbol": "MUTANT",
+            "address": "0xA663121582725aA0eb8BF20B0F56F1917762e873",
             "decimals": 18
         }
     ]
