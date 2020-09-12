@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T00:23:54.080Z",
+    "timestamp": "2020-09-12T00:24:59.826Z",
     "version": {
         "major": 1,
-        "minor": 110,
+        "minor": 111,
         "patch": 0
     },
     "keywords": [
@@ -547,6 +547,13 @@
             "name": "PotFinance",
             "symbol": "yPOT",
             "address": "0x943a589e094538D9A7f457AaF10d7b8Ab7C9a92E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfALPHA",
+            "symbol": "YFAL",
+            "address": "0x754c3146ebB0fcF7D2434D4b48f687de00b8059a",
             "decimals": 18
         }
     ]
