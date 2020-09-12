@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T00:48:54.597Z",
+    "timestamp": "2020-09-12T01:01:09.462Z",
     "version": {
         "major": 1,
-        "minor": 113,
+        "minor": 114,
         "patch": 0
     },
     "keywords": [
@@ -568,6 +568,13 @@
             "name": "Ropst Finance",
             "symbol": "RPST",
             "address": "0x9c738427DfA6B57cBcE7132Cb79DE2D42b364453",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLend.Finance",
+            "symbol": "UFT",
+            "address": "0xD4B7A02BE85B9A3C311765356100907c12340DA0",
             "decimals": 18
         }
     ]
