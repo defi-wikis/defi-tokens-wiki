@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T04:00:14.350Z",
+    "timestamp": "2020-09-12T04:13:59.406Z",
     "version": {
         "major": 1,
-        "minor": 125,
+        "minor": 126,
         "patch": 0
     },
     "keywords": [
@@ -653,6 +653,13 @@
             "symbol": "Dak",
             "address": "0x4d5d7F9AA6d188b9386A2Fb55b550697Fa52E9C1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soft Yearn Finance V2",
+            "symbol": "SYFI",
+            "address": "0x50862f251437FBc8742edcc32E5b4F723a4BFb7B",
+            "decimals": 9
         }
     ]
 }
