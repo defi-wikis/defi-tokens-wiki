@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T12:58:39.178Z",
+    "timestamp": "2020-09-12T13:01:59.082Z",
     "version": {
         "major": 1,
-        "minor": 164,
+        "minor": 165,
         "patch": 0
     },
     "keywords": [
@@ -925,6 +925,13 @@
             "name": "chads.vc",
             "symbol": "CHADS",
             "address": "0xd5F2C713354dE987Af07DEa8E88D25acFd4C0F13",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfine.finance token",
+            "symbol": "YFFT",
+            "address": "0x1Adeb7610B1181AFA49Ec33e0F7044902D72972e",
             "decimals": 18
         }
     ]
