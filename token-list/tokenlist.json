@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:46:49.175Z",
+    "timestamp": "2020-09-12T17:51:28.943Z",
     "version": {
         "major": 1,
-        "minor": 191,
+        "minor": 192,
         "patch": 0
     },
     "keywords": [
@@ -1114,6 +1114,13 @@
             "name": "GagaFARM",
             "symbol": "GFARM",
             "address": "0x655AdD54dB7FE1fFD8627862CCdDCF47f0d0f40d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZEON",
+            "symbol": "ZEON",
+            "address": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
             "decimals": 18
         }
     ]
