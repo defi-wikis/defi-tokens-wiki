@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T22:07:14.623Z",
+    "timestamp": "2020-09-12T22:38:39.349Z",
     "version": {
         "major": 1,
-        "minor": 218,
+        "minor": 219,
         "patch": 0
     },
     "keywords": [
@@ -1303,6 +1303,13 @@
             "name": "ZFI",
             "symbol": "ZFI",
             "address": "0x2bBF51Bd3f9342F6e44EF6e0cb2E22780D1F23cb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Proxeus",
+            "symbol": "XES",
+            "address": "0xA017ac5faC5941f95010b12570B812C974469c2C",
             "decimals": 18
         }
     ]
