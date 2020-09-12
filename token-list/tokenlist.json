@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T07:13:09.494Z",
+    "timestamp": "2020-09-12T07:13:39.385Z",
     "version": {
         "major": 1,
-        "minor": 134,
+        "minor": 135,
         "patch": 0
     },
     "keywords": [
@@ -716,6 +716,13 @@
             "symbol": "YFIW",
             "address": "0x22852adbCE944149c0996c6EDD7eE8d6E9C5f5d4",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Asac Coin",
+            "symbol": "ASAC",
+            "address": "0x6913cCabBC337F0ea7b4109dd8200D61c704D332",
+            "decimals": 8
         }
     ]
 }
