@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T20:10:09.416Z",
+    "timestamp": "2020-09-12T20:18:05.839Z",
     "version": {
         "major": 1,
-        "minor": 206,
+        "minor": 207,
         "patch": 0
     },
     "keywords": [
@@ -1219,6 +1219,13 @@
             "name": "ZYTH",
             "symbol": "ZYTH",
             "address": "0x8B347235C4b6571cFe18Ef7BAc4Be2029e1A3d25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "chads.vc",
+            "symbol": "$CHADS",
+            "address": "0xa1B337021a78102d79EBC73634ab145E32fDBA5b",
             "decimals": 18
         }
     ]
