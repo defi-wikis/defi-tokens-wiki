@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T17:46:34.430Z",
+    "timestamp": "2020-09-12T17:46:49.175Z",
     "version": {
         "major": 1,
-        "minor": 190,
+        "minor": 191,
         "patch": 0
     },
     "keywords": [
@@ -1107,6 +1107,13 @@
             "name": "fomo.finance",
             "symbol": "fomo",
             "address": "0x5fc36FbcAC98da018Bb0524976de381791B54B30",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GagaFARM",
+            "symbol": "GFARM",
+            "address": "0x655AdD54dB7FE1fFD8627862CCdDCF47f0d0f40d",
             "decimals": 18
         }
     ]
