@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T03:29:14.116Z",
+    "timestamp": "2020-09-13T03:31:14.922Z",
     "version": {
         "major": 1,
-        "minor": 233,
+        "minor": 234,
         "patch": 0
     },
     "keywords": [
@@ -1409,6 +1409,13 @@
             "symbol": "BPT",
             "address": "0xC72B359e77698DafAbDcf7460D53E72a7cC861e6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zyro",
+            "symbol": "ZYRO",
+            "address": "0x1f6bd8766f8a8AA58F7441C8dd3709aFA3a56202",
+            "decimals": 8
         }
     ]
 }
