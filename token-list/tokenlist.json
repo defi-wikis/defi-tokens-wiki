@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T14:38:24.160Z",
+    "timestamp": "2020-09-13T15:05:06.783Z",
     "version": {
         "major": 1,
-        "minor": 288,
+        "minor": 289,
         "patch": 0
     },
     "keywords": [
@@ -1793,6 +1793,13 @@
             "name": "Grapes Yummy Farm",
             "symbol": "gryf",
             "address": "0xbD56eACA19569E01c0DC8E22EA0f041671f2E195",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FarmLand",
+            "symbol": "FARM",
+            "address": "0xa50415844004Aeb3c3DB62b15eA7D3A3b80c2C49",
             "decimals": 18
         }
     ]
