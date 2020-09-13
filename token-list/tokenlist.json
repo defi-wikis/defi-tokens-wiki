@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T10:22:09.083Z",
+    "timestamp": "2020-09-13T10:25:09.523Z",
     "version": {
         "major": 1,
-        "minor": 258,
+        "minor": 259,
         "patch": 0
     },
     "keywords": [
@@ -1583,6 +1583,13 @@
             "name": "YFIII",
             "symbol": "YFIII",
             "address": "0x649eBF73043Ffcc70A59855ecd8a568FD996415a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yym.finance",
+            "symbol": "YYM",
+            "address": "0xcCFd96c609f638eeaCf2D5B171FF3Bf99D261A17",
             "decimals": 18
         }
     ]
