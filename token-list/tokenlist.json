@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T14:09:40.451Z",
+    "timestamp": "2020-09-13T14:22:44.760Z",
     "version": {
         "major": 1,
-        "minor": 284,
+        "minor": 285,
         "patch": 0
     },
     "keywords": [
@@ -1766,6 +1766,13 @@
             "symbol": "BANA",
             "address": "0x2501E303708445caf8117d1ec8d3AcB6b80e8da4",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Tomatofarm",
+            "symbol": "TOM",
+            "address": "0x3596aC18F3D8f98d2DDD425a7a855215592ad996",
+            "decimals": 18
         }
     ]
 }
