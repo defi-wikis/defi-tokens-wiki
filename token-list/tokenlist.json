@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T03:31:14.922Z",
+    "timestamp": "2020-09-13T03:38:35.081Z",
     "version": {
         "major": 1,
-        "minor": 234,
+        "minor": 235,
         "patch": 0
     },
     "keywords": [
@@ -1416,6 +1416,13 @@
             "symbol": "ZYRO",
             "address": "0x1f6bd8766f8a8AA58F7441C8dd3709aFA3a56202",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "SENTINEL PROTOCOL",
+            "symbol": "UPP",
+            "address": "0xC86D054809623432210c107af2e3F619DcFbf652",
+            "decimals": 18
         }
     ]
 }
