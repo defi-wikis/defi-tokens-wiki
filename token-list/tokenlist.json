@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T12:04:14.208Z",
+    "timestamp": "2020-09-13T12:13:14.208Z",
     "version": {
         "major": 1,
-        "minor": 268,
+        "minor": 269,
         "patch": 0
     },
     "keywords": [
@@ -1654,6 +1654,13 @@
             "symbol": "MMG",
             "address": "0x8eB2aC6839c13651C30888Ed13F6BB73b281f76d",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Ystaking.finance",
+            "symbol": "Ystake",
+            "address": "0x6Cb125Ca78D7f151c04C4CA2aC77238C848AcC07",
+            "decimals": 18
         }
     ]
 }
