@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T11:06:29.445Z",
+    "timestamp": "2020-09-13T11:22:34.596Z",
     "version": {
         "major": 1,
-        "minor": 263,
+        "minor": 264,
         "patch": 0
     },
     "keywords": [
@@ -1618,6 +1618,13 @@
             "name": "NYAN TOKEN",
             "symbol": "NYAN",
             "address": "0x69801f64a8e08bAb92689fC2DA7AA0F5E1c40C78",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Frontier.Defi",
+            "symbol": "FDI",
+            "address": "0x8aA90cc29E16f156dB1b8c3F238B5aFc67F1D9c0",
             "decimals": 18
         }
     ]
