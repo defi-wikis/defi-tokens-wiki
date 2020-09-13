@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T16:05:06.663Z",
+    "timestamp": "2020-09-13T16:06:34.474Z",
     "version": {
         "major": 1,
-        "minor": 299,
+        "minor": 300,
         "patch": 0
     },
     "keywords": [
@@ -1870,6 +1870,13 @@
             "name": "sleepyjoe.finance",
             "symbol": "SNIFF",
             "address": "0x66605A5b87eA0370AEC238E4ea05023d7e5D90D5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Spoti Finance",
+            "symbol": "SFI",
+            "address": "0x595A6f07ca5C0eE52358601C73434c81f65F98bF",
             "decimals": 18
         }
     ]
