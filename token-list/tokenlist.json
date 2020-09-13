@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T14:24:59.061Z",
+    "timestamp": "2020-09-13T14:33:39.651Z",
     "version": {
         "major": 1,
-        "minor": 286,
+        "minor": 287,
         "patch": 0
     },
     "keywords": [
@@ -1779,6 +1779,13 @@
             "name": "MoonGainToken",
             "symbol": "MoonGain",
             "address": "0x4E26Ceb8A932114a95cfB682851b6e832f830062",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rarible Token",
+            "symbol": "RARI",
+            "address": "0xF66AfAFd5C331e0CbAa71105f3E0e7b2907819aE",
             "decimals": 18
         }
     ]
