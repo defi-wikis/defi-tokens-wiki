@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T15:54:39.419Z",
+    "timestamp": "2020-09-13T16:04:29.541Z",
     "version": {
         "major": 1,
-        "minor": 297,
+        "minor": 298,
         "patch": 0
     },
     "keywords": [
@@ -1856,6 +1856,13 @@
             "name": "Yield Farming Finance",
             "symbol": "YFFI",
             "address": "0x34ddbf9197bE77230707A3648a56f8eB30d07F22",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "holdinvest.io",
+            "symbol": "HOLDI",
+            "address": "0x73133781e37d2C99c9868608410877b4E096fE0f",
             "decimals": 18
         }
     ]
