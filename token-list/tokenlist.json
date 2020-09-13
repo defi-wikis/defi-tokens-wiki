@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-12T23:51:49.260Z",
+    "timestamp": "2020-09-13T00:14:39.175Z",
     "version": {
         "major": 1,
-        "minor": 222,
+        "minor": 223,
         "patch": 0
     },
     "keywords": [
@@ -1331,6 +1331,13 @@
             "name": "Ponzi Scheme @ Ponzi.Finance",
             "symbol": "PONZl",
             "address": "0x3ab1675EbD895eA7D51D235b07A11FfE8b95ca54",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sakeswap.finance",
+            "symbol": "sake",
+            "address": "0xd0883dB4e5aD2BA5277e5948668EB83f1b02f9D5",
             "decimals": 18
         }
     ]
