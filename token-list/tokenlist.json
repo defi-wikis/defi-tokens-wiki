@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T13:20:44.264Z",
+    "timestamp": "2020-09-13T13:23:24.561Z",
     "version": {
         "major": 1,
-        "minor": 276,
+        "minor": 277,
         "patch": 0
     },
     "keywords": [
@@ -1709,6 +1709,13 @@
             "name": "btt.finance",
             "symbol": "BTT",
             "address": "0xcB5c7656523d533fac0658AC359eD6D44068527a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BugSwap.Finance",
+            "symbol": "BSF",
+            "address": "0x96AB1366e850416808582e2E139830c5b3A14E77",
             "decimals": 18
         }
     ]
