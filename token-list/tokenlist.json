@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T10:52:49.318Z",
+    "timestamp": "2020-09-13T11:06:29.445Z",
     "version": {
         "major": 1,
-        "minor": 262,
+        "minor": 263,
         "patch": 0
     },
     "keywords": [
@@ -1611,6 +1611,13 @@
             "name": "TunaToken",
             "symbol": "TUN",
             "address": "0x61d94835bE8EDcDea3e30412F99f21D243039D2B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NYAN TOKEN",
+            "symbol": "NYAN",
+            "address": "0x69801f64a8e08bAb92689fC2DA7AA0F5E1c40C78",
             "decimals": 18
         }
     ]
