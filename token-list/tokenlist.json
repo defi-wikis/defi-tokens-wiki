@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T08:46:09.944Z",
+    "timestamp": "2020-09-13T08:49:06.040Z",
     "version": {
         "major": 1,
-        "minor": 254,
+        "minor": 255,
         "patch": 0
     },
     "keywords": [
@@ -1555,6 +1555,13 @@
             "name": "TKEX Network",
             "symbol": "TKEX",
             "address": "0x14D8f55CE856e8bCf4a4C863Ce6A40175bCA527d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YTX",
+            "symbol": "YTX",
+            "address": "0x97034e6dd259EB626508F0Cd23Bc4be14C59dbCD",
             "decimals": 18
         }
     ]
