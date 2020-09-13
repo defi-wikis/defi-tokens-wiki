@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T14:05:45.906Z",
+    "timestamp": "2020-09-13T14:09:40.451Z",
     "version": {
         "major": 1,
-        "minor": 283,
+        "minor": 284,
         "patch": 0
     },
     "keywords": [
@@ -1759,6 +1759,13 @@
             "symbol": "tom",
             "address": "0x7e869b623684D72159f5F56D20D95EF24E72B93B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Banana Farm",
+            "symbol": "BANA",
+            "address": "0x2501E303708445caf8117d1ec8d3AcB6b80e8da4",
+            "decimals": 9
         }
     ]
 }
