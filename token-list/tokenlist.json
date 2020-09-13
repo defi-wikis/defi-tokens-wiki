@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T16:52:39.350Z",
+    "timestamp": "2020-09-13T17:07:59.177Z",
     "version": {
         "major": 1,
-        "minor": 305,
+        "minor": 306,
         "patch": 0
     },
     "keywords": [
@@ -1912,6 +1912,13 @@
             "name": "SwapX Token",
             "symbol": "SWP",
             "address": "0xDA3145d0A373712E036106FC1fa34b1014807e68",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "saaprotocol.com",
+            "symbol": "SAA",
+            "address": "0xdB9feb622d8E3507eb20C409F4E04C72BaA967f3",
             "decimals": 18
         }
     ]
