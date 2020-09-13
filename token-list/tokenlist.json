@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T07:55:14.272Z",
+    "timestamp": "2020-09-13T08:37:09.182Z",
     "version": {
         "major": 1,
-        "minor": 250,
+        "minor": 251,
         "patch": 0
     },
     "keywords": [
@@ -1528,6 +1528,13 @@
             "symbol": "wGOVM",
             "address": "0xaC5d7dFF150B195C97Fca77001f8AD596eda1761",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Grey.holdings",
+            "symbol": "GREY",
+            "address": "0xeEDaC64009067F8543d149ce1bea869B5312FB7f",
+            "decimals": 0
         }
     ]
 }
