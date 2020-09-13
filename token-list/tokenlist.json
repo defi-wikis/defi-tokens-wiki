@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T05:14:39.019Z",
+    "timestamp": "2020-09-13T05:22:06.464Z",
     "version": {
         "major": 1,
-        "minor": 239,
+        "minor": 240,
         "patch": 0
     },
     "keywords": [
@@ -1450,6 +1450,13 @@
             "name": "RandomProcess protocol",
             "symbol": "RPP",
             "address": "0xdF6f2809982e18EC2C6850d30FF91068AE471fd4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bCRED",
+            "symbol": "bCRED",
+            "address": "0xB7412E57767EC30a76a4461d408d78b36688409C",
             "decimals": 18
         }
     ]
