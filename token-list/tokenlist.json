@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T15:51:06.774Z",
+    "timestamp": "2020-09-13T15:54:39.419Z",
     "version": {
         "major": 1,
-        "minor": 296,
+        "minor": 297,
         "patch": 0
     },
     "keywords": [
@@ -1849,6 +1849,13 @@
             "name": "lattice.exchange",
             "symbol": "LTX",
             "address": "0x9d0ec735E86D0474ef7e9274AdA235f8A599D526",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Farming Finance",
+            "symbol": "YFFI",
+            "address": "0x34ddbf9197bE77230707A3648a56f8eB30d07F22",
             "decimals": 18
         }
     ]
