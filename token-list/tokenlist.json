@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T03:54:19.572Z",
+    "timestamp": "2020-09-13T04:13:05.871Z",
     "version": {
         "major": 1,
-        "minor": 236,
+        "minor": 237,
         "patch": 0
     },
     "keywords": [
@@ -1430,6 +1430,13 @@
             "symbol": "GREYTEST",
             "address": "0x1E87A37a67E7059caA9340a79214B90C0661Ac0D",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Moon Mission",
+            "symbol": "MISN",
+            "address": "0x2397b85288db8D5fD7a8f59A503875BA3fD8067E",
+            "decimals": 18
         }
     ]
 }
