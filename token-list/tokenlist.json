@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T17:07:59.177Z",
+    "timestamp": "2020-09-13T17:12:34.970Z",
     "version": {
         "major": 1,
-        "minor": 306,
+        "minor": 307,
         "patch": 0
     },
     "keywords": [
@@ -1919,6 +1919,13 @@
             "name": "saaprotocol.com",
             "symbol": "SAA",
             "address": "0xdB9feb622d8E3507eb20C409F4E04C72BaA967f3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Farm Finance Link",
+            "symbol": "YFFL",
+            "address": "0x26984f261fcC98FEb3461A5d2FFf194a33e0c39E",
             "decimals": 18
         }
     ]
