@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T14:33:39.651Z",
+    "timestamp": "2020-09-13T14:38:24.160Z",
     "version": {
         "major": 1,
-        "minor": 287,
+        "minor": 288,
         "patch": 0
     },
     "keywords": [
@@ -1786,6 +1786,13 @@
             "name": "Rarible Token",
             "symbol": "RARI",
             "address": "0xF66AfAFd5C331e0CbAa71105f3E0e7b2907819aE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Grapes Yummy Farm",
+            "symbol": "gryf",
+            "address": "0xbD56eACA19569E01c0DC8E22EA0f041671f2E195",
             "decimals": 18
         }
     ]
