@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T16:04:29.541Z",
+    "timestamp": "2020-09-13T16:05:06.663Z",
     "version": {
         "major": 1,
-        "minor": 298,
+        "minor": 299,
         "patch": 0
     },
     "keywords": [
@@ -1863,6 +1863,13 @@
             "name": "holdinvest.io",
             "symbol": "HOLDI",
             "address": "0x73133781e37d2C99c9868608410877b4E096fE0f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sleepyjoe.finance",
+            "symbol": "SNIFF",
+            "address": "0x66605A5b87eA0370AEC238E4ea05023d7e5D90D5",
             "decimals": 18
         }
     ]
