@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T11:22:34.596Z",
+    "timestamp": "2020-09-13T11:45:14.161Z",
     "version": {
         "major": 1,
-        "minor": 264,
+        "minor": 265,
         "patch": 0
     },
     "keywords": [
@@ -1626,6 +1626,13 @@
             "symbol": "FDI",
             "address": "0x8aA90cc29E16f156dB1b8c3F238B5aFc67F1D9c0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gala",
+            "symbol": "GALA",
+            "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+            "decimals": 8
         }
     ]
 }
