@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T11:56:10.083Z",
+    "timestamp": "2020-09-13T12:04:14.208Z",
     "version": {
         "major": 1,
-        "minor": 267,
+        "minor": 268,
         "patch": 0
     },
     "keywords": [
@@ -1647,6 +1647,13 @@
             "symbol": "PSP",
             "address": "0xBc957b4D29B98BE8Ef29C92F780A70B992279AcC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MyMoneyGame",
+            "symbol": "MMG",
+            "address": "0x8eB2aC6839c13651C30888Ed13F6BB73b281f76d",
+            "decimals": 9
         }
     ]
 }
