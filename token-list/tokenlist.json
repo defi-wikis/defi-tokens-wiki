@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T17:19:07.402Z",
+    "timestamp": "2020-09-13T17:21:20.202Z",
     "version": {
         "major": 1,
-        "minor": 308,
+        "minor": 309,
         "patch": 0
     },
     "keywords": [
@@ -1934,6 +1934,13 @@
             "symbol": "PICKLE",
             "address": "0xBb1bf54e924961848E29961F3569987AD41c2eD8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "  BTC  ",
+            "symbol": "  比特币  ",
+            "address": "0x44f3eF76B4F277e6C78c9d363Ffd18a34a761940",
+            "decimals": 4
         }
     ]
 }
