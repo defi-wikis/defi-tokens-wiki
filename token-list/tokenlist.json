@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T11:48:54.883Z",
+    "timestamp": "2020-09-13T11:56:10.083Z",
     "version": {
         "major": 1,
-        "minor": 266,
+        "minor": 267,
         "patch": 0
     },
     "keywords": [
@@ -1639,6 +1639,13 @@
             "name": "MelonSwap.org",
             "symbol": "MELON",
             "address": "0xAF06F584023FE057d5c9308cAF8B801A681d78E1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PunkSwap",
+            "symbol": "PSP",
+            "address": "0xBc957b4D29B98BE8Ef29C92F780A70B992279AcC",
             "decimals": 18
         }
     ]
