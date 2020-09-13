@@ -1,0 +1,7 @@
+{
+    "name": "CDS Token",
+    "symbol": "CDS",
+    "address": "0x1662b6BBC44aF18a56C06D27db4b4311f319F17e",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
