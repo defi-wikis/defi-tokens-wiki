@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T06:12:58.908Z",
+    "timestamp": "2020-09-13T06:17:50.132Z",
     "version": {
         "major": 1,
-        "minor": 242,
+        "minor": 243,
         "patch": 0
     },
     "keywords": [
@@ -1471,6 +1471,13 @@
             "name": "Yeet.Dance",
             "symbol": "YEET",
             "address": "0x1fa19739bb38725235402D1990b9B3A2fc1f911F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoonSwap.Finance",
+            "symbol": "MOON",
+            "address": "0xd38611CF5b3d125f034f9F32e38E8D1b0b97D1C7",
             "decimals": 18
         }
     ]
