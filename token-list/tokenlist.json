@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T11:45:14.161Z",
+    "timestamp": "2020-09-13T11:48:54.883Z",
     "version": {
         "major": 1,
-        "minor": 265,
+        "minor": 266,
         "patch": 0
     },
     "keywords": [
@@ -1633,6 +1633,13 @@
             "symbol": "GALA",
             "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "MelonSwap.org",
+            "symbol": "MELON",
+            "address": "0xAF06F584023FE057d5c9308cAF8B801A681d78E1",
+            "decimals": 18
         }
     ]
 }
