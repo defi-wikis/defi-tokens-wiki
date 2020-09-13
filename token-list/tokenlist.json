@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T10:18:19.404Z",
+    "timestamp": "2020-09-13T10:22:09.083Z",
     "version": {
         "major": 1,
-        "minor": 257,
+        "minor": 258,
         "patch": 0
     },
     "keywords": [
@@ -1576,6 +1576,13 @@
             "name": "Fornax DAO Finance",
             "symbol": "FFI",
             "address": "0x8552b1546F2Fc8EB39F67BA31a41060b8286e2A9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIII",
+            "symbol": "YFIII",
+            "address": "0x649eBF73043Ffcc70A59855ecd8a568FD996415a",
             "decimals": 18
         }
     ]
