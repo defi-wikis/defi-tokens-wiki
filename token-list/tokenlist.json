@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T13:46:07.470Z",
+    "timestamp": "2020-09-13T13:55:54.608Z",
     "version": {
         "major": 1,
-        "minor": 281,
+        "minor": 282,
         "patch": 0
     },
     "keywords": [
@@ -1744,6 +1744,13 @@
             "name": "PearSwap.org",
             "symbol": "PEAR",
             "address": "0xe68301308Da0f1678a0caA2eEB549C4f4c35B905",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "StrawberryFarm",
+            "symbol": "SBYF",
+            "address": "0xe24f02a21990ce92233af9420a3741eD39079127",
             "decimals": 18
         }
     ]
