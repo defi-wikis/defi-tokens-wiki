@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T08:37:09.182Z",
+    "timestamp": "2020-09-13T08:37:58.840Z",
     "version": {
         "major": 1,
-        "minor": 251,
+        "minor": 252,
         "patch": 0
     },
     "keywords": [
@@ -1535,6 +1535,13 @@
             "symbol": "GREY",
             "address": "0xeEDaC64009067F8543d149ce1bea869B5312FB7f",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "TitanSwap",
+            "symbol": "Titan",
+            "address": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+            "decimals": 18
         }
     ]
 }
