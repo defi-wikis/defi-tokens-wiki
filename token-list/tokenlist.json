@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T08:37:58.840Z",
+    "timestamp": "2020-09-13T08:43:19.449Z",
     "version": {
         "major": 1,
-        "minor": 252,
+        "minor": 253,
         "patch": 0
     },
     "keywords": [
@@ -1541,6 +1541,13 @@
             "name": "TitanSwap",
             "symbol": "Titan",
             "address": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "fantom.finance",
+            "symbol": "FTM",
+            "address": "0xCf0E6b80b63bAF5743Ee54d91f5F7e3926B7e1f8",
             "decimals": 18
         }
     ]
