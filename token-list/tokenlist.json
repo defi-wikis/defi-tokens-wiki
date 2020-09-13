@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T02:31:44.040Z",
+    "timestamp": "2020-09-13T02:44:19.452Z",
     "version": {
         "major": 1,
-        "minor": 228,
+        "minor": 229,
         "patch": 0
     },
     "keywords": [
@@ -1374,6 +1374,13 @@
             "symbol": "YFIG",
             "address": "0x526548c12d392C4A12A477596AA18076490bA624",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "aRAT",
+            "symbol": "ARAT",
+            "address": "0x42f55805C4d9e837539c510AFCbB6965CC4bb8b8",
+            "decimals": 6
         }
     ]
 }
