@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T13:14:20.336Z",
+    "timestamp": "2020-09-13T13:20:44.264Z",
     "version": {
         "major": 1,
-        "minor": 275,
+        "minor": 276,
         "patch": 0
     },
     "keywords": [
@@ -1702,6 +1702,13 @@
             "name": "Weave Token",
             "symbol": "WTN",
             "address": "0x9dd350E30Fc1EBB40bDAF9aEf061269869602fB1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "btt.finance",
+            "symbol": "BTT",
+            "address": "0xcB5c7656523d533fac0658AC359eD6D44068527a",
             "decimals": 18
         }
     ]
