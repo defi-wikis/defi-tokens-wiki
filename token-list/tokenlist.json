@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T07:38:44.445Z",
+    "timestamp": "2020-09-13T07:41:49.541Z",
     "version": {
         "major": 1,
-        "minor": 246,
+        "minor": 247,
         "patch": 0
     },
     "keywords": [
@@ -1499,6 +1499,13 @@
             "name": "Yearn Finance HyperYield ",
             "symbol": "yfhy",
             "address": "0x2469201848aBA2a4d40E32c9C6d0f48f3CF24c91",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MT Token",
+            "symbol": "MT",
+            "address": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
             "decimals": 18
         }
     ]
