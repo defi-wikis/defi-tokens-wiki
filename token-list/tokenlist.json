@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T12:48:06.540Z",
+    "timestamp": "2020-09-13T12:49:59.062Z",
     "version": {
         "major": 1,
-        "minor": 273,
+        "minor": 274,
         "patch": 0
     },
     "keywords": [
@@ -1689,6 +1689,13 @@
             "symbol": "CDS",
             "address": "0x1662b6BBC44aF18a56C06D27db4b4311f319F17e",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "CrossSwap.Finance",
+            "symbol": "CSF",
+            "address": "0x9d592920969232DF56108793044579BF7802DA03",
+            "decimals": 18
         }
     ]
 }
