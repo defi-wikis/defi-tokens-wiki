@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T02:44:19.452Z",
+    "timestamp": "2020-09-13T02:55:29.513Z",
     "version": {
         "major": 1,
-        "minor": 229,
+        "minor": 230,
         "patch": 0
     },
     "keywords": [
@@ -1381,6 +1381,13 @@
             "symbol": "ARAT",
             "address": "0x42f55805C4d9e837539c510AFCbB6965CC4bb8b8",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "XMM TOKEN",
+            "symbol": "XMM",
+            "address": "0xa474dB1791a4ec4F94b71fd7EA2F0911D7770D2b",
+            "decimals": 18
         }
     ]
 }
