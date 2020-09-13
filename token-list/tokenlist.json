@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T13:32:15.112Z",
+    "timestamp": "2020-09-13T13:43:05.619Z",
     "version": {
         "major": 1,
-        "minor": 278,
+        "minor": 279,
         "patch": 0
     },
     "keywords": [
@@ -1724,6 +1724,13 @@
             "symbol": "HYT",
             "address": "0x8A6C1dDa95A802eAe1267439C91CdB2A3A7009B0",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "YFVI",
+            "symbol": "YFVI",
+            "address": "0x949265f0Fd98e9a7dC4b259503bbE51c3f6de6FE",
+            "decimals": 18
         }
     ]
 }
