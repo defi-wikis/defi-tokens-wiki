@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T03:23:09.378Z",
+    "timestamp": "2020-09-13T03:27:54.423Z",
     "version": {
         "major": 1,
-        "minor": 231,
+        "minor": 232,
         "patch": 0
     },
     "keywords": [
@@ -1394,6 +1394,13 @@
             "name": "FRUIT",
             "symbol": "FRUIT",
             "address": "0xC22409C6d24fE4eaB01285548843307Aa68602be",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "beans.farm",
+            "symbol": "BEAN",
+            "address": "0xeB4C063f68bF4c4E807f89AE6E1F5F153A0e9006",
             "decimals": 18
         }
     ]
