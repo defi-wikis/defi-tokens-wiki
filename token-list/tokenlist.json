@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T15:12:10.722Z",
+    "timestamp": "2020-09-13T15:19:38.970Z",
     "version": {
         "major": 1,
-        "minor": 292,
+        "minor": 293,
         "patch": 0
     },
     "keywords": [
@@ -1821,6 +1821,13 @@
             "name": "Ryzen Farming Network",
             "symbol": "RYFI",
             "address": "0xb37C522f8232272a6FD8a4e1BD7086918142C46a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TESTER TOKENS",
+            "symbol": "TESTN",
+            "address": "0x20f6532c6949DA995dE1B58927aA21462140d911",
             "decimals": 18
         }
     ]
