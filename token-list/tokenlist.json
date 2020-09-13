@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T12:33:07.736Z",
+    "timestamp": "2020-09-13T12:46:19.363Z",
     "version": {
         "major": 1,
-        "minor": 271,
+        "minor": 272,
         "patch": 0
     },
     "keywords": [
@@ -1674,6 +1674,13 @@
             "name": "Mango.Farm",
             "symbol": "MGF",
             "address": "0x351e930e5C7d6c86e9A33C687f29b10438D16657",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ClearStream Protocol",
+            "symbol": "CSP",
+            "address": "0xD4128aF87fbF865469076B08D0082D0C61D94E9b",
             "decimals": 18
         }
     ]
