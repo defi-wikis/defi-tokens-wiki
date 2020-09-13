@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T12:46:19.363Z",
+    "timestamp": "2020-09-13T12:48:06.540Z",
     "version": {
         "major": 1,
-        "minor": 272,
+        "minor": 273,
         "patch": 0
     },
     "keywords": [
@@ -1682,6 +1682,13 @@
             "symbol": "CSP",
             "address": "0xD4128aF87fbF865469076B08D0082D0C61D94E9b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CDS Token",
+            "symbol": "CDS",
+            "address": "0x1662b6BBC44aF18a56C06D27db4b4311f319F17e",
+            "decimals": 8
         }
     ]
 }
