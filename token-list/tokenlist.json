@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T16:47:39.250Z",
+    "timestamp": "2020-09-13T16:47:49.220Z",
     "version": {
         "major": 1,
-        "minor": 303,
+        "minor": 304,
         "patch": 0
     },
     "keywords": [
@@ -1898,6 +1898,13 @@
             "name": "yfOmega.finance",
             "symbol": "yfOmega",
             "address": "0x6C2b2AA51180A9c08F11bc0827001aCB217b0CDF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Flash Finance",
+            "symbol": "FLF",
+            "address": "0x55A1a92830FEd366ceAc4b39f88F85E3b6ea304c",
             "decimals": 18
         }
     ]
