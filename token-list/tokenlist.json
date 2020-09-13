@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T12:13:14.208Z",
+    "timestamp": "2020-09-13T12:31:14.286Z",
     "version": {
         "major": 1,
-        "minor": 269,
+        "minor": 270,
         "patch": 0
     },
     "keywords": [
@@ -1660,6 +1660,13 @@
             "name": "Ystaking.finance",
             "symbol": "Ystake",
             "address": "0x6Cb125Ca78D7f151c04C4CA2aC77238C848AcC07",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnSwap",
+            "symbol": "YSWAP",
+            "address": "0x6D10D294f5cd269d6f890E03391cfE70f073b6F7",
             "decimals": 18
         }
     ]
