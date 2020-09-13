@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T03:27:54.423Z",
+    "timestamp": "2020-09-13T03:29:14.116Z",
     "version": {
         "major": 1,
-        "minor": 232,
+        "minor": 233,
         "patch": 0
     },
     "keywords": [
@@ -1401,6 +1401,13 @@
             "name": "beans.farm",
             "symbol": "BEAN",
             "address": "0xeB4C063f68bF4c4E807f89AE6E1F5F153A0e9006",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Balancer Pool Token",
+            "symbol": "BPT",
+            "address": "0xC72B359e77698DafAbDcf7460D53E72a7cC861e6",
             "decimals": 18
         }
     ]
