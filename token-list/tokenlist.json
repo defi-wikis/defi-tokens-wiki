@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T14:22:44.760Z",
+    "timestamp": "2020-09-13T14:24:59.061Z",
     "version": {
         "major": 1,
-        "minor": 285,
+        "minor": 286,
         "patch": 0
     },
     "keywords": [
@@ -1772,6 +1772,13 @@
             "name": "Tomatofarm",
             "symbol": "TOM",
             "address": "0x3596aC18F3D8f98d2DDD425a7a855215592ad996",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoonGainToken",
+            "symbol": "MoonGain",
+            "address": "0x4E26Ceb8A932114a95cfB682851b6e832f830062",
             "decimals": 18
         }
     ]
