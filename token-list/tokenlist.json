@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T06:17:50.132Z",
+    "timestamp": "2020-09-13T07:26:19.758Z",
     "version": {
         "major": 1,
-        "minor": 243,
+        "minor": 244,
         "patch": 0
     },
     "keywords": [
@@ -1478,6 +1478,13 @@
             "name": "MoonSwap.Finance",
             "symbol": "MOON",
             "address": "0xd38611CF5b3d125f034f9F32e38E8D1b0b97D1C7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ACALA",
+            "symbol": "ACALA",
+            "address": "0x95c5CD1f07e50073e42E902FC71359C9c90BBbaB",
             "decimals": 18
         }
     ]
