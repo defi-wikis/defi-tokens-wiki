@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T12:31:14.286Z",
+    "timestamp": "2020-09-13T12:33:07.736Z",
     "version": {
         "major": 1,
-        "minor": 270,
+        "minor": 271,
         "patch": 0
     },
     "keywords": [
@@ -1667,6 +1667,13 @@
             "name": "YearnSwap",
             "symbol": "YSWAP",
             "address": "0x6D10D294f5cd269d6f890E03391cfE70f073b6F7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mango.Farm",
+            "symbol": "MGF",
+            "address": "0x351e930e5C7d6c86e9A33C687f29b10438D16657",
             "decimals": 18
         }
     ]
