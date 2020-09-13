@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T07:26:19.758Z",
+    "timestamp": "2020-09-13T07:26:39.554Z",
     "version": {
         "major": 1,
-        "minor": 244,
+        "minor": 245,
         "patch": 0
     },
     "keywords": [
@@ -1485,6 +1485,13 @@
             "name": "ACALA",
             "symbol": "ACALA",
             "address": "0x95c5CD1f07e50073e42E902FC71359C9c90BBbaB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ponzi Scheme @ Ponzi.Finance",
+            "symbol": "$PONZI",
+            "address": "0xE5bA0689485b4785F4e8859EE7e1A65B96D6E7B4",
             "decimals": 18
         }
     ]
