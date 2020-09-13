@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T08:49:06.040Z",
+    "timestamp": "2020-09-13T09:39:19.416Z",
     "version": {
         "major": 1,
-        "minor": 255,
+        "minor": 256,
         "patch": 0
     },
     "keywords": [
@@ -1562,6 +1562,13 @@
             "name": "YTX",
             "symbol": "YTX",
             "address": "0x97034e6dd259EB626508F0Cd23Bc4be14C59dbCD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HELIX",
+            "symbol": "HLX",
+            "address": "0x415A1AEde632aB788A89b785a03C6cb98497be64",
             "decimals": 18
         }
     ]
