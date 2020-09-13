@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T15:38:40.862Z",
+    "timestamp": "2020-09-13T15:51:06.774Z",
     "version": {
         "major": 1,
-        "minor": 295,
+        "minor": 296,
         "patch": 0
     },
     "keywords": [
@@ -1842,6 +1842,13 @@
             "name": "Enterprise chain",
             "symbol": "ETC-1",
             "address": "0x540f063759de97D7826509EFEF8Abb355565a95a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "lattice.exchange",
+            "symbol": "LTX",
+            "address": "0x9d0ec735E86D0474ef7e9274AdA235f8A599D526",
             "decimals": 18
         }
     ]
