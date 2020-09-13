@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T15:19:38.970Z",
+    "timestamp": "2020-09-13T15:28:35.905Z",
     "version": {
         "major": 1,
-        "minor": 293,
+        "minor": 294,
         "patch": 0
     },
     "keywords": [
@@ -1828,6 +1828,13 @@
             "name": "TESTER TOKENS",
             "symbol": "TESTN",
             "address": "0x20f6532c6949DA995dE1B58927aA21462140d911",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TESTINGTOKEN",
+            "symbol": "TESTX",
+            "address": "0xeE6bCaf288AabB8471b6E32fc9fD9B983827d2bA",
             "decimals": 18
         }
     ]
