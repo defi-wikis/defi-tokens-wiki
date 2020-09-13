@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T05:22:06.464Z",
+    "timestamp": "2020-09-13T05:41:40.031Z",
     "version": {
         "major": 1,
-        "minor": 240,
+        "minor": 241,
         "patch": 0
     },
     "keywords": [
@@ -1457,6 +1457,13 @@
             "name": "bCRED",
             "symbol": "bCRED",
             "address": "0xB7412E57767EC30a76a4461d408d78b36688409C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.VentureFinance",
+            "symbol": "YFVR",
+            "address": "0x845B49D03699d7626DFA777a3849c443F2BAd78C",
             "decimals": 18
         }
     ]
