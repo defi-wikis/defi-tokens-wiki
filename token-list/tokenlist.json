@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T02:10:44.078Z",
+    "timestamp": "2020-09-13T02:31:44.040Z",
     "version": {
         "major": 1,
-        "minor": 227,
+        "minor": 228,
         "patch": 0
     },
     "keywords": [
@@ -1366,6 +1366,13 @@
             "name": "YIFFValue",
             "symbol": "YIFF",
             "address": "0x21b4d12349fF875e43dfD6fA7F91d6AC4Cbd013e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfigold.network",
+            "symbol": "YFIG",
+            "address": "0x526548c12d392C4A12A477596AA18076490bA624",
             "decimals": 18
         }
     ]
