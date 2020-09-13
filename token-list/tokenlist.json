@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T12:49:59.062Z",
+    "timestamp": "2020-09-13T13:14:20.336Z",
     "version": {
         "major": 1,
-        "minor": 274,
+        "minor": 275,
         "patch": 0
     },
     "keywords": [
@@ -1695,6 +1695,13 @@
             "name": "CrossSwap.Finance",
             "symbol": "CSF",
             "address": "0x9d592920969232DF56108793044579BF7802DA03",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Weave Token",
+            "symbol": "WTN",
+            "address": "0x9dd350E30Fc1EBB40bDAF9aEf061269869602fB1",
             "decimals": 18
         }
     ]
