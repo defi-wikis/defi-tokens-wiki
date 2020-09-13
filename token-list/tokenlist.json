@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T05:41:40.031Z",
+    "timestamp": "2020-09-13T06:12:58.908Z",
     "version": {
         "major": 1,
-        "minor": 241,
+        "minor": 242,
         "patch": 0
     },
     "keywords": [
@@ -1464,6 +1464,13 @@
             "name": "Yearn.VentureFinance",
             "symbol": "YFVR",
             "address": "0x845B49D03699d7626DFA777a3849c443F2BAd78C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yeet.Dance",
+            "symbol": "YEET",
+            "address": "0x1fa19739bb38725235402D1990b9B3A2fc1f911F",
             "decimals": 18
         }
     ]
