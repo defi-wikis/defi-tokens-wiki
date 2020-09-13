@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T08:43:19.449Z",
+    "timestamp": "2020-09-13T08:46:09.944Z",
     "version": {
         "major": 1,
-        "minor": 253,
+        "minor": 254,
         "patch": 0
     },
     "keywords": [
@@ -1548,6 +1548,13 @@
             "name": "fantom.finance",
             "symbol": "FTM",
             "address": "0xCf0E6b80b63bAF5743Ee54d91f5F7e3926B7e1f8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TKEX Network",
+            "symbol": "TKEX",
+            "address": "0x14D8f55CE856e8bCf4a4C863Ce6A40175bCA527d",
             "decimals": 18
         }
     ]
