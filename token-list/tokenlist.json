@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T16:06:34.474Z",
+    "timestamp": "2020-09-13T16:11:06.824Z",
     "version": {
         "major": 1,
-        "minor": 300,
+        "minor": 301,
         "patch": 0
     },
     "keywords": [
@@ -1878,6 +1878,13 @@
             "symbol": "SFI",
             "address": "0x595A6f07ca5C0eE52358601C73434c81f65F98bF",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DoubleHelix",
+            "symbol": "DHXToken2",
+            "address": "0x3ba9a145f452Ab0c5C71Ca620A768387EAF17c6d",
+            "decimals": 9
         }
     ]
 }
