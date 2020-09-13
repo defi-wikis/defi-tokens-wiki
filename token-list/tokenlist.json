@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T07:45:54.211Z",
+    "timestamp": "2020-09-13T07:54:53.709Z",
     "version": {
         "major": 1,
-        "minor": 248,
+        "minor": 249,
         "patch": 0
     },
     "keywords": [
@@ -1513,6 +1513,13 @@
             "name": "EAT Token",
             "symbol": "EATT",
             "address": "0x560827208eED0eC04254f523cD5373EC1B394683",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfipool.finance",
+            "symbol": "YFP",
+            "address": "0x442dC4dbB08E8a2c4Dc8c28CC2c98369aECCCD26",
             "decimals": 18
         }
     ]
