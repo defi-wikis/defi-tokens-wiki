@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T01:30:54.423Z",
+    "timestamp": "2020-09-13T02:10:44.078Z",
     "version": {
         "major": 1,
-        "minor": 226,
+        "minor": 227,
         "patch": 0
     },
     "keywords": [
@@ -1359,6 +1359,13 @@
             "name": "DexCloud",
             "symbol": "DXCD",
             "address": "0xfe11750105f738D6ae2E11CcFCBAE6e30667652A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YIFFValue",
+            "symbol": "YIFF",
+            "address": "0x21b4d12349fF875e43dfD6fA7F91d6AC4Cbd013e",
             "decimals": 18
         }
     ]
