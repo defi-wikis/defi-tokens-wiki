@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T00:14:39.175Z",
+    "timestamp": "2020-09-13T00:34:34.764Z",
     "version": {
         "major": 1,
-        "minor": 223,
+        "minor": 224,
         "patch": 0
     },
     "keywords": [
@@ -1339,6 +1339,13 @@
             "symbol": "sake",
             "address": "0xd0883dB4e5aD2BA5277e5948668EB83f1b02f9D5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BEANS @ beans.farm",
+            "symbol": "BEANS",
+            "address": "0xD6181c7552E6Dfd424b5b2B9dBd953c2D785384c",
+            "decimals": 8
         }
     ]
 }
