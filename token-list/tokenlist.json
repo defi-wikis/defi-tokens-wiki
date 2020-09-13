@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T13:23:24.561Z",
+    "timestamp": "2020-09-13T13:32:15.112Z",
     "version": {
         "major": 1,
-        "minor": 277,
+        "minor": 278,
         "patch": 0
     },
     "keywords": [
@@ -1717,6 +1717,13 @@
             "symbol": "BSF",
             "address": "0x96AB1366e850416808582e2E139830c5b3A14E77",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HighYield Token",
+            "symbol": "HYT",
+            "address": "0x8A6C1dDa95A802eAe1267439C91CdB2A3A7009B0",
+            "decimals": 0
         }
     ]
 }
