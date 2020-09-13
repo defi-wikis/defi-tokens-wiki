@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T13:45:34.524Z",
+    "timestamp": "2020-09-13T13:46:07.470Z",
     "version": {
         "major": 1,
-        "minor": 280,
+        "minor": 281,
         "patch": 0
     },
     "keywords": [
@@ -1737,6 +1737,13 @@
             "name": "ShillDAO",
             "symbol": "SHILL",
             "address": "0x54C818a55a795493dE47620fA08eFAE74fC48974",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PearSwap.org",
+            "symbol": "PEAR",
+            "address": "0xe68301308Da0f1678a0caA2eEB549C4f4c35B905",
             "decimals": 18
         }
     ]
