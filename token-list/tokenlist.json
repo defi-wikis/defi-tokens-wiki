@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T04:59:14.181Z",
+    "timestamp": "2020-09-13T05:14:39.019Z",
     "version": {
         "major": 1,
-        "minor": 238,
+        "minor": 239,
         "patch": 0
     },
     "keywords": [
@@ -1443,6 +1443,13 @@
             "name": "Ninja Fruit Farming",
             "symbol": "NFF",
             "address": "0x97151f1C5e61cE60fA1378A6985CEaECfa341b0e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RandomProcess protocol",
+            "symbol": "RPP",
+            "address": "0xdF6f2809982e18EC2C6850d30FF91068AE471fd4",
             "decimals": 18
         }
     ]
