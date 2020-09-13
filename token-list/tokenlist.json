@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T07:26:39.554Z",
+    "timestamp": "2020-09-13T07:38:44.445Z",
     "version": {
         "major": 1,
-        "minor": 245,
+        "minor": 246,
         "patch": 0
     },
     "keywords": [
@@ -1492,6 +1492,13 @@
             "name": "Ponzi Scheme @ Ponzi.Finance",
             "symbol": "$PONZI",
             "address": "0xE5bA0689485b4785F4e8859EE7e1A65B96D6E7B4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance HyperYield ",
+            "symbol": "yfhy",
+            "address": "0x2469201848aBA2a4d40E32c9C6d0f48f3CF24c91",
             "decimals": 18
         }
     ]
