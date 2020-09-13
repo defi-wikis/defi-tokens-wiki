@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T10:40:59.552Z",
+    "timestamp": "2020-09-13T10:46:29.474Z",
     "version": {
         "major": 1,
-        "minor": 260,
+        "minor": 261,
         "patch": 0
     },
     "keywords": [
@@ -1597,6 +1597,13 @@
             "name": "Lynx Yield Finance",
             "symbol": "LYFI",
             "address": "0xcb0b37347c3210232a7db73F1A21F5496a2d416F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hydra",
+            "symbol": "HDA",
+            "address": "0xE3d208D74e4C167245913C942df8C4Ee03b9abBA",
             "decimals": 18
         }
     ]
