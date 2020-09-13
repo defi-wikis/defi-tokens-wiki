@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T15:05:06.783Z",
+    "timestamp": "2020-09-13T15:06:09.519Z",
     "version": {
         "major": 1,
-        "minor": 289,
+        "minor": 290,
         "patch": 0
     },
     "keywords": [
@@ -1800,6 +1800,13 @@
             "name": "FarmLand",
             "symbol": "FARM",
             "address": "0xa50415844004Aeb3c3DB62b15eA7D3A3b80c2C49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CCCYield.Market",
+            "symbol": "CCC",
+            "address": "0xC1e205453A98b0A414cF20BaF5FFA2D5034E30C7",
             "decimals": 18
         }
     ]
