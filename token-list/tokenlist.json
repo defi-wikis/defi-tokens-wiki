@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T07:41:49.541Z",
+    "timestamp": "2020-09-13T07:45:54.211Z",
     "version": {
         "major": 1,
-        "minor": 247,
+        "minor": 248,
         "patch": 0
     },
     "keywords": [
@@ -1506,6 +1506,13 @@
             "name": "MT Token",
             "symbol": "MT",
             "address": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EAT Token",
+            "symbol": "EATT",
+            "address": "0x560827208eED0eC04254f523cD5373EC1B394683",
             "decimals": 18
         }
     ]
