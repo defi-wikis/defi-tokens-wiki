@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T13:43:05.619Z",
+    "timestamp": "2020-09-13T13:45:34.524Z",
     "version": {
         "major": 1,
-        "minor": 279,
+        "minor": 280,
         "patch": 0
     },
     "keywords": [
@@ -1730,6 +1730,13 @@
             "name": "YFVI",
             "symbol": "YFVI",
             "address": "0x949265f0Fd98e9a7dC4b259503bbE51c3f6de6FE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ShillDAO",
+            "symbol": "SHILL",
+            "address": "0x54C818a55a795493dE47620fA08eFAE74fC48974",
             "decimals": 18
         }
     ]
