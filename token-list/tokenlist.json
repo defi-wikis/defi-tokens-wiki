@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T07:54:53.709Z",
+    "timestamp": "2020-09-13T07:55:14.272Z",
     "version": {
         "major": 1,
-        "minor": 249,
+        "minor": 250,
         "patch": 0
     },
     "keywords": [
@@ -1521,6 +1521,13 @@
             "symbol": "YFP",
             "address": "0x442dC4dbB08E8a2c4Dc8c28CC2c98369aECCCD26",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped GOVM",
+            "symbol": "wGOVM",
+            "address": "0xaC5d7dFF150B195C97Fca77001f8AD596eda1761",
+            "decimals": 9
         }
     ]
 }
