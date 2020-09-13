@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T01:23:34.842Z",
+    "timestamp": "2020-09-13T01:30:54.423Z",
     "version": {
         "major": 1,
-        "minor": 225,
+        "minor": 226,
         "patch": 0
     },
     "keywords": [
@@ -1352,6 +1352,13 @@
             "name": "Printer.Finance",
             "symbol": "PRINT",
             "address": "0x54b8c98268dA0055971652A95F2bfD3a9349A38c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DexCloud",
+            "symbol": "DXCD",
+            "address": "0xfe11750105f738D6ae2E11CcFCBAE6e30667652A",
             "decimals": 18
         }
     ]
