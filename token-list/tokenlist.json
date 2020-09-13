@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T15:07:19.824Z",
+    "timestamp": "2020-09-13T15:12:10.722Z",
     "version": {
         "major": 1,
-        "minor": 291,
+        "minor": 292,
         "patch": 0
     },
     "keywords": [
@@ -1814,6 +1814,13 @@
             "name": "Bonded.Network",
             "symbol": "BNDN",
             "address": "0xaF89182Fd074587C67F9aDC64CE954B8b579E9e4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ryzen Farming Network",
+            "symbol": "RYFI",
+            "address": "0xb37C522f8232272a6FD8a4e1BD7086918142C46a",
             "decimals": 18
         }
     ]
