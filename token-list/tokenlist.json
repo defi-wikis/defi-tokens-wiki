@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T10:46:29.474Z",
+    "timestamp": "2020-09-13T10:52:49.318Z",
     "version": {
         "major": 1,
-        "minor": 261,
+        "minor": 262,
         "patch": 0
     },
     "keywords": [
@@ -1604,6 +1604,13 @@
             "name": "Hydra",
             "symbol": "HDA",
             "address": "0xE3d208D74e4C167245913C942df8C4Ee03b9abBA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TunaToken",
+            "symbol": "TUN",
+            "address": "0x61d94835bE8EDcDea3e30412F99f21D243039D2B",
             "decimals": 18
         }
     ]
