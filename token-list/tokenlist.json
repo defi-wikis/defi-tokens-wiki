@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T02:55:29.513Z",
+    "timestamp": "2020-09-13T03:23:09.378Z",
     "version": {
         "major": 1,
-        "minor": 230,
+        "minor": 231,
         "patch": 0
     },
     "keywords": [
@@ -1387,6 +1387,13 @@
             "name": "XMM TOKEN",
             "symbol": "XMM",
             "address": "0xa474dB1791a4ec4F94b71fd7EA2F0911D7770D2b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FRUIT",
+            "symbol": "FRUIT",
+            "address": "0xC22409C6d24fE4eaB01285548843307Aa68602be",
             "decimals": 18
         }
     ]
