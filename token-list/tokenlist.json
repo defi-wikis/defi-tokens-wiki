@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T09:39:19.416Z",
+    "timestamp": "2020-09-13T10:18:19.404Z",
     "version": {
         "major": 1,
-        "minor": 256,
+        "minor": 257,
         "patch": 0
     },
     "keywords": [
@@ -1569,6 +1569,13 @@
             "name": "HELIX",
             "symbol": "HLX",
             "address": "0x415A1AEde632aB788A89b785a03C6cb98497be64",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fornax DAO Finance",
+            "symbol": "FFI",
+            "address": "0x8552b1546F2Fc8EB39F67BA31a41060b8286e2A9",
             "decimals": 18
         }
     ]
