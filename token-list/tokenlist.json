@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T03:38:35.081Z",
+    "timestamp": "2020-09-13T03:54:19.572Z",
     "version": {
         "major": 1,
-        "minor": 235,
+        "minor": 236,
         "patch": 0
     },
     "keywords": [
@@ -1423,6 +1423,13 @@
             "symbol": "UPP",
             "address": "0xC86D054809623432210c107af2e3F619DcFbf652",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/Grey_holdings",
+            "symbol": "GREYTEST",
+            "address": "0x1E87A37a67E7059caA9340a79214B90C0661Ac0D",
+            "decimals": 0
         }
     ]
 }
