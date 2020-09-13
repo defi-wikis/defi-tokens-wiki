@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T16:11:06.824Z",
+    "timestamp": "2020-09-13T16:44:09.679Z",
     "version": {
         "major": 1,
-        "minor": 301,
+        "minor": 302,
         "patch": 0
     },
     "keywords": [
@@ -1884,6 +1884,13 @@
             "name": "DoubleHelix",
             "symbol": "DHXToken2",
             "address": "0x3ba9a145f452Ab0c5C71Ca620A768387EAF17c6d",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "dmpl",
+            "symbol": "DMPL",
+            "address": "0xD78aFdD162B11B2334877df6869f865b784B1527",
             "decimals": 9
         }
     ]
