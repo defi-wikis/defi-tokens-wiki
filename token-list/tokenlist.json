@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T16:54:44.520Z",
+    "timestamp": "2020-09-14T17:26:05.695Z",
     "version": {
         "major": 1,
-        "minor": 312,
+        "minor": 313,
         "patch": 0
     },
     "keywords": [
@@ -1954,6 +1954,13 @@
             "name": "yfimoon.network",
             "symbol": "YFM",
             "address": "0x148E4cD036fe0Be5a28269d5026ACD122e58Ee3e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YYI.Finance",
+            "symbol": "YYI",
+            "address": "0x9764cE0575fc1CeE7668f0dc09D6065cE9e5c25b",
             "decimals": 18
         }
     ]
