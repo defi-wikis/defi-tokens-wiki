@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:25:50.274Z",
+    "timestamp": "2020-09-14T20:26:50.097Z",
     "version": {
         "major": 1,
-        "minor": 325,
+        "minor": 326,
         "patch": 0
     },
     "keywords": [
@@ -2045,6 +2045,13 @@
             "name": "zUSD",
             "symbol": "ZUSD",
             "address": "0x35E10c9fAf79535C3A3Ce0B731b5951629fc8084",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFarmLand Token",
+            "symbol": "YFARMER",
+            "address": "0x7B0F66fA5cf5cc28280c1e7051af881E06579362",
             "decimals": 18
         }
     ]
