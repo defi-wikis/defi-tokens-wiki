@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T23:35:24.085Z",
+    "timestamp": "2020-09-14T23:45:14.866Z",
     "version": {
         "major": 1,
-        "minor": 346,
+        "minor": 347,
         "patch": 0
     },
     "keywords": [
@@ -2193,6 +2193,13 @@
             "symbol": "ECP+",
             "address": "0x8B8a8A91d7b8EC2E6ab37Ed8FFbAcEE062C6F3C7",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "yffs.finance",
+            "symbol": "yffs",
+            "address": "0xaA4BaBabBb9dFA1EB291aF783829116028Aa40f8",
+            "decimals": 18
         }
     ]
 }
