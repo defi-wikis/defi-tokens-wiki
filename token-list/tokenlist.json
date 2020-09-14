@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T23:05:49.269Z",
+    "timestamp": "2020-09-14T23:16:49.820Z",
     "version": {
         "major": 1,
-        "minor": 343,
+        "minor": 344,
         "patch": 0
     },
     "keywords": [
@@ -2172,6 +2172,13 @@
             "symbol": "DCOM",
             "address": "0xF7a89fcc9DaCC80aCE2820f28466eACc658B8278",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Globex",
+            "symbol": "GEX",
+            "address": "0x03282f2D7834a97369Cad58f888aDa19EeC46ab6",
+            "decimals": 8
         }
     ]
 }
