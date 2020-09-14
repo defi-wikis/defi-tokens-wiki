@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T22:02:05.809Z",
+    "timestamp": "2020-09-14T22:07:40.333Z",
     "version": {
         "major": 1,
-        "minor": 337,
+        "minor": 338,
         "patch": 0
     },
     "keywords": [
@@ -2130,6 +2130,13 @@
             "symbol": "QXF",
             "address": "0x5dA64BFC1a3df5eA7192D07c32eb7EC0F5FD99a8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MONEY TRAIN",
+            "symbol": "TRAIN",
+            "address": "0x6d2887940eF2dF25fbAA0a028baCc391818Bea78",
+            "decimals": 6
         }
     ]
 }
