@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T23:00:31.949Z",
+    "timestamp": "2020-09-14T23:05:49.269Z",
     "version": {
         "major": 1,
-        "minor": 342,
+        "minor": 343,
         "patch": 0
     },
     "keywords": [
@@ -2164,6 +2164,13 @@
             "name": "Nebula.Finance",
             "symbol": "NBL",
             "address": "0x7DFE22956d8488Df25853CE2e2011579E7451FA6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFinitive Compound Token",
+            "symbol": "DCOM",
+            "address": "0xF7a89fcc9DaCC80aCE2820f28466eACc658B8278",
             "decimals": 18
         }
     ]
