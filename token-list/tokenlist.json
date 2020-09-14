@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T17:46:29.095Z",
+    "timestamp": "2020-09-14T18:06:14.361Z",
     "version": {
         "major": 1,
-        "minor": 315,
+        "minor": 316,
         "patch": 0
     },
     "keywords": [
@@ -1975,6 +1975,13 @@
             "name": "sun.io",
             "symbol": "SUN",
             "address": "0xCe2b6C99a7F9436802FCbA4A49d9b4dCfD52c87B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yieldCornFastFarming",
+            "symbol": "YCFF",
+            "address": "0x027AB8869cAa186755cba064C7E7764880714f11",
             "decimals": 18
         }
     ]
