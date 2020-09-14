@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T22:07:40.333Z",
+    "timestamp": "2020-09-14T22:10:34.576Z",
     "version": {
         "major": 1,
-        "minor": 338,
+        "minor": 339,
         "patch": 0
     },
     "keywords": [
@@ -2137,6 +2137,13 @@
             "symbol": "TRAIN",
             "address": "0x6d2887940eF2dF25fbAA0a028baCc391818Bea78",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "GAMBLUS",
+            "symbol": "GAMB",
+            "address": "0x773813FEbC826613Dd81D501389E78b7485BB315",
+            "decimals": 18
         }
     ]
 }
