@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T19:51:14.493Z",
+    "timestamp": "2020-09-14T20:01:39.605Z",
     "version": {
         "major": 1,
-        "minor": 321,
+        "minor": 322,
         "patch": 0
     },
     "keywords": [
@@ -2018,6 +2018,13 @@
             "symbol": "AXIA-V2",
             "address": "0x7384FDA4305c95C5c9A777aea07AE0389700a9b8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pop Finance",
+            "symbol": "POP",
+            "address": "0xa77d7af8b02aB276a71A749D16dcB57831825ABd",
+            "decimals": 9
         }
     ]
 }
