@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T21:40:15.114Z",
+    "timestamp": "2020-09-14T22:01:29.450Z",
     "version": {
         "major": 1,
-        "minor": 335,
+        "minor": 336,
         "patch": 0
     },
     "keywords": [
@@ -2115,6 +2115,13 @@
             "name": "Processed YFarmLand Token",
             "symbol": "pYFARMER",
             "address": "0x2988cd974cdC3e4Fa65e544961fb75840B85BDbA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HAM Finance",
+            "symbol": "HAMF",
+            "address": "0xFd277dd530BC723CCBe2f8307F2a68FfbfE336b4",
             "decimals": 18
         }
     ]
