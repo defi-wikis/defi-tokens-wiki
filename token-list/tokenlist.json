@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:47:29.214Z",
+    "timestamp": "2020-09-14T20:52:06.773Z",
     "version": {
         "major": 1,
-        "minor": 330,
+        "minor": 331,
         "patch": 0
     },
     "keywords": [
@@ -2080,6 +2080,13 @@
             "name": "KobeBeef.Finance",
             "symbol": "KBF",
             "address": "0x877Dd36CE795153aa35e42F54AD78dD7A850feDd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Superstar",
+            "symbol": "SSTAR",
+            "address": "0xF14038B9E117e88cfa2aAa0A5D6F7DFA1FbdFCeB",
             "decimals": 18
         }
     ]
