@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-13T17:21:20.202Z",
+    "timestamp": "2020-09-14T16:20:06.658Z",
     "version": {
         "major": 1,
-        "minor": 309,
+        "minor": 310,
         "patch": 0
     },
     "keywords": [
@@ -1933,6 +1933,13 @@
             "name": "pickle.finance",
             "symbol": "PICKLE",
             "address": "0xBb1bf54e924961848E29961F3569987AD41c2eD8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CAPITALSTARTUP.FINANCE",
+            "symbol": "CAP",
+            "address": "0xbDBe42eEf06Cf6f1e54642AB141A989F311a9caD",
             "decimals": 18
         }
     ]
