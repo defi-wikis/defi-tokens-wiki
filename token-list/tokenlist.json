@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:28:39.739Z",
+    "timestamp": "2020-09-14T20:37:54.289Z",
     "version": {
         "major": 1,
-        "minor": 327,
+        "minor": 328,
         "patch": 0
     },
     "keywords": [
@@ -2059,6 +2059,13 @@
             "name": "XYIELD.PROTOCOL",
             "symbol": "XYP",
             "address": "0x1B4a5a754CB8a566F67dB3551ab2879c72227F32",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "I HOUSE TOKEN",
+            "symbol": "IHT",
+            "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
             "decimals": 18
         }
     ]
