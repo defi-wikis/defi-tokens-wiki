@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T18:06:14.361Z",
+    "timestamp": "2020-09-14T18:32:54.435Z",
     "version": {
         "major": 1,
-        "minor": 316,
+        "minor": 317,
         "patch": 0
     },
     "keywords": [
@@ -1982,6 +1982,13 @@
             "name": "yieldCornFastFarming",
             "symbol": "YCFF",
             "address": "0x027AB8869cAa186755cba064C7E7764880714f11",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DogoCoin",
+            "symbol": "DOGO",
+            "address": "0xfa49ED86d759057e46D728f3020AF7C032AB8679",
             "decimals": 18
         }
     ]
