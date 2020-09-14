@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:01:39.605Z",
+    "timestamp": "2020-09-14T20:22:49.368Z",
     "version": {
         "major": 1,
-        "minor": 322,
+        "minor": 323,
         "patch": 0
     },
     "keywords": [
@@ -2025,6 +2025,13 @@
             "symbol": "POP",
             "address": "0xa77d7af8b02aB276a71A749D16dcB57831825ABd",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "XCredit",
+            "symbol": "XFYI",
+            "address": "0x6bE7e93e45740C314C89A3bE52473A0dDF2450fe",
+            "decimals": 18
         }
     ]
 }
