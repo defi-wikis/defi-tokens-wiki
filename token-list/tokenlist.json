@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:22:49.368Z",
+    "timestamp": "2020-09-14T20:24:24.817Z",
     "version": {
         "major": 1,
-        "minor": 323,
+        "minor": 324,
         "patch": 0
     },
     "keywords": [
@@ -2031,6 +2031,13 @@
             "name": "XCredit",
             "symbol": "XFYI",
             "address": "0x6bE7e93e45740C314C89A3bE52473A0dDF2450fe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Play Ponzi//Ponzi.Finance",
+            "symbol": "PLAY",
+            "address": "0x0125E7F7fF7392f7f86cEe5eC0459917E30e9C4C",
             "decimals": 18
         }
     ]
