@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T16:35:28.975Z",
+    "timestamp": "2020-09-14T16:54:44.520Z",
     "version": {
         "major": 1,
-        "minor": 311,
+        "minor": 312,
         "patch": 0
     },
     "keywords": [
@@ -1947,6 +1947,13 @@
             "name": "YstarFarming",
             "symbol": "YF",
             "address": "0x96F9632b25f874769969ff91219fCCb6ceDf26D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfimoon.network",
+            "symbol": "YFM",
+            "address": "0x148E4cD036fe0Be5a28269d5026ACD122e58Ee3e",
             "decimals": 18
         }
     ]
