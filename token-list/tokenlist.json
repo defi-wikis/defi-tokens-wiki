@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T16:20:06.658Z",
+    "timestamp": "2020-09-14T16:35:28.975Z",
     "version": {
         "major": 1,
-        "minor": 310,
+        "minor": 311,
         "patch": 0
     },
     "keywords": [
@@ -1940,6 +1940,13 @@
             "name": "CAPITALSTARTUP.FINANCE",
             "symbol": "CAP",
             "address": "0xbDBe42eEf06Cf6f1e54642AB141A989F311a9caD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YstarFarming",
+            "symbol": "YF",
+            "address": "0x96F9632b25f874769969ff91219fCCb6ceDf26D2",
             "decimals": 18
         }
     ]
