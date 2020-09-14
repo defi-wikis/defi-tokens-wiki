@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:52:06.773Z",
+    "timestamp": "2020-09-14T21:16:39.437Z",
     "version": {
         "major": 1,
-        "minor": 331,
+        "minor": 332,
         "patch": 0
     },
     "keywords": [
@@ -2087,6 +2087,13 @@
             "name": "Superstar",
             "symbol": "SSTAR",
             "address": "0xF14038B9E117e88cfa2aAa0A5D6F7DFA1FbdFCeB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YummySwap",
+            "symbol": "Yummy",
+            "address": "0xd980A14fc6C7CEA46AC8263625a42d38feEa00A7",
             "decimals": 18
         }
     ]
