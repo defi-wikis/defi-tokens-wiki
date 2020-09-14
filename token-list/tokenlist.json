@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T19:05:24.324Z",
+    "timestamp": "2020-09-14T19:48:34.329Z",
     "version": {
         "major": 1,
-        "minor": 319,
+        "minor": 320,
         "patch": 0
     },
     "keywords": [
@@ -2003,6 +2003,13 @@
             "name": "YearnSpaceFinance",
             "symbol": "YSF",
             "address": "0xDDd05C42769c2D339d9c4364326f46545190ACF6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ROOBEE",
+            "symbol": "ROOBEE",
+            "address": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
             "decimals": 18
         }
     ]
