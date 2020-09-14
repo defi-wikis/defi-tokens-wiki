@@ -1,0 +1,7 @@
+{
+    "name": "SushiSwap LP Token",
+    "symbol": "SLP",
+    "address": "0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
