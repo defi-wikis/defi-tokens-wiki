@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T22:58:54.165Z",
+    "timestamp": "2020-09-14T23:00:31.949Z",
     "version": {
         "major": 1,
-        "minor": 341,
+        "minor": 342,
         "patch": 0
     },
     "keywords": [
@@ -2157,6 +2157,13 @@
             "name": "Yield Farming Known as Ash",
             "symbol": "YFKA",
             "address": "0x8d2914D7E066eB2756D4B87AcA8198619EB2CF69",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nebula.Finance",
+            "symbol": "NBL",
+            "address": "0x7DFE22956d8488Df25853CE2e2011579E7451FA6",
             "decimals": 18
         }
     ]
