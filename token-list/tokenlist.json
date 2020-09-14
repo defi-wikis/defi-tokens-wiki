@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T17:46:19.439Z",
+    "timestamp": "2020-09-14T17:46:29.095Z",
     "version": {
         "major": 1,
-        "minor": 314,
+        "minor": 315,
         "patch": 0
     },
     "keywords": [
@@ -1968,6 +1968,13 @@
             "name": "CRATE",
             "symbol": "CRT",
             "address": "0x8ad2e4D2162b5750Dd901d3Fe0997fe686F6c9DD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sun.io",
+            "symbol": "SUN",
+            "address": "0xCe2b6C99a7F9436802FCbA4A49d9b4dCfD52c87B",
             "decimals": 18
         }
     ]
