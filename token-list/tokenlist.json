@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T23:29:49.950Z",
+    "timestamp": "2020-09-14T23:35:24.085Z",
     "version": {
         "major": 1,
-        "minor": 345,
+        "minor": 346,
         "patch": 0
     },
     "keywords": [
@@ -2186,6 +2186,13 @@
             "symbol": "YFIP",
             "address": "0x0F2d3709DAD69dBAf533596F9F759e82B7d9AA53",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Epay Coin Plus",
+            "symbol": "ECP+",
+            "address": "0x8B8a8A91d7b8EC2E6ab37Ed8FFbAcEE062C6F3C7",
+            "decimals": 6
         }
     ]
 }
