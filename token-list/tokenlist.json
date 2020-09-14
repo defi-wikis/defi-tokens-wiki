@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T21:16:39.437Z",
+    "timestamp": "2020-09-14T21:26:24.351Z",
     "version": {
         "major": 1,
-        "minor": 332,
+        "minor": 333,
         "patch": 0
     },
     "keywords": [
@@ -2094,6 +2094,13 @@
             "name": "YummySwap",
             "symbol": "Yummy",
             "address": "0xd980A14fc6C7CEA46AC8263625a42d38feEa00A7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rawdefi.com",
+            "symbol": "RDFI",
+            "address": "0xA3863eb27F33deF32a372455B088Cab2AEEd1426",
             "decimals": 18
         }
     ]
