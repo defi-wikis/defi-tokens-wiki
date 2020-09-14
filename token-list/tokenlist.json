@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T22:13:34.260Z",
+    "timestamp": "2020-09-14T22:58:54.165Z",
     "version": {
         "major": 1,
-        "minor": 340,
+        "minor": 341,
         "patch": 0
     },
     "keywords": [
@@ -2150,6 +2150,13 @@
             "name": "Yin Yang",
             "symbol": "YYF",
             "address": "0x010194bA9CA34AC26B097a5F204dfB47B21288Ea",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Farming Known as Ash",
+            "symbol": "YFKA",
+            "address": "0x8d2914D7E066eB2756D4B87AcA8198619EB2CF69",
             "decimals": 18
         }
     ]
