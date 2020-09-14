@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T21:27:49.262Z",
+    "timestamp": "2020-09-14T21:40:15.114Z",
     "version": {
         "major": 1,
-        "minor": 334,
+        "minor": 335,
         "patch": 0
     },
     "keywords": [
@@ -2108,6 +2108,13 @@
             "name": "yfbit.finance",
             "symbol": "YFBT",
             "address": "0xe2b8cE26118d112069da70226A703454dEA4803D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Processed YFarmLand Token",
+            "symbol": "pYFARMER",
+            "address": "0x2988cd974cdC3e4Fa65e544961fb75840B85BDbA",
             "decimals": 18
         }
     ]
