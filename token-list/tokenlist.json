@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:38:39.580Z",
+    "timestamp": "2020-09-14T20:47:29.214Z",
     "version": {
         "major": 1,
-        "minor": 329,
+        "minor": 330,
         "patch": 0
     },
     "keywords": [
@@ -2073,6 +2073,13 @@
             "name": "NO RUG TO PULL",
             "symbol": "NRTP",
             "address": "0xC8502b6a213Ae9B1E8355cc08971d60428Af279d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KobeBeef.Finance",
+            "symbol": "KBF",
+            "address": "0x877Dd36CE795153aa35e42F54AD78dD7A850feDd",
             "decimals": 18
         }
     ]
