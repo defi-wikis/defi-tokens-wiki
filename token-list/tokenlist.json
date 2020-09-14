@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T20:26:50.097Z",
+    "timestamp": "2020-09-14T20:28:39.739Z",
     "version": {
         "major": 1,
-        "minor": 326,
+        "minor": 327,
         "patch": 0
     },
     "keywords": [
@@ -2052,6 +2052,13 @@
             "name": "YFarmLand Token",
             "symbol": "YFARMER",
             "address": "0x7B0F66fA5cf5cc28280c1e7051af881E06579362",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XYIELD.PROTOCOL",
+            "symbol": "XYP",
+            "address": "0x1B4a5a754CB8a566F67dB3551ab2879c72227F32",
             "decimals": 18
         }
     ]
