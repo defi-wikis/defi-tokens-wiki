@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T23:16:49.820Z",
+    "timestamp": "2020-09-14T23:29:49.950Z",
     "version": {
         "major": 1,
-        "minor": 344,
+        "minor": 345,
         "patch": 0
     },
     "keywords": [
@@ -2179,6 +2179,13 @@
             "symbol": "GEX",
             "address": "0x03282f2D7834a97369Cad58f888aDa19EeC46ab6",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YFIPay.Finance",
+            "symbol": "YFIP",
+            "address": "0x0F2d3709DAD69dBAf533596F9F759e82B7d9AA53",
+            "decimals": 18
         }
     ]
 }
