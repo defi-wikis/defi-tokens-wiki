@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T22:10:34.576Z",
+    "timestamp": "2020-09-14T22:13:34.260Z",
     "version": {
         "major": 1,
-        "minor": 339,
+        "minor": 340,
         "patch": 0
     },
     "keywords": [
@@ -2143,6 +2143,13 @@
             "name": "GAMBLUS",
             "symbol": "GAMB",
             "address": "0x773813FEbC826613Dd81D501389E78b7485BB315",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yin Yang",
+            "symbol": "YYF",
+            "address": "0x010194bA9CA34AC26B097a5F204dfB47B21288Ea",
             "decimals": 18
         }
     ]
