@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T18:43:09.143Z",
+    "timestamp": "2020-09-14T19:05:24.324Z",
     "version": {
         "major": 1,
-        "minor": 318,
+        "minor": 319,
         "patch": 0
     },
     "keywords": [
@@ -1996,6 +1996,13 @@
             "name": "YFZ - Another Shitcoin",
             "symbol": "YFZ",
             "address": "0x80D0B2e0b97E8Db5d3D811329255C8bF9a05C64D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnSpaceFinance",
+            "symbol": "YSF",
+            "address": "0xDDd05C42769c2D339d9c4364326f46545190ACF6",
             "decimals": 18
         }
     ]
