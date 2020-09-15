@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T11:33:29.537Z",
+    "timestamp": "2020-09-15T11:33:49.095Z",
     "version": {
         "major": 1,
-        "minor": 403,
+        "minor": 404,
         "patch": 0
     },
     "keywords": [
@@ -2591,6 +2591,13 @@
             "name": "TESTTOKEN1",
             "symbol": "TEST1",
             "address": "0x2E7A7e1293aA31cA40fb7203D99DE253Cb29bB3D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Libra Coin",
+            "symbol": "LBC",
+            "address": "0xD6FBbB390514cb0623f256b5377C56B3085413fe",
             "decimals": 18
         }
     ]
