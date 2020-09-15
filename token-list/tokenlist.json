@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T17:12:06.527Z",
+    "timestamp": "2020-09-15T17:15:29.309Z",
     "version": {
         "major": 1,
-        "minor": 430,
+        "minor": 431,
         "patch": 0
     },
     "keywords": [
@@ -2780,6 +2780,13 @@
             "name": "ERA Finance",
             "symbol": "ERA",
             "address": "0x03542773fF03E6bFC17f70CB29c0B43115399a8b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfu.finance",
+            "symbol": "YFU",
+            "address": "0xa279dab6ec190eE4Efce7Da72896EB58AD533262",
             "decimals": 18
         }
     ]
