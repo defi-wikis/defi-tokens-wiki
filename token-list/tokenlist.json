@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T10:14:01.844Z",
+    "timestamp": "2020-09-15T10:14:39.214Z",
     "version": {
         "major": 1,
-        "minor": 398,
+        "minor": 399,
         "patch": 0
     },
     "keywords": [
@@ -2556,6 +2556,13 @@
             "name": "Fruit.Finance",
             "symbol": "FRUIT",
             "address": "0xc04a67aDae8e7acf5681Cf87cc66345117B33e73",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "frontier.xyz",
+            "symbol": "FRONT",
+            "address": "0x06f59DD778Fd183DE777beBda694a92950B6ad47",
             "decimals": 18
         }
     ]
