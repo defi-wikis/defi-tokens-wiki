@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T18:13:05.807Z",
+    "timestamp": "2020-09-15T18:56:19.494Z",
     "version": {
         "major": 1,
-        "minor": 438,
+        "minor": 439,
         "patch": 0
     },
     "keywords": [
@@ -2836,6 +2836,13 @@
             "name": "wing finance",
             "symbol": "WING",
             "address": "0x4d04059092729aF9A920C311E428C2c4751b57D5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STATS.FINANCE",
+            "symbol": "STATS",
+            "address": "0x890F273bBfA13fB9681AaFcdf2a7c8B43C8323EE",
             "decimals": 18
         }
     ]
