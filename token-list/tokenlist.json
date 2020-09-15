@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T17:15:29.309Z",
+    "timestamp": "2020-09-15T17:31:14.036Z",
     "version": {
         "major": 1,
-        "minor": 431,
+        "minor": 432,
         "patch": 0
     },
     "keywords": [
@@ -2787,6 +2787,13 @@
             "name": "yfu.finance",
             "symbol": "YFU",
             "address": "0xa279dab6ec190eE4Efce7Da72896EB58AD533262",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aavegotchi GHST Token",
+            "symbol": "GHST",
+            "address": "0xf96A1c419DeAE663c533Eddabc7a4A7DCE096FC2",
             "decimals": 18
         }
     ]
