@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T20:04:09.849Z",
+    "timestamp": "2020-09-15T20:16:14.851Z",
     "version": {
         "major": 1,
-        "minor": 449,
+        "minor": 450,
         "patch": 0
     },
     "keywords": [
@@ -2913,6 +2913,13 @@
             "name": "GiantWhale Network",
             "symbol": "GWN",
             "address": "0x6C95350a55dFaEF356638CD061A788c0d0576B4E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "finswap.app",
+            "symbol": "FNSP",
+            "address": "0x5167C05750FF4BfeB3a2950c40a08cAf5b1d67f9",
             "decimals": 18
         }
     ]
