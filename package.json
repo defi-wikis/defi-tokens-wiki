@@ -1,0 +1,30 @@
+{
+  "name": "defi-token-wiki",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "ajv": "^6.12.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2",
+    "web3-utils": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defi-wikis/defi-token-wiki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defi-wikis/defi-token-wiki/issues"
+  },
+  "homepage": "https://github.com/defi-wikis/defi-token-wiki#readme"
+}
