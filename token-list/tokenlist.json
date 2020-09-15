@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T19:44:24.385Z",
+    "timestamp": "2020-09-15T19:46:14.515Z",
     "version": {
         "major": 1,
-        "minor": 446,
+        "minor": 447,
         "patch": 0
     },
     "keywords": [
@@ -2892,6 +2892,13 @@
             "name": "Phoo",
             "symbol": "PHOO",
             "address": "0xAF06c646f21f7c74570466C141AF73629949D93C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TrueCAD",
+            "symbol": "TCAD",
+            "address": "0x00000100F2A2bd000715001920eB70D229700085",
             "decimals": 18
         }
     ]
