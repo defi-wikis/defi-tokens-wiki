@@ -1,0 +1,7 @@
+{
+    "name": "Aavegotchi Token",
+    "symbol": "AAVE",
+    "address": "0x1e571d413867688490102abd21ed5e2014127Ba2",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
