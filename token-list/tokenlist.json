@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T17:35:10.333Z",
+    "timestamp": "2020-09-15T17:36:53.879Z",
     "version": {
         "major": 1,
-        "minor": 433,
+        "minor": 434,
         "patch": 0
     },
     "keywords": [
@@ -2801,6 +2801,13 @@
             "name": "iburn.io",
             "symbol": "IBURN",
             "address": "0xCb1b5582c988b099F641fF59C8Add0737C8E9B59",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dHedge.org",
+            "symbol": "DHT",
+            "address": "0x6370ad5D850DE64f2549F75a54784A7b1b1dAed8",
             "decimals": 18
         }
     ]
