@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T05:19:02.547Z",
+    "timestamp": "2020-09-15T05:29:14.521Z",
     "version": {
         "major": 1,
-        "minor": 374,
+        "minor": 375,
         "patch": 0
     },
     "keywords": [
@@ -2388,6 +2388,13 @@
             "name": "Jelly",
             "symbol": "JELLY",
             "address": "0x8dD7c0B6EC8A3b1C582f18822C9D0E6d86145Ef5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jelly.Market",
+            "symbol": "JELLY",
+            "address": "0x35FB232504e4B1C5F227F743aaB1144CD9708036",
             "decimals": 18
         }
     ]
