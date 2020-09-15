@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T08:37:07.408Z",
+    "timestamp": "2020-09-15T08:54:33.882Z",
     "version": {
         "major": 1,
-        "minor": 393,
+        "minor": 394,
         "patch": 0
     },
     "keywords": [
@@ -2521,6 +2521,13 @@
             "name": "Soft DFI.money",
             "symbol": "SYFII",
             "address": "0x6425F990e1cfCaa6F06C9e276EF6Cb9Ad6986974",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YF Cash",
+            "symbol": "YFCL",
+            "address": "0xF8666776903B1F4c2Fdac892C20729e9d2e7B2Be",
             "decimals": 18
         }
     ]
