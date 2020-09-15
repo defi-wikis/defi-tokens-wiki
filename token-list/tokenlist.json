@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T04:57:19.615Z",
+    "timestamp": "2020-09-15T05:00:54.572Z",
     "version": {
         "major": 1,
-        "minor": 370,
+        "minor": 371,
         "patch": 0
     },
     "keywords": [
@@ -2360,6 +2360,13 @@
             "name": "Silky Finance",
             "symbol": "SILKY",
             "address": "0x5bbdEee720977e46230B111Ec2B08557300bd485",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Decentralized lending platform coin",
+            "symbol": "DLC",
+            "address": "0x395F7B67689b7e643bB89055AcE01E2Ae9a19CE1",
             "decimals": 18
         }
     ]
