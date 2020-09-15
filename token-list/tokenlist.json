@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T01:23:29.786Z",
+    "timestamp": "2020-09-15T01:31:19.481Z",
     "version": {
         "major": 1,
-        "minor": 355,
+        "minor": 356,
         "patch": 0
     },
     "keywords": [
@@ -2255,6 +2255,13 @@
             "name": "zzz.finance",
             "symbol": "ZZZ",
             "address": "0x520Bd7794C603d95b2afB215964698166675E243",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFMoonshot",
+            "symbol": "YFMS",
+            "address": "0xfef3bEf71A5EB97E097039038776fD967ae5B106",
             "decimals": 18
         }
     ]
