@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T12:39:54.743Z",
+    "timestamp": "2020-09-15T12:49:24.889Z",
     "version": {
         "major": 1,
-        "minor": 412,
+        "minor": 413,
         "patch": 0
     },
     "keywords": [
@@ -2654,6 +2654,13 @@
             "name": "yen.finance",
             "symbol": "YFN",
             "address": "0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vishal4",
+            "symbol": "VISH4",
+            "address": "0x0B980387d74b3b68334EB1667Cc1bEbe8C760Fb0",
             "decimals": 18
         }
     ]
