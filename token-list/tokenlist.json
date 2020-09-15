@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T07:27:40.055Z",
+    "timestamp": "2020-09-15T07:36:05.980Z",
     "version": {
         "major": 1,
-        "minor": 387,
+        "minor": 388,
         "patch": 0
     },
     "keywords": [
@@ -2479,6 +2479,13 @@
             "name": "LongToken",
             "symbol": "LONG",
             "address": "0x4b1DA507C0A6D6ECA4a56265A03C7e362dE17099",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bnbridge.exchange",
+            "symbol": "BRIDGE",
+            "address": "0x1193Ba291Db4BAaad03FE48772d6E1a85b310Dfa",
             "decimals": 18
         }
     ]
