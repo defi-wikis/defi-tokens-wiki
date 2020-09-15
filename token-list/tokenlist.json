@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T11:39:24.196Z",
+    "timestamp": "2020-09-15T11:57:19.905Z",
     "version": {
         "major": 1,
-        "minor": 405,
+        "minor": 406,
         "patch": 0
     },
     "keywords": [
@@ -2605,6 +2605,13 @@
             "name": "Wing.finance",
             "symbol": "WING",
             "address": "0x3992b1d6773f12AF3488507577F0BDC5200BBDDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "frontier",
+            "symbol": "FRONT",
+            "address": "0x615b97AbEA6A6D43D9050125c76E5cD5c0210019",
             "decimals": 18
         }
     ]
