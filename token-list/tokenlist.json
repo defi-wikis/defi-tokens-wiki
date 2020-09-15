@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T22:24:44.439Z",
+    "timestamp": "2020-09-15T22:34:54.876Z",
     "version": {
         "major": 1,
-        "minor": 462,
+        "minor": 463,
         "patch": 0
     },
     "keywords": [
@@ -28,7 +28,7 @@
             "description": "Tokens that can be redeemed in exchange for business tokens"
         },
         "oracle": {
-            "name": "DeFi",
+            "name": "Oracle",
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
@@ -2983,6 +2983,13 @@
             "name": "Charging pile",
             "symbol": "CPT",
             "address": "0xd709b6D8cC51655A28aC99E88B328C4D678a7C6E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Be.fan",
+            "symbol": "BFAN",
+            "address": "0x438691e8d9098dCe98286cbc1c307e660cf0BBD8",
             "decimals": 18
         }
     ]
