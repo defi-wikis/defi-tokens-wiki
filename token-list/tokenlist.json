@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T09:42:44.463Z",
+    "timestamp": "2020-09-15T09:55:25.374Z",
     "version": {
         "major": 1,
-        "minor": 396,
+        "minor": 397,
         "patch": 0
     },
     "keywords": [
@@ -2542,6 +2542,13 @@
             "name": "Bella",
             "symbol": "BEL",
             "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MOSQUITO.FINANCE",
+            "symbol": "MOSQUITO",
+            "address": "0xaE76802bDe3512E65655A554Db8B1385d0843818",
             "decimals": 18
         }
     ]
