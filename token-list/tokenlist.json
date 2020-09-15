@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T10:56:54.790Z",
+    "timestamp": "2020-09-15T11:32:54.201Z",
     "version": {
         "major": 1,
-        "minor": 401,
+        "minor": 402,
         "patch": 0
     },
     "keywords": [
@@ -2577,6 +2577,13 @@
             "name": "Peasant Farming Network",
             "symbol": "PFN",
             "address": "0x693a932faaDaf2a6f6D716d249F43462e64c646a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wing.Finance",
+            "symbol": "WING",
+            "address": "0xac969ef484eD089e4CCD39741a9817ba8caC1425",
             "decimals": 18
         }
     ]
