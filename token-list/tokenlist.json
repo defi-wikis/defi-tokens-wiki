@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T03:01:39.440Z",
+    "timestamp": "2020-09-15T03:56:59.453Z",
     "version": {
         "major": 1,
-        "minor": 362,
+        "minor": 363,
         "patch": 0
     },
     "keywords": [
@@ -2304,6 +2304,13 @@
             "name": "yfione.network",
             "symbol": "YFN",
             "address": "0x6e1D68f4a6EDAfD8635f9e3776E23eB474b45B25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bella",
+            "symbol": "BEL",
+            "address": "0xac36ADa0C4B278A654F57847C11d54a191f0b2a8",
             "decimals": 18
         }
     ]
