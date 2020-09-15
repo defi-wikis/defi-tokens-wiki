@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T07:52:06.333Z",
+    "timestamp": "2020-09-15T07:54:39.580Z",
     "version": {
         "major": 1,
-        "minor": 389,
+        "minor": 390,
         "patch": 0
     },
     "keywords": [
@@ -2494,6 +2494,13 @@
             "symbol": "YFB",
             "address": "0x7dDd361DCa760C20657f80c43CD9c27440e5Bd06",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Swapshipx  RTC",
+            "symbol": "SWSHX",
+            "address": "0x469b73BB8CD6d98f22b5F610609Be7A9EE90A9bA",
+            "decimals": 8
         }
     ]
 }
