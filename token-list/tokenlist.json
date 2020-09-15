@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T12:31:59.668Z",
+    "timestamp": "2020-09-15T12:39:54.743Z",
     "version": {
         "major": 1,
-        "minor": 411,
+        "minor": 412,
         "patch": 0
     },
     "keywords": [
@@ -2647,6 +2647,13 @@
             "name": "Azbi Balance Pool",
             "symbol": "AZBP",
             "address": "0xC210b05e093a164CfA11C18180c37Bf15A98E414",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yen.finance",
+            "symbol": "YFN",
+            "address": "0xc84F7ABE4904ee4f20a8c5dFA3cC4BF1829330AB",
             "decimals": 18
         }
     ]
