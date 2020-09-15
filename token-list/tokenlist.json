@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T08:05:15.345Z",
+    "timestamp": "2020-09-15T08:17:25.107Z",
     "version": {
         "major": 1,
-        "minor": 391,
+        "minor": 392,
         "patch": 0
     },
     "keywords": [
@@ -2508,6 +2508,13 @@
             "symbol": "Roce",
             "address": "0x1502329f2231F251dB22C44855F8a562e2E1C0Fa",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Aavegotchi Token",
+            "symbol": "AAVE",
+            "address": "0x1e571d413867688490102abd21ed5e2014127Ba2",
+            "decimals": 18
         }
     ]
 }
