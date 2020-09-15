@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T14:02:35.277Z",
+    "timestamp": "2020-09-15T14:09:44.377Z",
     "version": {
         "major": 1,
-        "minor": 419,
+        "minor": 420,
         "patch": 0
     },
     "keywords": [
@@ -2703,6 +2703,13 @@
             "name": "Apollo Finance",
             "symbol": "APL",
             "address": "0xA0ac13dbB25c8e4B29B8e5a0c2A68afD061Ef4C7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFU.Finance 2.0",
+            "symbol": "YFFU2",
+            "address": "0xBD0001Bb1a7EBDc64899161b48C60bcbef62004E",
             "decimals": 18
         }
     ]
