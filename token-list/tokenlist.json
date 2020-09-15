@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T20:49:09.434Z",
+    "timestamp": "2020-09-15T21:03:49.179Z",
     "version": {
         "major": 1,
-        "minor": 453,
+        "minor": 454,
         "patch": 0
     },
     "keywords": [
@@ -2942,6 +2942,13 @@
             "symbol": "e.xper",
             "address": "0x0719766E4b439CE49f20C00600C86d50ce0C607e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AGA Rewards",
+            "symbol": "AGAr",
+            "address": "0xb453f1f2EE776dAF2586501361c457dB70e1ca0F",
+            "decimals": 8
         }
     ]
 }
