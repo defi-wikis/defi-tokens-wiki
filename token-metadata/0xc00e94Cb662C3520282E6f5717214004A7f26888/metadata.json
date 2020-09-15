@@ -7,15 +7,15 @@
     "description": "Compound is an algorithmic money market protocol on Ethereum that lets users earn interest or borrow assets against collateral. Anyone can supply assets to Compound's liquidity pool and immediately begin earning continuously-compounding interest. Rates adjust automatically based on supply and demand.",
     "socialLinks": [
         {
-            "type": "Twitter",
+            "type": "twitter",
             "value": "https://twitter.com/compoundfinance"
         },
         {
-            "type": "Website",
+            "type": "website",
             "value": "https://compound.finance"
         },
         {
-            "type": "Discord",
+            "type": "discord",
             "value": "https://discord.com/invite/cU7vmVW"
         }
     ],

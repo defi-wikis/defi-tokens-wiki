@@ -7,7 +7,7 @@
     "description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led. WBTC brings greater liquidity to the Ethereum ecosystem including decentralized exchanges (DEXs) and financial applications. Today, the majority of trading volume takes place on centralized exchanges with Bitcoin. WBTC changes that, bringing Bitcoin's liquidity to DEXs and making it possible to use Bitcoin for token trades.",
     "socialLinks": [
         {
-            "type": "Website",
+            "type": "website",
             "value": "https://wbtc.network"
         }
     ],
