@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T01:11:24.403Z",
+    "timestamp": "2020-09-15T01:15:29.530Z",
     "version": {
         "major": 1,
-        "minor": 353,
+        "minor": 354,
         "patch": 0
     },
     "keywords": [
@@ -2241,6 +2241,13 @@
             "name": "xBTC Token @ xBTC.Fi",
             "symbol": "XBTC",
             "address": "0x6Ef60a749D28d816CA2aCd9f9AD806c491Ebdecd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "finastra.com",
+            "symbol": "FST",
+            "address": "0xf38D0C274Ee43c7c334CB8454d342d1d7e9980Ed",
             "decimals": 18
         }
     ]
