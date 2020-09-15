@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T09:55:25.374Z",
+    "timestamp": "2020-09-15T10:14:01.844Z",
     "version": {
         "major": 1,
-        "minor": 397,
+        "minor": 398,
         "patch": 0
     },
     "keywords": [
@@ -2549,6 +2549,13 @@
             "name": "MOSQUITO.FINANCE",
             "symbol": "MOSQUITO",
             "address": "0xaE76802bDe3512E65655A554Db8B1385d0843818",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fruit.Finance",
+            "symbol": "FRUIT",
+            "address": "0xc04a67aDae8e7acf5681Cf87cc66345117B33e73",
             "decimals": 18
         }
     ]
