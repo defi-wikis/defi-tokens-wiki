@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T07:54:39.580Z",
+    "timestamp": "2020-09-15T08:05:15.345Z",
     "version": {
         "major": 1,
-        "minor": 390,
+        "minor": 391,
         "patch": 0
     },
     "keywords": [
@@ -2500,6 +2500,13 @@
             "name": "Swapshipx  RTC",
             "symbol": "SWSHX",
             "address": "0x469b73BB8CD6d98f22b5F610609Be7A9EE90A9bA",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "RollsRoyce",
+            "symbol": "Roce",
+            "address": "0x1502329f2231F251dB22C44855F8a562e2E1C0Fa",
             "decimals": 8
         }
     ]
