@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T00:53:49.548Z",
+    "timestamp": "2020-09-15T00:54:19.986Z",
     "version": {
         "major": 1,
-        "minor": 351,
+        "minor": 352,
         "patch": 0
     },
     "keywords": [
@@ -2227,6 +2227,13 @@
             "name": "ySafe",
             "symbol": "ySAFE",
             "address": "0xD5cC838D2139133E008e43Ca9d71589f502FD9D3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "vybe",
+            "symbol": "VYBE",
+            "address": "0xAae54ccFBEE77244bE1EB1254351E8cBFFFF102D",
             "decimals": 18
         }
     ]
