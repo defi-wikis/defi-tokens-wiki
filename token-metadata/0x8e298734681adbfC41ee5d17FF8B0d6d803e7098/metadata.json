@@ -1,0 +1,7 @@
+{
+    "name": "FARM_WETH",
+    "symbol": "fWETH",
+    "address": "0x8e298734681adbfC41ee5d17FF8B0d6d803e7098",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
