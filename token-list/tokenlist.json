@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T02:12:29.275Z",
+    "timestamp": "2020-09-15T02:14:44.087Z",
     "version": {
         "major": 1,
-        "minor": 357,
+        "minor": 358,
         "patch": 0
     },
     "keywords": [
@@ -2269,6 +2269,13 @@
             "name": "Etherisc",
             "symbol": "ETHR",
             "address": "0x20a95c898F039e305b95bc026b0B0864D2A634c0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BonezYard Music Platform",
+            "symbol": "BNZ",
+            "address": "0x014A543f767B3B06E31A811b0A75483Ee8dFd72D",
             "decimals": 18
         }
     ]
