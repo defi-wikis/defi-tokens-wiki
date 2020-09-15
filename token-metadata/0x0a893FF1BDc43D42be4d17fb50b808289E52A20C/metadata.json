@@ -3,5 +3,6 @@
     "symbol": "YLIVE",
     "address": "0x0a893FF1BDc43D42be4d17fb50b808289E52A20C",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "UNVERIFIED",
+    "blah": "blah"
 }
