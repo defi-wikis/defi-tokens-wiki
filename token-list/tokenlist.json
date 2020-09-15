@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T12:52:34.589Z",
+    "timestamp": "2020-09-15T13:23:39.984Z",
     "version": {
         "major": 1,
-        "minor": 414,
+        "minor": 415,
         "patch": 0
     },
     "keywords": [
@@ -2668,6 +2668,13 @@
             "name": "yfworld.network",
             "symbol": "YFWN",
             "address": "0x0f6E71454C39126BaA89Ed8Dc36e3D4bC5D06f3D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AGA Carbon Credit",
+            "symbol": "AGAc",
+            "address": "0xF2032813Aa3c8feEf7973e44A92E68ab11eE8021",
             "decimals": 18
         }
     ]
