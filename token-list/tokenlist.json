@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T02:55:06.604Z",
+    "timestamp": "2020-09-15T03:01:39.440Z",
     "version": {
         "major": 1,
-        "minor": 361,
+        "minor": 362,
         "patch": 0
     },
     "keywords": [
@@ -2297,6 +2297,13 @@
             "name": "BurgerSwap",
             "symbol": "BURGER",
             "address": "0x1B6E29bEFbA4d24d9f609D26E2bDa3d101646Bdc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfione.network",
+            "symbol": "YFN",
+            "address": "0x6e1D68f4a6EDAfD8635f9e3776E23eB474b45B25",
             "decimals": 18
         }
     ]
