@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T13:57:54.581Z",
+    "timestamp": "2020-09-15T14:02:35.277Z",
     "version": {
         "major": 1,
-        "minor": 418,
+        "minor": 419,
         "patch": 0
     },
     "keywords": [
@@ -2696,6 +2696,13 @@
             "name": "YZZ.Finance",
             "symbol": "YZZ",
             "address": "0xed9d03936f0e87ff05Acf67AE08E4651A42c0Af9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Apollo Finance",
+            "symbol": "APL",
+            "address": "0xA0ac13dbB25c8e4B29B8e5a0c2A68afD061Ef4C7",
             "decimals": 18
         }
     ]
