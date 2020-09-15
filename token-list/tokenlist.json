@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T07:25:45.119Z",
+    "timestamp": "2020-09-15T07:27:40.055Z",
     "version": {
         "major": 1,
-        "minor": 386,
+        "minor": 387,
         "patch": 0
     },
     "keywords": [
@@ -2473,6 +2473,13 @@
             "symbol": "FARM",
             "address": "0x63A6da104C6a08dfeB50D13a7488F67bC98Cc41f",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "LongToken",
+            "symbol": "LONG",
+            "address": "0x4b1DA507C0A6D6ECA4a56265A03C7e362dE17099",
+            "decimals": 18
         }
     ]
 }
