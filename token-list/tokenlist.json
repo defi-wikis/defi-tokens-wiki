@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T20:21:09.912Z",
+    "timestamp": "2020-09-15T20:49:09.434Z",
     "version": {
         "major": 1,
-        "minor": 452,
+        "minor": 453,
         "patch": 0
     },
     "keywords": [
@@ -2934,6 +2934,13 @@
             "name": "SusafeToken",
             "symbol": "SUSAFE",
             "address": "0xB5EB2247cD16166d86925dCcFa5b3D083dAa0E5C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ExpertChain",
+            "symbol": "e.xper",
+            "address": "0x0719766E4b439CE49f20C00600C86d50ce0C607e",
             "decimals": 18
         }
     ]
