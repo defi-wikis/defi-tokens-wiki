@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T10:26:14.886Z",
+    "timestamp": "2020-09-15T10:56:54.790Z",
     "version": {
         "major": 1,
-        "minor": 400,
+        "minor": 401,
         "patch": 0
     },
     "keywords": [
@@ -2570,6 +2570,13 @@
             "name": "yEARNMutual",
             "symbol": "YMA",
             "address": "0x9F49e24668596F1073Eda0379eF83d7C5eA7fd62",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Peasant Farming Network",
+            "symbol": "PFN",
+            "address": "0x693a932faaDaf2a6f6D716d249F43462e64c646a",
             "decimals": 18
         }
     ]
