@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T05:53:44.365Z",
+    "timestamp": "2020-09-15T05:58:39.741Z",
     "version": {
         "major": 1,
-        "minor": 378,
+        "minor": 379,
         "patch": 0
     },
     "keywords": [
@@ -2417,6 +2417,13 @@
             "symbol": "BUB",
             "address": "0x114aD141671C869bD922d97FAb34818c5DCc94d0",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "Frontier Token",
+            "symbol": "FRONT",
+            "address": "0x55a8927927F5bE2dce35AfEfEA3bD3b7dd7E9f9b",
+            "decimals": 18
         }
     ]
 }
