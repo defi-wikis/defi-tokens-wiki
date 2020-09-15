@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T03:56:59.453Z",
+    "timestamp": "2020-09-15T04:10:49.473Z",
     "version": {
         "major": 1,
-        "minor": 363,
+        "minor": 364,
         "patch": 0
     },
     "keywords": [
@@ -2311,6 +2311,13 @@
             "name": "Bella",
             "symbol": "BEL",
             "address": "0xac36ADa0C4B278A654F57847C11d54a191f0b2a8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn Dai Stablecoin",
+            "symbol": "yDAI",
+            "address": "0xACd43E627e64355f1861cEC6d3a6688B31a6F952",
             "decimals": 18
         }
     ]
