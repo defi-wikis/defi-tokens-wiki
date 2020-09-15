@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T02:17:29.425Z",
+    "timestamp": "2020-09-15T02:41:54.194Z",
     "version": {
         "major": 1,
-        "minor": 359,
+        "minor": 360,
         "patch": 0
     },
     "keywords": [
@@ -2284,6 +2284,13 @@
             "symbol": "YFFI",
             "address": "0x75eE35F7D0aD5Aa6ED6Aa314Bf47d740d6D2d900",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WeSingCoin",
+            "symbol": "WSC",
+            "address": "0x2dcD9B1A7Ed408Ff48bD4918a1f9c0535dc54EAD",
+            "decimals": 6
         }
     ]
 }
