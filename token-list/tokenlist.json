@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T22:44:30.361Z",
+    "timestamp": "2020-09-15T22:51:14.380Z",
     "version": {
         "major": 1,
-        "minor": 464,
+        "minor": 465,
         "patch": 0
     },
     "keywords": [
@@ -2991,6 +2991,13 @@
             "name": "Be.fan",
             "symbol": "BFAN",
             "address": "0x438691e8d9098dCe98286cbc1c307e660cf0BBD8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wing Token",
+            "symbol": "WING",
+            "address": "0x06Ca771a689D6d5f5E435Be2EF1d1fFC6BdB3b4C",
             "decimals": 18
         }
     ]
