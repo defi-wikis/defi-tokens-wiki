@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T07:22:24.505Z",
+    "timestamp": "2020-09-15T07:25:45.119Z",
     "version": {
         "major": 1,
-        "minor": 385,
+        "minor": 386,
         "patch": 0
     },
     "keywords": [
@@ -2466,6 +2466,13 @@
             "symbol": "VMO",
             "address": "0x420B595D8B648971b3BfCF46E66544C384860536",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TimeFarmer",
+            "symbol": "FARM",
+            "address": "0x63A6da104C6a08dfeB50D13a7488F67bC98Cc41f",
+            "decimals": 6
         }
     ]
 }
