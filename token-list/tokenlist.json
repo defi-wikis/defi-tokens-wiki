@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T23:51:19.620Z",
+    "timestamp": "2020-09-15T23:54:14.650Z",
     "version": {
         "major": 1,
-        "minor": 469,
+        "minor": 470,
         "patch": 0
     },
     "keywords": [
@@ -3026,6 +3026,13 @@
             "name": "virgins.vc",
             "symbol": "VIRGINS",
             "address": "0xd1Ef0930887653416041Af4B11FeDAc05Db6b80B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfcredit.finance",
+            "symbol": "yfCREDIT",
+            "address": "0xd63A757DC917486Da1050847428393d2a91F0BFB",
             "decimals": 18
         }
     ]
