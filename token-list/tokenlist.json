@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T22:05:40.615Z",
+    "timestamp": "2020-09-15T22:24:44.439Z",
     "version": {
         "major": 1,
-        "minor": 461,
+        "minor": 462,
         "patch": 0
     },
     "keywords": [
@@ -2976,6 +2976,13 @@
             "name": "Ethereum Swap",
             "symbol": "ETS",
             "address": "0x1e662B4A9BA468c277dF647D21e490C4055518EE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Charging pile",
+            "symbol": "CPT",
+            "address": "0xd709b6D8cC51655A28aC99E88B328C4D678a7C6E",
             "decimals": 18
         }
     ]
