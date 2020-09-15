@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T19:40:38.876Z",
+    "timestamp": "2020-09-15T19:44:24.385Z",
     "version": {
         "major": 1,
-        "minor": 445,
+        "minor": 446,
         "patch": 0
     },
     "keywords": [
@@ -2885,6 +2885,13 @@
             "name": "YFFF.Finance",
             "symbol": "YFFF",
             "address": "0xDf977986C2d669eFE06598bdE72eDCFffaFE78FB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Phoo",
+            "symbol": "PHOO",
+            "address": "0xAF06c646f21f7c74570466C141AF73629949D93C",
             "decimals": 18
         }
     ]
