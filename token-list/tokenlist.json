@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T14:31:34.016Z",
+    "timestamp": "2020-09-15T14:39:34.896Z",
     "version": {
         "major": 1,
-        "minor": 421,
+        "minor": 422,
         "patch": 0
     },
     "keywords": [
@@ -2718,6 +2718,13 @@
             "symbol": "LVB",
             "address": "0x66A6a3C183eE40c2ed78195BBe7F7D03F3B6afBD",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Aavegotchi",
+            "symbol": "GHST",
+            "address": "0x918A45a2B3aB2BdC627d3d18791c8F08206f9cdC",
+            "decimals": 18
         }
     ]
 }
