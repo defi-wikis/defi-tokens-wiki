@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T05:00:54.572Z",
+    "timestamp": "2020-09-15T05:08:07.020Z",
     "version": {
         "major": 1,
-        "minor": 371,
+        "minor": 372,
         "patch": 0
     },
     "keywords": [
@@ -2367,6 +2367,13 @@
             "name": "Decentralized lending platform coin",
             "symbol": "DLC",
             "address": "0x395F7B67689b7e643bB89055AcE01E2Ae9a19CE1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "frontier.xyz",
+            "symbol": "FRONT",
+            "address": "0x561e880e5b91fe02800548d98A12406fFa4070D5",
             "decimals": 18
         }
     ]
