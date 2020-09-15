@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T08:17:25.107Z",
+    "timestamp": "2020-09-15T08:37:07.408Z",
     "version": {
         "major": 1,
-        "minor": 392,
+        "minor": 393,
         "patch": 0
     },
     "keywords": [
@@ -2514,6 +2514,13 @@
             "name": "Aavegotchi Token",
             "symbol": "AAVE",
             "address": "0x1e571d413867688490102abd21ed5e2014127Ba2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soft DFI.money",
+            "symbol": "SYFII",
+            "address": "0x6425F990e1cfCaa6F06C9e276EF6Cb9Ad6986974",
             "decimals": 18
         }
     ]
