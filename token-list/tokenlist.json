@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T02:14:44.087Z",
+    "timestamp": "2020-09-15T02:17:29.425Z",
     "version": {
         "major": 1,
-        "minor": 358,
+        "minor": 359,
         "patch": 0
     },
     "keywords": [
@@ -2276,6 +2276,13 @@
             "name": "BonezYard Music Platform",
             "symbol": "BNZ",
             "address": "0x014A543f767B3B06E31A811b0A75483Ee8dFd72D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yffi.finance",
+            "symbol": "YFFI",
+            "address": "0x75eE35F7D0aD5Aa6ED6Aa314Bf47d740d6D2d900",
             "decimals": 18
         }
     ]
