@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T12:24:45.172Z",
+    "timestamp": "2020-09-15T12:30:55.204Z",
     "version": {
         "major": 1,
-        "minor": 409,
+        "minor": 410,
         "patch": 0
     },
     "keywords": [
@@ -2634,6 +2634,13 @@
             "symbol": "scUSD",
             "address": "0xf0BEa7077e2C65EF8BA089edcE949781Af6277A6",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YFIl.Finance",
+            "symbol": "YFIl",
+            "address": "0xb0db49A8CDC30ddA47572A5eA2b9B9F47d7e3352",
+            "decimals": 18
         }
     ]
 }
