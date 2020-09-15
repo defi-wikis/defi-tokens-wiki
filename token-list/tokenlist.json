@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T12:30:55.204Z",
+    "timestamp": "2020-09-15T12:31:59.668Z",
     "version": {
         "major": 1,
-        "minor": 410,
+        "minor": 411,
         "patch": 0
     },
     "keywords": [
@@ -2640,6 +2640,13 @@
             "name": "YFIl.Finance",
             "symbol": "YFIl",
             "address": "0xb0db49A8CDC30ddA47572A5eA2b9B9F47d7e3352",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Azbi Balance Pool",
+            "symbol": "AZBP",
+            "address": "0xC210b05e093a164CfA11C18180c37Bf15A98E414",
             "decimals": 18
         }
     ]
