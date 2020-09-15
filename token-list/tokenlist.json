@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T19:03:44.277Z",
+    "timestamp": "2020-09-15T19:13:14.832Z",
     "version": {
         "major": 1,
-        "minor": 440,
+        "minor": 441,
         "patch": 0
     },
     "keywords": [
@@ -2850,6 +2850,13 @@
             "name": "BetHero",
             "symbol": "HERO",
             "address": "0xC8d238F341310BCbCC06F6a024F79aA03d091d7C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YF Classic",
+            "symbol": "YFCL",
+            "address": "0xc666aF44582961a950a9db738F4B0d4aFdB482dF",
             "decimals": 18
         }
     ]
