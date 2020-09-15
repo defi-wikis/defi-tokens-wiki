@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T04:10:49.473Z",
+    "timestamp": "2020-09-15T04:23:30.639Z",
     "version": {
         "major": 1,
-        "minor": 364,
+        "minor": 365,
         "patch": 0
     },
     "keywords": [
@@ -2318,6 +2318,13 @@
             "name": "yearn Dai Stablecoin",
             "symbol": "yDAI",
             "address": "0xACd43E627e64355f1861cEC6d3a6688B31a6F952",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rabbit Breeding Token",
+            "symbol": "RBT",
+            "address": "0x623B3917719A3cef1A5d75E8F0aD37A45031a4d5",
             "decimals": 18
         }
     ]
