@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T18:56:19.494Z",
+    "timestamp": "2020-09-15T19:03:44.277Z",
     "version": {
         "major": 1,
-        "minor": 439,
+        "minor": 440,
         "patch": 0
     },
     "keywords": [
@@ -2843,6 +2843,13 @@
             "name": "STATS.FINANCE",
             "symbol": "STATS",
             "address": "0x890F273bBfA13fB9681AaFcdf2a7c8B43C8323EE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BetHero",
+            "symbol": "HERO",
+            "address": "0xC8d238F341310BCbCC06F6a024F79aA03d091d7C",
             "decimals": 18
         }
     ]
