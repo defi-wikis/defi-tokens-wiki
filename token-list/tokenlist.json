@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T15:48:07.595Z",
+    "timestamp": "2020-09-15T16:41:59.526Z",
     "version": {
         "major": 1,
-        "minor": 427,
+        "minor": 428,
         "patch": 0
     },
     "keywords": [
@@ -2759,6 +2759,13 @@
             "name": "KfcToken",
             "symbol": "KFC",
             "address": "0x212078A69d32F02941671B63d9d10E6774792B09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OneSwap",
+            "symbol": "ONES",
+            "address": "0x97144B7E76D012F4f6450e7fF29Bc0f5F01F6A0f",
             "decimals": 18
         }
     ]
