@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T17:31:14.036Z",
+    "timestamp": "2020-09-15T17:35:10.333Z",
     "version": {
         "major": 1,
-        "minor": 432,
+        "minor": 433,
         "patch": 0
     },
     "keywords": [
@@ -2794,6 +2794,13 @@
             "name": "Aavegotchi GHST Token",
             "symbol": "GHST",
             "address": "0xf96A1c419DeAE663c533Eddabc7a4A7DCE096FC2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iburn.io",
+            "symbol": "IBURN",
+            "address": "0xCb1b5582c988b099F641fF59C8Add0737C8E9B59",
             "decimals": 18
         }
     ]
