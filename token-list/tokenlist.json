@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T00:54:19.986Z",
+    "timestamp": "2020-09-15T01:11:24.403Z",
     "version": {
         "major": 1,
-        "minor": 352,
+        "minor": 353,
         "patch": 0
     },
     "keywords": [
@@ -2234,6 +2234,13 @@
             "name": "vybe",
             "symbol": "VYBE",
             "address": "0xAae54ccFBEE77244bE1EB1254351E8cBFFFF102D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xBTC Token @ xBTC.Fi",
+            "symbol": "XBTC",
+            "address": "0x6Ef60a749D28d816CA2aCd9f9AD806c491Ebdecd",
             "decimals": 18
         }
     ]
