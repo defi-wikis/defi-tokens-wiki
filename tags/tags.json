@@ -1,30 +1,30 @@
 {
     "stablecoin": {
-        "name": "Stablecoin",
+        "name": "💱Stablecoin",
         "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
     "defi": {
-        "name": "DeFi",
+        "name": "💻DeFi",
         "description": "Tokens that enable financial services using smart contracts"
     },
     "yield-farming": {
-        "name": "Yield Farming",
+        "name": "🌾Yield Farming",
         "description": "Tokens that earn rewards using permissionless liquidity protocols"
     },
     "business-services": {
-        "name": "Business Services",
+        "name": "🏗Business Services",
         "description": "Tokens that can be redeemed in exchange for business tokens"
     },
     "oracle": {
-        "name": "DeFi",
+        "name": "🔮Oracle",
         "description": "Tokens for protocols that provide smart contracts with external information"
     },
     "dex": {
-        "name": "DEX",
+        "name": "🐳DEX",
         "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
     },
     "exchange-based": {
-        "name": "Exchange Based",
+        "name": "💰Exchange Based",
         "description": "Tokens that offer holders discounts on trading fees and other benefits"
     },
     "lending": {
