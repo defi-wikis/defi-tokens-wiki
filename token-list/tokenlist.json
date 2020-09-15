@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T17:45:39.831Z",
+    "timestamp": "2020-09-15T18:02:54.309Z",
     "version": {
         "major": 1,
-        "minor": 436,
+        "minor": 437,
         "patch": 0
     },
     "keywords": [
@@ -2822,6 +2822,13 @@
             "name": "linear.finance",
             "symbol": "LINA",
             "address": "0x9E116C627a5b0662cFeAbb3127fb66475f1580C3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGOV.FINANCE",
+            "symbol": "YGOV",
+            "address": "0xDBCB5e9184eAEc2e15959DaB7d12f625ff38fbcc",
             "decimals": 18
         }
     ]
