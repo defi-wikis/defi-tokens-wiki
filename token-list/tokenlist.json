@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T21:24:39.387Z",
+    "timestamp": "2020-09-15T21:24:49.062Z",
     "version": {
         "major": 1,
-        "minor": 456,
+        "minor": 457,
         "patch": 0
     },
     "keywords": [
@@ -2962,6 +2962,13 @@
             "name": "YFInsurance",
             "symbol": "YFIN",
             "address": "0x3291298797ab7412909F8Ff2f8EC510604182282",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BetHero",
+            "symbol": "HERO",
+            "address": "0xAF1B4C2fF10796bd56A4824020AB1cdb9B0591ED",
             "decimals": 18
         }
     ]
