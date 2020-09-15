@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T19:30:24.484Z",
+    "timestamp": "2020-09-15T19:36:25.417Z",
     "version": {
         "major": 1,
-        "minor": 443,
+        "minor": 444,
         "patch": 0
     },
     "keywords": [
@@ -2871,6 +2871,13 @@
             "name": "GiantWhale Network",
             "symbol": "GWN",
             "address": "0x9937Ed3398204c1092E59D3e42b44a26d2b4dCCb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFII.FINANCE",
+            "symbol": "YFII",
+            "address": "0xE8Bb7BE15c495DB1310412F95Dec559bEFC066e1",
             "decimals": 18
         }
     ]
