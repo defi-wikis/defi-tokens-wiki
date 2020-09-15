@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T16:41:59.526Z",
+    "timestamp": "2020-09-15T17:05:49.506Z",
     "version": {
         "major": 1,
-        "minor": 428,
+        "minor": 429,
         "patch": 0
     },
     "keywords": [
@@ -2766,6 +2766,13 @@
             "name": "OneSwap",
             "symbol": "ONES",
             "address": "0x97144B7E76D012F4f6450e7fF29Bc0f5F01F6A0f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Comfy",
+            "symbol": "COMFY",
+            "address": "0x192676AFd7F0f285A86904bB7e47C5D4808727F6",
             "decimals": 18
         }
     ]
