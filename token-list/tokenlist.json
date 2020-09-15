@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T17:40:39.606Z",
+    "timestamp": "2020-09-15T17:45:39.831Z",
     "version": {
         "major": 1,
-        "minor": 435,
+        "minor": 436,
         "patch": 0
     },
     "keywords": [
@@ -2815,6 +2815,13 @@
             "name": "Aquest Token",
             "symbol": "AQU",
             "address": "0x7756Edf05Ef3c2b321A85D77B5cbF7c8A9a7C247",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "linear.finance",
+            "symbol": "LINA",
+            "address": "0x9E116C627a5b0662cFeAbb3127fb66475f1580C3",
             "decimals": 18
         }
     ]
