@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T21:11:34.876Z",
+    "timestamp": "2020-09-15T21:24:39.387Z",
     "version": {
         "major": 1,
-        "minor": 455,
+        "minor": 456,
         "patch": 0
     },
     "keywords": [
@@ -2956,6 +2956,13 @@
             "symbol": "FARM",
             "address": "0xf74CDB5a1Ce85e9bD0351a843b537a818A4a653A",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "YFInsurance",
+            "symbol": "YFIN",
+            "address": "0x3291298797ab7412909F8Ff2f8EC510604182282",
+            "decimals": 18
         }
     ]
 }
