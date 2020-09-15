@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T11:32:54.201Z",
+    "timestamp": "2020-09-15T11:33:29.537Z",
     "version": {
         "major": 1,
-        "minor": 402,
+        "minor": 403,
         "patch": 0
     },
     "keywords": [
@@ -2584,6 +2584,13 @@
             "name": "Wing.Finance",
             "symbol": "WING",
             "address": "0xac969ef484eD089e4CCD39741a9817ba8caC1425",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TESTTOKEN1",
+            "symbol": "TEST1",
+            "address": "0x2E7A7e1293aA31cA40fb7203D99DE253Cb29bB3D",
             "decimals": 18
         }
     ]
