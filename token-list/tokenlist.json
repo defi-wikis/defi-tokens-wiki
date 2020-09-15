@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T21:03:49.179Z",
+    "timestamp": "2020-09-15T21:11:34.876Z",
     "version": {
         "major": 1,
-        "minor": 454,
+        "minor": 455,
         "patch": 0
     },
     "keywords": [
@@ -2949,6 +2949,13 @@
             "symbol": "AGAr",
             "address": "0xb453f1f2EE776dAF2586501361c457dB70e1ca0F",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Steak",
+            "symbol": "FARM",
+            "address": "0xf74CDB5a1Ce85e9bD0351a843b537a818A4a653A",
+            "decimals": 0
         }
     ]
 }
