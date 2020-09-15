@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T04:48:07.183Z",
+    "timestamp": "2020-09-15T04:57:19.615Z",
     "version": {
         "major": 1,
-        "minor": 369,
+        "minor": 370,
         "patch": 0
     },
     "keywords": [
@@ -2353,6 +2353,13 @@
             "name": "yswap.exchange",
             "symbol": "YSWAP",
             "address": "0x29503ACbDC0055e10F805878bDDc9BCAe8E02905",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Silky Finance",
+            "symbol": "SILKY",
+            "address": "0x5bbdEee720977e46230B111Ec2B08557300bd485",
             "decimals": 18
         }
     ]
