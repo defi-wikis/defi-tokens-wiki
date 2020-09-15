@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T19:21:49.499Z",
+    "timestamp": "2020-09-15T19:30:24.484Z",
     "version": {
         "major": 1,
-        "minor": 442,
+        "minor": 443,
         "patch": 0
     },
     "keywords": [
@@ -2864,6 +2864,13 @@
             "name": "YBORROW.FINANCE",
             "symbol": "YBORROW",
             "address": "0x766714fF986c12Aa304c7761B501E96E492A5B2a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GiantWhale Network",
+            "symbol": "GWN",
+            "address": "0x9937Ed3398204c1092E59D3e42b44a26d2b4dCCb",
             "decimals": 18
         }
     ]
