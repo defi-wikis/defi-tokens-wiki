@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-14T23:45:14.866Z",
+    "timestamp": "2020-09-15T00:05:09.384Z",
     "version": {
         "major": 1,
-        "minor": 347,
+        "minor": 348,
         "patch": 0
     },
     "keywords": [
@@ -2200,6 +2200,13 @@
             "symbol": "yffs",
             "address": "0xaA4BaBabBb9dFA1EB291aF783829116028Aa40f8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hot Potato",
+            "symbol": "HOTP",
+            "address": "0x422b727F3d39F655Fa71cF9510c4Ae5f7c13F5c9",
+            "decimals": 6
         }
     ]
 }
