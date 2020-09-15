@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T23:16:09.657Z",
+    "timestamp": "2020-09-15T23:32:54.428Z",
     "version": {
         "major": 1,
-        "minor": 466,
+        "minor": 467,
         "patch": 0
     },
     "keywords": [
@@ -3005,6 +3005,13 @@
             "name": "Bitcoin",
             "symbol": "BTC",
             "address": "0x5b39E5e0E75D0D272ccE063008d44995E1204E0d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bustabit",
+            "symbol": "BUST",
+            "address": "0x41590905319b4aB0bB2655E85497eb0a9b4C1691",
             "decimals": 18
         }
     ]
