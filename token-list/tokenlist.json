@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T13:23:39.984Z",
+    "timestamp": "2020-09-15T13:24:07.576Z",
     "version": {
         "major": 1,
-        "minor": 415,
+        "minor": 416,
         "patch": 0
     },
     "keywords": [
@@ -2675,6 +2675,13 @@
             "name": "AGA Carbon Credit",
             "symbol": "AGAc",
             "address": "0xF2032813Aa3c8feEf7973e44A92E68ab11eE8021",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LongToken",
+            "symbol": "LONG",
+            "address": "0xF060bA772F1243061afd00C4585e9cD8d7719A6F",
             "decimals": 18
         }
     ]
