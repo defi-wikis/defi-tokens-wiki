@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T21:24:49.062Z",
+    "timestamp": "2020-09-15T21:27:09.892Z",
     "version": {
         "major": 1,
-        "minor": 457,
+        "minor": 458,
         "patch": 0
     },
     "keywords": [
@@ -2969,6 +2969,13 @@
             "name": "BetHero",
             "symbol": "HERO",
             "address": "0xAF1B4C2fF10796bd56A4824020AB1cdb9B0591ED",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Swap",
+            "symbol": "ETS",
+            "address": "0x1e662B4A9BA468c277dF647D21e490C4055518EE",
             "decimals": 18
         }
     ]
