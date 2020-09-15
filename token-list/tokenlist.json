@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T13:24:07.576Z",
+    "timestamp": "2020-09-15T13:41:40.287Z",
     "version": {
         "major": 1,
-        "minor": 416,
+        "minor": 417,
         "patch": 0
     },
     "keywords": [
@@ -2683,6 +2683,13 @@
             "symbol": "LONG",
             "address": "0xF060bA772F1243061afd00C4585e9cD8d7719A6F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Frontier.xyz",
+            "symbol": "FRONT",
+            "address": "0x1046b394061b874738F5FE60c325fED5422F1307",
+            "decimals": 10
         }
     ]
 }
