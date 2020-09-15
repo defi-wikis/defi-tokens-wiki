@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T11:33:49.095Z",
+    "timestamp": "2020-09-15T11:39:24.196Z",
     "version": {
         "major": 1,
-        "minor": 404,
+        "minor": 405,
         "patch": 0
     },
     "keywords": [
@@ -2598,6 +2598,13 @@
             "name": "Libra Coin",
             "symbol": "LBC",
             "address": "0xD6FBbB390514cb0623f256b5377C56B3085413fe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wing.finance",
+            "symbol": "WING",
+            "address": "0x3992b1d6773f12AF3488507577F0BDC5200BBDDC",
             "decimals": 18
         }
     ]
