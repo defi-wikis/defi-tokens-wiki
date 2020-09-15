@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T05:58:39.741Z",
+    "timestamp": "2020-09-15T06:02:31.400Z",
     "version": {
         "major": 1,
-        "minor": 379,
+        "minor": 380,
         "patch": 0
     },
     "keywords": [
@@ -2423,6 +2423,13 @@
             "name": "Frontier Token",
             "symbol": "FRONT",
             "address": "0x55a8927927F5bE2dce35AfEfEA3bD3b7dd7E9f9b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfbest.network",
+            "symbol": "YFB",
+            "address": "0x86C591D19c3e9214604E0AE551ce344312323b90",
             "decimals": 18
         }
     ]
