@@ -1,7 +1,10 @@
 const fs = require("fs");
 const web3 = require("web3-utils");
-const Ajv = require('ajv');
+const Ajv = require("ajv");
+const ImageSize = require("image-size");
+
 const metadataSchema = require("../../schemas/metadata.json");
+const { isValidSize, isValidDimension } = require("../../utils");
 
 const ajv = new Ajv({allErrors: true}); 
 
@@ -13,6 +16,11 @@ const VALID_VEFICATION_STATUSES = ["VERIFIED", "BANNED", "UNVERIFIED"];
 
 const VALID_SOCIAL_LINK_FIELDS = ["twitter", "discord", "website", "telegram"];
 
+const VALID_TOKEN_METADATA_FILES = {
+    METADATA: "metadata.json",
+    LOGO: "logo.png"
+}
+
 describe("metadata.json", () => {
     const tokenDirectories = fs.readdirSync(TOKEN_METADATA_PATH);
     
@@ -20,9 +28,14 @@ describe("metadata.json", () => {
         describe(tokenDirectory, () => {
             const files = fs.readdirSync(`${TOKEN_METADATA_PATH}/${tokenDirectory}`);
 
+            it("should only have valid files", () => {
+                const validFiles = Object.values(VALID_TOKEN_METADATA_FILES);
+                expect(files.every(file => validFiles.includes(file))).toBe(true);
+            })
+
             for (const file of files) {
                 describe(file, () => {
-                    if (file === "metadata.json") {
+                    if (file === VALID_TOKEN_METADATA_FILES.METADATA) {
                         const metadata = JSON.parse(fs.readFileSync(`${TOKEN_METADATA_PATH}/${tokenDirectory}/${file}`, 'utf8'));
 
                         it("should have a valid JSON schema", () => {
@@ -71,6 +84,18 @@ describe("metadata.json", () => {
                                 })
                             }
                         }
+                    } else if (file === VALID_TOKEN_METADATA_FILES.LOGO) {
+                        const logoPath = `${TOKEN_METADATA_PATH}/${tokenDirectory}/${file}`;
+
+                        it("should have valid dimensions", () => {
+                            const validDimension = isValidDimension(logoPath);
+                            expect(validDimension).toBe(true);
+                        });
+
+                        it("should have a valid size", () => {
+                            const validSize = isValidSize(logoPath);
+                            expect(validSize).toBe(true);
+                        })
                     }
                 })
             }
