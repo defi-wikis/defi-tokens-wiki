@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T15:12:49.504Z",
+    "timestamp": "2020-09-15T15:17:24.903Z",
     "version": {
         "major": 1,
-        "minor": 425,
+        "minor": 426,
         "patch": 0
     },
     "keywords": [
@@ -2745,6 +2745,13 @@
             "name": "yfone.network",
             "symbol": "YFO",
             "address": "0xe28157A9272eC2eec886a208Dc77F547361ad3f3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPARK",
+            "symbol": "SPRK",
+            "address": "0xEB8AFDfe7a3C24FaEE58e6d3670f992c82aB2Efd",
             "decimals": 18
         }
     ]
