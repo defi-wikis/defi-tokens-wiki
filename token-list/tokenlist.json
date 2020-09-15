@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T20:16:14.851Z",
+    "timestamp": "2020-09-15T20:18:05.887Z",
     "version": {
         "major": 1,
-        "minor": 450,
+        "minor": 451,
         "patch": 0
     },
     "keywords": [
@@ -2920,6 +2920,13 @@
             "name": "finswap.app",
             "symbol": "FNSP",
             "address": "0x5167C05750FF4BfeB3a2950c40a08cAf5b1d67f9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Finswap",
+            "symbol": "FNSP",
+            "address": "0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749",
             "decimals": 18
         }
     ]
