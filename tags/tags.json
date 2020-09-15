@@ -30,5 +30,9 @@
     "lending": {
         "name": null,
         "description": null
+    },
+    "amm": {
+        "name": "Automated Market Maker",
+        "descriptions": "Tokens that govern on-chain automated market makers"
     }
 }
