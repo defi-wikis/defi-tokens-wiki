@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T06:02:31.400Z",
+    "timestamp": "2020-09-15T06:35:59.156Z",
     "version": {
         "major": 1,
-        "minor": 380,
+        "minor": 381,
         "patch": 0
     },
     "keywords": [
@@ -2430,6 +2430,13 @@
             "name": "yfbest.network",
             "symbol": "YFB",
             "address": "0x86C591D19c3e9214604E0AE551ce344312323b90",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fleta Token",
+            "symbol": "FLETA",
+            "address": "0x7788D759F21F53533051A9AE657fA05A1E068fc6",
             "decimals": 18
         }
     ]
