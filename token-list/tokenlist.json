@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T05:29:14.521Z",
+    "timestamp": "2020-09-15T05:34:24.618Z",
     "version": {
         "major": 1,
-        "minor": 375,
+        "minor": 376,
         "patch": 0
     },
     "keywords": [
@@ -2395,6 +2395,13 @@
             "name": "Jelly.Market",
             "symbol": "JELLY",
             "address": "0x35FB232504e4B1C5F227F743aaB1144CD9708036",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bella",
+            "symbol": "BEL",
+            "address": "0x7477F6Fb31a2F78cD232D1EF45D24A84FC19D451",
             "decimals": 18
         }
     ]
