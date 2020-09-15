@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T19:13:14.832Z",
+    "timestamp": "2020-09-15T19:21:49.499Z",
     "version": {
         "major": 1,
-        "minor": 441,
+        "minor": 442,
         "patch": 0
     },
     "keywords": [
@@ -2857,6 +2857,13 @@
             "name": "YF Classic",
             "symbol": "YFCL",
             "address": "0xc666aF44582961a950a9db738F4B0d4aFdB482dF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YBORROW.FINANCE",
+            "symbol": "YBORROW",
+            "address": "0x766714fF986c12Aa304c7761B501E96E492A5B2a",
             "decimals": 18
         }
     ]
