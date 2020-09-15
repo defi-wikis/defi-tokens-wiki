@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T00:10:34.414Z",
+    "timestamp": "2020-09-15T00:28:15.153Z",
     "version": {
         "major": 1,
-        "minor": 349,
+        "minor": 350,
         "patch": 0
     },
     "keywords": [
@@ -2213,6 +2213,13 @@
             "name": "PONZI.FINANCE YIELD TOKEN",
             "symbol": "PONZI",
             "address": "0x0dca1C98b942418b947AEbc70101E9d26068908B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ysv.finance",
+            "symbol": "YSV",
+            "address": "0x0bE46BFD9ac3E4ad4908a6B49f3Ba82d9a2Abbc8",
             "decimals": 18
         }
     ]
