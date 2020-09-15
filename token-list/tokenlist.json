@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T22:51:14.380Z",
+    "timestamp": "2020-09-15T23:16:09.657Z",
     "version": {
         "major": 1,
-        "minor": 465,
+        "minor": 466,
         "patch": 0
     },
     "keywords": [
@@ -2998,6 +2998,13 @@
             "name": "Wing Token",
             "symbol": "WING",
             "address": "0x06Ca771a689D6d5f5E435Be2EF1d1fFC6BdB3b4C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "address": "0x5b39E5e0E75D0D272ccE063008d44995E1204E0d",
             "decimals": 18
         }
     ]
