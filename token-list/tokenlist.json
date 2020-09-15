@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T07:36:05.980Z",
+    "timestamp": "2020-09-15T07:52:06.333Z",
     "version": {
         "major": 1,
-        "minor": 388,
+        "minor": 389,
         "patch": 0
     },
     "keywords": [
@@ -2486,6 +2486,13 @@
             "name": "bnbridge.exchange",
             "symbol": "BRIDGE",
             "address": "0x1193Ba291Db4BAaad03FE48772d6E1a85b310Dfa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFBULL",
+            "symbol": "YFB",
+            "address": "0x7dDd361DCa760C20657f80c43CD9c27440e5Bd06",
             "decimals": 18
         }
     ]
