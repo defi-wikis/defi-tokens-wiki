@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T22:34:54.876Z",
+    "timestamp": "2020-09-15T22:44:30.361Z",
     "version": {
         "major": 1,
-        "minor": 463,
+        "minor": 464,
         "patch": 0
     },
     "keywords": [
@@ -172,7 +172,8 @@
             "symbol": "BAL",
             "address": "0xba100000625a3754423978a60c9317c58a424e3D",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xba100000625a3754423978a60c9317c58a424e3d/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xba100000625a3754423978a60c9317c58a424e3d/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
