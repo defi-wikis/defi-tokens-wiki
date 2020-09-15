@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T00:28:15.153Z",
+    "timestamp": "2020-09-15T00:53:49.548Z",
     "version": {
         "major": 1,
-        "minor": 350,
+        "minor": 351,
         "patch": 0
     },
     "keywords": [
@@ -2220,6 +2220,13 @@
             "name": "ysv.finance",
             "symbol": "YSV",
             "address": "0x0bE46BFD9ac3E4ad4908a6B49f3Ba82d9a2Abbc8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ySafe",
+            "symbol": "ySAFE",
+            "address": "0xD5cC838D2139133E008e43Ca9d71589f502FD9D3",
             "decimals": 18
         }
     ]
