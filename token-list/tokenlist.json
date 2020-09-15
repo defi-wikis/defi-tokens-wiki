@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T14:39:39.717Z",
+    "timestamp": "2020-09-15T15:03:34.274Z",
     "version": {
         "major": 1,
-        "minor": 423,
+        "minor": 424,
         "patch": 0
     },
     "keywords": [
@@ -2731,6 +2731,13 @@
             "name": "APPLEMANGO.FINANCE",
             "symbol": "APPLE",
             "address": "0x2ECE3fB6F8f6118591468873B9D115226fF4c39c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wing.Finance",
+            "symbol": "WING",
+            "address": "0x192c2D3a3F5c535784Ef5691A725D13C01603403",
             "decimals": 18
         }
     ]
