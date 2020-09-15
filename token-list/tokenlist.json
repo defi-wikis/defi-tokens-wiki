@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T11:57:19.905Z",
+    "timestamp": "2020-09-15T12:00:19.936Z",
     "version": {
         "major": 1,
-        "minor": 406,
+        "minor": 407,
         "patch": 0
     },
     "keywords": [
@@ -2612,6 +2612,13 @@
             "name": "frontier",
             "symbol": "FRONT",
             "address": "0x615b97AbEA6A6D43D9050125c76E5cD5c0210019",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearnchange",
+            "symbol": "YFC",
+            "address": "0xe8A4AA7Ca96FB2e0b44ddfb207738F2E5b8d3Aa9",
             "decimals": 18
         }
     ]
