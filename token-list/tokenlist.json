@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T13:41:40.287Z",
+    "timestamp": "2020-09-15T13:57:54.581Z",
     "version": {
         "major": 1,
-        "minor": 417,
+        "minor": 418,
         "patch": 0
     },
     "keywords": [
@@ -2690,6 +2690,13 @@
             "symbol": "FRONT",
             "address": "0x1046b394061b874738F5FE60c325fED5422F1307",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "YZZ.Finance",
+            "symbol": "YZZ",
+            "address": "0xed9d03936f0e87ff05Acf67AE08E4651A42c0Af9",
+            "decimals": 18
         }
     ]
 }
