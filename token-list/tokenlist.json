@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T20:18:05.887Z",
+    "timestamp": "2020-09-15T20:21:09.912Z",
     "version": {
         "major": 1,
-        "minor": 451,
+        "minor": 452,
         "patch": 0
     },
     "keywords": [
@@ -2927,6 +2927,13 @@
             "name": "Finswap",
             "symbol": "FNSP",
             "address": "0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SusafeToken",
+            "symbol": "SUSAFE",
+            "address": "0xB5EB2247cD16166d86925dCcFa5b3D083dAa0E5C",
             "decimals": 18
         }
     ]
