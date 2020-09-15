@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T04:47:34.478Z",
+    "timestamp": "2020-09-15T04:48:07.183Z",
     "version": {
         "major": 1,
-        "minor": 368,
+        "minor": 369,
         "patch": 0
     },
     "keywords": [
@@ -2346,6 +2346,13 @@
             "name": "DEXTF Token",
             "symbol": "DEXTF",
             "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yswap.exchange",
+            "symbol": "YSWAP",
+            "address": "0x29503ACbDC0055e10F805878bDDc9BCAe8E02905",
             "decimals": 18
         }
     ]
