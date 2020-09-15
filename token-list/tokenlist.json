@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T01:31:19.481Z",
+    "timestamp": "2020-09-15T02:12:29.275Z",
     "version": {
         "major": 1,
-        "minor": 356,
+        "minor": 357,
         "patch": 0
     },
     "keywords": [
@@ -2262,6 +2262,13 @@
             "name": "YFMoonshot",
             "symbol": "YFMS",
             "address": "0xfef3bEf71A5EB97E097039038776fD967ae5B106",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Etherisc",
+            "symbol": "ETHR",
+            "address": "0x20a95c898F039e305b95bc026b0B0864D2A634c0",
             "decimals": 18
         }
     ]
