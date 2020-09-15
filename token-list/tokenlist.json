@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T06:58:09.804Z",
+    "timestamp": "2020-09-15T07:16:44.457Z",
     "version": {
         "major": 1,
-        "minor": 383,
+        "minor": 384,
         "patch": 0
     },
     "keywords": [
@@ -2451,6 +2451,13 @@
             "name": "StableCredit",
             "symbol": "scUSD",
             "address": "0xFf807E1D8Ec5a89292842521788c670C98496920",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "StableCredit",
+            "symbol": "scUSD",
+            "address": "0x20D5BFBa0f5c726AAd09956FD7398Acdac048858",
             "decimals": 8
         }
     ]
