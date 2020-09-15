@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T23:54:14.650Z",
+    "timestamp": "2020-09-15T23:58:54.179Z",
     "version": {
         "major": 1,
-        "minor": 470,
+        "minor": 471,
         "patch": 0
     },
     "keywords": [
@@ -3033,6 +3033,13 @@
             "name": "yfcredit.finance",
             "symbol": "yfCREDIT",
             "address": "0xd63A757DC917486Da1050847428393d2a91F0BFB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Bit",
+            "symbol": "YFBT",
+            "address": "0xf0A0F3A6FA6bED75345171a5EA18AbcadF6453BA",
             "decimals": 18
         }
     ]
