@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T07:16:44.457Z",
+    "timestamp": "2020-09-15T07:22:24.505Z",
     "version": {
         "major": 1,
-        "minor": 384,
+        "minor": 385,
         "patch": 0
     },
     "keywords": [
@@ -2459,6 +2459,13 @@
             "symbol": "scUSD",
             "address": "0x20D5BFBa0f5c726AAd09956FD7398Acdac048858",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "VenmoCash",
+            "symbol": "VMO",
+            "address": "0x420B595D8B648971b3BfCF46E66544C384860536",
+            "decimals": 18
         }
     ]
 }
