@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T20:00:45.151Z",
+    "timestamp": "2020-09-15T20:04:09.849Z",
     "version": {
         "major": 1,
-        "minor": 448,
+        "minor": 449,
         "patch": 0
     },
     "keywords": [
@@ -2906,6 +2906,13 @@
             "name": "YearnFinanceXtreme",
             "symbol": "YFX",
             "address": "0x9064514393EA17A99a4c6Fa3C3F6e9EdB6e0C379",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GiantWhale Network",
+            "symbol": "GWN",
+            "address": "0x6C95350a55dFaEF356638CD061A788c0d0576B4E",
             "decimals": 18
         }
     ]
