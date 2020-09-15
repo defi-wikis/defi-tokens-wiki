@@ -3,5 +3,11 @@
     "symbol": "CHADS",
     "address": "0x06582D6B04f4cA17FD65ffE7DCaE95F66c197aA2",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "socialLinks": [
+        {
+            "type": "website",
+            "value": "https://www.chads.vc/"
+        }
+    ]
 }
