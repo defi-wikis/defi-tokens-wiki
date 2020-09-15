@@ -1,6 +1,6 @@
 {
     "name": "Spreadswap.Finance",
-    "symbol": "SSF",
+    "symbol": "SSF,
     "address": "0x8B30B3e33Fa704858fb58e7de70030D8bCfAAef7",
     "decimals": 18,
     "dharmaVerificationStatus": "UNVERIFIED"
