@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T23:32:54.428Z",
+    "timestamp": "2020-09-15T23:34:39.309Z",
     "version": {
         "major": 1,
-        "minor": 467,
+        "minor": 468,
         "patch": 0
     },
     "keywords": [
@@ -3012,6 +3012,13 @@
             "name": "bustabit",
             "symbol": "BUST",
             "address": "0x41590905319b4aB0bB2655E85497eb0a9b4C1691",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wing.finance",
+            "symbol": "WING",
+            "address": "0x98FF14275b2712B06c8b8988f50Ff28aFBB7d739",
             "decimals": 18
         }
     ]
