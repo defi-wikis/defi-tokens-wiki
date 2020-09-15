@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T14:09:44.377Z",
+    "timestamp": "2020-09-15T14:31:34.016Z",
     "version": {
         "major": 1,
-        "minor": 420,
+        "minor": 421,
         "patch": 0
     },
     "keywords": [
@@ -2711,6 +2711,13 @@
             "symbol": "YFFU2",
             "address": "0xBD0001Bb1a7EBDc64899161b48C60bcbef62004E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LaVanilleBourbon",
+            "symbol": "LVB",
+            "address": "0x66A6a3C183eE40c2ed78195BBe7F7D03F3B6afBD",
+            "decimals": 4
         }
     ]
 }
