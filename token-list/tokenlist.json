@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T15:17:24.903Z",
+    "timestamp": "2020-09-15T15:48:07.595Z",
     "version": {
         "major": 1,
-        "minor": 426,
+        "minor": 427,
         "patch": 0
     },
     "keywords": [
@@ -2752,6 +2752,13 @@
             "name": "SPARK",
             "symbol": "SPRK",
             "address": "0xEB8AFDfe7a3C24FaEE58e6d3670f992c82aB2Efd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KfcToken",
+            "symbol": "KFC",
+            "address": "0x212078A69d32F02941671B63d9d10E6774792B09",
             "decimals": 18
         }
     ]
