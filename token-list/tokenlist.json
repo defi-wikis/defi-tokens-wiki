@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T18:02:54.309Z",
+    "timestamp": "2020-09-15T18:13:05.807Z",
     "version": {
         "major": 1,
-        "minor": 437,
+        "minor": 438,
         "patch": 0
     },
     "keywords": [
@@ -2829,6 +2829,13 @@
             "name": "YGOV.FINANCE",
             "symbol": "YGOV",
             "address": "0xDBCB5e9184eAEc2e15959DaB7d12f625ff38fbcc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "wing finance",
+            "symbol": "WING",
+            "address": "0x4d04059092729aF9A920C311E428C2c4751b57D5",
             "decimals": 18
         }
     ]
