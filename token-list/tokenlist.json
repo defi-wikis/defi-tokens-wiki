@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T02:41:54.194Z",
+    "timestamp": "2020-09-15T02:55:06.604Z",
     "version": {
         "major": 1,
-        "minor": 360,
+        "minor": 361,
         "patch": 0
     },
     "keywords": [
@@ -2291,6 +2291,13 @@
             "symbol": "WSC",
             "address": "0x2dcD9B1A7Ed408Ff48bD4918a1f9c0535dc54EAD",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "BurgerSwap",
+            "symbol": "BURGER",
+            "address": "0x1B6E29bEFbA4d24d9f609D26E2bDa3d101646Bdc",
+            "decimals": 18
         }
     ]
 }
