@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T04:23:30.639Z",
+    "timestamp": "2020-09-15T04:43:15.188Z",
     "version": {
         "major": 1,
-        "minor": 365,
+        "minor": 366,
         "patch": 0
     },
     "keywords": [
@@ -2325,6 +2325,13 @@
             "name": "Rabbit Breeding Token",
             "symbol": "RBT",
             "address": "0x623B3917719A3cef1A5d75E8F0aD37A45031a4d5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FARM_WETH",
+            "symbol": "fWETH",
+            "address": "0x8e298734681adbfC41ee5d17FF8B0d6d803e7098",
             "decimals": 18
         }
     ]
