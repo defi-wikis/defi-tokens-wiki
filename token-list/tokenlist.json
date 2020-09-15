@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T19:46:14.515Z",
+    "timestamp": "2020-09-15T20:00:45.151Z",
     "version": {
         "major": 1,
-        "minor": 447,
+        "minor": 448,
         "patch": 0
     },
     "keywords": [
@@ -2899,6 +2899,13 @@
             "name": "TrueCAD",
             "symbol": "TCAD",
             "address": "0x00000100F2A2bd000715001920eB70D229700085",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFinanceXtreme",
+            "symbol": "YFX",
+            "address": "0x9064514393EA17A99a4c6Fa3C3F6e9EdB6e0C379",
             "decimals": 18
         }
     ]
