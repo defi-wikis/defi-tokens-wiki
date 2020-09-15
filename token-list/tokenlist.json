@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T09:35:34.461Z",
+    "timestamp": "2020-09-15T09:42:44.463Z",
     "version": {
         "major": 1,
-        "minor": 395,
+        "minor": 396,
         "patch": 0
     },
     "keywords": [
@@ -2535,6 +2535,13 @@
             "name": "yftop.network",
             "symbol": "YFT",
             "address": "0x2E268f2d61A7506703ca24f173b1A9e6cFa32388",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bella",
+            "symbol": "BEL",
+            "address": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
             "decimals": 18
         }
     ]
