@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T05:47:59.845Z",
+    "timestamp": "2020-09-15T05:53:44.365Z",
     "version": {
         "major": 1,
-        "minor": 377,
+        "minor": 378,
         "patch": 0
     },
     "keywords": [
@@ -2410,6 +2410,13 @@
             "symbol": "TCN",
             "address": "0xA775cF0F64A71283BE645d820B1a9eDb2746334F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BubbleToken",
+            "symbol": "BUB",
+            "address": "0x114aD141671C869bD922d97FAb34818c5DCc94d0",
+            "decimals": 2
         }
     ]
 }
