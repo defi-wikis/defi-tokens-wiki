@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-15T04:43:15.188Z",
+    "timestamp": "2020-09-15T04:45:15.117Z",
     "version": {
         "major": 1,
-        "minor": 366,
+        "minor": 367,
         "patch": 0
     },
     "keywords": [
@@ -2332,6 +2332,13 @@
             "name": "FARM_WETH",
             "symbol": "fWETH",
             "address": "0x8e298734681adbfC41ee5d17FF8B0d6d803e7098",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFX",
+            "symbol": "YFX",
+            "address": "0x7Cfca39d49023E84499Bd0675C2fB7bC96a2c335",
             "decimals": 18
         }
     ]
