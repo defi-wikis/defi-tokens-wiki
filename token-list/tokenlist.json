@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T21:38:09.549Z",
+    "timestamp": "2020-09-16T21:39:48.992Z",
     "version": {
         "major": 1,
-        "minor": 601,
+        "minor": 602,
         "patch": 0
     },
     "keywords": [
@@ -3911,6 +3911,13 @@
             "symbol": "WED",
             "address": "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnVolt.Finance",
+            "symbol": "YVF",
+            "address": "0x5340AF0B838333fecA0126fe5DdF940028c5A803",
+            "decimals": 8
         }
     ]
 }
