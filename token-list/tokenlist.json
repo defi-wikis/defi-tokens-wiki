@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T18:46:44.449Z",
+    "timestamp": "2020-09-16T18:47:29.050Z",
     "version": {
         "major": 1,
-        "minor": 577,
+        "minor": 578,
         "patch": 0
     },
     "keywords": [
@@ -3770,6 +3770,13 @@
             "name": "YearnFastEarnFinance",
             "symbol": "YFEF",
             "address": "0x09f4c1FB3b7A741C2bdC79D5dEC65700b2845CD9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bugBetamoney",
+            "symbol": "bug",
+            "address": "0x979d4b17F28b775a4Fd5bB89D3a47EFc8116Ad7a",
             "decimals": 18
         }
     ]
