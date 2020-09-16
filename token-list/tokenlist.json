@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:32:15.348Z",
+    "timestamp": "2020-09-16T09:33:24.862Z",
     "version": {
         "major": 1,
-        "minor": 519,
+        "minor": 520,
         "patch": 0
     },
     "keywords": [
@@ -3376,6 +3376,13 @@
             "name": "YFMoonshot.finance",
             "symbol": "YFMS",
             "address": "0xf357a35346ca0A9968f33Ddc336979b5c01E5Da7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bella @ Bella.Fi",
+            "symbol": "BEL",
+            "address": "0x27496b898c449dC6c218574143C5bE3C305F05Bf",
             "decimals": 18
         }
     ]
