@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T08:55:09.776Z",
+    "timestamp": "2020-09-16T09:06:34.535Z",
     "version": {
         "major": 1,
-        "minor": 511,
+        "minor": 512,
         "patch": 0
     },
     "keywords": [
@@ -3320,6 +3320,13 @@
             "name": "TruValue.Finance",
             "symbol": "TVF",
             "address": "0xd73573037C43bf23D8093918A8B1feDEb5A5c52b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Stake Havens",
+            "symbol": "YFHV",
+            "address": "0xCfCA83C564c3feFfA23F6ccCD829BFb4Be445a95",
             "decimals": 18
         }
     ]
