@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T13:36:24.460Z",
+    "timestamp": "2020-09-16T13:36:34.459Z",
     "version": {
         "major": 1,
-        "minor": 546,
+        "minor": 547,
         "patch": 0
     },
     "keywords": [
@@ -3565,6 +3565,13 @@
             "name": "dimsum.farm",
             "symbol": "DIMSUM",
             "address": "0xD31ebA39be33893B4CeB34Ea3a6C4305fC8b77E0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfOMEGA.finance",
+            "symbol": "YFOMEGA",
+            "address": "0x78A24c16a719e4B1578509C4B60320B20d06BADC",
             "decimals": 18
         }
     ]
