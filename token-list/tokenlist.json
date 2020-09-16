@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T13:20:29.453Z",
+    "timestamp": "2020-09-16T13:29:44.635Z",
     "version": {
         "major": 1,
-        "minor": 543,
+        "minor": 544,
         "patch": 0
     },
     "keywords": [
@@ -3544,6 +3544,13 @@
             "name": "ABCFinance",
             "symbol": "ABC",
             "address": "0xC593505Dc0368381E723f71d404284D13f81224E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UpBots",
+            "symbol": "UBXT",
+            "address": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
             "decimals": 18
         }
     ]
