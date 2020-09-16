@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T23:47:07.188Z",
+    "timestamp": "2020-09-16T23:55:59.642Z",
     "version": {
         "major": 1,
-        "minor": 616,
+        "minor": 617,
         "patch": 0
     },
     "keywords": [
@@ -3987,6 +3987,13 @@
             "name": "UnionDAO",
             "symbol": "UDAO",
             "address": "0x4A32E09c60af50f0A5869BF5C622f4E5d57c3b37",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YieldSummerFarmingFinance",
+            "symbol": "YSFF",
+            "address": "0x491db430d2940F1A66ae8336f9e81C4E5f390cF1",
             "decimals": 18
         }
     ]
