@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:06:34.535Z",
+    "timestamp": "2020-09-16T09:06:49.764Z",
     "version": {
         "major": 1,
-        "minor": 512,
+        "minor": 513,
         "patch": 0
     },
     "keywords": [
@@ -3327,6 +3327,13 @@
             "name": "Stake Havens",
             "symbol": "YFHV",
             "address": "0xCfCA83C564c3feFfA23F6ccCD829BFb4Be445a95",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnOracleDAO.Finance",
+            "symbol": "YODFI",
+            "address": "0x8EE5C5F51610Cb891ac65e4A4edB8233075c622d",
             "decimals": 18
         }
     ]
