@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T10:06:09.161Z",
+    "timestamp": "2020-09-16T10:10:19.894Z",
     "version": {
         "major": 1,
-        "minor": 526,
+        "minor": 527,
         "patch": 0
     },
     "keywords": [
@@ -3426,6 +3426,13 @@
             "symbol": "MCI",
             "address": "0x3b58c52C03ca5Eb619EBa171091c86C34d603e5f",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "AIRCHAIN",
+            "symbol": "ACH",
+            "address": "0x2E96AFdE46eBAbbD2270dB06fE7Df3A3fFfC7C1C",
+            "decimals": 18
         }
     ]
 }
