@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T16:08:24.664Z",
+    "timestamp": "2020-09-16T16:13:24.932Z",
     "version": {
         "major": 1,
-        "minor": 561,
+        "minor": 562,
         "patch": 0
     },
     "keywords": [
@@ -3670,6 +3670,13 @@
             "name": "Diamond",
             "symbol": "DIM",
             "address": "0xCf7b6e0e13ECbEdFFa4aa7Cb8298daFE46956225",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BITTO",
+            "symbol": "BITTO",
+            "address": "0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456",
             "decimals": 18
         }
     ]
