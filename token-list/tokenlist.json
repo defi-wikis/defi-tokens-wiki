@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T10:28:49.542Z",
+    "timestamp": "2020-09-16T10:48:40.737Z",
     "version": {
         "major": 1,
-        "minor": 529,
+        "minor": 530,
         "patch": 0
     },
     "keywords": [
@@ -3446,6 +3446,13 @@
             "name": "YETI.FINANCE",
             "symbol": "YEFI",
             "address": "0x4915611283240b448d68380e8C1F693f89dF700E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "REDWINE",
+            "symbol": "REDW",
+            "address": "0x7113b73c813733daDE1558a93a1894e0ae06F0F6",
             "decimals": 18
         }
     ]
