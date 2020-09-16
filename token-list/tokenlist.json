@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T00:39:24.937Z",
+    "timestamp": "2020-09-16T01:16:09.627Z",
     "version": {
         "major": 1,
-        "minor": 474,
+        "minor": 475,
         "patch": 0
     },
     "keywords": [
@@ -3061,6 +3061,13 @@
             "name": "RI Token",
             "symbol": "RI",
             "address": "0x37E808F084101F75783612407e7C3f5F92d8ee3F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mycred.io",
+            "symbol": "CRED",
+            "address": "0x7f824257f289D351c7fe08acD7AD16EAC652c60a",
             "decimals": 18
         }
     ]
