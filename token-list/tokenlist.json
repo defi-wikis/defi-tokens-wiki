@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T04:42:49.264Z",
+    "timestamp": "2020-09-16T05:03:29.783Z",
     "version": {
         "major": 1,
-        "minor": 488,
+        "minor": 489,
         "patch": 0
     },
     "keywords": [
@@ -3159,6 +3159,13 @@
             "name": "YSpace.Finance",
             "symbol": "YSF",
             "address": "0xfCDC0ff8a13A32107C651d16b11bB8F60518a261",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFU.Finance",
+            "symbol": "YFFU",
+            "address": "0xbF1955EF78416C96a5BC43e85a9723e302477607",
             "decimals": 18
         }
     ]
