@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T10:21:49.904Z",
+    "timestamp": "2020-09-16T10:28:49.542Z",
     "version": {
         "major": 1,
-        "minor": 528,
+        "minor": 529,
         "patch": 0
     },
     "keywords": [
@@ -3439,6 +3439,13 @@
             "name": "YFTrust",
             "symbol": "YFT",
             "address": "0x2CBb27BEc58aBDE334A196605c2e09f9c3b22b5e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YETI.FINANCE",
+            "symbol": "YEFI",
+            "address": "0x4915611283240b448d68380e8C1F693f89dF700E",
             "decimals": 18
         }
     ]
