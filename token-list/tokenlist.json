@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T07:29:19.059Z",
+    "timestamp": "2020-09-16T07:47:29.171Z",
     "version": {
         "major": 1,
-        "minor": 505,
+        "minor": 506,
         "patch": 0
     },
     "keywords": [
@@ -3279,6 +3279,13 @@
             "symbol": "JAY",
             "address": "0xB96FD64298Bb8a9A8AA0866F81093A8B7F68A79c",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Recovery",
+            "symbol": "YFIR",
+            "address": "0x7AaB5903E8cD87c45aEd98BB29aB043AF0743685",
+            "decimals": 18
         }
     ]
 }
