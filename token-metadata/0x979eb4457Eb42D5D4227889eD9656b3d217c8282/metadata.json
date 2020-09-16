@@ -3,5 +3,12 @@
     "symbol": "CCL",
     "address": "0x979eb4457Eb42D5D4227889eD9656b3d217c8282",
     "decimals": 2,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "UNVERIFIED",
+    "description": "The official token of the Conference Call fantasy football league. This token is a pure utility token for members of the CCL.",
+    "socailLinks": [
+      {
+        "type": "website",
+        "value": "https://conferencecallleague.herokuapp.com/"
+      }
+    ]
 }
