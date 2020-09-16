@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T13:59:29.184Z",
+    "timestamp": "2020-09-16T14:05:24.953Z",
     "version": {
         "major": 1,
-        "minor": 550,
+        "minor": 551,
         "patch": 0
     },
     "keywords": [
@@ -3593,6 +3593,13 @@
             "name": "UpBots",
             "symbol": "UBXT",
             "address": "0x5672a78d2f585adc312064a96D57698b0DB5c957",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soft Yearn Finance Protocol",
+            "symbol": "SYFP",
+            "address": "0xC11396e14990ebE98a09F8639a082C03Eb9dB55a",
             "decimals": 18
         }
     ]
