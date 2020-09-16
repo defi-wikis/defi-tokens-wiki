@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T20:41:39.713Z",
+    "timestamp": "2020-09-16T20:55:54.979Z",
     "version": {
         "major": 1,
-        "minor": 592,
+        "minor": 593,
         "patch": 0
     },
     "keywords": [
@@ -3875,6 +3875,13 @@
             "name": "ZZXYearn.farming",
             "symbol": "ZXY",
             "address": "0xBc9100027a4F67E7d6BD6D8DB6e9fD9Ebde1d46B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFastCoolFinance",
+            "symbol": "YFCF",
+            "address": "0xCA925E9D91E2F3bB155b71F34411018754CCD3C3",
             "decimals": 18
         }
     ]
