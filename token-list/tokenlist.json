@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T07:28:54.640Z",
+    "timestamp": "2020-09-16T07:29:19.059Z",
     "version": {
         "major": 1,
-        "minor": 504,
+        "minor": 505,
         "patch": 0
     },
     "keywords": [
@@ -3272,6 +3272,13 @@
             "symbol": "sBNB",
             "address": "0x617aeCB6137B5108D1E7D4918e3725C8cEbdB848",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "The Hunger Game",
+            "symbol": "JAY",
+            "address": "0xB96FD64298Bb8a9A8AA0866F81093A8B7F68A79c",
+            "decimals": 8
         }
     ]
 }
