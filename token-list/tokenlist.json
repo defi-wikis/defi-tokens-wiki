@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T06:36:30.204Z",
+    "timestamp": "2020-09-16T06:44:19.413Z",
     "version": {
         "major": 1,
-        "minor": 500,
+        "minor": 501,
         "patch": 0
     },
     "keywords": [
@@ -3243,6 +3243,13 @@
             "name": "Lite.Financial",
             "symbol": "LTF",
             "address": "0xf3343680b8B81BA8b5b3eE0186c10215456d8bEB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfgold.link",
+            "symbol": "YFD",
+            "address": "0x0EAc9bB695be3e4B86D751CDc36716a75Afdb7B2",
             "decimals": 18
         }
     ]
