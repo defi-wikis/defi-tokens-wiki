@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T03:38:29.306Z",
+    "timestamp": "2020-09-16T03:38:34.280Z",
     "version": {
         "major": 1,
-        "minor": 484,
+        "minor": 485,
         "patch": 0
     },
     "keywords": [
@@ -3131,6 +3131,13 @@
             "name": "HippoFinance",
             "symbol": "HIPPO",
             "address": "0x81313f7c5c9C824236c9E4cba3AC4B049986E756",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFX",
+            "symbol": "YFX",
+            "address": "0xC8Ee8017F80bF0DC6F0724Cf3712Ce483973602a",
             "decimals": 18
         }
     ]
