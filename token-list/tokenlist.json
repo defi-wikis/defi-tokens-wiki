@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T07:07:44.371Z",
+    "timestamp": "2020-09-16T07:28:54.640Z",
     "version": {
         "major": 1,
-        "minor": 503,
+        "minor": 504,
         "patch": 0
     },
     "keywords": [
@@ -3264,6 +3264,13 @@
             "name": "WinPlay Token",
             "symbol": "WNRZ",
             "address": "0x4690D8F53E0d367f5b68f7F571e6eb4b72D39ACe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Synth sBNB",
+            "symbol": "sBNB",
+            "address": "0x617aeCB6137B5108D1E7D4918e3725C8cEbdB848",
             "decimals": 18
         }
     ]
