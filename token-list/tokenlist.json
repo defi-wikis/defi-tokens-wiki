@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T07:47:29.171Z",
+    "timestamp": "2020-09-16T08:05:09.362Z",
     "version": {
         "major": 1,
-        "minor": 506,
+        "minor": 507,
         "patch": 0
     },
     "keywords": [
@@ -3285,6 +3285,13 @@
             "name": "Yearn Finance Recovery",
             "symbol": "YFIR",
             "address": "0x7AaB5903E8cD87c45aEd98BB29aB043AF0743685",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Synth sXRP",
+            "symbol": "sXRP",
+            "address": "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
             "decimals": 18
         }
     ]
