@@ -3,22 +3,5 @@
     "symbol": "DAI",
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED",
-    "description": "A decentralized, unbiased, collateral-backed cryptocurrency soft-pegged to the US Dollar. Dai is held in cryptocurrency wallets or within platforms, and is supported on Ethereum and other popular blockchains.",
-    "socialLinks": [
-        {
-            "type": "website",
-            "value": "https://makerdao.com/"
-        },
-        {
-
-            "type": "twitter",
-            "value": "https://twitter.com/MakerDAO"
-        },
-        {
-            "type": "telegram",
-            "value": "https://t.me/makerdaoOfficial"
-        }
-    ],
-    "tags": ["stablecoin", "defi"]
+    "dharmaVerificationStatus": "VERIFIED"
 }
