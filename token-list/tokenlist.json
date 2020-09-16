@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:08:39.371Z",
+    "timestamp": "2020-09-16T09:10:40.367Z",
     "version": {
         "major": 1,
-        "minor": 514,
+        "minor": 515,
         "patch": 0
     },
     "keywords": [
@@ -3341,6 +3341,13 @@
             "name": "FYRE.Protocol",
             "symbol": "FYRE",
             "address": "0xC07355e2392ddB362b595C9C37A47Cb2cC46Fe09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DarkToken",
+            "symbol": "DARK",
+            "address": "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
             "decimals": 18
         }
     ]
