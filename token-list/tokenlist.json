@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T04:29:59.177Z",
+    "timestamp": "2020-09-16T04:42:49.264Z",
     "version": {
         "major": 1,
-        "minor": 487,
+        "minor": 488,
         "patch": 0
     },
     "keywords": [
@@ -3152,6 +3152,13 @@
             "name": "Choco Rolls",
             "symbol": "CHOCO",
             "address": "0x1e6dAa5cCAF2ab646C6250C7Cf699c29A804f620",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YSpace.Finance",
+            "symbol": "YSF",
+            "address": "0xfCDC0ff8a13A32107C651d16b11bB8F60518a261",
             "decimals": 18
         }
     ]
