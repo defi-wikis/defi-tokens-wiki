@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T20:17:09.208Z",
+    "timestamp": "2020-09-16T20:19:34.682Z",
     "version": {
         "major": 1,
-        "minor": 590,
+        "minor": 591,
         "patch": 0
     },
     "keywords": [
@@ -3861,6 +3861,13 @@
             "name": "YearnFastKingFinance",
             "symbol": "YFKF",
             "address": "0x44BfAFD21F1a80Ea06B8C00b35547B0D7159A4Bc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "lendandearn",
+            "symbol": "led",
+            "address": "0xfc2d14CDd614E65201ef03bd3cd89D8Ee45a1a68",
             "decimals": 18
         }
     ]
