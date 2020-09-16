@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T06:08:34.491Z",
+    "timestamp": "2020-09-16T06:13:07.326Z",
     "version": {
         "major": 1,
-        "minor": 496,
+        "minor": 497,
         "patch": 0
     },
     "keywords": [
@@ -3215,6 +3215,13 @@
             "name": "Moon YFI",
             "symbol": "MYFI",
             "address": "0x1D95Bdc0f4B659E8bE69afb28fCfc0C3b05CE52B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfbank.finance",
+            "symbol": "YFBK",
+            "address": "0x6a23E195a59155033f57B9283889aCDc4b7fbC1A",
             "decimals": 18
         }
     ]
