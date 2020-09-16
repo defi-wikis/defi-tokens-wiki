@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T00:37:34.418Z",
+    "timestamp": "2020-09-16T00:39:24.937Z",
     "version": {
         "major": 1,
-        "minor": 473,
+        "minor": 474,
         "patch": 0
     },
     "keywords": [
@@ -3054,6 +3054,13 @@
             "name": "xBTC Token @ xBTC.Fi",
             "symbol": "XBTC",
             "address": "0xEceEcDB396ce5e3E48AFD15D04c6388c9b57D016",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RI Token",
+            "symbol": "RI",
+            "address": "0x37E808F084101F75783612407e7C3f5F92d8ee3F",
             "decimals": 18
         }
     ]
