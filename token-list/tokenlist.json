@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T03:57:39.264Z",
+    "timestamp": "2020-09-16T04:29:59.177Z",
     "version": {
         "major": 1,
-        "minor": 486,
+        "minor": 487,
         "patch": 0
     },
     "keywords": [
@@ -3145,6 +3145,13 @@
             "name": "yftrust.network",
             "symbol": "YFTN",
             "address": "0x2321Eb093FAbAb1a355A235Db5EFa20B0A21CDAd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Choco Rolls",
+            "symbol": "CHOCO",
+            "address": "0x1e6dAa5cCAF2ab646C6250C7Cf699c29A804f620",
             "decimals": 18
         }
     ]
