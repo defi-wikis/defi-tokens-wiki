@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T18:33:48.439Z",
+    "timestamp": "2020-09-16T18:46:44.449Z",
     "version": {
         "major": 1,
-        "minor": 576,
+        "minor": 577,
         "patch": 0
     },
     "keywords": [
@@ -3764,6 +3764,13 @@
             "symbol": "ICX",
             "address": "0x3625d7b793606Af797d2C33267BEA23447aa7900",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFastEarnFinance",
+            "symbol": "YFEF",
+            "address": "0x09f4c1FB3b7A741C2bdC79D5dEC65700b2845CD9",
+            "decimals": 18
         }
     ]
 }
