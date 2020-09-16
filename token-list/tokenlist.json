@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T10:51:59.136Z",
+    "timestamp": "2020-09-16T11:28:24.974Z",
     "version": {
         "major": 1,
-        "minor": 531,
+        "minor": 532,
         "patch": 0
     },
     "keywords": [
@@ -3461,6 +3461,13 @@
             "symbol": "YOK",
             "address": "0x05Fcc72CFb4150AbAE415c885f7a433Ff523296F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Priszip Token",
+            "symbol": "PIP",
+            "address": "0x092EfF65E97915b62d935eF52cf4799E9cd41927",
+            "decimals": 4
         }
     ]
 }
