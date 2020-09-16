@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T21:27:39.104Z",
+    "timestamp": "2020-09-16T21:32:44.213Z",
     "version": {
         "major": 1,
-        "minor": 599,
+        "minor": 600,
         "patch": 0
     },
     "keywords": [
@@ -3897,6 +3897,13 @@
             "symbol": "OSINA",
             "address": "0x39Ad22C916F42aF5f67371d6f2Fb0dab42321a89",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "KebabSwap.org",
+            "symbol": "KSO",
+            "address": "0x29dB9584bBE80e21A4559aD9Aa559558aDe96A6a",
+            "decimals": 18
         }
     ]
 }
