@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T06:16:49.088Z",
+    "timestamp": "2020-09-16T06:36:30.204Z",
     "version": {
         "major": 1,
-        "minor": 499,
+        "minor": 500,
         "patch": 0
     },
     "keywords": [
@@ -3236,6 +3236,13 @@
             "name": "LOB",
             "symbol": "LOB",
             "address": "0xAD9eAB17a997aF81eb205100764cCe91be77e1aA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lite.Financial",
+            "symbol": "LTF",
+            "address": "0xf3343680b8B81BA8b5b3eE0186c10215456d8bEB",
             "decimals": 18
         }
     ]
