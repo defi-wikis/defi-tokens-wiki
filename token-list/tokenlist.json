@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T16:13:24.932Z",
+    "timestamp": "2020-09-16T16:15:16.580Z",
     "version": {
         "major": 1,
-        "minor": 562,
+        "minor": 563,
         "patch": 0
     },
     "keywords": [
@@ -17,7 +17,7 @@
         },
         "defi": {
             "name": "DeFi",
-            "description": "Tokens that enable financial services using smart contracts"
+            "description": "Tokens related to DeFi"
         },
         "yield-farming": {
             "name": "Yield Farming",
@@ -28,12 +28,12 @@
             "description": "Tokens that can be redeemed in exchange for business tokens"
         },
         "oracle": {
-            "name": "Oracle",
+            "name": "DeFi",
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
             "name": "DEX",
-            "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
+            "description": "These are DEX tokens"
         },
         "exchange-based": {
             "name": "Exchange Based",
@@ -3678,6 +3678,15 @@
             "symbol": "BITTO",
             "address": "0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CHADS VC",
+            "symbol": "CHADS",
+            "address": "0x06582D6B04f4cA17FD65ffE7DCaE95F66c197aA2",
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0x06582d6b04f4ca17fd65ffe7dcae95f66c197aa2/icon.png"
         }
     ]
 }
