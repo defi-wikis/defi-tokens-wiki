@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:10:49.925Z",
+    "timestamp": "2020-09-16T09:19:34.681Z",
     "version": {
         "major": 1,
-        "minor": 516,
+        "minor": 517,
         "patch": 0
     },
     "keywords": [
@@ -3355,6 +3355,13 @@
             "name": "YFI.Digital",
             "symbol": "YFIII",
             "address": "0x94d17E458E437D02B358F8154a83a7F024024D72",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yftop.org",
+            "symbol": "YFP",
+            "address": "0x8e853D6d1d8670316fcEf0E9b88eD66015D7e22E",
             "decimals": 18
         }
     ]
