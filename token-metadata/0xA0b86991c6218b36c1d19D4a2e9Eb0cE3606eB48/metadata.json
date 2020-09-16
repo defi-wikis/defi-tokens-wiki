@@ -3,21 +3,5 @@
     "symbol": "USDC",
     "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
-    "dharmaVerificationStatus": "VERIFIED",
-    "description": "Stablecoin pegged to the US dollar",
-    "socialLinks": [
-        {
-            "type": "twitter",
-            "value": "https://twitter.com/centre_io"
-        },
-        {
-            "type": "website",
-            "value": "https://www.centre.io/usdc"
-        },
-        {
-            "type": "discord",
-            "value": "https://discord.gg/TAvy8Y"
-        }
-    ],
-    "tags": ["defi", "stablecoin"]
+    "dharmaVerificationStatus": "VERIFIED"
 }
