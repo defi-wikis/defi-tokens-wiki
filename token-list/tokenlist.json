@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T19:54:14.324Z",
+    "timestamp": "2020-09-16T19:59:59.204Z",
     "version": {
         "major": 1,
-        "minor": 586,
+        "minor": 587,
         "patch": 0
     },
     "keywords": [
@@ -3833,6 +3833,13 @@
             "name": "AppleToken",
             "symbol": "APPLE",
             "address": "0x1722C9882A64f5D901C5A905caBcE5012CF06Ed5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFastPutFinance",
+            "symbol": "YFPF",
+            "address": "0x081A1D31a9AA59Ee34005aE61c39dd984e24E363",
             "decimals": 18
         }
     ]
