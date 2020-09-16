@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T18:49:44.149Z",
+    "timestamp": "2020-09-16T19:05:19.775Z",
     "version": {
         "major": 1,
-        "minor": 579,
+        "minor": 580,
         "patch": 0
     },
     "keywords": [
@@ -3785,6 +3785,13 @@
             "symbol": "TP",
             "address": "0xAd59192C894ff28f3079b9508f64E5941AD76b64",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "RAW DEFI",
+            "symbol": "RDFI",
+            "address": "0x682AA82A623DB7b5eee4E0363d1d5b2579fcBA66",
+            "decimals": 18
         }
     ]
 }
