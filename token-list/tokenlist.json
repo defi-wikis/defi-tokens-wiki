@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T20:01:10.274Z",
+    "timestamp": "2020-09-16T20:05:54.584Z",
     "version": {
         "major": 1,
-        "minor": 588,
+        "minor": 589,
         "patch": 0
     },
     "keywords": [
@@ -3847,6 +3847,13 @@
             "name": "Flower.finance",
             "symbol": "FLOW",
             "address": "0xD416e8bB9d39184350F6d54224bac72605c6AF5e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFCross",
+            "symbol": "YFX.finance",
+            "address": "0x3a3711fd8db9Cdf9345ea8549e1d621876244259",
             "decimals": 18
         }
     ]
