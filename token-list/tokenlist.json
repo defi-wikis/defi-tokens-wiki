@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T10:48:40.737Z",
+    "timestamp": "2020-09-16T10:51:59.136Z",
     "version": {
         "major": 1,
-        "minor": 530,
+        "minor": 531,
         "patch": 0
     },
     "keywords": [
@@ -3453,6 +3453,13 @@
             "name": "REDWINE",
             "symbol": "REDW",
             "address": "0x7113b73c813733daDE1558a93a1894e0ae06F0F6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOKcoin",
+            "symbol": "YOK",
+            "address": "0x05Fcc72CFb4150AbAE415c885f7a433Ff523296F",
             "decimals": 18
         }
     ]
