@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T11:28:24.974Z",
+    "timestamp": "2020-09-16T11:34:19.614Z",
     "version": {
         "major": 1,
-        "minor": 532,
+        "minor": 533,
         "patch": 0
     },
     "keywords": [
@@ -3468,6 +3468,13 @@
             "symbol": "PIP",
             "address": "0x092EfF65E97915b62d935eF52cf4799E9cd41927",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "YFSecure",
+            "symbol": "YFS",
+            "address": "0x598817eD335Cebcf56BDe6224C05907Cc647472F",
+            "decimals": 18
         }
     ]
 }
