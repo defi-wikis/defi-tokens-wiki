@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:19:34.681Z",
+    "timestamp": "2020-09-16T09:30:12.832Z",
     "version": {
         "major": 1,
-        "minor": 517,
+        "minor": 518,
         "patch": 0
     },
     "keywords": [
@@ -3362,6 +3362,13 @@
             "name": "yftop.org",
             "symbol": "YFP",
             "address": "0x8e853D6d1d8670316fcEf0E9b88eD66015D7e22E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Realio Network",
+            "symbol": "RIO",
+            "address": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
             "decimals": 18
         }
     ]
