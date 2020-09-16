@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T12:05:39.838Z",
+    "timestamp": "2020-09-16T12:06:24.271Z",
     "version": {
         "major": 1,
-        "minor": 537,
+        "minor": 538,
         "patch": 0
     },
     "keywords": [
@@ -3502,6 +3502,13 @@
             "name": "Desert Network",
             "symbol": "DSN",
             "address": "0x0A740DD55190BCBcC4F574a560173E208C989edE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yflive.network",
+            "symbol": "YFL",
+            "address": "0xed551F18EefEeb381267a4c5658Fb8C4540C1Dcb",
             "decimals": 18
         }
     ]
