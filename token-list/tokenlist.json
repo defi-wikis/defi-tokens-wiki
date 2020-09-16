@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T19:59:59.204Z",
+    "timestamp": "2020-09-16T20:01:10.274Z",
     "version": {
         "major": 1,
-        "minor": 587,
+        "minor": 588,
         "patch": 0
     },
     "keywords": [
@@ -3840,6 +3840,13 @@
             "name": "YearnFastPutFinance",
             "symbol": "YFPF",
             "address": "0x081A1D31a9AA59Ee34005aE61c39dd984e24E363",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Flower.finance",
+            "symbol": "FLOW",
+            "address": "0xD416e8bB9d39184350F6d54224bac72605c6AF5e",
             "decimals": 18
         }
     ]
