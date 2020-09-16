@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T14:05:24.953Z",
+    "timestamp": "2020-09-16T14:10:10.164Z",
     "version": {
         "major": 1,
-        "minor": 551,
+        "minor": 552,
         "patch": 0
     },
     "keywords": [
@@ -3600,6 +3600,13 @@
             "name": "Soft Yearn Finance Protocol",
             "symbol": "SYFP",
             "address": "0xC11396e14990ebE98a09F8639a082C03Eb9dB55a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "linear finance",
+            "symbol": "LINA",
+            "address": "0x1e8E3D9bdc6D8d1479a694A8B9712b30Dc37eCdD",
             "decimals": 18
         }
     ]
