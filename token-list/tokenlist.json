@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T12:22:06.391Z",
+    "timestamp": "2020-09-16T12:45:39.612Z",
     "version": {
         "major": 1,
-        "minor": 539,
+        "minor": 540,
         "patch": 0
     },
     "keywords": [
@@ -3516,6 +3516,13 @@
             "name": "MacToken",
             "symbol": "MAC",
             "address": "0x2A35CD8D3a0d02A6DC68F960e69D9839f095Ad2f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YShell.Money",
+            "symbol": "YFP",
+            "address": "0xEfD2F117eDc2FF06A953E21869DAf93Ed1559d15",
             "decimals": 18
         }
     ]
