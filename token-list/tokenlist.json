@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T12:06:24.271Z",
+    "timestamp": "2020-09-16T12:22:06.391Z",
     "version": {
         "major": 1,
-        "minor": 538,
+        "minor": 539,
         "patch": 0
     },
     "keywords": [
@@ -3509,6 +3509,13 @@
             "name": "yflive.network",
             "symbol": "YFL",
             "address": "0xed551F18EefEeb381267a4c5658Fb8C4540C1Dcb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MacToken",
+            "symbol": "MAC",
+            "address": "0x2A35CD8D3a0d02A6DC68F960e69D9839f095Ad2f",
             "decimals": 18
         }
     ]
