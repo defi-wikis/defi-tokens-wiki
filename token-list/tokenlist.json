@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T13:29:44.635Z",
+    "timestamp": "2020-09-16T13:30:49.894Z",
     "version": {
         "major": 1,
-        "minor": 544,
+        "minor": 545,
         "patch": 0
     },
     "keywords": [
@@ -3551,6 +3551,13 @@
             "name": "UpBots",
             "symbol": "UBXT",
             "address": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Queso Network",
+            "symbol": "QNET",
+            "address": "0x06EAA8D19D2CDa6C6dFD4305eB6b67E8f75dcd99",
             "decimals": 18
         }
     ]
