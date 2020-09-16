@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T15:14:09.130Z",
+    "timestamp": "2020-09-16T15:15:29.876Z",
     "version": {
         "major": 1,
-        "minor": 556,
+        "minor": 557,
         "patch": 0
     },
     "keywords": [
@@ -3635,6 +3635,13 @@
             "name": "DDRT Token",
             "symbol": "DDRT",
             "address": "0x435c568E6e7040c7282E929FBE496FBB8E50E4f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFarmLand Silver Crystal",
+            "symbol": "sYFARMER",
+            "address": "0xF08821Ed3fA6017c870c1950105D4279b192c568",
             "decimals": 18
         }
     ]
