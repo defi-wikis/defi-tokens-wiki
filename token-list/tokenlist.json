@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T15:53:15.347Z",
+    "timestamp": "2020-09-16T16:08:24.664Z",
     "version": {
         "major": 1,
-        "minor": 560,
+        "minor": 561,
         "patch": 0
     },
     "keywords": [
@@ -3663,6 +3663,13 @@
             "name": "Decentralization",
             "symbol": "DECA",
             "address": "0xcf1c9F7B5A279d5ec47011bae90e4138325D42d2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Diamond",
+            "symbol": "DIM",
+            "address": "0xCf7b6e0e13ECbEdFFa4aa7Cb8298daFE46956225",
             "decimals": 18
         }
     ]
