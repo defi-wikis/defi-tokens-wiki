@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T06:13:39.179Z",
+    "timestamp": "2020-09-16T06:16:49.088Z",
     "version": {
         "major": 1,
-        "minor": 498,
+        "minor": 499,
         "patch": 0
     },
     "keywords": [
@@ -3229,6 +3229,13 @@
             "name": "sleeping.finance",
             "symbol": "SLEEP",
             "address": "0x3931Fb946089E8AfB96D80059ACE0871857C4762",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LOB",
+            "symbol": "LOB",
+            "address": "0xAD9eAB17a997aF81eb205100764cCe91be77e1aA",
             "decimals": 18
         }
     ]
