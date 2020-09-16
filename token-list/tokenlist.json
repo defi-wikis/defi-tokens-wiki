@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T13:36:34.459Z",
+    "timestamp": "2020-09-16T13:55:34.932Z",
     "version": {
         "major": 1,
-        "minor": 547,
+        "minor": 548,
         "patch": 0
     },
     "keywords": [
@@ -3572,6 +3572,13 @@
             "name": "yfOMEGA.finance",
             "symbol": "YFOMEGA",
             "address": "0x78A24c16a719e4B1578509C4B60320B20d06BADC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFInsuranceSwap",
+            "symbol": "YFIS",
+            "address": "0x7b75d8593AFE63d62086922cbb82621B1aa55599",
             "decimals": 18
         }
     ]
