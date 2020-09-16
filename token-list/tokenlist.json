@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T18:08:09.348Z",
+    "timestamp": "2020-09-16T18:18:06.704Z",
     "version": {
         "major": 1,
-        "minor": 573,
+        "minor": 574,
         "patch": 0
     },
     "keywords": [
@@ -3742,6 +3742,13 @@
             "name": "KASSIAHOTEL",
             "symbol": "KASSIAHOTEL",
             "address": "0x06FF1a3B08b63E3b2f98A5124bFC22Dc0AE654d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZeroUtility",
+            "symbol": "ZUT",
+            "address": "0x83F873388Cd14b83A9f47FabDe3C9850b5C74548",
             "decimals": 18
         }
     ]
