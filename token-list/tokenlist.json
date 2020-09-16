@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T05:12:54.698Z",
+    "timestamp": "2020-09-16T05:23:19.486Z",
     "version": {
         "major": 1,
-        "minor": 490,
+        "minor": 491,
         "patch": 0
     },
     "keywords": [
@@ -3173,6 +3173,13 @@
             "name": "Synth iBTC",
             "symbol": "iBTC",
             "address": "0xD6014EA05BDe904448B743833dDF07c3C7837481",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MaverickChain",
+            "symbol": "MVC",
+            "address": "0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
             "decimals": 18
         }
     ]
