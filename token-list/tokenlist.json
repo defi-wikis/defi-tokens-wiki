@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T06:52:39.256Z",
+    "timestamp": "2020-09-16T07:07:44.371Z",
     "version": {
         "major": 1,
-        "minor": 502,
+        "minor": 503,
         "patch": 0
     },
     "keywords": [
@@ -3258,6 +3258,13 @@
             "symbol": "SDCP",
             "address": "0xc59DDeE8bE619680a3b9489eb864B30270F2070D",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "WinPlay Token",
+            "symbol": "WNRZ",
+            "address": "0x4690D8F53E0d367f5b68f7F571e6eb4b72D39ACe",
+            "decimals": 18
         }
     ]
 }
