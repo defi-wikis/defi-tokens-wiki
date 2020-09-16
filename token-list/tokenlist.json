@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T17:59:24.201Z",
+    "timestamp": "2020-09-16T18:08:09.348Z",
     "version": {
         "major": 1,
-        "minor": 572,
+        "minor": 573,
         "patch": 0
     },
     "keywords": [
@@ -3735,6 +3735,13 @@
             "name": "Pluton Blogging Network",
             "symbol": "PBN",
             "address": "0x175716f31B818384965293049B19527CD26dD34C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KASSIAHOTEL",
+            "symbol": "KASSIAHOTEL",
+            "address": "0x06FF1a3B08b63E3b2f98A5124bFC22Dc0AE654d3",
             "decimals": 18
         }
     ]
