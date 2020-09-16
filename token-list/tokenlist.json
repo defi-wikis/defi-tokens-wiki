@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T12:05:29.852Z",
+    "timestamp": "2020-09-16T12:05:39.838Z",
     "version": {
         "major": 1,
-        "minor": 536,
+        "minor": 537,
         "patch": 0
     },
     "keywords": [
@@ -3495,6 +3495,13 @@
             "name": "Mushrooms Finance",
             "symbol": "MUSH",
             "address": "0x4f761F2469fd00C14E418b6747d13456381BD97a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Desert Network",
+            "symbol": "DSN",
+            "address": "0x0A740DD55190BCBcC4F574a560173E208C989edE",
             "decimals": 18
         }
     ]
