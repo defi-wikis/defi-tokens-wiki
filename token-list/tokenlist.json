@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T20:05:54.584Z",
+    "timestamp": "2020-09-16T20:17:09.208Z",
     "version": {
         "major": 1,
-        "minor": 589,
+        "minor": 590,
         "patch": 0
     },
     "keywords": [
@@ -3854,6 +3854,13 @@
             "name": "YFCross",
             "symbol": "YFX.finance",
             "address": "0x3a3711fd8db9Cdf9345ea8549e1d621876244259",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFastKingFinance",
+            "symbol": "YFKF",
+            "address": "0x44BfAFD21F1a80Ea06B8C00b35547B0D7159A4Bc",
             "decimals": 18
         }
     ]
