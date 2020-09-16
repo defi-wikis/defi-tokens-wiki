@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T08:44:14.330Z",
+    "timestamp": "2020-09-16T08:55:02.280Z",
     "version": {
         "major": 1,
-        "minor": 509,
+        "minor": 510,
         "patch": 0
     },
     "keywords": [
@@ -3307,6 +3307,13 @@
             "symbol": "SQFI",
             "address": "0x7bf69162b122a08B89e5C8529A242593300ffa51",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ChivesFinance.org",
+            "symbol": "CHVF",
+            "address": "0x725d0CCa511bDB5A1E946eB6c17e501A4b0865de",
+            "decimals": 14
         }
     ]
 }
