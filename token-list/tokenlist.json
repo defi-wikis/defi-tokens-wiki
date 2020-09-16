@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:40:49.548Z",
+    "timestamp": "2020-09-16T09:55:24.962Z",
     "version": {
         "major": 1,
-        "minor": 523,
+        "minor": 524,
         "patch": 0
     },
     "keywords": [
@@ -3404,6 +3404,13 @@
             "name": "YFFS.Finance",
             "symbol": "YFFS",
             "address": "0x608886dBA25aAe99E2D9aa822c5970822fF95B6E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LETTE.FINANCE",
+            "symbol": "LEFI",
+            "address": "0x62e7e33Fae59a3aD7b172Bb374D6e6Ae431665B8",
             "decimals": 18
         }
     ]
