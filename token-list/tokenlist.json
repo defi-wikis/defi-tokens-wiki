@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T02:54:19.354Z",
+    "timestamp": "2020-09-16T02:55:54.701Z",
     "version": {
         "major": 1,
-        "minor": 481,
+        "minor": 482,
         "patch": 0
     },
     "keywords": [
@@ -3110,6 +3110,13 @@
             "name": "flamingo.finance",
             "symbol": "FLM",
             "address": "0x83461DcE424EF992cAC970F7F6656aA7628d8153",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "frontier.xyz token",
+            "symbol": "FRONT",
+            "address": "0x5A93d8cF36223667A10Bc167fE41D5697DD4E426",
             "decimals": 18
         }
     ]
