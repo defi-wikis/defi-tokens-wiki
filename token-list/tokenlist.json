@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T17:04:19.520Z",
+    "timestamp": "2020-09-16T17:04:29.539Z",
     "version": {
         "major": 1,
-        "minor": 569,
+        "minor": 570,
         "patch": 0
     },
     "keywords": [
@@ -3714,6 +3714,13 @@
             "name": "Universe Finance",
             "symbol": "UNFI",
             "address": "0x7EC400Acb0565600915D34d50449eC6f2b592a5a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yEstate",
+            "symbol": "YES",
+            "address": "0xd8B54C310B6f256b40dEd68AE581Cb6aD826479b",
             "decimals": 18
         }
     ]
