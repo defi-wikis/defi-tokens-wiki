@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T19:34:09.625Z",
+    "timestamp": "2020-09-16T19:54:14.324Z",
     "version": {
         "major": 1,
-        "minor": 585,
+        "minor": 586,
         "patch": 0
     },
     "keywords": [
@@ -3826,6 +3826,13 @@
             "name": "YFCross",
             "symbol": "YFX",
             "address": "0xC3D150154cd1C217acaEeE2F3159a33f566cF950",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AppleToken",
+            "symbol": "APPLE",
+            "address": "0x1722C9882A64f5D901C5A905caBcE5012CF06Ed5",
             "decimals": 18
         }
     ]
