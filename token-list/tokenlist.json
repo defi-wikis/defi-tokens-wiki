@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T23:10:09.575Z",
+    "timestamp": "2020-09-16T23:11:30.229Z",
     "version": {
         "major": 1,
-        "minor": 609,
+        "minor": 610,
         "patch": 0
     },
     "keywords": [
@@ -3959,6 +3959,13 @@
             "name": "yFuel.finance",
             "symbol": "YFUEL",
             "address": "0xDe81B61E2EefcE7F2796d71a8B948061Fa035CFa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mokitty.crypto",
+            "symbol": "MOCRY",
+            "address": "0x8cB4A273Cec98c782b22DbbeE7EEf6aB6b9bf97F",
             "decimals": 18
         }
     ]
