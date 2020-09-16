@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T23:55:59.642Z",
+    "timestamp": "2020-09-16T23:56:19.317Z",
     "version": {
         "major": 1,
-        "minor": 617,
+        "minor": 618,
         "patch": 0
     },
     "keywords": [
@@ -3994,6 +3994,13 @@
             "name": "YieldSummerFarmingFinance",
             "symbol": "YSFF",
             "address": "0x491db430d2940F1A66ae8336f9e81C4E5f390cF1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UDefi.Finance",
+            "symbol": "UDF",
+            "address": "0x253093C813186e7DA2682Db1082321e1be4aFA63",
             "decimals": 18
         }
     ]
