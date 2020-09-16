@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T02:06:59.931Z",
+    "timestamp": "2020-09-16T02:09:44.646Z",
     "version": {
         "major": 1,
-        "minor": 477,
+        "minor": 478,
         "patch": 0
     },
     "keywords": [
@@ -3082,6 +3082,13 @@
             "name": "yfcredit.finance token",
             "symbol": "yfCREDIT",
             "address": "0x3240D7F128c7CCfc286e661854ebbf248c2aD43b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfking.link",
+            "symbol": "YFK",
+            "address": "0x997c72d83926fB2cE19C30E41319A6A51Bf08e59",
             "decimals": 18
         }
     ]
