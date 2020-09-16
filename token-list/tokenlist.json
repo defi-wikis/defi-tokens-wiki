@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T08:05:09.362Z",
+    "timestamp": "2020-09-16T08:33:14.563Z",
     "version": {
         "major": 1,
-        "minor": 507,
+        "minor": 508,
         "patch": 0
     },
     "keywords": [
@@ -3292,6 +3292,13 @@
             "name": "Synth sXRP",
             "symbol": "sXRP",
             "address": "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.Finance Token",
+            "symbol": "YFT",
+            "address": "0xbc11a39B1901aCFAB19a13163eF78C8E5482f37c",
             "decimals": 18
         }
     ]
