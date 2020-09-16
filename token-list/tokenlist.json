@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T21:32:44.213Z",
+    "timestamp": "2020-09-16T21:38:09.549Z",
     "version": {
         "major": 1,
-        "minor": 600,
+        "minor": 601,
         "patch": 0
     },
     "keywords": [
@@ -3903,6 +3903,13 @@
             "name": "KebabSwap.org",
             "symbol": "KSO",
             "address": "0x29dB9584bBE80e21A4559aD9Aa559558aDe96A6a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wednesday Coin",
+            "symbol": "WED",
+            "address": "0x7848ae8F19671Dc05966dafBeFbBbb0308BDfAbD",
             "decimals": 18
         }
     ]
