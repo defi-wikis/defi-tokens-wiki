@@ -1,0 +1,7 @@
+{
+    "name": "AppleFiToken",
+    "symbol": "APLFI",
+    "address": "0x1f8ecd4ea51903e52Fbc2E81da59F2D59e81Cf1f",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
