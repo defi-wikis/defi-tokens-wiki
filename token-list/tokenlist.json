@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T06:13:07.326Z",
+    "timestamp": "2020-09-16T06:13:39.179Z",
     "version": {
         "major": 1,
-        "minor": 497,
+        "minor": 498,
         "patch": 0
     },
     "keywords": [
@@ -3222,6 +3222,13 @@
             "name": "yfbank.finance",
             "symbol": "YFBK",
             "address": "0x6a23E195a59155033f57B9283889aCDc4b7fbC1A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sleeping.finance",
+            "symbol": "SLEEP",
+            "address": "0x3931Fb946089E8AfB96D80059ACE0871857C4762",
             "decimals": 18
         }
     ]
