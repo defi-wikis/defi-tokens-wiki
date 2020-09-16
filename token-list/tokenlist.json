@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T12:45:39.612Z",
+    "timestamp": "2020-09-16T12:57:29.650Z",
     "version": {
         "major": 1,
-        "minor": 540,
+        "minor": 541,
         "patch": 0
     },
     "keywords": [
@@ -3523,6 +3523,13 @@
             "name": "YShell.Money",
             "symbol": "YFP",
             "address": "0xEfD2F117eDc2FF06A953E21869DAf93Ed1559d15",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YEARN FINANCE LITE",
+            "symbol": "YLITE",
+            "address": "0xf4120dffbA78cEd6477111d03Cd3797f41dbF629",
             "decimals": 18
         }
     ]
