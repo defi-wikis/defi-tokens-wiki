@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T21:39:48.992Z",
+    "timestamp": "2020-09-16T21:51:49.417Z",
     "version": {
         "major": 1,
-        "minor": 602,
+        "minor": 603,
         "patch": 0
     },
     "keywords": [
@@ -3918,6 +3918,13 @@
             "symbol": "YVF",
             "address": "0x5340AF0B838333fecA0126fe5DdF940028c5A803",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YieldWestFarmingFinance",
+            "symbol": "YWFF",
+            "address": "0x18d1739800C1806544f214b46565559FE77Be664",
+            "decimals": 18
         }
     ]
 }
