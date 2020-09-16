@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T02:55:54.701Z",
+    "timestamp": "2020-09-16T03:01:14.790Z",
     "version": {
         "major": 1,
-        "minor": 482,
+        "minor": 483,
         "patch": 0
     },
     "keywords": [
@@ -3117,6 +3117,13 @@
             "name": "frontier.xyz token",
             "symbol": "FRONT",
             "address": "0x5A93d8cF36223667A10Bc167fE41D5697DD4E426",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFMoonshot.finance",
+            "symbol": "YFMS",
+            "address": "0x6Cb389BA110C2813AB6691018081fAcd465b43df",
             "decimals": 18
         }
     ]
