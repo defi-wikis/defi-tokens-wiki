@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:40:24.925Z",
+    "timestamp": "2020-09-16T09:40:49.548Z",
     "version": {
         "major": 1,
-        "minor": 522,
+        "minor": 523,
         "patch": 0
     },
     "keywords": [
@@ -3397,6 +3397,13 @@
             "name": "Yumo Lending Finance",
             "symbol": "YLFI",
             "address": "0xcc1C50daC6a91f428C43Ae3b6193c8499B7b0ad3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFS.Finance",
+            "symbol": "YFFS",
+            "address": "0x608886dBA25aAe99E2D9aa822c5970822fF95B6E",
             "decimals": 18
         }
     ]
