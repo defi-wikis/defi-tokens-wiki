@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T15:52:59.047Z",
+    "timestamp": "2020-09-16T15:53:15.347Z",
     "version": {
         "major": 1,
-        "minor": 559,
+        "minor": 560,
         "patch": 0
     },
     "keywords": [
@@ -3656,6 +3656,13 @@
             "name": "Linear Finance",
             "symbol": "LINA",
             "address": "0xeF3e5cfC25Caa1EFa60669A229723066aF302305",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Decentralization",
+            "symbol": "DECA",
+            "address": "0xcf1c9F7B5A279d5ec47011bae90e4138325D42d2",
             "decimals": 18
         }
     ]
