@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:30:12.832Z",
+    "timestamp": "2020-09-16T09:32:15.348Z",
     "version": {
         "major": 1,
-        "minor": 518,
+        "minor": 519,
         "patch": 0
     },
     "keywords": [
@@ -3369,6 +3369,13 @@
             "name": "Realio Network",
             "symbol": "RIO",
             "address": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFMoonshot.finance",
+            "symbol": "YFMS",
+            "address": "0xf357a35346ca0A9968f33Ddc336979b5c01E5Da7",
             "decimals": 18
         }
     ]
