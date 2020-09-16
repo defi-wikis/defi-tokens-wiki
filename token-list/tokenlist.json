@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T19:05:19.775Z",
+    "timestamp": "2020-09-16T19:08:29.503Z",
     "version": {
         "major": 1,
-        "minor": 580,
+        "minor": 581,
         "patch": 0
     },
     "keywords": [
@@ -3791,6 +3791,13 @@
             "name": "RAW DEFI",
             "symbol": "RDFI",
             "address": "0x682AA82A623DB7b5eee4E0363d1d5b2579fcBA66",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Moon YFI",
+            "symbol": "MYFI",
+            "address": "0x1Efb2286BF89F01488C6B2a22B2556C0f45e972b",
             "decimals": 18
         }
     ]
