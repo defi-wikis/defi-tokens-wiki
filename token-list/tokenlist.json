@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T12:57:29.650Z",
+    "timestamp": "2020-09-16T12:58:25.066Z",
     "version": {
         "major": 1,
-        "minor": 541,
+        "minor": 542,
         "patch": 0
     },
     "keywords": [
@@ -3530,6 +3530,13 @@
             "name": "YEARN FINANCE LITE",
             "symbol": "YLITE",
             "address": "0xf4120dffbA78cEd6477111d03Cd3797f41dbF629",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hola Protocol",
+            "symbol": "HOLA",
+            "address": "0xb0416BF0294a61cFf9aEa22c55D4DE7ceccF2133",
             "decimals": 18
         }
     ]
