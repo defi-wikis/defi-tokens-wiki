@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T08:55:02.280Z",
+    "timestamp": "2020-09-16T08:55:09.776Z",
     "version": {
         "major": 1,
-        "minor": 510,
+        "minor": 511,
         "patch": 0
     },
     "keywords": [
@@ -3314,6 +3314,13 @@
             "symbol": "CHVF",
             "address": "0x725d0CCa511bDB5A1E946eB6c17e501A4b0865de",
             "decimals": 14
+        },
+        {
+            "chainId": 1,
+            "name": "TruValue.Finance",
+            "symbol": "TVF",
+            "address": "0xd73573037C43bf23D8093918A8B1feDEb5A5c52b",
+            "decimals": 18
         }
     ]
 }
