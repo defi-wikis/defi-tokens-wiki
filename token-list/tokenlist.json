@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:10:40.367Z",
+    "timestamp": "2020-09-16T09:10:49.925Z",
     "version": {
         "major": 1,
-        "minor": 515,
+        "minor": 516,
         "patch": 0
     },
     "keywords": [
@@ -3348,6 +3348,13 @@
             "name": "DarkToken",
             "symbol": "DARK",
             "address": "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFI.Digital",
+            "symbol": "YFIII",
+            "address": "0x94d17E458E437D02B358F8154a83a7F024024D72",
             "decimals": 18
         }
     ]
