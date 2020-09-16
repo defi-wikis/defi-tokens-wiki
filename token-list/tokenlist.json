@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T14:10:10.164Z",
+    "timestamp": "2020-09-16T14:42:44.238Z",
     "version": {
         "major": 1,
-        "minor": 552,
+        "minor": 553,
         "patch": 0
     },
     "keywords": [
@@ -3608,6 +3608,13 @@
             "symbol": "LINA",
             "address": "0x1e8E3D9bdc6D8d1479a694A8B9712b30Dc37eCdD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Defi Firefly",
+            "symbol": "DFF",
+            "address": "0xaF183350bDF8082B486CEE23fBfcCa6eA3258DAC",
+            "decimals": 8
         }
     ]
 }
