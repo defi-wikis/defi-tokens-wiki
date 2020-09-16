@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T01:16:09.627Z",
+    "timestamp": "2020-09-16T01:37:44.710Z",
     "version": {
         "major": 1,
-        "minor": 475,
+        "minor": 476,
         "patch": 0
     },
     "keywords": [
@@ -3068,6 +3068,13 @@
             "name": "mycred.io",
             "symbol": "CRED",
             "address": "0x7f824257f289D351c7fe08acD7AD16EAC652c60a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yUSD Synthetic Token Expiring 1 September 2020",
+            "symbol": "yUSD-SEP20",
+            "address": "0x81ab848898b5ffD3354dbbEfb333D5D183eEDcB5",
             "decimals": 18
         }
     ]
