@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T16:24:20.082Z",
+    "timestamp": "2020-09-16T16:32:24.426Z",
     "version": {
         "major": 1,
-        "minor": 565,
+        "minor": 566,
         "patch": 0
     },
     "keywords": [
@@ -3700,6 +3700,13 @@
             "name": "Fish.market",
             "symbol": "fish",
             "address": "0x9b61cA9D58cD3d54db74bc525A514632585c93A1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfstake.network",
+            "symbol": "YFK",
+            "address": "0xf4bCc9537e4A6FF9D13A92b6273CC2349b659242",
             "decimals": 18
         }
     ]
