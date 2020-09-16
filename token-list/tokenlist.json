@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T12:58:25.066Z",
+    "timestamp": "2020-09-16T13:20:29.453Z",
     "version": {
         "major": 1,
-        "minor": 542,
+        "minor": 543,
         "patch": 0
     },
     "keywords": [
@@ -3537,6 +3537,13 @@
             "name": "Hola Protocol",
             "symbol": "HOLA",
             "address": "0xb0416BF0294a61cFf9aEa22c55D4DE7ceccF2133",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ABCFinance",
+            "symbol": "ABC",
+            "address": "0xC593505Dc0368381E723f71d404284D13f81224E",
             "decimals": 18
         }
     ]
