@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T16:17:54.539Z",
+    "timestamp": "2020-09-16T16:24:20.082Z",
     "version": {
         "major": 1,
-        "minor": 564,
+        "minor": 565,
         "patch": 0
     },
     "keywords": [
@@ -3693,6 +3693,13 @@
             "name": "Socratic.Finance",
             "symbol": "SOC",
             "address": "0x38410e68Af896017E80e6f42dc2ccE7BE198F94f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fish.market",
+            "symbol": "fish",
+            "address": "0x9b61cA9D58cD3d54db74bc525A514632585c93A1",
             "decimals": 18
         }
     ]
