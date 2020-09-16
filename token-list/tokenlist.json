@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T18:47:29.050Z",
+    "timestamp": "2020-09-16T18:49:44.149Z",
     "version": {
         "major": 1,
-        "minor": 578,
+        "minor": 579,
         "patch": 0
     },
     "keywords": [
@@ -3778,6 +3778,13 @@
             "symbol": "bug",
             "address": "0x979d4b17F28b775a4Fd5bB89D3a47EFc8116Ad7a",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TP",
+            "symbol": "TP",
+            "address": "0xAd59192C894ff28f3079b9508f64E5941AD76b64",
+            "decimals": 6
         }
     ]
 }
