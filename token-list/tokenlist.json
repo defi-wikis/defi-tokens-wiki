@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T05:30:39.444Z",
+    "timestamp": "2020-09-16T05:34:24.786Z",
     "version": {
         "major": 1,
-        "minor": 492,
+        "minor": 493,
         "patch": 0
     },
     "keywords": [
@@ -3187,6 +3187,13 @@
             "name": "rawdefi.cm",
             "symbol": "RDFI",
             "address": "0x15C0f3813bcc10F08a03C0BfF6b22a7F74f7a9cF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFX.Fund",
+            "symbol": "YFX",
+            "address": "0x42A4D5eDd666fFA4b00EECebe6Dfd57436365A20",
             "decimals": 18
         }
     ]
