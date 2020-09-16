@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T08:33:14.563Z",
+    "timestamp": "2020-09-16T08:44:14.330Z",
     "version": {
         "major": 1,
-        "minor": 508,
+        "minor": 509,
         "patch": 0
     },
     "keywords": [
@@ -3299,6 +3299,13 @@
             "name": "Yearn.Finance Token",
             "symbol": "YFT",
             "address": "0xbc11a39B1901aCFAB19a13163eF78C8E5482f37c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Squid Yield Finance",
+            "symbol": "SQFI",
+            "address": "0x7bf69162b122a08B89e5C8529A242593300ffa51",
             "decimals": 18
         }
     ]
