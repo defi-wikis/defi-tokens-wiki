@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T09:06:49.764Z",
+    "timestamp": "2020-09-16T09:08:39.371Z",
     "version": {
         "major": 1,
-        "minor": 513,
+        "minor": 514,
         "patch": 0
     },
     "keywords": [
@@ -3334,6 +3334,13 @@
             "name": "YearnOracleDAO.Finance",
             "symbol": "YODFI",
             "address": "0x8EE5C5F51610Cb891ac65e4A4edB8233075c622d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FYRE.Protocol",
+            "symbol": "FYRE",
+            "address": "0xC07355e2392ddB362b595C9C37A47Cb2cC46Fe09",
             "decimals": 18
         }
     ]
