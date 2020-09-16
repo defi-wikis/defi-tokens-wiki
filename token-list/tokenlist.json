@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T05:03:29.783Z",
+    "timestamp": "2020-09-16T05:12:54.698Z",
     "version": {
         "major": 1,
-        "minor": 489,
+        "minor": 490,
         "patch": 0
     },
     "keywords": [
@@ -3166,6 +3166,13 @@
             "name": "YFFU.Finance",
             "symbol": "YFFU",
             "address": "0xbF1955EF78416C96a5BC43e85a9723e302477607",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Synth iBTC",
+            "symbol": "iBTC",
+            "address": "0xD6014EA05BDe904448B743833dDF07c3C7837481",
             "decimals": 18
         }
     ]
