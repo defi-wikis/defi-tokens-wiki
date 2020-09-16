@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T15:15:29.876Z",
+    "timestamp": "2020-09-16T15:15:34.541Z",
     "version": {
         "major": 1,
-        "minor": 557,
+        "minor": 558,
         "patch": 0
     },
     "keywords": [
@@ -3642,6 +3642,13 @@
             "name": "YFarmLand Silver Crystal",
             "symbol": "sYFARMER",
             "address": "0xF08821Ed3fA6017c870c1950105D4279b192c568",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EpiK Protocol",
+            "symbol": "ERC20-EPK",
+            "address": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
             "decimals": 18
         }
     ]
