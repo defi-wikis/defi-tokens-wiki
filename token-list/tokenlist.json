@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T16:15:16.580Z",
+    "timestamp": "2020-09-16T16:17:54.539Z",
     "version": {
         "major": 1,
-        "minor": 563,
+        "minor": 564,
         "patch": 0
     },
     "keywords": [
@@ -17,7 +17,7 @@
         },
         "defi": {
             "name": "DeFi",
-            "description": "Tokens related to DeFi"
+            "description": "Tokens that enable financial services using smart contracts"
         },
         "yield-farming": {
             "name": "Yield Farming",
@@ -28,12 +28,12 @@
             "description": "Tokens that can be redeemed in exchange for business tokens"
         },
         "oracle": {
-            "name": "DeFi",
+            "name": "Oracle",
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
             "name": "DEX",
-            "description": "These are DEX tokens"
+            "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
         },
         "exchange-based": {
             "name": "Exchange Based",
@@ -3687,6 +3687,13 @@
             "decimals": 18,
             "tags": {},
             "logoURI": "https://tokens.dharma.io/assets/0x06582d6b04f4ca17fd65ffe7dcae95f66c197aa2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Socratic.Finance",
+            "symbol": "SOC",
+            "address": "0x38410e68Af896017E80e6f42dc2ccE7BE198F94f",
+            "decimals": 18
         }
     ]
 }
