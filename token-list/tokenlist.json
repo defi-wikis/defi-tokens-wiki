@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T17:04:29.539Z",
+    "timestamp": "2020-09-16T17:35:34.447Z",
     "version": {
         "major": 1,
-        "minor": 570,
+        "minor": 571,
         "patch": 0
     },
     "keywords": [
@@ -3721,6 +3721,13 @@
             "name": "yEstate",
             "symbol": "YES",
             "address": "0xd8B54C310B6f256b40dEd68AE581Cb6aD826479b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AppleFiToken",
+            "symbol": "APLFI",
+            "address": "0x1f8ecd4ea51903e52Fbc2E81da59F2D59e81Cf1f",
             "decimals": 18
         }
     ]
