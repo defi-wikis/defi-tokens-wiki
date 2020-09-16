@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T21:21:37.351Z",
+    "timestamp": "2020-09-16T21:27:39.104Z",
     "version": {
         "major": 1,
-        "minor": 598,
+        "minor": 599,
         "patch": 0
     },
     "keywords": [
@@ -3889,6 +3889,13 @@
             "name": "Game Of Bitcoins",
             "symbol": "GOB",
             "address": "0xE400013Df86249838B720eaB5a7F816aD82433c0",
+            "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Osinachi",
+            "symbol": "OSINA",
+            "address": "0x39Ad22C916F42aF5f67371d6f2Fb0dab42321a89",
             "decimals": 4
         }
     ]
