@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T10:10:19.894Z",
+    "timestamp": "2020-09-16T10:21:49.904Z",
     "version": {
         "major": 1,
-        "minor": 527,
+        "minor": 528,
         "patch": 0
     },
     "keywords": [
@@ -3432,6 +3432,13 @@
             "name": "AIRCHAIN",
             "symbol": "ACH",
             "address": "0x2E96AFdE46eBAbbD2270dB06fE7Df3A3fFfC7C1C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFTrust",
+            "symbol": "YFT",
+            "address": "0x2CBb27BEc58aBDE334A196605c2e09f9c3b22b5e",
             "decimals": 18
         }
     ]
