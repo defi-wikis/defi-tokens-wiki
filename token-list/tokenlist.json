@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T03:38:34.280Z",
+    "timestamp": "2020-09-16T03:57:39.264Z",
     "version": {
         "major": 1,
-        "minor": 485,
+        "minor": 486,
         "patch": 0
     },
     "keywords": [
@@ -3138,6 +3138,13 @@
             "name": "YFX",
             "symbol": "YFX",
             "address": "0xC8Ee8017F80bF0DC6F0724Cf3712Ce483973602a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yftrust.network",
+            "symbol": "YFTN",
+            "address": "0x2321Eb093FAbAb1a355A235Db5EFa20B0A21CDAd",
             "decimals": 18
         }
     ]
