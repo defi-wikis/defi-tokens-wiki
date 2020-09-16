@@ -1,7 +1,6 @@
 const fs = require("fs");
 const web3 = require("web3-utils");
 const Ajv = require("ajv");
-const ImageSize = require("image-size");
 
 const metadataSchema = require("../../schemas/metadata.json");
 const { isValidSize, isValidDimension } = require("../../utils");
