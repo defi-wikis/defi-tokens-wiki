@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T02:09:44.646Z",
+    "timestamp": "2020-09-16T02:25:44.421Z",
     "version": {
         "major": 1,
-        "minor": 478,
+        "minor": 479,
         "patch": 0
     },
     "keywords": [
@@ -3089,6 +3089,13 @@
             "name": "yfking.link",
             "symbol": "YFK",
             "address": "0x997c72d83926fB2cE19C30E41319A6A51Bf08e59",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "double balance coin",
+            "symbol": "DBC",
+            "address": "0xBD4957c71DB43dc7313542F2cB26B98af7266565",
             "decimals": 18
         }
     ]
