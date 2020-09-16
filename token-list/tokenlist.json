@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T05:46:14.346Z",
+    "timestamp": "2020-09-16T06:08:34.491Z",
     "version": {
         "major": 1,
-        "minor": 495,
+        "minor": 496,
         "patch": 0
     },
     "keywords": [
@@ -3208,6 +3208,13 @@
             "name": "CANDY",
             "symbol": "CNY",
             "address": "0xB48cd9823FE43E19cEe867C9b331376122556762",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Moon YFI",
+            "symbol": "MYFI",
+            "address": "0x1D95Bdc0f4B659E8bE69afb28fCfc0C3b05CE52B",
             "decimals": 18
         }
     ]
