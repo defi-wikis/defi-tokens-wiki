@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T13:30:49.894Z",
+    "timestamp": "2020-09-16T13:36:24.460Z",
     "version": {
         "major": 1,
-        "minor": 545,
+        "minor": 546,
         "patch": 0
     },
     "keywords": [
@@ -3558,6 +3558,13 @@
             "name": "Queso Network",
             "symbol": "QNET",
             "address": "0x06EAA8D19D2CDa6C6dFD4305eB6b67E8f75dcd99",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dimsum.farm",
+            "symbol": "DIMSUM",
+            "address": "0xD31ebA39be33893B4CeB34Ea3a6C4305fC8b77E0",
             "decimals": 18
         }
     ]
