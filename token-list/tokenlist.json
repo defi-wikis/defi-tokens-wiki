@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T19:08:29.503Z",
+    "timestamp": "2020-09-16T19:19:34.429Z",
     "version": {
         "major": 1,
-        "minor": 581,
+        "minor": 582,
         "patch": 0
     },
     "keywords": [
@@ -3798,6 +3798,13 @@
             "name": "Moon YFI",
             "symbol": "MYFI",
             "address": "0x1Efb2286BF89F01488C6B2a22B2556C0f45e972b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance ZED",
+            "symbol": "YFZD",
+            "address": "0xe0be03FB6A6EC15630cFE3609b50a5f85336177c",
             "decimals": 18
         }
     ]
