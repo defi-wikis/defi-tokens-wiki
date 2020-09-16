@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T11:34:19.614Z",
+    "timestamp": "2020-09-16T11:38:19.644Z",
     "version": {
         "major": 1,
-        "minor": 533,
+        "minor": 534,
         "patch": 0
     },
     "keywords": [
@@ -3475,6 +3475,13 @@
             "symbol": "YFS",
             "address": "0x598817eD335Cebcf56BDe6224C05907Cc647472F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UVC Exchange",
+            "symbol": "UVC",
+            "address": "0x7E7B071c2E563402Fb454EdB4363254B0c1425E6",
+            "decimals": 8
         }
     ]
 }
