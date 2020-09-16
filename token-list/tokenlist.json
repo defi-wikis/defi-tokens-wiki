@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T19:27:44.318Z",
+    "timestamp": "2020-09-16T19:33:49.695Z",
     "version": {
         "major": 1,
-        "minor": 583,
+        "minor": 584,
         "patch": 0
     },
     "keywords": [
@@ -3812,6 +3812,13 @@
             "name": "Pluton Token @ PlutonNetwork.io",
             "symbol": "PBN",
             "address": "0x771ea913D093E095749A7EBBa543984d7Cf86eF5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFastFullFinance",
+            "symbol": "YFFF",
+            "address": "0xC90418A7792FF9A033ebD3b12C3042852B28b1cA",
             "decimals": 18
         }
     ]
