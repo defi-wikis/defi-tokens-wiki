@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T01:37:44.710Z",
+    "timestamp": "2020-09-16T02:06:59.931Z",
     "version": {
         "major": 1,
-        "minor": 476,
+        "minor": 477,
         "patch": 0
     },
     "keywords": [
@@ -3075,6 +3075,13 @@
             "name": "yUSD Synthetic Token Expiring 1 September 2020",
             "symbol": "yUSD-SEP20",
             "address": "0x81ab848898b5ffD3354dbbEfb333D5D183eEDcB5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfcredit.finance token",
+            "symbol": "yfCREDIT",
+            "address": "0x3240D7F128c7CCfc286e661854ebbf248c2aD43b",
             "decimals": 18
         }
     ]
