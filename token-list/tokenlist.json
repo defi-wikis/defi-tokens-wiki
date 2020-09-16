@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T15:15:34.541Z",
+    "timestamp": "2020-09-16T15:52:59.047Z",
     "version": {
         "major": 1,
-        "minor": 558,
+        "minor": 559,
         "patch": 0
     },
     "keywords": [
@@ -3649,6 +3649,13 @@
             "name": "EpiK Protocol",
             "symbol": "ERC20-EPK",
             "address": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Linear Finance",
+            "symbol": "LINA",
+            "address": "0xeF3e5cfC25Caa1EFa60669A229723066aF302305",
             "decimals": 18
         }
     ]
