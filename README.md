@@ -90,6 +90,12 @@ git push origin <branch_name>
 - File size: maximum 100kB. Tip: optimize image size, e.g. using simple drag-and-drop online service [tinypng](https://tinypng.com/).
 
 
+### Running the test suite locally
+- Install dependencies with `npm i`
+- Then run `jest`
+- Note: Non-admins can only merge PR's if the test suite passes.
+
+
 ## Disclaimer
 The Dharma team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
 
