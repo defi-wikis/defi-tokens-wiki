@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T22:12:09.917Z",
+    "timestamp": "2020-09-16T22:41:07.197Z",
     "version": {
         "major": 1,
-        "minor": 605,
+        "minor": 606,
         "patch": 0
     },
     "keywords": [
@@ -3938,6 +3938,13 @@
             "name": "YieldWestFarmingFinance",
             "symbol": "YWFF",
             "address": "0x649779D4Fc0F59A38ccf0D533b30edD168f041f8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Riochain.io",
+            "symbol": "RFUEL",
+            "address": "0x1a66FaE8eb4981A9e6f2c54D71dfEA13D671EaA5",
             "decimals": 18
         }
     ]
