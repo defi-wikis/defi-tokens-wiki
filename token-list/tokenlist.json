@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T05:23:19.486Z",
+    "timestamp": "2020-09-16T05:30:39.444Z",
     "version": {
         "major": 1,
-        "minor": 491,
+        "minor": 492,
         "patch": 0
     },
     "keywords": [
@@ -3180,6 +3180,13 @@
             "name": "MaverickChain",
             "symbol": "MVC",
             "address": "0xB17DF9a3B09583a9bDCf757d6367171476D4D8a3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rawdefi.cm",
+            "symbol": "RDFI",
+            "address": "0x15C0f3813bcc10F08a03C0BfF6b22a7F74f7a9cF",
             "decimals": 18
         }
     ]
