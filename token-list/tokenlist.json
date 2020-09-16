@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-16T05:42:59.415Z",
+    "timestamp": "2020-09-16T05:46:14.346Z",
     "version": {
         "major": 1,
-        "minor": 494,
+        "minor": 495,
         "patch": 0
     },
     "keywords": [
@@ -3201,6 +3201,13 @@
             "name": "rawdefi.com",
             "symbol": "RDFI",
             "address": "0x8E272625fd954fbB46fDEF3d183E0AbbC13Ae2f2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CANDY",
+            "symbol": "CNY",
+            "address": "0xB48cd9823FE43E19cEe867C9b331376122556762",
             "decimals": 18
         }
     ]
