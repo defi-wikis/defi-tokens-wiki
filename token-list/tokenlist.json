@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T20:38:55.133Z",
+    "timestamp": "2020-09-17T20:40:54.296Z",
     "version": {
         "major": 1,
-        "minor": 687,
+        "minor": 688,
         "patch": 0
     },
     "keywords": [
@@ -32,7 +32,7 @@
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
-            "name": "DEX",
+            "name": "Dex",
             "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
         },
         "exchange-based": {
