@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T09:46:49.490Z",
+    "timestamp": "2020-09-17T10:43:31.852Z",
     "version": {
         "major": 1,
-        "minor": 637,
+        "minor": 638,
         "patch": 0
     },
     "keywords": [
@@ -4112,6 +4112,13 @@
             "name": "Linear.Finance",
             "symbol": "LINA",
             "address": "0x866B1ebA73d482f44c54C8Ef488C1F2bAeb49F02",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TREXA",
+            "symbol": "TXA",
+            "address": "0x46333bF01e7E81cC27B31fF912856f42E2826E0A",
             "decimals": 18
         }
     ]
