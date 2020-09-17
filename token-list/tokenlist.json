@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:35:15.325Z",
+    "timestamp": "2020-09-17T19:36:13.958Z",
     "version": {
         "major": 1,
-        "minor": 661,
+        "minor": 662,
         "patch": 0
     },
     "keywords": [
@@ -4283,6 +4283,13 @@
             "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd533a949740bb3306d119cc777fa900ba034cd52/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Insula",
+            "symbol": "ISLA",
+            "address": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
+            "decimals": 18
         }
     ]
 }
