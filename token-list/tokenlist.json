@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:18:07.358Z",
+    "timestamp": "2020-09-17T19:21:39.572Z",
     "version": {
         "major": 1,
-        "minor": 657,
+        "minor": 658,
         "patch": 0
     },
     "keywords": [
@@ -4252,6 +4252,13 @@
             "name": "ComboPool",
             "symbol": "CBP",
             "address": "0x681F2Ed45E05eFc715Dc95FF358802578fd03284",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "padthai.finance",
+            "symbol": "PADTHAI",
+            "address": "0x6f450f117114075D1D1C91dD64a61C0bA72ca68F",
             "decimals": 18
         }
     ]
