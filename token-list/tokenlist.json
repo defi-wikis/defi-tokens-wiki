@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:37:45.670Z",
+    "timestamp": "2020-09-17T19:37:53.236Z",
     "version": {
         "major": 1,
-        "minor": 673,
+        "minor": 674,
         "patch": 0
     },
     "keywords": [
@@ -4368,6 +4368,13 @@
             "symbol": "HUE",
             "address": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Gastoken.io",
+            "symbol": "GST2",
+            "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+            "decimals": 2
         }
     ]
 }
