@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T12:18:50.075Z",
+    "timestamp": "2020-09-17T13:03:39.420Z",
     "version": {
         "major": 1,
-        "minor": 645,
+        "minor": 646,
         "patch": 0
     },
     "keywords": [
@@ -4168,6 +4168,13 @@
             "name": "Aomx Network",
             "symbol": "AOMX",
             "address": "0xe30FE78CfCAd495578C16CB51a94315416C26d24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlackPearl Token",
+            "symbol": "BPLC",
+            "address": "0x426FC8BE95573230f6e6bc4af91873F0c67b21b4",
             "decimals": 18
         }
     ]
