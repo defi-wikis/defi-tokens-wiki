@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:36:22.216Z",
+    "timestamp": "2020-09-17T19:36:34.128Z",
     "version": {
         "major": 1,
-        "minor": 663,
+        "minor": 664,
         "patch": 0
     },
     "keywords": [
@@ -4297,6 +4297,14 @@
             "symbol": "DXD",
             "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jarvis Reward Token",
+            "symbol": "JRT",
+            "address": "0x8A9C67fee641579dEbA04928c4BC45F66e26343A",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8a9c67fee641579deba04928c4bc45f66e26343a/icon.png"
         }
     ]
 }
