@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T16:26:01.891Z",
+    "timestamp": "2020-09-17T17:47:34.201Z",
     "version": {
         "major": 1,
-        "minor": 653,
+        "minor": 654,
         "patch": 0
     },
     "keywords": [
@@ -4224,6 +4224,13 @@
             "name": "aesthetics.finance",
             "symbol": "VAPE",
             "address": "0xd848F9b61aFFAAa2e5A7402E87D27eaA0cc27B6f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YYII.Finance",
+            "symbol": "YYII",
+            "address": "0x605E5E546cB98064f2a6c8Cb36d5e5a1aad8841F",
             "decimals": 18
         }
     ]
