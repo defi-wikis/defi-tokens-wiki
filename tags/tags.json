@@ -38,5 +38,9 @@
     "governance": {
         "name": null,
         "description": null
+    },
+    "synthetics": {
+        "name": "Synthetics",
+        "description": null
     }
 }
