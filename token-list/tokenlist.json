@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T00:56:10.390Z",
+    "timestamp": "2020-09-17T01:27:45.565Z",
     "version": {
         "major": 1,
-        "minor": 629,
+        "minor": 630,
         "patch": 0
     },
     "keywords": [
@@ -4056,6 +4056,13 @@
             "name": "yfwin.network",
             "symbol": "YFN",
             "address": "0xd2a3642BAFd2E9511D1382374Fb2A8972c0DF579",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "uniswap",
+            "symbol": "UNI",
+            "address": "0x24382731129C7B77CF1fb744e509e32572fA4A45",
             "decimals": 18
         }
     ]
