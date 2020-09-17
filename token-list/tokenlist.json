@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T09:46:34.431Z",
+    "timestamp": "2020-09-17T09:46:49.490Z",
     "version": {
         "major": 1,
-        "minor": 636,
+        "minor": 637,
         "patch": 0
     },
     "keywords": [
@@ -4105,6 +4105,13 @@
             "name": "Galaxy",
             "symbol": "GALAXY",
             "address": "0x937CbfA69811c81B0fC01089D874847F11F05dea",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Linear.Finance",
+            "symbol": "LINA",
+            "address": "0x866B1ebA73d482f44c54C8Ef488C1F2bAeb49F02",
             "decimals": 18
         }
     ]
