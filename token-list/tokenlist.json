@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T18:19:14.786Z",
+    "timestamp": "2020-09-17T18:33:20.132Z",
     "version": {
         "major": 1,
-        "minor": 655,
+        "minor": 656,
         "patch": 0
     },
     "keywords": [
@@ -4239,6 +4239,13 @@
             "symbol": "YFFI",
             "address": "0x43FD7Cb45D7Fa46AC34C3b21AA8De64082F09751",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OPTUN Token",
+            "symbol": "OPTU",
+            "address": "0xBa9350A09382F9e8EcFB4fEf0fb35351aFA37133",
+            "decimals": 4
         }
     ]
 }
