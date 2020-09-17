@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:38:18.755Z",
+    "timestamp": "2020-09-17T19:49:26.211Z",
     "version": {
         "major": 1,
-        "minor": 677,
+        "minor": 678,
         "patch": 0
     },
     "keywords": [
@@ -4274,7 +4274,11 @@
             "name": "Bancor Network Token",
             "symbol": "BNT",
             "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
-            "decimals": 18
+            "decimals": 18,
+            "tags": [
+                "dex"
+            ],
+            "logoURI": "https://tokens.dharma.io/assets/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c/icon.png"
         },
         {
             "chainId": 1,
