@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T00:44:07.157Z",
+    "timestamp": "2020-09-17T00:46:24.452Z",
     "version": {
         "major": 1,
-        "minor": 625,
+        "minor": 626,
         "patch": 0
     },
     "keywords": [
@@ -4033,6 +4033,13 @@
             "decimals": 18,
             "tags": {},
             "logoURI": "https://tokens.dharma.io/assets/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UniSwap Token",
+            "symbol": "UNI",
+            "address": "0x9629aa8ce8e61004952AB619D683576F4Ec5478B",
+            "decimals": 18
         }
     ]
 }
