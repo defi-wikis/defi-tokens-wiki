@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T12:00:29.783Z",
+    "timestamp": "2020-09-17T12:18:50.075Z",
     "version": {
         "major": 1,
-        "minor": 644,
+        "minor": 645,
         "patch": 0
     },
     "keywords": [
@@ -4161,6 +4161,13 @@
             "name": "Linear Token",
             "symbol": "LINA",
             "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aomx Network",
+            "symbol": "AOMX",
+            "address": "0xe30FE78CfCAd495578C16CB51a94315416C26d24",
             "decimals": 18
         }
     ]
