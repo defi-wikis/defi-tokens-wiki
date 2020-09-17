@@ -3,7 +3,7 @@
     "symbol": "UNI",
     "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "decimals": 18,
-    "description": "UNI is the governance token of the Uniswap protocol — the most popular automated market maker on Ethereum.  It is used to reward liquidity providers to Uniswap trading pools and governs the allocation of protocol fees towards various forms of protocol development.",
+    "description": "UNI is the governance token of Uniswap: the most popular automated market maker on Ethereum.  It is used to reward liquidity providers to Uniswap trading pools and governs the allocation of protocol fees towards various forms of protocol development.",
     "socialLinks": [
         {
             "type": "website",
