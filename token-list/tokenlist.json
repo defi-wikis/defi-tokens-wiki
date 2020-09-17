@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T16:11:10.454Z",
+    "timestamp": "2020-09-17T16:26:01.891Z",
     "version": {
         "major": 1,
-        "minor": 652,
+        "minor": 653,
         "patch": 0
     },
     "keywords": [
@@ -4217,6 +4217,13 @@
             "name": "UNIS.FINANCE",
             "symbol": "UNIS",
             "address": "0x15FcD0bF81621c9Bb47BEcA8F3455A1640233d2E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "aesthetics.finance",
+            "symbol": "VAPE",
+            "address": "0xd848F9b61aFFAAa2e5A7402E87D27eaA0cc27B6f",
             "decimals": 18
         }
     ]
