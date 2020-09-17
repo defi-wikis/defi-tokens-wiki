@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T15:39:30.099Z",
+    "timestamp": "2020-09-17T16:11:10.454Z",
     "version": {
         "major": 1,
-        "minor": 651,
+        "minor": 652,
         "patch": 0
     },
     "keywords": [
@@ -4210,6 +4210,13 @@
             "name": "Mysterium",
             "symbol": "MYST",
             "address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIS.FINANCE",
+            "symbol": "UNIS",
+            "address": "0x15FcD0bF81621c9Bb47BEcA8F3455A1640233d2E",
             "decimals": 18
         }
     ]
