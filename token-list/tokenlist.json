@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T10:58:44.435Z",
+    "timestamp": "2020-09-17T11:04:29.922Z",
     "version": {
         "major": 1,
-        "minor": 639,
+        "minor": 640,
         "patch": 0
     },
     "keywords": [
@@ -4127,6 +4127,13 @@
             "symbol": "FDC",
             "address": "0x311C6769461e1d2173481F8d789AF00B39DF6d75",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "dHedge DAO Token",
+            "symbol": "DHT",
+            "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+            "decimals": 18
         }
     ]
 }
