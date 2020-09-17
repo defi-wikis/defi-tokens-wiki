@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T15:05:46.815Z",
+    "timestamp": "2020-09-17T15:39:30.099Z",
     "version": {
         "major": 1,
-        "minor": 650,
+        "minor": 651,
         "patch": 0
     },
     "keywords": [
@@ -4203,6 +4203,13 @@
             "name": "DimSumSwap.Finance",
             "symbol": "DSSF",
             "address": "0x44cAef2f3917F1c337Fc2f5295C71bec26e4Df30",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mysterium",
+            "symbol": "MYST",
+            "address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
             "decimals": 18
         }
     ]
