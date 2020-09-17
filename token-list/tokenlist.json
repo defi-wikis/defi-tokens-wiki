@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T13:32:39.716Z",
+    "timestamp": "2020-09-17T14:22:19.875Z",
     "version": {
         "major": 1,
-        "minor": 648,
+        "minor": 649,
         "patch": 0
     },
     "keywords": [
@@ -4189,6 +4189,13 @@
             "name": "AppleToken",
             "symbol": "APPLE",
             "address": "0x5f7304e627B42232B2E621C47A1C0e48a41897aC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "My Token Usb",
+            "symbol": "USB",
+            "address": "0x94834901770991716bC15edFcA62918c7116D43E",
             "decimals": 18
         }
     ]
