@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T17:47:34.201Z",
+    "timestamp": "2020-09-17T18:19:14.786Z",
     "version": {
         "major": 1,
-        "minor": 654,
+        "minor": 655,
         "patch": 0
     },
     "keywords": [
@@ -4231,6 +4231,13 @@
             "name": "YYII.Finance",
             "symbol": "YYII",
             "address": "0x605E5E546cB98064f2a6c8Cb36d5e5a1aad8841F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFarming.Finance",
+            "symbol": "YFFI",
+            "address": "0x43FD7Cb45D7Fa46AC34C3b21AA8De64082F09751",
             "decimals": 18
         }
     ]
