@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T14:22:19.875Z",
+    "timestamp": "2020-09-17T15:05:46.815Z",
     "version": {
         "major": 1,
-        "minor": 649,
+        "minor": 650,
         "patch": 0
     },
     "keywords": [
@@ -4196,6 +4196,13 @@
             "name": "My Token Usb",
             "symbol": "USB",
             "address": "0x94834901770991716bC15edFcA62918c7116D43E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DimSumSwap.Finance",
+            "symbol": "DSSF",
+            "address": "0x44cAef2f3917F1c337Fc2f5295C71bec26e4Df30",
             "decimals": 18
         }
     ]
