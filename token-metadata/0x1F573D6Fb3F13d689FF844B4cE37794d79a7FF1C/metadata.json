@@ -1,8 +1,7 @@
 {
-    "name": "Balancer",
-    "symbol": "BAL",
-    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+    "name": "Bancor Network Token",
+    "symbol": "BNT",
+    "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED",
-    "tags": ["amm", "dex"]
+    "dharmaVerificationStatus": "VERIFIED"
 }
