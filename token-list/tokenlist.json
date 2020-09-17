@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:36:49.803Z",
+    "timestamp": "2020-09-17T19:36:57.904Z",
     "version": {
         "major": 1,
-        "minor": 666,
+        "minor": 667,
         "patch": 0
     },
     "keywords": [
@@ -4318,6 +4318,13 @@
             "name": "Vault Guardian Token",
             "symbol": "VGT",
             "address": "0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ShipChain SHIP",
+            "symbol": "SHIP",
+            "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
             "decimals": 18
         }
     ]
