@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:21:39.572Z",
+    "timestamp": "2020-09-17T19:34:54.769Z",
     "version": {
         "major": 1,
-        "minor": 658,
+        "minor": 659,
         "patch": 0
     },
     "keywords": [
@@ -4260,6 +4260,14 @@
             "symbol": "PADTHAI",
             "address": "0x6f450f117114075D1D1C91dD64a61C0bA72ca68F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "0x Protocol Token",
+            "symbol": "ZRX",
+            "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe41d2489571d322189246dafa5ebde1f4699f498/icon.png"
         }
     ]
 }
