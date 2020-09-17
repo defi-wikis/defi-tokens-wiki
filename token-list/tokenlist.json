@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T00:46:24.452Z",
+    "timestamp": "2020-09-17T00:47:59.212Z",
     "version": {
         "major": 1,
-        "minor": 626,
+        "minor": 627,
         "patch": 0
     },
     "keywords": [
@@ -4039,6 +4039,13 @@
             "name": "UniSwap Token",
             "symbol": "UNI",
             "address": "0x9629aa8ce8e61004952AB619D683576F4Ec5478B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ymax.finance",
+            "symbol": "YMAX",
+            "address": "0x62f809665Be42aD77Ac82411A17d9d2e11D96a93",
             "decimals": 18
         }
     ]
