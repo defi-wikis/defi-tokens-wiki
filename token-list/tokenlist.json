@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T10:43:31.852Z",
+    "timestamp": "2020-09-17T10:58:44.435Z",
     "version": {
         "major": 1,
-        "minor": 638,
+        "minor": 639,
         "patch": 0
     },
     "keywords": [
@@ -4120,6 +4120,13 @@
             "symbol": "TXA",
             "address": "0x46333bF01e7E81cC27B31fF912856f42E2826E0A",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Freedom Dividend Coin",
+            "symbol": "FDC",
+            "address": "0x311C6769461e1d2173481F8d789AF00B39DF6d75",
+            "decimals": 2
         }
     ]
 }
