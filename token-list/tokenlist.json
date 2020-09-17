@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T11:06:20.147Z",
+    "timestamp": "2020-09-17T11:26:20.592Z",
     "version": {
         "major": 1,
-        "minor": 641,
+        "minor": 642,
         "patch": 0
     },
     "keywords": [
@@ -4140,6 +4140,13 @@
             "name": "IdleDAI v4 [Best yield]",
             "symbol": "idleDAIYield",
             "address": "0x3fE7940616e5Bc47b0775a0dccf6237893353bB4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DimSumSwap",
+            "symbol": "DSS",
+            "address": "0x2bb335cAf0fBDEC4e24515FC07edF8ed74c90b1B",
             "decimals": 18
         }
     ]
