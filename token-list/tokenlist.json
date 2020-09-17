@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T11:26:20.592Z",
+    "timestamp": "2020-09-17T11:50:39.711Z",
     "version": {
         "major": 1,
-        "minor": 642,
+        "minor": 643,
         "patch": 0
     },
     "keywords": [
@@ -4147,6 +4147,13 @@
             "name": "DimSumSwap",
             "symbol": "DSS",
             "address": "0x2bb335cAf0fBDEC4e24515FC07edF8ed74c90b1B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DimSumSwap",
+            "symbol": "DSS",
+            "address": "0xf6c491487D2B3Ee3166562F67D8a61ef93C8e027",
             "decimals": 18
         }
     ]
