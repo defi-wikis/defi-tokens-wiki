@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:37:38.230Z",
+    "timestamp": "2020-09-17T19:37:45.670Z",
     "version": {
         "major": 1,
-        "minor": 672,
+        "minor": 673,
         "patch": 0
     },
     "keywords": [
@@ -4361,6 +4361,13 @@
             "symbol": "TLN",
             "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hue",
+            "symbol": "HUE",
+            "address": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
+            "decimals": 4
         }
     ]
 }
