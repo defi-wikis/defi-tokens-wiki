@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T13:04:49.920Z",
+    "timestamp": "2020-09-17T13:32:39.716Z",
     "version": {
         "major": 1,
-        "minor": 647,
+        "minor": 648,
         "patch": 0
     },
     "keywords": [
@@ -4182,6 +4182,13 @@
             "name": "Curve.fi renBTC/wBTC/sBTC",
             "symbol": "crvRenWSBTC",
             "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AppleToken",
+            "symbol": "APPLE",
+            "address": "0x5f7304e627B42232B2E621C47A1C0e48a41897aC",
             "decimals": 18
         }
     ]
