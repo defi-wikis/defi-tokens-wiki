@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T08:57:09.248Z",
+    "timestamp": "2020-09-17T09:16:05.994Z",
     "version": {
         "major": 1,
-        "minor": 634,
+        "minor": 635,
         "patch": 0
     },
     "keywords": [
@@ -4091,6 +4091,13 @@
             "name": "Yearn bull",
             "symbol": "YBF",
             "address": "0x404444f7b11102C381660C87e3Dd71f8b21221D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "\"BANKEX\" project utility token",
+            "symbol": "BKX",
+            "address": "0x45245bc59219eeaAF6cD3f382e078A461FF9De7B",
             "decimals": 18
         }
     ]
