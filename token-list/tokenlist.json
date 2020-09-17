@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T09:16:05.994Z",
+    "timestamp": "2020-09-17T09:46:34.431Z",
     "version": {
         "major": 1,
-        "minor": 635,
+        "minor": 636,
         "patch": 0
     },
     "keywords": [
@@ -4098,6 +4098,13 @@
             "name": "\"BANKEX\" project utility token",
             "symbol": "BKX",
             "address": "0x45245bc59219eeaAF6cD3f382e078A461FF9De7B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Galaxy",
+            "symbol": "GALAXY",
+            "address": "0x937CbfA69811c81B0fC01089D874847F11F05dea",
             "decimals": 18
         }
     ]
