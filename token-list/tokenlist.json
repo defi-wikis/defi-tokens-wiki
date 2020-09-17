@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:38:10.943Z",
+    "timestamp": "2020-09-17T19:38:18.755Z",
     "version": {
         "major": 1,
-        "minor": 676,
+        "minor": 677,
         "patch": 0
     },
     "keywords": [
@@ -4389,6 +4389,13 @@
             "symbol": "SLP",
             "address": "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "ERC223",
+            "symbol": "ERC223",
+            "address": "0xF8F237D074F637D777bcD2A4712bde793f94272B",
+            "decimals": 10
         }
     ]
 }
