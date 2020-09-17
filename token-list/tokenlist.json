@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T11:50:39.711Z",
+    "timestamp": "2020-09-17T12:00:29.783Z",
     "version": {
         "major": 1,
-        "minor": 643,
+        "minor": 644,
         "patch": 0
     },
     "keywords": [
@@ -4154,6 +4154,13 @@
             "name": "DimSumSwap",
             "symbol": "DSS",
             "address": "0xf6c491487D2B3Ee3166562F67D8a61ef93C8e027",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Linear Token",
+            "symbol": "LINA",
+            "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
             "decimals": 18
         }
     ]
