@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:36:42.020Z",
+    "timestamp": "2020-09-17T19:36:49.803Z",
     "version": {
         "major": 1,
-        "minor": 665,
+        "minor": 666,
         "patch": 0
     },
     "keywords": [
@@ -4311,6 +4311,13 @@
             "name": "Flexacoin",
             "symbol": "FXC",
             "address": "0x4a57E687b9126435a9B19E4A802113e266AdeBde",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vault Guardian Token",
+            "symbol": "VGT",
+            "address": "0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
             "decimals": 18
         }
     ]
