@@ -1,0 +1,7 @@
+{
+    "name": "yearn Aave Interest bearing LINK",
+    "symbol": "yaLINK",
+    "address": "0x29E240CFD7946BA20895a7a02eDb25C210f9f324",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
