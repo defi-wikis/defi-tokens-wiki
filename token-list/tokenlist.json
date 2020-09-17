@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T11:04:29.922Z",
+    "timestamp": "2020-09-17T11:06:20.147Z",
     "version": {
         "major": 1,
-        "minor": 640,
+        "minor": 641,
         "patch": 0
     },
     "keywords": [
@@ -4133,6 +4133,13 @@
             "name": "dHedge DAO Token",
             "symbol": "DHT",
             "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IdleDAI v4 [Best yield]",
+            "symbol": "idleDAIYield",
+            "address": "0x3fE7940616e5Bc47b0775a0dccf6237893353bB4",
             "decimals": 18
         }
     ]
