@@ -1,0 +1,7 @@
+{
+    "name": "uniswap",
+    "symbol": "UNI",
+    "address": "0x24382731129C7B77CF1fb744e509e32572fA4A45",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
