@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T20:48:17.914Z",
+    "timestamp": "2020-09-17T20:52:54.709Z",
     "version": {
         "major": 1,
-        "minor": 699,
+        "minor": 700,
         "patch": 0
     },
     "keywords": [
@@ -4418,6 +4418,13 @@
             "name": "ETHEREUM X",
             "symbol": "ETH",
             "address": "0x3f76E0dAb24505d4f16DeF2958f1bFA664B186aD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Degenerated Finance Token",
+            "symbol": "DEGENFI",
+            "address": "0x12850C93ADD7cEF8b12188CDA55d99f7a044A1B5",
             "decimals": 18
         }
     ]
