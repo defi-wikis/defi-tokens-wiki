@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T03:10:34.354Z",
+    "timestamp": "2020-09-17T05:57:05.885Z",
     "version": {
         "major": 1,
-        "minor": 631,
+        "minor": 632,
         "patch": 0
     },
     "keywords": [
@@ -4071,6 +4071,13 @@
             "symbol": "Uni",
             "address": "0x9160f0C3Ef1fdDa88787e86D111b1aaf01eBCDD2",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "yearn Aave Interest bearing LINK",
+            "symbol": "yaLINK",
+            "address": "0x29E240CFD7946BA20895a7a02eDb25C210f9f324",
+            "decimals": 18
         }
     ]
 }
