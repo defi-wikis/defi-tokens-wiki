@@ -1,0 +1,7 @@
+{
+    "name": "UniSwap Token",
+    "symbol": "UNI",
+    "address": "0x9629aa8ce8e61004952AB619D683576F4Ec5478B",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
