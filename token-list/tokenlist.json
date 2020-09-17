@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:36:57.904Z",
+    "timestamp": "2020-09-17T19:37:05.764Z",
     "version": {
         "major": 1,
-        "minor": 667,
+        "minor": 668,
         "patch": 0
     },
     "keywords": [
@@ -4325,6 +4325,13 @@
             "name": "ShipChain SHIP",
             "symbol": "SHIP",
             "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "metalblock",
+            "symbol": "MTBK",
+            "address": "0x1dFEc1Cf1336c572c2D2E34fe8F6Aa2F409C8251",
             "decimals": 18
         }
     ]
