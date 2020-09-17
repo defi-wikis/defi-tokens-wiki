@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:36:13.958Z",
+    "timestamp": "2020-09-17T19:36:22.216Z",
     "version": {
         "major": 1,
-        "minor": 662,
+        "minor": 663,
         "patch": 0
     },
     "keywords": [
@@ -4289,6 +4289,13 @@
             "name": "Insula",
             "symbol": "ISLA",
             "address": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DXdao",
+            "symbol": "DXD",
+            "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
             "decimals": 18
         }
     ]
