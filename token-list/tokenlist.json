@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:37:22.205Z",
+    "timestamp": "2020-09-17T19:37:30.192Z",
     "version": {
         "major": 1,
-        "minor": 670,
+        "minor": 671,
         "patch": 0
     },
     "keywords": [
@@ -4347,6 +4347,13 @@
             "symbol": "RDN",
             "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Money",
+            "symbol": "ETHMNY",
+            "address": "0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa",
+            "decimals": 2
         }
     ]
 }
