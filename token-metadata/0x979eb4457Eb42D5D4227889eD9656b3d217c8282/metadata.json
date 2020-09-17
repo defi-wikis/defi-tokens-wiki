@@ -5,7 +5,7 @@
     "decimals": 2,
     "dharmaVerificationStatus": "UNVERIFIED",
     "description": "The official token of the Conference Call fantasy football league. This token is a pure utility token for members of the CCL.",
-    "socailLinks": [
+    "socialLinks": [
       {
         "type": "website",
         "value": "https://conferencecallleague.herokuapp.com/"
