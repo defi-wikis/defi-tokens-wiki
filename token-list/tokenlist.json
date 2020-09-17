@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T19:37:13.697Z",
+    "timestamp": "2020-09-17T19:37:22.205Z",
     "version": {
         "major": 1,
-        "minor": 669,
+        "minor": 670,
         "patch": 0
     },
     "keywords": [
@@ -4339,6 +4339,13 @@
             "name": "Cute Coin",
             "symbol": "CUTE",
             "address": "0x047686fB287e7263A23873dEa66b4501015a2226",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Raiden Token",
+            "symbol": "RDN",
+            "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
             "decimals": 18
         }
     ]
