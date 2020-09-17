@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T13:03:39.420Z",
+    "timestamp": "2020-09-17T13:04:49.920Z",
     "version": {
         "major": 1,
-        "minor": 646,
+        "minor": 647,
         "patch": 0
     },
     "keywords": [
@@ -4175,6 +4175,13 @@
             "name": "BlackPearl Token",
             "symbol": "BPLC",
             "address": "0x426FC8BE95573230f6e6bc4af91873F0c67b21b4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Curve.fi renBTC/wBTC/sBTC",
+            "symbol": "crvRenWSBTC",
+            "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
             "decimals": 18
         }
     ]
