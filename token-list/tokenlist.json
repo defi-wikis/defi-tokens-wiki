@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T00:20:49.158Z",
+    "timestamp": "2020-09-17T00:21:38.711Z",
     "version": {
         "major": 1,
-        "minor": 622,
+        "minor": 623,
         "patch": 0
     },
     "keywords": [
@@ -3975,7 +3975,9 @@
             "name": "Conference Call League",
             "symbol": "CCL",
             "address": "0x979eb4457Eb42D5D4227889eD9656b3d217c8282",
-            "decimals": 2
+            "decimals": 2,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0x979eb4457eb42d5d4227889ed9656b3d217c8282/icon.png"
         },
         {
             "chainId": 1,
