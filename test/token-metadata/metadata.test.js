@@ -32,17 +32,6 @@ describe("metadata.json", () => {
                 expect(files.every(file => validFiles.includes(file))).toBe(true);
             })
 
-            it("should be able to be decoded from base 64 format", () => {
-                let buffer = new Buffer(JSON.stringify(metadata));
-                const base64String = buffer.toString("base64");
-
-                buffer = new Buffer(base64String, "base64");
-
-                const json = JSON.parse(buffer.toString("ascii"));
-
-                expect(JSON.stringify(metadata)).toEqual(JSON.stringify(json));
-            })
-
             for (const file of files) {
                 describe(file, () => {
                     if (file === VALID_TOKEN_METADATA_FILES.METADATA) {
@@ -57,6 +46,17 @@ describe("metadata.json", () => {
 
                             expect(valid).toBe(true);
                         });
+
+                        it("should be able to be decoded from base 64 format", () => {
+                            let buffer = new Buffer(JSON.stringify(metadata));
+                            const base64String = buffer.toString("base64");
+            
+                            buffer = new Buffer(base64String, "base64");
+            
+                            const json = JSON.parse(buffer.toString("ascii"));
+            
+                            expect(JSON.stringify(metadata)).toEqual(JSON.stringify(json));
+                        })
 
                         it("should only have valid fields", () => {
                             const fields = Object.keys(metadata);
