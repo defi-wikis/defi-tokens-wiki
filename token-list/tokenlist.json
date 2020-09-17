@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T18:33:20.132Z",
+    "timestamp": "2020-09-17T19:18:07.358Z",
     "version": {
         "major": 1,
-        "minor": 656,
+        "minor": 657,
         "patch": 0
     },
     "keywords": [
@@ -4246,6 +4246,13 @@
             "symbol": "OPTU",
             "address": "0xBa9350A09382F9e8EcFB4fEf0fb35351aFA37133",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "ComboPool",
+            "symbol": "CBP",
+            "address": "0x681F2Ed45E05eFc715Dc95FF358802578fd03284",
+            "decimals": 18
         }
     ]
 }
