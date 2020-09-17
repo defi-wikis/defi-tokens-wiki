@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T20:47:03.821Z",
+    "timestamp": "2020-09-17T20:48:17.914Z",
     "version": {
         "major": 1,
-        "minor": 698,
+        "minor": 699,
         "patch": 0
     },
     "keywords": [
@@ -153,7 +153,8 @@
             "symbol": "SNX",
             "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
