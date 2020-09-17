@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T20:52:54.709Z",
+    "timestamp": "2020-09-17T21:52:14.780Z",
     "version": {
         "major": 1,
-        "minor": 700,
+        "minor": 701,
         "patch": 0
     },
     "keywords": [
@@ -4425,6 +4425,13 @@
             "name": "Degenerated Finance Token",
             "symbol": "DEGENFI",
             "address": "0x12850C93ADD7cEF8b12188CDA55d99f7a044A1B5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MMCrypto",
+            "symbol": "MMC",
+            "address": "0x001f265fCf3DC40F373a44bAC600C6cb1EEa64Bd",
             "decimals": 18
         }
     ]
