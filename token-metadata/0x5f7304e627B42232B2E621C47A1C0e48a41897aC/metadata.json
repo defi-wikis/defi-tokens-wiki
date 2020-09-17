@@ -1,0 +1,7 @@
+{
+    "name": "AppleToken",
+    "symbol": "APPLE",
+    "address": "0x5f7304e627B42232B2E621C47A1C0e48a41897aC",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
