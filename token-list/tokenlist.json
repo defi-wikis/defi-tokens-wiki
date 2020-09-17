@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T00:47:59.212Z",
+    "timestamp": "2020-09-17T00:55:09.834Z",
     "version": {
         "major": 1,
-        "minor": 627,
+        "minor": 628,
         "patch": 0
     },
     "keywords": [
@@ -4046,6 +4046,13 @@
             "name": "ymax.finance",
             "symbol": "YMAX",
             "address": "0x62f809665Be42aD77Ac82411A17d9d2e11D96a93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfwin.network",
+            "symbol": "YFN",
+            "address": "0xd2a3642BAFd2E9511D1382374Fb2A8972c0DF579",
             "decimals": 18
         }
     ]
