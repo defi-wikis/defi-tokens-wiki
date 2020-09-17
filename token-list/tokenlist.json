@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T06:41:29.312Z",
+    "timestamp": "2020-09-17T08:57:09.248Z",
     "version": {
         "major": 1,
-        "minor": 633,
+        "minor": 634,
         "patch": 0
     },
     "keywords": [
@@ -4085,6 +4085,13 @@
             "symbol": "FAME",
             "address": "0xF2da15Ae6eF94988534BaD4b9e646f5911CBd487",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn bull",
+            "symbol": "YBF",
+            "address": "0x404444f7b11102C381660C87e3Dd71f8b21221D8",
+            "decimals": 18
         }
     ]
 }
