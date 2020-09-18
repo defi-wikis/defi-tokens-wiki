@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T10:40:39.289Z",
+    "timestamp": "2020-09-18T10:51:44.240Z",
     "version": {
         "major": 1,
-        "minor": 736,
+        "minor": 737,
         "patch": 0
     },
     "keywords": [
@@ -4677,6 +4677,13 @@
             "name": "Fountain",
             "symbol": "FTN",
             "address": "0xb1D5a03D2FF72F7f226372C4B2fA7B50cD9D7910",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KevCoin",
+            "symbol": "KVC",
+            "address": "0x483009c9aEc73194518723db2f849f82cB8f58a4",
             "decimals": 18
         }
     ]
