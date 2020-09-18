@@ -4818,13 +4818,6 @@
             "symbol": "EIS",
             "address": "0xBBe158b4af780023462193342Bf111a2f1e983F1",
             "decimals": 18
-        },
-        {
-            "chainId": 1,
-            "name": "卢布",
-            "symbol": "RUB",
-            "address": "0x7C515302AAb47d0783aE217829dC6427C72BCcbA",
-            "decimals": 8
         }
     ]
 }
