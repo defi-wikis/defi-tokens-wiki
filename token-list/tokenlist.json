@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T03:50:44.628Z",
+    "timestamp": "2020-09-18T03:50:54.466Z",
     "version": {
         "major": 1,
-        "minor": 714,
+        "minor": 715,
         "patch": 0
     },
     "keywords": [
@@ -4523,6 +4523,13 @@
             "name": "FxswapToken",
             "symbol": "FXSWAP",
             "address": "0xE33586055D39B7D2d17be6F2Ae0671447e98c72B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfdefi.network",
+            "symbol": "YFD",
+            "address": "0x99448b40572CAe1F83BF9e26fFE2148f5A4a4852",
             "decimals": 18
         }
     ]
