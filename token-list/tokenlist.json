@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:49:59.896Z",
+    "timestamp": "2020-09-18T02:52:05.942Z",
     "version": {
         "major": 1,
-        "minor": 708,
+        "minor": 709,
         "patch": 0
     },
     "keywords": [
@@ -4481,6 +4481,13 @@
             "name": "Future Finance Token",
             "symbol": "FFT",
             "address": "0x981db714951123fC7146228eC2c7Cd1B88c1EcdA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Heart Number",
+            "symbol": "HTN",
+            "address": "0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619",
             "decimals": 18
         }
     ]
