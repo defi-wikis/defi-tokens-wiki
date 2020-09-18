@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:19:20.050Z",
+    "timestamp": "2020-09-18T02:23:34.975Z",
     "version": {
         "major": 1,
-        "minor": 703,
+        "minor": 704,
         "patch": 0
     },
     "keywords": [
@@ -4446,6 +4446,13 @@
             "name": "YieldSwap.finance",
             "symbol": "YSWAP",
             "address": "0x67d28Ded2016CC83BA668eC083117C3EEec5Dd9a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hatchdao.finance",
+            "symbol": "HATCH",
+            "address": "0x9051414e6c59A85F4422bb17F5bab578d8af0240",
             "decimals": 18
         }
     ]
