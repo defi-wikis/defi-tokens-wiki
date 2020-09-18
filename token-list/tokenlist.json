@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T14:41:54.616Z",
+    "timestamp": "2020-09-18T15:04:19.913Z",
     "version": {
         "major": 1,
-        "minor": 741,
+        "minor": 742,
         "patch": 0
     },
     "keywords": [
@@ -4705,6 +4705,13 @@
             "name": "ECX Token",
             "symbol": "ECX",
             "address": "0x9C8071c501c8226Ab906A68d9eF9DA6e0Bd3A8bA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "null.finance",
+            "symbol": "NULL",
+            "address": "0xf784097f3a428878D2b512818b34f580b93776db",
             "decimals": 18
         }
     ]
