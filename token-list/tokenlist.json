@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:41:34.319Z",
+    "timestamp": "2020-09-18T02:43:44.311Z",
     "version": {
         "major": 1,
-        "minor": 706,
+        "minor": 707,
         "patch": 0
     },
     "keywords": [
@@ -4468,6 +4468,13 @@
             "symbol": "DFF",
             "address": "0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "yfxi.xfinance",
+            "symbol": "YFXI",
+            "address": "0xcb00892dDedeF6e5904c9984a5702a1cD0B9003B",
+            "decimals": 18
         }
     ]
 }
