@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T08:46:54.599Z",
+    "timestamp": "2020-09-18T09:18:39.501Z",
     "version": {
         "major": 1,
-        "minor": 730,
+        "minor": 731,
         "patch": 0
     },
     "keywords": [
@@ -4635,6 +4635,13 @@
             "name": "yfswap.link",
             "symbol": "YFW",
             "address": "0xECEcee5e4395bd70998f30B1413544910fa1e756",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Markaccy",
+            "symbol": "MKCY",
+            "address": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
             "decimals": 18
         }
     ]
