@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-17T21:52:14.780Z",
+    "timestamp": "2020-09-18T02:12:19.862Z",
     "version": {
         "major": 1,
-        "minor": 701,
+        "minor": 702,
         "patch": 0
     },
     "keywords": [
@@ -4432,6 +4432,13 @@
             "name": "MMCrypto",
             "symbol": "MMC",
             "address": "0x001f265fCf3DC40F373a44bAC600C6cb1EEa64Bd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GovernToken",
+            "symbol": "GOV",
+            "address": "0xDfF8Cd1313c6bDe1B9282A24F8c996e487f74f80",
             "decimals": 18
         }
     ]
