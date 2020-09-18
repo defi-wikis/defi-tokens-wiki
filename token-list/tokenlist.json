@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T06:04:14.060Z",
+    "timestamp": "2020-09-18T06:07:49.063Z",
     "version": {
         "major": 1,
-        "minor": 720,
+        "minor": 721,
         "patch": 0
     },
     "keywords": [
@@ -4566,6 +4566,13 @@
             "symbol": "FISS",
             "address": "0xC92991A367718dB1efBD98A24A2E045Ff8292201",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "YZeroUtility",
+            "symbol": "YZUT",
+            "address": "0x1E326Fe946c0e3a33Fc2bf47883e8ce3168d7795",
+            "decimals": 18
         }
     ]
 }
