@@ -5,6 +5,7 @@
 There are thousands of assets in AMMs & DEXs on Ethereum, and that number will rapidly trend towards infinity.  The DeFi Tokens Wiki is a an attempt to categorize those tokens into high-signal lists and enrich them with up-to-date metadata, including:
 
 - Logos
+- Verification Statuses
 - Short-Form Descriptions
 - Tags
 - Social Links
