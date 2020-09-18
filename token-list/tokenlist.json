@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T08:43:49.695Z",
+    "timestamp": "2020-09-18T08:46:54.599Z",
     "version": {
         "major": 1,
-        "minor": 729,
+        "minor": 730,
         "patch": 0
     },
     "keywords": [
@@ -4628,6 +4628,13 @@
             "name": "0xDollar.Finance",
             "symbol": "0xDollar",
             "address": "0x34870322F473830d28D28BEf7F1D4178edF832d8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfswap.link",
+            "symbol": "YFW",
+            "address": "0xECEcee5e4395bd70998f30B1413544910fa1e756",
             "decimals": 18
         }
     ]
