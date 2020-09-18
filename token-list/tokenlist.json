@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:23:34.975Z",
+    "timestamp": "2020-09-18T02:26:29.834Z",
     "version": {
         "major": 1,
-        "minor": 704,
+        "minor": 705,
         "patch": 0
     },
     "keywords": [
@@ -4454,6 +4454,13 @@
             "symbol": "HATCH",
             "address": "0x9051414e6c59A85F4422bb17F5bab578d8af0240",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Blue",
+            "symbol": "BLUE",
+            "address": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+            "decimals": 8
         }
     ]
 }
