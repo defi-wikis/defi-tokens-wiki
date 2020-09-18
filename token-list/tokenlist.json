@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T03:03:44.644Z",
+    "timestamp": "2020-09-18T03:18:39.854Z",
     "version": {
         "major": 1,
-        "minor": 711,
+        "minor": 712,
         "patch": 0
     },
     "keywords": [
@@ -4502,6 +4502,13 @@
             "name": "ymax.finance",
             "symbol": "YMAX",
             "address": "0x2C03CbcA654ad43BA53b8916fA925B27Ddf3E7eC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZeroUtilityV2",
+            "symbol": "ZUT2",
+            "address": "0xffA7D07Dc79072dfB9B86C27c8072410975A443F",
             "decimals": 18
         }
     ]
