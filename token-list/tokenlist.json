@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T10:06:39.389Z",
+    "timestamp": "2020-09-18T10:32:19.437Z",
     "version": {
         "major": 1,
-        "minor": 734,
+        "minor": 735,
         "patch": 0
     },
     "keywords": [
@@ -4663,6 +4663,13 @@
             "name": "FF.finance",
             "symbol": "FFFI",
             "address": "0xAeaCf4dcBE0cb8b368E643554D5C5b103dB79e4E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OneSwap",
+            "symbol": "ONES",
+            "address": "0x0B342C51d1592C41068d5D4b4DA4A68C0a04d5A4",
             "decimals": 18
         }
     ]
