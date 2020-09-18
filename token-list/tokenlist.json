@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T07:35:59.447Z",
+    "timestamp": "2020-09-18T07:54:49.608Z",
     "version": {
         "major": 1,
-        "minor": 725,
+        "minor": 726,
         "patch": 0
     },
     "keywords": [
@@ -4600,6 +4600,13 @@
             "name": "ZUT3",
             "symbol": "ZUT3",
             "address": "0xB36105799b6E9139614526cDBdFd3247798Bac04",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Olber Cloud Coin",
+            "symbol": "OBE",
+            "address": "0x30507113650BdC71e32202190879f45BD22F17C1",
             "decimals": 18
         }
     ]
