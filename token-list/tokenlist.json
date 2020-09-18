@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T18:49:20.393Z",
+    "timestamp": "2020-09-18T19:46:34.826Z",
     "version": {
         "major": 1,
-        "minor": 756,
+        "minor": 757,
         "patch": 0
     },
     "keywords": [
@@ -4810,6 +4810,13 @@
             "name": "TangT",
             "symbol": "TT",
             "address": "0xE1c65868FFf15f139CDf34004c3De742b3b639e5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eisele",
+            "symbol": "EIS",
+            "address": "0xBBe158b4af780023462193342Bf111a2f1e983F1",
             "decimals": 18
         }
     ]
