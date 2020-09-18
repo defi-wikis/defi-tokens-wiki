@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T16:35:09.355Z",
+    "timestamp": "2020-09-18T16:38:05.911Z",
     "version": {
         "major": 1,
-        "minor": 749,
+        "minor": 750,
         "patch": 0
     },
     "keywords": [
@@ -4761,6 +4761,13 @@
             "name": "ChartEx",
             "symbol": "CHART",
             "address": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YMAX",
+            "symbol": "YMAX",
+            "address": "0x062f90480551379791FBe2ED74C1fe69821b30d3",
             "decimals": 18
         }
     ]
