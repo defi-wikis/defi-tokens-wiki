@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T18:09:39.639Z",
+    "timestamp": "2020-09-18T18:49:20.393Z",
     "version": {
         "major": 1,
-        "minor": 755,
+        "minor": 756,
         "patch": 0
     },
     "keywords": [
@@ -4803,6 +4803,13 @@
             "name": "KASSIAHOME",
             "symbol": "KASSIAHOME",
             "address": "0x4CC84b41ECECC387244512242Eec226Eb7948A92",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TangT",
+            "symbol": "TT",
+            "address": "0xE1c65868FFf15f139CDf34004c3De742b3b639e5",
             "decimals": 18
         }
     ]
