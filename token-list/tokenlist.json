@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T15:06:49.674Z",
+    "timestamp": "2020-09-18T15:19:54.895Z",
     "version": {
         "major": 1,
-        "minor": 743,
+        "minor": 744,
         "patch": 0
     },
     "keywords": [
@@ -4719,6 +4719,13 @@
             "name": "SteakToken",
             "symbol": "STEAK",
             "address": "0x62d8AA7Aa9D3739c2F58805d1E9445a3306fE282",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KayLeX Protocol",
+            "symbol": "KLX",
+            "address": "0x7B9d7372b6B82817d944916B881F9FcC5C6809A5",
             "decimals": 18
         }
     ]
