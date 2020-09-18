@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T10:51:44.240Z",
+    "timestamp": "2020-09-18T11:06:59.812Z",
     "version": {
         "major": 1,
-        "minor": 737,
+        "minor": 738,
         "patch": 0
     },
     "keywords": [
@@ -4684,6 +4684,13 @@
             "name": "KevCoin",
             "symbol": "KVC",
             "address": "0x483009c9aEc73194518723db2f849f82cB8f58a4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STN",
+            "symbol": "STN",
+            "address": "0xE19598A7fc3e8D4a5070ea6559dCE199B8FD7F5E",
             "decimals": 18
         }
     ]
