@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T22:15:24.705Z",
+    "timestamp": "2020-09-18T22:17:10.240Z",
     "version": {
         "major": 1,
-        "minor": 762,
+        "minor": 763,
         "patch": 0
     },
     "keywords": [
@@ -4845,6 +4845,13 @@
             "name": "DogDefiCoin",
             "symbol": "DOGDEFI",
             "address": "0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YZZ",
+            "symbol": "YZZ",
+            "address": "0x7D4188742164bd36822E2384DB188b7A8fDBa27d",
             "decimals": 18
         }
     ]
