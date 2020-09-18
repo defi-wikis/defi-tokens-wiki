@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T16:29:06.544Z",
+    "timestamp": "2020-09-18T16:34:09.837Z",
     "version": {
         "major": 1,
-        "minor": 747,
+        "minor": 748,
         "patch": 0
     },
     "keywords": [
@@ -4747,6 +4747,13 @@
             "name": "ChartEx",
             "symbol": "CHART",
             "address": "0x1bbA22bCe5B3D26DC0Ec64562408A6F415956724",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kan.Finance",
+            "symbol": "KAN",
+            "address": "0xbDcA32f0D3c2CF1cfBb4864dDA9cE062F8326F35",
             "decimals": 18
         }
     ]
