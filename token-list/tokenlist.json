@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T07:27:34.242Z",
+    "timestamp": "2020-09-18T07:31:24.362Z",
     "version": {
         "major": 1,
-        "minor": 723,
+        "minor": 724,
         "patch": 0
     },
     "keywords": [
@@ -4586,6 +4586,13 @@
             "name": "EOSpace",
             "symbol": "EOP",
             "address": "0xb562EC0261a9cB550A5fbcB46030088F1d6a53cF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": " findora global",
+            "symbol": "FDA",
+            "address": "0xdFef3577fBAA56D71f1d31C53B5a5980A9B57ff1",
             "decimals": 18
         }
     ]
