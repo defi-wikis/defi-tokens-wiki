@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T07:31:24.362Z",
+    "timestamp": "2020-09-18T07:35:59.447Z",
     "version": {
         "major": 1,
-        "minor": 724,
+        "minor": 725,
         "patch": 0
     },
     "keywords": [
@@ -4593,6 +4593,13 @@
             "name": " findora global",
             "symbol": "FDA",
             "address": "0xdFef3577fBAA56D71f1d31C53B5a5980A9B57ff1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZUT3",
+            "symbol": "ZUT3",
+            "address": "0xB36105799b6E9139614526cDBdFd3247798Bac04",
             "decimals": 18
         }
     ]
