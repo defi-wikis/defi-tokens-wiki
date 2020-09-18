@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T17:47:29.973Z",
+    "timestamp": "2020-09-18T17:54:49.370Z",
     "version": {
         "major": 1,
-        "minor": 752,
+        "minor": 753,
         "patch": 0
     },
     "keywords": [
@@ -4782,6 +4782,13 @@
             "name": "NVZNOFFICIAL",
             "symbol": "NVZN",
             "address": "0x4bc9b45B9dA55450A389aB0462AB3fDb5337Fe17",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitCoinVilla",
+            "symbol": "BTCv",
+            "address": "0xca5428b3A91BdD6aae9C672Ea5340f8E864Dc72C",
             "decimals": 18
         }
     ]
