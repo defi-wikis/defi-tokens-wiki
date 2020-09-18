@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T04:56:14.598Z",
+    "timestamp": "2020-09-18T05:17:14.404Z",
     "version": {
         "major": 1,
-        "minor": 716,
+        "minor": 717,
         "patch": 0
     },
     "keywords": [
@@ -4537,6 +4537,13 @@
             "name": "coinmakes.com",
             "symbol": "MKS",
             "address": "0xc98423a4E42cF01c20A4f7DA8C4Aa71f2Be70B92",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "vicrewards.io",
+            "symbol": "VIC",
+            "address": "0xC62C45F3a1a13E6F2c1F673DA077E58d5DB843F7",
             "decimals": 18
         }
     ]
