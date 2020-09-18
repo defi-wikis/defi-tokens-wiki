@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T20:08:59.210Z",
+    "timestamp": "2020-09-18T21:39:14.754Z",
     "version": {
         "major": 1,
-        "minor": 758,
+        "minor": 759,
         "patch": 0
     },
     "keywords": [
@@ -4817,6 +4817,13 @@
             "name": "eisele",
             "symbol": "EIS",
             "address": "0xBBe158b4af780023462193342Bf111a2f1e983F1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UCOT",
+            "symbol": "UCT",
+            "address": "0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
             "decimals": 18
         }
     ]
