@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T09:41:06.398Z",
+    "timestamp": "2020-09-18T09:51:59.632Z",
     "version": {
         "major": 1,
-        "minor": 732,
+        "minor": 733,
         "patch": 0
     },
     "keywords": [
@@ -4649,6 +4649,13 @@
             "name": "TheFinalZut",
             "symbol": "FZut",
             "address": "0x1BdC2454cb0b000C0c253883eF8d87524E014b79",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KANI.finance",
+            "symbol": "KANI",
+            "address": "0x790aCe920bAF3af2b773D4556A69490e077F6B4A",
             "decimals": 18
         }
     ]
