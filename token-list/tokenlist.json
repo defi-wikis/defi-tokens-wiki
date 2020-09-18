@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T09:18:39.501Z",
+    "timestamp": "2020-09-18T09:41:06.398Z",
     "version": {
         "major": 1,
-        "minor": 731,
+        "minor": 732,
         "patch": 0
     },
     "keywords": [
@@ -4642,6 +4642,13 @@
             "name": "Markaccy",
             "symbol": "MKCY",
             "address": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TheFinalZut",
+            "symbol": "FZut",
+            "address": "0x1BdC2454cb0b000C0c253883eF8d87524E014b79",
             "decimals": 18
         }
     ]
