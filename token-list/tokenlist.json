@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T17:54:49.370Z",
+    "timestamp": "2020-09-18T18:03:44.542Z",
     "version": {
         "major": 1,
-        "minor": 753,
+        "minor": 754,
         "patch": 0
     },
     "keywords": [
@@ -4789,6 +4789,13 @@
             "name": "BitCoinVilla",
             "symbol": "BTCv",
             "address": "0xca5428b3A91BdD6aae9C672Ea5340f8E864Dc72C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HatchDAO",
+            "symbol": "HATCH",
+            "address": "0x6F3009663470475F0749A6b76195375f95495fcB",
             "decimals": 18
         }
     ]
