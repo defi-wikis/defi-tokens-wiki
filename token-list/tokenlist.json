@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T05:47:14.437Z",
+    "timestamp": "2020-09-18T06:04:14.060Z",
     "version": {
         "major": 1,
-        "minor": 719,
+        "minor": 720,
         "patch": 0
     },
     "keywords": [
@@ -4559,6 +4559,13 @@
             "symbol": "ZIN",
             "address": "0x245ae39e75e9C6b9E5Be48227645f67c8a069217",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FISS",
+            "symbol": "FISS",
+            "address": "0xC92991A367718dB1efBD98A24A2E045Ff8292201",
+            "decimals": 4
         }
     ]
 }
