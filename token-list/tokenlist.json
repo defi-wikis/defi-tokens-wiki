@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T22:20:54.392Z",
+    "timestamp": "2020-09-18T23:32:49.490Z",
     "version": {
         "major": 1,
-        "minor": 764,
+        "minor": 765,
         "patch": 0
     },
     "keywords": [
@@ -20,7 +20,7 @@
             "description": "Tokens that enable financial services using smart contracts"
         },
         "yield-farming": {
-            "name": "Yield Farming",
+            "name": "🌾Yield Farming",
             "description": "Tokens that earn rewards using permissionless liquidity protocols"
         },
         "business-services": {
@@ -32,7 +32,7 @@
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
-            "name": "Decentralized Exchange",
+            "name": "DEX",
             "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
         },
         "exchange-based": {
@@ -4860,6 +4860,13 @@
             "symbol": "TAT",
             "address": "0x37Ee79E0B44866876de2fB7F416d0443DD5ae481",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "US Dollar",
+            "symbol": "pUSD",
+            "address": "0x93d3296cac208422BF587c3597D116e809870f2b",
+            "decimals": 8
         }
     ]
 }
