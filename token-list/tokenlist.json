@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:43:44.311Z",
+    "timestamp": "2020-09-18T02:49:59.896Z",
     "version": {
         "major": 1,
-        "minor": 707,
+        "minor": 708,
         "patch": 0
     },
     "keywords": [
@@ -4474,6 +4474,13 @@
             "name": "yfxi.xfinance",
             "symbol": "YFXI",
             "address": "0xcb00892dDedeF6e5904c9984a5702a1cD0B9003B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Future Finance Token",
+            "symbol": "FFT",
+            "address": "0x981db714951123fC7146228eC2c7Cd1B88c1EcdA",
             "decimals": 18
         }
     ]
