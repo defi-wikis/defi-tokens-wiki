@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T07:05:39.366Z",
+    "timestamp": "2020-09-18T07:27:34.242Z",
     "version": {
         "major": 1,
-        "minor": 722,
+        "minor": 723,
         "patch": 0
     },
     "keywords": [
@@ -4580,6 +4580,13 @@
             "symbol": "BFi",
             "address": "0x2b2b0559081c41e962777B5049632fdb30f7E652",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "EOSpace",
+            "symbol": "EOP",
+            "address": "0xb562EC0261a9cB550A5fbcB46030088F1d6a53cF",
+            "decimals": 18
         }
     ]
 }
