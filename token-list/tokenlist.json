@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T16:10:30.085Z",
+    "timestamp": "2020-09-18T16:29:06.544Z",
     "version": {
         "major": 1,
-        "minor": 746,
+        "minor": 747,
         "patch": 0
     },
     "keywords": [
@@ -4740,6 +4740,13 @@
             "name": "TESTER TOKENZ",
             "symbol": "TESTER",
             "address": "0x5bf9Db2738F150bb1Df2dd046Dd997145C59c382",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ChartEx",
+            "symbol": "CHART",
+            "address": "0x1bbA22bCe5B3D26DC0Ec64562408A6F415956724",
             "decimals": 18
         }
     ]
