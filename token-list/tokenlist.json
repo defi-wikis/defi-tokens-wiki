@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T11:06:59.812Z",
+    "timestamp": "2020-09-18T11:09:29.449Z",
     "version": {
         "major": 1,
-        "minor": 738,
+        "minor": 739,
         "patch": 0
     },
     "keywords": [
@@ -4691,6 +4691,13 @@
             "name": "STN",
             "symbol": "STN",
             "address": "0xE19598A7fc3e8D4a5070ea6559dCE199B8FD7F5E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Karate Finance",
+            "symbol": "KRT",
+            "address": "0x83e28aF3b0694CD5C0d5586eD272718Cb9431d23",
             "decimals": 18
         }
     ]
