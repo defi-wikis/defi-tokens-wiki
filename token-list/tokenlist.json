@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T03:50:54.466Z",
+    "timestamp": "2020-09-18T04:56:14.598Z",
     "version": {
         "major": 1,
-        "minor": 715,
+        "minor": 716,
         "patch": 0
     },
     "keywords": [
@@ -4530,6 +4530,13 @@
             "name": "yfdefi.network",
             "symbol": "YFD",
             "address": "0x99448b40572CAe1F83BF9e26fFE2148f5A4a4852",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "coinmakes.com",
+            "symbol": "MKS",
+            "address": "0xc98423a4E42cF01c20A4f7DA8C4Aa71f2Be70B92",
             "decimals": 18
         }
     ]
