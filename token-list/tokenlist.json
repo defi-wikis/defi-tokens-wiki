@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T15:04:19.913Z",
+    "timestamp": "2020-09-18T15:06:49.674Z",
     "version": {
         "major": 1,
-        "minor": 742,
+        "minor": 743,
         "patch": 0
     },
     "keywords": [
@@ -4712,6 +4712,13 @@
             "name": "null.finance",
             "symbol": "NULL",
             "address": "0xf784097f3a428878D2b512818b34f580b93776db",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SteakToken",
+            "symbol": "STEAK",
+            "address": "0x62d8AA7Aa9D3739c2F58805d1E9445a3306fE282",
             "decimals": 18
         }
     ]
