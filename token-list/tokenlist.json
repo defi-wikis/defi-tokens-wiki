@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:12:19.862Z",
+    "timestamp": "2020-09-18T02:19:20.050Z",
     "version": {
         "major": 1,
-        "minor": 702,
+        "minor": 703,
         "patch": 0
     },
     "keywords": [
@@ -4439,6 +4439,13 @@
             "name": "GovernToken",
             "symbol": "GOV",
             "address": "0xDfF8Cd1313c6bDe1B9282A24F8c996e487f74f80",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YieldSwap.finance",
+            "symbol": "YSWAP",
+            "address": "0x67d28Ded2016CC83BA668eC083117C3EEec5Dd9a",
             "decimals": 18
         }
     ]
