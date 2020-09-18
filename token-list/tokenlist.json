@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T11:13:54.662Z",
+    "timestamp": "2020-09-18T14:41:54.616Z",
     "version": {
         "major": 1,
-        "minor": 740,
+        "minor": 741,
         "patch": 0
     },
     "keywords": [
@@ -4698,6 +4698,13 @@
             "name": "Karate Finance",
             "symbol": "KRT",
             "address": "0x83e28aF3b0694CD5C0d5586eD272718Cb9431d23",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ECX Token",
+            "symbol": "ECX",
+            "address": "0x9C8071c501c8226Ab906A68d9eF9DA6e0Bd3A8bA",
             "decimals": 18
         }
     ]
