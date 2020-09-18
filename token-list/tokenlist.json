@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:52:05.942Z",
+    "timestamp": "2020-09-18T02:58:06.283Z",
     "version": {
         "major": 1,
-        "minor": 709,
+        "minor": 710,
         "patch": 0
     },
     "keywords": [
@@ -4488,6 +4488,13 @@
             "name": "Heart Number",
             "symbol": "HTN",
             "address": "0x4B4b1d389d4f4E082B30F75c6319c0CE5ACBd619",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniYield.Finance",
+            "symbol": "UYF",
+            "address": "0x9E19b9bd03c5e2798382D51Bdb09eae4f91E1381",
             "decimals": 18
         }
     ]
