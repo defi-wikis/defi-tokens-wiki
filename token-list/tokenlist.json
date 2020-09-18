@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T21:44:59.437Z",
+    "timestamp": "2020-09-18T21:58:30.375Z",
     "version": {
         "major": 1,
-        "minor": 760,
+        "minor": 761,
         "patch": 0
     },
     "keywords": [
@@ -4831,6 +4831,13 @@
             "name": "ETHLocal",
             "symbol": "LOCAL",
             "address": "0xb45e608DafB6CeD582aa337558B7c82f59A3E2B4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GearProtocol v2",
+            "symbol": "GEAR",
+            "address": "0xB4539E156364bf7ffa5d1338D9978C4E0379C873",
             "decimals": 18
         }
     ]
