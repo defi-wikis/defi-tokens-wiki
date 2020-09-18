@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T10:32:19.437Z",
+    "timestamp": "2020-09-18T10:40:39.289Z",
     "version": {
         "major": 1,
-        "minor": 735,
+        "minor": 736,
         "patch": 0
     },
     "keywords": [
@@ -4670,6 +4670,13 @@
             "name": "OneSwap",
             "symbol": "ONES",
             "address": "0x0B342C51d1592C41068d5D4b4DA4A68C0a04d5A4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fountain",
+            "symbol": "FTN",
+            "address": "0xb1D5a03D2FF72F7f226372C4B2fA7B50cD9D7910",
             "decimals": 18
         }
     ]
