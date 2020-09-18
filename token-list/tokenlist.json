@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T22:17:10.240Z",
+    "timestamp": "2020-09-18T22:20:54.392Z",
     "version": {
         "major": 1,
-        "minor": 763,
+        "minor": 764,
         "patch": 0
     },
     "keywords": [
@@ -4852,6 +4852,13 @@
             "name": "YZZ",
             "symbol": "YZZ",
             "address": "0x7D4188742164bd36822E2384DB188b7A8fDBa27d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tatcoin",
+            "symbol": "TAT",
+            "address": "0x37Ee79E0B44866876de2fB7F416d0443DD5ae481",
             "decimals": 18
         }
     ]
