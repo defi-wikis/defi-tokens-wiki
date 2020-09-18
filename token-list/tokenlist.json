@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T15:19:54.895Z",
+    "timestamp": "2020-09-18T16:00:59.970Z",
     "version": {
         "major": 1,
-        "minor": 744,
+        "minor": 745,
         "patch": 0
     },
     "keywords": [
@@ -4726,6 +4726,13 @@
             "name": "KayLeX Protocol",
             "symbol": "KLX",
             "address": "0x7B9d7372b6B82817d944916B881F9FcC5C6809A5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SpaceSwap.app",
+            "symbol": "SPACE",
+            "address": "0x54a07921B15f75E07Cef55B0493B16c3611a1df3",
             "decimals": 18
         }
     ]
