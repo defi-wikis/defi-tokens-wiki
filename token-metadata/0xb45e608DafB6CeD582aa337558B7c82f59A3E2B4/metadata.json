@@ -1,0 +1,7 @@
+{
+    "name": "ETHLocal",
+    "symbol": "LOCAL",
+    "address": "0xb45e608DafB6CeD582aa337558B7c82f59A3E2B4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
