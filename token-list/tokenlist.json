@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T07:54:49.608Z",
+    "timestamp": "2020-09-18T08:06:44.438Z",
     "version": {
         "major": 1,
-        "minor": 726,
+        "minor": 727,
         "patch": 0
     },
     "keywords": [
@@ -4607,6 +4607,13 @@
             "name": "Olber Cloud Coin",
             "symbol": "OBE",
             "address": "0x30507113650BdC71e32202190879f45BD22F17C1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xSTAKE.Finance",
+            "symbol": "$STKF",
+            "address": "0xb6aa337C9005FBf3a10Edde47DDde3541adb79Cb",
             "decimals": 18
         }
     ]
