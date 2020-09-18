@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T21:58:30.375Z",
+    "timestamp": "2020-09-18T22:15:24.705Z",
     "version": {
         "major": 1,
-        "minor": 761,
+        "minor": 762,
         "patch": 0
     },
     "keywords": [
@@ -4838,6 +4838,13 @@
             "name": "GearProtocol v2",
             "symbol": "GEAR",
             "address": "0xB4539E156364bf7ffa5d1338D9978C4E0379C873",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DogDefiCoin",
+            "symbol": "DOGDEFI",
+            "address": "0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
             "decimals": 18
         }
     ]
