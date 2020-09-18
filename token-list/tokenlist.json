@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:26:29.834Z",
+    "timestamp": "2020-09-18T02:41:34.319Z",
     "version": {
         "major": 1,
-        "minor": 705,
+        "minor": 706,
         "patch": 0
     },
     "keywords": [
@@ -4460,6 +4460,13 @@
             "name": "Ethereum Blue",
             "symbol": "BLUE",
             "address": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DefiFarm",
+            "symbol": "DFF",
+            "address": "0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
             "decimals": 8
         }
     ]
