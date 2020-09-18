@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T03:18:39.854Z",
+    "timestamp": "2020-09-18T03:43:29.818Z",
     "version": {
         "major": 1,
-        "minor": 712,
+        "minor": 713,
         "patch": 0
     },
     "keywords": [
@@ -4509,6 +4509,13 @@
             "name": "ZeroUtilityV2",
             "symbol": "ZUT2",
             "address": "0xffA7D07Dc79072dfB9B86C27c8072410975A443F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yAxis",
+            "symbol": "YAX",
+            "address": "0xb1dC9124c395c1e97773ab855d66E879f053A289",
             "decimals": 18
         }
     ]
