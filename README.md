@@ -13,7 +13,7 @@ Such a large collection can be maintained only through a community effort, so *c
 
 ## How To Suggest An Addition / Edit To The Wiki
 
-1. Familiarize yourself with the repository structure and schema with this guide.
+1. Familiarize yourself with the [repository structure and schema with this guide](https://github.com/defi-wikis/defi-tokens-wiki/blob/master/documentation/REPOSITORY_LAYOUT_SCHEMA.md).
 2. Submit a pull request with your proposed changes.
 3. Answer any follow-up questions in the PR from Dharma admins.
 4. Once your PR is merged by an admin, the Dharma app, Dharma Uniswap list, and any applications referencing this repo will be updated instantly
@@ -30,7 +30,7 @@ cd defi-tokens-wiki
 git checkout -b <branch_name>
 ```
 
-- Add or edit tokens, tags, logos, or metadata in the appropriate directory. The [repository structure & schema](https://www.notion.so/teamdharma/Repository-Details-b96fbfa6973d449e8526aef323b16c88#6c63d3c92fea44c4acf9a3a499cbf946) documentation will help you
+- Add or edit tokens, tags, logos, or metadata in the appropriate directory. The [repository structure & schema](https://github.com/defi-wikis/defi-tokens-wiki/blob/master/documentation/REPOSITORY_LAYOUT_SCHEMA.md) documentation will help you
 - Commit and push to your fork
 
 ```
