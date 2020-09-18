@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T16:00:59.970Z",
+    "timestamp": "2020-09-18T16:10:30.085Z",
     "version": {
         "major": 1,
-        "minor": 745,
+        "minor": 746,
         "patch": 0
     },
     "keywords": [
@@ -4733,6 +4733,13 @@
             "name": "SpaceSwap.app",
             "symbol": "SPACE",
             "address": "0x54a07921B15f75E07Cef55B0493B16c3611a1df3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TESTER TOKENZ",
+            "symbol": "TESTER",
+            "address": "0x5bf9Db2738F150bb1Df2dd046Dd997145C59c382",
             "decimals": 18
         }
     ]
