@@ -8,7 +8,7 @@ There are thousands of assets in AMMs & DEXs on Ethereum, and that number will r
 - Short-Form Descriptions
 - Tags
 - Social Links
-- More to come!
+- Much more!
 
 Our goal is to create the most comprehensive, collaborative corpus of information about tokens on the Ethereum blockchain (and perhaps beyond!)
 
