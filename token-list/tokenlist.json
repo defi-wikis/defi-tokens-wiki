@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T05:28:19.464Z",
+    "timestamp": "2020-09-18T05:47:14.437Z",
     "version": {
         "major": 1,
-        "minor": 718,
+        "minor": 719,
         "patch": 0
     },
     "keywords": [
@@ -4551,6 +4551,13 @@
             "name": "zin.finance",
             "symbol": "VIC",
             "address": "0x1C1445EF773698cf2f811E85376B87A4e3e25415",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zin.finance",
+            "symbol": "ZIN",
+            "address": "0x245ae39e75e9C6b9E5Be48227645f67c8a069217",
             "decimals": 18
         }
     ]
