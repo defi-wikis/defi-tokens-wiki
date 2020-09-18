@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T02:58:06.283Z",
+    "timestamp": "2020-09-18T03:03:44.644Z",
     "version": {
         "major": 1,
-        "minor": 710,
+        "minor": 711,
         "patch": 0
     },
     "keywords": [
@@ -4495,6 +4495,13 @@
             "name": "UniYield.Finance",
             "symbol": "UYF",
             "address": "0x9E19b9bd03c5e2798382D51Bdb09eae4f91E1381",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ymax.finance",
+            "symbol": "YMAX",
+            "address": "0x2C03CbcA654ad43BA53b8916fA925B27Ddf3E7eC",
             "decimals": 18
         }
     ]
