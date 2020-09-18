@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T21:39:14.754Z",
+    "timestamp": "2020-09-18T21:44:59.437Z",
     "version": {
         "major": 1,
-        "minor": 759,
+        "minor": 760,
         "patch": 0
     },
     "keywords": [
@@ -4824,6 +4824,13 @@
             "name": "UCOT",
             "symbol": "UCT",
             "address": "0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETHLocal",
+            "symbol": "LOCAL",
+            "address": "0xb45e608DafB6CeD582aa337558B7c82f59A3E2B4",
             "decimals": 18
         }
     ]
