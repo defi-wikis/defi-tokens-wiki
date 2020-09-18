@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-18T16:38:05.911Z",
+    "timestamp": "2020-09-18T17:22:06.435Z",
     "version": {
         "major": 1,
-        "minor": 750,
+        "minor": 751,
         "patch": 0
     },
     "keywords": [
@@ -4768,6 +4768,13 @@
             "name": "YMAX",
             "symbol": "YMAX",
             "address": "0x062f90480551379791FBe2ED74C1fe69821b30d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WinPlay.App",
+            "symbol": "WNRZ",
+            "address": "0xf3eb76985C4487E886Ad09b488D21b7cF3C70a85",
             "decimals": 18
         }
     ]
