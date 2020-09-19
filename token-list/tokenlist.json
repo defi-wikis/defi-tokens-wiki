@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T22:17:09.937Z",
+    "timestamp": "2020-09-19T22:22:24.399Z",
     "version": {
         "major": 1,
-        "minor": 768,
+        "minor": 769,
         "patch": 0
     },
     "keywords": [
@@ -4882,6 +4882,13 @@
             "name": "Portion Token",
             "symbol": "PRT",
             "address": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XSwap",
+            "symbol": "XSP",
+            "address": "0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
             "decimals": 18
         }
     ]
