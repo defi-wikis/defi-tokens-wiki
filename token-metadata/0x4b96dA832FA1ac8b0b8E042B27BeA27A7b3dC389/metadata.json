@@ -1,0 +1,7 @@
+{
+    "name": "ABCToken",
+    "symbol": "ABC",
+    "address": "0x4b96dA832FA1ac8b0b8E042B27BeA27A7b3dC389",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
