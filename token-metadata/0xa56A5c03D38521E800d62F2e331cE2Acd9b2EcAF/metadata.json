@@ -1,0 +1,7 @@
+{
+    "name": "BitcoinDefi",
+    "symbol": "btcd",
+    "address": "0xa56A5c03D38521E800d62F2e331cE2Acd9b2EcAF",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
