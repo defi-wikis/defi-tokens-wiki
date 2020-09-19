@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T22:54:49.161Z",
+    "timestamp": "2020-09-19T23:10:39.943Z",
     "version": {
         "major": 1,
-        "minor": 773,
+        "minor": 774,
         "patch": 0
     },
     "keywords": [
@@ -4917,6 +4917,13 @@
             "name": "TomatoSwap",
             "symbol": "Tomato",
             "address": "0xA42Cf329478e15E337CBE0025d19295B72b4bb16",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soda.Finance",
+            "symbol": "SODA",
+            "address": "0x6DE74e6452dbD74E4763Fe7c8a785fb2a194D7Eb",
             "decimals": 18
         }
     ]
