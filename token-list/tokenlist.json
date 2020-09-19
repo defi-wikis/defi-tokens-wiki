@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T22:36:19.512Z",
+    "timestamp": "2020-09-19T22:36:49.034Z",
     "version": {
         "major": 1,
-        "minor": 771,
+        "minor": 772,
         "patch": 0
     },
     "keywords": [
@@ -4903,6 +4903,13 @@
             "name": "finxflo.com",
             "symbol": "FXF",
             "address": "0x920bF72860b20509543da1E6F94FbE231D726304",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wage.MoneyV2",
+            "symbol": "$WAGEV2",
+            "address": "0xC8F5943CCa009ACb547Ee808fd52f190c2cc4F9D",
             "decimals": 18
         }
     ]
