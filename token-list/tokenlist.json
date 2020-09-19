@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T22:27:25.037Z",
+    "timestamp": "2020-09-19T22:36:19.512Z",
     "version": {
         "major": 1,
-        "minor": 770,
+        "minor": 771,
         "patch": 0
     },
     "keywords": [
@@ -4896,6 +4896,13 @@
             "name": "YearnCash.Finance",
             "symbol": "YEARN",
             "address": "0x4E03295DEef7e03117F75ca284b5cEcbB7F54A03",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "finxflo.com",
+            "symbol": "FXF",
+            "address": "0x920bF72860b20509543da1E6F94FbE231D726304",
             "decimals": 18
         }
     ]
