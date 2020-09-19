@@ -1,0 +1,7 @@
+{
+    "name": "NBAToken",
+    "symbol": "NBA",
+    "address": "0x4BC810297091248985C8966E51542af90767E84C",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
