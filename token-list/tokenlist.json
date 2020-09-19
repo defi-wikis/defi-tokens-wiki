@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T23:57:14.783Z",
+    "timestamp": "2020-09-19T23:58:19.933Z",
     "version": {
         "major": 1,
-        "minor": 779,
+        "minor": 780,
         "patch": 0
     },
     "keywords": [
@@ -4960,6 +4960,13 @@
             "symbol": "UNIF",
             "address": "0x94876bFfB52a823eE3A81C4b8090833dF2bC7bC9",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "SODA Token @ soda.finance",
+            "symbol": "SODA",
+            "address": "0xf3C8ca11dDB71e5eDE4D53C6d35100dCF823634e",
+            "decimals": 18
         }
     ]
 }
