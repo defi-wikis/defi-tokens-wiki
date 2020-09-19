@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T23:58:19.933Z",
+    "timestamp": "2020-09-19T23:59:05.613Z",
     "version": {
         "major": 1,
-        "minor": 780,
+        "minor": 781,
         "patch": 0
     },
     "keywords": [
@@ -4966,6 +4966,13 @@
             "name": "SODA Token @ soda.finance",
             "symbol": "SODA",
             "address": "0xf3C8ca11dDB71e5eDE4D53C6d35100dCF823634e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "neocash.finance",
+            "symbol": "NCF",
+            "address": "0x0514f8B273A6D0618c24B8604C2b78eB7e7ddA9B",
             "decimals": 18
         }
     ]
