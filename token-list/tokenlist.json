@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T23:10:39.943Z",
+    "timestamp": "2020-09-19T23:30:50.295Z",
     "version": {
         "major": 1,
-        "minor": 774,
+        "minor": 775,
         "patch": 0
     },
     "keywords": [
@@ -4924,6 +4924,13 @@
             "name": "Soda.Finance",
             "symbol": "SODA",
             "address": "0x6DE74e6452dbD74E4763Fe7c8a785fb2a194D7Eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STVKE Token @ STVKE.Network",
+            "symbol": "STV",
+            "address": "0x9e8cc488a8a48C9e553CBfeA52410bf64C025503",
             "decimals": 18
         }
     ]
