@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T22:36:49.034Z",
+    "timestamp": "2020-09-19T22:54:49.161Z",
     "version": {
         "major": 1,
-        "minor": 772,
+        "minor": 773,
         "patch": 0
     },
     "keywords": [
@@ -4910,6 +4910,13 @@
             "name": "Wage.MoneyV2",
             "symbol": "$WAGEV2",
             "address": "0xC8F5943CCa009ACb547Ee808fd52f190c2cc4F9D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TomatoSwap",
+            "symbol": "Tomato",
+            "address": "0xA42Cf329478e15E337CBE0025d19295B72b4bb16",
             "decimals": 18
         }
     ]
