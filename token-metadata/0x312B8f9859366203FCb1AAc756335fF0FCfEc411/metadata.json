@@ -1,0 +1,7 @@
+{
+    "name": "ETCtoken",
+    "symbol": "etct",
+    "address": "0x312B8f9859366203FCb1AAc756335fF0FCfEc411",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
