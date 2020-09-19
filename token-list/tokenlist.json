@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T23:51:44.811Z",
+    "timestamp": "2020-09-19T23:57:14.783Z",
     "version": {
         "major": 1,
-        "minor": 778,
+        "minor": 779,
         "patch": 0
     },
     "keywords": [
@@ -4953,6 +4953,13 @@
             "symbol": "SPC",
             "address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIF Finance",
+            "symbol": "UNIF",
+            "address": "0x94876bFfB52a823eE3A81C4b8090833dF2bC7bC9",
+            "decimals": 0
         }
     ]
 }
