@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T22:11:59.733Z",
+    "timestamp": "2020-09-19T22:17:09.937Z",
     "version": {
         "major": 1,
-        "minor": 767,
+        "minor": 768,
         "patch": 0
     },
     "keywords": [
@@ -4875,6 +4875,13 @@
             "name": "DEUS",
             "symbol": "DEUS",
             "address": "0x3b62F3820e0B035cc4aD602dECe6d796BC325325",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Portion Token",
+            "symbol": "PRT",
+            "address": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
             "decimals": 18
         }
     ]
