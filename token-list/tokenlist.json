@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T23:30:50.295Z",
+    "timestamp": "2020-09-19T23:47:59.593Z",
     "version": {
         "major": 1,
-        "minor": 775,
+        "minor": 776,
         "patch": 0
     },
     "keywords": [
@@ -4931,6 +4931,13 @@
             "name": "STVKE Token @ STVKE.Network",
             "symbol": "STV",
             "address": "0x9e8cc488a8a48C9e553CBfeA52410bf64C025503",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deus.finance",
+            "symbol": "DEUS",
+            "address": "0x5e2Fb1969220Fc146C28d2cA4E8F051113a5D1A6",
             "decimals": 18
         }
     ]
