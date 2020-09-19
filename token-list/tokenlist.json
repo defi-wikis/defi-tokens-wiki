@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T21:17:16.414Z",
+    "timestamp": "2020-09-19T22:11:59.733Z",
     "version": {
         "major": 1,
-        "minor": 766,
+        "minor": 767,
         "patch": 0
     },
     "keywords": [
@@ -4869,6 +4869,13 @@
             "symbol": "pUSD",
             "address": "0x93d3296cac208422BF587c3597D116e809870f2b",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DEUS",
+            "symbol": "DEUS",
+            "address": "0x3b62F3820e0B035cc4aD602dECe6d796BC325325",
+            "decimals": 18
         }
     ]
 }
