@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T23:50:39.671Z",
+    "timestamp": "2020-09-19T23:51:44.811Z",
     "version": {
         "major": 1,
-        "minor": 777,
+        "minor": 778,
         "patch": 0
     },
     "keywords": [
@@ -4945,6 +4945,13 @@
             "name": "yReferral",
             "symbol": "YREF",
             "address": "0xf84Bd10A05499939534071a85B4217A125a603Bc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SpaceChainV2",
+            "symbol": "SPC",
+            "address": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
             "decimals": 18
         }
     ]
