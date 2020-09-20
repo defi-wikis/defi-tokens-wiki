@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T08:23:24.888Z",
+    "timestamp": "2020-09-20T08:49:08.160Z",
     "version": {
         "major": 1,
-        "minor": 821,
+        "minor": 822,
         "patch": 0
     },
     "keywords": [
@@ -5253,6 +5253,13 @@
             "name": "PropertyCoin",
             "symbol": "PTC",
             "address": "0x27E627d032593fE2A8EbBB30f3B1264B3b51a707",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STVKE Token @ STVKE.Network",
+            "symbol": "STV",
+            "address": "0xA2b0c207F8b2422b3196E90ED073e96f64cc6034",
             "decimals": 18
         }
     ]
