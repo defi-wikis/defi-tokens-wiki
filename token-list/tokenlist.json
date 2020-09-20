@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:03:24.582Z",
+    "timestamp": "2020-09-20T16:04:40.302Z",
     "version": {
         "major": 1,
-        "minor": 876,
+        "minor": 877,
         "patch": 0
     },
     "keywords": [
@@ -5638,6 +5638,13 @@
             "name": "Tulip Seed",
             "symbol": "STLP",
             "address": "0x1DFb718b05b28B6115419253a1915B199ca55875",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yUNI Finance",
+            "symbol": "yUNI",
+            "address": "0x4b916B46F91a97D8234877F65006361EB1959467",
             "decimals": 18
         }
     ]
