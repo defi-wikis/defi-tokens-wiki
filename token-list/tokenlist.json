@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T10:04:07.244Z",
+    "timestamp": "2020-09-20T10:10:09.296Z",
     "version": {
         "major": 1,
-        "minor": 828,
+        "minor": 829,
         "patch": 0
     },
     "keywords": [
@@ -5302,6 +5302,13 @@
             "name": "Yearn.Finance Token",
             "symbol": "YFT",
             "address": "0xab60Ac1B6C5A0d8c576A852a4B7ab495588E050e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Private Placement Guarantee",
+            "symbol": "PPG",
+            "address": "0xFBa16F98C6C63d7c946Eee32E63A57168842FdAA",
             "decimals": 18
         }
     ]
