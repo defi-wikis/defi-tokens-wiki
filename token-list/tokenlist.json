@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:18:34.815Z",
+    "timestamp": "2020-09-20T11:29:14.744Z",
     "version": {
         "major": 1,
-        "minor": 838,
+        "minor": 839,
         "patch": 0
     },
     "keywords": [
@@ -5373,6 +5373,13 @@
             "symbol": "OOT",
             "address": "0xAa3183815fa19121F770f8C31564bc41dfef2B8C",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "StakeHavens.Finance",
+            "symbol": "YFHVM",
+            "address": "0x5dBB651570F535a5f51f7758bBAc3C1620D9b92A",
+            "decimals": 18
         }
     ]
 }
