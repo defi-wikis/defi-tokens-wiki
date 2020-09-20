@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T19:36:49.493Z",
+    "timestamp": "2020-09-20T20:03:44.359Z",
     "version": {
         "major": 1,
-        "minor": 910,
+        "minor": 911,
         "patch": 0
     },
     "keywords": [
@@ -5877,6 +5877,13 @@
             "symbol": "DFC",
             "address": "0x337A7482c6eEE060B79fDbf1728310C2F6f64d8A",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Saint Fame: $ICK Mask",
+            "symbol": "ICK",
+            "address": "0x793e2602A8396468f3CE6E34C1B6C6Fd6D985bAD",
+            "decimals": 18
         }
     ]
 }
