@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T19:30:16.498Z",
+    "timestamp": "2020-09-20T19:32:54.569Z",
     "version": {
         "major": 1,
-        "minor": 907,
+        "minor": 908,
         "patch": 0
     },
     "keywords": [
@@ -5855,6 +5855,13 @@
             "name": "moonfi",
             "symbol": "MOON",
             "address": "0x9e45759d6944A79E575C64E3fA8E8e5D9a35D8be",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLox.io",
+            "symbol": "LOX",
+            "address": "0xee67A313FA15595cd8D20C018a0d6C3765585589",
             "decimals": 18
         }
     ]
