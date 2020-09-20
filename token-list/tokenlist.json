@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:07:49.177Z",
+    "timestamp": "2020-09-20T22:07:53.861Z",
     "version": {
         "major": 1,
-        "minor": 926,
+        "minor": 927,
         "patch": 0
     },
     "keywords": [
@@ -5988,6 +5988,13 @@
             "name": "Polkastarter",
             "symbol": "POLS",
             "address": "0x90c90fde9E437A9076E838ffC4290a5D8a6944Ea",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LaserCoin",
+            "symbol": "LZR",
+            "address": "0x3453769b660b7EE4261AaA043479Aa3CA02243bf",
             "decimals": 18
         }
     ]
