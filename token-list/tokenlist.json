@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T13:13:44.543Z",
+    "timestamp": "2020-09-20T13:15:55.465Z",
     "version": {
         "major": 1,
-        "minor": 851,
+        "minor": 852,
         "patch": 0
     },
     "keywords": [
@@ -5464,6 +5464,13 @@
             "symbol": "MOMO",
             "address": "0xfBd88d0d362E35D5278fC14B477b6853559b9fFd",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BLUEKEY",
+            "symbol": "BKY",
+            "address": "0x646b41183bB0d18c01f75f630688D613A5774dC7",
+            "decimals": 8
         }
     ]
 }
