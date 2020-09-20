@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T01:37:06.941Z",
+    "timestamp": "2020-09-20T01:48:06.183Z",
     "version": {
         "major": 1,
-        "minor": 791,
+        "minor": 792,
         "patch": 0
     },
     "keywords": [
@@ -5043,6 +5043,13 @@
             "name": "Peet ERC20",
             "symbol": "PTE",
             "address": "0x51Bb9c623226CE781F4A54FC8F4A530a47142b6B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNII.SWAP",
+            "symbol": "UNII",
+            "address": "0xaF600acDA381F2C987d1FFd1c8CBc6E6BC12Ac48",
             "decimals": 18
         }
     ]
