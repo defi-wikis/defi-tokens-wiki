@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T10:55:59.164Z",
+    "timestamp": "2020-09-20T11:04:20.002Z",
     "version": {
         "major": 1,
-        "minor": 834,
+        "minor": 835,
         "patch": 0
     },
     "keywords": [
@@ -5344,6 +5344,13 @@
             "name": "KSEED",
             "symbol": "KSEED",
             "address": "0x14bAa24704FDa760ebd16E7b943f9158b4a92DC7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hHC",
+            "symbol": "hHC",
+            "address": "0x97cC1e26582763bF31f3434c552dFA7f748816cE",
             "decimals": 18
         }
     ]
