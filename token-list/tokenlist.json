@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T02:11:19.151Z",
+    "timestamp": "2020-09-20T02:13:29.406Z",
     "version": {
         "major": 1,
-        "minor": 794,
+        "minor": 795,
         "patch": 0
     },
     "keywords": [
@@ -5064,6 +5064,13 @@
             "name": "YearnCash.Finance",
             "symbol": "CASH",
             "address": "0x7b6572291e4Bf36a68578B7f1Ca4E56f2Cbe5285",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfone.trade",
+            "symbol": "YET",
+            "address": "0x5F2dE1593e7E297c56dfb10d60e356a937DC4939",
             "decimals": 18
         }
     ]
