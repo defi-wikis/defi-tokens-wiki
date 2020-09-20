@@ -8,7 +8,7 @@
         "description": "Tokens that enable financial services using smart contracts"
     },
     "yield-farming": {
-        "name": "🌾Yield Farming",
+        "name": "🌾 Yield Farming",
         "description": "Tokens that earn rewards using permissionless liquidity protocols"
     },
     "business-services": {
@@ -16,7 +16,7 @@
         "description": "Tokens that can be redeemed in exchange for business tokens"
     },
     "oracle": {
-        "name": "Oracle",
+        "name": "🔮 Oracles",
         "description": "Tokens for protocols that provide smart contracts with external information"
     },
     "dex": {
@@ -32,7 +32,7 @@
         "description": null
     },
     "amm": {
-        "name": "Automated Market Maker",
+        "name": "🤖 Automated Market Maker",
         "descriptions": "Tokens that govern on-chain automated market makers"
     },
     "governance": {
