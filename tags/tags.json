@@ -1,46 +1,46 @@
 {
     "stablecoin": {
-        "name": "💵 Stablecoin",
+        "name": "Stablecoin",
         "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
-    "defi": {
-        "name": "🌈 DeFi",
-        "description": "Tokens that enable financial services using smart contracts"
-    },
     "yield-farming": {
-        "name": "🌾 Yield Farming",
-        "description": "Tokens that earn rewards using permissionless liquidity protocols"
+        "name": "Yield Farming",
+        "description": "Tokens that are doled out as rewards for providing liquidity to protocols"
     },
-    "business-services": {
-        "name": "🧳 Business Services",
-        "description": "Tokens that can be redeemed in exchange for business tokens"
+    "yfi-inspired": {
+        "name": "YFI Inspired",
+        "description": "Tokens either associated with or inspired by the yEarn ecosystem."
     },
-    "oracle": {
-        "name": "🔮 Oracles",
-        "description": "Tokens for protocols that provide smart contracts with external information"
+    "yield-tokens": {
+        "name": "Yield-Bearing",
+        "description": "Tokens that are wrappers around yield-bearing asset pools"
     },
     "dex": {
-        "name": "📈 DEX",
+        "name": "DEX",
         "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
     },
-    "exchange-based": {
-        "name": "💱 Exchange Based",
-        "description": "Tokens that offer holders discounts on trading fees and other benefits"
-    },
     "lending": {
-        "name": null,
-        "description": null
+        "name": "Lending",
+        "description": "Tokens associated with permissionless lending pools"
     },
     "amm": {
-        "name": "🤖 Automated Market Maker",
+        "name": "Automated Market Maker",
         "descriptions": "Tokens that govern on-chain automated market makers"
     },
-    "governance": {
-        "name": null,
-        "description": null
-    },
     "synthetics": {
-        "name": "🧪 Synthetics",
-        "description": null
+        "name": "Synthetics",
+        "description": "Synthetic assets created to track the value of another asset"
+    },
+    "token-sets": {
+        "name": "TokenSets",
+        "description": "Token indices composed within Set Protocol"
+    },
+    "options": {
+        "name": "Options",
+        "description": "Tokens that trustlessly recreate decentralized options contracts on other assets"
+    },
+    "a16z": {
+        "name": "A16Z",
+        "description": "Tokens backed by Andreesen-Horrowitz"
     }
 }
