@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T08:49:08.160Z",
+    "timestamp": "2020-09-20T09:20:06.682Z",
     "version": {
         "major": 1,
-        "minor": 822,
+        "minor": 823,
         "patch": 0
     },
     "keywords": [
@@ -5260,6 +5260,13 @@
             "name": "STVKE Token @ STVKE.Network",
             "symbol": "STV",
             "address": "0xA2b0c207F8b2422b3196E90ED073e96f64cc6034",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "X Chain Gas",
+            "symbol": "XCHG",
+            "address": "0x32E523782FaEc81a8faEc56481851d22A923Fa85",
             "decimals": 18
         }
     ]
