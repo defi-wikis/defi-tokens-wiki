@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:03:14.855Z",
+    "timestamp": "2020-09-20T22:07:49.177Z",
     "version": {
         "major": 1,
-        "minor": 925,
+        "minor": 926,
         "patch": 0
     },
     "keywords": [
@@ -12,7 +12,7 @@
     ],
     "tags": {
         "stablecoin": {
-            "name": "💵 Stablecoin",
+            "name": "Stablecoin",
             "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
         },
         "defi": {
@@ -20,8 +20,8 @@
             "description": "Tokens that enable financial services using smart contracts"
         },
         "yield-farming": {
-            "name": "🌾 Yield Farming",
-            "description": "Tokens that earn rewards using permissionless liquidity protocols"
+            "name": "Yield Farming",
+            "description": "Tokens that are doled out as rewards for providing liquidity to protocols"
         },
         "business-services": {
             "name": "🧳 Business Services",
@@ -32,7 +32,7 @@
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
-            "name": "📈 DEX",
+            "name": "DEX",
             "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
         },
         "exchange-based": {
@@ -5981,6 +5981,13 @@
             "name": "Shill.Win",
             "symbol": "PoSH",
             "address": "0x05328Be73E1F797a7A40e4E99080265cf77636bA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polkastarter",
+            "symbol": "POLS",
+            "address": "0x90c90fde9E437A9076E838ffC4290a5D8a6944Ea",
             "decimals": 18
         }
     ]
