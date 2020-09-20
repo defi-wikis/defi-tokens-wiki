@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T14:08:14.371Z",
+    "timestamp": "2020-09-20T14:26:34.802Z",
     "version": {
         "major": 1,
-        "minor": 859,
+        "minor": 860,
         "patch": 0
     },
     "keywords": [
@@ -5519,6 +5519,13 @@
             "name": "Jibrel Network Token",
             "symbol": "JNT",
             "address": "0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNI CHAT",
+            "symbol": "UNI C",
+            "address": "0xFFC8A0D94D51a0477723bAeCCfC2026102bF3Ad1",
             "decimals": 18
         }
     ]
