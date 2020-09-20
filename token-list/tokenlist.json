@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T14:26:34.802Z",
+    "timestamp": "2020-09-20T14:38:15.107Z",
     "version": {
         "major": 1,
-        "minor": 860,
+        "minor": 861,
         "patch": 0
     },
     "keywords": [
@@ -5526,6 +5526,13 @@
             "name": "UNI CHAT",
             "symbol": "UNI C",
             "address": "0xFFC8A0D94D51a0477723bAeCCfC2026102bF3Ad1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DELHI.cityswap.io",
+            "symbol": "DELHI",
+            "address": "0xD688b25b368142A89D2ab4Ea87e03b6E69c5717D",
             "decimals": 18
         }
     ]
