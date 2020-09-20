@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:16:44.223Z",
+    "timestamp": "2020-09-20T11:18:34.815Z",
     "version": {
         "major": 1,
-        "minor": 837,
+        "minor": 838,
         "patch": 0
     },
     "keywords": [
@@ -5366,6 +5366,13 @@
             "symbol": "PEERM",
             "address": "0xbf5f785Edcc0029E5801Bd9AFE39eA49AE2B22ca",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OnlyOneToken",
+            "symbol": "OOT",
+            "address": "0xAa3183815fa19121F770f8C31564bc41dfef2B8C",
+            "decimals": 4
         }
     ]
 }
