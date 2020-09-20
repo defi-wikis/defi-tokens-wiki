@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T13:29:09.738Z",
+    "timestamp": "2020-09-20T13:29:15.254Z",
     "version": {
         "major": 1,
-        "minor": 853,
+        "minor": 854,
         "patch": 0
     },
     "keywords": [
@@ -5477,6 +5477,13 @@
             "name": "TiEN Token",
             "symbol": "TiEN",
             "address": "0x67A1Ca08e580af9f54dC9b03Fd59EC2388AD7c6c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniStake",
+            "symbol": "UNIST",
+            "address": "0x9b14f4e1429c88313deE4870113187aFcf63D9EE",
             "decimals": 18
         }
     ]
