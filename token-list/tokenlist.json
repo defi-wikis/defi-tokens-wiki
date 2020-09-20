@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T09:36:06.238Z",
+    "timestamp": "2020-09-20T09:49:59.504Z",
     "version": {
         "major": 1,
-        "minor": 825,
+        "minor": 826,
         "patch": 0
     },
     "keywords": [
@@ -5281,6 +5281,13 @@
             "name": "yfalp.finance",
             "symbol": "YFALP",
             "address": "0xE62B96BE77CFb3dfB79D5B599A3e336c23da51a0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap Yield Finance",
+            "symbol": "UYFI",
+            "address": "0x3532aBA09Ba045abE1e052dAd27761CBE0236257",
             "decimals": 18
         }
     ]
