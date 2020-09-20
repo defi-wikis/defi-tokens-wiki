@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:54:19.684Z",
+    "timestamp": "2020-09-20T11:56:34.844Z",
     "version": {
         "major": 1,
-        "minor": 844,
+        "minor": 845,
         "patch": 0
     },
     "keywords": [
@@ -5414,6 +5414,13 @@
             "name": "Bitcoin Fly",
             "symbol": "BTCf",
             "address": "0xdE17e9b4d1b025bD959648084512204A76d0591a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PassionToken",
+            "symbol": "PSF",
+            "address": "0xCE5583AA500E36af0A49c12b0ba4E3983016774E",
             "decimals": 18
         }
     ]
