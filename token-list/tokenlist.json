@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:32:39.915Z",
+    "timestamp": "2020-09-20T21:36:34.523Z",
     "version": {
         "major": 1,
-        "minor": 920,
+        "minor": 921,
         "patch": 0
     },
     "keywords": [
@@ -5946,6 +5946,13 @@
             "name": "Burnefi.finance",
             "symbol": "BNFI",
             "address": "0x417Aa847eaEdCd956abA6901b1f38A86950dC6D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "legit.finance",
+            "symbol": "LEGIT",
+            "address": "0x0769F6Ebd95244c70E502C0cb857169d1eD0670d",
             "decimals": 18
         }
     ]
