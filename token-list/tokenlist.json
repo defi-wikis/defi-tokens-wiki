@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:58:50.174Z",
+    "timestamp": "2020-09-20T22:58:55.055Z",
     "version": {
         "major": 1,
-        "minor": 934,
+        "minor": 935,
         "patch": 0
     },
     "keywords": [
@@ -6044,6 +6044,13 @@
             "name": "TaurusCoin",
             "symbol": "TC",
             "address": "0x785f4A58741c15970CcbfBA5CDEA8Fae808e3025",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UseChain Token",
+            "symbol": "USE",
+            "address": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
             "decimals": 18
         }
     ]
