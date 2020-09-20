@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T02:57:59.386Z",
+    "timestamp": "2020-09-20T03:04:24.765Z",
     "version": {
         "major": 1,
-        "minor": 799,
+        "minor": 800,
         "patch": 0
     },
     "keywords": [
@@ -5099,6 +5099,13 @@
             "name": "XCredit.Finance",
             "symbol": "XFYI",
             "address": "0xbA6450a8Cb241BBc758666764a7AAE5d7451d59D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DoesNothingToken",
+            "symbol": "DNT",
+            "address": "0xDb5CD4DF9ca3fBdFA5Bb6b7F53bCf8851c2B8454",
             "decimals": 18
         }
     ]
