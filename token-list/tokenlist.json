@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T12:03:09.538Z",
+    "timestamp": "2020-09-20T12:03:14.694Z",
     "version": {
         "major": 1,
-        "minor": 846,
+        "minor": 847,
         "patch": 0
     },
     "keywords": [
@@ -5428,6 +5428,13 @@
             "name": "Bridge.link",
             "symbol": "BRG",
             "address": "0x966F80870101063a5C39363Cf2630afa1445a10E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfking.network",
+            "symbol": "YFKG",
+            "address": "0xB6C7a20044d38D8B8AC2791c30351579B65F0803",
             "decimals": 18
         }
     ]
