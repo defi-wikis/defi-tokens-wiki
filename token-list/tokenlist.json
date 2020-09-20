@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:11:44.560Z",
+    "timestamp": "2020-09-20T16:33:59.692Z",
     "version": {
         "major": 1,
-        "minor": 878,
+        "minor": 879,
         "patch": 0
     },
     "keywords": [
@@ -5652,6 +5652,13 @@
             "name": "STVKE.Network",
             "symbol": "STV",
             "address": "0x03BB9bbf0423E44370e88Ec5fC31Eecf4E2b4Ac2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "To the Moon",
+            "symbol": "TTM",
+            "address": "0x93566007B90F430d062e43810aa89a69C706BBa2",
             "decimals": 18
         }
     ]
