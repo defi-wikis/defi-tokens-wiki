@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T15:31:34.379Z",
+    "timestamp": "2020-09-20T15:36:59.440Z",
     "version": {
         "major": 1,
-        "minor": 870,
+        "minor": 871,
         "patch": 0
     },
     "keywords": [
@@ -5596,6 +5596,13 @@
             "name": "AUSD",
             "symbol": "AUSD",
             "address": "0x296317c30d2fAbBf265Bd160E17ed7D2B4886280",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KStarCoin",
+            "symbol": "KSC",
+            "address": "0x990E081A7B7d3Ccba26a2f49746A68CC4fF73280",
             "decimals": 18
         }
     ]
