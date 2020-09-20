@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T13:44:14.513Z",
+    "timestamp": "2020-09-20T13:57:01.822Z",
     "version": {
         "major": 1,
-        "minor": 855,
+        "minor": 856,
         "patch": 0
     },
     "keywords": [
@@ -5491,6 +5491,13 @@
             "name": "Decentralized lending platform",
             "symbol": "DLC",
             "address": "0x31a40dEFa1F91d07969F41cC6768Db9384Af8015",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cap Coin GLD",
+            "symbol": "CAPg",
+            "address": "0x107721d9aA07d9DE8f2CC9545e0C9346A9Bb503b",
             "decimals": 18
         }
     ]
