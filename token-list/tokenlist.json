@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T00:38:34.532Z",
+    "timestamp": "2020-09-20T01:05:34.473Z",
     "version": {
         "major": 1,
-        "minor": 786,
+        "minor": 787,
         "patch": 0
     },
     "keywords": [
@@ -5008,6 +5008,13 @@
             "name": "PotatoSwap",
             "symbol": "POTATO",
             "address": "0x308244E87b924AD9D5Ab245651A6A4aDCAeE2e22",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Archangel",
+            "symbol": "ARCH",
+            "address": "0xe89FEEbfBc79F9AB6cbBb0231E9Fc0a1c0ad2B66",
             "decimals": 18
         }
     ]
