@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T23:17:44.875Z",
+    "timestamp": "2020-09-20T23:19:14.763Z",
     "version": {
         "major": 1,
-        "minor": 937,
+        "minor": 938,
         "patch": 0
     },
     "keywords": [
@@ -6066,6 +6066,13 @@
             "symbol": "ETNC",
             "address": "0x2963f83Fdfb599CCC92287659f09D236aEDCD358",
             "decimals": 14
+        },
+        {
+            "chainId": 1,
+            "name": "yesterday.finance",
+            "symbol": "YFIN",
+            "address": "0x0f68012E44e61d68D3C65B4F86e289B5E6570229",
+            "decimals": 18
         }
     ]
 }
