@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:50:54.539Z",
+    "timestamp": "2020-09-20T22:57:14.741Z",
     "version": {
         "major": 1,
-        "minor": 932,
+        "minor": 933,
         "patch": 0
     },
     "keywords": [
@@ -6031,6 +6031,13 @@
             "symbol": "POLS",
             "address": "0x6740df13Cc382D21Cc40C7D6De22B2B3aad43BF4",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "six666play",
+            "symbol": "666",
+            "address": "0xD5fBD4591b78cFDd022224e53f30dC30a51bfd3d",
+            "decimals": 4
         }
     ]
 }
