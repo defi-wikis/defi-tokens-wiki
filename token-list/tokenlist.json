@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T17:46:54.830Z",
+    "timestamp": "2020-09-20T17:49:39.921Z",
     "version": {
         "major": 1,
-        "minor": 891,
+        "minor": 892,
         "patch": 0
     },
     "keywords": [
@@ -5743,6 +5743,13 @@
             "name": "paradefi.network",
             "symbol": "PRT",
             "address": "0xcBD0b083D6eF5D7d5f124857E7Ba711D34571e93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "One Useless Token",
+            "symbol": "OUT",
+            "address": "0x9b3F7A1a0928d029E49722050E1a0336D7b466EE",
             "decimals": 18
         }
     ]
