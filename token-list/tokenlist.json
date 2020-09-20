@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T15:23:34.764Z",
+    "timestamp": "2020-09-20T15:28:34.424Z",
     "version": {
         "major": 1,
-        "minor": 868,
+        "minor": 869,
         "patch": 0
     },
     "keywords": [
@@ -5582,6 +5582,13 @@
             "name": "deus.finance",
             "symbol": "DEUS",
             "address": "0x4d1e1FbC5c9a77997Fc20a463703D2E12C624D80",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFBeam",
+            "symbol": "YFBEAM",
+            "address": "0x54722B5B3CFB919CB9663D8d251193e8DfCe0C23",
             "decimals": 18
         }
     ]
