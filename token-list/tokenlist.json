@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T20:59:24.652Z",
+    "timestamp": "2020-09-20T21:00:16.100Z",
     "version": {
         "major": 1,
-        "minor": 915,
+        "minor": 916,
         "patch": 0
     },
     "keywords": [
@@ -5911,6 +5911,13 @@
             "name": "deus.finance",
             "symbol": "DEUS",
             "address": "0x523C3005a07E699eDf7d8b8387AF34b5a1125336",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shill @ shill.win",
+            "symbol": "PoSH",
+            "address": "0xf3160716bd0b35973BD1b370e26007AE41B37129",
             "decimals": 18
         }
     ]
