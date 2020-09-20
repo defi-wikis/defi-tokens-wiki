@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:01:30.307Z",
+    "timestamp": "2020-09-20T16:02:40.128Z",
     "version": {
         "major": 1,
-        "minor": 874,
+        "minor": 875,
         "patch": 0
     },
     "keywords": [
@@ -5624,6 +5624,13 @@
             "name": "WildFire.finance",
             "symbol": "WildFire",
             "address": "0xf27C3c58a48b278B0ced22ED4eE8Ccc2a9E605C1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "devil.finance",
+            "symbol": "SOUL",
+            "address": "0x19b81fEA2B36491E9f09d1aeb4645Bf5fB87697E",
             "decimals": 18
         }
     ]
