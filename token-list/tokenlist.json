@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T10:30:29.548Z",
+    "timestamp": "2020-09-20T10:48:49.683Z",
     "version": {
         "major": 1,
-        "minor": 832,
+        "minor": 833,
         "patch": 0
     },
     "keywords": [
@@ -5330,6 +5330,13 @@
             "name": "YfiDropfinance",
             "symbol": "YFD",
             "address": "0xe815b59dD7b3619660712c683f2F9dD98D2cd776",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lemurcoin",
+            "symbol": "LCO",
+            "address": "0x87aE722214d91Cfe3469FeC5B854416Ccc5C13Dd",
             "decimals": 18
         }
     ]
