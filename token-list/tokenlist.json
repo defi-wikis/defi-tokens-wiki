@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T02:13:29.406Z",
+    "timestamp": "2020-09-20T02:41:09.530Z",
     "version": {
         "major": 1,
-        "minor": 795,
+        "minor": 796,
         "patch": 0
     },
     "keywords": [
@@ -5071,6 +5071,13 @@
             "name": "yfone.trade",
             "symbol": "YET",
             "address": "0x5F2dE1593e7E297c56dfb10d60e356a937DC4939",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFBeam.Network",
+            "symbol": "YFBEAM",
+            "address": "0x0a9bd280A37Ed6d2682c26Fc5068b78105A14E12",
             "decimals": 18
         }
     ]
