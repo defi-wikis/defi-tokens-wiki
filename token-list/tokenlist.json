@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T18:24:19.421Z",
+    "timestamp": "2020-09-20T18:36:34.305Z",
     "version": {
         "major": 1,
-        "minor": 898,
+        "minor": 899,
         "patch": 0
     },
     "keywords": [
@@ -5792,6 +5792,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xb93Cc05334093c6B3b8Bfd29933bb8d5C031caBC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mindsync.ai",
+            "symbol": "MAI",
+            "address": "0x4d72e547b1C83f36fc6F9FF8caf86C55Ff32Bc91",
             "decimals": 18
         }
     ]
