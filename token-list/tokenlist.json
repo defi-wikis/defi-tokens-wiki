@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T01:57:24.913Z",
+    "timestamp": "2020-09-20T02:11:19.151Z",
     "version": {
         "major": 1,
-        "minor": 793,
+        "minor": 794,
         "patch": 0
     },
     "keywords": [
@@ -5057,6 +5057,13 @@
             "name": "Punk",
             "symbol": "PUNK",
             "address": "0x243a35Be4fA840321bC2950Df8Ef702b296565b8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnCash.Finance",
+            "symbol": "CASH",
+            "address": "0x7b6572291e4Bf36a68578B7f1Ca4E56f2Cbe5285",
             "decimals": 18
         }
     ]
