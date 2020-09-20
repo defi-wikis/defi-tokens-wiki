@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:08:34.860Z",
+    "timestamp": "2020-09-20T22:13:30.663Z",
     "version": {
         "major": 1,
-        "minor": 928,
+        "minor": 929,
         "patch": 0
     },
     "keywords": [
@@ -6002,6 +6002,13 @@
             "name": "t.me/pumpgastoken",
             "symbol": "PUMP",
             "address": "0x61f532EF937E809567d69531Ae533595402Bb4A8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shill @ shill.win",
+            "symbol": "PoSH",
+            "address": "0x157571Abdbffe3FB274fc28560899e0a61fE27CE",
             "decimals": 18
         }
     ]
