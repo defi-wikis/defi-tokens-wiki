@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T15:43:19.831Z",
+    "timestamp": "2020-09-20T15:48:34.518Z",
     "version": {
         "major": 1,
-        "minor": 872,
+        "minor": 873,
         "patch": 0
     },
     "keywords": [
@@ -5610,6 +5610,13 @@
             "name": "Uniswap V3",
             "symbol": "UNI",
             "address": "0xcae516AA57D04EBf9b92813050282333F7587d2F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "tulips.farm",
+            "symbol": "TULIPS",
+            "address": "0x25A55EFB2d6d1868F1C1D750f5868405757D77fC",
             "decimals": 18
         }
     ]
