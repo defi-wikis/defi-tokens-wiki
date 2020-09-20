@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:07:53.861Z",
+    "timestamp": "2020-09-20T22:08:34.860Z",
     "version": {
         "major": 1,
-        "minor": 927,
+        "minor": 928,
         "patch": 0
     },
     "keywords": [
@@ -5995,6 +5995,13 @@
             "name": "LaserCoin",
             "symbol": "LZR",
             "address": "0x3453769b660b7EE4261AaA043479Aa3CA02243bf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/pumpgastoken",
+            "symbol": "PUMP",
+            "address": "0x61f532EF937E809567d69531Ae533595402Bb4A8",
             "decimals": 18
         }
     ]
