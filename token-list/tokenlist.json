@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T06:12:29.606Z",
+    "timestamp": "2020-09-20T06:15:29.472Z",
     "version": {
         "major": 1,
-        "minor": 812,
+        "minor": 813,
         "patch": 0
     },
     "keywords": [
@@ -5191,6 +5191,13 @@
             "symbol": "YFS",
             "address": "0xb9B7c7907823ea5319915F98C97f1C2062716Add",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crowds",
+            "symbol": "CRWDS",
+            "address": "0xDC808091006687284da5F7407cfb851F3Cb3b2Bc",
+            "decimals": 0
         }
     ]
 }
