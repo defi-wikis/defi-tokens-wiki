@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T06:15:29.472Z",
+    "timestamp": "2020-09-20T06:16:14.733Z",
     "version": {
         "major": 1,
-        "minor": 813,
+        "minor": 814,
         "patch": 0
     },
     "keywords": [
@@ -5198,6 +5198,13 @@
             "symbol": "CRWDS",
             "address": "0xDC808091006687284da5F7407cfb851F3Cb3b2Bc",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Kryonco",
+            "symbol": "KRO",
+            "address": "0xa98785D07854c8c8FE986eCF5fd80281802B8fe9",
+            "decimals": 18
         }
     ]
 }
