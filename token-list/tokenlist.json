@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-19T23:59:05.613Z",
+    "timestamp": "2020-09-20T00:01:54.456Z",
     "version": {
         "major": 1,
-        "minor": 781,
+        "minor": 782,
         "patch": 0
     },
     "keywords": [
@@ -4973,6 +4973,13 @@
             "name": "neocash.finance",
             "symbol": "NCF",
             "address": "0x0514f8B273A6D0618c24B8604C2b78eB7e7ddA9B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNII",
+            "symbol": "UNII0x0001",
+            "address": "0x769DD7b6d929E65182CeBae1F36087B11AA5B79b",
             "decimals": 18
         }
     ]
