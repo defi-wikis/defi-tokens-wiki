@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T17:49:39.921Z",
+    "timestamp": "2020-09-20T18:08:59.747Z",
     "version": {
         "major": 1,
-        "minor": 892,
+        "minor": 893,
         "patch": 0
     },
     "keywords": [
@@ -5750,6 +5750,13 @@
             "name": "One Useless Token",
             "symbol": "OUT",
             "address": "0x9b3F7A1a0928d029E49722050E1a0336D7b466EE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniStake",
+            "symbol": "UNIS",
+            "address": "0x3B9827652677A5d59fE2b153eB4b9aCD7FD2F955",
             "decimals": 18
         }
     ]
