@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T15:28:34.424Z",
+    "timestamp": "2020-09-20T15:31:34.379Z",
     "version": {
         "major": 1,
-        "minor": 869,
+        "minor": 870,
         "patch": 0
     },
     "keywords": [
@@ -5589,6 +5589,13 @@
             "name": "YFBeam",
             "symbol": "YFBEAM",
             "address": "0x54722B5B3CFB919CB9663D8d251193e8DfCe0C23",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AUSD",
+            "symbol": "AUSD",
+            "address": "0x296317c30d2fAbBf265Bd160E17ed7D2B4886280",
             "decimals": 18
         }
     ]
