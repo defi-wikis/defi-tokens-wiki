@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T19:33:14.423Z",
+    "timestamp": "2020-09-20T19:36:49.493Z",
     "version": {
         "major": 1,
-        "minor": 909,
+        "minor": 910,
         "patch": 0
     },
     "keywords": [
@@ -5870,6 +5870,13 @@
             "symbol": "PDX",
             "address": "0x41a379957fD588B0cc262b5fAab17D46A501b0a7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DFC",
+            "symbol": "DFC",
+            "address": "0x337A7482c6eEE060B79fDbf1728310C2F6f64d8A",
+            "decimals": 8
         }
     ]
 }
