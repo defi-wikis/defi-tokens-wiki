@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T13:07:34.896Z",
+    "timestamp": "2020-09-20T13:13:44.543Z",
     "version": {
         "major": 1,
-        "minor": 850,
+        "minor": 851,
         "patch": 0
     },
     "keywords": [
@@ -5456,6 +5456,13 @@
             "name": "Sprout",
             "symbol": "Seed",
             "address": "0x91fC82f5c588c00985aa264FC7b45Ee680110703",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "momo",
+            "symbol": "MOMO",
+            "address": "0xfBd88d0d362E35D5278fC14B477b6853559b9fFd",
             "decimals": 18
         }
     ]
