@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T14:39:34.272Z",
+    "timestamp": "2020-09-20T14:50:44.232Z",
     "version": {
         "major": 1,
-        "minor": 862,
+        "minor": 863,
         "patch": 0
     },
     "keywords": [
@@ -5540,6 +5540,13 @@
             "name": "pointpay.io",
             "symbol": "PXP",
             "address": "0xc25A9BBC7D8320739F3DDDB77B37AcD34312AD70",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "storeum",
+            "symbol": "STO",
+            "address": "0xD1410a4fc39Be5ff5CD328e3a23F382423936Ebd",
             "decimals": 18
         }
     ]
