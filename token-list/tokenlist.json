@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:55:07.461Z",
+    "timestamp": "2020-09-20T17:02:49.878Z",
     "version": {
         "major": 1,
-        "minor": 884,
+        "minor": 885,
         "patch": 0
     },
     "keywords": [
@@ -5694,6 +5694,13 @@
             "name": "arcx.money",
             "symbol": "ARC",
             "address": "0x5d9c53D8f40984E7fa9B1027211782A10F34A6DF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "meToken",
+            "symbol": "NFT",
+            "address": "0xD6C889F35a35451D50899128eBE9c8B54CD1E902",
             "decimals": 18
         }
     ]
