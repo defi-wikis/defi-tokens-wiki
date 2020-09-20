@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:52:09.370Z",
+    "timestamp": "2020-09-20T21:59:54.528Z",
     "version": {
         "major": 1,
-        "minor": 923,
+        "minor": 924,
         "patch": 0
     },
     "keywords": [
@@ -5967,6 +5967,13 @@
             "name": "Burnefi.finance",
             "symbol": "BNFI",
             "address": "0x544cdA8048806061d72D63B0def8643b8384E230",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shill @ shill.win",
+            "symbol": "PoSH",
+            "address": "0xB94E068D4C9eAC1E741C170bc73bF30946043Fa3",
             "decimals": 18
         }
     ]
