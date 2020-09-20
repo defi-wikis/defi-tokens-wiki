@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T18:20:35.039Z",
+    "timestamp": "2020-09-20T18:23:54.000Z",
     "version": {
         "major": 1,
-        "minor": 896,
+        "minor": 897,
         "patch": 0
     },
     "keywords": [
@@ -5779,6 +5779,13 @@
             "symbol": "TTT",
             "address": "0xCe46a859105D28c76Ef26F50cBa10375bd91736e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Niu Coin System",
+            "symbol": "NCS",
+            "address": "0xa60354005b3897bC684244B593fA6F5F18ECd13e",
+            "decimals": 8
         }
     ]
 }
