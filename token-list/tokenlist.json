@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T06:56:09.638Z",
+    "timestamp": "2020-09-20T07:07:19.808Z",
     "version": {
         "major": 1,
-        "minor": 816,
+        "minor": 817,
         "patch": 0
     },
     "keywords": [
@@ -5218,6 +5218,13 @@
             "name": "XCredit",
             "symbol": "XFYI",
             "address": "0x728645c761f937BA18aB00c0abA76aF9bf701Dcd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BGN_UNKN0WN",
+            "symbol": "BGN",
+            "address": "0x0492310923B767C0725039a86C0d0789B441DB9B",
             "decimals": 18
         }
     ]
