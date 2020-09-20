@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T12:33:14.505Z",
+    "timestamp": "2020-09-20T12:44:45.058Z",
     "version": {
         "major": 1,
-        "minor": 848,
+        "minor": 849,
         "patch": 0
     },
     "keywords": [
@@ -5442,6 +5442,13 @@
             "name": "XCredit",
             "symbol": "XFYI",
             "address": "0xF205A753ef7c0ad436A938A18F61d72B950b9919",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Future ETH",
+            "symbol": "fETH",
+            "address": "0x2241940712C5188761714870ba11041894739c7F",
             "decimals": 18
         }
     ]
