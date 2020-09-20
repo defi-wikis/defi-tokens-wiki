@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:13:30.663Z",
+    "timestamp": "2020-09-20T22:14:54.212Z",
     "version": {
         "major": 1,
-        "minor": 929,
+        "minor": 930,
         "patch": 0
     },
     "keywords": [
@@ -6009,6 +6009,13 @@
             "name": "Shill @ shill.win",
             "symbol": "PoSH",
             "address": "0x157571Abdbffe3FB274fc28560899e0a61fE27CE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shill",
+            "symbol": "PoSH",
+            "address": "0x685aea4F02E39E5a5BB7f7117E88DB1151F38364",
             "decimals": 18
         }
     ]
