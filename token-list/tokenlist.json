@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T03:04:24.765Z",
+    "timestamp": "2020-09-20T03:10:24.563Z",
     "version": {
         "major": 1,
-        "minor": 800,
+        "minor": 801,
         "patch": 0
     },
     "keywords": [
@@ -5106,6 +5106,13 @@
             "name": "DoesNothingToken",
             "symbol": "DNT",
             "address": "0xDb5CD4DF9ca3fBdFA5Bb6b7F53bCf8851c2B8454",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YIIFI.Finance",
+            "symbol": "YIIFI",
+            "address": "0x9e9FB995756e8843451c1a2015b6077dEB11bbdA",
             "decimals": 18
         }
     ]
