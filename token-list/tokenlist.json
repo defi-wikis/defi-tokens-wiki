@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T18:10:40.077Z",
+    "timestamp": "2020-09-20T18:13:14.913Z",
     "version": {
         "major": 1,
-        "minor": 894,
+        "minor": 895,
         "patch": 0
     },
     "keywords": [
@@ -5764,6 +5764,13 @@
             "name": "Stakearn.xyz",
             "symbol": "STE",
             "address": "0x1FEFA92854872dd9408efd448a4bC6da3495c42B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Stoink",
+            "symbol": "STO",
+            "address": "0x0d8022313Ca446a958Df17D9523cE7a91cf46815",
             "decimals": 18
         }
     ]
