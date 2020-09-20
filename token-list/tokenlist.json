@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:33:59.692Z",
+    "timestamp": "2020-09-20T16:37:19.776Z",
     "version": {
         "major": 1,
-        "minor": 879,
+        "minor": 880,
         "patch": 0
     },
     "keywords": [
@@ -5659,6 +5659,13 @@
             "name": "To the Moon",
             "symbol": "TTM",
             "address": "0x93566007B90F430d062e43810aa89a69C706BBa2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance Value",
+            "symbol": "YFIV",
+            "address": "0xEf10E4Dd93A44e65a1179AB2D33540BAf55EC6B1",
             "decimals": 18
         }
     ]
