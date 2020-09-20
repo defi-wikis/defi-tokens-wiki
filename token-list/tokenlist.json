@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T04:11:54.450Z",
+    "timestamp": "2020-09-20T04:15:54.675Z",
     "version": {
         "major": 1,
-        "minor": 807,
+        "minor": 808,
         "patch": 0
     },
     "keywords": [
@@ -5155,6 +5155,13 @@
             "name": "SaturdayFarm.finance",
             "symbol": "YSF",
             "address": "0xf636d246ceCda0A816D0E271B02327f786F2245D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Change COIN",
+            "symbol": "CAG",
+            "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
             "decimals": 18
         }
     ]
