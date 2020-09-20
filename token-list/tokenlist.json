@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T17:13:30.092Z",
+    "timestamp": "2020-09-20T17:15:14.543Z",
     "version": {
         "major": 1,
-        "minor": 887,
+        "minor": 888,
         "patch": 0
     },
     "keywords": [
@@ -5715,6 +5715,13 @@
             "name": "yieldstake.finance",
             "symbol": "YSF",
             "address": "0x2deF2F0C15B929570954164d1dcdB1C1f7dA05e5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deus.finance",
+            "symbol": "DEUS",
+            "address": "0x61276D424Ff6644d64671D30E17Dd30a86687Bd7",
             "decimals": 18
         }
     ]
