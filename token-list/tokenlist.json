@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:56:34.844Z",
+    "timestamp": "2020-09-20T12:03:09.538Z",
     "version": {
         "major": 1,
-        "minor": 845,
+        "minor": 846,
         "patch": 0
     },
     "keywords": [
@@ -5421,6 +5421,13 @@
             "name": "PassionToken",
             "symbol": "PSF",
             "address": "0xCE5583AA500E36af0A49c12b0ba4E3983016774E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bridge.link",
+            "symbol": "BRG",
+            "address": "0x966F80870101063a5C39363Cf2630afa1445a10E",
             "decimals": 18
         }
     ]
