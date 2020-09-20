@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T17:19:59.504Z",
+    "timestamp": "2020-09-20T17:32:54.614Z",
     "version": {
         "major": 1,
-        "minor": 889,
+        "minor": 890,
         "patch": 0
     },
     "keywords": [
@@ -5730,6 +5730,13 @@
             "symbol": "DOMC",
             "address": "0xB8992E45a223a6841250A005B0Ed3301a1Fef9BD",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "among.finance",
+            "symbol": "AMONG",
+            "address": "0xf27c8A87bCf259F8B02f62b969a8404D15054D0E",
+            "decimals": 18
         }
     ]
 }
