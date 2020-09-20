@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T02:56:29.368Z",
+    "timestamp": "2020-09-20T02:57:34.199Z",
     "version": {
         "major": 1,
-        "minor": 797,
+        "minor": 798,
         "patch": 0
     },
     "keywords": [
@@ -5085,6 +5085,13 @@
             "name": "yswUSD",
             "symbol": "yswUSD",
             "address": "0x2b1120F0C8238C098C767282092D49d9ac527e8C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFU.Finance",
+            "symbol": "YFU",
+            "address": "0x2BeAd3Feafdd03CC7e1b57Ab842d47ee9b29Ffa6",
             "decimals": 18
         }
     ]
