@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T20:24:49.758Z",
+    "timestamp": "2020-09-20T20:47:06.317Z",
     "version": {
         "major": 1,
-        "minor": 913,
+        "minor": 914,
         "patch": 0
     },
     "keywords": [
@@ -5897,6 +5897,13 @@
             "name": "yfiv.finance",
             "symbol": "YFIV",
             "address": "0x78210EA40518FDE57Db27503ef16B0311D8dB040",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sto.finance",
+            "symbol": "STO",
+            "address": "0x6Ba7558eA860eC41E9C5DD6282c84C5abE4dd8F2",
             "decimals": 18
         }
     ]
