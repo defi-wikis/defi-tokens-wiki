@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T04:02:14.774Z",
+    "timestamp": "2020-09-20T04:11:15.112Z",
     "version": {
         "major": 1,
-        "minor": 805,
+        "minor": 806,
         "patch": 0
     },
     "keywords": [
@@ -5141,6 +5141,13 @@
             "name": "kushOG",
             "symbol": "kOG",
             "address": "0x8DdF8Af6A26D316Ac07269dd490BBFb31718A3d4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cvault.finance",
+            "symbol": "CORE",
+            "address": "0x77Dea616395aD6989dDfd7c9EaC6782a81747A4F",
             "decimals": 18
         }
     ]
