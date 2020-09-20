@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T13:57:01.822Z",
+    "timestamp": "2020-09-20T14:03:24.277Z",
     "version": {
         "major": 1,
-        "minor": 856,
+        "minor": 857,
         "patch": 0
     },
     "keywords": [
@@ -5499,6 +5499,13 @@
             "symbol": "CAPg",
             "address": "0x107721d9aA07d9DE8f2CC9545e0C9346A9Bb503b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tulip Seed",
+            "symbol": "sTLP",
+            "address": "0x3D1BE3fEf769399CcE7e504E85324d622F23Cf85",
+            "decimals": 9
         }
     ]
 }
