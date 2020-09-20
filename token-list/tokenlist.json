@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T02:41:09.530Z",
+    "timestamp": "2020-09-20T02:56:29.368Z",
     "version": {
         "major": 1,
-        "minor": 796,
+        "minor": 797,
         "patch": 0
     },
     "keywords": [
@@ -5078,6 +5078,13 @@
             "name": "YFBeam.Network",
             "symbol": "YFBEAM",
             "address": "0x0a9bd280A37Ed6d2682c26Fc5068b78105A14E12",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yswUSD",
+            "symbol": "yswUSD",
+            "address": "0x2b1120F0C8238C098C767282092D49d9ac527e8C",
             "decimals": 18
         }
     ]
