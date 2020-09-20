@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T02:57:34.199Z",
+    "timestamp": "2020-09-20T02:57:59.386Z",
     "version": {
         "major": 1,
-        "minor": 798,
+        "minor": 799,
         "patch": 0
     },
     "keywords": [
@@ -5092,6 +5092,13 @@
             "name": "YFU.Finance",
             "symbol": "YFU",
             "address": "0x2BeAd3Feafdd03CC7e1b57Ab842d47ee9b29Ffa6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XCredit.Finance",
+            "symbol": "XFYI",
+            "address": "0xbA6450a8Cb241BBc758666764a7AAE5d7451d59D",
             "decimals": 18
         }
     ]
