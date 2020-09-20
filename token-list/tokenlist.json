@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T14:38:15.107Z",
+    "timestamp": "2020-09-20T14:39:34.272Z",
     "version": {
         "major": 1,
-        "minor": 861,
+        "minor": 862,
         "patch": 0
     },
     "keywords": [
@@ -5533,6 +5533,13 @@
             "name": "DELHI.cityswap.io",
             "symbol": "DELHI",
             "address": "0xD688b25b368142A89D2ab4Ea87e03b6E69c5717D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pointpay.io",
+            "symbol": "PXP",
+            "address": "0xc25A9BBC7D8320739F3DDDB77B37AcD34312AD70",
             "decimals": 18
         }
     ]
