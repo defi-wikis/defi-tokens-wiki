@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T18:08:59.747Z",
+    "timestamp": "2020-09-20T18:10:40.077Z",
     "version": {
         "major": 1,
-        "minor": 893,
+        "minor": 894,
         "patch": 0
     },
     "keywords": [
@@ -5757,6 +5757,13 @@
             "name": "UniStake",
             "symbol": "UNIS",
             "address": "0x3B9827652677A5d59fE2b153eB4b9aCD7FD2F955",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Stakearn.xyz",
+            "symbol": "STE",
+            "address": "0x1FEFA92854872dd9408efd448a4bC6da3495c42B",
             "decimals": 18
         }
     ]
