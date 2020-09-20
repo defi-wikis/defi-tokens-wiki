@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T10:15:54.749Z",
+    "timestamp": "2020-09-20T10:24:59.265Z",
     "version": {
         "major": 1,
-        "minor": 830,
+        "minor": 831,
         "patch": 0
     },
     "keywords": [
@@ -5316,6 +5316,13 @@
             "name": "StakeHavens Mainnet",
             "symbol": "YFHVM",
             "address": "0xca2ad74003502af6B727e846Fab40D6cb8Da0035",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YMAX",
+            "symbol": "YMAX",
+            "address": "0x9e77e93D223A9e53e92a011ddd48b0d8C56c644B",
             "decimals": 18
         }
     ]
