@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:19:19.899Z",
+    "timestamp": "2020-09-20T22:50:54.539Z",
     "version": {
         "major": 1,
-        "minor": 931,
+        "minor": 932,
         "patch": 0
     },
     "keywords": [
@@ -6024,6 +6024,13 @@
             "symbol": "CHV",
             "address": "0x0615Eb620A85926e5A5dE8a40CCf78958FFAdb75",
             "decimals": 14
+        },
+        {
+            "chainId": 1,
+            "name": "Polkastarter",
+            "symbol": "POLS",
+            "address": "0x6740df13Cc382D21Cc40C7D6De22B2B3aad43BF4",
+            "decimals": 18
         }
     ]
 }
