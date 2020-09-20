@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T01:28:24.178Z",
+    "timestamp": "2020-09-20T01:35:20.266Z",
     "version": {
         "major": 1,
-        "minor": 789,
+        "minor": 790,
         "patch": 0
     },
     "keywords": [
@@ -5029,6 +5029,13 @@
             "name": "sushi",
             "symbol": "SUSHI",
             "address": "0xDb1C61f3e24433F724Da0d34620c18e97548cA49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIFUEL",
+            "symbol": "UNIFUEL",
+            "address": "0xc1872Bc6B4022A4a4dE9ADCAF3eeB45a058aD0B7",
             "decimals": 18
         }
     ]
