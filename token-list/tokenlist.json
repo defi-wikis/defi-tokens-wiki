@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T01:35:20.266Z",
+    "timestamp": "2020-09-20T01:37:06.941Z",
     "version": {
         "major": 1,
-        "minor": 790,
+        "minor": 791,
         "patch": 0
     },
     "keywords": [
@@ -5036,6 +5036,13 @@
             "name": "UNIFUEL",
             "symbol": "UNIFUEL",
             "address": "0xc1872Bc6B4022A4a4dE9ADCAF3eeB45a058aD0B7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Peet ERC20",
+            "symbol": "PTE",
+            "address": "0x51Bb9c623226CE781F4A54FC8F4A530a47142b6B",
             "decimals": 18
         }
     ]
