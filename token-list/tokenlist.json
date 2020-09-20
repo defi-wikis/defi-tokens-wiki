@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T15:36:59.440Z",
+    "timestamp": "2020-09-20T15:43:19.831Z",
     "version": {
         "major": 1,
-        "minor": 871,
+        "minor": 872,
         "patch": 0
     },
     "keywords": [
@@ -5603,6 +5603,13 @@
             "name": "KStarCoin",
             "symbol": "KSC",
             "address": "0x990E081A7B7d3Ccba26a2f49746A68CC4fF73280",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V3",
+            "symbol": "UNI",
+            "address": "0xcae516AA57D04EBf9b92813050282333F7587d2F",
             "decimals": 18
         }
     ]
