@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T04:15:54.675Z",
+    "timestamp": "2020-09-20T05:16:59.724Z",
     "version": {
         "major": 1,
-        "minor": 808,
+        "minor": 809,
         "patch": 0
     },
     "keywords": [
@@ -5162,6 +5162,13 @@
             "name": "Change COIN",
             "symbol": "CAG",
             "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YieldCompound.Finance",
+            "symbol": "YCFI",
+            "address": "0x3D1dC9008bd6341A7aEbE44058194C13c4f02B23",
             "decimals": 18
         }
     ]
