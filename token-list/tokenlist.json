@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:04:20.002Z",
+    "timestamp": "2020-09-20T11:14:49.303Z",
     "version": {
         "major": 1,
-        "minor": 835,
+        "minor": 836,
         "patch": 0
     },
     "keywords": [
@@ -5351,6 +5351,13 @@
             "name": "hHC",
             "symbol": "hHC",
             "address": "0x97cC1e26582763bF31f3434c552dFA7f748816cE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Curve",
+            "symbol": "CRV",
+            "address": "0x96Bfe646B506635c277E84AfBe07D7195f90766A",
             "decimals": 18
         }
     ]
