@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T00:01:54.456Z",
+    "timestamp": "2020-09-20T00:26:44.894Z",
     "version": {
         "major": 1,
-        "minor": 782,
+        "minor": 783,
         "patch": 0
     },
     "keywords": [
@@ -4980,6 +4980,13 @@
             "name": "UNII",
             "symbol": "UNII0x0001",
             "address": "0x769DD7b6d929E65182CeBae1F36087B11AA5B79b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OXY",
+            "symbol": "OXY",
+            "address": "0x8b08F4Ea103be98673259eC54f7983B8130E9153",
             "decimals": 18
         }
     ]
