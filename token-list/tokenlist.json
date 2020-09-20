@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:39:40.098Z",
+    "timestamp": "2020-09-20T11:51:24.515Z",
     "version": {
         "major": 1,
-        "minor": 842,
+        "minor": 843,
         "patch": 0
     },
     "keywords": [
@@ -5401,6 +5401,13 @@
             "symbol": "POT",
             "address": "0x042aFd3869A47E2d5d42CC787D5c9E19DF32185F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cryptolandy",
+            "symbol": "CRYPL",
+            "address": "0x1062FDf250B44697216D07e41Df93824519F47aa",
+            "decimals": 8
         }
     ]
 }
