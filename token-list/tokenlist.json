@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T01:26:54.447Z",
+    "timestamp": "2020-09-20T01:28:24.178Z",
     "version": {
         "major": 1,
-        "minor": 788,
+        "minor": 789,
         "patch": 0
     },
     "keywords": [
@@ -5022,6 +5022,13 @@
             "name": "XYearn.Finance",
             "symbol": "XYFI",
             "address": "0x43DAdF9423588FC18c82B666Db7f4Ff8559bf6AE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sushi",
+            "symbol": "SUSHI",
+            "address": "0xDb1C61f3e24433F724Da0d34620c18e97548cA49",
             "decimals": 18
         }
     ]
