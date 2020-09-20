@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:37:34.243Z",
+    "timestamp": "2020-09-20T11:39:29.867Z",
     "version": {
         "major": 1,
-        "minor": 840,
+        "minor": 841,
         "patch": 0
     },
     "keywords": [
@@ -5386,6 +5386,13 @@
             "name": "DeFi Kingdom token",
             "symbol": "DFK",
             "address": "0x90665B0e8cfedC0d77099290e381237EBa6DEceE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Native Token YBDAO",
+            "symbol": "YBREE",
+            "address": "0x8B44CcC86c373FD4fa62f316bdfB9a4f3AD32407",
             "decimals": 18
         }
     ]
