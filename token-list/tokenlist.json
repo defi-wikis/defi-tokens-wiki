@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T01:48:06.183Z",
+    "timestamp": "2020-09-20T01:57:24.913Z",
     "version": {
         "major": 1,
-        "minor": 792,
+        "minor": 793,
         "patch": 0
     },
     "keywords": [
@@ -5050,6 +5050,13 @@
             "name": "UNII.SWAP",
             "symbol": "UNII",
             "address": "0xaF600acDA381F2C987d1FFd1c8CBc6E6BC12Ac48",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Punk",
+            "symbol": "PUNK",
+            "address": "0x243a35Be4fA840321bC2950Df8Ef702b296565b8",
             "decimals": 18
         }
     ]
