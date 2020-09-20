@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T00:26:44.894Z",
+    "timestamp": "2020-09-20T00:29:14.254Z",
     "version": {
         "major": 1,
-        "minor": 783,
+        "minor": 784,
         "patch": 0
     },
     "keywords": [
@@ -4987,6 +4987,13 @@
             "name": "OXY",
             "symbol": "OXY",
             "address": "0x8b08F4Ea103be98673259eC54f7983B8130E9153",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yieldhill.io",
+            "symbol": "YIO",
+            "address": "0x1b1E90Cb9d23C034cFD1Ed5Cf91A1810A735abd3",
             "decimals": 18
         }
     ]
