@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:51:24.515Z",
+    "timestamp": "2020-09-20T11:54:19.684Z",
     "version": {
         "major": 1,
-        "minor": 843,
+        "minor": 844,
         "patch": 0
     },
     "keywords": [
@@ -5408,6 +5408,13 @@
             "symbol": "CRYPL",
             "address": "0x1062FDf250B44697216D07e41Df93824519F47aa",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcoin Fly",
+            "symbol": "BTCf",
+            "address": "0xdE17e9b4d1b025bD959648084512204A76d0591a",
+            "decimals": 18
         }
     ]
 }
