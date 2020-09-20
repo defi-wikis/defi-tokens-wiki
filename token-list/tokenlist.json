@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T18:52:24.425Z",
+    "timestamp": "2020-09-20T18:55:06.323Z",
     "version": {
         "major": 1,
-        "minor": 900,
+        "minor": 901,
         "patch": 0
     },
     "keywords": [
@@ -5807,6 +5807,13 @@
             "symbol": "300",
             "address": "0x8Eb3b7A409021FC33aaF5E8F823AD9b164B7AaaC",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "Sensei.Finance",
+            "symbol": "SeFi",
+            "address": "0xF898896cB46969D8E4055809708B4A30E3800191",
+            "decimals": 8
         }
     ]
 }
