@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:44:44.457Z",
+    "timestamp": "2020-09-20T16:45:25.156Z",
     "version": {
         "major": 1,
-        "minor": 882,
+        "minor": 883,
         "patch": 0
     },
     "keywords": [
@@ -5680,6 +5680,13 @@
             "name": "YFFB Finance",
             "symbol": "YFFB",
             "address": "0x2b1B0663BbB8Fb65924fEa31A520C323F5d4D60a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xBTC Token @ xBTC.Fi",
+            "symbol": "XBTC",
+            "address": "0x955EC27563BFb5453BA8cB78048b3C0f876307C9",
             "decimals": 18
         }
     ]
