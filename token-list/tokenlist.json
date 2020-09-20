@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T03:22:59.183Z",
+    "timestamp": "2020-09-20T03:30:49.168Z",
     "version": {
         "major": 1,
-        "minor": 803,
+        "minor": 804,
         "patch": 0
     },
     "keywords": [
@@ -5127,6 +5127,13 @@
             "name": "YALPHA",
             "symbol": "YALPHA",
             "address": "0xD91A89F797592eCa6C599BA4BDCab41EF79818D5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kush.Finance",
+            "symbol": "KUSH",
+            "address": "0x28d33070eddb56CFD1F57288f92e3D0A14408D1f",
             "decimals": 18
         }
     ]
