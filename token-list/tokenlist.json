@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:00:16.100Z",
+    "timestamp": "2020-09-20T21:02:39.432Z",
     "version": {
         "major": 1,
-        "minor": 916,
+        "minor": 917,
         "patch": 0
     },
     "keywords": [
@@ -5918,6 +5918,13 @@
             "name": "Shill @ shill.win",
             "symbol": "PoSH",
             "address": "0xf3160716bd0b35973BD1b370e26007AE41B37129",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sweet Coin Wrapped",
+            "symbol": "SWCW",
+            "address": "0x5D9bBd3b6316f4044117EADe443527B7490ab725",
             "decimals": 18
         }
     ]
