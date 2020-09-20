@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T14:06:19.762Z",
+    "timestamp": "2020-09-20T14:08:14.371Z",
     "version": {
         "major": 1,
-        "minor": 858,
+        "minor": 859,
         "patch": 0
     },
     "keywords": [
@@ -5512,6 +5512,13 @@
             "name": "Summit coin",
             "symbol": "SMT",
             "address": "0x7aa82EC1cbD3769d2Ea55cD3B7957b786d0EFF49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jibrel Network Token",
+            "symbol": "JNT",
+            "address": "0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7",
             "decimals": 18
         }
     ]
