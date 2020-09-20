@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:25:05.978Z",
+    "timestamp": "2020-09-20T21:32:39.915Z",
     "version": {
         "major": 1,
-        "minor": 919,
+        "minor": 920,
         "patch": 0
     },
     "keywords": [
@@ -20,7 +20,7 @@
             "description": "Tokens that enable financial services using smart contracts"
         },
         "yield-farming": {
-            "name": "🌾Yield Farming",
+            "name": "🌾 Yield Farming",
             "description": "Tokens that earn rewards using permissionless liquidity protocols"
         },
         "business-services": {
@@ -28,7 +28,7 @@
             "description": "Tokens that can be redeemed in exchange for business tokens"
         },
         "oracle": {
-            "name": "Oracle",
+            "name": "🔮 Oracles",
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
@@ -5939,6 +5939,13 @@
             "name": "UniLox.io",
             "symbol": "LOX",
             "address": "0x1bc49948B094b1c1Fb54E01e75DeE41BA0cB75ac",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Burnefi.finance",
+            "symbol": "BNFI",
+            "address": "0x417Aa847eaEdCd956abA6901b1f38A86950dC6D8",
             "decimals": 18
         }
     ]
