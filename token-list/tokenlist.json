@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T19:11:54.257Z",
+    "timestamp": "2020-09-20T19:12:06.817Z",
     "version": {
         "major": 1,
-        "minor": 903,
+        "minor": 904,
         "patch": 0
     },
     "keywords": [
@@ -5827,6 +5827,13 @@
             "name": "YFOS.finance",
             "symbol": "YFOS",
             "address": "0xCd254568EBF88f088E40f456db9E17731243cb25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UsefulNo",
+            "symbol": "UFN",
+            "address": "0x9aFa7A7B501eBDed959e1bE77c325dA2C3a4384A",
             "decimals": 18
         }
     ]
