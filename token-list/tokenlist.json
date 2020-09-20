@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:04:40.302Z",
+    "timestamp": "2020-09-20T16:11:44.560Z",
     "version": {
         "major": 1,
-        "minor": 877,
+        "minor": 878,
         "patch": 0
     },
     "keywords": [
@@ -5645,6 +5645,13 @@
             "name": "yUNI Finance",
             "symbol": "yUNI",
             "address": "0x4b916B46F91a97D8234877F65006361EB1959467",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STVKE.Network",
+            "symbol": "STV",
+            "address": "0x03BB9bbf0423E44370e88Ec5fC31Eecf4E2b4Ac2",
             "decimals": 18
         }
     ]
