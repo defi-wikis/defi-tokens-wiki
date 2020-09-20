@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:22:29.364Z",
+    "timestamp": "2020-09-20T21:25:05.978Z",
     "version": {
         "major": 1,
-        "minor": 918,
+        "minor": 919,
         "patch": 0
     },
     "keywords": [
@@ -5932,6 +5932,13 @@
             "name": "DeltaFi",
             "symbol": "DTF",
             "address": "0x04eDF152999967d2Fff425f8c9b0F6bA40Cd3799",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLox.io",
+            "symbol": "LOX",
+            "address": "0x1bc49948B094b1c1Fb54E01e75DeE41BA0cB75ac",
             "decimals": 18
         }
     ]
