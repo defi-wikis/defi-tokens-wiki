@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T06:16:14.733Z",
+    "timestamp": "2020-09-20T06:39:44.419Z",
     "version": {
         "major": 1,
-        "minor": 814,
+        "minor": 815,
         "patch": 0
     },
     "keywords": [
@@ -5204,6 +5204,13 @@
             "name": "Kryonco",
             "symbol": "KRO",
             "address": "0xa98785D07854c8c8FE986eCF5fd80281802B8fe9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "domeyard LP",
+            "symbol": "DYLP",
+            "address": "0xCA54ea5e8653E95c9804868e1efC2a82e13B6d84",
             "decimals": 18
         }
     ]
