@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T23:19:14.763Z",
+    "timestamp": "2020-09-20T23:44:54.612Z",
     "version": {
         "major": 1,
-        "minor": 938,
+        "minor": 939,
         "patch": 0
     },
     "keywords": [
@@ -6072,6 +6072,13 @@
             "name": "yesterday.finance",
             "symbol": "YFIN",
             "address": "0x0f68012E44e61d68D3C65B4F86e289B5E6570229",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "defi.farm",
+            "symbol": "DFARM",
+            "address": "0x2ab62e351c03087727aaE8CCD45bf484a8217998",
             "decimals": 18
         }
     ]
