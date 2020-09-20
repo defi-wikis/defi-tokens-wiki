@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T20:47:06.317Z",
+    "timestamp": "2020-09-20T20:59:24.652Z",
     "version": {
         "major": 1,
-        "minor": 914,
+        "minor": 915,
         "patch": 0
     },
     "keywords": [
@@ -5904,6 +5904,13 @@
             "name": "sto.finance",
             "symbol": "STO",
             "address": "0x6Ba7558eA860eC41E9C5DD6282c84C5abE4dd8F2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deus.finance",
+            "symbol": "DEUS",
+            "address": "0x523C3005a07E699eDf7d8b8387AF34b5a1125336",
             "decimals": 18
         }
     ]
