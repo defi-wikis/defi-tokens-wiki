@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T13:29:15.254Z",
+    "timestamp": "2020-09-20T13:44:14.513Z",
     "version": {
         "major": 1,
-        "minor": 854,
+        "minor": 855,
         "patch": 0
     },
     "keywords": [
@@ -5484,6 +5484,13 @@
             "name": "UniStake",
             "symbol": "UNIST",
             "address": "0x9b14f4e1429c88313deE4870113187aFcf63D9EE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Decentralized lending platform",
+            "symbol": "DLC",
+            "address": "0x31a40dEFa1F91d07969F41cC6768Db9384Af8015",
             "decimals": 18
         }
     ]
