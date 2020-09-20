@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T13:15:55.465Z",
+    "timestamp": "2020-09-20T13:29:09.738Z",
     "version": {
         "major": 1,
-        "minor": 852,
+        "minor": 853,
         "patch": 0
     },
     "keywords": [
@@ -5471,6 +5471,13 @@
             "symbol": "BKY",
             "address": "0x646b41183bB0d18c01f75f630688D613A5774dC7",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "TiEN Token",
+            "symbol": "TiEN",
+            "address": "0x67A1Ca08e580af9f54dC9b03Fd59EC2388AD7c6c",
+            "decimals": 18
         }
     ]
 }
