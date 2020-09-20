@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T10:01:50.298Z",
+    "timestamp": "2020-09-20T10:04:07.244Z",
     "version": {
         "major": 1,
-        "minor": 827,
+        "minor": 828,
         "patch": 0
     },
     "keywords": [
@@ -5296,6 +5296,13 @@
             "symbol": "BLM",
             "address": "0x67520370D9Ea0BF4849B789D4D42BE0B237d84f1",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.Finance Token",
+            "symbol": "YFT",
+            "address": "0xab60Ac1B6C5A0d8c576A852a4B7ab495588E050e",
+            "decimals": 18
         }
     ]
 }
