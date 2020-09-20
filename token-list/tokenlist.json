@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T12:44:45.058Z",
+    "timestamp": "2020-09-20T13:07:34.896Z",
     "version": {
         "major": 1,
-        "minor": 849,
+        "minor": 850,
         "patch": 0
     },
     "keywords": [
@@ -5449,6 +5449,13 @@
             "name": "Future ETH",
             "symbol": "fETH",
             "address": "0x2241940712C5188761714870ba11041894739c7F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sprout",
+            "symbol": "Seed",
+            "address": "0x91fC82f5c588c00985aa264FC7b45Ee680110703",
             "decimals": 18
         }
     ]
