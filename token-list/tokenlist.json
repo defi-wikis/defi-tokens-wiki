@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T19:29:05.777Z",
+    "timestamp": "2020-09-20T19:30:12.724Z",
     "version": {
         "major": 1,
-        "minor": 905,
+        "minor": 906,
         "patch": 0
     },
     "keywords": [
@@ -5841,6 +5841,13 @@
             "name": "LexDAO Engineering",
             "symbol": "LEX",
             "address": "0xA5C5C8Af327248c4c2dce810a3d3Cffb8C4F66ab",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "earthfi",
+            "symbol": "EFI",
+            "address": "0x89aD88082C3d52CB896d41522532FF88b66d33FB",
             "decimals": 18
         }
     ]
