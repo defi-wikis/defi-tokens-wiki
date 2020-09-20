@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:38:09.348Z",
+    "timestamp": "2020-09-20T21:52:09.370Z",
     "version": {
         "major": 1,
-        "minor": 922,
+        "minor": 923,
         "patch": 0
     },
     "keywords": [
@@ -12,11 +12,11 @@
     ],
     "tags": {
         "stablecoin": {
-            "name": "Stablecoin",
+            "name": "💵 Stablecoin",
             "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
         },
         "defi": {
-            "name": "DeFi",
+            "name": "🌈 DeFi",
             "description": "Tokens that enable financial services using smart contracts"
         },
         "yield-farming": {
@@ -24,7 +24,7 @@
             "description": "Tokens that earn rewards using permissionless liquidity protocols"
         },
         "business-services": {
-            "name": "Business Services",
+            "name": "🧳 Business Services",
             "description": "Tokens that can be redeemed in exchange for business tokens"
         },
         "oracle": {
@@ -32,11 +32,11 @@
             "description": "Tokens for protocols that provide smart contracts with external information"
         },
         "dex": {
-            "name": "DEX",
+            "name": "📈 DEX",
             "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
         },
         "exchange-based": {
-            "name": "Exchange Based",
+            "name": "💱 Exchange Based",
             "description": "Tokens that offer holders discounts on trading fees and other benefits"
         }
     },
@@ -5960,6 +5960,13 @@
             "name": "Dynamic Staking",
             "symbol": "DSP",
             "address": "0xF6f67ef1Bc228CAf77875dCf9dCac57D615CDc36",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Burnefi.finance",
+            "symbol": "BNFI",
+            "address": "0x544cdA8048806061d72D63B0def8643b8384E230",
             "decimals": 18
         }
     ]
