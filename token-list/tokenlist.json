@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:02:39.432Z",
+    "timestamp": "2020-09-20T21:22:29.364Z",
     "version": {
         "major": 1,
-        "minor": 917,
+        "minor": 918,
         "patch": 0
     },
     "keywords": [
@@ -5925,6 +5925,13 @@
             "name": "Sweet Coin Wrapped",
             "symbol": "SWCW",
             "address": "0x5D9bBd3b6316f4044117EADe443527B7490ab725",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeltaFi",
+            "symbol": "DTF",
+            "address": "0x04eDF152999967d2Fff425f8c9b0F6bA40Cd3799",
             "decimals": 18
         }
     ]
