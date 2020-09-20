@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T09:49:59.504Z",
+    "timestamp": "2020-09-20T10:01:50.298Z",
     "version": {
         "major": 1,
-        "minor": 826,
+        "minor": 827,
         "patch": 0
     },
     "keywords": [
@@ -5289,6 +5289,13 @@
             "symbol": "UYFI",
             "address": "0x3532aBA09Ba045abE1e052dAd27761CBE0236257",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Block Lives Matter",
+            "symbol": "BLM",
+            "address": "0x67520370D9Ea0BF4849B789D4D42BE0B237d84f1",
+            "decimals": 0
         }
     ]
 }
