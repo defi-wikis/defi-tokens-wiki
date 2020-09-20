@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T16:44:34.324Z",
+    "timestamp": "2020-09-20T16:44:44.457Z",
     "version": {
         "major": 1,
-        "minor": 881,
+        "minor": 882,
         "patch": 0
     },
     "keywords": [
@@ -5673,6 +5673,13 @@
             "name": "kitty.farm",
             "symbol": "KITTY",
             "address": "0xa112185eC9921C8d5EcADeD34f83341E5bBd0A09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFB Finance",
+            "symbol": "YFFB",
+            "address": "0x2b1B0663BbB8Fb65924fEa31A520C323F5d4D60a",
             "decimals": 18
         }
     ]
