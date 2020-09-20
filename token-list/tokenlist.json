@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:29:14.744Z",
+    "timestamp": "2020-09-20T11:37:34.243Z",
     "version": {
         "major": 1,
-        "minor": 839,
+        "minor": 840,
         "patch": 0
     },
     "keywords": [
@@ -5379,6 +5379,13 @@
             "name": "StakeHavens.Finance",
             "symbol": "YFHVM",
             "address": "0x5dBB651570F535a5f51f7758bBAc3C1620D9b92A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Kingdom token",
+            "symbol": "DFK",
+            "address": "0x90665B0e8cfedC0d77099290e381237EBa6DEceE",
             "decimals": 18
         }
     ]
