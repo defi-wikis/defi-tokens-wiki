@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T00:29:44.631Z",
+    "timestamp": "2020-09-20T00:38:34.532Z",
     "version": {
         "major": 1,
-        "minor": 785,
+        "minor": 786,
         "patch": 0
     },
     "keywords": [
@@ -5001,6 +5001,13 @@
             "name": "WHLToken",
             "symbol": "WHL",
             "address": "0x13EAC7426E6db080ca7F2FFf0CC9030f7A6d0C2b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PotatoSwap",
+            "symbol": "POTATO",
+            "address": "0x308244E87b924AD9D5Ab245651A6A4aDCAeE2e22",
             "decimals": 18
         }
     ]
