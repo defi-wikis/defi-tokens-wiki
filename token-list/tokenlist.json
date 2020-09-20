@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T15:13:44.896Z",
+    "timestamp": "2020-09-20T15:23:34.764Z",
     "version": {
         "major": 1,
-        "minor": 867,
+        "minor": 868,
         "patch": 0
     },
     "keywords": [
@@ -5575,6 +5575,13 @@
             "name": "soviet.finance",
             "symbol": "rSOV",
             "address": "0xd1C08AB7abB318d06AA1e23720479816A930F588",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deus.finance",
+            "symbol": "DEUS",
+            "address": "0x4d1e1FbC5c9a77997Fc20a463703D2E12C624D80",
             "decimals": 18
         }
     ]
