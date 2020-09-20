@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T19:01:10.533Z",
+    "timestamp": "2020-09-20T19:11:54.257Z",
     "version": {
         "major": 1,
-        "minor": 902,
+        "minor": 903,
         "patch": 0
     },
     "keywords": [
@@ -5820,6 +5820,13 @@
             "name": "YII.Finance",
             "symbol": "YII",
             "address": "0xa42A2bc10509a470A201b4eF83D4F8C99eC31ae6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFOS.finance",
+            "symbol": "YFOS",
+            "address": "0xCd254568EBF88f088E40f456db9E17731243cb25",
             "decimals": 18
         }
     ]
