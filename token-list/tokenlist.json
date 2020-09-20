@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:58:55.055Z",
+    "timestamp": "2020-09-20T23:10:59.229Z",
     "version": {
         "major": 1,
-        "minor": 935,
+        "minor": 936,
         "patch": 0
     },
     "keywords": [
@@ -6051,6 +6051,13 @@
             "name": "UseChain Token",
             "symbol": "USE",
             "address": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YIELD.FINANCE",
+            "symbol": "YFIN",
+            "address": "0xafF3D5c5EEAafEE76335A7432C5E3f7Bf63De317",
             "decimals": 18
         }
     ]
