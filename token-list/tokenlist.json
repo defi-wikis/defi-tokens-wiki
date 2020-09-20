@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T11:14:49.303Z",
+    "timestamp": "2020-09-20T11:16:44.223Z",
     "version": {
         "major": 1,
-        "minor": 836,
+        "minor": 837,
         "patch": 0
     },
     "keywords": [
@@ -5358,6 +5358,13 @@
             "name": "Curve",
             "symbol": "CRV",
             "address": "0x96Bfe646B506635c277E84AfBe07D7195f90766A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "peermountain.com",
+            "symbol": "PEERM",
+            "address": "0xbf5f785Edcc0029E5801Bd9AFE39eA49AE2B22ca",
             "decimals": 18
         }
     ]
