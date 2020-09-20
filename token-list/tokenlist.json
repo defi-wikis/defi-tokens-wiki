@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T17:08:10.168Z",
+    "timestamp": "2020-09-20T17:13:30.092Z",
     "version": {
         "major": 1,
-        "minor": 886,
+        "minor": 887,
         "patch": 0
     },
     "keywords": [
@@ -5708,6 +5708,13 @@
             "name": "goldfi.network",
             "symbol": "GFI",
             "address": "0xd39922A52a25F229Fab6C27050D23F21e28a48fF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yieldstake.finance",
+            "symbol": "YSF",
+            "address": "0x2deF2F0C15B929570954164d1dcdB1C1f7dA05e5",
             "decimals": 18
         }
     ]
