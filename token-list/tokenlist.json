@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T17:02:49.878Z",
+    "timestamp": "2020-09-20T17:08:10.168Z",
     "version": {
         "major": 1,
-        "minor": 885,
+        "minor": 886,
         "patch": 0
     },
     "keywords": [
@@ -5701,6 +5701,13 @@
             "name": "meToken",
             "symbol": "NFT",
             "address": "0xD6C889F35a35451D50899128eBE9c8B54CD1E902",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "goldfi.network",
+            "symbol": "GFI",
+            "address": "0xd39922A52a25F229Fab6C27050D23F21e28a48fF",
             "decimals": 18
         }
     ]
