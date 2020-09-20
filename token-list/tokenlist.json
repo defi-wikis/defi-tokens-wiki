@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T22:14:54.212Z",
+    "timestamp": "2020-09-20T22:19:19.899Z",
     "version": {
         "major": 1,
-        "minor": 930,
+        "minor": 931,
         "patch": 0
     },
     "keywords": [
@@ -16,27 +16,27 @@
             "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
         },
         "defi": {
-            "name": "🌈 DeFi",
-            "description": "Tokens that enable financial services using smart contracts"
+            "name": "DeFi",
+            "description": "Tokens associated with the decentralized finance movement."
         },
         "yield-farming": {
             "name": "Yield Farming",
             "description": "Tokens that are doled out as rewards for providing liquidity to protocols"
         },
         "business-services": {
-            "name": "🧳 Business Services",
-            "description": "Tokens that can be redeemed in exchange for business tokens"
+            "name": "Business Services",
+            "description": "Tokens that are redeemable for a business service"
         },
         "oracle": {
-            "name": "🔮 Oracles",
-            "description": "Tokens for protocols that provide smart contracts with external information"
+            "name": "Oracles",
+            "description": "Tokens associated with decentralized oracle infrastructure"
         },
         "dex": {
             "name": "DEX",
             "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
         },
         "exchange-based": {
-            "name": "💱 Exchange Based",
+            "name": "Exchange Based",
             "description": "Tokens that offer holders discounts on trading fees and other benefits"
         }
     },
@@ -6017,6 +6017,13 @@
             "symbol": "PoSH",
             "address": "0x685aea4F02E39E5a5BB7f7117E88DB1151F38364",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chives Finance",
+            "symbol": "CHV",
+            "address": "0x0615Eb620A85926e5A5dE8a40CCf78958FFAdb75",
+            "decimals": 14
         }
     ]
 }
