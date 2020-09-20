@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T00:29:14.254Z",
+    "timestamp": "2020-09-20T00:29:44.631Z",
     "version": {
         "major": 1,
-        "minor": 784,
+        "minor": 785,
         "patch": 0
     },
     "keywords": [
@@ -4994,6 +4994,13 @@
             "name": "Yieldhill.io",
             "symbol": "YIO",
             "address": "0x1b1E90Cb9d23C034cFD1Ed5Cf91A1810A735abd3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WHLToken",
+            "symbol": "WHL",
+            "address": "0x13EAC7426E6db080ca7F2FFf0CC9030f7A6d0C2b",
             "decimals": 18
         }
     ]
