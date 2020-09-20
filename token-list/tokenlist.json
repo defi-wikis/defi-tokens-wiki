@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T05:17:29.790Z",
+    "timestamp": "2020-09-20T05:31:49.559Z",
     "version": {
         "major": 1,
-        "minor": 810,
+        "minor": 811,
         "patch": 0
     },
     "keywords": [
@@ -5176,6 +5176,13 @@
             "name": "Zero Use Case Token",
             "symbol": "ZUCT",
             "address": "0x96b99A8f61Fc5BF7238bDb93Ba9cEe4a1a4Af1B6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "buffaloswap.finance",
+            "symbol": "BUF",
+            "address": "0x8D5B5D6C218223A93f4aD113593D199045a0e8ad",
             "decimals": 18
         }
     ]
