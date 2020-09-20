@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T05:31:49.559Z",
+    "timestamp": "2020-09-20T06:12:29.606Z",
     "version": {
         "major": 1,
-        "minor": 811,
+        "minor": 812,
         "patch": 0
     },
     "keywords": [
@@ -5183,6 +5183,13 @@
             "name": "buffaloswap.finance",
             "symbol": "BUF",
             "address": "0x8D5B5D6C218223A93f4aD113593D199045a0e8ad",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFShift.finance",
+            "symbol": "YFS",
+            "address": "0xb9B7c7907823ea5319915F98C97f1C2062716Add",
             "decimals": 18
         }
     ]
