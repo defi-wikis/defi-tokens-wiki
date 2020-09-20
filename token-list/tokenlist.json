@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T14:50:44.232Z",
+    "timestamp": "2020-09-20T14:51:24.860Z",
     "version": {
         "major": 1,
-        "minor": 863,
+        "minor": 864,
         "patch": 0
     },
     "keywords": [
@@ -5547,6 +5547,13 @@
             "name": "storeum",
             "symbol": "STO",
             "address": "0xD1410a4fc39Be5ff5CD328e3a23F382423936Ebd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Open Sesame Token",
+            "symbol": "OSST",
+            "address": "0xdC57e9B624b931aa8202F3A8d54F09fa8ce7981F",
             "decimals": 18
         }
     ]
