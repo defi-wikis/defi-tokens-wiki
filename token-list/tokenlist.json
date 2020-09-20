@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T18:55:06.323Z",
+    "timestamp": "2020-09-20T19:01:10.533Z",
     "version": {
         "major": 1,
-        "minor": 901,
+        "minor": 902,
         "patch": 0
     },
     "keywords": [
@@ -5814,6 +5814,13 @@
             "symbol": "SeFi",
             "address": "0xF898896cB46969D8E4055809708B4A30E3800191",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YII.Finance",
+            "symbol": "YII",
+            "address": "0xa42A2bc10509a470A201b4eF83D4F8C99eC31ae6",
+            "decimals": 18
         }
     ]
 }
