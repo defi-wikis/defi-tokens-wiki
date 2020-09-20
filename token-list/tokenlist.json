@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T21:36:34.523Z",
+    "timestamp": "2020-09-20T21:38:09.348Z",
     "version": {
         "major": 1,
-        "minor": 921,
+        "minor": 922,
         "patch": 0
     },
     "keywords": [
@@ -5953,6 +5953,13 @@
             "name": "legit.finance",
             "symbol": "LEGIT",
             "address": "0x0769F6Ebd95244c70E502C0cb857169d1eD0670d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dynamic Staking",
+            "symbol": "DSP",
+            "address": "0xF6f67ef1Bc228CAf77875dCf9dCac57D615CDc36",
             "decimals": 18
         }
     ]
