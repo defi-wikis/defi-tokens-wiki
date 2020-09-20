@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T05:16:59.724Z",
+    "timestamp": "2020-09-20T05:17:29.790Z",
     "version": {
         "major": 1,
-        "minor": 809,
+        "minor": 810,
         "patch": 0
     },
     "keywords": [
@@ -5169,6 +5169,13 @@
             "name": "YieldCompound.Finance",
             "symbol": "YCFI",
             "address": "0x3D1dC9008bd6341A7aEbE44058194C13c4f02B23",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zero Use Case Token",
+            "symbol": "ZUCT",
+            "address": "0x96b99A8f61Fc5BF7238bDb93Ba9cEe4a1a4Af1B6",
             "decimals": 18
         }
     ]
