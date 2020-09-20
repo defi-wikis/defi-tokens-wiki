@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T06:39:44.419Z",
+    "timestamp": "2020-09-20T06:56:09.638Z",
     "version": {
         "major": 1,
-        "minor": 815,
+        "minor": 816,
         "patch": 0
     },
     "keywords": [
@@ -5211,6 +5211,13 @@
             "name": "domeyard LP",
             "symbol": "DYLP",
             "address": "0xCA54ea5e8653E95c9804868e1efC2a82e13B6d84",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XCredit",
+            "symbol": "XFYI",
+            "address": "0x728645c761f937BA18aB00c0abA76aF9bf701Dcd",
             "decimals": 18
         }
     ]
