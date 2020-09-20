@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T01:05:34.473Z",
+    "timestamp": "2020-09-20T01:26:54.447Z",
     "version": {
         "major": 1,
-        "minor": 787,
+        "minor": 788,
         "patch": 0
     },
     "keywords": [
@@ -5015,6 +5015,13 @@
             "name": "Archangel",
             "symbol": "ARCH",
             "address": "0xe89FEEbfBc79F9AB6cbBb0231E9Fc0a1c0ad2B66",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XYearn.Finance",
+            "symbol": "XYFI",
+            "address": "0x43DAdF9423588FC18c82B666Db7f4Ff8559bf6AE",
             "decimals": 18
         }
     ]
