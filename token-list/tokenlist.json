@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T07:09:19.847Z",
+    "timestamp": "2020-09-20T07:55:14.916Z",
     "version": {
         "major": 1,
-        "minor": 818,
+        "minor": 819,
         "patch": 0
     },
     "keywords": [
@@ -5232,6 +5232,13 @@
             "name": "UniDApp",
             "symbol": "UDP",
             "address": "0xA06C78d64aDc57733bF4bE0718Fb91951f4b3c1d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nova mining token",
+            "symbol": "NMT",
+            "address": "0x040B1A7eC0ef64fCc4359aD1a26d25A0327fFC31",
             "decimals": 18
         }
     ]
