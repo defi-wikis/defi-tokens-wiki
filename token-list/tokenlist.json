@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T10:24:59.265Z",
+    "timestamp": "2020-09-20T10:30:29.548Z",
     "version": {
         "major": 1,
-        "minor": 831,
+        "minor": 832,
         "patch": 0
     },
     "keywords": [
@@ -5323,6 +5323,13 @@
             "name": "YMAX",
             "symbol": "YMAX",
             "address": "0x9e77e93D223A9e53e92a011ddd48b0d8C56c644B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YfiDropfinance",
+            "symbol": "YFD",
+            "address": "0xe815b59dD7b3619660712c683f2F9dD98D2cd776",
             "decimals": 18
         }
     ]
