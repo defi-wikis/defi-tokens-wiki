@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:58:56.076Z",
+    "timestamp": "2020-09-21T22:59:09.902Z",
     "version": {
         "major": 1,
-        "minor": 1403,
+        "minor": 1404,
         "patch": 0
     },
     "keywords": [
@@ -9155,6 +9155,14 @@
             "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc719d010b63e5bbf2c0551872cd5316ed26acd83/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Perth Mint Gold Tok",
+            "symbol": "PMGT",
+            "address": "0xAFFCDd96531bCd66faED95FC61e443D08F79eFEf",
+            "decimals": 5,
+            "logoURI": "https://tokens.dharma.io/assets/0xaffcdd96531bcd66faed95fc61e443d08f79efef/icon.png"
         }
     ]
 }
