@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T07:32:35.137Z",
+    "timestamp": "2020-09-21T07:47:59.527Z",
     "version": {
         "major": 1,
-        "minor": 1005,
+        "minor": 1006,
         "patch": 0
     },
     "keywords": [
@@ -6541,6 +6541,13 @@
             "name": "Ivan on Tech Token",
             "symbol": "IOTT",
             "address": "0x44aE1E010B08Bee63EC24548FC3738deAAD920CF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MilkToken",
+            "symbol": "MILK",
+            "address": "0xCbcC9bD65218529065847B812e1451E9968452a9",
             "decimals": 18
         }
     ]
