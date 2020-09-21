@@ -3,7 +3,5 @@
     "symbol": "SYFI",
     "address": "0x322124122DF407b0d0D902cB713B3714FB2e2E1F",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
