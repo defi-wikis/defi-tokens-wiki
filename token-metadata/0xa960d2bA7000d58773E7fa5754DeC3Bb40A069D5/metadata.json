@@ -1,0 +1,9 @@
+{
+    "name": "One DEX",
+    "symbol": "ODEX",
+    "address": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
