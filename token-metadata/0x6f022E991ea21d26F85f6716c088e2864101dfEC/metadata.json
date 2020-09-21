@@ -3,7 +3,5 @@
     "symbol": "STEEL",
     "address": "0x6f022E991ea21d26F85f6716c088e2864101dfEC",
     "decimals": 0,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
