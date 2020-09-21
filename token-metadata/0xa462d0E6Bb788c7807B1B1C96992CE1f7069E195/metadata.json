@@ -1,0 +1,9 @@
+{
+    "name": "Equus Mining Token",
+    "symbol": "EQMT",
+    "address": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
