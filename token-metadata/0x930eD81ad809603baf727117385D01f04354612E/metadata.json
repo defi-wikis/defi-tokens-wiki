@@ -3,7 +3,5 @@
     "symbol": "SOLARITE",
     "address": "0x930eD81ad809603baf727117385D01f04354612E",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
