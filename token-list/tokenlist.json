@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T11:23:24.635Z",
+    "timestamp": "2020-09-21T12:00:31.916Z",
     "version": {
         "major": 1,
-        "minor": 1025,
+        "minor": 1026,
         "patch": 0
     },
     "keywords": [
@@ -6681,6 +6681,13 @@
             "name": "Avalanche Native Token Ether",
             "symbol": "AVAX",
             "address": "0x85E7a3697850d36164629B920CdA5E414659B3bf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TENToken",
+            "symbol": "TENT",
+            "address": "0xce9d813650378d11D6661F05269D8eD6bEbB2FFA",
             "decimals": 18
         }
     ]
