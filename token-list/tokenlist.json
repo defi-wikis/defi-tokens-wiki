@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:30:56.689Z",
+    "timestamp": "2020-09-21T23:31:09.683Z",
     "version": {
         "major": 1,
-        "minor": 1564,
+        "minor": 1565,
         "patch": 0
     },
     "keywords": [
@@ -10327,6 +10327,14 @@
             "symbol": "ZOM",
             "address": "0x1a231e75538a931c395785EF5D1A5581ec622B0e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Essentia",
+            "symbol": "ESS",
+            "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfc05987bd2be489accf0f509e44b0145d68240f7/icon.png"
         }
     ]
 }
