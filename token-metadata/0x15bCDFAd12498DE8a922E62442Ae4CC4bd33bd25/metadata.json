@@ -1,0 +1,9 @@
+{
+    "name": "Walletreum",
+    "symbol": "WALT",
+    "address": "0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
