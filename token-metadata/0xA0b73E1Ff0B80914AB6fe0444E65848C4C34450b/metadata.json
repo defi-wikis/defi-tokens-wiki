@@ -1,7 +1,9 @@
 {
-    "name": "CRO",
+    "name": "Crypto com Coin",
     "symbol": "CRO",
     "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
     "decimals": 8,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
