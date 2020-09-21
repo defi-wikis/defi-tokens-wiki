@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:36:50.794Z",
+    "timestamp": "2020-09-21T22:37:02.809Z",
     "version": {
         "major": 1,
-        "minor": 1302,
+        "minor": 1303,
         "patch": 0
     },
     "keywords": [
@@ -8453,6 +8453,14 @@
             "address": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Everex",
+            "symbol": "EVX",
+            "address": "0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8/icon.png"
         }
     ]
 }
