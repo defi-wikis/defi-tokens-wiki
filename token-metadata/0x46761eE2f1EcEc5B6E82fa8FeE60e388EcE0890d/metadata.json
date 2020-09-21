@@ -1,0 +1,9 @@
+{
+    "name": "EFSANE",
+    "symbol": "EFS",
+    "address": "0x46761eE2f1EcEc5B6E82fa8FeE60e388EcE0890d",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
