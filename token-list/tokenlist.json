@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:26:11.986Z",
+    "timestamp": "2020-09-21T23:26:23.771Z",
     "version": {
         "major": 1,
-        "minor": 1538,
+        "minor": 1539,
         "patch": 0
     },
     "keywords": [
@@ -10135,6 +10135,13 @@
             "name": "YFISCURITY",
             "symbol": "YFIS",
             "address": "0x86965A86539e2446F9e72634CEfCA7983CC21a81",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Value Liquidity",
+            "symbol": "VALUE",
+            "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
             "decimals": 18
         }
     ]
