@@ -1,0 +1,9 @@
+{
+    "name": "Universal Protocol ",
+    "symbol": "UPT",
+    "address": "0x6CA88Cc8D9288f5cAD825053B6A1B179B05c76fC",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
