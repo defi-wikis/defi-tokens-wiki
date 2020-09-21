@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:18:00.371Z",
+    "timestamp": "2020-09-21T23:18:11.159Z",
     "version": {
         "major": 1,
-        "minor": 1497,
+        "minor": 1498,
         "patch": 0
     },
     "keywords": [
@@ -9838,6 +9838,14 @@
             "address": "0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dragonereum GOLD",
+            "symbol": "GOLD",
+            "address": "0x150b0b96933B75Ce27af8b92441F8fB683bF9739",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x150b0b96933b75ce27af8b92441f8fb683bf9739/icon.png"
         }
     ]
 }
