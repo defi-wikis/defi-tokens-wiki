@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:20:52.722Z",
+    "timestamp": "2020-09-21T22:21:05.855Z",
     "version": {
         "major": 1,
-        "minor": 1223,
+        "minor": 1224,
         "patch": 0
     },
     "keywords": [
@@ -239,10 +239,11 @@
         },
         {
             "chainId": 1,
-            "name": "CRO",
+            "name": "Crypto com Coin",
             "symbol": "CRO",
             "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b/icon.png"
         },
         {
             "chainId": 1,
