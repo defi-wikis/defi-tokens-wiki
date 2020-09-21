@@ -1,0 +1,9 @@
+{
+    "name": "Evedo",
+    "symbol": "EVED",
+    "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
