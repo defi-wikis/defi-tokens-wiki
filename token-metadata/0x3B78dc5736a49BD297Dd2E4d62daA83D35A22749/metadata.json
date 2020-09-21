@@ -3,5 +3,7 @@
     "symbol": "FNSP",
     "address": "0x3B78dc5736a49BD297Dd2E4d62daA83D35A22749",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
