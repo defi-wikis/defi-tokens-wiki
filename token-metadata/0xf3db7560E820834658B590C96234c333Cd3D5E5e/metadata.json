@@ -3,7 +3,5 @@
     "symbol": "CHP",
     "address": "0xf3db7560E820834658B590C96234c333Cd3D5E5e",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
