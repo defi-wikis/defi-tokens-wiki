@@ -1,0 +1,9 @@
+{
+    "name": "renBCH",
+    "symbol": "RENBCH",
+    "address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
