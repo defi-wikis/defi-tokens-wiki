@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:45:53.406Z",
+    "timestamp": "2020-09-21T23:46:05.461Z",
     "version": {
         "major": 1,
-        "minor": 1637,
+        "minor": 1638,
         "patch": 0
     },
     "keywords": [
@@ -10864,6 +10864,14 @@
             "address": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Equus Mining Token",
+            "symbol": "EQMT",
+            "address": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa462d0e6bb788c7807b1b1c96992ce1f7069e195/icon.png"
         }
     ]
 }
