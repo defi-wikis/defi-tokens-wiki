@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:59:39.425Z",
+    "timestamp": "2020-09-21T21:59:44.878Z",
     "version": {
         "major": 1,
-        "minor": 1115,
+        "minor": 1116,
         "patch": 0
     },
     "keywords": [
@@ -7200,6 +7200,13 @@
             "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x990f341946a3fdb507ae7e52d17851b87168017c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PUMPANOMICS @ pumpanomics.wixsite.com/index",
+            "symbol": "PUMP",
+            "address": "0x4666725A20A64728B543006a34Cf6F728b78817b",
+            "decimals": 18
         }
     ]
 }
