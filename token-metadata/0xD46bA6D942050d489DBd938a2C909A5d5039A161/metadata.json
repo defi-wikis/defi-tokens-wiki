@@ -1,0 +1,9 @@
+{
+    "name": "Ampleforth",
+    "symbol": "AMPL",
+    "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+    "decimals": 9,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
