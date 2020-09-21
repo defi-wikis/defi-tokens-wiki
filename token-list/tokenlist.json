@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:22:14.426Z",
+    "timestamp": "2020-09-21T22:22:27.268Z",
     "version": {
         "major": 1,
-        "minor": 1230,
+        "minor": 1231,
         "patch": 0
     },
     "keywords": [
@@ -7940,6 +7940,14 @@
             "symbol": "KATANA",
             "address": "0xe6410569602124506658Ff992F258616Ea2D4A3D",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HUNT",
+            "symbol": "HUNT",
+            "address": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5/icon.png"
         }
     ]
 }
