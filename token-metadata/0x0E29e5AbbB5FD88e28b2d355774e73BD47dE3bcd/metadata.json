@@ -1,0 +1,9 @@
+{
+    "name": "Hakka Finance",
+    "symbol": "HAKKA",
+    "address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
