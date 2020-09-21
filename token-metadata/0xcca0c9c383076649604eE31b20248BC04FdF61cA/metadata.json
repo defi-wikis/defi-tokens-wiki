@@ -3,7 +3,5 @@
     "symbol": "BTMX",
     "address": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
