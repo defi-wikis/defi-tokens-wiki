@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:45:11.298Z",
+    "timestamp": "2020-09-21T23:45:24.090Z",
     "version": {
         "major": 1,
-        "minor": 1634,
+        "minor": 1635,
         "patch": 0
     },
     "keywords": [
@@ -10840,6 +10840,14 @@
             "address": "0x3678d8CC9Eb08875A3720f34c1C8d1e1B31F5A11",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3678d8cc9eb08875a3720f34c1c8d1e1b31f5a11/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Tierion",
+            "symbol": "TNT",
+            "address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8/icon.png"
         }
     ]
 }
