@@ -1,0 +1,9 @@
+{
+    "name": "Atonomi",
+    "symbol": "ATMI",
+    "address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
