@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:29:36.009Z",
+    "timestamp": "2020-09-21T22:29:50.227Z",
     "version": {
         "major": 1,
-        "minor": 1267,
+        "minor": 1268,
         "patch": 0
     },
     "keywords": [
@@ -8208,6 +8208,14 @@
             "address": "0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x15bcdfad12498de8a922e62442ae4cc4bd33bd25/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Auctus",
+            "symbol": "AUC",
+            "address": "0xc12d099be31567add4e4e4d0D45691C3F58f5663",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc12d099be31567add4e4e4d0d45691c3f58f5663/icon.png"
         }
     ]
 }
