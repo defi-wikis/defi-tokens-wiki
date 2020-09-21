@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T18:52:29.606Z",
+    "timestamp": "2020-09-21T19:00:49.722Z",
     "version": {
         "major": 1,
-        "minor": 1064,
+        "minor": 1065,
         "patch": 0
     },
     "keywords": [
@@ -6954,6 +6954,13 @@
             "name": "Snow Network",
             "symbol": "SNOW",
             "address": "0x276f8a8c7b38D230574d1b64937549EAe0f5e5Ab",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFF finance",
+            "symbol": "YFFF",
+            "address": "0x4004CB449259F09aD13EAd8A72eb4A54D1c118E2",
             "decimals": 18
         }
     ]
