@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:51:02.590Z",
+    "timestamp": "2020-09-21T22:51:14.386Z",
     "version": {
         "major": 1,
-        "minor": 1367,
+        "minor": 1368,
         "patch": 0
     },
     "keywords": [
@@ -8914,6 +8914,14 @@
             "address": "0x3cC5EB07E0e1227613F1DF58f38b549823d11cB9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3cc5eb07e0e1227613f1df58f38b549823d11cb9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "XRP Classic",
+            "symbol": "XRPC",
+            "address": "0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183/icon.png"
         }
     ]
 }
