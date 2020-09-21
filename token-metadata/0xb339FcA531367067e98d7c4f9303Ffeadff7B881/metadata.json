@@ -3,7 +3,5 @@
     "symbol": "ALD",
     "address": "0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
