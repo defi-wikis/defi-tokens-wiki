@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:07:02.251Z",
+    "timestamp": "2020-09-21T22:07:14.584Z",
     "version": {
         "major": 1,
-        "minor": 1152,
+        "minor": 1153,
         "patch": 0
     },
     "keywords": [
@@ -7453,6 +7453,14 @@
             "symbol": "NTS",
             "address": "0x3dfeaF13a6615e560Aecc5648Ace8FA50d7cF6bF",
             "decimals": 12
+        },
+        {
+            "chainId": 1,
+            "name": "Fysical",
+            "symbol": "FYS",
+            "address": "0x587E276Dc7F2C97d986E8AdF9b82D3F14D6cd8d2",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x587e276dc7f2c97d986e8adf9b82d3f14d6cd8d2/icon.png"
         }
     ]
 }
