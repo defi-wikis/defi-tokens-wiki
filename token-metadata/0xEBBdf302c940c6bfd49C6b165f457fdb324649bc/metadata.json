@@ -1,0 +1,9 @@
+{
+    "name": "Hydro",
+    "symbol": "HYDRO",
+    "address": "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
