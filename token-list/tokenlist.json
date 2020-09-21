@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:56:06.289Z",
+    "timestamp": "2020-09-21T23:56:19.645Z",
     "version": {
         "major": 1,
-        "minor": 1689,
+        "minor": 1690,
         "patch": 0
     },
     "keywords": [
@@ -11251,6 +11251,14 @@
             "address": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Trendering",
+            "symbol": "TRND",
+            "address": "0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb/icon.png"
         }
     ]
 }
