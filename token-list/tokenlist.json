@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:31:41.296Z",
+    "timestamp": "2020-09-21T22:31:55.140Z",
     "version": {
         "major": 1,
-        "minor": 1277,
+        "minor": 1278,
         "patch": 0
     },
     "keywords": [
@@ -8280,6 +8280,14 @@
             "address": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3aef8e803bd9be47e69b9f36487748d30d940b96/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dent",
+            "symbol": "DENT",
+            "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x3597bfd533a99c9aa083587b074434e61eb0a258/icon.png"
         }
     ]
 }
