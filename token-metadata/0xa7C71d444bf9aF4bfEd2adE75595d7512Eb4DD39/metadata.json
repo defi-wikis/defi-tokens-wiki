@@ -3,7 +3,5 @@
     "symbol": "T1C",
     "address": "0xa7C71d444bf9aF4bfEd2adE75595d7512Eb4DD39",
     "decimals": 16,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
