@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:59:10.486Z",
+    "timestamp": "2020-09-21T23:59:19.216Z",
     "version": {
         "major": 1,
-        "minor": 1705,
+        "minor": 1706,
         "patch": 0
     },
     "keywords": [
@@ -11375,6 +11375,13 @@
             "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8a854288a5976036a725879164ca3e91d30c6a1b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Blue Baikal",
+            "symbol": "BBC",
+            "address": "0x675Ce995953136814cb05aaAA5d02327E7Dc8c93",
+            "decimals": 18
         }
     ]
 }
