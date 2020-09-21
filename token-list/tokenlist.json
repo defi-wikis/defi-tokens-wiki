@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:39:53.816Z",
+    "timestamp": "2020-09-21T23:40:03.397Z",
     "version": {
         "major": 1,
-        "minor": 1608,
+        "minor": 1609,
         "patch": 0
     },
     "keywords": [
@@ -10651,6 +10651,13 @@
             "address": "0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xbdc5bac39dbe132b1e030e898ae3830017d7d969/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Useless Eth Token L",
+            "symbol": "UETL",
+            "address": "0xa5a283557653f36cf9aA0d5cC74B1e30422349f2",
+            "decimals": 8
         }
     ]
 }
