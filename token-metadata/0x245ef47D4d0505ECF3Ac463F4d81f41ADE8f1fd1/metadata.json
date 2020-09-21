@@ -1,0 +1,9 @@
+{
+    "name": "Nuggets",
+    "symbol": "NUG",
+    "address": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
