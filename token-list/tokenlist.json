@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:02:31.007Z",
+    "timestamp": "2020-09-21T23:02:41.330Z",
     "version": {
         "major": 1,
-        "minor": 1419,
+        "minor": 1420,
         "patch": 0
     },
     "keywords": [
@@ -9280,6 +9280,13 @@
             "address": "0x4c1C4957D22D8F373aeD54d0853b090666F6F9De",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4c1c4957d22d8f373aed54d0853b090666f6f9de/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "VEY",
+            "symbol": "VEY",
+            "address": "0x70A63225BcaDacc4430919F0C1A4f0f5fcffBaac",
+            "decimals": 4
         }
     ]
 }
