@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:05:39.251Z",
+    "timestamp": "2020-09-21T23:05:51.620Z",
     "version": {
         "major": 1,
-        "minor": 1435,
+        "minor": 1436,
         "patch": 0
     },
     "keywords": [
@@ -9397,6 +9397,14 @@
             "address": "0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xaf1250fa68d7decd34fd75de8742bc03b29bd58e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Shrimp Finance",
+            "symbol": "SHRIMP",
+            "address": "0x38c4102D11893351cED7eF187fCF43D33eb1aBE6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x38c4102d11893351ced7ef187fcf43d33eb1abe6/icon.png"
         }
     ]
 }
