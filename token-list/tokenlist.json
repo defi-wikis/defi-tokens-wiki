@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:19:58.427Z",
+    "timestamp": "2020-09-21T23:20:10.509Z",
     "version": {
         "major": 1,
-        "minor": 1507,
+        "minor": 1508,
         "patch": 0
     },
     "keywords": [
@@ -9910,6 +9910,14 @@
             "address": "0xD6c67B93a7b248dF608a653d82a100556144c5DA",
             "decimals": 16,
             "logoURI": "https://tokens.dharma.io/assets/0xd6c67b93a7b248df608a653d82a100556144c5da/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Verasity",
+            "symbol": "VRA",
+            "address": "0xdF1D6405df92d981a2fB3ce68F6A03baC6C0E41F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f/icon.png"
         }
     ]
 }
