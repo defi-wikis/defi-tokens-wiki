@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:42:23.360Z",
+    "timestamp": "2020-09-21T23:42:35.282Z",
     "version": {
         "major": 1,
-        "minor": 1621,
+        "minor": 1622,
         "patch": 0
     },
     "keywords": [
@@ -10753,6 +10753,14 @@
             "address": "0x95bA34760ac3D7fBE98ee8b2AB33b4F1a6D18878",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Falcon Project",
+            "symbol": "FNT",
+            "address": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xdc5864ede28bd4405aa04d93e05a0531797d9d59/icon.png"
         }
     ]
 }
