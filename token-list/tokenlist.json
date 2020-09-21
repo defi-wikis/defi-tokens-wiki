@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:39:03.127Z",
+    "timestamp": "2020-09-21T23:39:14.063Z",
     "version": {
         "major": 1,
-        "minor": 1604,
+        "minor": 1605,
         "patch": 0
     },
     "keywords": [
@@ -10620,6 +10620,13 @@
             "address": "0x3C6ff50c9Ec362efa359317009428d52115fe643",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3c6ff50c9ec362efa359317009428d52115fe643/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AceWins",
+            "symbol": "ACW",
+            "address": "0xD29FA4B8Cc936a68BB560b19eED969EbfDBaA565",
+            "decimals": 10
         }
     ]
 }
