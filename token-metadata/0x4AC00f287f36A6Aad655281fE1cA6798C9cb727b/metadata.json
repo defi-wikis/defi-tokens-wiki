@@ -3,7 +3,5 @@
     "symbol": "GZE",
     "address": "0x4AC00f287f36A6Aad655281fE1cA6798C9cb727b",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
