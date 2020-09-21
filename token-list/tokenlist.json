@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:12:28.936Z",
+    "timestamp": "2020-09-21T23:12:40.227Z",
     "version": {
         "major": 1,
-        "minor": 1468,
+        "minor": 1469,
         "patch": 0
     },
     "keywords": [
@@ -9628,6 +9628,14 @@
             "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x066798d9ef0833ccc719076dab77199ecbd178b0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hakka Finance",
+            "symbol": "HAKKA",
+            "address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd/icon.png"
         }
     ]
 }
