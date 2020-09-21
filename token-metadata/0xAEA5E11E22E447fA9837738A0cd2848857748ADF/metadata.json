@@ -1,0 +1,9 @@
+{
+    "name": "Social Finance",
+    "symbol": "SOFI",
+    "address": "0xAEA5E11E22E447fA9837738A0cd2848857748ADF",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
