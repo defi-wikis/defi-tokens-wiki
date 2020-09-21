@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:23:36.802Z",
+    "timestamp": "2020-09-21T23:23:48.637Z",
     "version": {
         "major": 1,
-        "minor": 1525,
+        "minor": 1526,
         "patch": 0
     },
     "keywords": [
@@ -10042,6 +10042,14 @@
             "symbol": "VRTN",
             "address": "0x24e96809B4E720Ea911bc3De8341400E26d6E994",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bizkey",
+            "symbol": "BZKY",
+            "address": "0xd28cFec79dB8d0A225767D06140aee280718AB7E",
+            "decimals": 16,
+            "logoURI": "https://tokens.dharma.io/assets/0xd28cfec79db8d0a225767d06140aee280718ab7e/icon.png"
         }
     ]
 }
