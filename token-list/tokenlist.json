@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:14:53.229Z",
+    "timestamp": "2020-09-21T22:15:01.553Z",
     "version": {
         "major": 1,
-        "minor": 1191,
+        "minor": 1192,
         "patch": 0
     },
     "keywords": [
@@ -7707,6 +7707,13 @@
             "address": "0x4A42d2c580f83dcE404aCad18dab26Db11a1750E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4a42d2c580f83dce404acad18dab26db11a1750e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AFRICUNIA BANK",
+            "symbol": "AFCASH",
+            "address": "0xb8a5dBa52FE8A0Dd737Bf15ea5043CEA30c7e30B",
+            "decimals": 18
         }
     ]
 }
