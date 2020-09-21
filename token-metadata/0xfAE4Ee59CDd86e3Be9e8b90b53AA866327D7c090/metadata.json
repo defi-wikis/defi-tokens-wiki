@@ -1,0 +1,9 @@
+{
+    "name": "CPChain",
+    "symbol": "CPC",
+    "address": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
