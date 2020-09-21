@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:56:44.532Z",
+    "timestamp": "2020-09-21T23:56:54.577Z",
     "version": {
         "major": 1,
-        "minor": 1692,
+        "minor": 1693,
         "patch": 0
     },
     "keywords": [
@@ -11275,6 +11275,13 @@
             "address": "0x05D412CE18F24040bB3Fa45CF2C69e506586D8e8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x05d412ce18f24040bb3fa45cf2c69e506586d8e8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Zeb Token",
+            "symbol": "ZEB",
+            "address": "0xee98A5c3FD8c9063C5D8777758d3901a88df957b",
+            "decimals": 18
         }
     ]
 }
