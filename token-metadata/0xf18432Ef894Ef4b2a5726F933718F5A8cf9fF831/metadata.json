@@ -3,7 +3,5 @@
     "symbol": "BIO",
     "address": "0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
