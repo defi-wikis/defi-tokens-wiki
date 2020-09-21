@@ -1,7 +1,9 @@
 {
-    "name": "Compound Sai",
+    "name": "cSAI",
     "symbol": "CSAI",
     "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
     "decimals": 8,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
