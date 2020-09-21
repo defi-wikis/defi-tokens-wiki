@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:40:03.397Z",
+    "timestamp": "2020-09-21T23:40:15.058Z",
     "version": {
         "major": 1,
-        "minor": 1609,
+        "minor": 1610,
         "patch": 0
     },
     "keywords": [
@@ -10658,6 +10658,14 @@
             "symbol": "UETL",
             "address": "0xa5a283557653f36cf9aA0d5cC74B1e30422349f2",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Jinbi Token",
+            "symbol": "JNB",
+            "address": "0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x21d5a14e625d767ce6b7a167491c2d18e0785fda/icon.png"
         }
     ]
 }
