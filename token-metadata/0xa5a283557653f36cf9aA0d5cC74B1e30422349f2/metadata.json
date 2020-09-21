@@ -3,7 +3,5 @@
     "symbol": "UETL",
     "address": "0xa5a283557653f36cf9aA0d5cC74B1e30422349f2",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
