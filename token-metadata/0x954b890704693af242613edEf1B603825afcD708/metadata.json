@@ -3,7 +3,5 @@
     "symbol": "CARD",
     "address": "0x954b890704693af242613edEf1B603825afcD708",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
