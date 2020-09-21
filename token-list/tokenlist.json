@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T11:16:25.043Z",
+    "timestamp": "2020-09-21T11:23:24.635Z",
     "version": {
         "major": 1,
-        "minor": 1024,
+        "minor": 1025,
         "patch": 0
     },
     "keywords": [
@@ -6674,6 +6674,13 @@
             "name": "DarkDuck",
             "symbol": "dDuck",
             "address": "0x2BF52f23D8A63272385841A587a05E9e7eeac405",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Avalanche Native Token Ether",
+            "symbol": "AVAX",
+            "address": "0x85E7a3697850d36164629B920CdA5E414659B3bf",
             "decimals": 18
         }
     ]
