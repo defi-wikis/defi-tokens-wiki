@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:33:59.170Z",
+    "timestamp": "2020-09-21T23:34:10.676Z",
     "version": {
         "major": 1,
-        "minor": 1579,
+        "minor": 1580,
         "patch": 0
     },
     "keywords": [
@@ -10438,6 +10438,13 @@
             "address": "0x8888889213DD4dA823EbDD1e235b09590633C150",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8888889213dd4da823ebdd1e235b09590633c150/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Baz Token",
+            "symbol": "BAZT",
+            "address": "0xB020eD54651831878E5C967e0953A900786178f9",
+            "decimals": 18
         }
     ]
 }
