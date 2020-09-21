@@ -1,0 +1,9 @@
+{
+    "name": "Katana Finance",
+    "symbol": "KATANA",
+    "address": "0xe6410569602124506658Ff992F258616Ea2D4A3D",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
