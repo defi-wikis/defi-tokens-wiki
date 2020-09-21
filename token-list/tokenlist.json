@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T13:28:15.466Z",
+    "timestamp": "2020-09-21T13:30:50.073Z",
     "version": {
         "major": 1,
-        "minor": 1035,
+        "minor": 1036,
         "patch": 0
     },
     "keywords": [
@@ -6751,6 +6751,13 @@
             "name": "trustdefi.network",
             "symbol": "TDF",
             "address": "0x4771988a6661c2016B17F35D7216f502C0166724",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "defito.finance",
+            "symbol": "DTO",
+            "address": "0x56ef04219a6Afe82fA298023364ecfd84f137259",
             "decimals": 18
         }
     ]
