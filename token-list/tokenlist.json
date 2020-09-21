@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:16:56.955Z",
+    "timestamp": "2020-09-21T23:17:08.986Z",
     "version": {
         "major": 1,
-        "minor": 1491,
+        "minor": 1492,
         "patch": 0
     },
     "keywords": [
@@ -9793,6 +9793,13 @@
             "address": "0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8578530205cecbe5db83f7f29ecfeec860c297c2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Covid19",
+            "symbol": "CVD",
+            "address": "0x6B466B0232640382950c45440Ea5b630744eCa99",
+            "decimals": 0
         }
     ]
 }
