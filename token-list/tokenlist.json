@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:28:31.948Z",
+    "timestamp": "2020-09-21T23:28:39.317Z",
     "version": {
         "major": 1,
-        "minor": 1549,
+        "minor": 1550,
         "patch": 0
     },
     "keywords": [
@@ -10214,6 +10214,13 @@
             "address": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x607c794cda77efb21f8848b7910ecf27451ae842/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFIO Protocol",
+            "symbol": "YFIO",
+            "address": "0x0A7C231BEFfa38660D46193eCC8FcB41f7c557aC",
+            "decimals": 18
         }
     ]
 }
