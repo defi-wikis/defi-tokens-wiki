@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-20T23:44:54.612Z",
+    "timestamp": "2020-09-21T00:06:09.762Z",
     "version": {
         "major": 1,
-        "minor": 939,
+        "minor": 940,
         "patch": 0
     },
     "keywords": [
@@ -6079,6 +6079,13 @@
             "name": "defi.farm",
             "symbol": "DFARM",
             "address": "0x2ab62e351c03087727aaE8CCD45bf484a8217998",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Contribute",
+            "symbol": "TRIB",
+            "address": "0xe09216F1d343Dd39D6Aa732a08036fee48555Af0",
             "decimals": 18
         }
     ]
