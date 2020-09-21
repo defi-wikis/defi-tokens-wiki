@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:03:38.944Z",
+    "timestamp": "2020-09-21T23:03:49.737Z",
     "version": {
         "major": 1,
-        "minor": 1425,
+        "minor": 1426,
         "patch": 0
     },
     "keywords": [
@@ -9318,6 +9318,14 @@
             "symbol": "BGTT",
             "address": "0x7a545Ed3863221A974F327199Ac22F7f12535F11",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Monolith",
+            "symbol": "TKN",
+            "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xaaaf91d9b90df800df4f55c205fd6989c977e73a/icon.png"
         }
     ]
 }
