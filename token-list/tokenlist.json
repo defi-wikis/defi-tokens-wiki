@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:40:34.352Z",
+    "timestamp": "2020-09-21T22:40:47.836Z",
     "version": {
         "major": 1,
-        "minor": 1316,
+        "minor": 1317,
         "patch": 0
     },
     "keywords": [
@@ -8563,6 +8563,14 @@
             "address": "0x1961B3331969eD52770751fC718ef530838b6dEE",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1961b3331969ed52770751fc718ef530838b6dee/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Autonio",
+            "symbol": "NIOX",
+            "address": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xc813ea5e3b48bebeedb796ab42a30c5599b01740/icon.png"
         }
     ]
 }
