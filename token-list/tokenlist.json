@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:58:44.127Z",
+    "timestamp": "2020-09-21T22:58:56.076Z",
     "version": {
         "major": 1,
-        "minor": 1402,
+        "minor": 1403,
         "patch": 0
     },
     "keywords": [
@@ -9147,6 +9147,14 @@
             "address": "0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xba8c0244fbdeb10f19f6738750daeedf7a5081eb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Etherisc DIP Token",
+            "symbol": "DIP",
+            "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc719d010b63e5bbf2c0551872cd5316ed26acd83/icon.png"
         }
     ]
 }
