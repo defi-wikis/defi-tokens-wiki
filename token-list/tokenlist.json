@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:23:46.859Z",
+    "timestamp": "2020-09-21T22:23:57.459Z",
     "version": {
         "major": 1,
-        "minor": 1237,
+        "minor": 1238,
         "patch": 0
     },
     "keywords": [
@@ -7989,6 +7989,14 @@
             "address": "0x5Af2Be193a6ABCa9c8817001F45744777Db30756",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x5af2be193a6abca9c8817001f45744777db30756/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "NEXO",
+            "symbol": "NEXO",
+            "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206/icon.png"
         }
     ]
 }
