@@ -3,7 +3,5 @@
     "symbol": "MNE",
     "address": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
