@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:09:49.481Z",
+    "timestamp": "2020-09-21T23:09:59.442Z",
     "version": {
         "major": 1,
-        "minor": 1456,
+        "minor": 1457,
         "patch": 0
     },
     "keywords": [
@@ -9535,6 +9535,13 @@
             "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8762db106b2c2a0bccb3a80d1ed41273552616e8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi of Thrones",
+            "symbol": "DOTX",
+            "address": "0xFAb5a05C933f1A2463E334E011992E897D56eF0a",
+            "decimals": 18
         }
     ]
 }
