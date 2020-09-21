@@ -3,7 +3,5 @@
     "symbol": "RARI",
     "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
