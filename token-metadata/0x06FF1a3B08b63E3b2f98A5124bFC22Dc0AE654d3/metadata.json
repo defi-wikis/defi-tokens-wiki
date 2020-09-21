@@ -1,7 +1,9 @@
 {
-    "name": "KASSIAHOTEL",
+    "name": "Atlas",
     "symbol": "KASSIAHOTEL",
     "address": "0x06FF1a3B08b63E3b2f98A5124bFC22Dc0AE654d3",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
