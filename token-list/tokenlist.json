@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:23:48.637Z",
+    "timestamp": "2020-09-21T23:24:02.073Z",
     "version": {
         "major": 1,
-        "minor": 1526,
+        "minor": 1527,
         "patch": 0
     },
     "keywords": [
@@ -10050,6 +10050,14 @@
             "address": "0xd28cFec79dB8d0A225767D06140aee280718AB7E",
             "decimals": 16,
             "logoURI": "https://tokens.dharma.io/assets/0xd28cfec79db8d0a225767d06140aee280718ab7e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Serum",
+            "symbol": "SRM",
+            "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff/icon.png"
         }
     ]
 }
