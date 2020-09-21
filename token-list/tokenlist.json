@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T04:10:49.753Z",
+    "timestamp": "2020-09-21T04:19:54.133Z",
     "version": {
         "major": 1,
-        "minor": 973,
+        "minor": 974,
         "patch": 0
     },
     "keywords": [
@@ -6317,6 +6317,13 @@
             "name": "BigDumbCoin",
             "symbol": "BigDumbCoin",
             "address": "0x4b87bbB2BBF04185b2510dd880a2B308d124dAcE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HyperPay",
+            "symbol": "hHPY",
+            "address": "0x0dB02E277d4364136623E9aDE2E2e5F06202ad11",
             "decimals": 18
         }
     ]
