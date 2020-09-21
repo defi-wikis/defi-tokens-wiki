@@ -1,0 +1,9 @@
+{
+    "name": "Pantos",
+    "symbol": "PAN",
+    "address": "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
