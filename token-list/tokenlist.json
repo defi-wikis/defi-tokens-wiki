@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:37:44.606Z",
+    "timestamp": "2020-09-21T21:43:54.017Z",
     "version": {
         "major": 1,
-        "minor": 1113,
+        "minor": 1114,
         "patch": 0
     },
     "keywords": [
@@ -7184,6 +7184,13 @@
             "name": "CYCLOPS TREASURE",
             "symbol": "CYTR",
             "address": "0xBD05CeE8741100010D8E93048a80Ed77645ac7bf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "republic.co",
+            "symbol": "Republic Note",
+            "address": "0xb1A6F109528DC465E17D6B255E0E2B639843c413",
             "decimals": 18
         }
     ]
