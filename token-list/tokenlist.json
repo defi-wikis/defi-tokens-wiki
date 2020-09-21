@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:31:20.210Z",
+    "timestamp": "2020-09-21T23:31:31.432Z",
     "version": {
         "major": 1,
-        "minor": 1566,
+        "minor": 1567,
         "patch": 0
     },
     "keywords": [
@@ -10342,6 +10342,14 @@
             "symbol": "ETY",
             "address": "0x5aCD07353106306a6530ac4D49233271Ec372963",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Timvi",
+            "symbol": "TMV",
+            "address": "0x5abFd418AdB35e89c68313574eB16BdfFc15e607",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5abfd418adb35e89c68313574eb16bdffc15e607/icon.png"
         }
     ]
 }
