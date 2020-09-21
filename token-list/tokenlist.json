@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:48:22.727Z",
+    "timestamp": "2020-09-21T23:48:36.457Z",
     "version": {
         "major": 1,
-        "minor": 1649,
+        "minor": 1650,
         "patch": 0
     },
     "keywords": [
@@ -10960,6 +10960,14 @@
             "address": "0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UniTopia Token",
+            "symbol": "UTO",
+            "address": "0x1F8f123bf24849443a56eD9fC42b9265b7F3A39a",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1f8f123bf24849443a56ed9fc42b9265b7f3a39a/icon.png"
         }
     ]
 }
