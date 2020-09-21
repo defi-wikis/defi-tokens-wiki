@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:59:31.227Z",
+    "timestamp": "2020-09-21T23:59:39.886Z",
     "version": {
         "major": 1,
-        "minor": 1707,
+        "minor": 1708,
         "patch": 0
     },
     "keywords": [
@@ -11390,6 +11390,13 @@
             "address": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UCROWDME",
+            "symbol": "UCM",
+            "address": "0x722f97A435278B7383a1e3c47F41773bebF3232C",
+            "decimals": 18
         }
     ]
 }
