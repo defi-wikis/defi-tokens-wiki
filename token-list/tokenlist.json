@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:43:18.046Z",
+    "timestamp": "2020-09-21T22:43:30.052Z",
     "version": {
         "major": 1,
-        "minor": 1329,
+        "minor": 1330,
         "patch": 0
     },
     "keywords": [
@@ -8641,6 +8641,14 @@
             "address": "0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A",
             "decimals": 16,
             "logoURI": "https://tokens.dharma.io/assets/0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "sXMR",
+            "symbol": "SXMR",
+            "address": "0x5299d6F7472DCc137D7f3C4BcfBBB514BaBF341A",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a/icon.png"
         }
     ]
 }
