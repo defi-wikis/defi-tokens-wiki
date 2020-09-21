@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T04:24:34.703Z",
+    "timestamp": "2020-09-21T04:35:24.262Z",
     "version": {
         "major": 1,
-        "minor": 975,
+        "minor": 976,
         "patch": 0
     },
     "keywords": [
@@ -6331,6 +6331,13 @@
             "name": "unicat.farm",
             "symbol": "MEOW",
             "address": "0xD261922165Beb41720729c86E299f8C1A3BDB9e4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "kan.finance",
+            "symbol": "KAN",
+            "address": "0x39BB13e5027Ad9E5BA12bccA7D9c5675303D90f3",
             "decimals": 18
         }
     ]
