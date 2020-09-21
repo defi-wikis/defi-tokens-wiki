@@ -3,7 +3,5 @@
     "symbol": "SNGJ",
     "address": "0x249f71F8D9dA86c60f485E021b509A206667A079",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
