@@ -1,7 +1,9 @@
 {
-    "name": "EthLend Token",
+    "name": "Aave",
     "symbol": "LEND",
     "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
