@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:03:49.737Z",
+    "timestamp": "2020-09-21T23:04:04.990Z",
     "version": {
         "major": 1,
-        "minor": 1426,
+        "minor": 1427,
         "patch": 0
     },
     "keywords": [
@@ -9326,6 +9326,14 @@
             "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xaaaf91d9b90df800df4f55c205fd6989c977e73a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "carVertical",
+            "symbol": "CV",
+            "address": "0xdA6cb58A0D0C01610a29c5A65c303e13e885887C",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xda6cb58a0d0c01610a29c5a65c303e13e885887c/icon.png"
         }
     ]
 }
