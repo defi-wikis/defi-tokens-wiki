@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:09:43.783Z",
+    "timestamp": "2020-09-21T22:09:58.251Z",
     "version": {
         "major": 1,
-        "minor": 1165,
+        "minor": 1166,
         "patch": 0
     },
     "keywords": [
@@ -7545,6 +7545,14 @@
             "symbol": "SYLO",
             "address": "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "One DEX",
+            "symbol": "ODEX",
+            "address": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa960d2ba7000d58773e7fa5754dec3bb40a069d5/icon.png"
         }
     ]
 }
