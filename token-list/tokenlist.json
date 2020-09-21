@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T20:28:01.276Z",
+    "timestamp": "2020-09-21T20:29:06.402Z",
     "version": {
         "major": 1,
-        "minor": 1092,
+        "minor": 1093,
         "patch": 0
     },
     "keywords": [
@@ -7055,6 +7055,13 @@
             "name": "Pig.Finance",
             "symbol": "PIG",
             "address": "0xa7f39334347602504660dafefaAFF1776C98Eaf1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wildy",
+            "symbol": "$WILDY",
+            "address": "0x3D4A076a01b303259046B548c8D759a1c77c32Fa",
             "decimals": 18
         }
     ]
