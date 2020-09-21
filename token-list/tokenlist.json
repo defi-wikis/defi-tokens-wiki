@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:00:43.896Z",
+    "timestamp": "2020-09-21T22:00:57.365Z",
     "version": {
         "major": 1,
-        "minor": 1120,
+        "minor": 1121,
         "patch": 0
     },
     "keywords": [
@@ -7231,6 +7231,14 @@
             "address": "0x6F02055E3541DD74A1aBD8692116c22fFAFaDc5D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6f02055e3541dd74a1abd8692116c22ffafadc5d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ITO Utility Token",
+            "symbol": "IUT",
+            "address": "0xD36a0e7b741542208aE0fBb35453C893D0136625",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0xd36a0e7b741542208ae0fbb35453c893d0136625/icon.png"
         }
     ]
 }
