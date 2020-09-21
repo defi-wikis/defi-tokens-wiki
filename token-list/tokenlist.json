@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:36:25.081Z",
+    "timestamp": "2020-09-21T22:36:38.303Z",
     "version": {
         "major": 1,
-        "minor": 1300,
+        "minor": 1301,
         "patch": 0
     },
     "keywords": [
@@ -8437,6 +8437,14 @@
             "address": "0x70a72833d6bF7F508C8224CE59ea1Ef3d0Ea3A38",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Keep Network",
+            "symbol": "KEEP",
+            "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec/icon.png"
         }
     ]
 }
