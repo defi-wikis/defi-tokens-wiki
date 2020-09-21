@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:14:03.808Z",
+    "timestamp": "2020-09-21T21:14:22.903Z",
     "version": {
         "major": 1,
-        "minor": 1101,
+        "minor": 1102,
         "patch": 0
     },
     "keywords": [
@@ -7109,6 +7109,14 @@
             "address": "0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7c9d8fb3bde3d9ea6e89170618c2dc3d16695d36/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TimeMiner",
+            "symbol": "TIME",
+            "address": "0xA54C67bd320Da4F9725a6f585b7635a0c09B122e",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xa54c67bd320da4f9725a6f585b7635a0c09b122e/icon.png"
         }
     ]
 }
