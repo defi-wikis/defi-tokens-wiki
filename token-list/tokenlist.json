@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:58:59.153Z",
+    "timestamp": "2020-09-21T23:59:10.486Z",
     "version": {
         "major": 1,
-        "minor": 1704,
+        "minor": 1705,
         "patch": 0
     },
     "keywords": [
@@ -11367,6 +11367,14 @@
             "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "GET Protocol",
+            "symbol": "GET",
+            "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8a854288a5976036a725879164ca3e91d30c6a1b/icon.png"
         }
     ]
 }
