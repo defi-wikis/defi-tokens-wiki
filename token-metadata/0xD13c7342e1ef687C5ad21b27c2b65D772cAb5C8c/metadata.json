@@ -1,0 +1,9 @@
+{
+    "name": "Ultra",
+    "symbol": "UOS",
+    "address": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
+    "decimals": 4,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
