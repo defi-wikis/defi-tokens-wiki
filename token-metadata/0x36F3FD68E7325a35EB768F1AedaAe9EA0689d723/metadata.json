@@ -3,7 +3,5 @@
     "symbol": "ESD",
     "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
