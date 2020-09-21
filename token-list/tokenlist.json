@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:53:04.434Z",
+    "timestamp": "2020-09-21T23:53:13.313Z",
     "version": {
         "major": 1,
-        "minor": 1672,
+        "minor": 1673,
         "patch": 0
     },
     "keywords": [
@@ -4385,7 +4385,7 @@
         },
         {
             "chainId": 1,
-            "name": "Trustlines Network Token",
+            "name": "Trustlines Network",
             "symbol": "TLN",
             "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
             "decimals": 18
