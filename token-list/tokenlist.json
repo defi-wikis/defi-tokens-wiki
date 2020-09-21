@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:43:33.517Z",
+    "timestamp": "2020-09-21T23:43:45.739Z",
     "version": {
         "major": 1,
-        "minor": 1627,
+        "minor": 1628,
         "patch": 0
     },
     "keywords": [
@@ -10793,6 +10793,13 @@
             "address": "0xF02DAB52205aFf6Bb3d47Cc7B21624a5064F9FBA",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xf02dab52205aff6bb3d47cc7b21624a5064f9fba/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Breeder DAO",
+            "symbol": "YBREE",
+            "address": "0x11F4C6B3E8F50c50935c7889EDc56C96F41B5399",
+            "decimals": 18
         }
     ]
 }
