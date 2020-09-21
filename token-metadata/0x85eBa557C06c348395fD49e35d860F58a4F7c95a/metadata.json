@@ -3,7 +3,5 @@
     "symbol": "H3X",
     "address": "0x85eBa557C06c348395fD49e35d860F58a4F7c95a",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
