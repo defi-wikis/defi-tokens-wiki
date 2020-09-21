@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:04:00.336Z",
+    "timestamp": "2020-09-21T22:04:11.334Z",
     "version": {
         "major": 1,
-        "minor": 1137,
+        "minor": 1138,
         "patch": 0
     },
     "keywords": [
@@ -7354,6 +7354,14 @@
             "symbol": "JEX",
             "address": "0xfF98a08c143311719cA492e4B8C950C940f26872",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Xiotri",
+            "symbol": "XIOT",
+            "address": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+            "decimals": 3,
+            "logoURI": "https://tokens.dharma.io/assets/0x31024a4c3e9aeeb256b825790f5cb7ac645e7cd5/icon.png"
         }
     ]
 }
