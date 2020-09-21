@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:41:35.025Z",
+    "timestamp": "2020-09-21T23:41:47.141Z",
     "version": {
         "major": 1,
-        "minor": 1617,
+        "minor": 1618,
         "patch": 0
     },
     "keywords": [
@@ -10721,6 +10721,14 @@
             "address": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Civic",
+            "symbol": "CVC",
+            "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x41e5560054824ea6b0732e656e3ad64e20e94e45/icon.png"
         }
     ]
 }
