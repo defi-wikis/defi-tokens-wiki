@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T01:22:06.439Z",
+    "timestamp": "2020-09-21T01:42:29.430Z",
     "version": {
         "major": 1,
-        "minor": 950,
+        "minor": 951,
         "patch": 0
     },
     "keywords": [
@@ -6156,6 +6156,13 @@
             "name": "Bridge",
             "symbol": "BGN",
             "address": "0xD15585D010b6EAf21A6681d3cF3C71f1AaA353fa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniCat.farm",
+            "symbol": "MEOW",
+            "address": "0xEc13f3c54Feebfb0601934c9Ff70A61Ba8a8Ed8f",
             "decimals": 18
         }
     ]
