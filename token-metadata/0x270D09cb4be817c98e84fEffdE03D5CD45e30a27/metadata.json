@@ -1,0 +1,9 @@
+{
+    "name": "Maki Finance",
+    "symbol": "MAKI",
+    "address": "0x270D09cb4be817c98e84fEffdE03D5CD45e30a27",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
