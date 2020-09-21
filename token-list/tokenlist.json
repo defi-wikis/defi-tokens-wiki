@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:49:50.336Z",
+    "timestamp": "2020-09-21T22:50:00.943Z",
     "version": {
         "major": 1,
-        "minor": 1361,
+        "minor": 1362,
         "patch": 0
     },
     "keywords": [
@@ -8875,6 +8875,13 @@
             "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MONEY PARTY",
+            "symbol": "PARTY",
+            "address": "0x314bD765cAB4774b2E547eB0aA15013e03FF74d2",
+            "decimals": 6
         }
     ]
 }
