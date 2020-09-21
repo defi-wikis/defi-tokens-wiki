@@ -3,7 +3,5 @@
     "symbol": "PAR",
     "address": "0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
