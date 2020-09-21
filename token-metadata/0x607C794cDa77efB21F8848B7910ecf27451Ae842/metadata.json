@@ -3,7 +3,5 @@
     "symbol": "PIE",
     "address": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
