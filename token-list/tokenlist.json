@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:20:14.817Z",
+    "timestamp": "2020-09-21T19:21:06.637Z",
     "version": {
         "major": 1,
-        "minor": 1066,
+        "minor": 1067,
         "patch": 0
     },
     "keywords": [
@@ -6969,6 +6969,13 @@
             "symbol": "MCT",
             "address": "0xB55A690461ba323D3d0C1c462D6772eB0983Cc18",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Bit2",
+            "symbol": "YFB2",
+            "address": "0xb39AA271F152c339d105C9d930AD352BC0596e1d",
+            "decimals": 18
         }
     ]
 }
