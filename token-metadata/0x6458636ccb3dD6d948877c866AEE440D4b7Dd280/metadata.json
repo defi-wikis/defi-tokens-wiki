@@ -1,0 +1,7 @@
+{
+    "name": "Bitcoin Token",
+    "symbol": "aBTC",
+    "address": "0x6458636ccb3dD6d948877c866AEE440D4b7Dd280",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
