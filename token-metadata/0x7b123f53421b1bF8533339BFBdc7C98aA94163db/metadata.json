@@ -1,0 +1,9 @@
+{
+    "name": "dfohub",
+    "symbol": "BUIDL",
+    "address": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
