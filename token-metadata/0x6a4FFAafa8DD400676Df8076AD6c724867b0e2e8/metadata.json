@@ -1,0 +1,9 @@
+{
+    "name": "bDAI",
+    "symbol": "BDAI",
+    "address": "0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
