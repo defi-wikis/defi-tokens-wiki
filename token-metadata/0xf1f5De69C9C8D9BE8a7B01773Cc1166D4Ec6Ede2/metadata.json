@@ -1,0 +1,9 @@
+{
+    "name": "Definitex",
+    "symbol": "DFX",
+    "address": "0xf1f5De69C9C8D9BE8a7B01773Cc1166D4Ec6Ede2",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
