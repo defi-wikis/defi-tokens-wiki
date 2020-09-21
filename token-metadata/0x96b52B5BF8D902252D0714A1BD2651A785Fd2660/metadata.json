@@ -3,7 +3,5 @@
     "symbol": "ETHBN",
     "address": "0x96b52B5BF8D902252D0714A1BD2651A785Fd2660",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
