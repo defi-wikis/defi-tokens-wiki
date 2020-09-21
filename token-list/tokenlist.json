@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:25:01.856Z",
+    "timestamp": "2020-09-21T06:27:06.208Z",
     "version": {
         "major": 1,
-        "minor": 992,
+        "minor": 993,
         "patch": 0
     },
     "keywords": [
@@ -6450,6 +6450,13 @@
             "name": "BTCw",
             "symbol": "BTCw",
             "address": "0x69b8C8362edc60D92e394c8c28c1c6c3E786007B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Global Staking Token",
+            "symbol": "GST",
+            "address": "0x950D1ca26De5fF8f5ef28B7206f713F0CB3cC7EF",
             "decimals": 18
         }
     ]
