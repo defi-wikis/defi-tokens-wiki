@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:29:24.429Z",
+    "timestamp": "2020-09-21T23:29:35.641Z",
     "version": {
         "major": 1,
-        "minor": 1554,
+        "minor": 1555,
         "patch": 0
     },
     "keywords": [
@@ -10253,6 +10253,14 @@
             "address": "0xd0c59798F986d333554688cD667033d469C2398e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd0c59798f986d333554688cd667033d469c2398e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Meter Governance ma",
+            "symbol": "EMTRG",
+            "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbd2949f67dcdc549c6ebe98696449fa79d988a9f/icon.png"
         }
     ]
 }
