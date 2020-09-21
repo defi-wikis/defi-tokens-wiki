@@ -1,0 +1,9 @@
+{
+    "name": "Dawn Protocol",
+    "symbol": "DAWN",
+    "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
