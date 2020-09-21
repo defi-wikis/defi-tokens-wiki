@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:17:38.953Z",
+    "timestamp": "2020-09-21T22:17:48.688Z",
     "version": {
         "major": 1,
-        "minor": 1205,
+        "minor": 1206,
         "patch": 0
     },
     "keywords": [
@@ -7807,6 +7807,13 @@
             "name": "EANTO",
             "symbol": "EAN",
             "address": "0xB4742e2013f96850a5CeF850A3bB74cF63B9a5D5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tribute",
+            "symbol": "TRBT",
+            "address": "0x7031AB87DCC46818806EC07aF46fa8c2aD2A2BFC",
             "decimals": 18
         }
     ]
