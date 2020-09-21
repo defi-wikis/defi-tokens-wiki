@@ -3,7 +3,5 @@
     "symbol": "KAI",
     "address": "0xBD6467a31899590474cE1e84F70594c53D628e46",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
