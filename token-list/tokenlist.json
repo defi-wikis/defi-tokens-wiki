@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:32:28.713Z",
+    "timestamp": "2020-09-21T23:32:41.445Z",
     "version": {
         "major": 1,
-        "minor": 1572,
+        "minor": 1573,
         "patch": 0
     },
     "keywords": [
@@ -10382,6 +10382,14 @@
             "symbol": "808TA",
             "address": "0x5b535EDfA75d7CB706044Da0171204E1c48D00e8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hashtrust",
+            "symbol": "HTX",
+            "address": "0xeDbcC06B603ea1f512720A4073a62CC4fdefCb86",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0xedbcc06b603ea1f512720a4073a62cc4fdefcb86/icon.png"
         }
     ]
 }
