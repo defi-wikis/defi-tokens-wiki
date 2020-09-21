@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T00:49:44.318Z",
+    "timestamp": "2020-09-21T00:51:34.311Z",
     "version": {
         "major": 1,
-        "minor": 945,
+        "minor": 946,
         "patch": 0
     },
     "keywords": [
@@ -6121,6 +6121,13 @@
             "name": "Fruit",
             "symbol": "FRUIT",
             "address": "0x2b6148D996736900F59d21eDFce69991bf8243a2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "physixfan",
+            "symbol": "PHX",
+            "address": "0x168359aBE62618d907dA316be172CdAFcA9633aA",
             "decimals": 18
         }
     ]
