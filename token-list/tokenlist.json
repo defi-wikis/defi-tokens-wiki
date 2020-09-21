@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:34:47.627Z",
+    "timestamp": "2020-09-21T22:34:56.791Z",
     "version": {
         "major": 1,
-        "minor": 1292,
+        "minor": 1293,
         "patch": 0
     },
     "keywords": [
@@ -8382,6 +8382,13 @@
             "address": "0xa19A40FbD7375431fAB013a4B08F00871B9a2791",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xa19a40fbd7375431fab013a4b08f00871b9a2791/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Netkoin Liquid",
+            "symbol": "LIQUID",
+            "address": "0xaC2385e183d9301dd5E2BB08DA932CbF9800dC9c",
+            "decimals": 18
         }
     ]
 }
