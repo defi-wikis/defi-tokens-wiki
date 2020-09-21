@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:57:20.315Z",
+    "timestamp": "2020-09-21T22:57:31.555Z",
     "version": {
         "major": 1,
-        "minor": 1396,
+        "minor": 1397,
         "patch": 0
     },
     "keywords": [
@@ -9110,6 +9110,13 @@
             "address": "0xF0FAC7104aAC544e4a7CE1A55ADF2B5a25c65bD1",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Truample",
+            "symbol": "TMPL",
+            "address": "0x52132a43D7cAE69B23abE77B226fA1a5BC66b839",
+            "decimals": 9
         }
     ]
 }
