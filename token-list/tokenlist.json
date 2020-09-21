@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:26:01.296Z",
+    "timestamp": "2020-09-21T23:26:11.986Z",
     "version": {
         "major": 1,
-        "minor": 1537,
+        "minor": 1538,
         "patch": 0
     },
     "keywords": [
@@ -10129,6 +10129,13 @@
             "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFISCURITY",
+            "symbol": "YFIS",
+            "address": "0x86965A86539e2446F9e72634CEfCA7983CC21a81",
+            "decimals": 18
         }
     ]
 }
