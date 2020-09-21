@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:55:34.334Z",
+    "timestamp": "2020-09-21T23:55:43.592Z",
     "version": {
         "major": 1,
-        "minor": 1686,
+        "minor": 1687,
         "patch": 0
     },
     "keywords": [
@@ -11229,6 +11229,13 @@
             "address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
             "decimals": 15,
             "logoURI": "https://tokens.dharma.io/assets/0x780116d91e5592e58a3b3c76a351571b39abcec6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pegasus",
+            "symbol": "PGS",
+            "address": "0x931ad0628aa11791C26FF4d41ce23E40C31c5E4e",
+            "decimals": 8
         }
     ]
 }
