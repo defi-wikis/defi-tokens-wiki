@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:03:04.524Z",
+    "timestamp": "2020-09-21T23:03:16.841Z",
     "version": {
         "major": 1,
-        "minor": 1422,
+        "minor": 1423,
         "patch": 0
     },
     "keywords": [
@@ -9302,6 +9302,14 @@
             "address": "0x12f649A9E821F90BB143089a6e56846945892ffB",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x12f649a9e821f90bb143089a6e56846945892ffb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mero Currency",
+            "symbol": "MRO",
+            "address": "0x6ff313FB38d53d7A458860b1bf7512f54a03e968",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6ff313fb38d53d7a458860b1bf7512f54a03e968/icon.png"
         }
     ]
 }
