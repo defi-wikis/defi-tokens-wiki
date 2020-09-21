@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T03:17:07.796Z",
+    "timestamp": "2020-09-21T03:32:29.834Z",
     "version": {
         "major": 1,
-        "minor": 965,
+        "minor": 966,
         "patch": 0
     },
     "keywords": [
@@ -6261,6 +6261,13 @@
             "name": "definer.org",
             "symbol": "FIN",
             "address": "0x9C544BB0e4Ba224B314f9938B8200FbdC50495Bb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "republic.co",
+            "symbol": "REP",
+            "address": "0x9Cc33C6CD4aaCD6C8442dCf92E8a47f6CD350a2D",
             "decimals": 18
         }
     ]
