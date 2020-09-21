@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T04:58:54.505Z",
+    "timestamp": "2020-09-21T05:12:06.406Z",
     "version": {
         "major": 1,
-        "minor": 981,
+        "minor": 982,
         "patch": 0
     },
     "keywords": [
@@ -6373,6 +6373,13 @@
             "name": "YFR Finance",
             "symbol": "YFR",
             "address": "0xB135cBc779D6751920428814BCf544292B8172cE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TribToken",
+            "symbol": "TRIB",
+            "address": "0x32cb708cbDEDBDE6c54D4011C111EAd59c1C06Ee",
             "decimals": 18
         }
     ]
