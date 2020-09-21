@@ -3,7 +3,5 @@
     "symbol": "0XMR",
     "address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
