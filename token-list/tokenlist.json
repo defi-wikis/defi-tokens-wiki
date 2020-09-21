@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:11:15.623Z",
+    "timestamp": "2020-09-21T22:11:27.337Z",
     "version": {
         "major": 1,
-        "minor": 1172,
+        "minor": 1173,
         "patch": 0
     },
     "keywords": [
@@ -215,7 +215,7 @@
         },
         {
             "chainId": 1,
-            "name": "Tether USD",
+            "name": "Tether",
             "symbol": "USDT",
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "decimals": 6,
