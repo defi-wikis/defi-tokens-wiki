@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:34:55.046Z",
+    "timestamp": "2020-09-21T23:35:06.393Z",
     "version": {
         "major": 1,
-        "minor": 1584,
+        "minor": 1585,
         "patch": 0
     },
     "keywords": [
@@ -10469,6 +10469,14 @@
             "address": "0x5c64031C62061865E5FD0F53d3CDaeF80f72E99D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5c64031c62061865e5fd0f53d3cdaef80f72e99d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Zippie",
+            "symbol": "ZIPT",
+            "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xedd7c94fd7b4971b916d15067bc454b9e1bad980/icon.png"
         }
     ]
 }
