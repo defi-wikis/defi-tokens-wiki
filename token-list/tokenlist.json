@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:51:58.214Z",
+    "timestamp": "2020-09-21T23:52:10.835Z",
     "version": {
         "major": 1,
-        "minor": 1666,
+        "minor": 1667,
         "patch": 0
     },
     "keywords": [
@@ -11084,6 +11084,14 @@
             "symbol": "CRU",
             "address": "0xFbC1473E245b8AfBbA3b46116e0B01f91A026633",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Dawn Protocol",
+            "symbol": "DAWN",
+            "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x580c8520deda0a441522aeae0f9f7a5f29629afa/icon.png"
         }
     ]
 }
