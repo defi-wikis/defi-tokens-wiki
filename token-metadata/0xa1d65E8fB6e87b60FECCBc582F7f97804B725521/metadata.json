@@ -1,7 +1,9 @@
 {
-    "name": "DXdao",
+    "name": "DXDao",
     "symbol": "DXD",
     "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
