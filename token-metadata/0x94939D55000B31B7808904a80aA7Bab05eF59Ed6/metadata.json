@@ -3,7 +3,5 @@
     "symbol": "JIAOZI",
     "address": "0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
