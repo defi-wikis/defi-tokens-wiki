@@ -1,0 +1,9 @@
+{
+    "name": "Squirrel Finance",
+    "symbol": "NUTS",
+    "address": "0x84294FC9710e1252d407d3D80A84bC39001bd4A8",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
