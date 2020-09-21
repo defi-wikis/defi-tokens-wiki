@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:30:30.445Z",
+    "timestamp": "2020-09-21T22:30:41.946Z",
     "version": {
         "major": 1,
-        "minor": 1271,
+        "minor": 1272,
         "patch": 0
     },
     "keywords": [
@@ -8240,6 +8240,14 @@
             "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Band Protocol",
+            "symbol": "BAND",
+            "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55/icon.png"
         }
     ]
 }
