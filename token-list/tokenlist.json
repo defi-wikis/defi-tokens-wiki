@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:21:06.637Z",
+    "timestamp": "2020-09-21T19:22:06.404Z",
     "version": {
         "major": 1,
-        "minor": 1067,
+        "minor": 1068,
         "patch": 0
     },
     "keywords": [
@@ -6975,6 +6975,13 @@
             "name": "Yearn Finance Bit2",
             "symbol": "YFB2",
             "address": "0xb39AA271F152c339d105C9d930AD352BC0596e1d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lets Moon it Baby",
+            "symbol": "LMIB",
+            "address": "0x02bFAa0a2050AffBEdd3449AEc83157F3fB323c2",
             "decimals": 18
         }
     ]
