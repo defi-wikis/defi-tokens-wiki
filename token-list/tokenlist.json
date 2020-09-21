@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:16:42.438Z",
+    "timestamp": "2020-09-21T22:16:53.993Z",
     "version": {
         "major": 1,
-        "minor": 1200,
+        "minor": 1201,
         "patch": 0
     },
     "keywords": [
@@ -7770,6 +7770,14 @@
             "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x543ff227f64aa17ea132bf9886cab5db55dcaddf/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Alex",
+            "symbol": "ALEX",
+            "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315/icon.png"
         }
     ]
 }
