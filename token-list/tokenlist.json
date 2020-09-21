@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T15:46:24.943Z",
+    "timestamp": "2020-09-21T16:01:39.920Z",
     "version": {
         "major": 1,
-        "minor": 1038,
+        "minor": 1039,
         "patch": 0
     },
     "keywords": [
@@ -6772,6 +6772,13 @@
             "name": "Galaxy Diamond",
             "symbol": "GD",
             "address": "0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YF Beam",
+            "symbol": "YFBM",
+            "address": "0xe1E876016cfa10f3ADB4c8EEC541db134e14EAc8",
             "decimals": 18
         }
     ]
