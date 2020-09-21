@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:09:34.621Z",
+    "timestamp": "2020-09-21T22:09:43.783Z",
     "version": {
         "major": 1,
-        "minor": 1164,
+        "minor": 1165,
         "patch": 0
     },
     "keywords": [
@@ -7538,6 +7538,13 @@
             "address": "0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6c972b70c533e2e045f333ee28b9ffb8d717be69/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sylo",
+            "symbol": "SYLO",
+            "address": "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4",
+            "decimals": 18
         }
     ]
 }
