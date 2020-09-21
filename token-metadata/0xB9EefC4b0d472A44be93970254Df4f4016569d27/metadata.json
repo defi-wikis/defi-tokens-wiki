@@ -1,0 +1,9 @@
+{
+    "name": "DigitalBits",
+    "symbol": "XDB",
+    "address": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
+    "decimals": 7,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
