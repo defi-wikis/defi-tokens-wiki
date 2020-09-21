@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:11:27.337Z",
+    "timestamp": "2020-09-21T22:11:38.841Z",
     "version": {
         "major": 1,
-        "minor": 1173,
+        "minor": 1174,
         "patch": 0
     },
     "keywords": [
@@ -7586,6 +7586,14 @@
             "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LCX",
+            "symbol": "LCX",
+            "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x037a54aab062628c9bbae1fdb1583c195585fe41/icon.png"
         }
     ]
 }
