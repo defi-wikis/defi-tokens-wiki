@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T18:49:19.868Z",
+    "timestamp": "2020-09-21T18:52:29.606Z",
     "version": {
         "major": 1,
-        "minor": 1063,
+        "minor": 1064,
         "patch": 0
     },
     "keywords": [
@@ -6947,6 +6947,13 @@
             "name": "ConnectUS",
             "symbol": "CENN",
             "address": "0xF567464fd5e4543c167ae6D3Ff61a75aDe0aB798",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Snow Network",
+            "symbol": "SNOW",
+            "address": "0x276f8a8c7b38D230574d1b64937549EAe0f5e5Ab",
             "decimals": 18
         }
     ]
