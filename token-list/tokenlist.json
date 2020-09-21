@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:56:55.656Z",
+    "timestamp": "2020-09-21T22:57:08.660Z",
     "version": {
         "major": 1,
-        "minor": 1394,
+        "minor": 1395,
         "patch": 0
     },
     "keywords": [
@@ -9094,6 +9094,14 @@
             "address": "0xd42debE4eDc92Bd5a3FBb4243e1ecCf6d63A4A5d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "RAIN Network",
+            "symbol": "RAIN",
+            "address": "0x61cDb66e56FAD942a7b5cE3F419FfE9375E31075",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x61cdb66e56fad942a7b5ce3f419ffe9375e31075/icon.png"
         }
     ]
 }
