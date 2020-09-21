@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:11:49.476Z",
+    "timestamp": "2020-09-21T22:12:01.882Z",
     "version": {
         "major": 1,
-        "minor": 1175,
+        "minor": 1176,
         "patch": 0
     },
     "keywords": [
@@ -7601,6 +7601,14 @@
             "symbol": "XMM",
             "address": "0x9a7a4C141a3BCCE4A31e42C1192Ac6Add35069b4",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "Nectar Token",
+            "symbol": "NEC",
+            "address": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcc80c051057b774cd75067dc48f8987c4eb97a5e/icon.png"
         }
     ]
 }
