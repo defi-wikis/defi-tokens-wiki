@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:34:43.684Z",
+    "timestamp": "2020-09-21T23:34:55.046Z",
     "version": {
         "major": 1,
-        "minor": 1583,
+        "minor": 1584,
         "patch": 0
     },
     "keywords": [
@@ -10461,6 +10461,14 @@
             "address": "0xfa91f4177476633f100C59D336C0f2FfAd414CBA",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0xfa91f4177476633f100c59d336c0f2ffad414cba/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hashgard",
+            "symbol": "GARD",
+            "address": "0x5c64031C62061865E5FD0F53d3CDaeF80f72E99D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5c64031c62061865e5fd0f53d3cdaef80f72e99d/icon.png"
         }
     ]
 }
