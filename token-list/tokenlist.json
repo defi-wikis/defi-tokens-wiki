@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:03:16.841Z",
+    "timestamp": "2020-09-21T23:03:26.219Z",
     "version": {
         "major": 1,
-        "minor": 1423,
+        "minor": 1424,
         "patch": 0
     },
     "keywords": [
@@ -9310,6 +9310,13 @@
             "address": "0x6ff313FB38d53d7A458860b1bf7512f54a03e968",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6ff313fb38d53d7a458860b1bf7512f54a03e968/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Baguette Token",
+            "symbol": "BGTT",
+            "address": "0x7a545Ed3863221A974F327199Ac22F7f12535F11",
+            "decimals": 18
         }
     ]
 }
