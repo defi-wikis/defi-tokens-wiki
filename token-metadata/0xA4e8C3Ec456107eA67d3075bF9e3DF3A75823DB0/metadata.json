@@ -1,0 +1,9 @@
+{
+    "name": "Loom Network",
+    "symbol": "LOOM",
+    "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
