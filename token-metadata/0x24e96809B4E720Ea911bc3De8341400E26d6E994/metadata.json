@@ -3,7 +3,5 @@
     "symbol": "VRTN",
     "address": "0x24e96809B4E720Ea911bc3De8341400E26d6E994",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
