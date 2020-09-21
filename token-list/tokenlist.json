@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:54:46.809Z",
+    "timestamp": "2020-09-21T23:54:58.380Z",
     "version": {
         "major": 1,
-        "minor": 1682,
+        "minor": 1683,
         "patch": 0
     },
     "keywords": [
@@ -11197,6 +11197,14 @@
             "symbol": "BEE",
             "address": "0x1763aD73694d4D64FB71732B068E32ac72A345b1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sharder protocol",
+            "symbol": "SS",
+            "address": "0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbbff862d906e348e9946bfb2132ecb157da3d4b4/icon.png"
         }
     ]
 }
