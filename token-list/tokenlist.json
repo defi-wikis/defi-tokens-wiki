@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:09:58.251Z",
+    "timestamp": "2020-09-21T22:10:13.769Z",
     "version": {
         "major": 1,
-        "minor": 1166,
+        "minor": 1167,
         "patch": 0
     },
     "keywords": [
@@ -4414,7 +4414,8 @@
             "name": "ERC223",
             "symbol": "ERC223",
             "address": "0xF8F237D074F637D777bcD2A4712bde793f94272B",
-            "decimals": 10
+            "decimals": 10,
+            "logoURI": "https://tokens.dharma.io/assets/0xf8f237d074f637d777bcd2a4712bde793f94272b/icon.png"
         },
         {
             "chainId": 1,
