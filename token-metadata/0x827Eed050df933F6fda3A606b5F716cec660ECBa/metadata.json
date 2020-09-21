@@ -3,7 +3,5 @@
     "symbol": "BD",
     "address": "0x827Eed050df933F6fda3A606b5F716cec660ECBa",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
