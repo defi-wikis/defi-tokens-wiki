@@ -3,7 +3,5 @@
     "symbol": "ABUSD",
     "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
