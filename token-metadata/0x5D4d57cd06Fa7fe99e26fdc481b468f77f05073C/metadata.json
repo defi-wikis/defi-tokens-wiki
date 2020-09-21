@@ -1,0 +1,9 @@
+{
+    "name": "Netkoin",
+    "symbol": "NTK",
+    "address": "0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
