@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:55:52.241Z",
+    "timestamp": "2020-09-21T22:56:06.933Z",
     "version": {
         "major": 1,
-        "minor": 1390,
+        "minor": 1391,
         "patch": 0
     },
     "keywords": [
@@ -9062,6 +9062,14 @@
             "address": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x0a50c93c762fdd6e56d86215c24aaad43ab629aa/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Rocket Pool",
+            "symbol": "RPL",
+            "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb4efd85c19999d84251304bda99e90b92300bd93/icon.png"
         }
     ]
 }
