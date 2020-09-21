@@ -1,0 +1,9 @@
+{
+    "name": "Zippie",
+    "symbol": "ZIPT",
+    "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
