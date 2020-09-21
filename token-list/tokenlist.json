@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:03:06.309Z",
+    "timestamp": "2020-09-21T22:03:19.072Z",
     "version": {
         "major": 1,
-        "minor": 1132,
+        "minor": 1133,
         "patch": 0
     },
     "keywords": [
@@ -7316,6 +7316,14 @@
             "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xade00c28244d5ce17d72e40330b1c318cd12b7c3/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "VeriSafe",
+            "symbol": "VSF",
+            "address": "0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xac9ce326e95f51b5005e9fe1dd8085a01f18450c/icon.png"
         }
     ]
 }
