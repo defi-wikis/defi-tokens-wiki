@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:59:36.990Z",
+    "timestamp": "2020-09-21T22:59:50.775Z",
     "version": {
         "major": 1,
-        "minor": 1406,
+        "minor": 1407,
         "patch": 0
     },
     "keywords": [
@@ -9178,6 +9178,14 @@
             "symbol": "YKZ",
             "address": "0xcd453276f4db9c38855056a036C4A99A8cac7b8d",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CACHE Gold",
+            "symbol": "CGT",
+            "address": "0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf5238462e7235c7b62811567e63dd17d12c2eaa0/icon.png"
         }
     ]
 }
