@@ -1,0 +1,9 @@
+{
+    "name": "BPOP",
+    "symbol": "BPOP",
+    "address": "0x0452aeD878805514e28Fb5BD0B56Bef92176E32A",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
