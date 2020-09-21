@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:16:14.196Z",
+    "timestamp": "2020-09-21T23:16:23.404Z",
     "version": {
         "major": 1,
-        "minor": 1487,
+        "minor": 1488,
         "patch": 0
     },
     "keywords": [
@@ -9767,6 +9767,13 @@
             "address": "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5150956e082c748ca837a5dfa0a7c10ca4697f9c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Soda Token",
+            "symbol": "SODA",
+            "address": "0x7AfB39837Fd244A651e4F0C5660B4037214D4aDF",
+            "decimals": 18
         }
     ]
 }
