@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:11:40.091Z",
+    "timestamp": "2020-09-21T23:11:52.621Z",
     "version": {
         "major": 1,
-        "minor": 1465,
+        "minor": 1466,
         "patch": 0
     },
     "keywords": [
@@ -9604,6 +9604,14 @@
             "address": "0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DoYourTip",
+            "symbol": "DYT",
+            "address": "0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x740623d2c797b7d8d1ecb98e9b4afcf99ec31e14/icon.png"
         }
     ]
 }
