@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:10:36.855Z",
+    "timestamp": "2020-09-21T23:10:47.241Z",
     "version": {
         "major": 1,
-        "minor": 1460,
+        "minor": 1461,
         "patch": 0
     },
     "keywords": [
@@ -9565,6 +9565,13 @@
             "address": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5befbb272290dd5b8521d4a938f6c4757742c430/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Solarite",
+            "symbol": "SOLARITE",
+            "address": "0x930eD81ad809603baf727117385D01f04354612E",
+            "decimals": 18
         }
     ]
 }
