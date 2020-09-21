@@ -1,0 +1,9 @@
+{
+    "name": "VeriSafe",
+    "symbol": "VSF",
+    "address": "0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
