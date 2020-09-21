@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:34:31.278Z",
+    "timestamp": "2020-09-21T23:34:43.684Z",
     "version": {
         "major": 1,
-        "minor": 1582,
+        "minor": 1583,
         "patch": 0
     },
     "keywords": [
@@ -10453,6 +10453,14 @@
             "address": "0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7dee371a788f9bd6c546df83f0d74fbe37cbf006/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ANALYSX",
+            "symbol": "XYS",
+            "address": "0xfa91f4177476633f100C59D336C0f2FfAd414CBA",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xfa91f4177476633f100c59d336c0f2ffad414cba/icon.png"
         }
     ]
 }
