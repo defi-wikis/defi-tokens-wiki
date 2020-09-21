@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:01:40.174Z",
+    "timestamp": "2020-09-21T22:01:54.149Z",
     "version": {
         "major": 1,
-        "minor": 1125,
+        "minor": 1126,
         "patch": 0
     },
     "keywords": [
@@ -7269,6 +7269,14 @@
             "address": "0x66186008C1050627F979d464eABb258860563dbE",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x66186008c1050627f979d464eabb258860563dbe/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Frens Community",
+            "symbol": "FRENS",
+            "address": "0x907cb97615b7cD7320Bc89bb7CDB46e37432eBe7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x907cb97615b7cd7320bc89bb7cdb46e37432ebe7/icon.png"
         }
     ]
 }
