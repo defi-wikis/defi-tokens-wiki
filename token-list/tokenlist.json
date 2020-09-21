@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T18:17:39.465Z",
+    "timestamp": "2020-09-21T18:42:39.037Z",
     "version": {
         "major": 1,
-        "minor": 1061,
+        "minor": 1062,
         "patch": 0
     },
     "keywords": [
@@ -6933,6 +6933,13 @@
             "name": "Connectome",
             "symbol": "CNTM",
             "address": "0x0E5f00DA8AAef196a719d045DB89b5DA8F371b32",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YfMask",
+            "symbol": "YFM",
+            "address": "0xBa298b5Bf153AF9E3D013bA0112981Db2c14d5C8",
             "decimals": 18
         }
     ]
