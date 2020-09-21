@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:52:27.293Z",
+    "timestamp": "2020-09-21T22:52:38.913Z",
     "version": {
         "major": 1,
-        "minor": 1374,
+        "minor": 1375,
         "patch": 0
     },
     "keywords": [
@@ -8961,6 +8961,14 @@
             "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Swipe",
+            "symbol": "SXP",
+            "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/icon.png"
         }
     ]
 }
