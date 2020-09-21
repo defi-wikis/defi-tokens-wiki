@@ -1,0 +1,9 @@
+{
+    "name": "ITO Utility Token",
+    "symbol": "IUT",
+    "address": "0xD36a0e7b741542208aE0fBb35453C893D0136625",
+    "decimals": 0,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
