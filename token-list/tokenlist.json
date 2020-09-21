@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:29:21.444Z",
+    "timestamp": "2020-09-21T22:29:36.009Z",
     "version": {
         "major": 1,
-        "minor": 1266,
+        "minor": 1267,
         "patch": 0
     },
     "keywords": [
@@ -8200,6 +8200,14 @@
             "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Walletreum",
+            "symbol": "WALT",
+            "address": "0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x15bcdfad12498de8a922e62442ae4cc4bd33bd25/icon.png"
         }
     ]
 }
