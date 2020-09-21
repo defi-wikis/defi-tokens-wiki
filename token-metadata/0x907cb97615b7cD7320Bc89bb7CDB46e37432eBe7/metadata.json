@@ -3,7 +3,5 @@
     "symbol": "FRENS",
     "address": "0x907cb97615b7cD7320Bc89bb7CDB46e37432eBe7",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
