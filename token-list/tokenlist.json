@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:58:17.081Z",
+    "timestamp": "2020-09-21T22:58:29.210Z",
     "version": {
         "major": 1,
-        "minor": 1400,
+        "minor": 1401,
         "patch": 0
     },
     "keywords": [
@@ -9131,6 +9131,14 @@
             "symbol": "PERL",
             "address": "0xeca82185adCE47f39c684352B0439f030f860318",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Membrana",
+            "symbol": "MBN",
+            "address": "0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7/icon.png"
         }
     ]
 }
