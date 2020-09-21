@@ -1,0 +1,9 @@
+{
+    "name": "IDEX",
+    "symbol": "IDEX",
+    "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
