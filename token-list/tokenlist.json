@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:27:52.598Z",
+    "timestamp": "2020-09-21T22:28:05.354Z",
     "version": {
         "major": 1,
-        "minor": 1259,
+        "minor": 1260,
         "patch": 0
     },
     "keywords": [
@@ -8144,6 +8144,14 @@
             "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Coil",
+            "symbol": "COIL",
+            "address": "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x3936ad01cf109a36489d93cabda11cf062fd3d48/icon.png"
         }
     ]
 }
