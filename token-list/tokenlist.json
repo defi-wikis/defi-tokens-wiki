@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:03:21.331Z",
+    "timestamp": "2020-09-21T17:04:59.610Z",
     "version": {
         "major": 1,
-        "minor": 1049,
+        "minor": 1050,
         "patch": 0
     },
     "keywords": [
@@ -6850,6 +6850,13 @@
             "symbol": "HOS",
             "address": "0x991d6f961E9825Eb3923774C53E04E541e81e57B",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "RealGold",
+            "symbol": "REALGOLD",
+            "address": "0x78e96360c0b98e475075A34fc2AEAE2b5aABd02D",
+            "decimals": 18
         }
     ]
 }
