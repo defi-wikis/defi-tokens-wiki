@@ -3,7 +3,5 @@
     "symbol": "STMX",
     "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
