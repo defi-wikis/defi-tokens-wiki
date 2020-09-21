@@ -33,7 +33,7 @@
     },
     "token-sets": {
         "name": "TokenSets",
-        "description": "Token indices composed within Set Protocol",
+        "description": "Token indices composed within Set Protocol"
     },
     "options": {
         "name": "Options",
