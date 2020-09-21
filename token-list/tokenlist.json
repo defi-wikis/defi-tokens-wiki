@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:17:34.390Z",
+    "timestamp": "2020-09-21T23:17:36.852Z",
     "version": {
         "major": 1,
-        "minor": 1494,
+        "minor": 1495,
         "patch": 0
     },
     "keywords": [
@@ -9815,6 +9815,14 @@
             "symbol": "PUMP",
             "address": "0x66eD231fDE3d96E9c32E4847b64DDDa5f23E8f1D",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SwissBorg",
+            "symbol": "CHSB",
+            "address": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xba9d4199fab4f26efe3551d490e3821486f135ba/icon.png"
         }
     ]
 }
