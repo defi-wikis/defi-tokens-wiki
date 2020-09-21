@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:16:17.817Z",
+    "timestamp": "2020-09-21T22:16:30.263Z",
     "version": {
         "major": 1,
-        "minor": 1198,
+        "minor": 1199,
         "patch": 0
     },
     "keywords": [
@@ -7761,6 +7761,14 @@
             "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DAOstack",
+            "symbol": "GEN",
+            "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x543ff227f64aa17ea132bf9886cab5db55dcaddf/icon.png"
         }
     ]
 }
