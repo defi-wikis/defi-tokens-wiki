@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:25:04.585Z",
+    "timestamp": "2020-09-21T22:25:15.161Z",
     "version": {
         "major": 1,
-        "minor": 1244,
+        "minor": 1245,
         "patch": 0
     },
     "keywords": [
@@ -8036,6 +8036,13 @@
             "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xfc82bb4ba86045af6f327323a46e80412b91b27d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "EURBASE",
+            "symbol": "EBASE",
+            "address": "0xa689DCEA8f7ad59fb213be4bc624ba5500458dC6",
+            "decimals": 18
         }
     ]
 }
