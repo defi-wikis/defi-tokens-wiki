@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:05:15.551Z",
+    "timestamp": "2020-09-21T23:05:27.642Z",
     "version": {
         "major": 1,
-        "minor": 1433,
+        "minor": 1434,
         "patch": 0
     },
     "keywords": [
@@ -9381,6 +9381,14 @@
             "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x328c4c80bc7aca0834db37e6600a6c49e12da4de/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Machi X",
+            "symbol": "MCX",
+            "address": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8/icon.png"
         }
     ]
 }
