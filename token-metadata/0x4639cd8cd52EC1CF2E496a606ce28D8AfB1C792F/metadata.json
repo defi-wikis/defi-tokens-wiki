@@ -3,7 +3,5 @@
     "symbol": "BREE",
     "address": "0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
