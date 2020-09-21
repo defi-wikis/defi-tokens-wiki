@@ -1,0 +1,9 @@
+{
+    "name": "RAKUN",
+    "symbol": "RAKU",
+    "address": "0x51BC0DeaF7bBE82bC9006b0c3531668a4206D27F",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
