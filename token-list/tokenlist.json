@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:48:36.457Z",
+    "timestamp": "2020-09-21T23:48:45.537Z",
     "version": {
         "major": 1,
-        "minor": 1650,
+        "minor": 1651,
         "patch": 0
     },
     "keywords": [
@@ -10968,6 +10968,13 @@
             "address": "0x1F8f123bf24849443a56eD9fC42b9265b7F3A39a",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1f8f123bf24849443a56ed9fc42b9265b7f3a39a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CoomCoin",
+            "symbol": "COOM",
+            "address": "0x2f3e054D233c93C59140c0905227c7C607c70cbb",
+            "decimals": 18
         }
     ]
 }
