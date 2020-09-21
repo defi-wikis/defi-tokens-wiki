@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:04:17.011Z",
+    "timestamp": "2020-09-21T23:04:28.374Z",
     "version": {
         "major": 1,
-        "minor": 1428,
+        "minor": 1429,
         "patch": 0
     },
     "keywords": [
@@ -9342,6 +9342,14 @@
             "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cap",
+            "symbol": "CAP",
+            "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x43044f861ec040db59a7e324c40507addb673142/icon.png"
         }
     ]
 }
