@@ -1,0 +1,9 @@
+{
+    "name": "Aleph im",
+    "symbol": "ALEPH",
+    "address": "0xC0134b5B924c2FCA106eFB33C45446c466FBe03e",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
