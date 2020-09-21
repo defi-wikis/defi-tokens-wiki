@@ -3,7 +3,5 @@
     "symbol": "UNIFI",
     "address": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
