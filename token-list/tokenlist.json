@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T12:50:49.692Z",
+    "timestamp": "2020-09-21T13:05:44.451Z",
     "version": {
         "major": 1,
-        "minor": 1032,
+        "minor": 1033,
         "patch": 0
     },
     "keywords": [
@@ -6730,6 +6730,13 @@
             "name": "ETJ",
             "symbol": "ETJ",
             "address": "0x690B3f246a121693A661E8C633B02424c27b5Fdf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yaz.finance",
+            "symbol": "YAZ",
+            "address": "0x9E1a785267A584f5B30B5395E3aE3019a9c87ea2",
             "decimals": 18
         }
     ]
