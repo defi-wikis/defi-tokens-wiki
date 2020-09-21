@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:08:06.365Z",
+    "timestamp": "2020-09-21T22:08:32.373Z",
     "version": {
         "major": 1,
-        "minor": 1158,
+        "minor": 1159,
         "patch": 0
     },
     "keywords": [
@@ -7490,6 +7490,14 @@
             "symbol": "ESD",
             "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SatoPay",
+            "symbol": "STOP",
+            "address": "0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee/icon.png"
         }
     ]
 }
