@@ -1,0 +1,9 @@
+{
+    "name": "yfrb Finance",
+    "symbol": "YFRB",
+    "address": "0x5D1b1019d0Afa5E6cc047B9e78081D44cc579FC4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
