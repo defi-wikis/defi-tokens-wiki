@@ -3,7 +3,5 @@
     "symbol": "XYO",
     "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
