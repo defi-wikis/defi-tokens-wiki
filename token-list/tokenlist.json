@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:26:18.153Z",
+    "timestamp": "2020-09-21T22:26:29.967Z",
     "version": {
         "major": 1,
-        "minor": 1251,
+        "minor": 1252,
         "patch": 0
     },
     "keywords": [
@@ -8081,6 +8081,14 @@
             "symbol": "BD",
             "address": "0x827Eed050df933F6fda3A606b5F716cec660ECBa",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Schain Wallet",
+            "symbol": "SCHA",
+            "address": "0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a/icon.png"
         }
     ]
 }
