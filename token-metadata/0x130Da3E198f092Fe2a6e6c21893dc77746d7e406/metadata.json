@@ -3,7 +3,5 @@
     "symbol": "NEWS",
     "address": "0x130Da3E198f092Fe2a6e6c21893dc77746d7e406",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
