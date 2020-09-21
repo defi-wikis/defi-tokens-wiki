@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:33:57.347Z",
+    "timestamp": "2020-09-21T22:34:11.922Z",
     "version": {
         "major": 1,
-        "minor": 1288,
+        "minor": 1289,
         "patch": 0
     },
     "keywords": [
@@ -8358,6 +8358,14 @@
             "address": "0x7B0C06043468469967DBA22d1AF33d77d44056c8",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x7b0c06043468469967dba22d1af33d77d44056c8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Holo",
+            "symbol": "HOT",
+            "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6c6ee5e31d828de241282b9606c8e98ea48526e2/icon.png"
         }
     ]
 }
