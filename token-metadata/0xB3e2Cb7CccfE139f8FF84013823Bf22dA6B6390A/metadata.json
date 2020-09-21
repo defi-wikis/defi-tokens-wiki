@@ -1,0 +1,9 @@
+{
+    "name": "Iconic Token",
+    "symbol": "ICNQ",
+    "address": "0xB3e2Cb7CccfE139f8FF84013823Bf22dA6B6390A",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
