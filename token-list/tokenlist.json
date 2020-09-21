@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:30:41.946Z",
+    "timestamp": "2020-09-21T22:30:55.518Z",
     "version": {
         "major": 1,
-        "minor": 1272,
+        "minor": 1273,
         "patch": 0
     },
     "keywords": [
@@ -8248,6 +8248,14 @@
             "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DogeFi",
+            "symbol": "DOGEFI",
+            "address": "0x9B9087756eCa997C5D595C840263001c9a26646D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9b9087756eca997c5d595c840263001c9a26646d/icon.png"
         }
     ]
 }
