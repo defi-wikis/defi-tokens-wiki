@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:53:30.953Z",
+    "timestamp": "2020-09-21T23:53:40.705Z",
     "version": {
         "major": 1,
-        "minor": 1675,
+        "minor": 1676,
         "patch": 0
     },
     "keywords": [
@@ -11144,6 +11144,13 @@
             "symbol": "DSD",
             "address": "0x1e3a2446C729D34373B87FD2C9CBb39A93198658",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chimera",
+            "symbol": "CMRA",
+            "address": "0x37737ad7E32ED440c312910CFc4A2e4D52867Caf",
+            "decimals": 3
         }
     ]
 }
