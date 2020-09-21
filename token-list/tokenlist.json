@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:30:16.880Z",
+    "timestamp": "2020-09-21T22:30:30.445Z",
     "version": {
         "major": 1,
-        "minor": 1270,
+        "minor": 1271,
         "patch": 0
     },
     "keywords": [
@@ -8232,6 +8232,14 @@
             "address": "0xf3A2ace8e48751c965eA0A1D064303AcA53842b9",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xf3a2ace8e48751c965ea0a1d064303aca53842b9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Robonomics Network",
+            "symbol": "XRT",
+            "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7/icon.png"
         }
     ]
 }
