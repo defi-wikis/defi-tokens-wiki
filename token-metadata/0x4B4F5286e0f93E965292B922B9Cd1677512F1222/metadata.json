@@ -1,0 +1,9 @@
+{
+    "name": "YUNo Finance",
+    "symbol": "YUNO",
+    "address": "0x4B4F5286e0f93E965292B922B9Cd1677512F1222",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
