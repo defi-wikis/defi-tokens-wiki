@@ -3,7 +3,5 @@
     "symbol": "SLV",
     "address": "0x4c1C4957D22D8F373aeD54d0853b090666F6F9De",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
