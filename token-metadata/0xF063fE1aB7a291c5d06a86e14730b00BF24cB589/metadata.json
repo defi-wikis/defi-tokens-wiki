@@ -3,7 +3,5 @@
     "symbol": "SALE",
     "address": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
