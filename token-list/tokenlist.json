@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:45:24.090Z",
+    "timestamp": "2020-09-21T23:45:37.883Z",
     "version": {
         "major": 1,
-        "minor": 1635,
+        "minor": 1636,
         "patch": 0
     },
     "keywords": [
@@ -10848,6 +10848,14 @@
             "address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FIRE",
+            "symbol": "FIRE",
+            "address": "0x3F8A2f7bcD70e7F7Bdd3FbB079c11d073588DEA2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3f8a2f7bcd70e7f7bdd3fbb079c11d073588dea2/icon.png"
         }
     ]
 }
