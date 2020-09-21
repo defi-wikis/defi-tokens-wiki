@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:18:47.846Z",
+    "timestamp": "2020-09-21T23:18:59.401Z",
     "version": {
         "major": 1,
-        "minor": 1501,
+        "minor": 1502,
         "patch": 0
     },
     "keywords": [
@@ -9870,6 +9870,14 @@
             "address": "0xCf8f9555D55CE45a3A33a81D6eF99a2a2E71Dee2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcf8f9555d55ce45a3a33a81d6ef99a2a2e71dee2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Enigma",
+            "symbol": "ENG",
+            "address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4/icon.png"
         }
     ]
 }
