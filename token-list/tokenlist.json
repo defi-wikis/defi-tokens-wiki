@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:49:04.836Z",
+    "timestamp": "2020-09-21T22:49:20.275Z",
     "version": {
         "major": 1,
-        "minor": 1358,
+        "minor": 1359,
         "patch": 0
     },
     "keywords": [
@@ -8859,6 +8859,14 @@
             "address": "0x2d9765a94FF22e0CA3AfC3E3F4B116dE2b67582a",
             "decimals": 16,
             "logoURI": "https://tokens.dharma.io/assets/0x2d9765a94ff22e0ca3afc3e3f4b116de2b67582a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Lamden",
+            "symbol": "TAU",
+            "address": "0xc27A2F05fa577a83BA0fDb4c38443c0718356501",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc27a2f05fa577a83ba0fdb4c38443c0718356501/icon.png"
         }
     ]
 }
