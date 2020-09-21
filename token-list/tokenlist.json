@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:42:21.806Z",
+    "timestamp": "2020-09-21T22:42:30.931Z",
     "version": {
         "major": 1,
-        "minor": 1324,
+        "minor": 1325,
         "patch": 0
     },
     "keywords": [
@@ -4805,7 +4805,7 @@
         },
         {
             "chainId": 1,
-            "name": "HatchDAO",
+            "name": "Hatch DAO",
             "symbol": "HATCH",
             "address": "0x6F3009663470475F0749A6b76195375f95495fcB",
             "decimals": 18
