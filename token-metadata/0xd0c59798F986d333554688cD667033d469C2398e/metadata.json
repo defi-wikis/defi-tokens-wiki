@@ -3,7 +3,5 @@
     "symbol": "YMEN",
     "address": "0xd0c59798F986d333554688cD667033d469C2398e",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
