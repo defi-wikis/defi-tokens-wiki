@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:12:50.461Z",
+    "timestamp": "2020-09-21T23:13:02.560Z",
     "version": {
         "major": 1,
-        "minor": 1470,
+        "minor": 1471,
         "patch": 0
     },
     "keywords": [
@@ -9643,6 +9643,14 @@
             "symbol": "TEAM",
             "address": "0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Loom Network",
+            "symbol": "LOOM",
+            "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0/icon.png"
         }
     ]
 }
