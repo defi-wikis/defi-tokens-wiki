@@ -1,0 +1,9 @@
+{
+    "name": "Teccoin",
+    "symbol": "TECN",
+    "address": "0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
