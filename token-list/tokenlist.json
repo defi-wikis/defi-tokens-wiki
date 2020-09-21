@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:53:40.705Z",
+    "timestamp": "2020-09-21T23:53:51.906Z",
     "version": {
         "major": 1,
-        "minor": 1676,
+        "minor": 1677,
         "patch": 0
     },
     "keywords": [
@@ -11151,6 +11151,14 @@
             "symbol": "CMRA",
             "address": "0x37737ad7E32ED440c312910CFc4A2e4D52867Caf",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "rDAI",
+            "symbol": "RDAI",
+            "address": "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x261b45d85ccfeabb11f022eba346ee8d1cd488c0/icon.png"
         }
     ]
 }
