@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:00:28.173Z",
+    "timestamp": "2020-09-21T22:00:43.896Z",
     "version": {
         "major": 1,
-        "minor": 1119,
+        "minor": 1120,
         "patch": 0
     },
     "keywords": [
@@ -7223,6 +7223,14 @@
             "address": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "The Mart Token",
+            "symbol": "TMT",
+            "address": "0x6F02055E3541DD74A1aBD8692116c22fFAFaDc5D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6f02055e3541dd74a1abd8692116c22ffafadc5d/icon.png"
         }
     ]
 }
