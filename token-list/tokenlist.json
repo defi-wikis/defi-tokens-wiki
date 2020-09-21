@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:21:58.959Z",
+    "timestamp": "2020-09-21T23:22:14.741Z",
     "version": {
         "major": 1,
-        "minor": 1517,
+        "minor": 1518,
         "patch": 0
     },
     "keywords": [
@@ -9980,6 +9980,14 @@
             "address": "0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xffc63b9146967a1ba33066fb057ee3722221acf0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "USDG",
+            "symbol": "USDG",
+            "address": "0xF906997808F73B09C1007B98Ab539b189282b192",
+            "decimals": 3,
+            "logoURI": "https://tokens.dharma.io/assets/0xf906997808f73b09c1007b98ab539b189282b192/icon.png"
         }
     ]
 }
