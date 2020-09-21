@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:07:27.678Z",
+    "timestamp": "2020-09-21T23:07:38.835Z",
     "version": {
         "major": 1,
-        "minor": 1443,
+        "minor": 1444,
         "patch": 0
     },
     "keywords": [
@@ -9452,6 +9452,14 @@
             "address": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Evedo",
+            "symbol": "EVED",
+            "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd/icon.png"
         }
     ]
 }
