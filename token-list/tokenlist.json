@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:02:03.270Z",
+    "timestamp": "2020-09-21T22:02:16.405Z",
     "version": {
         "major": 1,
-        "minor": 1127,
+        "minor": 1128,
         "patch": 0
     },
     "keywords": [
@@ -7284,6 +7284,14 @@
             "symbol": "UNICRAP",
             "address": "0x64c5572E7a100AF9901c148D75d72c619A7f1e9d",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FLUX",
+            "symbol": "FLUX",
+            "address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x469eda64aed3a3ad6f868c44564291aa415cb1d9/icon.png"
         }
     ]
 }
