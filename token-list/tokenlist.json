@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T05:51:14.556Z",
+    "timestamp": "2020-09-21T05:52:10.063Z",
     "version": {
         "major": 1,
-        "minor": 986,
+        "minor": 987,
         "patch": 0
     },
     "keywords": [
@@ -6408,6 +6408,13 @@
             "name": "avalanche",
             "symbol": "AVA",
             "address": "0xD676d3c23A1A3A51C9d1D1557a702dC5127f8a8F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sendy Token",
+            "symbol": "SNDY",
+            "address": "0xa59f7a3eDBB1D9803CDb00721A5E2946739CFc83",
             "decimals": 18
         }
     ]
