@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:43:30.052Z",
+    "timestamp": "2020-09-21T22:43:41.899Z",
     "version": {
         "major": 1,
-        "minor": 1330,
+        "minor": 1331,
         "patch": 0
     },
     "keywords": [
@@ -8649,6 +8649,14 @@
             "address": "0x5299d6F7472DCc137D7f3C4BcfBBB514BaBF341A",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aragon Court",
+            "symbol": "ANJ",
+            "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcd62b1c403fa761baadfc74c525ce2b51780b184/icon.png"
         }
     ]
 }
