@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T08:45:39.185Z",
+    "timestamp": "2020-09-21T08:52:07.043Z",
     "version": {
         "major": 1,
-        "minor": 1013,
+        "minor": 1014,
         "patch": 0
     },
     "keywords": [
@@ -6597,6 +6597,13 @@
             "name": "QUICK GAME TOKEN",
             "symbol": "QGT",
             "address": "0x550F4Db8Cdc9478bb1C6eD2Fa33C46DeeA252858",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.Finance Token",
+            "symbol": "YFT",
+            "address": "0x1FA71EA9D548478Ddd816174Ae6B90eFa41704a5",
             "decimals": 18
         }
     ]
