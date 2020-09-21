@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T13:53:34.541Z",
+    "timestamp": "2020-09-21T15:46:24.943Z",
     "version": {
         "major": 1,
-        "minor": 1037,
+        "minor": 1038,
         "patch": 0
     },
     "keywords": [
@@ -6765,6 +6765,13 @@
             "name": "DssToken",
             "symbol": "DSS",
             "address": "0x213C53C96A01a89E6Dcc5683cF16473203E17513",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Galaxy Diamond",
+            "symbol": "GD",
+            "address": "0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24",
             "decimals": 18
         }
     ]
