@@ -1,0 +1,9 @@
+{
+    "name": "DeCash",
+    "symbol": "DESH",
+    "address": "0x95bA34760ac3D7fBE98ee8b2AB33b4F1a6D18878",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
