@@ -3,7 +3,5 @@
     "symbol": "CVD",
     "address": "0x6B466B0232640382950c45440Ea5b630744eCa99",
     "decimals": 0,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
