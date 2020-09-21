@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:00:52.435Z",
+    "timestamp": "2020-09-21T23:01:10.378Z",
     "version": {
         "major": 1,
-        "minor": 1412,
+        "minor": 1413,
         "patch": 0
     },
     "keywords": [
@@ -9224,6 +9224,14 @@
             "symbol": "NYAN",
             "address": "0xC9cE70A381910D0a90B30d408CC9C7705ee882de",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shiba Inu",
+            "symbol": "SHIB",
+            "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/icon.png"
         }
     ]
 }
