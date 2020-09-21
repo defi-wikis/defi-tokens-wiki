@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:57:39.584Z",
+    "timestamp": "2020-09-21T23:57:50.937Z",
     "version": {
         "major": 1,
-        "minor": 1697,
+        "minor": 1698,
         "patch": 0
     },
     "keywords": [
@@ -11313,6 +11313,14 @@
             "symbol": "CWBTC",
             "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Spaghetti",
+            "symbol": "PASTA",
+            "address": "0xE54f9E6Ab80ebc28515aF8b8233c1aeE6506a15E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e/icon.png"
         }
     ]
 }
