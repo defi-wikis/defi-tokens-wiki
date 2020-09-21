@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:46:18.336Z",
+    "timestamp": "2020-09-21T19:49:06.523Z",
     "version": {
         "major": 1,
-        "minor": 1079,
+        "minor": 1080,
         "patch": 0
     },
     "keywords": [
@@ -7021,6 +7021,13 @@
             "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc28e931814725bbeb9e670676fabbcb694fe7df2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MetaCapital Token",
+            "symbol": "MCT",
+            "address": "0x5242c24732d8Bec2F35c28c23782b77Db6111279",
+            "decimals": 8
         }
     ]
 }
