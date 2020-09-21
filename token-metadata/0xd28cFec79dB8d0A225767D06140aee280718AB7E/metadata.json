@@ -3,7 +3,5 @@
     "symbol": "BZKY",
     "address": "0xd28cFec79dB8d0A225767D06140aee280718AB7E",
     "decimals": 16,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
