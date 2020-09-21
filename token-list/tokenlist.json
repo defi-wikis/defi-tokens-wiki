@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:10:38.089Z",
+    "timestamp": "2020-09-21T22:10:51.842Z",
     "version": {
         "major": 1,
-        "minor": 1169,
+        "minor": 1170,
         "patch": 0
     },
     "keywords": [
@@ -7570,6 +7570,13 @@
             "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x960b236a07cf122663c4303350609a66a7b288c0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BUILD Finance",
+            "symbol": "BUILD",
+            "address": "0x6e36556B3ee5Aa28Def2a8EC3DAe30eC2B208739",
+            "decimals": 18
         }
     ]
 }
