@@ -3,7 +3,5 @@
     "symbol": "HUSD",
     "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
