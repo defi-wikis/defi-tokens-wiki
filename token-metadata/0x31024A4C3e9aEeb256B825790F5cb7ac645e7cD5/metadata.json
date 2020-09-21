@@ -1,0 +1,9 @@
+{
+    "name": "Xiotri",
+    "symbol": "XIOT",
+    "address": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+    "decimals": 3,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
