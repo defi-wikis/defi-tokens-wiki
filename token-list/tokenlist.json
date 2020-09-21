@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:08:32.135Z",
+    "timestamp": "2020-09-21T23:08:53.415Z",
     "version": {
         "major": 1,
-        "minor": 1449,
+        "minor": 1450,
         "patch": 0
     },
     "keywords": [
@@ -9483,6 +9483,13 @@
             "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0a913bead80f321e7ac35285ee10d9d922659cb7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFILEND FINANCE",
+            "symbol": "YFILD",
+            "address": "0xCec2387e04F9815BF12670dBf6cf03bba26DF25F",
+            "decimals": 18
         }
     ]
 }
