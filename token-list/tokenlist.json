@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:50:44.970Z",
+    "timestamp": "2020-09-21T23:50:56.483Z",
     "version": {
         "major": 1,
-        "minor": 1661,
+        "minor": 1662,
         "patch": 0
     },
     "keywords": [
@@ -11053,6 +11053,13 @@
             "address": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
             "decimals": 16,
             "logoURI": "https://tokens.dharma.io/assets/0x2e071d2966aa7d8decb1005885ba1977d6038a65/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Blam Chain",
+            "symbol": "BLAM",
+            "address": "0xd80CCB84916e5622628714Df75377523e49d8dfD",
+            "decimals": 8
         }
     ]
 }
