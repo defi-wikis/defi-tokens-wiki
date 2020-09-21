@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:58:47.013Z",
+    "timestamp": "2020-09-21T23:58:59.153Z",
     "version": {
         "major": 1,
-        "minor": 1703,
+        "minor": 1704,
         "patch": 0
     },
     "keywords": [
@@ -11359,6 +11359,14 @@
             "address": "0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6a4ffaafa8dd400676df8076ad6c724867b0e2e8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bloom",
+            "symbol": "BLT",
+            "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x107c4504cd79c5d2696ea0030a8dd4e92601b82e/icon.png"
         }
     ]
 }
