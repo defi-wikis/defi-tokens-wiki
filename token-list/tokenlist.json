@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:15:50.779Z",
+    "timestamp": "2020-09-21T23:16:00.281Z",
     "version": {
         "major": 1,
-        "minor": 1485,
+        "minor": 1486,
         "patch": 0
     },
     "keywords": [
@@ -9752,6 +9752,13 @@
             "address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x0f8c45b896784a1e408526b9300519ef8660209c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFFS Finance",
+            "symbol": "YFFS",
+            "address": "0x90D702f071d2af33032943137AD0aB4280705817",
+            "decimals": 18
         }
     ]
 }
