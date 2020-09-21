@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T01:59:24.838Z",
+    "timestamp": "2020-09-21T02:03:34.608Z",
     "version": {
         "major": 1,
-        "minor": 953,
+        "minor": 954,
         "patch": 0
     },
     "keywords": [
@@ -6178,6 +6178,13 @@
             "symbol": "pTLP",
             "address": "0xd814E02E779A216C5abaa5789E624cC017fb0876",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "PotatoToken (POTATO)",
+            "symbol": "PTT",
+            "address": "0x0A96945A37E02b07c80aC386af80ee6a709c3cA4",
+            "decimals": 18
         }
     ]
 }
