@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T00:33:10.012Z",
+    "timestamp": "2020-09-21T00:35:09.765Z",
     "version": {
         "major": 1,
-        "minor": 942,
+        "minor": 943,
         "patch": 0
     },
     "keywords": [
@@ -6101,6 +6101,13 @@
             "symbol": "300",
             "address": "0xc515B3F5Be38A1B2b30327f435300AE7e7B172B0",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "TRIBtoken.com",
+            "symbol": "TRIB",
+            "address": "0x480d098EeE81354799B7E071D484265b6CEddB73",
+            "decimals": 18
         }
     ]
 }
