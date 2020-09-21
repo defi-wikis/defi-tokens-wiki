@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:04:28.374Z",
+    "timestamp": "2020-09-21T23:04:40.263Z",
     "version": {
         "major": 1,
-        "minor": 1429,
+        "minor": 1430,
         "patch": 0
     },
     "keywords": [
@@ -9350,6 +9350,14 @@
             "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x43044f861ec040db59a7e324c40507addb673142/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "yfBeta",
+            "symbol": "YFBETA",
+            "address": "0x89eE58Af4871b474c30001982c3D7439C933c838",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x89ee58af4871b474c30001982c3d7439c933c838/icon.png"
         }
     ]
 }
