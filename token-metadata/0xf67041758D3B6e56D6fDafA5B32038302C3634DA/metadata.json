@@ -1,0 +1,9 @@
+{
+    "name": "TBC Shopping Token",
+    "symbol": "TST",
+    "address": "0xf67041758D3B6e56D6fDafA5B32038302C3634DA",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
