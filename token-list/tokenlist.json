@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:30:03.118Z",
+    "timestamp": "2020-09-21T23:30:14.514Z",
     "version": {
         "major": 1,
-        "minor": 1558,
+        "minor": 1559,
         "patch": 0
     },
     "keywords": [
@@ -10282,6 +10282,14 @@
             "symbol": "DFX",
             "address": "0xf1f5De69C9C8D9BE8a7B01773Cc1166D4Ec6Ede2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PolypuX",
+            "symbol": "PUX",
+            "address": "0xE277aC35F9D327A670c1A3F3eeC80a83022431e4",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xe277ac35f9d327a670c1a3f3eec80a83022431e4/icon.png"
         }
     ]
 }
