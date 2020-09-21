@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:45:22.851Z",
+    "timestamp": "2020-09-21T22:45:36.321Z",
     "version": {
         "major": 1,
-        "minor": 1339,
+        "minor": 1340,
         "patch": 0
     },
     "keywords": [
@@ -8714,6 +8714,14 @@
             "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Orbicular",
+            "symbol": "ORBI",
+            "address": "0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x11a2ab94ade17e96197c78f9d5f057332a19a0b9/icon.png"
         }
     ]
 }
