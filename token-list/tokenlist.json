@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:07:37.691Z",
+    "timestamp": "2020-09-21T22:07:47.019Z",
     "version": {
         "major": 1,
-        "minor": 1155,
+        "minor": 1156,
         "patch": 0
     },
     "keywords": [
@@ -7476,6 +7476,13 @@
             "address": "0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x79c71d3436f39ce382d0f58f1b011d88100b9d91/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcoin Wheelchair",
+            "symbol": "BTCWH",
+            "address": "0x4588C3c165a5C66C020997d89C2162814Aec9cD6",
+            "decimals": 8
         }
     ]
 }
