@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:22:14.741Z",
+    "timestamp": "2020-09-21T23:22:26.530Z",
     "version": {
         "major": 1,
-        "minor": 1518,
+        "minor": 1519,
         "patch": 0
     },
     "keywords": [
@@ -9988,6 +9988,14 @@
             "address": "0xF906997808F73B09C1007B98Ab539b189282b192",
             "decimals": 3,
             "logoURI": "https://tokens.dharma.io/assets/0xf906997808f73b09c1007b98ab539b189282b192/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "bXIOT",
+            "symbol": "BXIOT",
+            "address": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355/icon.png"
         }
     ]
 }
