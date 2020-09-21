@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:39:31.194Z",
+    "timestamp": "2020-09-21T22:39:49.926Z",
     "version": {
         "major": 1,
-        "minor": 1312,
+        "minor": 1313,
         "patch": 0
     },
     "keywords": [
@@ -8531,6 +8531,14 @@
             "address": "0x915044526758533dfB918ecEb6e44bc21632060D",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x915044526758533dfb918eceb6e44bc21632060d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BidiPass",
+            "symbol": "BDP",
+            "address": "0x593114f03A0A575aece9ED675e52Ed68D2172B8c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x593114f03a0a575aece9ed675e52ed68d2172b8c/icon.png"
         }
     ]
 }
