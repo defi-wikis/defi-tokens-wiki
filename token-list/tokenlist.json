@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:47:22.020Z",
+    "timestamp": "2020-09-21T23:47:34.348Z",
     "version": {
         "major": 1,
-        "minor": 1644,
+        "minor": 1645,
         "patch": 0
     },
     "keywords": [
@@ -10920,6 +10920,14 @@
             "address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cybercoin",
+            "symbol": "CBR",
+            "address": "0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b/icon.png"
         }
     ]
 }
