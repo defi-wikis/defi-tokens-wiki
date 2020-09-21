@@ -3,7 +3,5 @@
     "symbol": "PRINT",
     "address": "0x54b8c98268dA0055971652A95F2bfD3a9349A38c",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
