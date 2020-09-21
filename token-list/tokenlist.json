@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:14:41.275Z",
+    "timestamp": "2020-09-21T22:14:53.229Z",
     "version": {
         "major": 1,
-        "minor": 1190,
+        "minor": 1191,
         "patch": 0
     },
     "keywords": [
@@ -7699,6 +7699,14 @@
             "address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x11eef04c884e24d9b7b4760e7476d06ddf797f36/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Relex",
+            "symbol": "RLX",
+            "address": "0x4A42d2c580f83dcE404aCad18dab26Db11a1750E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4a42d2c580f83dce404acad18dab26db11a1750e/icon.png"
         }
     ]
 }
