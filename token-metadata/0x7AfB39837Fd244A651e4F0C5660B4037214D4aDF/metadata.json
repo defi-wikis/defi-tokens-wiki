@@ -3,7 +3,5 @@
     "symbol": "SODA",
     "address": "0x7AfB39837Fd244A651e4F0C5660B4037214D4aDF",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
