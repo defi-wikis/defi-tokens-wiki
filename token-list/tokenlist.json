@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:16:28.391Z",
+    "timestamp": "2020-09-21T21:20:06.782Z",
     "version": {
         "major": 1,
-        "minor": 1110,
+        "minor": 1111,
         "patch": 0
     },
     "keywords": [
@@ -7164,6 +7164,13 @@
             "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6710c63432a2de02954fc0f851db07146a6c0312/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "yRC20 Token Standart",
+            "symbol": "yRC20",
+            "address": "0xE599AcAe14e5fF1e3e51abCD311E7D1b5771C04D",
+            "decimals": 10
         }
     ]
 }
