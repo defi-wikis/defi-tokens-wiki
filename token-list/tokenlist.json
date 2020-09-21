@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:33:31.704Z",
+    "timestamp": "2020-09-21T23:33:45.709Z",
     "version": {
         "major": 1,
-        "minor": 1577,
+        "minor": 1578,
         "patch": 0
     },
     "keywords": [
@@ -10422,6 +10422,14 @@
             "address": "0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1a5f9352af8af974bfc03399e3767df6370d82e4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "KERMAN",
+            "symbol": "KERMAN",
+            "address": "0x7841B2A48D1F6e78ACeC359FEd6D874Eb8a0f63c",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x7841b2a48d1f6e78acec359fed6d874eb8a0f63c/icon.png"
         }
     ]
 }
