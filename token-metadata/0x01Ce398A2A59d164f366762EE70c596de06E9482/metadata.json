@@ -1,0 +1,7 @@
+{
+    "name": "UnFederalReserveToken",
+    "symbol": "eRSDL",
+    "address": "0x01Ce398A2A59d164f366762EE70c596de06E9482",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
