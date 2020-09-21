@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:37:36.149Z",
+    "timestamp": "2020-09-21T23:37:49.306Z",
     "version": {
         "major": 1,
-        "minor": 1597,
+        "minor": 1598,
         "patch": 0
     },
     "keywords": [
@@ -10565,6 +10565,14 @@
             "address": "0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LocalCoinSwap",
+            "symbol": "LCS",
+            "address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8/icon.png"
         }
     ]
 }
