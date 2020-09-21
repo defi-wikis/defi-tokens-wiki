@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:16:30.263Z",
+    "timestamp": "2020-09-21T22:16:42.438Z",
     "version": {
         "major": 1,
-        "minor": 1199,
+        "minor": 1200,
         "patch": 0
     },
     "keywords": [
@@ -4349,10 +4349,11 @@
         },
         {
             "chainId": 1,
-            "name": "metalblock",
+            "name": "Metalblock",
             "symbol": "MTBK",
             "address": "0x1dFEc1Cf1336c572c2D2E34fe8F6Aa2F409C8251",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1dfec1cf1336c572c2d2e34fe8f6aa2f409c8251/icon.png"
         },
         {
             "chainId": 1,
