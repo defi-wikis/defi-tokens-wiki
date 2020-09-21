@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:35:44.308Z",
+    "timestamp": "2020-09-21T02:36:09.879Z",
     "version": {
         "major": 1,
-        "minor": 959,
+        "minor": 960,
         "patch": 0
     },
     "keywords": [
@@ -6220,6 +6220,13 @@
             "symbol": "MOF",
             "address": "0x653430560bE843C4a3D143d0110e896c2Ab8ac0D",
             "decimals": 16
+        },
+        {
+            "chainId": 1,
+            "name": "Pogo.Finance",
+            "symbol": "POGO",
+            "address": "0xC30e3C0f121a5E357E321CED6504d31A71Abcdcc",
+            "decimals": 18
         }
     ]
 }
