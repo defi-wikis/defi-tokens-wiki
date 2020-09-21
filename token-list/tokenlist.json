@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:02:52.827Z",
+    "timestamp": "2020-09-21T22:03:06.309Z",
     "version": {
         "major": 1,
-        "minor": 1131,
+        "minor": 1132,
         "patch": 0
     },
     "keywords": [
@@ -7308,6 +7308,14 @@
             "address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd5525d397898e5502075ea5e830d8914f6f0affe/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AdEx",
+            "symbol": "ADX",
+            "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xade00c28244d5ce17d72e40330b1c318cd12b7c3/icon.png"
         }
     ]
 }
