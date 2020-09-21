@@ -3,7 +3,5 @@
     "symbol": "DYNMT",
     "address": "0x3B7f247f21BF3A07088C2D3423F64233d4B069F7",
     "decimals": 2,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
