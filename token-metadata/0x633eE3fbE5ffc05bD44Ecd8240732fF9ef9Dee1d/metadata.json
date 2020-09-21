@@ -1,0 +1,9 @@
+{
+    "name": "MarketPeak",
+    "symbol": "PEAK",
+    "address": "0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
