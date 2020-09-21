@@ -3,7 +3,5 @@
     "symbol": "ETY",
     "address": "0x5aCD07353106306a6530ac4D49233271Ec372963",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
