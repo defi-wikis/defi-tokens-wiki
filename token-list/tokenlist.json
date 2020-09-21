@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T16:38:55.649Z",
+    "timestamp": "2020-09-21T16:43:44.739Z",
     "version": {
         "major": 1,
-        "minor": 1045,
+        "minor": 1046,
         "patch": 0
     },
     "keywords": [
@@ -6821,6 +6821,13 @@
             "name": "yfio.trade",
             "symbol": "YFIO",
             "address": "0xd15B5aE7765C7B237Bc74f25FE8ccCfBa905cD7F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "StaFI",
+            "symbol": "FIS",
+            "address": "0x43FA5834b4e87aB2417a798048D84Dd1C9CE62da",
             "decimals": 18
         }
     ]
