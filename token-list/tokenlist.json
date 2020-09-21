@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T03:47:44.364Z",
+    "timestamp": "2020-09-21T03:51:09.773Z",
     "version": {
         "major": 1,
-        "minor": 970,
+        "minor": 971,
         "patch": 0
     },
     "keywords": [
@@ -6296,6 +6296,13 @@
             "name": "xyearn.finance",
             "symbol": "XYFI",
             "address": "0x80de22bF3aC14946B4151c10F8528123C43A1451",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CXN Network",
+            "symbol": "CXN",
+            "address": "0xb48E0F69e6A3064f5498D495F77AD83e0874ab28",
             "decimals": 18
         }
     ]
