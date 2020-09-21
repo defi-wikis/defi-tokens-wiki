@@ -3,7 +3,5 @@
     "symbol": "JUL",
     "address": "0x5580ab97F226C324c671746a1787524AEF42E415",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
