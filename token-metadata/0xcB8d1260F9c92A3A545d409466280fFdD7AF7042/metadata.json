@@ -3,7 +3,5 @@
     "symbol": "NFT",
     "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
