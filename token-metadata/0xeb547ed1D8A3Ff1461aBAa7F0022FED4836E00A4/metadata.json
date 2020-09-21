@@ -1,0 +1,9 @@
+{
+    "name": "Coin",
+    "symbol": "COIN",
+    "address": "0xeb547ed1D8A3Ff1461aBAa7F0022FED4836E00A4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
