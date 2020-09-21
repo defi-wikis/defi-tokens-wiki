@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:32:57.219Z",
+    "timestamp": "2020-09-21T22:33:11.704Z",
     "version": {
         "major": 1,
-        "minor": 1283,
+        "minor": 1284,
         "patch": 0
     },
     "keywords": [
@@ -8327,6 +8327,14 @@
             "address": "0x9556f8ee795D991fF371F547162D5efB2769425F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9556f8ee795d991ff371f547162d5efb2769425f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mainframe",
+            "symbol": "MFT",
+            "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xdf2c7238198ad8b389666574f2d8bc411a4b7428/icon.png"
         }
     ]
 }
