@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:07:57.376Z",
+    "timestamp": "2020-09-21T23:08:07.127Z",
     "version": {
         "major": 1,
-        "minor": 1446,
+        "minor": 1447,
         "patch": 0
     },
     "keywords": [
@@ -9460,6 +9460,13 @@
             "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "InfinityDeFi",
+            "symbol": "INFD",
+            "address": "0x82daD985AfD3708680Bac660f4E527DA4f0dCfA5",
+            "decimals": 8
         }
     ]
 }
