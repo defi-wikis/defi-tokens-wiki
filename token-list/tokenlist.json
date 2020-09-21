@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:43:53.574Z",
+    "timestamp": "2020-09-21T22:44:07.420Z",
     "version": {
         "major": 1,
-        "minor": 1332,
+        "minor": 1333,
         "patch": 0
     },
     "keywords": [
@@ -8665,6 +8665,14 @@
             "address": "0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "xDAI Stake",
+            "symbol": "STAKE",
+            "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0ae055097c6d159879521c384f1d2123d1f195e6/icon.png"
         }
     ]
 }
