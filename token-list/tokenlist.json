@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:36:10.134Z",
+    "timestamp": "2020-09-21T23:36:21.258Z",
     "version": {
         "major": 1,
-        "minor": 1590,
+        "minor": 1591,
         "patch": 0
     },
     "keywords": [
@@ -10509,6 +10509,14 @@
             "address": "0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xbcc66ed2ab491e9ae7bf8386541fb17421fa9d35/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Newtonium",
+            "symbol": "NEWTON",
+            "address": "0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xae9cbe6ebf72a51c9fcea3830485614486318fd4/icon.png"
         }
     ]
 }
