@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:57:06.527Z",
+    "timestamp": "2020-09-21T23:57:18.774Z",
     "version": {
         "major": 1,
-        "minor": 1694,
+        "minor": 1695,
         "patch": 0
     },
     "keywords": [
@@ -11290,6 +11290,14 @@
             "address": "0xD49ff13661451313cA1553fd6954BD1d9b6E02b9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TIKTOK COIN",
+            "symbol": "TIKTOK",
+            "address": "0xF4edA77f0B455A12f3eb44F8653835f377e36b76",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0xf4eda77f0b455a12f3eb44f8653835f377e36b76/icon.png"
         }
     ]
 }
