@@ -3,7 +3,5 @@
     "symbol": "SGA",
     "address": "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
