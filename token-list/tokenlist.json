@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:14:15.345Z",
+    "timestamp": "2020-09-21T22:14:26.421Z",
     "version": {
         "major": 1,
-        "minor": 1188,
+        "minor": 1189,
         "patch": 0
     },
     "keywords": [
@@ -7683,6 +7683,13 @@
             "name": "Bast",
             "symbol": "BAST",
             "address": "0x47eB79217f42f92dbd741ADd1B1a6783A2c873cf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mafia Network",
+            "symbol": "MAFI",
+            "address": "0x4889F721f80C5E9fadE6Ea9B85835D405D79a4f4",
             "decimals": 18
         }
     ]
