@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T20:29:06.402Z",
+    "timestamp": "2020-09-21T20:31:33.365Z",
     "version": {
         "major": 1,
-        "minor": 1093,
+        "minor": 1094,
         "patch": 0
     },
     "keywords": [
@@ -7063,6 +7063,14 @@
             "symbol": "$WILDY",
             "address": "0x3D4A076a01b303259046B548c8D759a1c77c32Fa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vision Network",
+            "symbol": "VSN",
+            "address": "0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x456ae45c0ce901e2e7c99c0718031cec0a7a59ff/icon.png"
         }
     ]
 }
