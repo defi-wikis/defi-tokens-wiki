@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:26:58.587Z",
+    "timestamp": "2020-09-21T23:27:11.474Z",
     "version": {
         "major": 1,
-        "minor": 1542,
+        "minor": 1543,
         "patch": 0
     },
     "keywords": [
@@ -10158,6 +10158,14 @@
             "address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PARSIQ",
+            "symbol": "PRQ",
+            "address": "0xFE2786D7D1cCAb8B015f6Ef7392F67d778f8d8D7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfe2786d7d1ccab8b015f6ef7392f67d778f8d8d7/icon.png"
         }
     ]
 }
