@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:42:05.533Z",
+    "timestamp": "2020-09-21T22:42:21.806Z",
     "version": {
         "major": 1,
-        "minor": 1323,
+        "minor": 1324,
         "patch": 0
     },
     "keywords": [
@@ -8609,6 +8609,14 @@
             "symbol": "YFV",
             "address": "0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Guppy",
+            "symbol": "GUP",
+            "address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
+            "decimals": 3,
+            "logoURI": "https://tokens.dharma.io/assets/0xf7b098298f7c69fc14610bf71d5e02c60792894c/icon.png"
         }
     ]
 }
