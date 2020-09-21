@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:24:14.150Z",
+    "timestamp": "2020-09-21T23:24:26.500Z",
     "version": {
         "major": 1,
-        "minor": 1528,
+        "minor": 1529,
         "patch": 0
     },
     "keywords": [
@@ -10066,6 +10066,14 @@
             "address": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x95daaab98046846bf4b2853e23cba236fa394a31/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DICE FINANCE",
+            "symbol": "DICE",
+            "address": "0xCF67CEd76E8356366291246A9222169F4dBdBe64",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcf67ced76e8356366291246a9222169f4dbdbe64/icon.png"
         }
     ]
 }
