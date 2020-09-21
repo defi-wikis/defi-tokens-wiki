@@ -3,7 +3,5 @@
     "symbol": "CVL",
     "address": "0x01FA555c97D7958Fa6f771f3BbD5CCD508f81e22",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
