@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:20:02.148Z",
+    "timestamp": "2020-09-21T22:20:11.455Z",
     "version": {
         "major": 1,
-        "minor": 1218,
+        "minor": 1219,
         "patch": 0
     },
     "keywords": [
@@ -7878,6 +7878,13 @@
             "address": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1fcdce58959f536621d76f5b7ffb955baa5a672f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Lead Token",
+            "symbol": "LEAD",
+            "address": "0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
+            "decimals": 18
         }
     ]
 }
