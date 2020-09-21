@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:25:48.972Z",
+    "timestamp": "2020-09-21T22:25:58.187Z",
     "version": {
         "major": 1,
-        "minor": 1248,
+        "minor": 1249,
         "patch": 0
     },
     "keywords": [
@@ -8059,6 +8059,13 @@
             "symbol": "YAMV2",
             "address": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
             "decimals": 24
+        },
+        {
+            "chainId": 1,
+            "name": "Lien",
+            "symbol": "LIEN",
+            "address": "0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E",
+            "decimals": 8
         }
     ]
 }
