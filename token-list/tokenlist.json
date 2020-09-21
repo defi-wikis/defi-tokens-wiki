@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:38:35.329Z",
+    "timestamp": "2020-09-21T23:38:50.538Z",
     "version": {
         "major": 1,
-        "minor": 1602,
+        "minor": 1603,
         "patch": 0
     },
     "keywords": [
@@ -10604,6 +10604,14 @@
             "address": "0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x2859021ee7f2cb10162e67f33af2d22764b31aff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Abyss",
+            "symbol": "ABYSS",
+            "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6/icon.png"
         }
     ]
 }
