@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:40:59.353Z",
+    "timestamp": "2020-09-21T17:48:14.919Z",
     "version": {
         "major": 1,
-        "minor": 1054,
+        "minor": 1055,
         "patch": 0
     },
     "keywords": [
@@ -6884,6 +6884,13 @@
             "name": "OnlyTenTokens",
             "symbol": "TEN",
             "address": "0xCa76a2FAbB0689930843eec0260a7433017CC904",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfpi.finance",
+            "symbol": "YFPI",
+            "address": "0x660Ca6Fe17A992b37C1897955630C56e61E492Fb",
             "decimals": 18
         }
     ]
