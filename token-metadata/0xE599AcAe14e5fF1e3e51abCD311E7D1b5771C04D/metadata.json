@@ -1,0 +1,7 @@
+{
+    "name": "yRC20 Token Standart",
+    "symbol": "yRC20",
+    "address": "0xE599AcAe14e5fF1e3e51abCD311E7D1b5771C04D",
+    "decimals": 10,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
