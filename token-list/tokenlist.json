@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:56:19.600Z",
+    "timestamp": "2020-09-21T22:56:42.729Z",
     "version": {
         "major": 1,
-        "minor": 1392,
+        "minor": 1393,
         "patch": 0
     },
     "keywords": [
@@ -9078,6 +9078,14 @@
             "address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5cf04716ba20127f1e2297addcf4b5035000c9eb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Harvest Finance",
+            "symbol": "FARM",
+            "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa0246c9032bc3a600820415ae600c6388619a14d/icon.png"
         }
     ]
 }
