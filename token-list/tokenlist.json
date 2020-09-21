@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:54:08.961Z",
+    "timestamp": "2020-09-21T22:54:19.431Z",
     "version": {
         "major": 1,
-        "minor": 1382,
+        "minor": 1383,
         "patch": 0
     },
     "keywords": [
@@ -9008,6 +9008,13 @@
             "address": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3505f494c3f0fed0b594e01fa41dd3967645ca39/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "0xMonero",
+            "symbol": "0XMR",
+            "address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+            "decimals": 18
         }
     ]
 }
