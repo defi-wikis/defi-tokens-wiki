@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:12:40.227Z",
+    "timestamp": "2020-09-21T23:12:50.461Z",
     "version": {
         "major": 1,
-        "minor": 1469,
+        "minor": 1470,
         "patch": 0
     },
     "keywords": [
@@ -9636,6 +9636,13 @@
             "address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Team Finance",
+            "symbol": "TEAM",
+            "address": "0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
+            "decimals": 18
         }
     ]
 }
