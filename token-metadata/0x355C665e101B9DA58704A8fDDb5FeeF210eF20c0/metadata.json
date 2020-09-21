@@ -3,7 +3,5 @@
     "symbol": "GOLDX",
     "address": "0x355C665e101B9DA58704A8fDDb5FeeF210eF20c0",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
