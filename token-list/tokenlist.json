@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:49:32.141Z",
+    "timestamp": "2020-09-21T23:49:45.094Z",
     "version": {
         "major": 1,
-        "minor": 1655,
+        "minor": 1656,
         "patch": 0
     },
     "keywords": [
@@ -11006,6 +11006,14 @@
             "address": "0x4Cd988AfBad37289BAAf53C13e98E2BD46aAEa8c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4cd988afbad37289baaf53c13e98e2bd46aaea8c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Parachute",
+            "symbol": "PAR",
+            "address": "0x1BeEF31946fbbb40B877a72E4ae04a8D1A5Cee06",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06/icon.png"
         }
     ]
 }
