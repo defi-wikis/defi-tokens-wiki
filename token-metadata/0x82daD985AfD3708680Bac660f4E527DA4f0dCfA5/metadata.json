@@ -3,7 +3,5 @@
     "symbol": "INFD",
     "address": "0x82daD985AfD3708680Bac660f4E527DA4f0dCfA5",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
