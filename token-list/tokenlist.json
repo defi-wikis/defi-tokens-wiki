@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:59:09.902Z",
+    "timestamp": "2020-09-21T22:59:25.979Z",
     "version": {
         "major": 1,
-        "minor": 1404,
+        "minor": 1405,
         "patch": 0
     },
     "keywords": [
@@ -9163,6 +9163,14 @@
             "address": "0xAFFCDd96531bCd66faED95FC61e443D08F79eFEf",
             "decimals": 5,
             "logoURI": "https://tokens.dharma.io/assets/0xaffcdd96531bcd66faed95fc61e443d08f79efef/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vetri",
+            "symbol": "VLD",
+            "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x922ac473a3cc241fd3a0049ed14536452d58d73c/icon.png"
         }
     ]
 }
