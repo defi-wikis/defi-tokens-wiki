@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:31:29.458Z",
+    "timestamp": "2020-09-21T22:31:41.296Z",
     "version": {
         "major": 1,
-        "minor": 1276,
+        "minor": 1277,
         "patch": 0
     },
     "keywords": [
@@ -197,7 +197,7 @@
         },
         {
             "chainId": 1,
-            "name": "Kyber Network Crystal",
+            "name": "Kyber Network",
             "symbol": "KNC",
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "decimals": 18,
