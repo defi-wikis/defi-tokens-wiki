@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:26:54.829Z",
+    "timestamp": "2020-09-21T22:27:06.563Z",
     "version": {
         "major": 1,
-        "minor": 1254,
+        "minor": 1255,
         "patch": 0
     },
     "keywords": [
@@ -8105,6 +8105,14 @@
             "address": "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4d807509aece24c0fa5a102b6a3b059ec6e14392/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ARMTOKEN",
+            "symbol": "TARM",
+            "address": "0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6/icon.png"
         }
     ]
 }
