@@ -3,7 +3,5 @@
     "symbol": "FYZ",
     "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
