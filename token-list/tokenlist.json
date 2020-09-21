@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:17:48.688Z",
+    "timestamp": "2020-09-21T22:18:01.176Z",
     "version": {
         "major": 1,
-        "minor": 1206,
+        "minor": 1207,
         "patch": 0
     },
     "keywords": [
@@ -7815,6 +7815,14 @@
             "symbol": "TRBT",
             "address": "0x7031AB87DCC46818806EC07aF46fa8c2aD2A2BFC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Huobi BTC",
+            "symbol": "HBTC",
+            "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0316eb71485b0ab14103307bf65a021042c6d380/icon.png"
         }
     ]
 }
