@@ -3,7 +3,5 @@
     "symbol": "DRAY",
     "address": "0x86642d169dB9F57A02C65052049CbbbfB3E3b08c",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
