@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:50:13.007Z",
+    "timestamp": "2020-09-21T22:50:24.998Z",
     "version": {
         "major": 1,
-        "minor": 1363,
+        "minor": 1364,
         "patch": 0
     },
     "keywords": [
@@ -8890,6 +8890,14 @@
             "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Basic Attention Tok",
+            "symbol": "BAT",
+            "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0d8775f648430679a709e98d2b0cb6250d2887ef/icon.png"
         }
     ]
 }
