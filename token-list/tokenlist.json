@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:25:38.531Z",
+    "timestamp": "2020-09-21T22:25:48.972Z",
     "version": {
         "major": 1,
-        "minor": 1247,
+        "minor": 1248,
         "patch": 0
     },
     "keywords": [
@@ -8052,6 +8052,13 @@
             "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc4c2614e694cf534d407ee49f8e44d125e4681c4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YAM v2",
+            "symbol": "YAMV2",
+            "address": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
+            "decimals": 24
         }
     ]
 }
