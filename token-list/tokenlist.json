@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:13:29.489Z",
+    "timestamp": "2020-09-21T21:13:46.918Z",
     "version": {
         "major": 1,
-        "minor": 1099,
+        "minor": 1100,
         "patch": 0
     },
     "keywords": [
@@ -7093,6 +7093,14 @@
             "symbol": "PUMP",
             "address": "0x7e7D79ebD171B81182c4981039efF868Aa2672f1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BOY Cassette Tape b",
+            "symbol": "TAPE",
+            "address": "0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9bfb088c9f311415e3f9b507da73081c52a49d8c/icon.png"
         }
     ]
 }
