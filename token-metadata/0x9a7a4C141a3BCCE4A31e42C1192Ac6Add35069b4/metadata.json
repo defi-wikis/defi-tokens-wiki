@@ -1,0 +1,9 @@
+{
+    "name": "Momentum",
+    "symbol": "XMM",
+    "address": "0x9a7a4C141a3BCCE4A31e42C1192Ac6Add35069b4",
+    "decimals": 10,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
