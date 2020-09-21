@@ -3,7 +3,5 @@
     "symbol": "HY",
     "address": "0x9b53E429B0baDd98ef7F01F03702986c516a5715",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
