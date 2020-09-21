@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:46:33.669Z",
+    "timestamp": "2020-09-21T23:46:45.201Z",
     "version": {
         "major": 1,
-        "minor": 1640,
+        "minor": 1641,
         "patch": 0
     },
     "keywords": [
@@ -10888,6 +10888,14 @@
             "address": "0x9b53E429B0baDd98ef7F01F03702986c516a5715",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9b53e429b0badd98ef7f01f03702986c516a5715/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Onyx USD",
+            "symbol": "OUSD",
+            "address": "0xD2d01dd6Aa7a2F5228c7c17298905A7C7E1dfE81",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd2d01dd6aa7a2f5228c7c17298905a7c7e1dfe81/icon.png"
         }
     ]
 }
