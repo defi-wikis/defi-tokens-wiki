@@ -1,0 +1,9 @@
+{
+    "name": "Karma DAO",
+    "symbol": "KARMA",
+    "address": "0xdfe691F37b6264a90Ff507EB359C45d55037951C",
+    "decimals": 4,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
