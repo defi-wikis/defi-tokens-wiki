@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:55:00.775Z",
+    "timestamp": "2020-09-21T22:55:12.540Z",
     "version": {
         "major": 1,
-        "minor": 1386,
+        "minor": 1387,
         "patch": 0
     },
     "keywords": [
@@ -9031,6 +9031,14 @@
             "address": "0x4B4F5286e0f93E965292B922B9Cd1677512F1222",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4b4f5286e0f93e965292b922b9cd1677512f1222/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Darwinia Commitment",
+            "symbol": "KTON",
+            "address": "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff/icon.png"
         }
     ]
 }
