@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T16:01:39.920Z",
+    "timestamp": "2020-09-21T16:09:24.564Z",
     "version": {
         "major": 1,
-        "minor": 1039,
+        "minor": 1040,
         "patch": 0
     },
     "keywords": [
@@ -6779,6 +6779,13 @@
             "name": "YF Beam",
             "symbol": "YFBM",
             "address": "0xe1E876016cfa10f3ADB4c8EEC541db134e14EAc8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "moonfi",
+            "symbol": "MOON",
+            "address": "0xf49A690FcdfC3933011262F3eFA91cE7483859b5",
             "decimals": 18
         }
     ]
