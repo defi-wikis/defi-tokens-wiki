@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:24:53.439Z",
+    "timestamp": "2020-09-21T22:25:04.585Z",
     "version": {
         "major": 1,
-        "minor": 1243,
+        "minor": 1244,
         "patch": 0
     },
     "keywords": [
@@ -8028,6 +8028,14 @@
             "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7afebbb46fdb47ed17b22ed075cde2447694fb9e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Prometeus",
+            "symbol": "PROM",
+            "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfc82bb4ba86045af6f327323a46e80412b91b27d/icon.png"
         }
     ]
 }
