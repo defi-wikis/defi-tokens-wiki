@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T18:14:15.091Z",
+    "timestamp": "2020-09-21T18:15:19.880Z",
     "version": {
         "major": 1,
-        "minor": 1059,
+        "minor": 1060,
         "patch": 0
     },
     "keywords": [
@@ -6920,6 +6920,13 @@
             "symbol": "CROWN",
             "address": "0xba4418f862A8d37c67991d658a3C5C09bD8C7366",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SnowFi",
+            "symbol": "SNWF",
+            "address": "0xcccA0C89F1996b18FBd959e03F9899047Bb215D1",
+            "decimals": 2
         }
     ]
 }
