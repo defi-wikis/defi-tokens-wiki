@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:27:06.563Z",
+    "timestamp": "2020-09-21T22:27:15.727Z",
     "version": {
         "major": 1,
-        "minor": 1255,
+        "minor": 1256,
         "patch": 0
     },
     "keywords": [
@@ -8113,6 +8113,13 @@
             "address": "0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Medalte",
+            "symbol": "MDTL",
+            "address": "0x625687081BA9FcbFfB0ae6bfe8D7FaD6f616f494",
+            "decimals": 18
         }
     ]
 }
