@@ -1,0 +1,9 @@
+{
+    "name": "VEDX TOKEN",
+    "symbol": "VEDX",
+    "address": "0xd64904232b4674c24fA59170D12fC7df20f5880e",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
