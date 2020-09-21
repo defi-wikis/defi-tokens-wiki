@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:24:30.962Z",
+    "timestamp": "2020-09-21T22:24:41.853Z",
     "version": {
         "major": 1,
-        "minor": 1241,
+        "minor": 1242,
         "patch": 0
     },
     "keywords": [
@@ -8020,6 +8020,14 @@
             "symbol": "CTG",
             "address": "0xc760721eB65AA6B0a634df6A008887C48813fF63",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Ocean Protocol",
+            "symbol": "OCEAN",
+            "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7afebbb46fdb47ed17b22ed075cde2447694fb9e/icon.png"
         }
     ]
 }
