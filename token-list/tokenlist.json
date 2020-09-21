@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:48:13.032Z",
+    "timestamp": "2020-09-21T22:48:22.139Z",
     "version": {
         "major": 1,
-        "minor": 1354,
+        "minor": 1355,
         "patch": 0
     },
     "keywords": [
@@ -8827,6 +8827,13 @@
             "name": "BITTO",
             "symbol": "BITTO",
             "address": "0xa101E27f06A97985B925E244111b61560Ecd97DB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yTSLA Finance",
+            "symbol": "YTSLA",
+            "address": "0x5322A3556F979cE2180B30e689a9436fDDCB1021",
             "decimals": 18
         }
     ]
