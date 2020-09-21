@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:22:38.646Z",
+    "timestamp": "2020-09-21T23:22:52.280Z",
     "version": {
         "major": 1,
-        "minor": 1520,
+        "minor": 1521,
         "patch": 0
     },
     "keywords": [
@@ -10004,6 +10004,14 @@
             "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x06af07097c9eeb7fd685c692751d5c66db49c215/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Tap",
+            "symbol": "XTP",
+            "address": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc/icon.png"
         }
     ]
 }
