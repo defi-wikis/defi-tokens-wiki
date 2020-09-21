@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:27:29.409Z",
+    "timestamp": "2020-09-21T22:27:40.980Z",
     "version": {
         "major": 1,
-        "minor": 1257,
+        "minor": 1258,
         "patch": 0
     },
     "keywords": [
@@ -8128,6 +8128,14 @@
             "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x26e75307fc0c021472feb8f727839531f112f317/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Telcoin",
+            "symbol": "TEL",
+            "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x467bccd9d29f223bce8043b84e8c8b282827790f/icon.png"
         }
     ]
 }
