@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:35:30.106Z",
+    "timestamp": "2020-09-21T22:35:44.037Z",
     "version": {
         "major": 1,
-        "minor": 1296,
+        "minor": 1297,
         "patch": 0
     },
     "keywords": [
@@ -4772,7 +4772,8 @@
             "name": "ChartEx",
             "symbol": "CHART",
             "address": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1d37986f252d0e349522ea6c3b98cb935495e63e/icon.png"
         },
         {
             "chainId": 1,
