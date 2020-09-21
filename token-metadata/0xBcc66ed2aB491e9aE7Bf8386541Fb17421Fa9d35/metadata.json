@@ -3,7 +3,5 @@
     "symbol": "SKULL",
     "address": "0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
