@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:56:31.748Z",
+    "timestamp": "2020-09-21T23:56:44.532Z",
     "version": {
         "major": 1,
-        "minor": 1691,
+        "minor": 1692,
         "patch": 0
     },
     "keywords": [
@@ -11267,6 +11267,14 @@
             "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0d88ed6e74bbfd96b831231638b66c05571e824f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mainstream For The ",
+            "symbol": "MFTU",
+            "address": "0x05D412CE18F24040bB3Fa45CF2C69e506586D8e8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x05d412ce18f24040bb3fa45cf2c69e506586d8e8/icon.png"
         }
     ]
 }
