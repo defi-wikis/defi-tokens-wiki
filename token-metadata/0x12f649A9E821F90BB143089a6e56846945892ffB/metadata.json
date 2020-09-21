@@ -3,7 +3,5 @@
     "symbol": "UDOO",
     "address": "0x12f649A9E821F90BB143089a6e56846945892ffB",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
