@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:19:39.833Z",
+    "timestamp": "2020-09-21T02:23:39.228Z",
     "version": {
         "major": 1,
-        "minor": 956,
+        "minor": 957,
         "patch": 0
     },
     "keywords": [
@@ -6198,6 +6198,13 @@
             "name": "SimpleChain",
             "symbol": "SIPC",
             "address": "0x52C2a92Eb78C64B975CC8bc328F5f6f6DF562073",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deus.finance",
+            "symbol": "DEUS",
+            "address": "0x0f24E3CaCD2f9Cc05B87BBf620DA926757daCff7",
             "decimals": 18
         }
     ]
