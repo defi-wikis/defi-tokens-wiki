@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:00:23.684Z",
+    "timestamp": "2020-09-21T23:00:40.145Z",
     "version": {
         "major": 1,
-        "minor": 1410,
+        "minor": 1411,
         "patch": 0
     },
     "keywords": [
@@ -9209,6 +9209,14 @@
             "address": "0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pillar",
+            "symbol": "PLR",
+            "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe3818504c1b32bf1557b16c238b2e01fd3149c17/icon.png"
         }
     ]
 }
