@@ -1,8 +1,9 @@
 {
-    "name": "0x Protocol Token",
+    "name": "0x",
     "symbol": "ZRX",
     "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED",
-    "tags": ["dex"]
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
