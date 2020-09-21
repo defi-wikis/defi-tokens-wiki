@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:43:18.456Z",
+    "timestamp": "2020-09-21T23:43:33.517Z",
     "version": {
         "major": 1,
-        "minor": 1626,
+        "minor": 1627,
         "patch": 0
     },
     "keywords": [
@@ -10785,6 +10785,14 @@
             "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pyrrhos Gold Token",
+            "symbol": "PGOLD",
+            "address": "0xF02DAB52205aFf6Bb3d47Cc7B21624a5064F9FBA",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xf02dab52205aff6bb3d47cc7b21624a5064f9fba/icon.png"
         }
     ]
 }
