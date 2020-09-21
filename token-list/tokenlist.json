@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T03:32:29.834Z",
+    "timestamp": "2020-09-21T03:34:54.284Z",
     "version": {
         "major": 1,
-        "minor": 966,
+        "minor": 967,
         "patch": 0
     },
     "keywords": [
@@ -6268,6 +6268,13 @@
             "name": "republic.co",
             "symbol": "REP",
             "address": "0x9Cc33C6CD4aaCD6C8442dCf92E8a47f6CD350a2D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ommer.network",
+            "symbol": "OMM",
+            "address": "0x4bA1466C10c7236F23f91471002d11178B96894A",
             "decimals": 18
         }
     ]
