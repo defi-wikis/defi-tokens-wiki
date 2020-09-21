@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:18:33.872Z",
+    "timestamp": "2020-09-21T22:18:47.599Z",
     "version": {
         "major": 1,
-        "minor": 1210,
+        "minor": 1211,
         "patch": 0
     },
     "keywords": [
@@ -7846,6 +7846,14 @@
             "symbol": "MAKI",
             "address": "0x270D09cb4be817c98e84fEffdE03D5CD45e30a27",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DYNAMITE Token",
+            "symbol": "DYNMT",
+            "address": "0x3B7f247f21BF3A07088C2D3423F64233d4B069F7",
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x3b7f247f21bf3a07088c2d3423f64233d4b069f7/icon.png"
         }
     ]
 }
