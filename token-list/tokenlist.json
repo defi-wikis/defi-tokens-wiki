@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:22:29.351Z",
+    "timestamp": "2020-09-21T19:23:24.724Z",
     "version": {
         "major": 1,
-        "minor": 1069,
+        "minor": 1070,
         "patch": 0
     },
     "keywords": [
@@ -6989,6 +6989,13 @@
             "name": "XYearn.Finance Bug Test Token",
             "symbol": "XYFI",
             "address": "0x1Cc18ADd40343F94875e6B1C7585B649F074ddb3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Weave DAO Token",
+            "symbol": "WEV",
+            "address": "0xFB9fc4CCC2538172fe76F7dC231a6969950E57c8",
             "decimals": 18
         }
     ]
