@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T12:21:32.877Z",
+    "timestamp": "2020-09-21T12:24:55.009Z",
     "version": {
         "major": 1,
-        "minor": 1029,
+        "minor": 1030,
         "patch": 0
     },
     "keywords": [
@@ -6709,6 +6709,13 @@
             "name": "ETH/BTC Long-Only Alpha",
             "symbol": "XTF.SWCEBL",
             "address": "0xF28Fec34928A1Dc19B650104ae082665B66F720E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IYF.Finance",
+            "symbol": "IYF",
+            "address": "0x98Def380d485a702Fb4ad87203efc02EB4d708C2",
             "decimals": 18
         }
     ]
