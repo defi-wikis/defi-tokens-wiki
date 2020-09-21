@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:45:36.321Z",
+    "timestamp": "2020-09-21T22:45:47.378Z",
     "version": {
         "major": 1,
-        "minor": 1340,
+        "minor": 1341,
         "patch": 0
     },
     "keywords": [
@@ -8722,6 +8722,13 @@
             "address": "0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x11a2ab94ade17e96197c78f9d5f057332a19a0b9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Render Token",
+            "symbol": "RNDR",
+            "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "decimals": 18
         }
     ]
 }
