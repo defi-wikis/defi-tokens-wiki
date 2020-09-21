@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:34:10.676Z",
+    "timestamp": "2020-09-21T23:34:22.309Z",
     "version": {
         "major": 1,
-        "minor": 1580,
+        "minor": 1581,
         "patch": 0
     },
     "keywords": [
@@ -10445,6 +10445,14 @@
             "symbol": "BAZT",
             "address": "0xB020eD54651831878E5C967e0953A900786178f9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Teccoin",
+            "symbol": "TECN",
+            "address": "0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7dee371a788f9bd6c546df83f0d74fbe37cbf006/icon.png"
         }
     ]
 }
