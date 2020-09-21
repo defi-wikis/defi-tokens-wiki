@@ -3,7 +3,5 @@
     "symbol": "CRU",
     "address": "0xFbC1473E245b8AfBbA3b46116e0B01f91A026633",
     "decimals": 0,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
