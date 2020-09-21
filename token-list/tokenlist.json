@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:07:47.019Z",
+    "timestamp": "2020-09-21T22:07:56.651Z",
     "version": {
         "major": 1,
-        "minor": 1156,
+        "minor": 1157,
         "patch": 0
     },
     "keywords": [
@@ -1359,7 +1359,7 @@
         },
         {
             "chainId": 1,
-            "name": "Printer.Finance",
+            "name": "Printer Finance",
             "symbol": "PRINT",
             "address": "0x54b8c98268dA0055971652A95F2bfD3a9349A38c",
             "decimals": 18
