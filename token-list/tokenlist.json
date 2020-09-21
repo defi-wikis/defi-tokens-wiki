@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:58:32.399Z",
+    "timestamp": "2020-09-21T20:03:44.513Z",
     "version": {
         "major": 1,
-        "minor": 1087,
+        "minor": 1088,
         "patch": 0
     },
     "keywords": [
@@ -7041,6 +7041,13 @@
             "name": "Burningmoon.net",
             "symbol": "MOONB",
             "address": "0xB75eb32B6Bc0bE926Ebb6240933548385B6D42D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Origin Dollar",
+            "symbol": "OUSD",
+            "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
             "decimals": 18
         }
     ]
