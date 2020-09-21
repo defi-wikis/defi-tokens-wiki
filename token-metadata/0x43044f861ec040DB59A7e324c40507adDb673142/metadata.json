@@ -1,0 +1,9 @@
+{
+    "name": "Cap",
+    "symbol": "CAP",
+    "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
