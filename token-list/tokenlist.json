@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:40:47.836Z",
+    "timestamp": "2020-09-21T22:41:01.151Z",
     "version": {
         "major": 1,
-        "minor": 1317,
+        "minor": 1318,
         "patch": 0
     },
     "keywords": [
@@ -8571,6 +8571,14 @@
             "address": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xc813ea5e3b48bebeedb796ab42a30c5599b01740/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "XIO",
+            "symbol": "XIO",
+            "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0f7f961648ae6db43c75663ac7e5414eb79b5704/icon.png"
         }
     ]
 }
