@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:52:10.835Z",
+    "timestamp": "2020-09-21T23:52:19.809Z",
     "version": {
         "major": 1,
-        "minor": 1667,
+        "minor": 1668,
         "patch": 0
     },
     "keywords": [
@@ -11092,6 +11092,13 @@
             "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x580c8520deda0a441522aeae0f9f7a5f29629afa/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vibz8",
+            "symbol": "VIBS",
+            "address": "0x53Db6b7fee89383435e424764A8478ACDA4DD2cD",
+            "decimals": 18
         }
     ]
 }
