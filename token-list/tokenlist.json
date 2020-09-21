@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T11:15:11.502Z",
+    "timestamp": "2020-09-21T11:16:25.043Z",
     "version": {
         "major": 1,
-        "minor": 1023,
+        "minor": 1024,
         "patch": 0
     },
     "keywords": [
@@ -6667,6 +6667,13 @@
             "name": "Super Swap",
             "symbol": "SUPER",
             "address": "0xb5E991a4C2B2D313d4f4795FFFb2C383b8A3416a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DarkDuck",
+            "symbol": "dDuck",
+            "address": "0x2BF52f23D8A63272385841A587a05E9e7eeac405",
             "decimals": 18
         }
     ]
