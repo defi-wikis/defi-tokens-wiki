@@ -1,0 +1,9 @@
+{
+    "name": "TIG Token",
+    "symbol": "TIG",
+    "address": "0x749826F1041CAF0Ea856a4b3578Ba327B18335F8",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
