@@ -1,0 +1,9 @@
+{
+    "name": "renZEC",
+    "symbol": "RENZEC",
+    "address": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
