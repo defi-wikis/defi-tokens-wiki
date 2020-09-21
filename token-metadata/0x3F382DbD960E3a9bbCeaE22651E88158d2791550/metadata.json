@@ -1,7 +1,9 @@
 {
-    "name": "Aavegotchi GHST Token",
+    "name": "Aavegotchi",
     "symbol": "GHST",
     "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
