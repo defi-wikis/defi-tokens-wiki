@@ -1,0 +1,9 @@
+{
+    "name": "DeFiat",
+    "symbol": "DFT",
+    "address": "0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
