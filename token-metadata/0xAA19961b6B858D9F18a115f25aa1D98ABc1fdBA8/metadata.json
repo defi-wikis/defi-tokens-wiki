@@ -3,7 +3,5 @@
     "symbol": "LCS",
     "address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
