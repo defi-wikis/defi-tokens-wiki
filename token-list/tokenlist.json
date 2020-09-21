@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:16:53.993Z",
+    "timestamp": "2020-09-21T22:17:04.741Z",
     "version": {
         "major": 1,
-        "minor": 1201,
+        "minor": 1202,
         "patch": 0
     },
     "keywords": [
@@ -7778,6 +7778,14 @@
             "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x8ba6dcc667d3ff64c1a2123ce72ff5f0199e5315/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mini",
+            "symbol": "MINI",
+            "address": "0x4D953cf077c0C95Ba090226E59A18FcF97db44EC",
+            "decimals": 19,
+            "logoURI": "https://tokens.dharma.io/assets/0x4d953cf077c0c95ba090226e59a18fcf97db44ec/icon.png"
         }
     ]
 }
