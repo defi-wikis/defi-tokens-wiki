@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:47:59.315Z",
+    "timestamp": "2020-09-21T02:49:29.586Z",
     "version": {
         "major": 1,
-        "minor": 962,
+        "minor": 963,
         "patch": 0
     },
     "keywords": [
@@ -6240,6 +6240,13 @@
             "name": "BitBall Treasure",
             "symbol": "BTRS",
             "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MilkToken",
+            "symbol": "MILK",
+            "address": "0xBE7930056a18f7f05FC5315F39B2B172746DC176",
             "decimals": 18
         }
     ]
