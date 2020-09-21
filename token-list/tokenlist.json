@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T04:41:09.787Z",
+    "timestamp": "2020-09-21T04:44:14.203Z",
     "version": {
         "major": 1,
-        "minor": 978,
+        "minor": 979,
         "patch": 0
     },
     "keywords": [
@@ -6353,6 +6353,13 @@
             "symbol": "NII",
             "address": "0x7c8155909cd385F120A56eF90728dD50F9CcbE52",
             "decimals": 15
+        },
+        {
+            "chainId": 1,
+            "name": "Neo Finance",
+            "symbol": "NEO",
+            "address": "0xE061D1a4069242B02Ce48C55bdB130262CDEb341",
+            "decimals": 18
         }
     ]
 }
