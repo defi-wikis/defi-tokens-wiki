@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:11:03.886Z",
+    "timestamp": "2020-09-21T22:11:15.623Z",
     "version": {
         "major": 1,
-        "minor": 1171,
+        "minor": 1172,
         "patch": 0
     },
     "keywords": [
@@ -7578,6 +7578,14 @@
             "symbol": "BUILD",
             "address": "0x6e36556B3ee5Aa28Def2a8EC3DAe30eC2B208739",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dragonchain",
+            "symbol": "DRGN",
+            "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e/icon.png"
         }
     ]
 }
