@@ -3,7 +3,5 @@
     "symbol": "RCN",
     "address": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
