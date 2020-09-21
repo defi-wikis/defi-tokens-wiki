@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:22:26.530Z",
+    "timestamp": "2020-09-21T23:22:38.646Z",
     "version": {
         "major": 1,
-        "minor": 1519,
+        "minor": 1520,
         "patch": 0
     },
     "keywords": [
@@ -9996,6 +9996,14 @@
             "address": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Chai",
+            "symbol": "CHAI",
+            "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x06af07097c9eeb7fd685c692751d5c66db49c215/icon.png"
         }
     ]
 }
