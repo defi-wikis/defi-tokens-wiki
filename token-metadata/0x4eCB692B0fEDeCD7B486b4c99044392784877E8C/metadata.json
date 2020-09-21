@@ -1,0 +1,9 @@
+{
+    "name": "Cherry",
+    "symbol": "CHERRY",
+    "address": "0x4eCB692B0fEDeCD7B486b4c99044392784877E8C",
+    "decimals": 4,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
