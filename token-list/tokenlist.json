@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:53:27.443Z",
+    "timestamp": "2020-09-21T22:53:42.684Z",
     "version": {
         "major": 1,
-        "minor": 1379,
+        "minor": 1380,
         "patch": 0
     },
     "keywords": [
@@ -8992,6 +8992,14 @@
             "address": "0x55648De19836338549130B1af587F16beA46F66B",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x55648de19836338549130b1af587f16bea46f66b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MANTRA DAO",
+            "symbol": "OM",
+            "address": "0x2baEcDf43734F22FD5c152DB08E3C27233F0c7d2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2/icon.png"
         }
     ]
 }
