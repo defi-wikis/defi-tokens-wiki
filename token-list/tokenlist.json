@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:27:15.727Z",
+    "timestamp": "2020-09-21T22:27:29.409Z",
     "version": {
         "major": 1,
-        "minor": 1256,
+        "minor": 1257,
         "patch": 0
     },
     "keywords": [
@@ -8120,6 +8120,14 @@
             "symbol": "MDTL",
             "address": "0x625687081BA9FcbFfB0ae6bfe8D7FaD6f616f494",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CRYPTO20",
+            "symbol": "C20",
+            "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x26e75307fc0c021472feb8f727839531f112f317/icon.png"
         }
     ]
 }
