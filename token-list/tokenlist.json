@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T08:04:24.840Z",
+    "timestamp": "2020-09-21T08:04:34.177Z",
     "version": {
         "major": 1,
-        "minor": 1008,
+        "minor": 1009,
         "patch": 0
     },
     "keywords": [
@@ -6563,6 +6563,13 @@
             "symbol": "MET",
             "address": "0xFc55B991B172b0aB4BA4e072c83688a92d362091",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dollars",
+            "symbol": "USD",
+            "address": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+            "decimals": 9
         }
     ]
 }
