@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:46:45.201Z",
+    "timestamp": "2020-09-21T23:46:57.992Z",
     "version": {
         "major": 1,
-        "minor": 1641,
+        "minor": 1642,
         "patch": 0
     },
     "keywords": [
@@ -10896,6 +10896,14 @@
             "address": "0xD2d01dd6Aa7a2F5228c7c17298905A7C7E1dfE81",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd2d01dd6aa7a2f5228c7c17298905a7c7e1dfe81/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Atonomi",
+            "symbol": "ATMI",
+            "address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x97aeb5066e1a590e868b511457beb6fe99d329f5/icon.png"
         }
     ]
 }
