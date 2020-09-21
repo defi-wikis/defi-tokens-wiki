@@ -1,0 +1,9 @@
+{
+    "name": "Team Finance",
+    "symbol": "TEAM",
+    "address": "0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
