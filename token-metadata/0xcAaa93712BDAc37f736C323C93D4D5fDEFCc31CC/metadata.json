@@ -3,7 +3,5 @@
     "symbol": "CRD",
     "address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
