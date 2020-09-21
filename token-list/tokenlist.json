@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:02:17.620Z",
+    "timestamp": "2020-09-21T23:02:31.007Z",
     "version": {
         "major": 1,
-        "minor": 1418,
+        "minor": 1419,
         "patch": 0
     },
     "keywords": [
@@ -9272,6 +9272,14 @@
             "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x667088b212ce3d06a1b553a7221e1fd19000d9af/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Silverway",
+            "symbol": "SLV",
+            "address": "0x4c1C4957D22D8F373aeD54d0853b090666F6F9De",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4c1c4957d22d8f373aed54d0853b090666f6f9de/icon.png"
         }
     ]
 }
