@@ -1,0 +1,9 @@
+{
+    "name": "AFRICUNIA BANK",
+    "symbol": "AFCASH",
+    "address": "0xb8a5dBa52FE8A0Dd737Bf15ea5043CEA30c7e30B",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
