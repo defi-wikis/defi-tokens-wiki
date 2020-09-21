@@ -1,0 +1,9 @@
+{
+    "name": "Creed Finance",
+    "symbol": "CREED",
+    "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
