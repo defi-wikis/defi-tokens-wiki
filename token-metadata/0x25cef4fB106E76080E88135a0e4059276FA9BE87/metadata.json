@@ -3,7 +3,5 @@
     "symbol": "UNITS",
     "address": "0x25cef4fB106E76080E88135a0e4059276FA9BE87",
     "decimals": 5,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
