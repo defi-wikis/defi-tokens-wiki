@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:22:06.404Z",
+    "timestamp": "2020-09-21T19:22:29.351Z",
     "version": {
         "major": 1,
-        "minor": 1068,
+        "minor": 1069,
         "patch": 0
     },
     "keywords": [
@@ -6982,6 +6982,13 @@
             "name": "Lets Moon it Baby",
             "symbol": "LMIB",
             "address": "0x02bFAa0a2050AffBEdd3449AEc83157F3fB323c2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XYearn.Finance Bug Test Token",
+            "symbol": "XYFI",
+            "address": "0x1Cc18ADd40343F94875e6B1C7585B649F074ddb3",
             "decimals": 18
         }
     ]
