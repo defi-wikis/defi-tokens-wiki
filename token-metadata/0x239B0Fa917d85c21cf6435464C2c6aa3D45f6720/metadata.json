@@ -3,7 +3,5 @@
     "symbol": "ETH3L",
     "address": "0x239B0Fa917d85c21cf6435464C2c6aa3D45f6720",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
