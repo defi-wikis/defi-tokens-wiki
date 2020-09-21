@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T01:07:44.407Z",
+    "timestamp": "2020-09-21T01:12:54.351Z",
     "version": {
         "major": 1,
-        "minor": 948,
+        "minor": 949,
         "patch": 0
     },
     "keywords": [
@@ -6142,6 +6142,13 @@
             "name": "DontBuyShitCoin",
             "symbol": "DontBuyShitCoin",
             "address": "0x5b6Bea81A77d6747f5CFb2F7C797b9D3AB64479F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ILT",
+            "symbol": "ILT",
+            "address": "0xcff1507BB0462cD58E1FACAD90845f52d57D1229",
             "decimals": 18
         }
     ]
