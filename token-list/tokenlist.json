@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:46:59.489Z",
+    "timestamp": "2020-09-21T22:47:08.902Z",
     "version": {
         "major": 1,
-        "minor": 1347,
+        "minor": 1348,
         "patch": 0
     },
     "keywords": [
@@ -8776,6 +8776,13 @@
             "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Kush Finance",
+            "symbol": "KSEED",
+            "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
+            "decimals": 18
         }
     ]
 }
