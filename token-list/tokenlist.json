@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:35:28.921Z",
+    "timestamp": "2020-09-21T23:35:43.761Z",
     "version": {
         "major": 1,
-        "minor": 1587,
+        "minor": 1588,
         "patch": 0
     },
     "keywords": [
@@ -10485,6 +10485,14 @@
             "address": "0x6B583Cf4abA7Bf9d6f8A51B3F1F7C7B2ce59Bf15",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped CryptoKitti",
+            "symbol": "WCK",
+            "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x09fe5f0236f0ea5d930197dce254d77b04128075/icon.png"
         }
     ]
 }
