@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:53:03.025Z",
+    "timestamp": "2020-09-21T22:53:11.969Z",
     "version": {
         "major": 1,
-        "minor": 1377,
+        "minor": 1378,
         "patch": 0
     },
     "keywords": [
@@ -8977,6 +8977,13 @@
             "address": "0x6F919D67967a97EA36195A2346d9244E60FE0dDB",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6f919d67967a97ea36195a2346d9244e60fe0ddb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "unibot cash",
+            "symbol": "UNDB",
+            "address": "0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70",
+            "decimals": 18
         }
     ]
 }
