@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T08:24:19.428Z",
+    "timestamp": "2020-09-21T08:45:39.185Z",
     "version": {
         "major": 1,
-        "minor": 1012,
+        "minor": 1013,
         "patch": 0
     },
     "keywords": [
@@ -6590,6 +6590,13 @@
             "name": "Yield Finance Trading",
             "symbol": "YFIT",
             "address": "0x7ED55d2578402DcE16048bAA534c14d8CCf37d26",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QUICK GAME TOKEN",
+            "symbol": "QGT",
+            "address": "0x550F4Db8Cdc9478bb1C6eD2Fa33C46DeeA252858",
             "decimals": 18
         }
     ]
