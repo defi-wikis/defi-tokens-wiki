@@ -3,7 +3,5 @@
     "symbol": "ALIS",
     "address": "0xEA610B1153477720748DC13ED378003941d84fAB",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
