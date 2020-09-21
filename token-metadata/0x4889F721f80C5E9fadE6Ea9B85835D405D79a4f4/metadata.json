@@ -3,7 +3,5 @@
     "symbol": "MAFI",
     "address": "0x4889F721f80C5E9fadE6Ea9B85835D405D79a4f4",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
