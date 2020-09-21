@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:41:24.653Z",
+    "timestamp": "2020-09-21T22:41:41.848Z",
     "version": {
         "major": 1,
-        "minor": 1320,
+        "minor": 1321,
         "patch": 0
     },
     "keywords": [
@@ -8594,6 +8594,14 @@
             "symbol": "MINDS",
             "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fyooz",
+            "symbol": "FYZ",
+            "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6bff2fe249601ed0db3a87424a2e923118bb0312/icon.png"
         }
     ]
 }
