@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T01:42:29.430Z",
+    "timestamp": "2020-09-21T01:57:44.560Z",
     "version": {
         "major": 1,
-        "minor": 951,
+        "minor": 952,
         "patch": 0
     },
     "keywords": [
@@ -6163,6 +6163,13 @@
             "name": "UniCat.farm",
             "symbol": "MEOW",
             "address": "0xEc13f3c54Feebfb0601934c9Ff70A61Ba8a8Ed8f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crust",
+            "symbol": "CRU",
+            "address": "0x0f3677F68b4305b0a267f45FA0cE9ab05a00D818",
             "decimals": 18
         }
     ]
