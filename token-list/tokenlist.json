@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:52:51.562Z",
+    "timestamp": "2020-09-21T22:53:03.025Z",
     "version": {
         "major": 1,
-        "minor": 1376,
+        "minor": 1377,
         "patch": 0
     },
     "keywords": [
@@ -8969,6 +8969,14 @@
             "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Blockcloud",
+            "symbol": "BLOC",
+            "address": "0x6F919D67967a97EA36195A2346d9244E60FE0dDB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6f919d67967a97ea36195a2346d9244e60fe0ddb/icon.png"
         }
     ]
 }
