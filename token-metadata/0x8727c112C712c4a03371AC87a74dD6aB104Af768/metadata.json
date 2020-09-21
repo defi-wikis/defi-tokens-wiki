@@ -3,7 +3,5 @@
     "symbol": "JET",
     "address": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
