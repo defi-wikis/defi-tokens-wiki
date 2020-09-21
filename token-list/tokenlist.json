@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:38:51.280Z",
+    "timestamp": "2020-09-21T22:39:04.012Z",
     "version": {
         "major": 1,
-        "minor": 1309,
+        "minor": 1310,
         "patch": 0
     },
     "keywords": [
@@ -8507,6 +8507,14 @@
             "address": "0xD83A162d4808c370A1445646e64CC4861eB60b92",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xd83a162d4808c370a1445646e64cc4861eb60b92/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dovu",
+            "symbol": "DOV",
+            "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xac3211a5025414af2866ff09c23fc18bc97e79b1/icon.png"
         }
     ]
 }
