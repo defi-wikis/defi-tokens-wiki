@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:29:09.447Z",
+    "timestamp": "2020-09-21T06:37:59.280Z",
     "version": {
         "major": 1,
-        "minor": 994,
+        "minor": 995,
         "patch": 0
     },
     "keywords": [
@@ -6464,6 +6464,13 @@
             "name": "YMIToken",
             "symbol": "YMI",
             "address": "0x4787610B082832106A12bde9dd398148B54AFA4f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QWERT",
+            "symbol": "QWER",
+            "address": "0x6509f9cDCd547b06482Fc79209c71C7C7493d5f1",
             "decimals": 18
         }
     ]
