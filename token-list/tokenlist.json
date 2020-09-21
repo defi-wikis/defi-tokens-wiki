@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T10:44:30.156Z",
+    "timestamp": "2020-09-21T10:49:29.548Z",
     "version": {
         "major": 1,
-        "minor": 1018,
+        "minor": 1019,
         "patch": 0
     },
     "keywords": [
@@ -6632,6 +6632,13 @@
             "name": "ccc token",
             "symbol": "ccc",
             "address": "0x9E3eAA6fC4e870B366a27cA3838854985FC84061",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Duckly.Finance EGG",
+            "symbol": "EGG",
+            "address": "0x5d6Ea3aD243647A37Ec812e9aA37f90e9b998BDa",
             "decimals": 18
         }
     ]
