@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:35:57.401Z",
+    "timestamp": "2020-09-21T23:36:10.134Z",
     "version": {
         "major": 1,
-        "minor": 1589,
+        "minor": 1590,
         "patch": 0
     },
     "keywords": [
@@ -10501,6 +10501,14 @@
             "address": "0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Skull",
+            "symbol": "SKULL",
+            "address": "0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xbcc66ed2ab491e9ae7bf8386541fb17421fa9d35/icon.png"
         }
     ]
 }
