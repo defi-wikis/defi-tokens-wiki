@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:47:10.485Z",
+    "timestamp": "2020-09-21T23:47:22.020Z",
     "version": {
         "major": 1,
-        "minor": 1643,
+        "minor": 1644,
         "patch": 0
     },
     "keywords": [
@@ -10912,6 +10912,14 @@
             "address": "0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb53e08b97724126bda6d237b94f766c0b81c90fe/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CryptalDash",
+            "symbol": "CRD",
+            "address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc/icon.png"
         }
     ]
 }
