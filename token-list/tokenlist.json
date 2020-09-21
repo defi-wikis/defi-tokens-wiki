@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:23:32.143Z",
+    "timestamp": "2020-09-21T22:23:46.859Z",
     "version": {
         "major": 1,
-        "minor": 1236,
+        "minor": 1237,
         "patch": 0
     },
     "keywords": [
@@ -7981,6 +7981,14 @@
             "address": "0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Voyager Token",
+            "symbol": "VGX",
+            "address": "0x5Af2Be193a6ABCa9c8817001F45744777Db30756",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x5af2be193a6abca9c8817001f45744777db30756/icon.png"
         }
     ]
 }
