@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:26:29.967Z",
+    "timestamp": "2020-09-21T22:26:42.812Z",
     "version": {
         "major": 1,
-        "minor": 1252,
+        "minor": 1253,
         "patch": 0
     },
     "keywords": [
@@ -8089,6 +8089,14 @@
             "address": "0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TwoKeyEconomy",
+            "symbol": "2KEY",
+            "address": "0xE48972fCd82a274411c01834e2f031D4377Fa2c0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe48972fcd82a274411c01834e2f031d4377fa2c0/icon.png"
         }
     ]
 }
