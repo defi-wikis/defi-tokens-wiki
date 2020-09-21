@@ -3,7 +3,5 @@
     "symbol": "PICKLE",
     "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
