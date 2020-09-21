@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:58:29.210Z",
+    "timestamp": "2020-09-21T22:58:44.127Z",
     "version": {
         "major": 1,
-        "minor": 1401,
+        "minor": 1402,
         "patch": 0
     },
     "keywords": [
@@ -9139,6 +9139,14 @@
             "address": "0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Suterusu",
+            "symbol": "SUTER",
+            "address": "0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xba8c0244fbdeb10f19f6738750daeedf7a5081eb/icon.png"
         }
     ]
 }
