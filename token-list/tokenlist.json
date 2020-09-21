@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:59:39.886Z",
+    "timestamp": "2020-09-21T23:59:44.456Z",
     "version": {
         "major": 1,
-        "minor": 1708,
+        "minor": 1709,
         "patch": 0
     },
     "keywords": [
@@ -11396,6 +11396,13 @@
             "name": "UCROWDME",
             "symbol": "UCM",
             "address": "0x722f97A435278B7383a1e3c47F41773bebF3232C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyTen",
+            "symbol": "DontBuyTen",
+            "address": "0xeF5012660bcD8Ce3b335e7Fb029f447e0A10Bd88",
             "decimals": 18
         }
     ]
