@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:48:45.537Z",
+    "timestamp": "2020-09-21T23:48:57.719Z",
     "version": {
         "major": 1,
-        "minor": 1651,
+        "minor": 1652,
         "patch": 0
     },
     "keywords": [
@@ -10975,6 +10975,14 @@
             "symbol": "COOM",
             "address": "0x2f3e054D233c93C59140c0905227c7C607c70cbb",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hands of Steel",
+            "symbol": "STEEL",
+            "address": "0x6f022E991ea21d26F85f6716c088e2864101dfEC",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x6f022e991ea21d26f85f6716c088e2864101dfec/icon.png"
         }
     ]
 }
