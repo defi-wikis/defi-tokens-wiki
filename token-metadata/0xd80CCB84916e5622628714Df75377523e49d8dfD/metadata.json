@@ -3,7 +3,5 @@
     "symbol": "BLAM",
     "address": "0xd80CCB84916e5622628714Df75377523e49d8dfD",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
