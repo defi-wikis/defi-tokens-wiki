@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:20:06.782Z",
+    "timestamp": "2020-09-21T21:34:59.339Z",
     "version": {
         "major": 1,
-        "minor": 1111,
+        "minor": 1112,
         "patch": 0
     },
     "keywords": [
@@ -7171,6 +7171,13 @@
             "symbol": "yRC20",
             "address": "0xE599AcAe14e5fF1e3e51abCD311E7D1b5771C04D",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "Cheese Token",
+            "symbol": "CHEEZ",
+            "address": "0xD7C1629fC6500f40e4e4AdBeCECfd6082F2218E7",
+            "decimals": 8
         }
     ]
 }
