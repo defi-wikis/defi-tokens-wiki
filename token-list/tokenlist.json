@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:42:43.507Z",
+    "timestamp": "2020-09-21T22:42:53.964Z",
     "version": {
         "major": 1,
-        "minor": 1326,
+        "minor": 1327,
         "patch": 0
     },
     "keywords": [
@@ -8625,6 +8625,13 @@
             "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x429881672b9ae42b8eba0e26cd9c73711b891ca5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Somnium Space CUBEs",
+            "symbol": "CUBE",
+            "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
+            "decimals": 8
         }
     ]
 }
