@@ -1,0 +1,9 @@
+{
+    "name": "ANALYSX",
+    "symbol": "XYS",
+    "address": "0xfa91f4177476633f100C59D336C0f2FfAd414CBA",
+    "decimals": 6,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
