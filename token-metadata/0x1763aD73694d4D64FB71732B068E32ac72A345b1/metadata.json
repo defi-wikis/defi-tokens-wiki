@@ -3,7 +3,5 @@
     "symbol": "BEE",
     "address": "0x1763aD73694d4D64FB71732B068E32ac72A345b1",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
