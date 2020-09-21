@@ -1,0 +1,9 @@
+{
+    "name": "FoundryDAO Logistic",
+    "symbol": "FRY",
+    "address": "0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
