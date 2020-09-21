@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:35:43.761Z",
+    "timestamp": "2020-09-21T23:35:57.401Z",
     "version": {
         "major": 1,
-        "minor": 1588,
+        "minor": 1589,
         "patch": 0
     },
     "keywords": [
@@ -10493,6 +10493,14 @@
             "address": "0x09fE5f0236F0Ea5D930197DCE254d77B04128075",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x09fe5f0236f0ea5d930197dce254d77b04128075/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Kids Cash",
+            "symbol": "KASH",
+            "address": "0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2c50ba1ed5e4574c1b613b044bd1876f0b0b87a9/icon.png"
         }
     ]
 }
