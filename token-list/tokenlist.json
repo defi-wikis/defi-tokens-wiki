@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:39:40.182Z",
+    "timestamp": "2020-09-21T23:39:53.816Z",
     "version": {
         "major": 1,
-        "minor": 1607,
+        "minor": 1608,
         "patch": 0
     },
     "keywords": [
@@ -10643,6 +10643,14 @@
             "address": "0xf7D1f35518950E78c18E5A442097cA07962f4D8A",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf7d1f35518950e78c18e5a442097ca07962f4d8a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Snovian Space",
+            "symbol": "SNOV",
+            "address": "0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbdc5bac39dbe132b1e030e898ae3830017d7d969/icon.png"
         }
     ]
 }
