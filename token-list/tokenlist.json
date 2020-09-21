@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:25:13.621Z",
+    "timestamp": "2020-09-21T23:25:23.358Z",
     "version": {
         "major": 1,
-        "minor": 1533,
+        "minor": 1534,
         "patch": 0
     },
     "keywords": [
@@ -10105,6 +10105,13 @@
             "address": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8727c112c712c4a03371ac87a74dd6ab104af768/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "GemSwap",
+            "symbol": "GEM",
+            "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",
+            "decimals": 18
         }
     ]
 }
