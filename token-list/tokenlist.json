@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:35:06.393Z",
+    "timestamp": "2020-09-21T23:35:17.988Z",
     "version": {
         "major": 1,
-        "minor": 1585,
+        "minor": 1586,
         "patch": 0
     },
     "keywords": [
@@ -10477,6 +10477,14 @@
             "address": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xedd7c94fd7b4971b916d15067bc454b9e1bad980/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Seigniorage Shares",
+            "symbol": "SHARE",
+            "address": "0x6B583Cf4abA7Bf9d6f8A51B3F1F7C7B2ce59Bf15",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15/icon.png"
         }
     ]
 }
