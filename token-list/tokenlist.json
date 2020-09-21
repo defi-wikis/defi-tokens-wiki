@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:53:59.385Z",
+    "timestamp": "2020-09-21T17:57:34.759Z",
     "version": {
         "major": 1,
-        "minor": 1056,
+        "minor": 1057,
         "patch": 0
     },
     "keywords": [
@@ -6898,6 +6898,13 @@
             "name": "Crypto Accept",
             "symbol": "ACPT",
             "address": "0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Capital Finance",
+            "symbol": "CFIN",
+            "address": "0xD45eD8c0aEbF63B7b003AfE591F45429843cf636",
             "decimals": 18
         }
     ]
