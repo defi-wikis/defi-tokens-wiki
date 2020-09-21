@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T12:21:29.226Z",
+    "timestamp": "2020-09-21T12:21:32.877Z",
     "version": {
         "major": 1,
-        "minor": 1028,
+        "minor": 1029,
         "patch": 0
     },
     "keywords": [
@@ -6702,6 +6702,13 @@
             "name": "Spy.Finance",
             "symbol": "SPY",
             "address": "0x1A65067Cb302A077d7Cd3B9B6f9312e31ee894d9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETH/BTC Long-Only Alpha",
+            "symbol": "XTF.SWCEBL",
+            "address": "0xF28Fec34928A1Dc19B650104ae082665B66F720E",
             "decimals": 18
         }
     ]
