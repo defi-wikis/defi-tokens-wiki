@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:29:11.388Z",
+    "timestamp": "2020-09-21T23:29:24.429Z",
     "version": {
         "major": 1,
-        "minor": 1553,
+        "minor": 1554,
         "patch": 0
     },
     "keywords": [
@@ -10245,6 +10245,14 @@
             "address": "0xf67041758D3B6e56D6fDafA5B32038302C3634DA",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf67041758d3b6e56d6fdafa5b32038302c3634da/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ymen Finance",
+            "symbol": "YMEN",
+            "address": "0xd0c59798F986d333554688cD667033d469C2398e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd0c59798f986d333554688cd667033d469c2398e/icon.png"
         }
     ]
 }
