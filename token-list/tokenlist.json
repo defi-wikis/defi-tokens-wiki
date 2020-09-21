@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:34:11.922Z",
+    "timestamp": "2020-09-21T22:34:25.879Z",
     "version": {
         "major": 1,
-        "minor": 1289,
+        "minor": 1290,
         "patch": 0
     },
     "keywords": [
@@ -2276,7 +2276,8 @@
             "name": "YFMoonshot",
             "symbol": "YFMS",
             "address": "0xfef3bEf71A5EB97E097039038776fD967ae5B106",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfef3bef71a5eb97e097039038776fd967ae5b106/icon.png"
         },
         {
             "chainId": 1,
