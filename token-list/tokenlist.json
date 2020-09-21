@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T03:34:54.284Z",
+    "timestamp": "2020-09-21T03:35:39.381Z",
     "version": {
         "major": 1,
-        "minor": 967,
+        "minor": 968,
         "patch": 0
     },
     "keywords": [
@@ -6275,6 +6275,13 @@
             "name": "ommer.network",
             "symbol": "OMM",
             "address": "0x4bA1466C10c7236F23f91471002d11178B96894A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyShitCoin",
+            "symbol": "DontBuyShitCoin",
+            "address": "0x15ed7Ca15d1740F24e7eb766e464fa5dF6b371ea",
             "decimals": 18
         }
     ]
