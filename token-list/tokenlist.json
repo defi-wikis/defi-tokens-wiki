@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:55:29.535Z",
+    "timestamp": "2020-09-21T07:05:44.529Z",
     "version": {
         "major": 1,
-        "minor": 998,
+        "minor": 999,
         "patch": 0
     },
     "keywords": [
@@ -6492,6 +6492,13 @@
             "name": "Fan GCoin",
             "symbol": "FAN",
             "address": "0xbb23356F10138eae0011A4da2a448A1916De5f14",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kira Core @ Interchain.Exchange",
+            "symbol": "KIRA",
+            "address": "0xDD126B9419e4c692423d536FfCE6261bB08d123b",
             "decimals": 18
         }
     ]
