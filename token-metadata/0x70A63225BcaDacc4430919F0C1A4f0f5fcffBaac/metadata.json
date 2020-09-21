@@ -3,7 +3,5 @@
     "symbol": "VEY",
     "address": "0x70A63225BcaDacc4430919F0C1A4f0f5fcffBaac",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
