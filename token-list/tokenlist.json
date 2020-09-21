@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:59:25.979Z",
+    "timestamp": "2020-09-21T22:59:36.990Z",
     "version": {
         "major": 1,
-        "minor": 1405,
+        "minor": 1406,
         "patch": 0
     },
     "keywords": [
@@ -9171,6 +9171,13 @@
             "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x922ac473a3cc241fd3a0049ed14536452d58d73c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Yakuza DAO",
+            "symbol": "YKZ",
+            "address": "0xcd453276f4db9c38855056a036C4A99A8cac7b8d",
+            "decimals": 18
         }
     ]
 }
