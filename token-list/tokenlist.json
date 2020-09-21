@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:42:35.282Z",
+    "timestamp": "2020-09-21T23:42:46.527Z",
     "version": {
         "major": 1,
-        "minor": 1622,
+        "minor": 1623,
         "patch": 0
     },
     "keywords": [
@@ -10761,6 +10761,14 @@
             "address": "0xDc5864eDe28BD4405aa04d93E05A0531797D9D59",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0xdc5864ede28bd4405aa04d93e05a0531797d9d59/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Combo",
+            "symbol": "COMBO",
+            "address": "0xF10d9664828e80EeA2F8bf139C3cC6041aE0cBA0",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf10d9664828e80eea2f8bf139c3cc6041ae0cba0/icon.png"
         }
     ]
 }
