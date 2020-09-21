@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T05:51:09.403Z",
+    "timestamp": "2020-09-21T05:51:14.556Z",
     "version": {
         "major": 1,
-        "minor": 985,
+        "minor": 986,
         "patch": 0
     },
     "keywords": [
@@ -6401,6 +6401,13 @@
             "name": "Chicken",
             "symbol": "KFC",
             "address": "0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "avalanche",
+            "symbol": "AVA",
+            "address": "0xD676d3c23A1A3A51C9d1D1557a702dC5127f8a8F",
             "decimals": 18
         }
     ]
