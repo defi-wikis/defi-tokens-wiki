@@ -3,7 +3,5 @@
     "symbol": "LYXE",
     "address": "0xA8b919680258d369114910511cc87595aec0be6D",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
