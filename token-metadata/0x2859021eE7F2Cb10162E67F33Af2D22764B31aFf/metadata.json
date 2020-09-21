@@ -1,0 +1,9 @@
+{
+    "name": "Silent Notary",
+    "symbol": "SNTR",
+    "address": "0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
+    "decimals": 4,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
