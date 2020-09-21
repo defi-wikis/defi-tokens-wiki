@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:17:13.465Z",
+    "timestamp": "2020-09-21T22:17:30.358Z",
     "version": {
         "major": 1,
-        "minor": 1203,
+        "minor": 1204,
         "patch": 0
     },
     "keywords": [
@@ -7793,6 +7793,14 @@
             "symbol": "PYLON",
             "address": "0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Foresight",
+            "symbol": "FORS",
+            "address": "0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb1ec548f296270bc96b8a1b3b3c8f3f04b494215/icon.png"
         }
     ]
 }
