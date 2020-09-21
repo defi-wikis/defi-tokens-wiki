@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:33:45.797Z",
+    "timestamp": "2020-09-21T22:33:57.347Z",
     "version": {
         "major": 1,
-        "minor": 1287,
+        "minor": 1288,
         "patch": 0
     },
     "keywords": [
@@ -4287,7 +4287,7 @@
         },
         {
             "chainId": 1,
-            "name": "Bancor Network Token",
+            "name": "Bancor Network Toke",
             "symbol": "BNT",
             "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
             "decimals": 18,
