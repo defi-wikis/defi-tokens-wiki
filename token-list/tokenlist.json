@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:32:19.337Z",
+    "timestamp": "2020-09-21T22:32:32.653Z",
     "version": {
         "major": 1,
-        "minor": 1280,
+        "minor": 1281,
         "patch": 0
     },
     "keywords": [
@@ -8304,6 +8304,13 @@
             "address": "0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoNewsNet",
+            "symbol": "NEWS",
+            "address": "0x130Da3E198f092Fe2a6e6c21893dc77746d7e406",
+            "decimals": 8
         }
     ]
 }
