@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:11:38.841Z",
+    "timestamp": "2020-09-21T22:11:49.476Z",
     "version": {
         "major": 1,
-        "minor": 1174,
+        "minor": 1175,
         "patch": 0
     },
     "keywords": [
@@ -7594,6 +7594,13 @@
             "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x037a54aab062628c9bbae1fdb1583c195585fe41/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Momentum",
+            "symbol": "XMM",
+            "address": "0x9a7a4C141a3BCCE4A31e42C1192Ac6Add35069b4",
+            "decimals": 10
         }
     ]
 }
