@@ -3,7 +3,5 @@
     "symbol": "FLL",
     "address": "0x9235bDA06B8807161b8FBB1e102CB654555b212F",
     "decimals": 3,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
