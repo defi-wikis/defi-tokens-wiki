@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:54:13.383Z",
+    "timestamp": "2020-09-21T23:54:26.066Z",
     "version": {
         "major": 1,
-        "minor": 1679,
+        "minor": 1680,
         "patch": 0
     },
     "keywords": [
@@ -11174,6 +11174,14 @@
             "symbol": "WZBLT",
             "address": "0x7a58da7C0568557eC65cd53c0DBE5B134a022a14",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TheWorldsAMine",
+            "symbol": "WRLD",
+            "address": "0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb2cf3a438acf46275839a38db7594065f64151d3/icon.png"
         }
     ]
 }
