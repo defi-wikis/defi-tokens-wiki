@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:12:12.093Z",
+    "timestamp": "2020-09-21T22:12:22.072Z",
     "version": {
         "major": 1,
-        "minor": 1177,
+        "minor": 1178,
         "patch": 0
     },
     "keywords": [
@@ -7615,6 +7615,13 @@
             "name": "Amun Ether 3x Daily",
             "symbol": "ETH3L",
             "address": "0x239B0Fa917d85c21cf6435464C2c6aa3D45f6720",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Social Finance",
+            "symbol": "SOFI",
+            "address": "0xAEA5E11E22E447fA9837738A0cd2848857748ADF",
             "decimals": 18
         }
     ]
