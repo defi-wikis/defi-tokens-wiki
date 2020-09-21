@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:12:22.072Z",
+    "timestamp": "2020-09-21T22:12:31.557Z",
     "version": {
         "major": 1,
-        "minor": 1178,
+        "minor": 1179,
         "patch": 0
     },
     "keywords": [
@@ -7622,6 +7622,13 @@
             "name": "Social Finance",
             "symbol": "SOFI",
             "address": "0xAEA5E11E22E447fA9837738A0cd2848857748ADF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Civil",
+            "symbol": "CVL",
+            "address": "0x01FA555c97D7958Fa6f771f3BbD5CCD508f81e22",
             "decimals": 18
         }
     ]
