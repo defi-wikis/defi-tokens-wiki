@@ -3,5 +3,7 @@
     "symbol": "RI",
     "address": "0x37E808F084101F75783612407e7C3f5F92d8ee3F",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
