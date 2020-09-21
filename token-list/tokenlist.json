@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:35:29.336Z",
+    "timestamp": "2020-09-21T17:40:59.353Z",
     "version": {
         "major": 1,
-        "minor": 1053,
+        "minor": 1054,
         "patch": 0
     },
     "keywords": [
@@ -6877,6 +6877,13 @@
             "name": "vegumami.finance",
             "symbol": "VEGU",
             "address": "0xcD775F5FcFb9696BfeC0EFa782A7641033Fd0903",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OnlyTenTokens",
+            "symbol": "TEN",
+            "address": "0xCa76a2FAbB0689930843eec0260a7433017CC904",
             "decimals": 18
         }
     ]
