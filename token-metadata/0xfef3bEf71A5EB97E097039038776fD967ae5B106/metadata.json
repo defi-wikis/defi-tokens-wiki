@@ -3,7 +3,5 @@
     "symbol": "YFMS",
     "address": "0xfef3bEf71A5EB97E097039038776fD967ae5B106",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
