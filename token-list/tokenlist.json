@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:31:43.234Z",
+    "timestamp": "2020-09-21T23:31:56.964Z",
     "version": {
         "major": 1,
-        "minor": 1568,
+        "minor": 1569,
         "patch": 0
     },
     "keywords": [
@@ -10358,6 +10358,14 @@
             "address": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Edenchain",
+            "symbol": "EDN",
+            "address": "0x05860d453C7974CbF46508c06CBA14e211c629Ce",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x05860d453c7974cbf46508c06cba14e211c629ce/icon.png"
         }
     ]
 }
