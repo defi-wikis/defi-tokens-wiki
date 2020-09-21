@@ -3,7 +3,5 @@
     "symbol": "LCX",
     "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
