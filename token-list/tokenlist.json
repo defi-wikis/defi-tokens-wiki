@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:40:15.058Z",
+    "timestamp": "2020-09-21T23:40:26.324Z",
     "version": {
         "major": 1,
-        "minor": 1610,
+        "minor": 1611,
         "patch": 0
     },
     "keywords": [
@@ -10666,6 +10666,14 @@
             "address": "0x21D5A14e625d767Ce6b7A167491C2d18e0785fDa",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x21d5a14e625d767ce6b7a167491c2d18e0785fda/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "dKargo",
+            "symbol": "DKA",
+            "address": "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0/icon.png"
         }
     ]
 }
