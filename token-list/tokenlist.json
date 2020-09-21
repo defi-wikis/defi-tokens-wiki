@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T20:31:49.405Z",
+    "timestamp": "2020-09-21T20:55:59.349Z",
     "version": {
         "major": 1,
-        "minor": 1095,
+        "minor": 1096,
         "patch": 0
     },
     "keywords": [
@@ -7079,6 +7079,13 @@
             "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xdf574c24545e5ffecb9a659c229253d4111d87e1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "HFIToken",
+            "symbol": "HFI",
+            "address": "0x08574B93EdB8212A4c90C61a9D61CF5533Afd641",
+            "decimals": 18
         }
     ]
 }
