@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:10:14.472Z",
+    "timestamp": "2020-09-21T23:10:24.488Z",
     "version": {
         "major": 1,
-        "minor": 1458,
+        "minor": 1459,
         "patch": 0
     },
     "keywords": [
@@ -9550,6 +9550,13 @@
             "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "yfrb Finance",
+            "symbol": "YFRB",
+            "address": "0x5D1b1019d0Afa5E6cc047B9e78081D44cc579FC4",
+            "decimals": 18
         }
     ]
 }
