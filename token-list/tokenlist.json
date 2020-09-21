@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:27:51.171Z",
+    "timestamp": "2020-09-21T23:28:03.165Z",
     "version": {
         "major": 1,
-        "minor": 1546,
+        "minor": 1547,
         "patch": 0
     },
     "keywords": [
@@ -10190,6 +10190,14 @@
             "address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9af839687f6c94542ac5ece2e317daae355493a1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CPChain",
+            "symbol": "CPC",
+            "address": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090/icon.png"
         }
     ]
 }
