@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:04:04.990Z",
+    "timestamp": "2020-09-21T23:04:17.011Z",
     "version": {
         "major": 1,
-        "minor": 1427,
+        "minor": 1428,
         "patch": 0
     },
     "keywords": [
@@ -9334,6 +9334,14 @@
             "address": "0xdA6cb58A0D0C01610a29c5A65c303e13e885887C",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xda6cb58a0d0c01610a29c5a65c303e13e885887c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SingularDTV",
+            "symbol": "SNGLS",
+            "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009/icon.png"
         }
     ]
 }
