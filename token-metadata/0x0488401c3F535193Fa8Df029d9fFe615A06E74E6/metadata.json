@@ -1,0 +1,9 @@
+{
+    "name": "SparkPoint",
+    "symbol": "SRK",
+    "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
