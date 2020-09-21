@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:07:59.625Z",
+    "timestamp": "2020-09-21T06:25:01.856Z",
     "version": {
         "major": 1,
-        "minor": 991,
+        "minor": 992,
         "patch": 0
     },
     "keywords": [
@@ -6443,6 +6443,13 @@
             "name": "FucKoin",
             "symbol": "FCKS",
             "address": "0xc6e2da4A9dBe3DFe5A0836B182e0a762A0F8ebd9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTCw",
+            "symbol": "BTCw",
+            "address": "0x69b8C8362edc60D92e394c8c28c1c6c3E786007B",
             "decimals": 18
         }
     ]
