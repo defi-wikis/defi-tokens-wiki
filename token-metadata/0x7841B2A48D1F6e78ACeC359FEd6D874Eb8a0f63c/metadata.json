@@ -3,7 +3,5 @@
     "symbol": "KERMAN",
     "address": "0x7841B2A48D1F6e78ACeC359FEd6D874Eb8a0f63c",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
