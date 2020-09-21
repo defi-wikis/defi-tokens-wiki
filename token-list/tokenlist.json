@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:18:12.227Z",
+    "timestamp": "2020-09-21T22:18:24.517Z",
     "version": {
         "major": 1,
-        "minor": 1208,
+        "minor": 1209,
         "patch": 0
     },
     "keywords": [
@@ -7831,6 +7831,14 @@
             "address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1e18821e69b9faa8e6e75dffe54e7e25754beda0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MoonSwap",
+            "symbol": "MOON",
+            "address": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824/icon.png"
         }
     ]
 }
