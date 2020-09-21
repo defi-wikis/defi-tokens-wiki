@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:48:14.919Z",
+    "timestamp": "2020-09-21T17:53:59.385Z",
     "version": {
         "major": 1,
-        "minor": 1055,
+        "minor": 1056,
         "patch": 0
     },
     "keywords": [
@@ -6891,6 +6891,13 @@
             "name": "yfpi.finance",
             "symbol": "YFPI",
             "address": "0x660Ca6Fe17A992b37C1897955630C56e61E492Fb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crypto Accept",
+            "symbol": "ACPT",
+            "address": "0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645",
             "decimals": 18
         }
     ]
