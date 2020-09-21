@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:15:56.561Z",
+    "timestamp": "2020-09-21T22:16:05.826Z",
     "version": {
         "major": 1,
-        "minor": 1196,
+        "minor": 1197,
         "patch": 0
     },
     "keywords": [
@@ -7746,6 +7746,13 @@
             "address": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Green Light",
+            "symbol": "GL",
+            "address": "0x70FaDBE1F2CCCbaF98ac88FDCf94A0509A48E46d",
+            "decimals": 8
         }
     ]
 }
