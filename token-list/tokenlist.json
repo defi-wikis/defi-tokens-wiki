@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:48:22.139Z",
+    "timestamp": "2020-09-21T22:48:37.848Z",
     "version": {
         "major": 1,
-        "minor": 1355,
+        "minor": 1356,
         "patch": 0
     },
     "keywords": [
@@ -8835,6 +8835,14 @@
             "symbol": "YTSLA",
             "address": "0x5322A3556F979cE2180B30e689a9436fDDCB1021",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LTO Network",
+            "symbol": "LTO",
+            "address": "0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d/icon.png"
         }
     ]
 }
