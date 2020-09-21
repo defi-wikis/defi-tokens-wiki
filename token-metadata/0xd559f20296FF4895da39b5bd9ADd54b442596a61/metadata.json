@@ -1,0 +1,9 @@
+{
+    "name": "FintruX",
+    "symbol": "FTX",
+    "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
