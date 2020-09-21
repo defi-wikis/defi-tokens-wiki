@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:18:47.599Z",
+    "timestamp": "2020-09-21T22:18:56.780Z",
     "version": {
         "major": 1,
-        "minor": 1211,
+        "minor": 1212,
         "patch": 0
     },
     "keywords": [
@@ -7854,6 +7854,13 @@
             "address": "0x3B7f247f21BF3A07088C2D3423F64233d4B069F7",
             "decimals": 2,
             "logoURI": "https://tokens.dharma.io/assets/0x3b7f247f21bf3a07088c2d3423f64233d4b069f7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "JamaiCoin",
+            "symbol": "YAH",
+            "address": "0xC2856A8310AF421A2A65De16428C2DEC6CeacB36",
+            "decimals": 18
         }
     ]
 }
