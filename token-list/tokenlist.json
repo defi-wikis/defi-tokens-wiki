@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:13:59.189Z",
+    "timestamp": "2020-09-21T23:14:14.083Z",
     "version": {
         "major": 1,
-        "minor": 1476,
+        "minor": 1477,
         "patch": 0
     },
     "keywords": [
@@ -9689,6 +9689,14 @@
             "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x40fd72257597aa14c7231a7b1aaa29fce868f677/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Santiment Network T",
+            "symbol": "SAN",
+            "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098/icon.png"
         }
     ]
 }
