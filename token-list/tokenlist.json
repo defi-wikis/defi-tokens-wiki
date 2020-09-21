@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:15:38.211Z",
+    "timestamp": "2020-09-21T23:15:50.779Z",
     "version": {
         "major": 1,
-        "minor": 1484,
+        "minor": 1485,
         "patch": 0
     },
     "keywords": [
@@ -9744,6 +9744,14 @@
             "symbol": "MWT",
             "address": "0x82A6A22d68fFba4057d5b49F93dE5C05e4416bd1",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "XMax",
+            "symbol": "XMX",
+            "address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x0f8c45b896784a1e408526b9300519ef8660209c/icon.png"
         }
     ]
 }
