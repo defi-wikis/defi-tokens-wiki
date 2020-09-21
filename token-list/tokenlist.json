@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:29:54.402Z",
+    "timestamp": "2020-09-21T23:30:03.118Z",
     "version": {
         "major": 1,
-        "minor": 1557,
+        "minor": 1558,
         "patch": 0
     },
     "keywords": [
@@ -10274,6 +10274,13 @@
             "name": "TIG Token",
             "symbol": "TIG",
             "address": "0x749826F1041CAF0Ea856a4b3578Ba327B18335F8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Definitex",
+            "symbol": "DFX",
+            "address": "0xf1f5De69C9C8D9BE8a7B01773Cc1166D4Ec6Ede2",
             "decimals": 18
         }
     ]
