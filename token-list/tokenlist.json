@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:25:50.106Z",
+    "timestamp": "2020-09-21T23:26:01.296Z",
     "version": {
         "major": 1,
-        "minor": 1536,
+        "minor": 1537,
         "patch": 0
     },
     "keywords": [
@@ -4335,7 +4335,8 @@
             "name": "Flexacoin",
             "symbol": "FXC",
             "address": "0x4a57E687b9126435a9B19E4A802113e266AdeBde",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4a57e687b9126435a9b19e4a802113e266adebde/icon.png"
         },
         {
             "chainId": 1,
