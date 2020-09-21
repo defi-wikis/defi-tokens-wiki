@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:37:02.809Z",
+    "timestamp": "2020-09-21T22:37:42.847Z",
     "version": {
         "major": 1,
-        "minor": 1303,
+        "minor": 1304,
         "patch": 0
     },
     "keywords": [
@@ -8461,6 +8461,13 @@
             "address": "0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sashimi",
+            "symbol": "SASHIMI",
+            "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+            "decimals": 18
         }
     ]
 }
