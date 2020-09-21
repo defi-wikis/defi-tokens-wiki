@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:13:46.918Z",
+    "timestamp": "2020-09-21T21:14:03.808Z",
     "version": {
         "major": 1,
-        "minor": 1100,
+        "minor": 1101,
         "patch": 0
     },
     "keywords": [
@@ -7101,6 +7101,14 @@
             "address": "0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9bfb088c9f311415e3f9b507da73081c52a49d8c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "WhiteRockCasino",
+            "symbol": "WRC",
+            "address": "0x7c9D8Fb3bDe3D9Ea6e89170618C2dC3d16695D36",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7c9d8fb3bde3d9ea6e89170618c2dc3d16695d36/icon.png"
         }
     ]
 }
