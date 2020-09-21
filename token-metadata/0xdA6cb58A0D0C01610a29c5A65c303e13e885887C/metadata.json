@@ -1,0 +1,9 @@
+{
+    "name": "carVertical",
+    "symbol": "CV",
+    "address": "0xdA6cb58A0D0C01610a29c5A65c303e13e885887C",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
