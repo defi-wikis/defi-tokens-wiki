@@ -3,7 +3,5 @@
     "symbol": "DIA",
     "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
