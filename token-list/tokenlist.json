@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:30:45.368Z",
+    "timestamp": "2020-09-21T23:30:54.377Z",
     "version": {
         "major": 1,
-        "minor": 1562,
+        "minor": 1563,
         "patch": 0
     },
     "keywords": [
@@ -10312,6 +10312,13 @@
             "name": "Bnoincoin",
             "symbol": "BNC",
             "address": "0xbe5b336eF62D1626940363Cf34bE079e0AB89F20",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuySix",
+            "symbol": "DontBuySix",
+            "address": "0xEe018Ef0bbAB5d59E3EE4349A62AD3631D9b9191",
             "decimals": 18
         }
     ]
