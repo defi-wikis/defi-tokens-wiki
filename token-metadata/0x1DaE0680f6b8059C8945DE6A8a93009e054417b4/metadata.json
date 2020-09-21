@@ -3,7 +3,5 @@
     "symbol": "YNEF",
     "address": "0x1DaE0680f6b8059C8945DE6A8a93009e054417b4",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
