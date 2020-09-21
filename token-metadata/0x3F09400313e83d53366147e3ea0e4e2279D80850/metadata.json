@@ -1,7 +1,7 @@
 {
-    "name": "KUSH.FINANCE",
-    "symbol": "kSEED",
+    "name": "Kush Finance",
+    "symbol": "KSEED",
     "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED"
 }

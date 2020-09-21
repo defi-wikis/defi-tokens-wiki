@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:24:53.439Z",
+    "timestamp": "2020-09-21T23:11:40.091Z",
     "version": {
         "major": 1,
-        "minor": 1243,
+        "minor": 1465,
         "patch": 0
     },
     "keywords": [
@@ -135,10 +135,11 @@
         },
         {
             "chainId": 1,
-            "name": "Unisocks Edition 0",
+            "name": "Unisocks",
             "symbol": "SOCKS",
             "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x23b608675a2b2fb1890d3abbd85c5775c51691d5/icon.png"
         },
         {
             "chainId": 1,
@@ -197,7 +198,7 @@
         },
         {
             "chainId": 1,
-            "name": "Kyber Network Crystal",
+            "name": "Kyber Network",
             "symbol": "KNC",
             "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
             "decimals": 18,
@@ -223,7 +224,7 @@
         },
         {
             "chainId": 1,
-            "name": "ChainLink Token",
+            "name": "Chainlink",
             "symbol": "LINK",
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "decimals": 18,
@@ -269,7 +270,7 @@
         },
         {
             "chainId": 1,
-            "name": "Republic Token",
+            "name": "REN",
             "symbol": "REN",
             "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
             "decimals": 18,
@@ -280,7 +281,8 @@
             "name": "Enjin Coin",
             "symbol": "ENJ",
             "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c/icon.png"
         },
         {
             "chainId": 1,
@@ -383,7 +385,7 @@
         {
             "chainId": 1,
             "name": "Xplosive Ethereum",
-            "symbol": "xETH",
+            "symbol": "XETH",
             "address": "0xaA19673aA1b483a5c4f73B446B4f851629a7e7D6",
             "decimals": 18
         },
@@ -745,7 +747,7 @@
         },
         {
             "chainId": 1,
-            "name": "SAMURAI",
+            "name": "Samurai",
             "symbol": "SAM",
             "address": "0x53378825D95281737914a8A2ac0E5A9304aE5Ed7",
             "decimals": 18
@@ -2276,7 +2278,8 @@
             "name": "YFMoonshot",
             "symbol": "YFMS",
             "address": "0xfef3bEf71A5EB97E097039038776fD967ae5B106",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfef3bef71a5eb97e097039038776fd967ae5b106/icon.png"
         },
         {
             "chainId": 1,
@@ -4143,7 +4146,7 @@
         },
         {
             "chainId": 1,
-            "name": "dHedge DAO Token",
+            "name": "dHedge DAO",
             "symbol": "DHT",
             "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
             "decimals": 18
@@ -4287,7 +4290,7 @@
         },
         {
             "chainId": 1,
-            "name": "Bancor Network Token",
+            "name": "Bancor Network Toke",
             "symbol": "BNT",
             "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
             "decimals": 18,
@@ -4316,10 +4319,11 @@
         },
         {
             "chainId": 1,
-            "name": "DXdao",
+            "name": "DXDao",
             "symbol": "DXD",
             "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa1d65e8fb6e87b60feccbc582f7f97804b725521/icon.png"
         },
         {
             "chainId": 1,
@@ -4361,7 +4365,7 @@
         },
         {
             "chainId": 1,
-            "name": "Cute Coin",
+            "name": "Blockchain Cuties U",
             "symbol": "CUTE",
             "address": "0x047686fB287e7263A23873dEa66b4501015a2226",
             "decimals": 18
@@ -4652,7 +4656,8 @@
             "name": "Markaccy",
             "symbol": "MKCY",
             "address": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf3281c539716a08c754ec4c8f2b4cee0fab64bb9/icon.png"
         },
         {
             "chainId": 1,
@@ -4771,7 +4776,8 @@
             "name": "ChartEx",
             "symbol": "CHART",
             "address": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1d37986f252d0e349522ea6c3b98cb935495e63e/icon.png"
         },
         {
             "chainId": 1,
@@ -4803,7 +4809,7 @@
         },
         {
             "chainId": 1,
-            "name": "HatchDAO",
+            "name": "Hatch DAO",
             "symbol": "HATCH",
             "address": "0x6F3009663470475F0749A6b76195375f95495fcB",
             "decimals": 18
@@ -6245,10 +6251,11 @@
         },
         {
             "chainId": 1,
-            "name": "BitBall Treasure",
+            "name": "Bitball Treasure",
             "symbol": "BTRS",
             "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x73c9275c3a2dd84b5741fd59aebf102c91eb033f/icon.png"
         },
         {
             "chainId": 1,
@@ -8028,6 +8035,1575 @@
             "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7afebbb46fdb47ed17b22ed075cde2447694fb9e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Prometeus",
+            "symbol": "PROM",
+            "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfc82bb4ba86045af6f327323a46e80412b91b27d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "EURBASE",
+            "symbol": "EBASE",
+            "address": "0xa689DCEA8f7ad59fb213be4bc624ba5500458dC6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chain Games",
+            "symbol": "CHAIN",
+            "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc4c2614e694cf534d407ee49f8e44d125e4681c4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YAM v2",
+            "symbol": "YAMV2",
+            "address": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
+            "decimals": 24
+        },
+        {
+            "chainId": 1,
+            "name": "Lien",
+            "symbol": "LIEN",
+            "address": "0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "PlayKey",
+            "symbol": "PKT",
+            "address": "0x2604FA406Be957E542BEb89E6754fCdE6815e83f",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2604fa406be957e542beb89e6754fcde6815e83f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BurnDrop",
+            "symbol": "BD",
+            "address": "0x827Eed050df933F6fda3A606b5F716cec660ECBa",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Schain Wallet",
+            "symbol": "SCHA",
+            "address": "0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x2cad4991f62fc6fcd8ec219f37e7de52b688b75a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TwoKeyEconomy",
+            "symbol": "2KEY",
+            "address": "0xE48972fCd82a274411c01834e2f031D4377Fa2c0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe48972fcd82a274411c01834e2f031d4377fa2c0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Menlo One",
+            "symbol": "ONE",
+            "address": "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4d807509aece24c0fa5a102b6a3b059ec6e14392/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ARMTOKEN",
+            "symbol": "TARM",
+            "address": "0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcdd0a6b15b49a9eb3ce011cce22fac2ccf09ece6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Medalte",
+            "symbol": "MDTL",
+            "address": "0x625687081BA9FcbFfB0ae6bfe8D7FaD6f616f494",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CRYPTO20",
+            "symbol": "C20",
+            "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x26e75307fc0c021472feb8f727839531f112f317/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Telcoin",
+            "symbol": "TEL",
+            "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x467bccd9d29f223bce8043b84e8c8b282827790f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OriginTrail",
+            "symbol": "TRAC",
+            "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Coil",
+            "symbol": "COIL",
+            "address": "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x3936ad01cf109a36489d93cabda11cf062fd3d48/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DUST Token",
+            "symbol": "DUST",
+            "address": "0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xbca3c97837a39099ec3082df97e28ce91be14472/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "pTokens BTC",
+            "symbol": "PBTC",
+            "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5228a22e72ccc52d415ecfd199f99d0665e7733b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Money Token",
+            "symbol": "MNT",
+            "address": "0x310DA5e1E61cD9d6ECed092F085941089267E71E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x310da5e1e61cd9d6eced092f085941089267e71e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sports Betting Mark",
+            "symbol": "SBX",
+            "address": "0x7461C43bb1E96863233D72A09191008ee9217Ee8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7461c43bb1e96863233d72a09191008ee9217ee8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Lendingblock",
+            "symbol": "LND",
+            "address": "0x0947b0e6D821378805c9598291385CE7c791A6B2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0947b0e6d821378805c9598291385ce7c791a6b2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Akropolis",
+            "symbol": "AKRO",
+            "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Walletreum",
+            "symbol": "WALT",
+            "address": "0x15bCDFAd12498DE8a922E62442Ae4CC4bd33bd25",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x15bcdfad12498de8a922e62442ae4cc4bd33bd25/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Auctus",
+            "symbol": "AUC",
+            "address": "0xc12d099be31567add4e4e4d0D45691C3F58f5663",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc12d099be31567add4e4e4d0d45691c3f58f5663/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BeeKan   Beenews",
+            "symbol": "BKBT",
+            "address": "0x6A27348483D59150aE76eF4C0f3622A78B0cA698",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6a27348483d59150ae76ef4c0f3622a78b0ca698/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "HXY Money",
+            "symbol": "HXY",
+            "address": "0xf3A2ace8e48751c965eA0A1D064303AcA53842b9",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf3a2ace8e48751c965ea0a1d064303aca53842b9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Robonomics Network",
+            "symbol": "XRT",
+            "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x7de91b204c1c737bcee6f000aaa6569cf7061cb7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Band Protocol",
+            "symbol": "BAND",
+            "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xba11d00c5f74255f56a5e366f4f77f5a186d7f55/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DogeFi",
+            "symbol": "DOGEFI",
+            "address": "0x9B9087756eCa997C5D595C840263001c9a26646D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9b9087756eca997c5d595c840263001c9a26646d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Meridian Network",
+            "symbol": "LOCK",
+            "address": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x95172ccbe8344fecd73d0a30f54123652981bd6f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Fantom",
+            "symbol": "FTM",
+            "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4e15361fd6b4bb609fa63c81a2be19d873717870/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vesta",
+            "symbol": "VESTA",
+            "address": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3aef8e803bd9be47e69b9f36487748d30d940b96/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dent",
+            "symbol": "DENT",
+            "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x3597bfd533a99c9aa083587b074434e61eb0a258/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "GazeCoin",
+            "symbol": "GZE",
+            "address": "0x4AC00f287f36A6Aad655281fE1cA6798C9cb727b",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4ac00f287f36a6aad655281fe1ca6798c9cb727b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OFIN TOKEN",
+            "symbol": "ON",
+            "address": "0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoNewsNet",
+            "symbol": "NEWS",
+            "address": "0x130Da3E198f092Fe2a6e6c21893dc77746d7e406",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Feellike",
+            "symbol": "FLL",
+            "address": "0x9235bDA06B8807161b8FBB1e102CB654555b212F",
+            "decimals": 3,
+            "logoURI": "https://tokens.dharma.io/assets/0x9235bda06b8807161b8fbb1e102cb654555b212f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DMme",
+            "symbol": "DMME",
+            "address": "0x9556f8ee795D991fF371F547162D5efB2769425F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9556f8ee795d991ff371f547162d5efb2769425f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mainframe",
+            "symbol": "MFT",
+            "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xdf2c7238198ad8b389666574f2d8bc411a4b7428/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Brapper Token",
+            "symbol": "BRAP",
+            "address": "0x905D3237dC71F7D8f604778e8b78f0c3ccFF9377",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Harrison First",
+            "symbol": "FIRST",
+            "address": "0x9903A4Cd589DA8e434f264deAFc406836418578E",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x9903a4cd589da8e434f264deafc406836418578e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Morpheus Network",
+            "symbol": "MRPH",
+            "address": "0x7B0C06043468469967DBA22d1AF33d77d44056c8",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x7b0c06043468469967dba22d1af33d77d44056c8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Holo",
+            "symbol": "HOT",
+            "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6c6ee5e31d828de241282b9606c8e98ea48526e2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "NFT Protocol",
+            "symbol": "NFT",
+            "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Swagg Network",
+            "symbol": "SWAGG",
+            "address": "0xa19A40FbD7375431fAB013a4B08F00871B9a2791",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xa19a40fbd7375431fab013a4b08f00871b9a2791/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Netkoin Liquid",
+            "symbol": "LIQUID",
+            "address": "0xaC2385e183d9301dd5E2BB08DA932CbF9800dC9c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HodlTree",
+            "symbol": "HTRE",
+            "address": "0xDea67845A51E24461D5fED8084E69B426AF3D5Db",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Streamity",
+            "symbol": "STM",
+            "address": "0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0e22734e078d6e399bcee40a549db591c4ea46cb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Creed Finance",
+            "symbol": "CREED",
+            "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x675e7d927af7e6d0082e0153dc3485b687a6f0ad/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ShitCoin",
+            "symbol": "SHIT",
+            "address": "0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xaa7fb1c8ce6f18d4fd4aabb61a2193d4d441c54f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Fetch ai",
+            "symbol": "FET",
+            "address": "0x1D287CC25dAD7cCaF76a26bc660c5F7C8E2a05BD",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UTRUST",
+            "symbol": "UTK",
+            "address": "0x70a72833d6bF7F508C8224CE59ea1Ef3d0Ea3A38",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Keep Network",
+            "symbol": "KEEP",
+            "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave ETH",
+            "symbol": "AETH",
+            "address": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Everex",
+            "symbol": "EVX",
+            "address": "0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sashimi",
+            "symbol": "SASHIMI",
+            "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HEROcoin",
+            "symbol": "PLAY",
+            "address": "0xE477292f1B3268687A29376116B0ED27A9c76170",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe477292f1b3268687a29376116b0ed27a9c76170/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OKB",
+            "symbol": "OKB",
+            "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x75231f58b43240c9718dd58b4967c5114342a86c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "KittenFinance",
+            "symbol": "KIF",
+            "address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BarterTrade",
+            "symbol": "BART",
+            "address": "0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OXY",
+            "symbol": "OXY",
+            "address": "0xD83A162d4808c370A1445646e64CC4861eB60b92",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xd83a162d4808c370a1445646e64cc4861eb60b92/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dovu",
+            "symbol": "DOV",
+            "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xac3211a5025414af2866ff09c23fc18bc97e79b1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Decentralized Machi",
+            "symbol": "DML",
+            "address": "0xbCdfE338D55c061C084D81fD793Ded00A27F226D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbcdfe338d55c061c084d81fd793ded00a27f226d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Chromia",
+            "symbol": "CHR",
+            "address": "0x915044526758533dfB918ecEb6e44bc21632060D",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x915044526758533dfb918eceb6e44bc21632060d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BidiPass",
+            "symbol": "BDP",
+            "address": "0x593114f03A0A575aece9ED675e52Ed68D2172B8c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x593114f03a0a575aece9ed675e52ed68d2172b8c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AGA Token",
+            "symbol": "AGA",
+            "address": "0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "mStable USD",
+            "symbol": "MUSD",
+            "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe2f2a5c287993345a840db3b0845fbc70f5935a5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BitDegree",
+            "symbol": "BDG",
+            "address": "0x1961B3331969eD52770751fC718ef530838b6dEE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1961b3331969ed52770751fc718ef530838b6dee/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Autonio",
+            "symbol": "NIOX",
+            "address": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xc813ea5e3b48bebeedb796ab42a30c5599b01740/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "XIO",
+            "symbol": "XIO",
+            "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0f7f961648ae6db43c75663ac7e5414eb79b5704/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Apple Network",
+            "symbol": "ANK",
+            "address": "0x3C45B24359fB0E107a4eAA56Bd0F2cE66C99A0E5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Minds",
+            "symbol": "MINDS",
+            "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fyooz",
+            "symbol": "FYZ",
+            "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6bff2fe249601ed0db3a87424a2e923118bb0312/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFValue",
+            "symbol": "YFV",
+            "address": "0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Guppy",
+            "symbol": "GUP",
+            "address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
+            "decimals": 3,
+            "logoURI": "https://tokens.dharma.io/assets/0xf7b098298f7c69fc14610bf71d5e02c60792894c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pickle Finance",
+            "symbol": "PICKLE",
+            "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x429881672b9ae42b8eba0e26cd9c73711b891ca5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Somnium Space CUBEs",
+            "symbol": "CUBE",
+            "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Xank",
+            "symbol": "XANK",
+            "address": "0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A",
+            "decimals": 16,
+            "logoURI": "https://tokens.dharma.io/assets/0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "sXMR",
+            "symbol": "SXMR",
+            "address": "0x5299d6F7472DCc137D7f3C4BcfBBB514BaBF341A",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aragon Court",
+            "symbol": "ANJ",
+            "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcd62b1c403fa761baadfc74c525ce2b51780b184/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Zipper Network",
+            "symbol": "ZIP",
+            "address": "0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "xDAI Stake",
+            "symbol": "STAKE",
+            "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0ae055097c6d159879521c384f1d2123d1f195e6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ZUM TOKEN",
+            "symbol": "ZUM",
+            "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PhoenixDAO",
+            "symbol": "PHNX",
+            "address": "0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x38a2fdc11f526ddd5a607c1f251c065f40fbf2f7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SparkPoint",
+            "symbol": "SRK",
+            "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0488401c3f535193fa8df029d9ffe615a06e74e6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aludra Network",
+            "symbol": "ALD",
+            "address": "0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb339fca531367067e98d7c4f9303ffeadff7b881/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Veritaseum",
+            "symbol": "VERI",
+            "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Orbicular",
+            "symbol": "ORBI",
+            "address": "0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x11a2ab94ade17e96197c78f9d5f057332a19a0b9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Render Token",
+            "symbol": "RNDR",
+            "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BaconSwap",
+            "symbol": "BACON",
+            "address": "0x175Ab41E2CEDF3919B2e4426C19851223CF51046",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LUKSO Token",
+            "symbol": "LYXE",
+            "address": "0xA8b919680258d369114910511cc87595aec0be6D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa8b919680258d369114910511cc87595aec0be6d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave",
+            "symbol": "LEND",
+            "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x80fb784b7ed66730e8b1dbd9820afd29931aab03/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CoinLion",
+            "symbol": "LION",
+            "address": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2167fb82309cf76513e83b25123f8b0559d6b48f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "JustLiquidity",
+            "symbol": "JUL",
+            "address": "0x5580ab97F226C324c671746a1787524AEF42E415",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5580ab97f226c324c671746a1787524aef42e415/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Fuse Network Token",
+            "symbol": "FUSE",
+            "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Kush Finance",
+            "symbol": "KSEED",
+            "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "New Year Bull",
+            "symbol": "NYB",
+            "address": "0x798A9055a98913835bBFb45a0BbC209438dcFD97",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dev Protocol",
+            "symbol": "DEV",
+            "address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mega",
+            "symbol": "MX3",
+            "address": "0x291FA2725d153bcc6C7E1C304bcaD47fdEf1EF84",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x291fa2725d153bcc6c7e1c304bcad47fdef1ef84/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pangea Arbitration ",
+            "symbol": "XPAT",
+            "address": "0xBB1fA4FdEB3459733bF67EbC6f893003fA976a82",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AgaveCoin",
+            "symbol": "AGVC",
+            "address": "0x8b79656FC38a04044E495e22fAD747126ca305C4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8b79656fc38a04044e495e22fad747126ca305c4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BITTO",
+            "symbol": "BITTO",
+            "address": "0xa101E27f06A97985B925E244111b61560Ecd97DB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yTSLA Finance",
+            "symbol": "YTSLA",
+            "address": "0x5322A3556F979cE2180B30e689a9436fDDCB1021",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LTO Network",
+            "symbol": "LTO",
+            "address": "0x3DB6Ba6ab6F95efed1a6E794caD492fAAabF294D",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x3db6ba6ab6f95efed1a6e794cad492faaabf294d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DigitalBits",
+            "symbol": "XDB",
+            "address": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
+            "decimals": 7,
+            "logoURI": "https://tokens.dharma.io/assets/0xb9eefc4b0d472a44be93970254df4f4016569d27/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CGC Token",
+            "symbol": "CGC",
+            "address": "0x2d9765a94FF22e0CA3AfC3E3F4B116dE2b67582a",
+            "decimals": 16,
+            "logoURI": "https://tokens.dharma.io/assets/0x2d9765a94ff22e0ca3afc3e3f4b116de2b67582a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Lamden",
+            "symbol": "TAU",
+            "address": "0xc27A2F05fa577a83BA0fDb4c38443c0718356501",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc27a2f05fa577a83ba0fdb4c38443c0718356501/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MCO",
+            "symbol": "MCO",
+            "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MONEY PARTY",
+            "symbol": "PARTY",
+            "address": "0x314bD765cAB4774b2E547eB0aA15013e03FF74d2",
+            "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiPulse Index",
+            "symbol": "DPI",
+            "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Basic Attention Tok",
+            "symbol": "BAT",
+            "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0d8775f648430679a709e98d2b0cb6250d2887ef/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Origin Protocol",
+            "symbol": "OGN",
+            "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum eRush",
+            "symbol": "EER",
+            "address": "0x3cC5EB07E0e1227613F1DF58f38b549823d11cB9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3cc5eb07e0e1227613f1df58f38b549823d11cb9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "XRP Classic",
+            "symbol": "XRPC",
+            "address": "0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FintruX",
+            "symbol": "FTX",
+            "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd559f20296ff4895da39b5bd9add54b442596a61/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cowboy Finance",
+            "symbol": "COW",
+            "address": "0xf0be50ED0620E0Ba60CA7FC968eD14762e0A5Dd3",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Statera",
+            "symbol": "STA",
+            "address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa7de087329bfcda5639247f96140f9dabe3deed1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Bids",
+            "symbol": "BID",
+            "address": "0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1da01e84f3d4e6716f274c987ae4bee5dc3c8288/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Unibright",
+            "symbol": "UBT",
+            "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Swipe",
+            "symbol": "SXP",
+            "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Blockcloud",
+            "symbol": "BLOC",
+            "address": "0x6F919D67967a97EA36195A2346d9244E60FE0dDB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6f919d67967a97ea36195a2346d9244e60fe0ddb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "unibot cash",
+            "symbol": "UNDB",
+            "address": "0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pebbles",
+            "symbol": "PBL",
+            "address": "0x55648De19836338549130B1af587F16beA46F66B",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x55648de19836338549130b1af587f16bea46f66b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MANTRA DAO",
+            "symbol": "OM",
+            "address": "0x2baEcDf43734F22FD5c152DB08E3C27233F0c7d2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Swarm Fund",
+            "symbol": "SWM",
+            "address": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3505f494c3f0fed0b594e01fa41dd3967645ca39/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "0xMonero",
+            "symbol": "0XMR",
+            "address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BPOP",
+            "symbol": "BPOP",
+            "address": "0x0452aeD878805514e28Fb5BD0B56Bef92176E32A",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YUNo Finance",
+            "symbol": "YUNO",
+            "address": "0x4B4F5286e0f93E965292B922B9Cd1677512F1222",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4b4f5286e0f93e965292b922b9cd1677512f1222/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Darwinia Commitment",
+            "symbol": "KTON",
+            "address": "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Thorncoin",
+            "symbol": "THRN",
+            "address": "0x35A735B7D1d811887966656855F870c05fD0A86D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Twinkle",
+            "symbol": "TKT",
+            "address": "0x13E9EC660d872f55405d70e5C52D872136F0970c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x13e9ec660d872f55405d70e5c52d872136f0970c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LGO Token",
+            "symbol": "LGO",
+            "address": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x0a50c93c762fdd6e56d86215c24aaad43ab629aa/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Rocket Pool",
+            "symbol": "RPL",
+            "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb4efd85c19999d84251304bda99e90b92300bd93/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "NKN",
+            "symbol": "NKN",
+            "address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5cf04716ba20127f1e2297addcf4b5035000c9eb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Harvest Finance",
+            "symbol": "FARM",
+            "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa0246c9032bc3a600820415ae600c6388619a14d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Carboneum",
+            "symbol": "C8",
+            "address": "0xd42debE4eDc92Bd5a3FBb4243e1ecCf6d63A4A5d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "RAIN Network",
+            "symbol": "RAIN",
+            "address": "0x61cDb66e56FAD942a7b5cE3F419FfE9375E31075",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x61cdb66e56fad942a7b5ce3f419ffe9375e31075/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pamp Network",
+            "symbol": "PAMP",
+            "address": "0xF0FAC7104aAC544e4a7CE1A55ADF2B5a25c65bD1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf0fac7104aac544e4a7ce1a55adf2b5a25c65bd1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Truample",
+            "symbol": "TMPL",
+            "address": "0x52132a43D7cAE69B23abE77B226fA1a5BC66b839",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Food Token",
+            "symbol": "FDT",
+            "address": "0xb2A01Ad9738450f082e5238e43b17fE80781FaAE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Perlin",
+            "symbol": "PERL",
+            "address": "0xeca82185adCE47f39c684352B0439f030f860318",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Membrana",
+            "symbol": "MBN",
+            "address": "0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Suterusu",
+            "symbol": "SUTER",
+            "address": "0xBA8c0244FBDEB10f19f6738750dAeEDF7a5081eb",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xba8c0244fbdeb10f19f6738750daeedf7a5081eb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Etherisc DIP Token",
+            "symbol": "DIP",
+            "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc719d010b63e5bbf2c0551872cd5316ed26acd83/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Perth Mint Gold Tok",
+            "symbol": "PMGT",
+            "address": "0xAFFCDd96531bCd66faED95FC61e443D08F79eFEf",
+            "decimals": 5,
+            "logoURI": "https://tokens.dharma.io/assets/0xaffcdd96531bcd66faed95fc61e443d08f79efef/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vetri",
+            "symbol": "VLD",
+            "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x922ac473a3cc241fd3a0049ed14536452d58d73c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Yakuza DAO",
+            "symbol": "YKZ",
+            "address": "0xcd453276f4db9c38855056a036C4A99A8cac7b8d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CACHE Gold",
+            "symbol": "CGT",
+            "address": "0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf5238462e7235c7b62811567e63dd17d12c2eaa0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Amp",
+            "symbol": "AMP",
+            "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xff20817765cb7f73d4bde2e66e067e58d11095c2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "mine mine",
+            "symbol": "mimi",
+            "address": "0x8033eCe502a6CF62F9aEA0ef40Df467B723F04F6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unibomb",
+            "symbol": "UBOMB",
+            "address": "0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pillar",
+            "symbol": "PLR",
+            "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe3818504c1b32bf1557b16c238b2e01fd3149c17/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Nyan Finance",
+            "symbol": "NYAN",
+            "address": "0xC9cE70A381910D0a90B30d408CC9C7705ee882de",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shiba Inu",
+            "symbol": "SHIB",
+            "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Celer Network",
+            "symbol": "CELR",
+            "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LIBERTAS",
+            "symbol": "LIBERTAS",
+            "address": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SOLVE",
+            "symbol": "SOLVE",
+            "address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x446c9033e7516d820cc9a2ce2d0b7328b579406f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Celsius Network",
+            "symbol": "CEL",
+            "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Wings",
+            "symbol": "WINGS",
+            "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x667088b212ce3d06a1b553a7221e1fd19000d9af/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Silverway",
+            "symbol": "SLV",
+            "address": "0x4c1C4957D22D8F373aeD54d0853b090666F6F9De",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4c1c4957d22d8f373aed54d0853b090666f6f9de/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "VEY",
+            "symbol": "VEY",
+            "address": "0x70A63225BcaDacc4430919F0C1A4f0f5fcffBaac",
+            "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Universal Protocol ",
+            "symbol": "UPT",
+            "address": "0x6CA88Cc8D9288f5cAD825053B6A1B179B05c76fC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hyprr  Howdoo ",
+            "symbol": "UDOO",
+            "address": "0x12f649A9E821F90BB143089a6e56846945892ffB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x12f649a9e821f90bb143089a6e56846945892ffb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mero Currency",
+            "symbol": "MRO",
+            "address": "0x6ff313FB38d53d7A458860b1bf7512f54a03e968",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6ff313fb38d53d7a458860b1bf7512f54a03e968/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Baguette Token",
+            "symbol": "BGTT",
+            "address": "0x7a545Ed3863221A974F327199Ac22F7f12535F11",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Monolith",
+            "symbol": "TKN",
+            "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xaaaf91d9b90df800df4f55c205fd6989c977e73a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "carVertical",
+            "symbol": "CV",
+            "address": "0xdA6cb58A0D0C01610a29c5A65c303e13e885887C",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xda6cb58a0d0c01610a29c5a65c303e13e885887c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SingularDTV",
+            "symbol": "SNGLS",
+            "address": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cap",
+            "symbol": "CAP",
+            "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x43044f861ec040db59a7e324c40507addb673142/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "yfBeta",
+            "symbol": "YFBETA",
+            "address": "0x89eE58Af4871b474c30001982c3D7439C933c838",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x89ee58af4871b474c30001982c3d7439c933c838/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "1Million Token",
+            "symbol": "1MT",
+            "address": "0xf0Bc1ae4eF7ffb126A8347D06Ac6f8AdD770e1CE",
+            "decimals": 7
+        },
+        {
+            "chainId": 1,
+            "name": "Huobi Token",
+            "symbol": "HT",
+            "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6f259637dcd74c767781e37bc6133cd6a68aa161/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave SNX",
+            "symbol": "ASNX",
+            "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x328c4c80bc7aca0834db37e6600a6c49e12da4de/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Machi X",
+            "symbol": "MCX",
+            "address": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Invictus Hyperion F",
+            "symbol": "IHF",
+            "address": "0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xaf1250fa68d7decd34fd75de8742bc03b29bd58e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Shrimp Finance",
+            "symbol": "SHRIMP",
+            "address": "0x38c4102D11893351cED7eF187fCF43D33eb1aBE6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x38c4102d11893351ced7ef187fcf43d33eb1abe6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ethArt",
+            "symbol": "ARTE",
+            "address": "0x34612903Db071e888a4dADcaA416d3EE263a87b9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x34612903db071e888a4dadcaa416d3ee263a87b9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Centrality",
+            "symbol": "CENNZ",
+            "address": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1122b6a0e00dce0563082b6e2953f3a943855c1f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFFII Finance",
+            "symbol": "YFFII",
+            "address": "0x6c4B85CaB20c13aF72766025F0e17E0fe558A553",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Liquidity Dividends",
+            "symbol": "LID",
+            "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0417912b3a7af768051765040a55bb0925d4ddcf/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Rocket Token",
+            "symbol": "RCKT",
+            "address": "0xbD03BD923c7D51019Fd84571D84e4eBcf7213509",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbd03bd923c7d51019fd84571d84e4ebcf7213509/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ultra",
+            "symbol": "UOS",
+            "address": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Evedo",
+            "symbol": "EVED",
+            "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "InfinityDeFi",
+            "symbol": "INFD",
+            "address": "0x82daD985AfD3708680Bac660f4E527DA4f0dCfA5",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "CBDAO",
+            "symbol": "BREE",
+            "address": "0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DOS Network",
+            "symbol": "DOS",
+            "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0a913bead80f321e7ac35285ee10d9d922659cb7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFILEND FINANCE",
+            "symbol": "YFILD",
+            "address": "0xCec2387e04F9815BF12670dBf6cf03bba26DF25F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Squirrel Finance",
+            "symbol": "NUTS",
+            "address": "0x84294FC9710e1252d407d3D80A84bC39001bd4A8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LINK ETH RSI Ratio ",
+            "symbol": "LINKETHRSI",
+            "address": "0x8933ea1Ce67B946BdF2436cE860fFBb53Ce814d2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "elf",
+            "symbol": "ELF",
+            "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbf2179859fc6d5bee9bf9158632dc51678a4100e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyFour",
+            "symbol": "DontBuyFour",
+            "address": "0xAE9c2Ac39a77F5656d61Fde580ed69af5ADD4faa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vidya",
+            "symbol": "VIDYA",
+            "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Reserve Rights Toke",
+            "symbol": "RSR",
+            "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8762db106b2c2a0bccb3a80d1ed41273552616e8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi of Thrones",
+            "symbol": "DOTX",
+            "address": "0xFAb5a05C933f1A2463E334E011992E897D56eF0a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dether",
+            "symbol": "DTH",
+            "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "yfrb Finance",
+            "symbol": "YFRB",
+            "address": "0x5D1b1019d0Afa5E6cc047B9e78081D44cc579FC4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xfinance",
+            "symbol": "XFI",
+            "address": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5befbb272290dd5b8521d4a938f6c4757742c430/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Solarite",
+            "symbol": "SOLARITE",
+            "address": "0x930eD81ad809603baf727117385D01f04354612E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitcoinSoV",
+            "symbol": "BSOV",
+            "address": "0x26946adA5eCb57f3A1F91605050Ce45c482C9Eb1",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x26946ada5ecb57f3a1f91605050ce45c482c9eb1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DegenVC",
+            "symbol": "DGVC",
+            "address": "0x26E43759551333e57F073bb0772F50329A957b30",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x26e43759551333e57f073bb0772f50329a957b30/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dextoken Governance",
+            "symbol": "DEXG",
+            "address": "0xB81D70802a816B5DacBA06D708B5acF19DcD436D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb81d70802a816b5dacba06d708b5acf19dcd436d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Penta Network Token",
+            "symbol": "PNT",
+            "address": "0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3/icon.png"
         }
     ]
 }

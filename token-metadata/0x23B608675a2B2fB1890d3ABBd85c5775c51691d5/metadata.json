@@ -1,7 +1,7 @@
 {
-    "name": "Unisocks Edition 0",
+    "name": "Unisocks",
     "symbol": "SOCKS",
     "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED"
 }

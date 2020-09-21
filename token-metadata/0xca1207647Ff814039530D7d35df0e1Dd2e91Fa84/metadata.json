@@ -1,7 +1,7 @@
 {
-    "name": "dHedge DAO Token",
+    "name": "dHedge DAO",
     "symbol": "DHT",
     "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED"
 }

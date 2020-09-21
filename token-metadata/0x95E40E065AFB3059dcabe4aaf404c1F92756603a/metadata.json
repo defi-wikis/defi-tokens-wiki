@@ -1,0 +1,9 @@
+{
+    "name": "King DAG",
+    "symbol": "KDAG",
+    "address": "0x95E40E065AFB3059dcabe4aaf404c1F92756603a",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
