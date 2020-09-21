@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:14:22.903Z",
+    "timestamp": "2020-09-21T21:14:43.937Z",
     "version": {
         "major": 1,
-        "minor": 1102,
+        "minor": 1103,
         "patch": 0
     },
     "keywords": [
@@ -7117,6 +7117,14 @@
             "address": "0xA54C67bd320Da4F9725a6f585b7635a0c09B122e",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0xa54c67bd320da4f9725a6f585b7635a0c09b122e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ampleforth",
+            "symbol": "AMPL",
+            "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0xd46ba6d942050d489dbd938a2c909a5d5039a161/icon.png"
         }
     ]
 }
