@@ -3,7 +3,5 @@
     "symbol": "TMPL",
     "address": "0x52132a43D7cAE69B23abE77B226fA1a5BC66b839",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
