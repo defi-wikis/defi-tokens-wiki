@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:25:23.358Z",
+    "timestamp": "2020-09-21T23:25:36.543Z",
     "version": {
         "major": 1,
-        "minor": 1534,
+        "minor": 1535,
         "patch": 0
     },
     "keywords": [
@@ -10112,6 +10112,14 @@
             "symbol": "GEM",
             "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Karma DAO",
+            "symbol": "KARMA",
+            "address": "0xdfe691F37b6264a90Ff507EB359C45d55037951C",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xdfe691f37b6264a90ff507eb359c45d55037951c/icon.png"
         }
     ]
 }
