@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T16:56:43.816Z",
+    "timestamp": "2020-09-21T17:03:21.331Z",
     "version": {
         "major": 1,
-        "minor": 1048,
+        "minor": 1049,
         "patch": 0
     },
     "keywords": [
@@ -6843,6 +6843,13 @@
             "symbol": "REP20",
             "address": "0x60bcE1c09600c777d5502e3eb1413D2efd1be425",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Helios Network",
+            "symbol": "HOS",
+            "address": "0x991d6f961E9825Eb3923774C53E04E541e81e57B",
+            "decimals": 10
         }
     ]
 }
