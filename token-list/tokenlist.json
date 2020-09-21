@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T12:00:31.916Z",
+    "timestamp": "2020-09-21T12:16:09.807Z",
     "version": {
         "major": 1,
-        "minor": 1026,
+        "minor": 1027,
         "patch": 0
     },
     "keywords": [
@@ -6688,6 +6688,13 @@
             "name": "TENToken",
             "symbol": "TENT",
             "address": "0xce9d813650378d11D6661F05269D8eD6bEbB2FFA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deus.finance",
+            "symbol": "DEUS",
+            "address": "0x244Fa8325944E1850399C799BbF38CF14a1B1e7d",
             "decimals": 18
         }
     ]
