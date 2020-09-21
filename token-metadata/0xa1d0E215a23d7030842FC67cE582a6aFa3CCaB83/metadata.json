@@ -1,0 +1,9 @@
+{
+    "name": "DFI money",
+    "symbol": "YFII",
+    "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
