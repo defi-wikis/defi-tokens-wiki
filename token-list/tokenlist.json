@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:53:55.277Z",
+    "timestamp": "2020-09-21T22:54:08.961Z",
     "version": {
         "major": 1,
-        "minor": 1381,
+        "minor": 1382,
         "patch": 0
     },
     "keywords": [
@@ -9000,6 +9000,14 @@
             "address": "0x2baEcDf43734F22FD5c152DB08E3C27233F0c7d2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x2baecdf43734f22fd5c152db08e3c27233f0c7d2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Swarm Fund",
+            "symbol": "SWM",
+            "address": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3505f494c3f0fed0b594e01fa41dd3967645ca39/icon.png"
         }
     ]
 }
