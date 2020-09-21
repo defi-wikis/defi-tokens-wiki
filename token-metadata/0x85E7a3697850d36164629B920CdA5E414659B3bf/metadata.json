@@ -1,0 +1,7 @@
+{
+    "name": "Avalanche Native Token Ether",
+    "symbol": "AVAX",
+    "address": "0x85E7a3697850d36164629B920CdA5E414659B3bf",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
