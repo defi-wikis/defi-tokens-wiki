@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T04:46:50.033Z",
+    "timestamp": "2020-09-21T04:58:54.505Z",
     "version": {
         "major": 1,
-        "minor": 980,
+        "minor": 981,
         "patch": 0
     },
     "keywords": [
@@ -6366,6 +6366,13 @@
             "name": "Dumb2Coin",
             "symbol": "Dumb2Coin",
             "address": "0xe3C127466908c2CcDc43521C8315b87FD369D605",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFR Finance",
+            "symbol": "YFR",
+            "address": "0xB135cBc779D6751920428814BCf544292B8172cE",
             "decimals": 18
         }
     ]
