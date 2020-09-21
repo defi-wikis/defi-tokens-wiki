@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:28:03.165Z",
+    "timestamp": "2020-09-21T23:28:17.583Z",
     "version": {
         "major": 1,
-        "minor": 1547,
+        "minor": 1548,
         "patch": 0
     },
     "keywords": [
@@ -10198,6 +10198,14 @@
             "address": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PLAAS FARMERS TOKEN",
+            "symbol": "PLAAS",
+            "address": "0x60571E95E12c78CbA5223042692908f0649435a5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x60571e95e12c78cba5223042692908f0649435a5/icon.png"
         }
     ]
 }
