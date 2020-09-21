@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:07:25.745Z",
+    "timestamp": "2020-09-21T22:07:37.691Z",
     "version": {
         "major": 1,
-        "minor": 1154,
+        "minor": 1155,
         "patch": 0
     },
     "keywords": [
@@ -7468,6 +7468,14 @@
             "symbol": "ABUSD",
             "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xeonbit Token",
+            "symbol": "XNS",
+            "address": "0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x79c71d3436f39ce382d0f58f1b011d88100b9d91/icon.png"
         }
     ]
 }
