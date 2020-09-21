@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:08:07.127Z",
+    "timestamp": "2020-09-21T23:08:20.544Z",
     "version": {
         "major": 1,
-        "minor": 1447,
+        "minor": 1448,
         "patch": 0
     },
     "keywords": [
@@ -9467,6 +9467,14 @@
             "symbol": "INFD",
             "address": "0x82daD985AfD3708680Bac660f4E527DA4f0dCfA5",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "CBDAO",
+            "symbol": "BREE",
+            "address": "0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f/icon.png"
         }
     ]
 }
