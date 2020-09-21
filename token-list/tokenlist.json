@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:41:23.504Z",
+    "timestamp": "2020-09-21T23:41:35.025Z",
     "version": {
         "major": 1,
-        "minor": 1616,
+        "minor": 1617,
         "patch": 0
     },
     "keywords": [
@@ -10713,6 +10713,14 @@
             "address": "0x6D6506E6F438edE269877a0A720026559110B7d5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6d6506e6f438ede269877a0a720026559110b7d5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "iXledger",
+            "symbol": "IXT",
+            "address": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xfca47962d45adfdfd1ab2d972315db4ce7ccf094/icon.png"
         }
     ]
 }
