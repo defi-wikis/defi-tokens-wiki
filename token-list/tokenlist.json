@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T07:29:59.232Z",
+    "timestamp": "2020-09-21T07:32:35.137Z",
     "version": {
         "major": 1,
-        "minor": 1004,
+        "minor": 1005,
         "patch": 0
     },
     "keywords": [
@@ -6534,6 +6534,13 @@
             "name": "power.trade",
             "symbol": "PTF",
             "address": "0x5dd4D19FcdF35d7619A1A67420095749e7ff2d83",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ivan on Tech Token",
+            "symbol": "IOTT",
+            "address": "0x44aE1E010B08Bee63EC24548FC3738deAAD920CF",
             "decimals": 18
         }
     ]
