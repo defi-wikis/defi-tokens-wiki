@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:38:12.671Z",
+    "timestamp": "2020-09-21T22:38:23.295Z",
     "version": {
         "major": 1,
-        "minor": 1306,
+        "minor": 1307,
         "patch": 0
     },
     "keywords": [
@@ -8484,6 +8484,13 @@
             "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x75231f58b43240c9718dd58b4967c5114342a86c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "KittenFinance",
+            "symbol": "KIF",
+            "address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
+            "decimals": 18
         }
     ]
 }
