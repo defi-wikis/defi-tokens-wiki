@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T00:06:09.762Z",
+    "timestamp": "2020-09-21T00:21:44.320Z",
     "version": {
         "major": 1,
-        "minor": 940,
+        "minor": 941,
         "patch": 0
     },
     "keywords": [
@@ -6086,6 +6086,13 @@
             "name": "Contribute",
             "symbol": "TRIB",
             "address": "0xe09216F1d343Dd39D6Aa732a08036fee48555Af0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GovernToken",
+            "symbol": "GOV",
+            "address": "0x8aC6aDc2a307d78EB79Dc55ED601eee4Ae80256B",
             "decimals": 18
         }
     ]
