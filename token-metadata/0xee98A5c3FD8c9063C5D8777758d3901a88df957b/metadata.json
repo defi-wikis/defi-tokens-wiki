@@ -1,0 +1,9 @@
+{
+    "name": "Zeb Token",
+    "symbol": "ZEB",
+    "address": "0xee98A5c3FD8c9063C5D8777758d3901a88df957b",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
