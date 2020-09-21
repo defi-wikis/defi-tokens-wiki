@@ -1,0 +1,9 @@
+{
+    "name": "Baz Token",
+    "symbol": "BAZT",
+    "address": "0xB020eD54651831878E5C967e0953A900786178f9",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
