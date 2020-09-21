@@ -3,7 +3,5 @@
     "symbol": "STM",
     "address": "0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
