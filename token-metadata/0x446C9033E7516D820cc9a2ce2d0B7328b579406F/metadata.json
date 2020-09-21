@@ -3,7 +3,5 @@
     "symbol": "SOLVE",
     "address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
