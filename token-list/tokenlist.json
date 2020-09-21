@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T18:15:19.880Z",
+    "timestamp": "2020-09-21T18:17:39.465Z",
     "version": {
         "major": 1,
-        "minor": 1060,
+        "minor": 1061,
         "patch": 0
     },
     "keywords": [
@@ -6927,6 +6927,13 @@
             "symbol": "SNWF",
             "address": "0xcccA0C89F1996b18FBd959e03F9899047Bb215D1",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "Connectome",
+            "symbol": "CNTM",
+            "address": "0x0E5f00DA8AAef196a719d045DB89b5DA8F371b32",
+            "decimals": 18
         }
     ]
 }
