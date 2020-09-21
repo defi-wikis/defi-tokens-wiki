@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:37:59.040Z",
+    "timestamp": "2020-09-21T22:38:12.671Z",
     "version": {
         "major": 1,
-        "minor": 1305,
+        "minor": 1306,
         "patch": 0
     },
     "keywords": [
@@ -8476,6 +8476,14 @@
             "address": "0xE477292f1B3268687A29376116B0ED27A9c76170",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xe477292f1b3268687a29376116b0ed27a9c76170/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OKB",
+            "symbol": "OKB",
+            "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x75231f58b43240c9718dd58b4967c5114342a86c/icon.png"
         }
     ]
 }
