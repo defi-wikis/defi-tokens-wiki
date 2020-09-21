@@ -3,7 +3,5 @@
     "symbol": "ORBI",
     "address": "0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
