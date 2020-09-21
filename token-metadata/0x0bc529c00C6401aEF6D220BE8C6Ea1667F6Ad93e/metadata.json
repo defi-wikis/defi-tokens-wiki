@@ -1,19 +1,9 @@
 {
-    "name": "yearn.finance",
+    "name": "yearn finance",
     "symbol": "YFI",
     "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
     "decimals": 18,
-    "description": "Yearn Finance is a suite of decentralized finance (DeFi) products focused on creating a simple way to generate high risk-adjusted returns for depositors of various assets via best-in-class lending protocols, liquidity pools, and community-made yield farming strategies on Ethereum.",
-    "dharmaVerificationStatus": "VERIFIED",
-    "socialLinks": [
-        {
-            "type": "website",
-            "value": "https://docs.yearn.finance/"
-        },
-        {
-            "type": "twitter",
-            "value": "https://twitter.com/iearnfinance"
-        }
-    ],
-    "tags": ["defi", "yield-farming"]
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
