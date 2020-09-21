@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:18:59.401Z",
+    "timestamp": "2020-09-21T23:19:11.918Z",
     "version": {
         "major": 1,
-        "minor": 1502,
+        "minor": 1503,
         "patch": 0
     },
     "keywords": [
@@ -9878,6 +9878,14 @@
             "address": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "X8X Token",
+            "symbol": "X8X",
+            "address": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c/icon.png"
         }
     ]
 }
