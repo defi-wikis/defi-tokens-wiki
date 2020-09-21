@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:40:21.374Z",
+    "timestamp": "2020-09-21T22:40:34.352Z",
     "version": {
         "major": 1,
-        "minor": 1315,
+        "minor": 1316,
         "patch": 0
     },
     "keywords": [
@@ -8555,6 +8555,14 @@
             "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xe2f2a5c287993345a840db3b0845fbc70f5935a5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BitDegree",
+            "symbol": "BDG",
+            "address": "0x1961B3331969eD52770751fC718ef530838b6dEE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1961b3331969ed52770751fc718ef530838b6dee/icon.png"
         }
     ]
 }
