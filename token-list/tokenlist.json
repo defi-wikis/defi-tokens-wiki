@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:34:59.339Z",
+    "timestamp": "2020-09-21T21:37:44.606Z",
     "version": {
         "major": 1,
-        "minor": 1112,
+        "minor": 1113,
         "patch": 0
     },
     "keywords": [
@@ -7178,6 +7178,13 @@
             "symbol": "CHEEZ",
             "address": "0xD7C1629fC6500f40e4e4AdBeCECfd6082F2218E7",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "CYCLOPS TREASURE",
+            "symbol": "CYTR",
+            "address": "0xBD05CeE8741100010D8E93048a80Ed77645ac7bf",
+            "decimals": 18
         }
     ]
 }
