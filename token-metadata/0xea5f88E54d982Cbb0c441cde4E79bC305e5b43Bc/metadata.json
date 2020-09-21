@@ -1,0 +1,9 @@
+{
+    "name": "PARETO Rewards",
+    "symbol": "PARETO",
+    "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
