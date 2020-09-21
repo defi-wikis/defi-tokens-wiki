@@ -3,7 +3,5 @@
     "symbol": "HGET",
     "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
     "decimals": 6,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
