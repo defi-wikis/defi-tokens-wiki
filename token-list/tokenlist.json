@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:43:54.017Z",
+    "timestamp": "2020-09-21T21:59:39.425Z",
     "version": {
         "major": 1,
-        "minor": 1114,
+        "minor": 1115,
         "patch": 0
     },
     "keywords": [
@@ -7192,6 +7192,14 @@
             "symbol": "Republic Note",
             "address": "0xb1A6F109528DC465E17D6B255E0E2B639843c413",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Strong",
+            "symbol": "STRONG",
+            "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x990f341946a3fdb507ae7e52d17851b87168017c/icon.png"
         }
     ]
 }
