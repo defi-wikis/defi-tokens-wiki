@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:14:43.937Z",
+    "timestamp": "2020-09-21T21:14:56.929Z",
     "version": {
         "major": 1,
-        "minor": 1103,
+        "minor": 1104,
         "patch": 0
     },
     "keywords": [
@@ -1099,7 +1099,7 @@
         },
         {
             "chainId": 1,
-            "name": "Fuel Finance",
+            "name": "YFUEL",
             "symbol": "YFUEL",
             "address": "0xbD301BE09eB78Df47019aa833D29eDc5D815D838",
             "decimals": 18
