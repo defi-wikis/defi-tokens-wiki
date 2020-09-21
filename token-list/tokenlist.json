@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:50:32.877Z",
+    "timestamp": "2020-09-21T23:50:44.970Z",
     "version": {
         "major": 1,
-        "minor": 1660,
+        "minor": 1661,
         "patch": 0
     },
     "keywords": [
@@ -11045,6 +11045,14 @@
             "symbol": "GBP",
             "address": "0x0cf58006B2400ebec3eB8C05b73170138a340563",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Etheroll",
+            "symbol": "DICE",
+            "address": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+            "decimals": 16,
+            "logoURI": "https://tokens.dharma.io/assets/0x2e071d2966aa7d8decb1005885ba1977d6038a65/icon.png"
         }
     ]
 }
