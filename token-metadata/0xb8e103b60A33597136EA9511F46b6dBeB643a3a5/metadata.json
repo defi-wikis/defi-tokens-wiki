@@ -3,7 +3,5 @@
     "symbol": "SBTC",
     "address": "0xb8e103b60A33597136EA9511F46b6dBeB643a3a5",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
