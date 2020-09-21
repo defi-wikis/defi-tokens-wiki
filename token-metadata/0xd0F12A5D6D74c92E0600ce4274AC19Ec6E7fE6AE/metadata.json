@@ -3,7 +3,5 @@
     "symbol": "TAUC",
     "address": "0xd0F12A5D6D74c92E0600ce4274AC19Ec6E7fE6AE",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
