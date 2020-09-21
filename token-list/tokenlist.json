@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:35:44.037Z",
+    "timestamp": "2020-09-21T22:35:56.975Z",
     "version": {
         "major": 1,
-        "minor": 1297,
+        "minor": 1298,
         "patch": 0
     },
     "keywords": [
@@ -8413,6 +8413,14 @@
             "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x675e7d927af7e6d0082e0153dc3485b687a6f0ad/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ShitCoin",
+            "symbol": "SHIT",
+            "address": "0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xaa7fb1c8ce6f18d4fd4aabb61a2193d4d441c54f/icon.png"
         }
     ]
 }
