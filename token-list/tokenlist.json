@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:19:38.372Z",
+    "timestamp": "2020-09-21T22:19:51.011Z",
     "version": {
         "major": 1,
-        "minor": 1216,
+        "minor": 1217,
         "patch": 0
     },
     "keywords": [
@@ -630,10 +630,11 @@
         },
         {
             "chainId": 1,
-            "name": "Soft Yearn Finance",
+            "name": "Soft Yearn",
             "symbol": "SYFI",
             "address": "0x322124122DF407b0d0D902cB713B3714FB2e2E1F",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x322124122df407b0d0d902cb713b3714fb2e2e1f/icon.png"
         },
         {
             "chainId": 1,
