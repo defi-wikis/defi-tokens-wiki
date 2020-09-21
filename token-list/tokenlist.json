@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:00:57.365Z",
+    "timestamp": "2020-09-21T22:01:10.172Z",
     "version": {
         "major": 1,
-        "minor": 1121,
+        "minor": 1122,
         "patch": 0
     },
     "keywords": [
@@ -7239,6 +7239,14 @@
             "address": "0xD36a0e7b741542208aE0fBb35453C893D0136625",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0xd36a0e7b741542208ae0fbb35453c893d0136625/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Gnosis",
+            "symbol": "GNO",
+            "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6810e776880c02933d47db1b9fc05908e5386b96/icon.png"
         }
     ]
 }
