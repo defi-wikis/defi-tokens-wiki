@@ -3,7 +3,5 @@
     "symbol": "GRAP",
     "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
