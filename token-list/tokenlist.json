@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T00:35:09.765Z",
+    "timestamp": "2020-09-21T00:45:39.872Z",
     "version": {
         "major": 1,
-        "minor": 943,
+        "minor": 944,
         "patch": 0
     },
     "keywords": [
@@ -6107,6 +6107,13 @@
             "name": "TRIBtoken.com",
             "symbol": "TRIB",
             "address": "0x480d098EeE81354799B7E071D484265b6CEddB73",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WeiCoin",
+            "symbol": "WEIC",
+            "address": "0x4e8F2ca4193c01e84D6caA10CFdcB76Ead4B3aD3",
             "decimals": 18
         }
     ]
