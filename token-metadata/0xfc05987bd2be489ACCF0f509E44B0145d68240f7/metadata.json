@@ -3,7 +3,5 @@
     "symbol": "ESS",
     "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
