@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T20:55:59.349Z",
+    "timestamp": "2020-09-21T20:59:39.246Z",
     "version": {
         "major": 1,
-        "minor": 1096,
+        "minor": 1097,
         "patch": 0
     },
     "keywords": [
@@ -7085,6 +7085,13 @@
             "name": "HFIToken",
             "symbol": "HFI",
             "address": "0x08574B93EdB8212A4c90C61a9D61CF5533Afd641",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PUMPANOMICS @ pumpanomics.wixsite.com/index",
+            "symbol": "PUMP",
+            "address": "0x7e7D79ebD171B81182c4981039efF868Aa2672f1",
             "decimals": 18
         }
     ]
