@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:44:55.112Z",
+    "timestamp": "2020-09-21T23:45:11.298Z",
     "version": {
         "major": 1,
-        "minor": 1633,
+        "minor": 1634,
         "patch": 0
     },
     "keywords": [
@@ -105,10 +105,11 @@
         },
         {
             "chainId": 1,
-            "name": "Compound Sai",
+            "name": "cSAI",
             "symbol": "CSAI",
             "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf5dce57282a584d2746faf1593d3121fcac444dc/icon.png"
         },
         {
             "chainId": 1,
