@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:52:16.870Z",
+    "timestamp": "2020-09-21T22:52:27.293Z",
     "version": {
         "major": 1,
-        "minor": 1373,
+        "minor": 1374,
         "patch": 0
     },
     "keywords": [
@@ -4364,7 +4364,7 @@
         },
         {
             "chainId": 1,
-            "name": "Cute Coin",
+            "name": "Blockchain Cuties U",
             "symbol": "CUTE",
             "address": "0x047686fB287e7263A23873dEa66b4501015a2226",
             "decimals": 18
