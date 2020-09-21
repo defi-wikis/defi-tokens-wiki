@@ -1,11 +1,13 @@
 {
     "stablecoin": {
         "name": "Stablecoin",
-        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
+        "emoji": "💲"
     },
     "yield-farming": {
         "name": "Yield Farming",
-        "description": "Tokens that are doled out as rewards for providing liquidity to protocols"
+        "description": "Tokens that are doled out as rewards for providing liquidity to protocols",
+        "emoji": "🚜"
     },
     "yfi-inspired": {
         "name": "YFI Inspired",
