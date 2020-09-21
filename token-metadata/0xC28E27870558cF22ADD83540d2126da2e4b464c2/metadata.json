@@ -3,7 +3,5 @@
     "symbol": "SASHIMI",
     "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
