@@ -1,0 +1,9 @@
+{
+    "name": "DegenVC",
+    "symbol": "DGVC",
+    "address": "0x26E43759551333e57F073bb0772F50329A957b30",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
