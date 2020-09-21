@@ -3,7 +3,5 @@
     "symbol": "XMX",
     "address": "0x0f8c45B896784A1E408526B9300519ef8660209c",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
