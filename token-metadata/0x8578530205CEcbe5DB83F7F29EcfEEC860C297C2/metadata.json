@@ -1,0 +1,9 @@
+{
+    "name": "smARTOFGIVING",
+    "symbol": "AOG",
+    "address": "0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
