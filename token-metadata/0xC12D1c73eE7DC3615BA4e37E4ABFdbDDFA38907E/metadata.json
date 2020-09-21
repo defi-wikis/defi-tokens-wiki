@@ -1,0 +1,9 @@
+{
+    "name": "KickToken",
+    "symbol": "KICK",
+    "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
