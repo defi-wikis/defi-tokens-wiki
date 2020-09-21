@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:08:57.570Z",
+    "timestamp": "2020-09-21T22:09:08.699Z",
     "version": {
         "major": 1,
-        "minor": 1161,
+        "minor": 1162,
         "patch": 0
     },
     "keywords": [
@@ -7514,6 +7514,14 @@
             "address": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf063fe1ab7a291c5d06a86e14730b00bf24cb589/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Remme",
+            "symbol": "REM",
+            "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x83984d6142934bb535793a82adb0a46ef0f66b6d/icon.png"
         }
     ]
 }
