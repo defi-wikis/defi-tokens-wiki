@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:32:08.741Z",
+    "timestamp": "2020-09-21T23:32:20.282Z",
     "version": {
         "major": 1,
-        "minor": 1570,
+        "minor": 1571,
         "patch": 0
     },
     "keywords": [
@@ -10367,6 +10367,14 @@
             "address": "0x05860d453C7974CbF46508c06CBA14e211c629Ce",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x05860d453c7974cbf46508c06cba14e211c629ce/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Saga",
+            "symbol": "SGA",
+            "address": "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xed0849bf46cfb9845a2d900a0a4e593f2dd3673c/icon.png"
         }
     ]
 }
