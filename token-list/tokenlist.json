@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:50:11.436Z",
+    "timestamp": "2020-09-21T23:50:23.250Z",
     "version": {
         "major": 1,
-        "minor": 1658,
+        "minor": 1659,
         "patch": 0
     },
     "keywords": [
@@ -11030,6 +11030,14 @@
             "address": "0x3c4030839708a20fd2fb379cf11810dde4888d93",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3c4030839708a20fd2fb379cf11810dde4888d93/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoAds Marketpla",
+            "symbol": "CRAD",
+            "address": "0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x608f006b6813f97097372d0d31fb0f11d1ca3e4e/icon.png"
         }
     ]
 }
