@@ -3,7 +3,5 @@
     "symbol": "PLBT",
     "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
     "decimals": 6,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
