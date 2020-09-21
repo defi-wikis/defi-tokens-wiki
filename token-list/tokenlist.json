@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:37:24.208Z",
+    "timestamp": "2020-09-21T23:37:36.149Z",
     "version": {
         "major": 1,
-        "minor": 1596,
+        "minor": 1597,
         "patch": 0
     },
     "keywords": [
@@ -10557,6 +10557,14 @@
             "address": "0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xf18432ef894ef4b2a5726f933718f5a8cf9ff831/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MarketPeak",
+            "symbol": "PEAK",
+            "address": "0x633eE3fbE5ffc05bD44Ecd8240732fF9ef9Dee1d",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x633ee3fbe5ffc05bd44ecd8240732ff9ef9dee1d/icon.png"
         }
     ]
 }
