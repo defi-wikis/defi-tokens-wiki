@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T00:45:39.872Z",
+    "timestamp": "2020-09-21T00:49:44.318Z",
     "version": {
         "major": 1,
-        "minor": 944,
+        "minor": 945,
         "patch": 0
     },
     "keywords": [
@@ -6114,6 +6114,13 @@
             "name": "WeiCoin",
             "symbol": "WEIC",
             "address": "0x4e8F2ca4193c01e84D6caA10CFdcB76Ead4B3aD3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fruit",
+            "symbol": "FRUIT",
+            "address": "0x2b6148D996736900F59d21eDFce69991bf8243a2",
             "decimals": 18
         }
     ]
