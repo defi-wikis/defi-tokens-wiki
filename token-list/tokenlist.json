@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:07:45.158Z",
+    "timestamp": "2020-09-21T06:07:59.625Z",
     "version": {
         "major": 1,
-        "minor": 990,
+        "minor": 991,
         "patch": 0
     },
     "keywords": [
@@ -6436,6 +6436,13 @@
             "name": "UnFederalReserveToken",
             "symbol": "eRSDL",
             "address": "0x01Ce398A2A59d164f366762EE70c596de06E9482",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FucKoin",
+            "symbol": "FCKS",
+            "address": "0xc6e2da4A9dBe3DFe5A0836B182e0a762A0F8ebd9",
             "decimals": 18
         }
     ]
