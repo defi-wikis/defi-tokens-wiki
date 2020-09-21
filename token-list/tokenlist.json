@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T03:14:44.784Z",
+    "timestamp": "2020-09-21T03:17:07.796Z",
     "version": {
         "major": 1,
-        "minor": 964,
+        "minor": 965,
         "patch": 0
     },
     "keywords": [
@@ -6254,6 +6254,13 @@
             "name": "CRUST",
             "symbol": "CRU",
             "address": "0x63627D9a9Dd8389c9799fb174EbF99Dd8949bC04",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "definer.org",
+            "symbol": "FIN",
+            "address": "0x9C544BB0e4Ba224B314f9938B8200FbdC50495Bb",
             "decimals": 18
         }
     ]
