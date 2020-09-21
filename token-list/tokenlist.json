@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:06:43.541Z",
+    "timestamp": "2020-09-21T23:06:56.307Z",
     "version": {
         "major": 1,
-        "minor": 1440,
+        "minor": 1441,
         "patch": 0
     },
     "keywords": [
@@ -9428,6 +9428,14 @@
             "symbol": "YFFII",
             "address": "0x6c4B85CaB20c13aF72766025F0e17E0fe558A553",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Liquidity Dividends",
+            "symbol": "LID",
+            "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0417912b3a7af768051765040a55bb0925d4ddcf/icon.png"
         }
     ]
 }
