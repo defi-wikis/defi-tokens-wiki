@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:55:12.540Z",
+    "timestamp": "2020-09-21T22:55:23.642Z",
     "version": {
         "major": 1,
-        "minor": 1387,
+        "minor": 1388,
         "patch": 0
     },
     "keywords": [
@@ -9039,6 +9039,13 @@
             "address": "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9f284e1337a815fe77d2ff4ae46544645b20c5ff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Thorncoin",
+            "symbol": "THRN",
+            "address": "0x35A735B7D1d811887966656855F870c05fD0A86D",
+            "decimals": 18
         }
     ]
 }
