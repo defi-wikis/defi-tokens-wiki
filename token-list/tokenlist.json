@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:28:41.019Z",
+    "timestamp": "2020-09-21T22:28:53.145Z",
     "version": {
         "major": 1,
-        "minor": 1263,
+        "minor": 1264,
         "patch": 0
     },
     "keywords": [
@@ -8176,6 +8176,14 @@
             "address": "0x310DA5e1E61cD9d6ECed092F085941089267E71E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x310da5e1e61cd9d6eced092f085941089267e71e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sports Betting Mark",
+            "symbol": "SBX",
+            "address": "0x7461C43bb1E96863233D72A09191008ee9217Ee8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7461c43bb1e96863233d72a09191008ee9217ee8/icon.png"
         }
     ]
 }
