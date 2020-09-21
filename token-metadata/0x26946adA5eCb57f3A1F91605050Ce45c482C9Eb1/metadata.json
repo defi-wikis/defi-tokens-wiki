@@ -3,7 +3,5 @@
     "symbol": "BSOV",
     "address": "0x26946adA5eCb57f3A1F91605050Ce45c482C9Eb1",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
