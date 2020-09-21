@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:31:56.964Z",
+    "timestamp": "2020-09-21T23:32:08.741Z",
     "version": {
         "major": 1,
-        "minor": 1569,
+        "minor": 1570,
         "patch": 0
     },
     "keywords": [
@@ -4415,7 +4415,8 @@
             "name": "Small Love Potion",
             "symbol": "SLP",
             "address": "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1",
-            "decimals": 0
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x37236cd05b34cc79d3715af2383e96dd7443dcf1/icon.png"
         },
         {
             "chainId": 1,
