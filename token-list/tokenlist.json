@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:14:04.881Z",
+    "timestamp": "2020-09-21T22:14:15.345Z",
     "version": {
         "major": 1,
-        "minor": 1187,
+        "minor": 1188,
         "patch": 0
     },
     "keywords": [
@@ -7677,6 +7677,13 @@
             "address": "0x47632dA9227E322EDa59F9e7691eAcC6430Ac87C",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x47632da9227e322eda59f9e7691eacc6430ac87c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bast",
+            "symbol": "BAST",
+            "address": "0x47eB79217f42f92dbd741ADd1B1a6783A2c873cf",
+            "decimals": 18
         }
     ]
 }
