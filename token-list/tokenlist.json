@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:06:17.227Z",
+    "timestamp": "2020-09-21T22:06:29.477Z",
     "version": {
         "major": 1,
-        "minor": 1148,
+        "minor": 1149,
         "patch": 0
     },
     "keywords": [
@@ -7430,6 +7430,14 @@
             "address": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7b123f53421b1bf8533339bfbdc7c98aa94163db/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aleph im",
+            "symbol": "ALEPH",
+            "address": "0xC0134b5B924c2FCA106eFB33C45446c466FBe03e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc0134b5b924c2fca106efb33c45446c466fbe03e/icon.png"
         }
     ]
 }
