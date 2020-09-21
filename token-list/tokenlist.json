@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:24:38.168Z",
+    "timestamp": "2020-09-21T23:24:47.799Z",
     "version": {
         "major": 1,
-        "minor": 1530,
+        "minor": 1531,
         "patch": 0
     },
     "keywords": [
@@ -10082,6 +10082,13 @@
             "address": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcca0c9c383076649604ee31b20248bc04fdf61ca/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BitDinero",
+            "symbol": "XBR",
+            "address": "0x86aD632c36425F0E0af2FcD6F55C160e10C04b26",
+            "decimals": 18
         }
     ]
 }
