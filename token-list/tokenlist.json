@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:50:38.056Z",
+    "timestamp": "2020-09-21T22:50:53.077Z",
     "version": {
         "major": 1,
-        "minor": 1365,
+        "minor": 1366,
         "patch": 0
     },
     "keywords": [
@@ -8906,6 +8906,14 @@
             "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum eRush",
+            "symbol": "EER",
+            "address": "0x3cC5EB07E0e1227613F1DF58f38b549823d11cB9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3cc5eb07e0e1227613f1df58f38b549823d11cb9/icon.png"
         }
     ]
 }
