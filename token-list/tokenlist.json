@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:28:53.145Z",
+    "timestamp": "2020-09-21T22:29:06.781Z",
     "version": {
         "major": 1,
-        "minor": 1264,
+        "minor": 1265,
         "patch": 0
     },
     "keywords": [
@@ -8184,6 +8184,14 @@
             "address": "0x7461C43bb1E96863233D72A09191008ee9217Ee8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7461c43bb1e96863233d72a09191008ee9217ee8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Lendingblock",
+            "symbol": "LND",
+            "address": "0x0947b0e6D821378805c9598291385CE7c791A6B2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0947b0e6d821378805c9598291385ce7c791a6b2/icon.png"
         }
     ]
 }
