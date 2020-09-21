@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:46:22.786Z",
+    "timestamp": "2020-09-21T22:46:34.980Z",
     "version": {
         "major": 1,
-        "minor": 1344,
+        "minor": 1345,
         "patch": 0
     },
     "keywords": [
@@ -8752,6 +8752,14 @@
             "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x80fb784b7ed66730e8b1dbd9820afd29931aab03/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CoinLion",
+            "symbol": "LION",
+            "address": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2167fb82309cf76513e83b25123f8b0559d6b48f/icon.png"
         }
     ]
 }
