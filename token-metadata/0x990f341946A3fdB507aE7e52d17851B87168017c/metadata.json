@@ -1,0 +1,9 @@
+{
+    "name": "Strong",
+    "symbol": "STRONG",
+    "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
