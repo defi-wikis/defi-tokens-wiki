@@ -3,7 +3,5 @@
     "symbol": "UCM",
     "address": "0x722f97A435278B7383a1e3c47F41773bebF3232C",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
