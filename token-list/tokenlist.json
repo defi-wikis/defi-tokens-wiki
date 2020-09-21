@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T18:03:14.604Z",
+    "timestamp": "2020-09-21T18:14:15.091Z",
     "version": {
         "major": 1,
-        "minor": 1058,
+        "minor": 1059,
         "patch": 0
     },
     "keywords": [
@@ -6912,6 +6912,13 @@
             "name": "Only100Tokens",
             "symbol": "ONLY100",
             "address": "0x49f3e3b51Ec614da1f620100605B00972D66748d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kassia Kommercial Crown",
+            "symbol": "CROWN",
+            "address": "0xba4418f862A8d37c67991d658a3C5C09bD8C7366",
             "decimals": 18
         }
     ]
