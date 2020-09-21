@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:47:45.387Z",
+    "timestamp": "2020-09-21T23:47:57.610Z",
     "version": {
         "major": 1,
-        "minor": 1646,
+        "minor": 1647,
         "patch": 0
     },
     "keywords": [
@@ -10936,6 +10936,14 @@
             "address": "0x261EfCdD24CeA98652B9700800a13DfBca4103fF",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x261efcdd24cea98652b9700800a13dfbca4103ff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "H3X",
+            "symbol": "H3X",
+            "address": "0x85eBa557C06c348395fD49e35d860F58a4F7c95a",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x85eba557c06c348395fd49e35d860f58a4f7c95a/icon.png"
         }
     ]
 }
