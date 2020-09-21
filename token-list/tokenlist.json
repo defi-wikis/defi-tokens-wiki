@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:54:09.684Z",
+    "timestamp": "2020-09-21T19:54:50.060Z",
     "version": {
         "major": 1,
-        "minor": 1083,
+        "minor": 1084,
         "patch": 0
     },
     "keywords": [
@@ -7035,6 +7035,13 @@
             "symbol": "USDF",
             "address": "0x0462A453c194C176C94A38F1A2AC786bAf05ab2b",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Burningmoon.net",
+            "symbol": "MOONB",
+            "address": "0xB75eb32B6Bc0bE926Ebb6240933548385B6D42D8",
+            "decimals": 18
         }
     ]
 }
