@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:24:47.799Z",
+    "timestamp": "2020-09-21T23:25:01.500Z",
     "version": {
         "major": 1,
-        "minor": 1531,
+        "minor": 1532,
         "patch": 0
     },
     "keywords": [
@@ -10089,6 +10089,14 @@
             "symbol": "XBR",
             "address": "0x86aD632c36425F0E0af2FcD6F55C160e10C04b26",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DFI money",
+            "symbol": "YFII",
+            "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa1d0e215a23d7030842fc67ce582a6afa3ccab83/icon.png"
         }
     ]
 }
