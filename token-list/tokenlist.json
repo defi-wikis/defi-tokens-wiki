@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:07:56.651Z",
+    "timestamp": "2020-09-21T22:08:06.365Z",
     "version": {
         "major": 1,
-        "minor": 1157,
+        "minor": 1158,
         "patch": 0
     },
     "keywords": [
@@ -7483,6 +7483,13 @@
             "symbol": "BTCWH",
             "address": "0x4588C3c165a5C66C020997d89C2162814Aec9cD6",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Empty Set Dollar",
+            "symbol": "ESD",
+            "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
+            "decimals": 18
         }
     ]
 }
