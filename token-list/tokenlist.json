@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:33:05.856Z",
+    "timestamp": "2020-09-21T23:33:18.502Z",
     "version": {
         "major": 1,
-        "minor": 1575,
+        "minor": 1576,
         "patch": 0
     },
     "keywords": [
@@ -10406,6 +10406,14 @@
             "address": "0x56e0B2C7694E6e10391E870774daA45cf6583486",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x56e0b2c7694e6e10391e870774daa45cf6583486/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Most Protocol",
+            "symbol": "MOST",
+            "address": "0x784561B89A160990F46DE6dB19571Ca1B5F14bCE",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x784561b89a160990f46de6db19571ca1b5f14bce/icon.png"
         }
     ]
 }
