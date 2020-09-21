@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T10:58:44.268Z",
+    "timestamp": "2020-09-21T11:14:44.728Z",
     "version": {
         "major": 1,
-        "minor": 1021,
+        "minor": 1022,
         "patch": 0
     },
     "keywords": [
@@ -6653,6 +6653,13 @@
             "name": "Wrapped MovieBloc",
             "symbol": "WMBL",
             "address": "0x1165F761a16C3d07270775b793d202075e5BE14d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FUMGO",
+            "symbol": "FMG",
+            "address": "0x203762Db5A4688835ab77b8a5FF9E4a04C623de1",
             "decimals": 18
         }
     ]
