@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:16:11.593Z",
+    "timestamp": "2020-09-21T21:16:28.391Z",
     "version": {
         "major": 1,
-        "minor": 1109,
+        "minor": 1110,
         "patch": 0
     },
     "keywords": [
@@ -7156,6 +7156,14 @@
             "address": "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0e2298e3b3390e3b945a5456fbf59ecc3f55da16/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SyncFab",
+            "symbol": "MFG",
+            "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6710c63432a2de02954fc0f851db07146a6c0312/icon.png"
         }
     ]
 }
