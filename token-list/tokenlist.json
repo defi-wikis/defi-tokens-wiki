@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:36:13.088Z",
+    "timestamp": "2020-09-21T22:36:25.081Z",
     "version": {
         "major": 1,
-        "minor": 1299,
+        "minor": 1300,
         "patch": 0
     },
     "keywords": [
@@ -8429,6 +8429,14 @@
             "address": "0x1D287CC25dAD7cCaF76a26bc660c5F7C8E2a05BD",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UTRUST",
+            "symbol": "UTK",
+            "address": "0x70a72833d6bF7F508C8224CE59ea1Ef3d0Ea3A38",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38/icon.png"
         }
     ]
 }
