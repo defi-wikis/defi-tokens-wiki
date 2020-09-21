@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:46:57.992Z",
+    "timestamp": "2020-09-21T23:47:10.485Z",
     "version": {
         "major": 1,
-        "minor": 1642,
+        "minor": 1643,
         "patch": 0
     },
     "keywords": [
@@ -10904,6 +10904,14 @@
             "address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x97aeb5066e1a590e868b511457beb6fe99d329f5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PIXBY",
+            "symbol": "PIXBY",
+            "address": "0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb53e08b97724126bda6d237b94f766c0b81c90fe/icon.png"
         }
     ]
 }
