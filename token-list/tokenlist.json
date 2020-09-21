@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T12:24:55.009Z",
+    "timestamp": "2020-09-21T12:29:29.961Z",
     "version": {
         "major": 1,
-        "minor": 1030,
+        "minor": 1031,
         "patch": 0
     },
     "keywords": [
@@ -6716,6 +6716,13 @@
             "name": "IYF.Finance",
             "symbol": "IYF",
             "address": "0x98Def380d485a702Fb4ad87203efc02EB4d708C2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GFinance",
+            "symbol": "GFI",
+            "address": "0x2d2B7A03240D6D1D87E8796494c656F9b2918155",
             "decimals": 18
         }
     ]
