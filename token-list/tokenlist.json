@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:02:41.330Z",
+    "timestamp": "2020-09-21T23:02:51.727Z",
     "version": {
         "major": 1,
-        "minor": 1420,
+        "minor": 1421,
         "patch": 0
     },
     "keywords": [
@@ -9287,6 +9287,13 @@
             "symbol": "VEY",
             "address": "0x70A63225BcaDacc4430919F0C1A4f0f5fcffBaac",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Universal Protocol ",
+            "symbol": "UPT",
+            "address": "0x6CA88Cc8D9288f5cAD825053B6A1B179B05c76fC",
+            "decimals": 18
         }
     ]
 }
