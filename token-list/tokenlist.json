@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:17:30.358Z",
+    "timestamp": "2020-09-21T22:17:38.953Z",
     "version": {
         "major": 1,
-        "minor": 1204,
+        "minor": 1205,
         "patch": 0
     },
     "keywords": [
@@ -7801,6 +7801,13 @@
             "address": "0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb1ec548f296270bc96b8a1b3b3c8f3f04b494215/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "EANTO",
+            "symbol": "EAN",
+            "address": "0xB4742e2013f96850a5CeF850A3bB74cF63B9a5D5",
+            "decimals": 18
         }
     ]
 }
