@@ -3,7 +3,5 @@
     "symbol": "ESH",
     "address": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
