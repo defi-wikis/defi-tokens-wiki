@@ -1,0 +1,9 @@
+{
+    "name": "Amon",
+    "symbol": "AMN",
+    "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
