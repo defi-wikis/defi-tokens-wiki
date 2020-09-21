@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:24:26.500Z",
+    "timestamp": "2020-09-21T23:24:38.168Z",
     "version": {
         "major": 1,
-        "minor": 1529,
+        "minor": 1530,
         "patch": 0
     },
     "keywords": [
@@ -10074,6 +10074,14 @@
             "address": "0xCF67CEd76E8356366291246A9222169F4dBdBe64",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcf67ced76e8356366291246a9222169f4dbdbe64/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bitmax Token",
+            "symbol": "BTMX",
+            "address": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcca0c9c383076649604ee31b20248bc04fdf61ca/icon.png"
         }
     ]
 }
