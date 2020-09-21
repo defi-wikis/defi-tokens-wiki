@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:04:59.610Z",
+    "timestamp": "2020-09-21T17:14:49.466Z",
     "version": {
         "major": 1,
-        "minor": 1050,
+        "minor": 1051,
         "patch": 0
     },
     "keywords": [
@@ -6856,6 +6856,13 @@
             "name": "RealGold",
             "symbol": "REALGOLD",
             "address": "0x78e96360c0b98e475075A34fc2AEAE2b5aABd02D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPY.Finance",
+            "symbol": "SPY",
+            "address": "0x654f6D5cc377Cd79488f8120740fFC95D77826B3",
             "decimals": 18
         }
     ]
