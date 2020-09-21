@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:19:05.989Z",
+    "timestamp": "2020-09-21T22:19:14.485Z",
     "version": {
         "major": 1,
-        "minor": 1213,
+        "minor": 1214,
         "patch": 0
     },
     "keywords": [
@@ -7860,6 +7860,13 @@
             "name": "JamaiCoin",
             "symbol": "YAH",
             "address": "0xC2856A8310AF421A2A65De16428C2DEC6CeacB36",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Singular J",
+            "symbol": "SNGJ",
+            "address": "0x249f71F8D9dA86c60f485E021b509A206667A079",
             "decimals": 18
         }
     ]
