@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:59:19.216Z",
+    "timestamp": "2020-09-21T23:59:31.227Z",
     "version": {
         "major": 1,
-        "minor": 1706,
+        "minor": 1707,
         "patch": 0
     },
     "keywords": [
@@ -11382,6 +11382,14 @@
             "symbol": "BBC",
             "address": "0x675Ce995953136814cb05aaAA5d02327E7Dc8c93",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Liquidity Network",
+            "symbol": "LQD",
+            "address": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd29f0b5b3f50b07fe9a9511f7d86f4f4bac3f8c4/icon.png"
         }
     ]
 }
