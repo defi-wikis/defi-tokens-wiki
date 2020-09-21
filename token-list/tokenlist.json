@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:02:51.727Z",
+    "timestamp": "2020-09-21T23:03:04.524Z",
     "version": {
         "major": 1,
-        "minor": 1421,
+        "minor": 1422,
         "patch": 0
     },
     "keywords": [
@@ -9294,6 +9294,14 @@
             "symbol": "UPT",
             "address": "0x6CA88Cc8D9288f5cAD825053B6A1B179B05c76fC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hyprr  Howdoo ",
+            "symbol": "UDOO",
+            "address": "0x12f649A9E821F90BB143089a6e56846945892ffB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x12f649a9e821f90bb143089a6e56846945892ffb/icon.png"
         }
     ]
 }
