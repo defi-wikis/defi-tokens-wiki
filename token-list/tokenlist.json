@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:44:32.067Z",
+    "timestamp": "2020-09-21T22:44:44.961Z",
     "version": {
         "major": 1,
-        "minor": 1335,
+        "minor": 1336,
         "patch": 0
     },
     "keywords": [
@@ -135,10 +135,11 @@
         },
         {
             "chainId": 1,
-            "name": "Unisocks Edition 0",
+            "name": "Unisocks",
             "symbol": "SOCKS",
             "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x23b608675a2b2fb1890d3abbd85c5775c51691d5/icon.png"
         },
         {
             "chainId": 1,
