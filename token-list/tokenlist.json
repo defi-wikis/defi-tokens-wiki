@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:15:13.002Z",
+    "timestamp": "2020-09-21T21:15:29.598Z",
     "version": {
         "major": 1,
-        "minor": 1105,
+        "minor": 1106,
         "patch": 0
     },
     "keywords": [
@@ -7133,6 +7133,14 @@
             "address": "0xB3e2Cb7CccfE139f8FF84013823Bf22dA6B6390A",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sentivate",
+            "symbol": "SNTVT",
+            "address": "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8/icon.png"
         }
     ]
 }
