@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:42:53.964Z",
+    "timestamp": "2020-09-21T22:43:07.217Z",
     "version": {
         "major": 1,
-        "minor": 1327,
+        "minor": 1328,
         "patch": 0
     },
     "keywords": [
@@ -4317,10 +4317,11 @@
         },
         {
             "chainId": 1,
-            "name": "DXdao",
+            "name": "DXDao",
             "symbol": "DXD",
             "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa1d65e8fb6e87b60feccbc582f7f97804b725521/icon.png"
         },
         {
             "chainId": 1,
