@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:20:51.067Z",
+    "timestamp": "2020-09-21T23:21:03.538Z",
     "version": {
         "major": 1,
-        "minor": 1511,
+        "minor": 1512,
         "patch": 0
     },
     "keywords": [
@@ -9934,6 +9934,14 @@
             "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Metal",
+            "symbol": "MTL",
+            "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf433089366899d83a9f26a773d59ec7ecf30355e/icon.png"
         }
     ]
 }
