@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:40:26.324Z",
+    "timestamp": "2020-09-21T23:40:37.447Z",
     "version": {
         "major": 1,
-        "minor": 1611,
+        "minor": 1612,
         "patch": 0
     },
     "keywords": [
@@ -10674,6 +10674,14 @@
             "address": "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BIKI",
+            "symbol": "BIKI",
+            "address": "0x70debcDAB2Ef20bE3d1dBFf6a845E9cCb6E46930",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930/icon.png"
         }
     ]
 }
