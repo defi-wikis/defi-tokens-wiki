@@ -1,0 +1,9 @@
+{
+    "name": "Sora",
+    "symbol": "XOR",
+    "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
