@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:15:17.795Z",
+    "timestamp": "2020-09-21T23:15:26.225Z",
     "version": {
         "major": 1,
-        "minor": 1482,
+        "minor": 1483,
         "patch": 0
     },
     "keywords": [
@@ -9736,6 +9736,13 @@
             "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MingWen Token",
+            "symbol": "MWT",
+            "address": "0x82A6A22d68fFba4057d5b49F93dE5C05e4416bd1",
+            "decimals": 8
         }
     ]
 }
