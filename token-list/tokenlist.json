@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:53:22.130Z",
+    "timestamp": "2020-09-21T23:53:30.953Z",
     "version": {
         "major": 1,
-        "minor": 1674,
+        "minor": 1675,
         "patch": 0
     },
     "keywords": [
@@ -11136,6 +11136,13 @@
             "name": "EFSANE",
             "symbol": "EFS",
             "address": "0x46761eE2f1EcEc5B6E82fa8FeE60e388EcE0890d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Nation Signals",
+            "symbol": "DSD",
+            "address": "0x1e3a2446C729D34373B87FD2C9CBb39A93198658",
             "decimals": 18
         }
     ]
