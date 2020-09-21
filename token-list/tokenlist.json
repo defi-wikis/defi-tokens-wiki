@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:21:14.671Z",
+    "timestamp": "2020-09-21T22:21:28.144Z",
     "version": {
         "major": 1,
-        "minor": 1225,
+        "minor": 1226,
         "patch": 0
     },
     "keywords": [
@@ -7909,6 +7909,14 @@
             "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x56d811088235f11c8920698a204a5010a788f4b3/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "IDEX",
+            "symbol": "IDEX",
+            "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb705268213d593b8fd88d3fdeff93aff5cbdcfae/icon.png"
         }
     ]
 }
