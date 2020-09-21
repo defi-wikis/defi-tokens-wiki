@@ -1,0 +1,9 @@
+{
+    "name": "Raise Token",
+    "symbol": "RAISE",
+    "address": "0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
