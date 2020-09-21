@@ -3,7 +3,5 @@
     "symbol": "FCN",
     "address": "0x051aAB38D46f6ebB551752831C7280b2b42164Db",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
