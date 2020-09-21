@@ -1,0 +1,9 @@
+{
+    "name": "Monarch Token",
+    "symbol": "MT",
+    "address": "0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
