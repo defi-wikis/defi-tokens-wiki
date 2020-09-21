@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:04:48.877Z",
+    "timestamp": "2020-09-21T22:05:00.657Z",
     "version": {
         "major": 1,
-        "minor": 1141,
+        "minor": 1142,
         "patch": 0
     },
     "keywords": [
@@ -7377,6 +7377,14 @@
             "symbol": "TAUC",
             "address": "0xd0F12A5D6D74c92E0600ce4274AC19Ec6E7fE6AE",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Cherry",
+            "symbol": "CHERRY",
+            "address": "0x4eCB692B0fEDeCD7B486b4c99044392784877E8C",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x4ecb692b0fedecd7b486b4c99044392784877e8c/icon.png"
         }
     ]
 }
