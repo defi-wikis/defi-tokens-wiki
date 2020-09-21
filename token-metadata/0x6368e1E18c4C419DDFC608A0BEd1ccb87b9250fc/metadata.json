@@ -1,0 +1,9 @@
+{
+    "name": "Tap",
+    "symbol": "XTP",
+    "address": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
