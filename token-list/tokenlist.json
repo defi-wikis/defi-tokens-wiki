@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:17:47.237Z",
+    "timestamp": "2020-09-21T23:18:00.371Z",
     "version": {
         "major": 1,
-        "minor": 1496,
+        "minor": 1497,
         "patch": 0
     },
     "keywords": [
@@ -9830,6 +9830,14 @@
             "symbol": "DRAY",
             "address": "0x86642d169dB9F57A02C65052049CbbbfB3E3b08c",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "LOCK Token",
+            "symbol": "LOCK",
+            "address": "0xB9464ef80880c5aeA54C7324c0b8Dd6ca6d05A90",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90/icon.png"
         }
     ]
 }
