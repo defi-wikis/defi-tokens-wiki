@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:43:07.217Z",
+    "timestamp": "2020-09-21T22:43:18.046Z",
     "version": {
         "major": 1,
-        "minor": 1328,
+        "minor": 1329,
         "patch": 0
     },
     "keywords": [
@@ -8633,6 +8633,14 @@
             "symbol": "CUBE",
             "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Xank",
+            "symbol": "XANK",
+            "address": "0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A",
+            "decimals": 16,
+            "logoURI": "https://tokens.dharma.io/assets/0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a/icon.png"
         }
     ]
 }
