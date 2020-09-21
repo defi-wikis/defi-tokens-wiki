@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:16:32.111Z",
+    "timestamp": "2020-09-21T23:16:44.630Z",
     "version": {
         "major": 1,
-        "minor": 1489,
+        "minor": 1490,
         "patch": 0
     },
     "keywords": [
@@ -9781,6 +9781,14 @@
             "symbol": "YFIKING",
             "address": "0x5F7fA1a0Ae94b5DD6bb6bD1708b5f3AF01b57908",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Amon",
+            "symbol": "AMN",
+            "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c/icon.png"
         }
     ]
 }
