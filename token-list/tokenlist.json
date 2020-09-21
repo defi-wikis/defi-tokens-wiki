@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:36:47.285Z",
+    "timestamp": "2020-09-21T23:36:59.582Z",
     "version": {
         "major": 1,
-        "minor": 1593,
+        "minor": 1594,
         "patch": 0
     },
     "keywords": [
@@ -10533,6 +10533,14 @@
             "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc8d2ab2a6fdebc25432e54941cb85b55b9f152db/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Raise Token",
+            "symbol": "RAISE",
+            "address": "0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x10ba8c420e912bf07bedac03aa6908720db04e0c/icon.png"
         }
     ]
 }
