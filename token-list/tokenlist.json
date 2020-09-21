@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T10:33:59.367Z",
+    "timestamp": "2020-09-21T10:44:30.156Z",
     "version": {
         "major": 1,
-        "minor": 1017,
+        "minor": 1018,
         "patch": 0
     },
     "keywords": [
@@ -6625,6 +6625,13 @@
             "name": "duckly.finance",
             "symbol": "Duckly",
             "address": "0x639F81fb1904Ab00B825d0c1dbCc440eBbB6F455",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ccc token",
+            "symbol": "ccc",
+            "address": "0x9E3eAA6fC4e870B366a27cA3838854985FC84061",
             "decimals": 18
         }
     ]
