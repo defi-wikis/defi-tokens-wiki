@@ -3,7 +3,5 @@
     "symbol": "LIB",
     "address": "0x0bf6261297198D91D4FA460242C69232146A5703",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
