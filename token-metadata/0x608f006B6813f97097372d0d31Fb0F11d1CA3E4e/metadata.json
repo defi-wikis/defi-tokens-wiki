@@ -3,7 +3,5 @@
     "symbol": "CRAD",
     "address": "0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
