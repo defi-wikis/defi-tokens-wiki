@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:43:07.691Z",
+    "timestamp": "2020-09-21T23:43:18.456Z",
     "version": {
         "major": 1,
-        "minor": 1625,
+        "minor": 1626,
         "patch": 0
     },
     "keywords": [
@@ -10777,6 +10777,14 @@
             "address": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4f56221252d117f35e2f6ab937a3f77cad38934d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Polybius",
+            "symbol": "PLBT",
+            "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x0affa06e7fbe5bc9a764c979aa66e8256a631f02/icon.png"
         }
     ]
 }
