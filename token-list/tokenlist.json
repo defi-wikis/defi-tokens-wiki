@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:00:14.803Z",
+    "timestamp": "2020-09-21T23:00:23.684Z",
     "version": {
         "major": 1,
-        "minor": 1409,
+        "minor": 1410,
         "patch": 0
     },
     "keywords": [
@@ -9201,6 +9201,14 @@
             "symbol": "mimi",
             "address": "0x8033eCe502a6CF62F9aEA0ef40Df467B723F04F6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unibomb",
+            "symbol": "UBOMB",
+            "address": "0x265Ba42daF2D20F3F358a7361D9f69Cb4E28F0E6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x265ba42daf2d20f3f358a7361d9f69cb4e28f0e6/icon.png"
         }
     ]
 }
