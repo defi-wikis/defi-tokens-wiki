@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:51:26.643Z",
+    "timestamp": "2020-09-21T22:51:38.356Z",
     "version": {
         "major": 1,
-        "minor": 1369,
+        "minor": 1370,
         "patch": 0
     },
     "keywords": [
@@ -8930,6 +8930,13 @@
             "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd559f20296ff4895da39b5bd9add54b442596a61/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cowboy Finance",
+            "symbol": "COW",
+            "address": "0xf0be50ED0620E0Ba60CA7FC968eD14762e0A5Dd3",
+            "decimals": 9
         }
     ]
 }
