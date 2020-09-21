@@ -3,7 +3,5 @@
     "symbol": "CGT",
     "address": "0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
