@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:00:14.770Z",
+    "timestamp": "2020-09-21T22:00:28.173Z",
     "version": {
         "major": 1,
-        "minor": 1118,
+        "minor": 1119,
         "patch": 0
     },
     "keywords": [
@@ -7215,6 +7215,14 @@
             "address": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3a9fff453d50d4ac52a6890647b823379ba36b9e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "renZEC",
+            "symbol": "RENZEC",
+            "address": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x1c5db575e2ff833e46a2e9864c22f4b22e0b37c2/icon.png"
         }
     ]
 }
