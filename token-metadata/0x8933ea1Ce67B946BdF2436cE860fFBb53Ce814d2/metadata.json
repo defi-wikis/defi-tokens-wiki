@@ -1,0 +1,9 @@
+{
+    "name": "LINK ETH RSI Ratio ",
+    "symbol": "LINKETHRSI",
+    "address": "0x8933ea1Ce67B946BdF2436cE860fFBb53Ce814d2",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
