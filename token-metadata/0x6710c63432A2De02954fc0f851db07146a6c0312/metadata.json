@@ -1,0 +1,9 @@
+{
+    "name": "SyncFab",
+    "symbol": "MFG",
+    "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
