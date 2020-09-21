@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:05:01.774Z",
+    "timestamp": "2020-09-21T23:05:15.551Z",
     "version": {
         "major": 1,
-        "minor": 1432,
+        "minor": 1433,
         "patch": 0
     },
     "keywords": [
@@ -9373,6 +9373,14 @@
             "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6f259637dcd74c767781e37bc6133cd6a68aa161/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave SNX",
+            "symbol": "ASNX",
+            "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x328c4c80bc7aca0834db37e6600a6c49e12da4de/icon.png"
         }
     ]
 }
