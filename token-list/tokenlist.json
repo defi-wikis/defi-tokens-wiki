@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:54:48.390Z",
+    "timestamp": "2020-09-21T22:55:00.775Z",
     "version": {
         "major": 1,
-        "minor": 1385,
+        "minor": 1386,
         "patch": 0
     },
     "keywords": [
@@ -9023,6 +9023,14 @@
             "symbol": "BPOP",
             "address": "0x0452aeD878805514e28Fb5BD0B56Bef92176E32A",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YUNo Finance",
+            "symbol": "YUNO",
+            "address": "0x4B4F5286e0f93E965292B922B9Cd1677512F1222",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4b4f5286e0f93e965292b922b9cd1677512f1222/icon.png"
         }
     ]
 }
