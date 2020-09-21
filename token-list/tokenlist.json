@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:27:40.158Z",
+    "timestamp": "2020-09-21T23:27:51.171Z",
     "version": {
         "major": 1,
-        "minor": 1545,
+        "minor": 1546,
         "patch": 0
     },
     "keywords": [
@@ -10182,6 +10182,14 @@
             "address": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x06e0feb0d74106c7ada8497754074d222ec6bcdf/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hydro Protocol",
+            "symbol": "HOT",
+            "address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9af839687f6c94542ac5ece2e317daae355493a1/icon.png"
         }
     ]
 }
