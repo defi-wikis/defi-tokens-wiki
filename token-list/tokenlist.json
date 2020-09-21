@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T09:53:19.304Z",
+    "timestamp": "2020-09-21T10:33:59.367Z",
     "version": {
         "major": 1,
-        "minor": 1016,
+        "minor": 1017,
         "patch": 0
     },
     "keywords": [
@@ -6618,6 +6618,13 @@
             "name": "IYF.finance",
             "symbol": "IYF",
             "address": "0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "duckly.finance",
+            "symbol": "Duckly",
+            "address": "0x639F81fb1904Ab00B825d0c1dbCc440eBbB6F455",
             "decimals": 18
         }
     ]
