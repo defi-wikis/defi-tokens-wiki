@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T07:08:14.371Z",
+    "timestamp": "2020-09-21T07:11:39.865Z",
     "version": {
         "major": 1,
-        "minor": 1000,
+        "minor": 1001,
         "patch": 0
     },
     "keywords": [
@@ -6506,6 +6506,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xdc98556Ce24f007A5eF6dC1CE96322d65832A819",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hayek Defi Token",
+            "symbol": "HFT",
+            "address": "0xc2B6bAAef6b2B004093759BC1f3Da2C458F219F6",
             "decimals": 18
         }
     ]
