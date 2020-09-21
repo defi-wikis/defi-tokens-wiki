@@ -3,7 +3,5 @@
     "symbol": "PBTC",
     "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
