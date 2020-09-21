@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:46:18.609Z",
+    "timestamp": "2020-09-21T23:46:33.669Z",
     "version": {
         "major": 1,
-        "minor": 1639,
+        "minor": 1640,
         "patch": 0
     },
     "keywords": [
@@ -10880,6 +10880,14 @@
             "address": "0x4442556a08a841227bEf04C67A7Ba7acf01b6Fc8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4442556a08a841227bef04c67a7ba7acf01b6fc8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hybrix",
+            "symbol": "HY",
+            "address": "0x9b53E429B0baDd98ef7F01F03702986c516a5715",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9b53e429b0badd98ef7f01f03702986c516a5715/icon.png"
         }
     ]
 }
