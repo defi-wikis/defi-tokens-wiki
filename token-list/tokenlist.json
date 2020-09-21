@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:48:10.831Z",
+    "timestamp": "2020-09-21T23:48:22.727Z",
     "version": {
         "major": 1,
-        "minor": 1648,
+        "minor": 1649,
         "patch": 0
     },
     "keywords": [
@@ -10952,6 +10952,14 @@
             "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1453dbb8a29551ade11d89825ca812e05317eaeb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "EasySwap",
+            "symbol": "ESWA",
+            "address": "0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa0471cdd5c0dc2614535fd7505b17a651a8f0dab/icon.png"
         }
     ]
 }
