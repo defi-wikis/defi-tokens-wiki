@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:20:25.543Z",
+    "timestamp": "2020-09-21T23:20:38.454Z",
     "version": {
         "major": 1,
-        "minor": 1509,
+        "minor": 1510,
         "patch": 0
     },
     "keywords": [
@@ -9926,6 +9926,14 @@
             "address": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xbc86727e770de68b1060c91f6bb6945c73e10388/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Tixl  NEW ",
+            "symbol": "TXL",
+            "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41/icon.png"
         }
     ]
 }
