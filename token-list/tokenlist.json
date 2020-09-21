@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T16:38:35.554Z",
+    "timestamp": "2020-09-21T16:38:55.649Z",
     "version": {
         "major": 1,
-        "minor": 1044,
+        "minor": 1045,
         "patch": 0
     },
     "keywords": [
@@ -6814,6 +6814,13 @@
             "name": "YF Beam",
             "symbol": "YFBM",
             "address": "0x4961ec66B79eA174bc1E5Ecee219f9980C540Ccd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfio.trade",
+            "symbol": "YFIO",
+            "address": "0xd15B5aE7765C7B237Bc74f25FE8ccCfBa905cD7F",
             "decimals": 18
         }
     ]
