@@ -1,0 +1,9 @@
+{
+    "name": "sXAU",
+    "symbol": "SXAU",
+    "address": "0x261EfCdD24CeA98652B9700800a13DfBca4103fF",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
