@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:45:15.258Z",
+    "timestamp": "2020-09-21T06:55:29.535Z",
     "version": {
         "major": 1,
-        "minor": 997,
+        "minor": 998,
         "patch": 0
     },
     "keywords": [
@@ -6485,6 +6485,13 @@
             "name": "Uniswap Pool Club",
             "symbol": "UPC",
             "address": "0xB2Ddc4E9cA28D8878f48FBBec7d0813c24cdB605",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fan GCoin",
+            "symbol": "FAN",
+            "address": "0xbb23356F10138eae0011A4da2a448A1916De5f14",
             "decimals": 18
         }
     ]
