@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T12:29:29.961Z",
+    "timestamp": "2020-09-21T12:50:49.692Z",
     "version": {
         "major": 1,
-        "minor": 1031,
+        "minor": 1032,
         "patch": 0
     },
     "keywords": [
@@ -6723,6 +6723,13 @@
             "name": "GFinance",
             "symbol": "GFI",
             "address": "0x2d2B7A03240D6D1D87E8796494c656F9b2918155",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETJ",
+            "symbol": "ETJ",
+            "address": "0x690B3f246a121693A661E8C633B02424c27b5Fdf",
             "decimals": 18
         }
     ]
