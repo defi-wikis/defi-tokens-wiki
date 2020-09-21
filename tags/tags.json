@@ -29,32 +29,26 @@
     "amm": {
         "name": "Automated Market Maker",
         "descriptions": "Tokens that govern on-chain automated market makers",
-        "emoji": "🤖"
     },
     "synthetics": {
         "name": "Synthetics",
         "description": "Synthetic assets created to track the value of another asset",
-        "emoji": "🧪"
     },
     "token-sets": {
         "name": "TokenSets",
         "description": "Token indices composed within Set Protocol",
-        "emoji": "🧺"
     },
     "options": {
         "name": "Options",
         "description": "Tokens that trustlessly recreate decentralized options contracts on other assets",
-        "emoji": "🤞"
     },
     "a16z": {
         "name": "A16Z",
         "description": "Tokens backed by Andreesen-Horrowitz",
-        "emoji": "🏗️"
     },
     "paradigm": {
         "name": "Paradigm",
         "description": "Tokens backed by Paradigm",
-        "emoji": "🔮"
     },
     "polychain": {
         "name": "Polychain",
