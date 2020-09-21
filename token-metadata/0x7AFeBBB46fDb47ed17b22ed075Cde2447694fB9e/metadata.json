@@ -1,0 +1,9 @@
+{
+    "name": "Ocean Protocol",
+    "symbol": "OCEAN",
+    "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
