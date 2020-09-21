@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T12:16:09.807Z",
+    "timestamp": "2020-09-21T12:21:29.226Z",
     "version": {
         "major": 1,
-        "minor": 1027,
+        "minor": 1028,
         "patch": 0
     },
     "keywords": [
@@ -6695,6 +6695,13 @@
             "name": "deus.finance",
             "symbol": "DEUS",
             "address": "0x244Fa8325944E1850399C799BbF38CF14a1B1e7d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Spy.Finance",
+            "symbol": "SPY",
+            "address": "0x1A65067Cb302A077d7Cd3B9B6f9312e31ee894d9",
             "decimals": 18
         }
     ]
