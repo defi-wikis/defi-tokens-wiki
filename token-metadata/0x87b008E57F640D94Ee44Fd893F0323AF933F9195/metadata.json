@@ -3,7 +3,5 @@
     "symbol": "COIN",
     "address": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
