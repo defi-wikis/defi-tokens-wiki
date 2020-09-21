@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:30:14.514Z",
+    "timestamp": "2020-09-21T23:30:25.255Z",
     "version": {
         "major": 1,
-        "minor": 1559,
+        "minor": 1560,
         "patch": 0
     },
     "keywords": [
@@ -10290,6 +10290,14 @@
             "address": "0xE277aC35F9D327A670c1A3F3eeC80a83022431e4",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xe277ac35f9d327a670c1a3f3eec80a83022431e4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Netkoin",
+            "symbol": "NTK",
+            "address": "0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c/icon.png"
         }
     ]
 }
