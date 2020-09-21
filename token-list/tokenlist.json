@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:50:24.998Z",
+    "timestamp": "2020-09-21T22:50:38.056Z",
     "version": {
         "major": 1,
-        "minor": 1364,
+        "minor": 1365,
         "patch": 0
     },
     "keywords": [
@@ -8898,6 +8898,14 @@
             "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0d8775f648430679a709e98d2b0cb6250d2887ef/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Origin Protocol",
+            "symbol": "OGN",
+            "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26/icon.png"
         }
     ]
 }
