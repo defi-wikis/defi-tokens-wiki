@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:12:42.296Z",
+    "timestamp": "2020-09-21T22:12:55.020Z",
     "version": {
         "major": 1,
-        "minor": 1180,
+        "minor": 1181,
         "patch": 0
     },
     "keywords": [
@@ -7637,6 +7637,14 @@
             "symbol": "REBASE",
             "address": "0x4208D8d500B1643DcA98dD27bA6C0060BcA311c5",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "qiibee",
+            "symbol": "QBX",
+            "address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2467aa6b5a2351416fd4c3def8462d841feeecec/icon.png"
         }
     ]
 }
