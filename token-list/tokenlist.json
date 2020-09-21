@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:41:59.828Z",
+    "timestamp": "2020-09-21T23:42:12.059Z",
     "version": {
         "major": 1,
-        "minor": 1619,
+        "minor": 1620,
         "patch": 0
     },
     "keywords": [
@@ -10737,6 +10737,14 @@
             "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x55296f69f40ea6d20e478533c15a6b08b654e758/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "APIX",
+            "symbol": "APIX",
+            "address": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78/icon.png"
         }
     ]
 }
