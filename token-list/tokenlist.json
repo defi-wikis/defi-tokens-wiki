@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:41:47.141Z",
+    "timestamp": "2020-09-21T23:41:59.828Z",
     "version": {
         "major": 1,
-        "minor": 1618,
+        "minor": 1619,
         "patch": 0
     },
     "keywords": [
@@ -10729,6 +10729,14 @@
             "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x41e5560054824ea6b0732e656e3ad64e20e94e45/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "XYO Network",
+            "symbol": "XYO",
+            "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x55296f69f40ea6d20e478533c15a6b08b654e758/icon.png"
         }
     ]
 }
