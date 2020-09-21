@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:32:41.445Z",
+    "timestamp": "2020-09-21T23:32:53.590Z",
     "version": {
         "major": 1,
-        "minor": 1573,
+        "minor": 1574,
         "patch": 0
     },
     "keywords": [
@@ -10390,6 +10390,14 @@
             "address": "0xeDbcC06B603ea1f512720A4073a62CC4fdefCb86",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0xedbcc06b603ea1f512720a4073a62cc4fdefcb86/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "chrono tech",
+            "symbol": "TIME",
+            "address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53/icon.png"
         }
     ]
 }
