@@ -1,0 +1,9 @@
+{
+    "name": "SakeToken",
+    "symbol": "SAKE",
+    "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
