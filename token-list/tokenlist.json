@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:13:32.516Z",
+    "timestamp": "2020-09-21T23:13:45.106Z",
     "version": {
         "major": 1,
-        "minor": 1474,
+        "minor": 1475,
         "patch": 0
     },
     "keywords": [
@@ -9673,6 +9673,14 @@
             "symbol": "MNE",
             "address": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "BetProtocol",
+            "symbol": "BEPRO",
+            "address": "0x786001c9c5CA6E502dEB8a8a72480d2147891f32",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x786001c9c5ca6e502deb8a8a72480d2147891f32/icon.png"
         }
     ]
 }
