@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:28:57.038Z",
+    "timestamp": "2020-09-21T23:29:11.388Z",
     "version": {
         "major": 1,
-        "minor": 1552,
+        "minor": 1553,
         "patch": 0
     },
     "keywords": [
@@ -10237,6 +10237,14 @@
             "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x595832f8fc6bf59c85c527fec3740a1b7a361269/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TBC Shopping Token",
+            "symbol": "TST",
+            "address": "0xf67041758D3B6e56D6fDafA5B32038302C3634DA",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf67041758d3b6e56d6fdafa5b32038302c3634da/icon.png"
         }
     ]
 }
