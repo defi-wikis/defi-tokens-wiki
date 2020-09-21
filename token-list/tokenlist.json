@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:44:07.420Z",
+    "timestamp": "2020-09-21T22:44:19.037Z",
     "version": {
         "major": 1,
-        "minor": 1333,
+        "minor": 1334,
         "patch": 0
     },
     "keywords": [
@@ -8673,6 +8673,14 @@
             "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0ae055097c6d159879521c384f1d2123d1f195e6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ZUM TOKEN",
+            "symbol": "ZUM",
+            "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c/icon.png"
         }
     ]
 }
