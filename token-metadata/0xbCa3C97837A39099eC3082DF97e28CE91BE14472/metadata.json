@@ -3,7 +3,5 @@
     "symbol": "DUST",
     "address": "0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
