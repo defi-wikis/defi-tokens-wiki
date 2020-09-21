@@ -1,7 +1,7 @@
 {
-    "name": "Cute Coin",
+    "name": "Blockchain Cuties U",
     "symbol": "CUTE",
     "address": "0x047686fB287e7263A23873dEa66b4501015a2226",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED"
 }
