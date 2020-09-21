@@ -3,7 +3,5 @@
     "symbol": "BRAP",
     "address": "0x905D3237dC71F7D8f604778e8b78f0c3ccFF9377",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
