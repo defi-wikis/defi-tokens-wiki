@@ -69,10 +69,6 @@
     "name": "DeFi",
     "description": "Tokens associated with the decentralized finance movement."
   },
-  "business-services": {
-    "name": "Business Services",
-    "description": "Tokens that are redeemable for a business service"
-  },
   "exchange-based": {
     "name": "Exchange Based",
     "description": "Tokens that offer holders discounts on trading fees and other benefits"
