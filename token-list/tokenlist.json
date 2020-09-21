@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T00:21:44.320Z",
+    "timestamp": "2020-09-21T00:33:10.012Z",
     "version": {
         "major": 1,
-        "minor": 941,
+        "minor": 942,
         "patch": 0
     },
     "keywords": [
@@ -6094,6 +6094,13 @@
             "symbol": "GOV",
             "address": "0x8aC6aDc2a307d78EB79Dc55ED601eee4Ae80256B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Spartan",
+            "symbol": "300",
+            "address": "0xc515B3F5Be38A1B2b30327f435300AE7e7B172B0",
+            "decimals": 2
         }
     ]
 }
