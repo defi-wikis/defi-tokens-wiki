@@ -3,7 +3,5 @@
     "symbol": "PARTY",
     "address": "0x314bD765cAB4774b2E547eB0aA15013e03FF74d2",
     "decimals": 6,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
