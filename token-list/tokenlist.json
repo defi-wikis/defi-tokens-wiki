@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:06:05.105Z",
+    "timestamp": "2020-09-21T22:06:17.227Z",
     "version": {
         "major": 1,
-        "minor": 1147,
+        "minor": 1148,
         "patch": 0
     },
     "keywords": [
@@ -7422,6 +7422,14 @@
             "symbol": "GHST",
             "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dfohub",
+            "symbol": "BUIDL",
+            "address": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7b123f53421b1bf8533339bfbdc7c98aa94163db/icon.png"
         }
     ]
 }
