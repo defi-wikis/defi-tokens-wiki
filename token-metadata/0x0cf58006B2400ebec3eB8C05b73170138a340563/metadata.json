@@ -3,7 +3,5 @@
     "symbol": "GBP",
     "address": "0x0cf58006B2400ebec3eB8C05b73170138a340563",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
