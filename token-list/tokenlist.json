@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:19:25.488Z",
+    "timestamp": "2020-09-21T23:19:36.892Z",
     "version": {
         "major": 1,
-        "minor": 1504,
+        "minor": 1505,
         "patch": 0
     },
     "keywords": [
@@ -9894,6 +9894,14 @@
             "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Farming Token",
+            "symbol": "YFT",
+            "address": "0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x26b3038a7fc10b36c426846a9086ef87328da702/icon.png"
         }
     ]
 }
