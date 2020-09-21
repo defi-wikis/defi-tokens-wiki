@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:03:26.219Z",
+    "timestamp": "2020-09-21T23:03:38.944Z",
     "version": {
         "major": 1,
-        "minor": 1424,
+        "minor": 1425,
         "patch": 0
     },
     "keywords": [
@@ -4656,7 +4656,8 @@
             "name": "Markaccy",
             "symbol": "MKCY",
             "address": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf3281c539716a08c754ec4c8f2b4cee0fab64bb9/icon.png"
         },
         {
             "chainId": 1,
