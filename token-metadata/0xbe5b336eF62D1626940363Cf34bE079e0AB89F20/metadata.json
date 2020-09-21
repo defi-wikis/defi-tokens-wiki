@@ -3,7 +3,5 @@
     "symbol": "BNC",
     "address": "0xbe5b336eF62D1626940363Cf34bE079e0AB89F20",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
