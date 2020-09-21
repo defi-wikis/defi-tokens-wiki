@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:22:06.215Z",
+    "timestamp": "2020-09-21T22:22:14.426Z",
     "version": {
         "major": 1,
-        "minor": 1229,
+        "minor": 1230,
         "patch": 0
     },
     "keywords": [
@@ -7933,6 +7933,13 @@
             "address": "0xb8e103b60A33597136EA9511F46b6dBeB643a3a5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb8e103b60a33597136ea9511f46b6dbeb643a3a5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Katana Finance",
+            "symbol": "KATANA",
+            "address": "0xe6410569602124506658Ff992F258616Ea2D4A3D",
+            "decimals": 18
         }
     ]
 }
