@@ -1,0 +1,9 @@
+{
+    "name": "Jex Token",
+    "symbol": "JEX",
+    "address": "0xfF98a08c143311719cA492e4B8C950C940f26872",
+    "decimals": 4,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
