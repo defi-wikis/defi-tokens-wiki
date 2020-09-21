@@ -3,7 +3,5 @@
     "symbol": "AGI",
     "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
