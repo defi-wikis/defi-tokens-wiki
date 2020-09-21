@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:59:44.456Z",
+    "timestamp": "2020-09-21T23:59:52.181Z",
     "version": {
         "major": 1,
-        "minor": 1709,
+        "minor": 1710,
         "patch": 0
     },
     "keywords": [
@@ -11404,6 +11404,14 @@
             "symbol": "DontBuyTen",
             "address": "0xeF5012660bcD8Ce3b335e7Fb029f447e0A10Bd88",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YMPL",
+            "symbol": "YMPL",
+            "address": "0xb7ba8461664dE526A3ae44189727DFC768625902",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0xb7ba8461664de526a3ae44189727dfc768625902/icon.png"
         }
     ]
 }
