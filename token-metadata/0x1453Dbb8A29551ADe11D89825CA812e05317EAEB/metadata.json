@@ -3,7 +3,5 @@
     "symbol": "TEND",
     "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
