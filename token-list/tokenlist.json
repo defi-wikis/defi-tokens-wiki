@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:14:49.466Z",
+    "timestamp": "2020-09-21T17:33:59.809Z",
     "version": {
         "major": 1,
-        "minor": 1051,
+        "minor": 1052,
         "patch": 0
     },
     "keywords": [
@@ -6863,6 +6863,13 @@
             "name": "SPY.Finance",
             "symbol": "SPY",
             "address": "0x654f6D5cc377Cd79488f8120740fFC95D77826B3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SojuToken",
+            "symbol": "SOJU",
+            "address": "0x49C4Be97529904093bf33895AC03BEF587F02219",
             "decimals": 18
         }
     ]
