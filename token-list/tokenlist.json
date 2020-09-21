@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:44:14.458Z",
+    "timestamp": "2020-09-21T23:44:27.989Z",
     "version": {
         "major": 1,
-        "minor": 1630,
+        "minor": 1631,
         "patch": 0
     },
     "keywords": [
@@ -10816,6 +10816,14 @@
             "address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0ff6ffcfda92c53f615a4a75d982f399c989366b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cardstack",
+            "symbol": "CARD",
+            "address": "0x954b890704693af242613edEf1B603825afcD708",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x954b890704693af242613edef1b603825afcd708/icon.png"
         }
     ]
 }
