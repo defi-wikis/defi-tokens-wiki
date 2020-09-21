@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:34:56.791Z",
+    "timestamp": "2020-09-21T22:35:06.052Z",
     "version": {
         "major": 1,
-        "minor": 1293,
+        "minor": 1294,
         "patch": 0
     },
     "keywords": [
@@ -8388,6 +8388,13 @@
             "name": "Netkoin Liquid",
             "symbol": "LIQUID",
             "address": "0xaC2385e183d9301dd5E2BB08DA932CbF9800dC9c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HodlTree",
+            "symbol": "HTRE",
+            "address": "0xDea67845A51E24461D5fED8084E69B426AF3D5Db",
             "decimals": 18
         }
     ]
