@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:08:53.415Z",
+    "timestamp": "2020-09-21T23:09:02.151Z",
     "version": {
         "major": 1,
-        "minor": 1450,
+        "minor": 1451,
         "patch": 0
     },
     "keywords": [
@@ -9489,6 +9489,13 @@
             "name": "YFILEND FINANCE",
             "symbol": "YFILD",
             "address": "0xCec2387e04F9815BF12670dBf6cf03bba26DF25F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Squirrel Finance",
+            "symbol": "NUTS",
+            "address": "0x84294FC9710e1252d407d3D80A84bC39001bd4A8",
             "decimals": 18
         }
     ]
