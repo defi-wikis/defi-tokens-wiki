@@ -1,0 +1,9 @@
+{
+    "name": "Flama",
+    "symbol": "FMA",
+    "address": "0x0f8794f66C7170c4f9163a8498371A747114f6C4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
