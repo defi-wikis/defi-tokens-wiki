@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:47:17.804Z",
+    "timestamp": "2020-09-21T22:47:29.707Z",
     "version": {
         "major": 1,
-        "minor": 1349,
+        "minor": 1350,
         "patch": 0
     },
     "keywords": [
@@ -8790,6 +8790,14 @@
             "symbol": "NYB",
             "address": "0x798A9055a98913835bBFb45a0BbC209438dcFD97",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dev Protocol",
+            "symbol": "DEV",
+            "address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26/icon.png"
         }
     ]
 }
