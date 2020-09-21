@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:34:54.513Z",
+    "timestamp": "2020-09-21T19:41:09.870Z",
     "version": {
         "major": 1,
-        "minor": 1074,
+        "minor": 1075,
         "patch": 0
     },
     "keywords": [
@@ -7011,7 +7011,8 @@
             "name": "Falconswap",
             "symbol": "FSW",
             "address": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfffffffff15abf397da76f1dcc1a1604f45126db/icon.png"
         },
         {
             "chainId": 1,
