@@ -1,0 +1,9 @@
+{
+    "name": "YFISCURITY",
+    "symbol": "YFIS",
+    "address": "0x86965A86539e2446F9e72634CEfCA7983CC21a81",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
