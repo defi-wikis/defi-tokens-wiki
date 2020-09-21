@@ -3,7 +3,5 @@
     "symbol": "VLD",
     "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
