@@ -3,7 +3,5 @@
     "symbol": "FOX",
     "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
