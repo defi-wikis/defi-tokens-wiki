@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:08:20.544Z",
+    "timestamp": "2020-09-21T23:08:32.135Z",
     "version": {
         "major": 1,
-        "minor": 1448,
+        "minor": 1449,
         "patch": 0
     },
     "keywords": [
@@ -9475,6 +9475,14 @@
             "address": "0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DOS Network",
+            "symbol": "DOS",
+            "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0a913bead80f321e7ac35285ee10d9d922659cb7/icon.png"
         }
     ]
 }
