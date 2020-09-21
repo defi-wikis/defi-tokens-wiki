@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:36:59.582Z",
+    "timestamp": "2020-09-21T23:37:11.633Z",
     "version": {
         "major": 1,
-        "minor": 1594,
+        "minor": 1595,
         "patch": 0
     },
     "keywords": [
@@ -10541,6 +10541,14 @@
             "address": "0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x10ba8c420e912bf07bedac03aa6908720db04e0c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CITEX Token",
+            "symbol": "CTT",
+            "address": "0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e/icon.png"
         }
     ]
 }
