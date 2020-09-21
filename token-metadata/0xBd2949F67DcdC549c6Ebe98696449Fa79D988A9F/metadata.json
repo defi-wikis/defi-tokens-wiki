@@ -1,0 +1,9 @@
+{
+    "name": "Meter Governance ma",
+    "symbol": "EMTRG",
+    "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
