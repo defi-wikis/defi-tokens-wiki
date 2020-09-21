@@ -1,0 +1,9 @@
+{
+    "name": "Bitcoin Wheelchair",
+    "symbol": "BTCWH",
+    "address": "0x4588C3c165a5C66C020997d89C2162814Aec9cD6",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
