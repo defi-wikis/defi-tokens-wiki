@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:44:51.627Z",
+    "timestamp": "2020-09-21T19:44:59.818Z",
     "version": {
         "major": 1,
-        "minor": 1077,
+        "minor": 1078,
         "patch": 0
     },
     "keywords": [
@@ -7019,6 +7019,13 @@
             "name": "Quadrant Protocol",
             "symbol": "EQUAD",
             "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Trololol",
+            "symbol": "TROLZ",
+            "address": "0xBDDeDA4243d58dDDE7A98666585fB4E0dFBb61ca",
             "decimals": 18
         }
     ]
