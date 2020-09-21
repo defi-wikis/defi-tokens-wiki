@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:30:55.518Z",
+    "timestamp": "2020-09-21T22:31:07.534Z",
     "version": {
         "major": 1,
-        "minor": 1273,
+        "minor": 1274,
         "patch": 0
     },
     "keywords": [
@@ -8256,6 +8256,14 @@
             "address": "0x9B9087756eCa997C5D595C840263001c9a26646D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9b9087756eca997c5d595c840263001c9a26646d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Meridian Network",
+            "symbol": "LOCK",
+            "address": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x95172ccbe8344fecd73d0a30f54123652981bd6f/icon.png"
         }
     ]
 }
