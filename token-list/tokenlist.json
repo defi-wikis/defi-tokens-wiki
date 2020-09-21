@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:12:31.557Z",
+    "timestamp": "2020-09-21T22:12:42.296Z",
     "version": {
         "major": 1,
-        "minor": 1179,
+        "minor": 1180,
         "patch": 0
     },
     "keywords": [
@@ -7630,6 +7630,13 @@
             "symbol": "CVL",
             "address": "0x01FA555c97D7958Fa6f771f3BbD5CCD508f81e22",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rebase",
+            "symbol": "REBASE",
+            "address": "0x4208D8d500B1643DcA98dD27bA6C0060BcA311c5",
+            "decimals": 9
         }
     ]
 }
