@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:25:01.500Z",
+    "timestamp": "2020-09-21T23:25:13.621Z",
     "version": {
         "major": 1,
-        "minor": 1532,
+        "minor": 1533,
         "patch": 0
     },
     "keywords": [
@@ -10097,6 +10097,14 @@
             "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa1d0e215a23d7030842fc67ce582a6afa3ccab83/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Jetcoin",
+            "symbol": "JET",
+            "address": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8727c112c712c4a03371ac87a74dd6ab104af768/icon.png"
         }
     ]
 }
