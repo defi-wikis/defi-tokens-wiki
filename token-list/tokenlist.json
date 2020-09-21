@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:02:28.271Z",
+    "timestamp": "2020-09-21T22:02:40.741Z",
     "version": {
         "major": 1,
-        "minor": 1129,
+        "minor": 1130,
         "patch": 0
     },
     "keywords": [
@@ -4272,7 +4272,7 @@
         },
         {
             "chainId": 1,
-            "name": "0x Protocol Token",
+            "name": "0x",
             "symbol": "ZRX",
             "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
             "decimals": 18,
