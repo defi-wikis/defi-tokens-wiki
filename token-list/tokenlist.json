@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:33:18.502Z",
+    "timestamp": "2020-09-21T23:33:31.704Z",
     "version": {
         "major": 1,
-        "minor": 1576,
+        "minor": 1577,
         "patch": 0
     },
     "keywords": [
@@ -10414,6 +10414,14 @@
             "address": "0x784561B89A160990F46DE6dB19571Ca1B5F14bCE",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x784561b89a160990f46de6db19571ca1b5f14bce/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OWL",
+            "symbol": "OWL",
+            "address": "0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1a5f9352af8af974bfc03399e3767df6370d82e4/icon.png"
         }
     ]
 }
