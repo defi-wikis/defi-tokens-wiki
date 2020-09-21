@@ -3,7 +3,5 @@
     "symbol": "SAN",
     "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
