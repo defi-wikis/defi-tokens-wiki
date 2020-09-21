@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T07:13:54.376Z",
+    "timestamp": "2020-09-21T07:15:54.558Z",
     "version": {
         "major": 1,
-        "minor": 1002,
+        "minor": 1003,
         "patch": 0
     },
     "keywords": [
@@ -6521,6 +6521,13 @@
             "symbol": "FF",
             "address": "0xab0bd01101877597C1360a82f515515FEb178B9E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XSGD",
+            "symbol": "XSGD",
+            "address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+            "decimals": 6
         }
     ]
 }
