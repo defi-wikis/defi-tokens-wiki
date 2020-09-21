@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:38:50.538Z",
+    "timestamp": "2020-09-21T23:39:03.127Z",
     "version": {
         "major": 1,
-        "minor": 1603,
+        "minor": 1604,
         "patch": 0
     },
     "keywords": [
@@ -10612,6 +10612,14 @@
             "address": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PeerEx Network",
+            "symbol": "PERX",
+            "address": "0x3C6ff50c9Ec362efa359317009428d52115fe643",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3c6ff50c9ec362efa359317009428d52115fe643/icon.png"
         }
     ]
 }
