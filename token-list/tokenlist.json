@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:39:16.742Z",
+    "timestamp": "2020-09-21T22:39:31.194Z",
     "version": {
         "major": 1,
-        "minor": 1311,
+        "minor": 1312,
         "patch": 0
     },
     "keywords": [
@@ -8523,6 +8523,14 @@
             "address": "0xbCdfE338D55c061C084D81fD793Ded00A27F226D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xbcdfe338d55c061c084d81fd793ded00a27f226d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Chromia",
+            "symbol": "CHR",
+            "address": "0x915044526758533dfB918ecEb6e44bc21632060D",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x915044526758533dfb918eceb6e44bc21632060d/icon.png"
         }
     ]
 }
