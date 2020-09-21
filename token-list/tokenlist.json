@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:42:30.931Z",
+    "timestamp": "2020-09-21T22:42:43.507Z",
     "version": {
         "major": 1,
-        "minor": 1325,
+        "minor": 1326,
         "patch": 0
     },
     "keywords": [
@@ -8617,6 +8617,14 @@
             "address": "0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
             "decimals": 3,
             "logoURI": "https://tokens.dharma.io/assets/0xf7b098298f7c69fc14610bf71d5e02c60792894c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pickle Finance",
+            "symbol": "PICKLE",
+            "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x429881672b9ae42b8eba0e26cd9c73711b891ca5/icon.png"
         }
     ]
 }
