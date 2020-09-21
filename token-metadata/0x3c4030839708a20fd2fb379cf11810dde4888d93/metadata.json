@@ -1,0 +1,9 @@
+{
+    "name": "IMSWallet",
+    "symbol": "IMS",
+    "address": "0x3c4030839708a20fd2fb379cf11810dde4888d93",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
