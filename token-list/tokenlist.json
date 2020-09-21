@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:15:41.410Z",
+    "timestamp": "2020-09-21T22:15:56.561Z",
     "version": {
         "major": 1,
-        "minor": 1195,
+        "minor": 1196,
         "patch": 0
     },
     "keywords": [
@@ -7738,6 +7738,14 @@
             "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x8eb24319393716668d768dcec29356ae9cffe285/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Unifi",
+            "symbol": "UNIFI",
+            "address": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5/icon.png"
         }
     ]
 }
