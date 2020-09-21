@@ -3,7 +3,5 @@
     "symbol": "CTG",
     "address": "0xc760721eB65AA6B0a634df6A008887C48813fF63",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
