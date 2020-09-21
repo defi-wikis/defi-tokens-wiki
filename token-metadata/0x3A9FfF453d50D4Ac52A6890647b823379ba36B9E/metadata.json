@@ -3,7 +3,5 @@
     "symbol": "SHUF",
     "address": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
