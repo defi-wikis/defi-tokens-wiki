@@ -3,7 +3,5 @@
     "symbol": "XSP",
     "address": "0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
