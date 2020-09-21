@@ -3,7 +3,5 @@
     "symbol": "BAND",
     "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
