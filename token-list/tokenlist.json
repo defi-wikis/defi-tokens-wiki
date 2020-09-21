@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:35:06.052Z",
+    "timestamp": "2020-09-21T22:35:16.894Z",
     "version": {
         "major": 1,
-        "minor": 1294,
+        "minor": 1295,
         "patch": 0
     },
     "keywords": [
@@ -8396,6 +8396,14 @@
             "symbol": "HTRE",
             "address": "0xDea67845A51E24461D5fED8084E69B426AF3D5Db",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Streamity",
+            "symbol": "STM",
+            "address": "0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0e22734e078d6e399bcee40a549db591c4ea46cb/icon.png"
         }
     ]
 }
