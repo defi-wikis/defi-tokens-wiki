@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:56:54.577Z",
+    "timestamp": "2020-09-21T23:57:06.527Z",
     "version": {
         "major": 1,
-        "minor": 1693,
+        "minor": 1694,
         "patch": 0
     },
     "keywords": [
@@ -11282,6 +11282,14 @@
             "symbol": "ZEB",
             "address": "0xee98A5c3FD8c9063C5D8777758d3901a88df957b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Electrify Asia",
+            "symbol": "ELEC",
+            "address": "0xD49ff13661451313cA1553fd6954BD1d9b6E02b9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd49ff13661451313ca1553fd6954bd1d9b6e02b9/icon.png"
         }
     ]
 }
