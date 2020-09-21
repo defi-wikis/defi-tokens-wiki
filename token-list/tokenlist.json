@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:37:49.306Z",
+    "timestamp": "2020-09-21T23:38:02.924Z",
     "version": {
         "major": 1,
-        "minor": 1598,
+        "minor": 1599,
         "patch": 0
     },
     "keywords": [
@@ -10573,6 +10573,14 @@
             "address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Imperial",
+            "symbol": "UNITS",
+            "address": "0x25cef4fB106E76080E88135a0e4059276FA9BE87",
+            "decimals": 5,
+            "logoURI": "https://tokens.dharma.io/assets/0x25cef4fb106e76080e88135a0e4059276fa9be87/icon.png"
         }
     ]
 }
