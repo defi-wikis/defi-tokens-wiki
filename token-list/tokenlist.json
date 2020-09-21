@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:56:19.645Z",
+    "timestamp": "2020-09-21T23:56:31.748Z",
     "version": {
         "major": 1,
-        "minor": 1690,
+        "minor": 1691,
         "patch": 0
     },
     "keywords": [
@@ -11259,6 +11259,14 @@
             "address": "0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aventus",
+            "symbol": "AVT",
+            "address": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0d88ed6e74bbfd96b831231638b66c05571e824f/icon.png"
         }
     ]
 }
