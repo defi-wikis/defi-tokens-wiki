@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T01:57:44.560Z",
+    "timestamp": "2020-09-21T01:59:24.838Z",
     "version": {
         "major": 1,
-        "minor": 952,
+        "minor": 953,
         "patch": 0
     },
     "keywords": [
@@ -6171,6 +6171,13 @@
             "symbol": "CRU",
             "address": "0x0f3677F68b4305b0a267f45FA0cE9ab05a00D818",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pink Tulip",
+            "symbol": "pTLP",
+            "address": "0xd814E02E779A216C5abaa5789E624cC017fb0876",
+            "decimals": 9
         }
     ]
 }
