@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:17:21.376Z",
+    "timestamp": "2020-09-21T23:17:34.390Z",
     "version": {
         "major": 1,
-        "minor": 1493,
+        "minor": 1494,
         "patch": 0
     },
     "keywords": [
@@ -9808,6 +9808,13 @@
             "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PUMPANOMICS",
+            "symbol": "PUMP",
+            "address": "0x66eD231fDE3d96E9c32E4847b64DDDa5f23E8f1D",
+            "decimals": 18
         }
     ]
 }
