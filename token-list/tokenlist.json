@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:09:37.651Z",
+    "timestamp": "2020-09-21T23:09:49.481Z",
     "version": {
         "major": 1,
-        "minor": 1455,
+        "minor": 1456,
         "patch": 0
     },
     "keywords": [
@@ -9527,6 +9527,14 @@
             "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Reserve Rights Toke",
+            "symbol": "RSR",
+            "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8762db106b2c2a0bccb3a80d1ed41273552616e8/icon.png"
         }
     ]
 }
