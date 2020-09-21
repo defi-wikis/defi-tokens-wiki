@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:28:28.890Z",
+    "timestamp": "2020-09-21T22:28:41.019Z",
     "version": {
         "major": 1,
-        "minor": 1262,
+        "minor": 1263,
         "patch": 0
     },
     "keywords": [
@@ -8168,6 +8168,14 @@
             "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5228a22e72ccc52d415ecfd199f99d0665e7733b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Money Token",
+            "symbol": "MNT",
+            "address": "0x310DA5e1E61cD9d6ECed092F085941089267E71E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x310da5e1e61cd9d6eced092f085941089267e71e/icon.png"
         }
     ]
 }
