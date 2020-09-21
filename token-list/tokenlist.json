@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T13:30:50.073Z",
+    "timestamp": "2020-09-21T13:53:34.541Z",
     "version": {
         "major": 1,
-        "minor": 1036,
+        "minor": 1037,
         "patch": 0
     },
     "keywords": [
@@ -6758,6 +6758,13 @@
             "name": "defito.finance",
             "symbol": "DTO",
             "address": "0x56ef04219a6Afe82fA298023364ecfd84f137259",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DssToken",
+            "symbol": "DSS",
+            "address": "0x213C53C96A01a89E6Dcc5683cF16473203E17513",
             "decimals": 18
         }
     ]
