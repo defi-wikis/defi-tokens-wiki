@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:13:02.560Z",
+    "timestamp": "2020-09-21T23:13:11.717Z",
     "version": {
         "major": 1,
-        "minor": 1471,
+        "minor": 1472,
         "patch": 0
     },
     "keywords": [
@@ -9651,6 +9651,13 @@
             "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TONToken",
+            "symbol": "TON",
+            "address": "0x6a6c2adA3Ce053561C2FbC3eE211F23d9b8C520a",
+            "decimals": 18
         }
     ]
 }
