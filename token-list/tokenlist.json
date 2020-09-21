@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:46:11.088Z",
+    "timestamp": "2020-09-21T22:46:22.786Z",
     "version": {
         "major": 1,
-        "minor": 1343,
+        "minor": 1344,
         "patch": 0
     },
     "keywords": [
@@ -8744,6 +8744,14 @@
             "address": "0xA8b919680258d369114910511cc87595aec0be6D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa8b919680258d369114910511cc87595aec0be6d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave",
+            "symbol": "LEND",
+            "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x80fb784b7ed66730e8b1dbd9820afd29931aab03/icon.png"
         }
     ]
 }
