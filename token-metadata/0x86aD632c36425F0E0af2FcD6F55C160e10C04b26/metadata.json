@@ -3,7 +3,5 @@
     "symbol": "XBR",
     "address": "0x86aD632c36425F0E0af2FcD6F55C160e10C04b26",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
