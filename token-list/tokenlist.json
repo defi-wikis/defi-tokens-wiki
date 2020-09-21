@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:25:36.543Z",
+    "timestamp": "2020-09-21T23:25:50.106Z",
     "version": {
         "major": 1,
-        "minor": 1535,
+        "minor": 1536,
         "patch": 0
     },
     "keywords": [
@@ -10120,6 +10120,14 @@
             "address": "0xdfe691F37b6264a90Ff507EB359C45d55037951C",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xdfe691f37b6264a90ff507eb359c45d55037951c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "pNetwork",
+            "symbol": "PNT",
+            "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed/icon.png"
         }
     ]
 }
