@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:36:09.879Z",
+    "timestamp": "2020-09-21T02:42:06.461Z",
     "version": {
         "major": 1,
-        "minor": 960,
+        "minor": 961,
         "patch": 0
     },
     "keywords": [
@@ -6226,6 +6226,13 @@
             "name": "Pogo.Finance",
             "symbol": "POGO",
             "address": "0xC30e3C0f121a5E357E321CED6504d31A71Abcdcc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xILT",
+            "symbol": "ILT",
+            "address": "0xCBE3ca372eaf9a25Af48f0cA3968f7DA2E4E22cc",
             "decimals": 18
         }
     ]
