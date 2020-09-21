@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:19:14.485Z",
+    "timestamp": "2020-09-21T22:19:29.446Z",
     "version": {
         "major": 1,
-        "minor": 1214,
+        "minor": 1215,
         "patch": 0
     },
     "keywords": [
@@ -7868,6 +7868,14 @@
             "symbol": "SNGJ",
             "address": "0x249f71F8D9dA86c60f485E021b509A206667A079",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Force Protocol",
+            "symbol": "FOR",
+            "address": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1fcdce58959f536621d76f5b7ffb955baa5a672f/icon.png"
         }
     ]
 }
