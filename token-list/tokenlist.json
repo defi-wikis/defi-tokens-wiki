@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:20:39.993Z",
+    "timestamp": "2020-09-21T22:20:52.722Z",
     "version": {
         "major": 1,
-        "minor": 1222,
+        "minor": 1223,
         "patch": 0
     },
     "keywords": [
@@ -7900,6 +7900,14 @@
             "address": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "bZx Protocol",
+            "symbol": "BZRX",
+            "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x56d811088235f11c8920698a204a5010a788f4b3/icon.png"
         }
     ]
 }
