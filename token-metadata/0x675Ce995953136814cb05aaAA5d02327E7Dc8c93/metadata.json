@@ -3,7 +3,5 @@
     "symbol": "BBC",
     "address": "0x675Ce995953136814cb05aaAA5d02327E7Dc8c93",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
