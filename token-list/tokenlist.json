@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:08:45.047Z",
+    "timestamp": "2020-09-21T22:08:57.570Z",
     "version": {
         "major": 1,
-        "minor": 1160,
+        "minor": 1161,
         "patch": 0
     },
     "keywords": [
@@ -7506,6 +7506,14 @@
             "address": "0xCA0e7269600d353F70b14Ad118A49575455C0f2f",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xca0e7269600d353f70b14ad118a49575455c0f2f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DxSale Network",
+            "symbol": "SALE",
+            "address": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf063fe1ab7a291c5d06a86e14730b00bf24cb589/icon.png"
         }
     ]
 }
