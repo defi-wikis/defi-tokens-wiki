@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:05:55.303Z",
+    "timestamp": "2020-09-21T22:06:05.105Z",
     "version": {
         "major": 1,
-        "minor": 1146,
+        "minor": 1147,
         "patch": 0
     },
     "keywords": [
@@ -7414,6 +7414,13 @@
             "name": "EtherBone",
             "symbol": "ETHBN",
             "address": "0x96b52B5BF8D902252D0714A1BD2651A785Fd2660",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aavegotchi",
+            "symbol": "GHST",
+            "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
             "decimals": 18
         }
     ]
