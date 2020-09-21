@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:35:17.988Z",
+    "timestamp": "2020-09-21T23:35:28.921Z",
     "version": {
         "major": 1,
-        "minor": 1586,
+        "minor": 1587,
         "patch": 0
     },
     "keywords": [
@@ -3753,7 +3753,7 @@
         },
         {
             "chainId": 1,
-            "name": "KASSIAHOTEL",
+            "name": "Atlas",
             "symbol": "KASSIAHOTEL",
             "address": "0x06FF1a3B08b63E3b2f98A5124bFC22Dc0AE654d3",
             "decimals": 18
