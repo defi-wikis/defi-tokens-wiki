@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:06:21.270Z",
+    "timestamp": "2020-09-21T23:06:33.784Z",
     "version": {
         "major": 1,
-        "minor": 1438,
+        "minor": 1439,
         "patch": 0
     },
     "keywords": [
@@ -224,7 +224,7 @@
         },
         {
             "chainId": 1,
-            "name": "ChainLink Token",
+            "name": "Chainlink",
             "symbol": "LINK",
             "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "decimals": 18,
