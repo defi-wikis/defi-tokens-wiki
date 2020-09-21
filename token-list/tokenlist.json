@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T20:31:33.365Z",
+    "timestamp": "2020-09-21T20:31:49.405Z",
     "version": {
         "major": 1,
-        "minor": 1094,
+        "minor": 1095,
         "patch": 0
     },
     "keywords": [
@@ -7071,6 +7071,14 @@
             "address": "0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x456ae45c0ce901e2e7c99c0718031cec0a7a59ff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "HUSD",
+            "symbol": "HUSD",
+            "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xdf574c24545e5ffecb9a659c229253d4111d87e1/icon.png"
         }
     ]
 }
