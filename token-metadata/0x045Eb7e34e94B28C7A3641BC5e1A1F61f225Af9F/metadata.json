@@ -1,0 +1,9 @@
+{
+    "name": "ZelaaPayAE",
+    "symbol": "ZPAE",
+    "address": "0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
