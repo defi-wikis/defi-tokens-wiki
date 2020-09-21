@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T04:35:24.262Z",
+    "timestamp": "2020-09-21T04:37:29.198Z",
     "version": {
         "major": 1,
-        "minor": 976,
+        "minor": 977,
         "patch": 0
     },
     "keywords": [
@@ -6339,6 +6339,13 @@
             "symbol": "KAN",
             "address": "0x39BB13e5027Ad9E5BA12bccA7D9c5675303D90f3",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Primebank Coin",
+            "symbol": "PMC",
+            "address": "0x767588059265d2a243445dd3f23DB37B96018dD5",
+            "decimals": 8
         }
     ]
 }
