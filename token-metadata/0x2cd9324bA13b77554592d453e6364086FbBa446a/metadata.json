@@ -3,7 +3,5 @@
     "symbol": "Z502",
     "address": "0x2cd9324bA13b77554592d453e6364086FbBa446a",
     "decimals": 0,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
