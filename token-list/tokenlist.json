@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:01:19.900Z",
+    "timestamp": "2020-09-21T22:01:29.519Z",
     "version": {
         "major": 1,
-        "minor": 1123,
+        "minor": 1124,
         "patch": 0
     },
     "keywords": [
@@ -7253,6 +7253,13 @@
             "name": "LonelyFans.finance",
             "symbol": "THOT",
             "address": "0x8F595db4f8b4118160966befE1B2D7dF6D522FB2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PUMPANOMICS",
+            "symbol": "PUMP",
+            "address": "0xF36902F4a2f6Ee8Ca4f6Bd5ecB3eb645b0342217",
             "decimals": 18
         }
     ]
