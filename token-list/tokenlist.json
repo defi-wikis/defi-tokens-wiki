@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:19:11.918Z",
+    "timestamp": "2020-09-21T23:19:25.488Z",
     "version": {
         "major": 1,
-        "minor": 1503,
+        "minor": 1504,
         "patch": 0
     },
     "keywords": [
@@ -9886,6 +9886,14 @@
             "address": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Kleros",
+            "symbol": "PNK",
+            "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d/icon.png"
         }
     ]
 }
