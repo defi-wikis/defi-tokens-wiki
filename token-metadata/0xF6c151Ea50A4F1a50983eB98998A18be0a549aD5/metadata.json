@@ -1,0 +1,9 @@
+{
+    "name": "YEARN2 FINANCE",
+    "symbol": "YFI2",
+    "address": "0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
