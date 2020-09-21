@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T04:44:14.203Z",
+    "timestamp": "2020-09-21T04:46:50.033Z",
     "version": {
         "major": 1,
-        "minor": 979,
+        "minor": 980,
         "patch": 0
     },
     "keywords": [
@@ -6359,6 +6359,13 @@
             "name": "Neo Finance",
             "symbol": "NEO",
             "address": "0xE061D1a4069242B02Ce48C55bdB130262CDEb341",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dumb2Coin",
+            "symbol": "Dumb2Coin",
+            "address": "0xe3C127466908c2CcDc43521C8315b87FD369D605",
             "decimals": 18
         }
     ]
