@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:14:41.409Z",
+    "timestamp": "2020-09-21T23:14:54.418Z",
     "version": {
         "major": 1,
-        "minor": 1479,
+        "minor": 1480,
         "patch": 0
     },
     "keywords": [
@@ -9713,6 +9713,14 @@
             "address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x459086f2376525bdceba5bdda135e4e9d3fef5bf/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hiveterminal token",
+            "symbol": "HVN",
+            "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d/icon.png"
         }
     ]
 }
