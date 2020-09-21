@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:51:51.312Z",
+    "timestamp": "2020-09-21T22:52:04.570Z",
     "version": {
         "major": 1,
-        "minor": 1371,
+        "minor": 1372,
         "patch": 0
     },
     "keywords": [
@@ -8945,6 +8945,14 @@
             "address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa7de087329bfcda5639247f96140f9dabe3deed1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Bids",
+            "symbol": "BID",
+            "address": "0x1dA01e84F3d4e6716F274c987Ae4bEE5DC3C8288",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1da01e84f3d4e6716f274c987ae4bee5dc3c8288/icon.png"
         }
     ]
 }
