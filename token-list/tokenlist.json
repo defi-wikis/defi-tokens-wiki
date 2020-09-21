@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T08:04:34.177Z",
+    "timestamp": "2020-09-21T08:04:54.596Z",
     "version": {
         "major": 1,
-        "minor": 1009,
+        "minor": 1010,
         "patch": 0
     },
     "keywords": [
@@ -6569,6 +6569,13 @@
             "name": "Dollars",
             "symbol": "USD",
             "address": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Seigniorage Shares",
+            "symbol": "SHARE",
+            "address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
             "decimals": 9
         }
     ]
