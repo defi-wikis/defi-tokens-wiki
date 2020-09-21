@@ -3,7 +3,5 @@
     "symbol": "ERC223",
     "address": "0xF8F237D074F637D777bcD2A4712bde793f94272B",
     "decimals": 10,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
