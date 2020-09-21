@@ -3,7 +3,5 @@
     "symbol": "MOST",
     "address": "0x784561B89A160990F46DE6dB19571Ca1B5F14bCE",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
