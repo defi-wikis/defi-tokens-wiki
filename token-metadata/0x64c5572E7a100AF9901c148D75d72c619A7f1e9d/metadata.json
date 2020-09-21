@@ -1,0 +1,9 @@
+{
+    "name": "UniCrapToken xyz",
+    "symbol": "UNICRAP",
+    "address": "0x64c5572E7a100AF9901c148D75d72c619A7f1e9d",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
