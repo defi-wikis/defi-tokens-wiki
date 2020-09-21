@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:00:49.722Z",
+    "timestamp": "2020-09-21T19:20:14.817Z",
     "version": {
         "major": 1,
-        "minor": 1065,
+        "minor": 1066,
         "patch": 0
     },
     "keywords": [
@@ -6962,6 +6962,13 @@
             "symbol": "YFFF",
             "address": "0x4004CB449259F09aD13EAd8A72eb4A54D1c118E2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MetaCapital Token",
+            "symbol": "MCT",
+            "address": "0xB55A690461ba323D3d0C1c462D6772eB0983Cc18",
+            "decimals": 8
         }
     ]
 }
