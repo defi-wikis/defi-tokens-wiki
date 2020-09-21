@@ -3,7 +3,5 @@
     "symbol": "COIL",
     "address": "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
