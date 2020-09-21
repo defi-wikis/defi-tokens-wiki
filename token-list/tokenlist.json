@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:40:37.447Z",
+    "timestamp": "2020-09-21T23:40:50.788Z",
     "version": {
         "major": 1,
-        "minor": 1612,
+        "minor": 1613,
         "patch": 0
     },
     "keywords": [
@@ -10682,6 +10682,14 @@
             "address": "0x70debcDAB2Ef20bE3d1dBFf6a845E9cCb6E46930",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "VNDC",
+            "symbol": "VNDC",
+            "address": "0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de/icon.png"
         }
     ]
 }
