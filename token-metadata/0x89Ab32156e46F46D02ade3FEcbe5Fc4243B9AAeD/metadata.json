@@ -3,7 +3,5 @@
     "symbol": "PNT",
     "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
