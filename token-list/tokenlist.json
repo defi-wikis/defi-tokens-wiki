@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:01:48.225Z",
+    "timestamp": "2020-09-21T23:02:01.151Z",
     "version": {
         "major": 1,
-        "minor": 1416,
+        "minor": 1417,
         "patch": 0
     },
     "keywords": [
@@ -9256,6 +9256,14 @@
             "address": "0x446C9033E7516D820cc9a2ce2d0B7328b579406F",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x446c9033e7516d820cc9a2ce2d0b7328b579406f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Celsius Network",
+            "symbol": "CEL",
+            "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d/icon.png"
         }
     ]
 }
