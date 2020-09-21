@@ -1,0 +1,9 @@
+{
+    "name": "FLUX",
+    "symbol": "FLUX",
+    "address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
