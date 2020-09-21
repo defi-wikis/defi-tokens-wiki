@@ -3,7 +3,5 @@
     "symbol": "YFBETA",
     "address": "0x89eE58Af4871b474c30001982c3D7439C933c838",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
