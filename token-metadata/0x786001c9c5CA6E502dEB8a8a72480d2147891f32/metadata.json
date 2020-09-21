@@ -1,0 +1,9 @@
+{
+    "name": "BetProtocol",
+    "symbol": "BEPRO",
+    "address": "0x786001c9c5CA6E502dEB8a8a72480d2147891f32",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
