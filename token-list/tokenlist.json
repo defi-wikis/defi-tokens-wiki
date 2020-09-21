@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:18:01.176Z",
+    "timestamp": "2020-09-21T22:18:12.227Z",
     "version": {
         "major": 1,
-        "minor": 1207,
+        "minor": 1208,
         "patch": 0
     },
     "keywords": [
@@ -7823,6 +7823,14 @@
             "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0316eb71485b0ab14103307bf65a021042c6d380/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "KIMCHI finance",
+            "symbol": "KIMCHI",
+            "address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1e18821e69b9faa8e6e75dffe54e7e25754beda0/icon.png"
         }
     ]
 }
