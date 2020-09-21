@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:31:55.140Z",
+    "timestamp": "2020-09-21T22:32:07.138Z",
     "version": {
         "major": 1,
-        "minor": 1278,
+        "minor": 1279,
         "patch": 0
     },
     "keywords": [
@@ -8288,6 +8288,14 @@
             "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x3597bfd533a99c9aa083587b074434e61eb0a258/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "GazeCoin",
+            "symbol": "GZE",
+            "address": "0x4AC00f287f36A6Aad655281fE1cA6798C9cb727b",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4ac00f287f36a6aad655281fe1ca6798c9cb727b/icon.png"
         }
     ]
 }
