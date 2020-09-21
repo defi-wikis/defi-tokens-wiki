@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:06:52.001Z",
+    "timestamp": "2020-09-21T22:07:02.251Z",
     "version": {
         "major": 1,
-        "minor": 1151,
+        "minor": 1152,
         "patch": 0
     },
     "keywords": [
@@ -7446,6 +7446,13 @@
             "address": "0xd64904232b4674c24fA59170D12fC7df20f5880e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd64904232b4674c24fa59170d12fc7df20f5880e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Nerthus",
+            "symbol": "NTS",
+            "address": "0x3dfeaF13a6615e560Aecc5648Ace8FA50d7cF6bF",
+            "decimals": 12
         }
     ]
 }
