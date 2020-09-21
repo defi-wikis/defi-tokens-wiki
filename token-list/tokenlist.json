@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:53:11.969Z",
+    "timestamp": "2020-09-21T22:53:27.443Z",
     "version": {
         "major": 1,
-        "minor": 1378,
+        "minor": 1379,
         "patch": 0
     },
     "keywords": [
@@ -8984,6 +8984,14 @@
             "symbol": "UNDB",
             "address": "0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pebbles",
+            "symbol": "PBL",
+            "address": "0x55648De19836338549130B1af587F16beA46F66B",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x55648de19836338549130b1af587f16bea46f66b/icon.png"
         }
     ]
 }
