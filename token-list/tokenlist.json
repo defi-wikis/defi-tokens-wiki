@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:01:10.378Z",
+    "timestamp": "2020-09-21T23:01:23.148Z",
     "version": {
         "major": 1,
-        "minor": 1413,
+        "minor": 1414,
         "patch": 0
     },
     "keywords": [
@@ -9232,6 +9232,14 @@
             "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Celer Network",
+            "symbol": "CELR",
+            "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/icon.png"
         }
     ]
 }
