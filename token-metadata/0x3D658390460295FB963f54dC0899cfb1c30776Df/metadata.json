@@ -1,0 +1,9 @@
+{
+    "name": "Circuits of Value",
+    "symbol": "COVAL",
+    "address": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
