@@ -1,0 +1,9 @@
+{
+    "name": "CryptoFranc",
+    "symbol": "XCHF",
+    "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
