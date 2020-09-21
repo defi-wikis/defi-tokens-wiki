@@ -3,7 +3,5 @@
     "symbol": "HUNT",
     "address": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
