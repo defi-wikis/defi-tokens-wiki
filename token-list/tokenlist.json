@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:39:14.063Z",
+    "timestamp": "2020-09-21T23:39:28.085Z",
     "version": {
         "major": 1,
-        "minor": 1605,
+        "minor": 1606,
         "patch": 0
     },
     "keywords": [
@@ -10627,6 +10627,14 @@
             "symbol": "ACW",
             "address": "0xD29FA4B8Cc936a68BB560b19eED969EbfDBaA565",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "PARETO Rewards",
+            "symbol": "PARETO",
+            "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc/icon.png"
         }
     ]
 }
