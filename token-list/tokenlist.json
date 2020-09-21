@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:23:57.459Z",
+    "timestamp": "2020-09-21T22:24:09.817Z",
     "version": {
         "major": 1,
-        "minor": 1238,
+        "minor": 1239,
         "patch": 0
     },
     "keywords": [
@@ -7997,6 +7997,14 @@
             "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BerryX",
+            "symbol": "BRX",
+            "address": "0x3A4A0D5b8dfAcd651EE28ed4fFEBf91500345489",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3a4a0d5b8dfacd651ee28ed4ffebf91500345489/icon.png"
         }
     ]
 }
