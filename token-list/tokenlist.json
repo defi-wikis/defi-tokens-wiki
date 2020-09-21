@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:11:17.449Z",
+    "timestamp": "2020-09-21T23:11:29.100Z",
     "version": {
         "major": 1,
-        "minor": 1463,
+        "minor": 1464,
         "patch": 0
     },
     "keywords": [
@@ -9588,6 +9588,14 @@
             "address": "0x26E43759551333e57F073bb0772F50329A957b30",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x26e43759551333e57f073bb0772f50329a957b30/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dextoken Governance",
+            "symbol": "DEXG",
+            "address": "0xB81D70802a816B5DacBA06D708B5acF19DcD436D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb81d70802a816b5dacba06d708b5acf19dcd436d/icon.png"
         }
     ]
 }
