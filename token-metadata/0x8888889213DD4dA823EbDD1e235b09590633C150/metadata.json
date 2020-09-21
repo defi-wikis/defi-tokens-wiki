@@ -1,0 +1,9 @@
+{
+    "name": "Marblecoin",
+    "symbol": "MBC",
+    "address": "0x8888889213DD4dA823EbDD1e235b09590633C150",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
