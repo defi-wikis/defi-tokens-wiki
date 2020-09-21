@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:32:53.590Z",
+    "timestamp": "2020-09-21T23:33:05.856Z",
     "version": {
         "major": 1,
-        "minor": 1574,
+        "minor": 1575,
         "patch": 0
     },
     "keywords": [
@@ -10398,6 +10398,14 @@
             "address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DUO Network",
+            "symbol": "DUO",
+            "address": "0x56e0B2C7694E6e10391E870774daA45cf6583486",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x56e0b2c7694e6e10391e870774daa45cf6583486/icon.png"
         }
     ]
 }
