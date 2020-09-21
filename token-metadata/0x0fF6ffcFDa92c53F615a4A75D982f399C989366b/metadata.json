@@ -1,0 +1,9 @@
+{
+    "name": "UniLayer",
+    "symbol": "LAYER",
+    "address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
