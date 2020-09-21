@@ -3,7 +3,5 @@
     "symbol": "ELF",
     "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
