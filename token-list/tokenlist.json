@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T18:42:39.037Z",
+    "timestamp": "2020-09-21T18:49:19.868Z",
     "version": {
         "major": 1,
-        "minor": 1062,
+        "minor": 1063,
         "patch": 0
     },
     "keywords": [
@@ -6940,6 +6940,13 @@
             "name": "YfMask",
             "symbol": "YFM",
             "address": "0xBa298b5Bf153AF9E3D013bA0112981Db2c14d5C8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ConnectUS",
+            "symbol": "CENN",
+            "address": "0xF567464fd5e4543c167ae6D3Ff61a75aDe0aB798",
             "decimals": 18
         }
     ]
