@@ -3,7 +3,5 @@
     "symbol": "YMAX",
     "address": "0x062f90480551379791FBe2ED74C1fe69821b30d3",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
