@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:54:37.656Z",
+    "timestamp": "2020-09-21T23:54:46.809Z",
     "version": {
         "major": 1,
-        "minor": 1681,
+        "minor": 1682,
         "patch": 0
     },
     "keywords": [
@@ -11190,6 +11190,13 @@
             "address": "0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x045eb7e34e94b28c7a3641bc5e1a1f61f225af9f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BEE Coin",
+            "symbol": "BEE",
+            "address": "0x1763aD73694d4D64FB71732B068E32ac72A345b1",
+            "decimals": 18
         }
     ]
 }
