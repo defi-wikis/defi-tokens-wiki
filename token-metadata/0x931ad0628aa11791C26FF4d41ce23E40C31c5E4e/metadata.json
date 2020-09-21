@@ -1,0 +1,9 @@
+{
+    "name": "Pegasus",
+    "symbol": "PGS",
+    "address": "0x931ad0628aa11791C26FF4d41ce23E40C31c5E4e",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
