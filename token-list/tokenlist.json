@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:29:45.082Z",
+    "timestamp": "2020-09-21T23:29:54.402Z",
     "version": {
         "major": 1,
-        "minor": 1556,
+        "minor": 1557,
         "patch": 0
     },
     "keywords": [
@@ -10267,6 +10267,13 @@
             "name": "Jiaozi",
             "symbol": "JIAOZI",
             "address": "0x94939D55000B31B7808904a80aA7Bab05eF59Ed6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TIG Token",
+            "symbol": "TIG",
+            "address": "0x749826F1041CAF0Ea856a4b3578Ba327B18335F8",
             "decimals": 18
         }
     ]
