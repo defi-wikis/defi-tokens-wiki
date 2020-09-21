@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:41:06.009Z",
+    "timestamp": "2020-09-21T06:45:15.258Z",
     "version": {
         "major": 1,
-        "minor": 996,
+        "minor": 997,
         "patch": 0
     },
     "keywords": [
@@ -6478,6 +6478,13 @@
             "name": "https://devil.finance/",
             "symbol": "$SOUL",
             "address": "0xB8cF66406a52c682FfBe97149d6dC74A51DAF53E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap Pool Club",
+            "symbol": "UPC",
+            "address": "0xB2Ddc4E9cA28D8878f48FBBec7d0813c24cdB605",
             "decimals": 18
         }
     ]
