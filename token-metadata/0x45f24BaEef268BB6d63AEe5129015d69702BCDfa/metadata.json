@@ -3,7 +3,5 @@
     "symbol": "YFV",
     "address": "0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
