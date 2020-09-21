@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T01:01:25.180Z",
+    "timestamp": "2020-09-21T01:07:44.407Z",
     "version": {
         "major": 1,
-        "minor": 947,
+        "minor": 948,
         "patch": 0
     },
     "keywords": [
@@ -6135,6 +6135,13 @@
             "name": "CoolWallet.io",
             "symbol": "CWES",
             "address": "0x9E71256d5cEB6cb7Ce4f914485eeAA288AB40D59",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyShitCoin",
+            "symbol": "DontBuyShitCoin",
+            "address": "0x5b6Bea81A77d6747f5CFb2F7C797b9D3AB64479F",
             "decimals": 18
         }
     ]
