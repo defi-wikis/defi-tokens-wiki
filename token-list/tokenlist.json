@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:36:38.303Z",
+    "timestamp": "2020-09-21T22:36:50.794Z",
     "version": {
         "major": 1,
-        "minor": 1301,
+        "minor": 1302,
         "patch": 0
     },
     "keywords": [
@@ -8445,6 +8445,14 @@
             "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave ETH",
+            "symbol": "AETH",
+            "address": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04/icon.png"
         }
     ]
 }
