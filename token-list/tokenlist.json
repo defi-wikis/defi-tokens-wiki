@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:12:55.020Z",
+    "timestamp": "2020-09-21T22:13:06.682Z",
     "version": {
         "major": 1,
-        "minor": 1181,
+        "minor": 1182,
         "patch": 0
     },
     "keywords": [
@@ -7645,6 +7645,14 @@
             "address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x2467aa6b5a2351416fd4c3def8462d841feeecec/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "cBAT",
+            "symbol": "CBAT",
+            "address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e/icon.png"
         }
     ]
 }
