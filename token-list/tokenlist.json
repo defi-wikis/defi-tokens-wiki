@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:00:40.145Z",
+    "timestamp": "2020-09-21T23:00:52.435Z",
     "version": {
         "major": 1,
-        "minor": 1411,
+        "minor": 1412,
         "patch": 0
     },
     "keywords": [
@@ -9217,6 +9217,13 @@
             "address": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xe3818504c1b32bf1557b16c238b2e01fd3149c17/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Nyan Finance",
+            "symbol": "NYAN",
+            "address": "0xC9cE70A381910D0a90B30d408CC9C7705ee882de",
+            "decimals": 18
         }
     ]
 }
