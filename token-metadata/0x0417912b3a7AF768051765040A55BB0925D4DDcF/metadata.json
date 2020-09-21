@@ -3,7 +3,5 @@
     "symbol": "LID",
     "address": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
