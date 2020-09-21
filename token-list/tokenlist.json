@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:22:54.168Z",
+    "timestamp": "2020-09-21T22:23:06.947Z",
     "version": {
         "major": 1,
-        "minor": 1233,
+        "minor": 1234,
         "patch": 0
     },
     "keywords": [
@@ -7964,6 +7964,14 @@
             "address": "0xBD6467a31899590474cE1e84F70594c53D628e46",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xbd6467a31899590474ce1e84f70594c53d628e46/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UMA",
+            "symbol": "UMA",
+            "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x04fa0d235c4abf4bcf4787af4cf447de572ef828/icon.png"
         }
     ]
 }
