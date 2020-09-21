@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:50:56.483Z",
+    "timestamp": "2020-09-21T23:51:21.932Z",
     "version": {
         "major": 1,
-        "minor": 1662,
+        "minor": 1663,
         "patch": 0
     },
     "keywords": [
@@ -11060,6 +11060,14 @@
             "symbol": "BLAM",
             "address": "0xd80CCB84916e5622628714Df75377523e49d8dfD",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "COMSA",
+            "symbol": "CMS",
+            "address": "0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a/icon.png"
         }
     ]
 }
