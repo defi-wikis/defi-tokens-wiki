@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:10:54.845Z",
+    "timestamp": "2020-09-21T02:19:39.833Z",
     "version": {
         "major": 1,
-        "minor": 955,
+        "minor": 956,
         "patch": 0
     },
     "keywords": [
@@ -6191,6 +6191,13 @@
             "name": "Kale Farm",
             "symbol": "KALE",
             "address": "0xd0a871e89c9beaB19090b867874e2EeF459fDA62",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SimpleChain",
+            "symbol": "SIPC",
+            "address": "0x52C2a92Eb78C64B975CC8bc328F5f6f6DF562073",
             "decimals": 18
         }
     ]
