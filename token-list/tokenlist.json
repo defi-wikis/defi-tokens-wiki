@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:47:29.707Z",
+    "timestamp": "2020-09-21T22:47:42.035Z",
     "version": {
         "major": 1,
-        "minor": 1350,
+        "minor": 1351,
         "patch": 0
     },
     "keywords": [
@@ -8798,6 +8798,14 @@
             "address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5caf454ba92e6f2c929df14667ee360ed9fd5b26/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Mega",
+            "symbol": "MX3",
+            "address": "0x291FA2725d153bcc6C7E1C304bcaD47fdEf1EF84",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x291fa2725d153bcc6c7e1c304bcad47fdef1ef84/icon.png"
         }
     ]
 }
