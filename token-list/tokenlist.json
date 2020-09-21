@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:42:12.059Z",
+    "timestamp": "2020-09-21T23:42:23.360Z",
     "version": {
         "major": 1,
-        "minor": 1620,
+        "minor": 1621,
         "patch": 0
     },
     "keywords": [
@@ -10745,6 +10745,14 @@
             "address": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf51ebf9a26dbc02b13f8b3a9110dac47a4d62d78/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DeCash",
+            "symbol": "DESH",
+            "address": "0x95bA34760ac3D7fBE98ee8b2AB33b4F1a6D18878",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x95ba34760ac3d7fbe98ee8b2ab33b4f1a6d18878/icon.png"
         }
     ]
 }
