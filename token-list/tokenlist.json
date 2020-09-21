@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:15:29.598Z",
+    "timestamp": "2020-09-21T21:15:41.822Z",
     "version": {
         "major": 1,
-        "minor": 1106,
+        "minor": 1107,
         "patch": 0
     },
     "keywords": [
@@ -7141,6 +7141,13 @@
             "address": "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "502 Bad Gateway Tok",
+            "symbol": "Z502",
+            "address": "0x2cd9324bA13b77554592d453e6364086FbBa446a",
+            "decimals": 0
         }
     ]
 }
