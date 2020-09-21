@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T08:23:51.968Z",
+    "timestamp": "2020-09-21T08:24:19.428Z",
     "version": {
         "major": 1,
-        "minor": 1011,
+        "minor": 1012,
         "patch": 0
     },
     "keywords": [
@@ -6583,6 +6583,13 @@
             "name": "X Finance II",
             "symbol": "XFII",
             "address": "0xcB2b19A20324D6A3E77481a3075eD29339088376",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance Trading",
+            "symbol": "YFIT",
+            "address": "0x7ED55d2578402DcE16048bAA534c14d8CCf37d26",
             "decimals": 18
         }
     ]
