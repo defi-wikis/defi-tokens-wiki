@@ -3,7 +3,5 @@
     "symbol": "DSD",
     "address": "0x1e3a2446C729D34373B87FD2C9CBb39A93198658",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
