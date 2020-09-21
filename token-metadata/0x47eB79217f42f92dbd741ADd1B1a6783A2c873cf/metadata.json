@@ -1,0 +1,9 @@
+{
+    "name": "Bast",
+    "symbol": "BAST",
+    "address": "0x47eB79217f42f92dbd741ADd1B1a6783A2c873cf",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
