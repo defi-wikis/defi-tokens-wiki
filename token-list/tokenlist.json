@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T08:04:54.596Z",
+    "timestamp": "2020-09-21T08:23:51.968Z",
     "version": {
         "major": 1,
-        "minor": 1010,
+        "minor": 1011,
         "patch": 0
     },
     "keywords": [
@@ -6577,6 +6577,13 @@
             "symbol": "SHARE",
             "address": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "X Finance II",
+            "symbol": "XFII",
+            "address": "0xcB2b19A20324D6A3E77481a3075eD29339088376",
+            "decimals": 18
         }
     ]
 }
