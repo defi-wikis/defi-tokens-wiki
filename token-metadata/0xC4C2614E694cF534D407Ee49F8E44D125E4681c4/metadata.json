@@ -1,0 +1,9 @@
+{
+    "name": "Chain Games",
+    "symbol": "CHAIN",
+    "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
