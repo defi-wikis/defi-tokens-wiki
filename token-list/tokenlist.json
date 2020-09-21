@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:09:08.699Z",
+    "timestamp": "2020-09-21T22:09:20.585Z",
     "version": {
         "major": 1,
-        "minor": 1162,
+        "minor": 1163,
         "patch": 0
     },
     "keywords": [
@@ -7522,6 +7522,14 @@
             "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x83984d6142934bb535793a82adb0a46ef0f66b6d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Circuits of Value",
+            "symbol": "COVAL",
+            "address": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x3d658390460295fb963f54dc0899cfb1c30776df/icon.png"
         }
     ]
 }
