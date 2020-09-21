@@ -1,0 +1,9 @@
+{
+    "name": "Wrapped ZEBELLION",
+    "symbol": "WZBLT",
+    "address": "0x7a58da7C0568557eC65cd53c0DBE5B134a022a14",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
