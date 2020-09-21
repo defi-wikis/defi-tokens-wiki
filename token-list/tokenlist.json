@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:03:34.608Z",
+    "timestamp": "2020-09-21T02:10:54.845Z",
     "version": {
         "major": 1,
-        "minor": 954,
+        "minor": 955,
         "patch": 0
     },
     "keywords": [
@@ -6184,6 +6184,13 @@
             "name": "PotatoToken (POTATO)",
             "symbol": "PTT",
             "address": "0x0A96945A37E02b07c80aC386af80ee6a709c3cA4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kale Farm",
+            "symbol": "KALE",
+            "address": "0xd0a871e89c9beaB19090b867874e2EeF459fDA62",
             "decimals": 18
         }
     ]
