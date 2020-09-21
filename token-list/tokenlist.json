@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:01:54.149Z",
+    "timestamp": "2020-09-21T22:02:03.270Z",
     "version": {
         "major": 1,
-        "minor": 1126,
+        "minor": 1127,
         "patch": 0
     },
     "keywords": [
@@ -7277,6 +7277,13 @@
             "address": "0x907cb97615b7cD7320Bc89bb7CDB46e37432eBe7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x907cb97615b7cd7320bc89bb7cdb46e37432ebe7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UniCrapToken xyz",
+            "symbol": "UNICRAP",
+            "address": "0x64c5572E7a100AF9901c148D75d72c619A7f1e9d",
+            "decimals": 18
         }
     ]
 }
