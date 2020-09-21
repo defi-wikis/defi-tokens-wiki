@@ -1,0 +1,9 @@
+{
+    "name": "Liquidity Network",
+    "symbol": "LQD",
+    "address": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
