@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T09:14:44.386Z",
+    "timestamp": "2020-09-21T09:53:19.304Z",
     "version": {
         "major": 1,
-        "minor": 1015,
+        "minor": 1016,
         "patch": 0
     },
     "keywords": [
@@ -6611,6 +6611,13 @@
             "name": "YFI GOLD FINANCE",
             "symbol": "YFG",
             "address": "0xae1C43FBB376b8d32EdD1d24D78D0AB31ee0d88d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IYF.finance",
+            "symbol": "IYF",
+            "address": "0x5D762F76b9E91F71cc4F94391BDFe6333dB8519c",
             "decimals": 18
         }
     ]
