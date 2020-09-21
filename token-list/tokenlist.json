@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:10:25.972Z",
+    "timestamp": "2020-09-21T22:10:38.089Z",
     "version": {
         "major": 1,
-        "minor": 1168,
+        "minor": 1169,
         "patch": 0
     },
     "keywords": [
@@ -7562,6 +7562,14 @@
             "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aragon",
+            "symbol": "ANT",
+            "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x960b236a07cf122663c4303350609a66a7b288c0/icon.png"
         }
     ]
 }
