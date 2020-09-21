@@ -3,7 +3,5 @@
     "symbol": "BXIOT",
     "address": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
     "decimals": 6,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
