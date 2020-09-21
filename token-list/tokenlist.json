@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T05:44:44.044Z",
+    "timestamp": "2020-09-21T05:51:09.403Z",
     "version": {
         "major": 1,
-        "minor": 984,
+        "minor": 985,
         "patch": 0
     },
     "keywords": [
@@ -6394,6 +6394,13 @@
             "name": "I am Satoshi Nakamoto",
             "symbol": "ISN",
             "address": "0x095B5D7676d6c85E661eaD8E902ee1Dd716A9363",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chicken",
+            "symbol": "KFC",
+            "address": "0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
             "decimals": 18
         }
     ]
