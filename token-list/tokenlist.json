@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:10:51.842Z",
+    "timestamp": "2020-09-21T22:11:03.886Z",
     "version": {
         "major": 1,
-        "minor": 1170,
+        "minor": 1171,
         "patch": 0
     },
     "keywords": [
@@ -2188,7 +2188,8 @@
             "name": "Globex",
             "symbol": "GEX",
             "address": "0x03282f2D7834a97369Cad58f888aDa19EeC46ab6",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x03282f2d7834a97369cad58f888ada19eec46ab6/icon.png"
         },
         {
             "chainId": 1,
