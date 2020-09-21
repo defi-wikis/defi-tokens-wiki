@@ -3,7 +3,5 @@
     "symbol": "COW",
     "address": "0xf0be50ED0620E0Ba60CA7FC968eD14762e0A5Dd3",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
