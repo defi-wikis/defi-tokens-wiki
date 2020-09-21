@@ -3,7 +3,5 @@
     "symbol": "HTX",
     "address": "0xeDbcC06B603ea1f512720A4073a62CC4fdefCb86",
     "decimals": 0,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
