@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T07:05:44.529Z",
+    "timestamp": "2020-09-21T07:08:14.371Z",
     "version": {
         "major": 1,
-        "minor": 999,
+        "minor": 1000,
         "patch": 0
     },
     "keywords": [
@@ -6499,6 +6499,13 @@
             "name": "Kira Core @ Interchain.Exchange",
             "symbol": "KIRA",
             "address": "0xDD126B9419e4c692423d536FfCE6261bB08d123b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0xdc98556Ce24f007A5eF6dC1CE96322d65832A819",
             "decimals": 18
         }
     ]
