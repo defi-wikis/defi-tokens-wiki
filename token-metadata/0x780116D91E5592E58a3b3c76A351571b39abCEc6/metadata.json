@@ -3,7 +3,5 @@
     "symbol": "BOXX",
     "address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
     "decimals": 15,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
