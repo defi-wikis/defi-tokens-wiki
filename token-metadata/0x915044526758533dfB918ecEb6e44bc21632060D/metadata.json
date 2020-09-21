@@ -1,0 +1,9 @@
+{
+    "name": "Chromia",
+    "symbol": "CHR",
+    "address": "0x915044526758533dfB918ecEb6e44bc21632060D",
+    "decimals": 6,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
