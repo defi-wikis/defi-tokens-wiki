@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:52:19.809Z",
+    "timestamp": "2020-09-21T23:52:32.469Z",
     "version": {
         "major": 1,
-        "minor": 1668,
+        "minor": 1669,
         "patch": 0
     },
     "keywords": [
@@ -11099,6 +11099,14 @@
             "symbol": "VIBS",
             "address": "0x53Db6b7fee89383435e424764A8478ACDA4DD2cD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AfroDex",
+            "symbol": "AFROX",
+            "address": "0x08130635368AA28b217a4dfb68E1bF8dC525621C",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x08130635368aa28b217a4dfb68e1bf8dc525621c/icon.png"
         }
     ]
 }
