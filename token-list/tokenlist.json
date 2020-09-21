@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:35:16.894Z",
+    "timestamp": "2020-09-21T22:35:30.106Z",
     "version": {
         "major": 1,
-        "minor": 1295,
+        "minor": 1296,
         "patch": 0
     },
     "keywords": [
@@ -8404,6 +8404,14 @@
             "address": "0x0E22734e078d6e399BCeE40a549DB591C4EA46cB",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0e22734e078d6e399bcee40a549db591c4ea46cb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Creed Finance",
+            "symbol": "CREED",
+            "address": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x675e7d927af7e6d0082e0153dc3485b687a6f0ad/icon.png"
         }
     ]
 }
