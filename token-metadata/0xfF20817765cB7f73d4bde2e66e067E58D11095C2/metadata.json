@@ -3,7 +3,5 @@
     "symbol": "AMP",
     "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
