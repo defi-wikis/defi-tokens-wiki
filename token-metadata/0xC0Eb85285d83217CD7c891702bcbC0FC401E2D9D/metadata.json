@@ -1,0 +1,9 @@
+{
+    "name": "Hiveterminal token",
+    "symbol": "HVN",
+    "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
