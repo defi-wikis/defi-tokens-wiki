@@ -3,7 +3,5 @@
     "symbol": "FOR",
     "address": "0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
