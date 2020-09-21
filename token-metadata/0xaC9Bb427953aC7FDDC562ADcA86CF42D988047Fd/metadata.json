@@ -3,7 +3,5 @@
     "symbol": "STT",
     "address": "0xaC9Bb427953aC7FDDC562ADcA86CF42D988047Fd",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
