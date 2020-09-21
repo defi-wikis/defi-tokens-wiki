@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:52:32.469Z",
+    "timestamp": "2020-09-21T23:52:43.299Z",
     "version": {
         "major": 1,
-        "minor": 1669,
+        "minor": 1670,
         "patch": 0
     },
     "keywords": [
@@ -11107,6 +11107,14 @@
             "address": "0x08130635368AA28b217a4dfb68E1bF8dC525621C",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x08130635368aa28b217a4dfb68e1bf8dc525621c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "RAKUN",
+            "symbol": "RAKU",
+            "address": "0x51BC0DeaF7bBE82bC9006b0c3531668a4206D27F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f/icon.png"
         }
     ]
 }
