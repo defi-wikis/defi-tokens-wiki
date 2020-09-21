@@ -3,7 +3,5 @@
     "symbol": "LIBERTAS",
     "address": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
     "decimals": 2,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
