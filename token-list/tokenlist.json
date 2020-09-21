@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:31:31.432Z",
+    "timestamp": "2020-09-21T23:31:43.234Z",
     "version": {
         "major": 1,
-        "minor": 1567,
+        "minor": 1568,
         "patch": 0
     },
     "keywords": [
@@ -10350,6 +10350,14 @@
             "address": "0x5abFd418AdB35e89c68313574eB16BdfFc15e607",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5abfd418adb35e89c68313574eb16bdffc15e607/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ERC20",
+            "symbol": "ERC20",
+            "address": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea/icon.png"
         }
     ]
 }
