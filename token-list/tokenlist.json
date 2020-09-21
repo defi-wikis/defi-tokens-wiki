@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:31:07.534Z",
+    "timestamp": "2020-09-21T22:31:18.279Z",
     "version": {
         "major": 1,
-        "minor": 1274,
+        "minor": 1275,
         "patch": 0
     },
     "keywords": [
@@ -8264,6 +8264,14 @@
             "address": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x95172ccbe8344fecd73d0a30f54123652981bd6f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Fantom",
+            "symbol": "FTM",
+            "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4e15361fd6b4bb609fa63c81a2be19d873717870/icon.png"
         }
     ]
 }
