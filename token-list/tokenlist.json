@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:21:28.053Z",
+    "timestamp": "2020-09-21T23:21:37.541Z",
     "version": {
         "major": 1,
-        "minor": 1514,
+        "minor": 1515,
         "patch": 0
     },
     "keywords": [
@@ -9958,6 +9958,13 @@
             "address": "0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "yffc finance",
+            "symbol": "YFFC",
+            "address": "0xea004e8FA3701B8E58E41b78D50996e0f7176CbD",
+            "decimals": 18
         }
     ]
 }
