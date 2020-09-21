@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:02:40.741Z",
+    "timestamp": "2020-09-21T22:02:52.827Z",
     "version": {
         "major": 1,
-        "minor": 1130,
+        "minor": 1131,
         "patch": 0
     },
     "keywords": [
@@ -7300,6 +7300,14 @@
             "address": "0x0f8794f66C7170c4f9163a8498371A747114f6C4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0f8794f66c7170c4f9163a8498371a747114f6c4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Meme",
+            "symbol": "MEME",
+            "address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd5525d397898e5502075ea5e830d8914f6f0affe/icon.png"
         }
     ]
 }
