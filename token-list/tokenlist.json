@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:31:18.279Z",
+    "timestamp": "2020-09-21T22:31:29.458Z",
     "version": {
         "major": 1,
-        "minor": 1275,
+        "minor": 1276,
         "patch": 0
     },
     "keywords": [
@@ -8272,6 +8272,14 @@
             "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4e15361fd6b4bb609fa63c81a2be19d873717870/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vesta",
+            "symbol": "VESTA",
+            "address": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3aef8e803bd9be47e69b9f36487748d30d940b96/icon.png"
         }
     ]
 }
