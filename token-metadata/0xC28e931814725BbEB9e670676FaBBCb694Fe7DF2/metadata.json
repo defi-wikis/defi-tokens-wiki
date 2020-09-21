@@ -3,5 +3,7 @@
     "symbol": "EQUAD",
     "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
