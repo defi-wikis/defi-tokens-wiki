@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:41:55.447Z",
+    "timestamp": "2020-09-21T22:42:05.533Z",
     "version": {
         "major": 1,
-        "minor": 1322,
+        "minor": 1323,
         "patch": 0
     },
     "keywords": [
@@ -8602,6 +8602,13 @@
             "address": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6bff2fe249601ed0db3a87424a2e923118bb0312/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFValue",
+            "symbol": "YFV",
+            "address": "0x45f24BaEef268BB6d63AEe5129015d69702BCDfa",
+            "decimals": 18
         }
     ]
 }
