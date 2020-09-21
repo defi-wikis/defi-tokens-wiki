@@ -1,0 +1,9 @@
+{
+    "name": "Timvi",
+    "symbol": "TMV",
+    "address": "0x5abFd418AdB35e89c68313574eB16BdfFc15e607",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
