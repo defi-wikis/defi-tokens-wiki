@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:18:24.517Z",
+    "timestamp": "2020-09-21T22:18:33.872Z",
     "version": {
         "major": 1,
-        "minor": 1209,
+        "minor": 1210,
         "patch": 0
     },
     "keywords": [
@@ -7839,6 +7839,13 @@
             "address": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Maki Finance",
+            "symbol": "MAKI",
+            "address": "0x270D09cb4be817c98e84fEffdE03D5CD45e30a27",
+            "decimals": 18
         }
     ]
 }
