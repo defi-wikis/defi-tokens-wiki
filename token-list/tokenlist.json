@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:48:57.719Z",
+    "timestamp": "2020-09-21T23:49:07.741Z",
     "version": {
         "major": 1,
-        "minor": 1652,
+        "minor": 1653,
         "patch": 0
     },
     "keywords": [
@@ -10983,6 +10983,13 @@
             "address": "0x6f022E991ea21d26F85f6716c088e2864101dfEC",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0x6f022e991ea21d26f85f6716c088e2864101dfec/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": " AAPL",
+            "symbol": "AAPL",
+            "address": "0x41eFc0253ee7Ea44400abB5F907FDbfdEbc82bec",
+            "decimals": 18
         }
     ]
 }
