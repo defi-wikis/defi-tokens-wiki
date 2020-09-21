@@ -3,7 +3,5 @@
     "symbol": "LEAD",
     "address": "0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
