@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:20:38.454Z",
+    "timestamp": "2020-09-21T23:20:51.067Z",
     "version": {
         "major": 1,
-        "minor": 1510,
+        "minor": 1511,
         "patch": 0
     },
     "keywords": [
@@ -401,7 +401,7 @@
         },
         {
             "chainId": 1,
-            "name": "yearn.finance",
+            "name": "yearn finance",
             "symbol": "YFI",
             "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
             "decimals": 18,
