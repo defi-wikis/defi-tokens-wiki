@@ -3,7 +3,5 @@
     "symbol": "GL",
     "address": "0x70FaDBE1F2CCCbaF98ac88FDCf94A0509A48E46d",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
