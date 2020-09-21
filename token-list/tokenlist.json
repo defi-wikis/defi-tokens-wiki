@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:29:25.161Z",
+    "timestamp": "2020-09-21T02:35:44.308Z",
     "version": {
         "major": 1,
-        "minor": 958,
+        "minor": 959,
         "patch": 0
     },
     "keywords": [
@@ -6213,6 +6213,13 @@
             "symbol": "FGP",
             "address": "0xd9A8cfe21C232D485065cb62a96866799d4645f7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Molecular Future",
+            "symbol": "MOF",
+            "address": "0x653430560bE843C4a3D143d0110e896c2Ab8ac0D",
+            "decimals": 16
         }
     ]
 }
