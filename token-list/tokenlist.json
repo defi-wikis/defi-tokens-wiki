@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:18:11.159Z",
+    "timestamp": "2020-09-21T23:18:22.104Z",
     "version": {
         "major": 1,
-        "minor": 1498,
+        "minor": 1499,
         "patch": 0
     },
     "keywords": [
@@ -9846,6 +9846,14 @@
             "address": "0x150b0b96933B75Ce27af8b92441F8fB683bF9739",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x150b0b96933b75ce27af8b92441f8fb683bf9739/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UniPower",
+            "symbol": "POWER",
+            "address": "0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf2f9a7e93f845b3ce154efbeb64fb9346fcce509/icon.png"
         }
     ]
 }
