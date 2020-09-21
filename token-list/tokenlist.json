@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:49:20.275Z",
+    "timestamp": "2020-09-21T22:49:37.142Z",
     "version": {
         "major": 1,
-        "minor": 1359,
+        "minor": 1360,
         "patch": 0
     },
     "keywords": [
@@ -8867,6 +8867,14 @@
             "address": "0xc27A2F05fa577a83BA0fDb4c38443c0718356501",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc27a2f05fa577a83ba0fdb4c38443c0718356501/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MCO",
+            "symbol": "MCO",
+            "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xb63b606ac810a52cca15e44bb630fd42d8d1d83d/icon.png"
         }
     ]
 }
