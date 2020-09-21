@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:40:50.788Z",
+    "timestamp": "2020-09-21T23:41:02.403Z",
     "version": {
         "major": 1,
-        "minor": 1613,
+        "minor": 1614,
         "patch": 0
     },
     "keywords": [
@@ -10690,6 +10690,14 @@
             "address": "0x1F3F677Ecc58F6A1F9e2CF410dF4776a8546b5DE",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Chess Coin",
+            "symbol": "CHESS",
+            "address": "0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5f75112bbb4e1af516fbe3e21528c63da2b6a1a5/icon.png"
         }
     ]
 }
