@@ -1,0 +1,9 @@
+{
+    "name": "Huobi BTC",
+    "symbol": "HBTC",
+    "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
