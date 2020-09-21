@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:55:54.522Z",
+    "timestamp": "2020-09-21T23:56:06.289Z",
     "version": {
         "major": 1,
-        "minor": 1688,
+        "minor": 1689,
         "patch": 0
     },
     "keywords": [
@@ -11243,6 +11243,14 @@
             "symbol": "PAN",
             "address": "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "4thpillar technolog",
+            "symbol": "FOUR",
+            "address": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0/icon.png"
         }
     ]
 }
