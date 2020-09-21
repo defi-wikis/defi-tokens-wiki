@@ -1,0 +1,9 @@
+{
+    "name": "Vibz8",
+    "symbol": "VIBS",
+    "address": "0x53Db6b7fee89383435e424764A8478ACDA4DD2cD",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
