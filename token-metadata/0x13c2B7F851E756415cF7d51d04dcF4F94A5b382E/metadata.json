@@ -3,7 +3,5 @@
     "symbol": "CTT",
     "address": "0x13c2B7F851E756415cF7d51d04dcF4F94A5b382E",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
