@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:13:45.106Z",
+    "timestamp": "2020-09-21T23:13:59.189Z",
     "version": {
         "major": 1,
-        "minor": 1475,
+        "minor": 1476,
         "patch": 0
     },
     "keywords": [
@@ -9681,6 +9681,14 @@
             "address": "0x786001c9c5CA6E502dEB8a8a72480d2147891f32",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x786001c9c5ca6e502deb8a8a72480d2147891f32/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sora",
+            "symbol": "XOR",
+            "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x40fd72257597aa14c7231a7b1aaa29fce868f677/icon.png"
         }
     ]
 }
