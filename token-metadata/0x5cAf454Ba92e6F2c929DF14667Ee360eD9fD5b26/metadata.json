@@ -1,0 +1,9 @@
+{
+    "name": "Dev Protocol",
+    "symbol": "DEV",
+    "address": "0x5cAf454Ba92e6F2c929DF14667Ee360eD9fD5b26",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
