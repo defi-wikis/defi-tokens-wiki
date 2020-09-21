@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:25:15.161Z",
+    "timestamp": "2020-09-21T22:25:27.028Z",
     "version": {
         "major": 1,
-        "minor": 1245,
+        "minor": 1246,
         "patch": 0
     },
     "keywords": [
@@ -6245,10 +6245,11 @@
         },
         {
             "chainId": 1,
-            "name": "BitBall Treasure",
+            "name": "Bitball Treasure",
             "symbol": "BTRS",
             "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x73c9275c3a2dd84b5741fd59aebf102c91eb033f/icon.png"
         },
         {
             "chainId": 1,
