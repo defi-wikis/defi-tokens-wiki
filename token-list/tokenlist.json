@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:48:52.363Z",
+    "timestamp": "2020-09-21T22:49:04.836Z",
     "version": {
         "major": 1,
-        "minor": 1357,
+        "minor": 1358,
         "patch": 0
     },
     "keywords": [
@@ -8851,6 +8851,14 @@
             "address": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
             "decimals": 7,
             "logoURI": "https://tokens.dharma.io/assets/0xb9eefc4b0d472a44be93970254df4f4016569d27/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CGC Token",
+            "symbol": "CGC",
+            "address": "0x2d9765a94FF22e0CA3AfC3E3F4B116dE2b67582a",
+            "decimals": 16,
+            "logoURI": "https://tokens.dharma.io/assets/0x2d9765a94ff22e0ca3afc3e3f4b116de2b67582a/icon.png"
         }
     ]
 }
