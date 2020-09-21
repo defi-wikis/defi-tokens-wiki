@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:27:06.208Z",
+    "timestamp": "2020-09-21T06:29:09.447Z",
     "version": {
         "major": 1,
-        "minor": 993,
+        "minor": 994,
         "patch": 0
     },
     "keywords": [
@@ -6457,6 +6457,13 @@
             "name": "Global Staking Token",
             "symbol": "GST",
             "address": "0x950D1ca26De5fF8f5ef28B7206f713F0CB3cC7EF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YMIToken",
+            "symbol": "YMI",
+            "address": "0x4787610B082832106A12bde9dd398148B54AFA4f",
             "decimals": 18
         }
     ]
