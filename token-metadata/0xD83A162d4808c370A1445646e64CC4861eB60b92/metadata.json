@@ -1,0 +1,9 @@
+{
+    "name": "OXY",
+    "symbol": "OXY",
+    "address": "0xD83A162d4808c370A1445646e64CC4861eB60b92",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
