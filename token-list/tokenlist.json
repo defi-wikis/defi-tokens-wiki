@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:58:22.117Z",
+    "timestamp": "2020-09-21T23:58:33.959Z",
     "version": {
         "major": 1,
-        "minor": 1701,
+        "minor": 1702,
         "patch": 0
     },
     "keywords": [
@@ -11343,6 +11343,14 @@
             "address": "0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf6c151ea50a4f1a50983eb98998a18be0a549ad5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ystar",
+            "symbol": "YSR",
+            "address": "0xD9A947789974bAD9BE77E45C2b327174A9c59D71",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd9a947789974bad9be77e45c2b327174a9c59d71/icon.png"
         }
     ]
 }
