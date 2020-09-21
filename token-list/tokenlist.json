@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:26:23.771Z",
+    "timestamp": "2020-09-21T23:26:34.238Z",
     "version": {
         "major": 1,
-        "minor": 1539,
+        "minor": 1540,
         "patch": 0
     },
     "keywords": [
@@ -10143,6 +10143,13 @@
             "symbol": "VALUE",
             "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FreelancerChain",
+            "symbol": "FCN",
+            "address": "0x051aAB38D46f6ebB551752831C7280b2b42164Db",
+            "decimals": 8
         }
     ]
 }
