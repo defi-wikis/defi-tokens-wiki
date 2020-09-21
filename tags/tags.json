@@ -7,11 +7,12 @@
     "yield-farming": {
         "name": "Yield Farming",
         "description": "Tokens that are doled out as rewards for providing liquidity to protocols",
-        "emoji": "🚜"
+        "emoji": "🌾"
     },
     "yfi-inspired": {
         "name": "YFI Inspired",
-        "description": "Tokens either associated with or inspired by the yEarn ecosystem."
+        "description": "Tokens either associated with or inspired by the yEarn ecosystem.",
+        "emoji": "💡"
     },
     "yield-tokens": {
         "name": "Yield-Bearing",
@@ -27,23 +28,38 @@
     },
     "amm": {
         "name": "Automated Market Maker",
-        "descriptions": "Tokens that govern on-chain automated market makers"
+        "descriptions": "Tokens that govern on-chain automated market makers",
+        "emoji": "🤖"
     },
     "synthetics": {
         "name": "Synthetics",
-        "description": "Synthetic assets created to track the value of another asset"
+        "description": "Synthetic assets created to track the value of another asset",
+        "emoji": "🧪"
     },
     "token-sets": {
         "name": "TokenSets",
-        "description": "Token indices composed within Set Protocol"
+        "description": "Token indices composed within Set Protocol",
+        "emoji": "🧺"
     },
     "options": {
         "name": "Options",
-        "description": "Tokens that trustlessly recreate decentralized options contracts on other assets"
+        "description": "Tokens that trustlessly recreate decentralized options contracts on other assets",
+        "emoji": "🤞"
     },
     "a16z": {
         "name": "A16Z",
-        "description": "Tokens backed by Andreesen-Horrowitz"
+        "description": "Tokens backed by Andreesen-Horrowitz",
+        "emoji": "🏗️"
+    },
+    "paradigm": {
+        "name": "Paradigm",
+        "description": "Tokens backed by Paradigm",
+        "emoji": "🔮"
+    },
+    "polychain": {
+        "name": "Polychain",
+        "description": "Tokens backed by Polychain",
+        "emoji": "⛓️"
     },
     "oracle": {
         "name": "Oracles",
