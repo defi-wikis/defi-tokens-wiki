@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:38:02.924Z",
+    "timestamp": "2020-09-21T23:38:14.737Z",
     "version": {
         "major": 1,
-        "minor": 1599,
+        "minor": 1600,
         "patch": 0
     },
     "keywords": [
@@ -10581,6 +10581,14 @@
             "address": "0x25cef4fB106E76080E88135a0e4059276FA9BE87",
             "decimals": 5,
             "logoURI": "https://tokens.dharma.io/assets/0x25cef4fb106e76080e88135a0e4059276fa9be87/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "dForce GOLDx",
+            "symbol": "GOLDX",
+            "address": "0x355C665e101B9DA58704A8fDDb5FeeF210eF20c0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x355c665e101b9da58704a8fddb5feef210ef20c0/icon.png"
         }
     ]
 }
