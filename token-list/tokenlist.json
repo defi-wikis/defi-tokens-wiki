@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T00:51:34.311Z",
+    "timestamp": "2020-09-21T01:01:25.180Z",
     "version": {
         "major": 1,
-        "minor": 946,
+        "minor": 947,
         "patch": 0
     },
     "keywords": [
@@ -6128,6 +6128,13 @@
             "name": "physixfan",
             "symbol": "PHX",
             "address": "0x168359aBE62618d907dA316be172CdAFcA9633aA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoolWallet.io",
+            "symbol": "CWES",
+            "address": "0x9E71256d5cEB6cb7Ce4f914485eeAA288AB40D59",
             "decimals": 18
         }
     ]
