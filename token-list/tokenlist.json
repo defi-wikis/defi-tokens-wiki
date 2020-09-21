@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T20:03:44.513Z",
+    "timestamp": "2020-09-21T20:13:14.673Z",
     "version": {
         "major": 1,
-        "minor": 1088,
+        "minor": 1089,
         "patch": 0
     },
     "keywords": [
@@ -7048,6 +7048,13 @@
             "name": "Origin Dollar",
             "symbol": "OUSD",
             "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pig.Finance",
+            "symbol": "PIG",
+            "address": "0xa7f39334347602504660dafefaAFF1776C98Eaf1",
             "decimals": 18
         }
     ]
