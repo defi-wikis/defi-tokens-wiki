@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T11:14:44.728Z",
+    "timestamp": "2020-09-21T11:15:11.502Z",
     "version": {
         "major": 1,
-        "minor": 1022,
+        "minor": 1023,
         "patch": 0
     },
     "keywords": [
@@ -6660,6 +6660,13 @@
             "name": "FUMGO",
             "symbol": "FMG",
             "address": "0x203762Db5A4688835ab77b8a5FF9E4a04C623de1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Super Swap",
+            "symbol": "SUPER",
+            "address": "0xb5E991a4C2B2D313d4f4795FFFb2C383b8A3416a",
             "decimals": 18
         }
     ]
