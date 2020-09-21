@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:45:56.950Z",
+    "timestamp": "2020-09-21T22:46:11.088Z",
     "version": {
         "major": 1,
-        "minor": 1342,
+        "minor": 1343,
         "patch": 0
     },
     "keywords": [
@@ -8736,6 +8736,14 @@
             "symbol": "BACON",
             "address": "0x175Ab41E2CEDF3919B2e4426C19851223CF51046",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LUKSO Token",
+            "symbol": "LYXE",
+            "address": "0xA8b919680258d369114910511cc87595aec0be6D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa8b919680258d369114910511cc87595aec0be6d/icon.png"
         }
     ]
 }
