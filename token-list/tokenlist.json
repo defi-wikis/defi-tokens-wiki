@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T16:09:24.564Z",
+    "timestamp": "2020-09-21T16:16:10.119Z",
     "version": {
         "major": 1,
-        "minor": 1040,
+        "minor": 1041,
         "patch": 0
     },
     "keywords": [
@@ -6786,6 +6786,13 @@
             "name": "moonfi",
             "symbol": "MOON",
             "address": "0xf49A690FcdfC3933011262F3eFA91cE7483859b5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIFork",
+            "symbol": "FUNI",
+            "address": "0x4dfFe3ddc544AF5e76809e19fD16b28770181f38",
             "decimals": 18
         }
     ]
