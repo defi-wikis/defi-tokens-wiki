@@ -1,0 +1,9 @@
+{
+    "name": "Machi X",
+    "symbol": "MCX",
+    "address": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
