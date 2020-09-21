@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:42:55.799Z",
+    "timestamp": "2020-09-21T23:43:07.691Z",
     "version": {
         "major": 1,
-        "minor": 1624,
+        "minor": 1625,
         "patch": 0
     },
     "keywords": [
@@ -10769,6 +10769,14 @@
             "address": "0xF10d9664828e80EeA2F8bf139C3cC6041aE0cBA0",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xf10d9664828e80eea2f8bf139c3cc6041ae0cba0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoCricketClub",
+            "symbol": "3CS",
+            "address": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4f56221252d117f35e2f6ab937a3f77cad38934d/icon.png"
         }
     ]
 }
