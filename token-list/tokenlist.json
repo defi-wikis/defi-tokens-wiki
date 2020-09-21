@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:32:07.138Z",
+    "timestamp": "2020-09-21T22:32:19.337Z",
     "version": {
         "major": 1,
-        "minor": 1279,
+        "minor": 1280,
         "patch": 0
     },
     "keywords": [
@@ -8296,6 +8296,14 @@
             "address": "0x4AC00f287f36A6Aad655281fE1cA6798C9cb727b",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4ac00f287f36a6aad655281fe1ca6798c9cb727b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OFIN TOKEN",
+            "symbol": "ON",
+            "address": "0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822/icon.png"
         }
     ]
 }
