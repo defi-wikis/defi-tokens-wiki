@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:39:04.012Z",
+    "timestamp": "2020-09-21T22:39:16.742Z",
     "version": {
         "major": 1,
-        "minor": 1310,
+        "minor": 1311,
         "patch": 0
     },
     "keywords": [
@@ -8515,6 +8515,14 @@
             "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xac3211a5025414af2866ff09c23fc18bc97e79b1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Decentralized Machi",
+            "symbol": "DML",
+            "address": "0xbCdfE338D55c061C084D81fD793Ded00A27F226D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbcdfe338d55c061c084d81fd793ded00a27f226d/icon.png"
         }
     ]
 }
