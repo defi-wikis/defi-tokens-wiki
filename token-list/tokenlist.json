@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:28:39.317Z",
+    "timestamp": "2020-09-21T23:28:44.301Z",
     "version": {
         "major": 1,
-        "minor": 1550,
+        "minor": 1551,
         "patch": 0
     },
     "keywords": [
@@ -10221,6 +10221,14 @@
             "symbol": "YFIO",
             "address": "0x0A7C231BEFfa38660D46193eCC8FcB41f7c557aC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rarible",
+            "symbol": "RARI",
+            "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfca59cd816ab1ead66534d82bc21e7515ce441cf/icon.png"
         }
     ]
 }
