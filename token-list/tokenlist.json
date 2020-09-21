@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:33:45.709Z",
+    "timestamp": "2020-09-21T23:33:59.170Z",
     "version": {
         "major": 1,
-        "minor": 1578,
+        "minor": 1579,
         "patch": 0
     },
     "keywords": [
@@ -10430,6 +10430,14 @@
             "address": "0x7841B2A48D1F6e78ACeC359FEd6D874Eb8a0f63c",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x7841b2a48d1f6e78acec359fed6d874eb8a0f63c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Marblecoin",
+            "symbol": "MBC",
+            "address": "0x8888889213DD4dA823EbDD1e235b09590633C150",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8888889213dd4da823ebdd1e235b09590633c150/icon.png"
         }
     ]
 }
