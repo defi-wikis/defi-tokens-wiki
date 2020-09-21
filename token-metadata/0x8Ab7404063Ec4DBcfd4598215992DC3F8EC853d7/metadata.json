@@ -1,0 +1,9 @@
+{
+    "name": "Akropolis",
+    "symbol": "AKRO",
+    "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
