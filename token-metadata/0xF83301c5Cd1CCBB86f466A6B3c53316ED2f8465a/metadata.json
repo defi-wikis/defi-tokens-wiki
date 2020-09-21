@@ -1,0 +1,9 @@
+{
+    "name": "COMSA",
+    "symbol": "CMS",
+    "address": "0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a",
+    "decimals": 6,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
