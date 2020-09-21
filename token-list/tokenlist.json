@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:41:01.151Z",
+    "timestamp": "2020-09-21T22:41:14.102Z",
     "version": {
         "major": 1,
-        "minor": 1318,
+        "minor": 1319,
         "patch": 0
     },
     "keywords": [
@@ -8579,6 +8579,14 @@
             "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0f7f961648ae6db43c75663ac7e5414eb79b5704/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Apple Network",
+            "symbol": "ANK",
+            "address": "0x3C45B24359fB0E107a4eAA56Bd0F2cE66C99A0E5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5/icon.png"
         }
     ]
 }
