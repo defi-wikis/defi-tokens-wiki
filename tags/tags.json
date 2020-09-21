@@ -1,18 +1,15 @@
 {
     "stablecoin": {
         "name": "Stablecoin",
-        "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
-        "emoji": "💲"
+        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
     "yield-farming": {
         "name": "Yield Farming",
-        "description": "Tokens that are doled out as rewards for providing liquidity to protocols",
-        "emoji": "🌾"
+        "description": "Tokens that are doled out as rewards for providing liquidity to protocols"
     },
     "yfi-inspired": {
         "name": "YFI Inspired",
-        "description": "Tokens either associated with or inspired by the yEarn ecosystem.",
-        "emoji": "💡"
+        "description": "Tokens either associated with or inspired by the yEarn ecosystem."
     },
     "yield-tokens": {
         "name": "Yield-Bearing",
@@ -28,11 +25,11 @@
     },
     "amm": {
         "name": "Automated Market Maker",
-        "descriptions": "Tokens that govern on-chain automated market makers",
+        "descriptions": "Tokens that govern on-chain automated market makers"
     },
     "synthetics": {
         "name": "Synthetics",
-        "description": "Synthetic assets created to track the value of another asset",
+        "description": "Synthetic assets created to track the value of another asset"
     },
     "token-sets": {
         "name": "TokenSets",
@@ -40,20 +37,19 @@
     },
     "options": {
         "name": "Options",
-        "description": "Tokens that trustlessly recreate decentralized options contracts on other assets",
+        "description": "Tokens that trustlessly recreate decentralized options contracts on other assets"
     },
     "a16z": {
         "name": "A16Z",
-        "description": "Tokens backed by Andreesen-Horrowitz",
+        "description": "Tokens backed by Andreesen-Horrowitz"
     },
     "paradigm": {
         "name": "Paradigm",
-        "description": "Tokens backed by Paradigm",
+        "description": "Tokens backed by Paradigm"
     },
     "polychain": {
         "name": "Polychain",
-        "description": "Tokens backed by Polychain",
-        "emoji": "⛓️"
+        "description": "Tokens backed by Polychain"
     },
     "oracle": {
         "name": "Oracles",
