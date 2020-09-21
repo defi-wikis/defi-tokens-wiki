@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:19:29.446Z",
+    "timestamp": "2020-09-21T22:19:38.372Z",
     "version": {
         "major": 1,
-        "minor": 1215,
+        "minor": 1216,
         "patch": 0
     },
     "keywords": [
@@ -1275,7 +1275,7 @@
         },
         {
             "chainId": 1,
-            "name": "yieldfarming.insure",
+            "name": "yieldfarming insure",
             "symbol": "SAFE",
             "address": "0x1Aa61c196E76805fcBe394eA00e4fFCEd24FC469",
             "decimals": 18
