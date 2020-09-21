@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:34:37.541Z",
+    "timestamp": "2020-09-21T19:34:54.513Z",
     "version": {
         "major": 1,
-        "minor": 1073,
+        "minor": 1074,
         "patch": 0
     },
     "keywords": [
@@ -7011,6 +7011,13 @@
             "name": "Falconswap",
             "symbol": "FSW",
             "address": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Quadrant Protocol",
+            "symbol": "EQUAD",
+            "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
             "decimals": 18
         }
     ]
