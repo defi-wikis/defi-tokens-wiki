@@ -3,7 +3,5 @@
     "symbol": "VGTN",
     "address": "0xB52FC0F17Df38ad76F290467Aab57caBaEEada14",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
