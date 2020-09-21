@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:05:14.254Z",
+    "timestamp": "2020-09-21T22:05:26.447Z",
     "version": {
         "major": 1,
-        "minor": 1143,
+        "minor": 1144,
         "patch": 0
     },
     "keywords": [
@@ -7393,6 +7393,13 @@
             "address": "0x20AE0cA9D42e6Ffeb1188F341A7D63450452dEF6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x20ae0ca9d42e6ffeb1188f341a7d63450452def6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Gather",
+            "symbol": "GTH",
+            "address": "0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
+            "decimals": 18
         }
     ]
 }
