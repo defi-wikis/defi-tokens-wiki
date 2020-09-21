@@ -1,0 +1,9 @@
+{
+    "name": "Ink Protocol",
+    "symbol": "XNK",
+    "address": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
