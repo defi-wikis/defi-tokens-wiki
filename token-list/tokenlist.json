@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:09:29.854Z",
+    "timestamp": "2020-09-21T23:09:37.651Z",
     "version": {
         "major": 1,
-        "minor": 1454,
+        "minor": 1455,
         "patch": 0
     },
     "keywords": [
@@ -9519,6 +9519,14 @@
             "symbol": "DontBuyFour",
             "address": "0xAE9c2Ac39a77F5656d61Fde580ed69af5ADD4faa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vidya",
+            "symbol": "VIDYA",
+            "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30/icon.png"
         }
     ]
 }
