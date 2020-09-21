@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:16:00.281Z",
+    "timestamp": "2020-09-21T23:16:14.196Z",
     "version": {
         "major": 1,
-        "minor": 1486,
+        "minor": 1487,
         "patch": 0
     },
     "keywords": [
@@ -9759,6 +9759,14 @@
             "symbol": "YFFS",
             "address": "0x90D702f071d2af33032943137AD0aB4280705817",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zeedex",
+            "symbol": "ZDEX",
+            "address": "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5150956e082c748ca837a5dfa0a7c10ca4697f9c/icon.png"
         }
     ]
 }
