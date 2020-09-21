@@ -1,0 +1,9 @@
+{
+    "name": "Sentivate",
+    "symbol": "SNTVT",
+    "address": "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
