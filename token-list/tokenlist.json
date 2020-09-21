@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:27:11.474Z",
+    "timestamp": "2020-09-21T23:27:27.325Z",
     "version": {
         "major": 1,
-        "minor": 1543,
+        "minor": 1544,
         "patch": 0
     },
     "keywords": [
@@ -10166,6 +10166,14 @@
             "address": "0xFE2786D7D1cCAb8B015f6Ef7392F67d778f8d8D7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xfe2786d7d1ccab8b015f6ef7392f67d778f8d8d7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoFranc",
+            "symbol": "XCHF",
+            "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb4272071ecadd69d933adcd19ca99fe80664fc08/icon.png"
         }
     ]
 }
