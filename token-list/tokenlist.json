@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:09:02.151Z",
+    "timestamp": "2020-09-21T23:09:12.474Z",
     "version": {
         "major": 1,
-        "minor": 1451,
+        "minor": 1452,
         "patch": 0
     },
     "keywords": [
@@ -9496,6 +9496,13 @@
             "name": "Squirrel Finance",
             "symbol": "NUTS",
             "address": "0x84294FC9710e1252d407d3D80A84bC39001bd4A8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LINK ETH RSI Ratio ",
+            "symbol": "LINKETHRSI",
+            "address": "0x8933ea1Ce67B946BdF2436cE860fFBb53Ce814d2",
             "decimals": 18
         }
     ]
