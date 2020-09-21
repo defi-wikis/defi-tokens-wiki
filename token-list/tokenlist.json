@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:51:38.356Z",
+    "timestamp": "2020-09-21T22:51:51.312Z",
     "version": {
         "major": 1,
-        "minor": 1370,
+        "minor": 1371,
         "patch": 0
     },
     "keywords": [
@@ -8937,6 +8937,14 @@
             "symbol": "COW",
             "address": "0xf0be50ED0620E0Ba60CA7FC968eD14762e0A5Dd3",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Statera",
+            "symbol": "STA",
+            "address": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa7de087329bfcda5639247f96140f9dabe3deed1/icon.png"
         }
     ]
 }
