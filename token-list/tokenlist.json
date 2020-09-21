@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:03:30.471Z",
+    "timestamp": "2020-09-21T22:03:39.562Z",
     "version": {
         "major": 1,
-        "minor": 1134,
+        "minor": 1135,
         "patch": 0
     },
     "keywords": [
@@ -7332,6 +7332,13 @@
             "address": "0x5b5bB9765eff8D26c24B9FF0DAa09838a3Cd78E9",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x5b5bb9765eff8d26c24b9ff0daa09838a3cd78e9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFARM Token",
+            "symbol": "YFARM",
+            "address": "0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1",
+            "decimals": 18
         }
     ]
 }
