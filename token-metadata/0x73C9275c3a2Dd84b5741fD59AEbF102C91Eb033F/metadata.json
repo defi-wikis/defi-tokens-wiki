@@ -3,7 +3,5 @@
     "symbol": "BTRS",
     "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
