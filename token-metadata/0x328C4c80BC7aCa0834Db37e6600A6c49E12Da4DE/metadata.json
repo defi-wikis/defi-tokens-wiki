@@ -3,7 +3,5 @@
     "symbol": "ASNX",
     "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
