@@ -3,7 +3,5 @@
     "symbol": "PUX",
     "address": "0xE277aC35F9D327A670c1A3F3eeC80a83022431e4",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
