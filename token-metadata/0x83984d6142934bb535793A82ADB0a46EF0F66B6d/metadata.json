@@ -3,7 +3,5 @@
     "symbol": "REM",
     "address": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
