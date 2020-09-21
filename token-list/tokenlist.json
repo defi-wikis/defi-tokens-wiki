@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:09:59.442Z",
+    "timestamp": "2020-09-21T23:10:14.472Z",
     "version": {
         "major": 1,
-        "minor": 1457,
+        "minor": 1458,
         "patch": 0
     },
     "keywords": [
@@ -9542,6 +9542,14 @@
             "symbol": "DOTX",
             "address": "0xFAb5a05C933f1A2463E334E011992E897D56eF0a",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dether",
+            "symbol": "DTH",
+            "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190/icon.png"
         }
     ]
 }
