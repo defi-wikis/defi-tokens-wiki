@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:27:40.980Z",
+    "timestamp": "2020-09-21T22:27:52.598Z",
     "version": {
         "major": 1,
-        "minor": 1258,
+        "minor": 1259,
         "patch": 0
     },
     "keywords": [
@@ -8136,6 +8136,14 @@
             "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
             "decimals": 2,
             "logoURI": "https://tokens.dharma.io/assets/0x467bccd9d29f223bce8043b84e8c8b282827790f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OriginTrail",
+            "symbol": "TRAC",
+            "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f/icon.png"
         }
     ]
 }
