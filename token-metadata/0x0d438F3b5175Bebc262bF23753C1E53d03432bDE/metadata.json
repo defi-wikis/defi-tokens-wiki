@@ -1,0 +1,9 @@
+{
+    "name": "Wrapped NXM",
+    "symbol": "WNXM",
+    "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
