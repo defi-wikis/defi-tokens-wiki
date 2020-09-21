@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T10:51:59.372Z",
+    "timestamp": "2020-09-21T10:58:44.268Z",
     "version": {
         "major": 1,
-        "minor": 1020,
+        "minor": 1021,
         "patch": 0
     },
     "keywords": [
@@ -6646,6 +6646,13 @@
             "name": "Wane Finance",
             "symbol": "WANE",
             "address": "0x5267A148a6b0b7b0A41F2db9894DB6c7c208E71E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped MovieBloc",
+            "symbol": "WMBL",
+            "address": "0x1165F761a16C3d07270775b793d202075e5BE14d",
             "decimals": 18
         }
     ]
