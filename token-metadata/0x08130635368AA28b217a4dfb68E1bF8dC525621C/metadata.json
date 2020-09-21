@@ -3,7 +3,5 @@
     "symbol": "AFROX",
     "address": "0x08130635368AA28b217a4dfb68E1bF8dC525621C",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
