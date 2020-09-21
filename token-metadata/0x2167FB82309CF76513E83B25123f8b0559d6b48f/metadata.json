@@ -1,0 +1,9 @@
+{
+    "name": "CoinLion",
+    "symbol": "LION",
+    "address": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
