@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:46:34.980Z",
+    "timestamp": "2020-09-21T22:46:47.457Z",
     "version": {
         "major": 1,
-        "minor": 1345,
+        "minor": 1346,
         "patch": 0
     },
     "keywords": [
@@ -8760,6 +8760,14 @@
             "address": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x2167fb82309cf76513e83b25123f8b0559d6b48f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "JustLiquidity",
+            "symbol": "JUL",
+            "address": "0x5580ab97F226C324c671746a1787524AEF42E415",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5580ab97f226c324c671746a1787524aef42e415/icon.png"
         }
     ]
 }
