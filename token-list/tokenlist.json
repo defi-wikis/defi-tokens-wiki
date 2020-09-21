@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:40:08.270Z",
+    "timestamp": "2020-09-21T22:40:21.374Z",
     "version": {
         "major": 1,
-        "minor": 1314,
+        "minor": 1315,
         "patch": 0
     },
     "keywords": [
@@ -8547,6 +8547,14 @@
             "address": "0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "mStable USD",
+            "symbol": "MUSD",
+            "address": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe2f2a5c287993345a840db3b0845fbc70f5935a5/icon.png"
         }
     ]
 }
