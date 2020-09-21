@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:12:05.321Z",
+    "timestamp": "2020-09-21T23:12:28.936Z",
     "version": {
         "major": 1,
-        "minor": 1467,
+        "minor": 1468,
         "patch": 0
     },
     "keywords": [
@@ -9620,6 +9620,14 @@
             "address": "0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x68aa3f232da9bdc2343465545794ef3eea5209bd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SakeToken",
+            "symbol": "SAKE",
+            "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x066798d9ef0833ccc719076dab77199ecbd178b0/icon.png"
         }
     ]
 }
