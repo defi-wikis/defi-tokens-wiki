@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:41:14.102Z",
+    "timestamp": "2020-09-21T22:41:24.653Z",
     "version": {
         "major": 1,
-        "minor": 1319,
+        "minor": 1320,
         "patch": 0
     },
     "keywords": [
@@ -8587,6 +8587,13 @@
             "address": "0x3C45B24359fB0E107a4eAA56Bd0F2cE66C99A0E5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3c45b24359fb0e107a4eaa56bd0f2ce66c99a0e5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Minds",
+            "symbol": "MINDS",
+            "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
+            "decimals": 18
         }
     ]
 }
