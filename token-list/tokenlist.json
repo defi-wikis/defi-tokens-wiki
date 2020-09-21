@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T10:49:29.548Z",
+    "timestamp": "2020-09-21T10:51:59.372Z",
     "version": {
         "major": 1,
-        "minor": 1019,
+        "minor": 1020,
         "patch": 0
     },
     "keywords": [
@@ -6639,6 +6639,13 @@
             "name": "Duckly.Finance EGG",
             "symbol": "EGG",
             "address": "0x5d6Ea3aD243647A37Ec812e9aA37f90e9b998BDa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wane Finance",
+            "symbol": "WANE",
+            "address": "0x5267A148a6b0b7b0A41F2db9894DB6c7c208E71E",
             "decimals": 18
         }
     ]
