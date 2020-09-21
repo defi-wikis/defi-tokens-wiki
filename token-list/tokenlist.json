@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:54:36.874Z",
+    "timestamp": "2020-09-21T22:54:48.390Z",
     "version": {
         "major": 1,
-        "minor": 1384,
+        "minor": 1385,
         "patch": 0
     },
     "keywords": [
@@ -9016,6 +9016,13 @@
             "symbol": "0XMR",
             "address": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BPOP",
+            "symbol": "BPOP",
+            "address": "0x0452aeD878805514e28Fb5BD0B56Bef92176E32A",
+            "decimals": 8
         }
     ]
 }
