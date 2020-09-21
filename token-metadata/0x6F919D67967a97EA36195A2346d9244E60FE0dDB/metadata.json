@@ -1,0 +1,9 @@
+{
+    "name": "Blockcloud",
+    "symbol": "BLOC",
+    "address": "0x6F919D67967a97EA36195A2346d9244E60FE0dDB",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
