@@ -1,0 +1,9 @@
+{
+    "name": "Chimera",
+    "symbol": "CMRA",
+    "address": "0x37737ad7E32ED440c312910CFc4A2e4D52867Caf",
+    "decimals": 3,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
