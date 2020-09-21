@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:04:49.386Z",
+    "timestamp": "2020-09-21T23:05:01.774Z",
     "version": {
         "major": 1,
-        "minor": 1431,
+        "minor": 1432,
         "patch": 0
     },
     "keywords": [
@@ -9365,6 +9365,14 @@
             "symbol": "1MT",
             "address": "0xf0Bc1ae4eF7ffb126A8347D06Ac6f8AdD770e1CE",
             "decimals": 7
+        },
+        {
+            "chainId": 1,
+            "name": "Huobi Token",
+            "symbol": "HT",
+            "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6f259637dcd74c767781e37bc6133cd6a68aa161/icon.png"
         }
     ]
 }
