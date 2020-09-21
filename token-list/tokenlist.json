@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:45:47.378Z",
+    "timestamp": "2020-09-21T22:45:56.950Z",
     "version": {
         "major": 1,
-        "minor": 1341,
+        "minor": 1342,
         "patch": 0
     },
     "keywords": [
@@ -8728,6 +8728,13 @@
             "name": "Render Token",
             "symbol": "RNDR",
             "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BaconSwap",
+            "symbol": "BACON",
+            "address": "0x175Ab41E2CEDF3919B2e4426C19851223CF51046",
             "decimals": 18
         }
     ]
