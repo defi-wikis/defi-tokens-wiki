@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:12:01.882Z",
+    "timestamp": "2020-09-21T22:12:12.093Z",
     "version": {
         "major": 1,
-        "minor": 1176,
+        "minor": 1177,
         "patch": 0
     },
     "keywords": [
@@ -7609,6 +7609,13 @@
             "address": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcc80c051057b774cd75067dc48f8987c4eb97a5e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Amun Ether 3x Daily",
+            "symbol": "ETH3L",
+            "address": "0x239B0Fa917d85c21cf6435464C2c6aa3D45f6720",
+            "decimals": 18
         }
     ]
 }
