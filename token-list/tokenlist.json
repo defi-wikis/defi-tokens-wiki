@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:26:46.872Z",
+    "timestamp": "2020-09-21T23:26:58.587Z",
     "version": {
         "major": 1,
-        "minor": 1541,
+        "minor": 1542,
         "patch": 0
     },
     "keywords": [
@@ -10150,6 +10150,14 @@
             "symbol": "FCN",
             "address": "0x051aAB38D46f6ebB551752831C7280b2b42164Db",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DSLA Protocol",
+            "symbol": "DSLA",
+            "address": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe/icon.png"
         }
     ]
 }
