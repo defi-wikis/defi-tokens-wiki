@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:28:17.462Z",
+    "timestamp": "2020-09-21T22:28:28.890Z",
     "version": {
         "major": 1,
-        "minor": 1261,
+        "minor": 1262,
         "patch": 0
     },
     "keywords": [
@@ -8160,6 +8160,14 @@
             "address": "0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xbca3c97837a39099ec3082df97e28ce91be14472/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "pTokens BTC",
+            "symbol": "PBTC",
+            "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5228a22e72ccc52d415ecfd199f99d0665e7733b/icon.png"
         }
     ]
 }
