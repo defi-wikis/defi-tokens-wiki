@@ -3,7 +3,5 @@
     "symbol": "DGX",
     "address": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
