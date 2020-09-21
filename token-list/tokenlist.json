@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:27:27.325Z",
+    "timestamp": "2020-09-21T23:27:40.158Z",
     "version": {
         "major": 1,
-        "minor": 1544,
+        "minor": 1545,
         "patch": 0
     },
     "keywords": [
@@ -10174,6 +10174,14 @@
             "address": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb4272071ecadd69d933adcd19ca99fe80664fc08/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bitball",
+            "symbol": "BTB",
+            "address": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x06e0feb0d74106c7ada8497754074d222ec6bcdf/icon.png"
         }
     ]
 }
