@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T17:57:34.759Z",
+    "timestamp": "2020-09-21T18:03:14.604Z",
     "version": {
         "major": 1,
-        "minor": 1057,
+        "minor": 1058,
         "patch": 0
     },
     "keywords": [
@@ -6905,6 +6905,13 @@
             "name": "Capital Finance",
             "symbol": "CFIN",
             "address": "0xD45eD8c0aEbF63B7b003AfE591F45429843cf636",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Only100Tokens",
+            "symbol": "ONLY100",
+            "address": "0x49f3e3b51Ec614da1f620100605B00972D66748d",
             "decimals": 18
         }
     ]
