@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:46:47.457Z",
+    "timestamp": "2020-09-21T22:46:59.489Z",
     "version": {
         "major": 1,
-        "minor": 1346,
+        "minor": 1347,
         "patch": 0
     },
     "keywords": [
@@ -8768,6 +8768,14 @@
             "address": "0x5580ab97F226C324c671746a1787524AEF42E415",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5580ab97f226c324c671746a1787524aef42e415/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Fuse Network Token",
+            "symbol": "FUSE",
+            "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d/icon.png"
         }
     ]
 }
