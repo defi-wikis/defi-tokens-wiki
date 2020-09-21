@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:43:45.739Z",
+    "timestamp": "2020-09-21T23:43:57.817Z",
     "version": {
         "major": 1,
-        "minor": 1628,
+        "minor": 1629,
         "patch": 0
     },
     "keywords": [
@@ -10800,6 +10800,14 @@
             "symbol": "YBREE",
             "address": "0x11F4C6B3E8F50c50935c7889EDc56C96F41B5399",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cryptopay",
+            "symbol": "CPAY",
+            "address": "0x0Ebb614204E47c09B6C3FeB9AAeCad8EE060E23E",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e/icon.png"
         }
     ]
 }
