@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:25:27.028Z",
+    "timestamp": "2020-09-21T22:25:38.531Z",
     "version": {
         "major": 1,
-        "minor": 1246,
+        "minor": 1247,
         "patch": 0
     },
     "keywords": [
@@ -8044,6 +8044,14 @@
             "symbol": "EBASE",
             "address": "0xa689DCEA8f7ad59fb213be4bc624ba5500458dC6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chain Games",
+            "symbol": "CHAIN",
+            "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc4c2614e694cf534d407ee49f8e44d125e4681c4/icon.png"
         }
     ]
 }
