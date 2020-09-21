@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:15:06.295Z",
+    "timestamp": "2020-09-21T23:15:17.795Z",
     "version": {
         "major": 1,
-        "minor": 1481,
+        "minor": 1482,
         "patch": 0
     },
     "keywords": [
@@ -9728,6 +9728,14 @@
             "symbol": "YAM",
             "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Matic Network",
+            "symbol": "MATIC",
+            "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0/icon.png"
         }
     ]
 }
