@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:10:13.769Z",
+    "timestamp": "2020-09-21T22:10:25.972Z",
     "version": {
         "major": 1,
-        "minor": 1167,
+        "minor": 1168,
         "patch": 0
     },
     "keywords": [
@@ -7554,6 +7554,14 @@
             "address": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa960d2ba7000d58773e7fa5754dec3bb40a069d5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DIA",
+            "symbol": "DIA",
+            "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419/icon.png"
         }
     ]
 }
