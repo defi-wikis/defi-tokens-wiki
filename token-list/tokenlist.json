@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:38:37.471Z",
+    "timestamp": "2020-09-21T22:38:51.280Z",
     "version": {
         "major": 1,
-        "minor": 1308,
+        "minor": 1309,
         "patch": 0
     },
     "keywords": [
@@ -8499,6 +8499,14 @@
             "address": "0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "OXY",
+            "symbol": "OXY",
+            "address": "0xD83A162d4808c370A1445646e64CC4861eB60b92",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xd83a162d4808c370a1445646e64cc4861eb60b92/icon.png"
         }
     ]
 }
