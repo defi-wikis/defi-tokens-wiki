@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:22:52.280Z",
+    "timestamp": "2020-09-21T23:23:06.020Z",
     "version": {
         "major": 1,
-        "minor": 1521,
+        "minor": 1522,
         "patch": 0
     },
     "keywords": [
@@ -10012,6 +10012,14 @@
             "address": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ULLU",
+            "symbol": "ULLU",
+            "address": "0x5313E18463Cf2F4b68b392a5b11f94dE5528D01d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5313e18463cf2f4b68b392a5b11f94de5528d01d/icon.png"
         }
     ]
 }
