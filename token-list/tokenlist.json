@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:06:29.477Z",
+    "timestamp": "2020-09-21T22:06:42.105Z",
     "version": {
         "major": 1,
-        "minor": 1149,
+        "minor": 1150,
         "patch": 0
     },
     "keywords": [
@@ -7438,6 +7438,14 @@
             "address": "0xC0134b5B924c2FCA106eFB33C45446c466FBe03e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc0134b5b924c2fca106efb33c45446c466fbe03e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "VEDX TOKEN",
+            "symbol": "VEDX",
+            "address": "0xd64904232b4674c24fA59170D12fC7df20f5880e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd64904232b4674c24fa59170d12fc7df20f5880e/icon.png"
         }
     ]
 }
