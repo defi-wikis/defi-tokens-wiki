@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:14:56.929Z",
+    "timestamp": "2020-09-21T21:15:13.002Z",
     "version": {
         "major": 1,
-        "minor": 1104,
+        "minor": 1105,
         "patch": 0
     },
     "keywords": [
@@ -7125,6 +7125,14 @@
             "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0xd46ba6d942050d489dbd938a2c909a5d5039a161/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Iconic Token",
+            "symbol": "ICNQ",
+            "address": "0xB3e2Cb7CccfE139f8FF84013823Bf22dA6B6390A",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a/icon.png"
         }
     ]
 }
