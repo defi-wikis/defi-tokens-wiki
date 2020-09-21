@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:10:47.241Z",
+    "timestamp": "2020-09-21T23:11:02.543Z",
     "version": {
         "major": 1,
-        "minor": 1461,
+        "minor": 1462,
         "patch": 0
     },
     "keywords": [
@@ -9572,6 +9572,14 @@
             "symbol": "SOLARITE",
             "address": "0x930eD81ad809603baf727117385D01f04354612E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitcoinSoV",
+            "symbol": "BSOV",
+            "address": "0x26946adA5eCb57f3A1F91605050Ce45c482C9Eb1",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x26946ada5ecb57f3a1f91605050ce45c482c9eb1/icon.png"
         }
     ]
 }
