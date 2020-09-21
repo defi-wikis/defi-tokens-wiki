@@ -1,0 +1,9 @@
+{
+    "name": "Seigniorage Shares",
+    "symbol": "SHARE",
+    "address": "0x6B583Cf4abA7Bf9d6f8A51B3F1F7C7B2ce59Bf15",
+    "decimals": 9,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
