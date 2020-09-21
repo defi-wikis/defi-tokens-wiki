@@ -1,0 +1,9 @@
+{
+    "name": "Golden Ratio Token",
+    "symbol": "GRT",
+    "address": "0xb83Cd8d39462B761bb0092437d38b37812dd80A2",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
