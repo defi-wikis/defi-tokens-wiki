@@ -3,7 +3,5 @@
     "symbol": "MWT",
     "address": "0x82A6A22d68fFba4057d5b49F93dE5C05e4416bd1",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
