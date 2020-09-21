@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:37:42.847Z",
+    "timestamp": "2020-09-21T22:37:59.040Z",
     "version": {
         "major": 1,
-        "minor": 1304,
+        "minor": 1305,
         "patch": 0
     },
     "keywords": [
@@ -8468,6 +8468,14 @@
             "symbol": "SASHIMI",
             "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HEROcoin",
+            "symbol": "PLAY",
+            "address": "0xE477292f1B3268687A29376116B0ED27A9c76170",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe477292f1b3268687a29376116b0ed27a9c76170/icon.png"
         }
     ]
 }
