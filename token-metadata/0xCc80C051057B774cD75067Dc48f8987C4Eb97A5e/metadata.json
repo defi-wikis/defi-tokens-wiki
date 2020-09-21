@@ -1,0 +1,9 @@
+{
+    "name": "Nectar Token",
+    "symbol": "NEC",
+    "address": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
