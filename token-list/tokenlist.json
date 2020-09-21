@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:52:54.645Z",
+    "timestamp": "2020-09-21T23:53:04.434Z",
     "version": {
         "major": 1,
-        "minor": 1671,
+        "minor": 1672,
         "patch": 0
     },
     "keywords": [
@@ -11123,6 +11123,13 @@
             "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xbe9375c6a420d2eeb258962efb95551a5b722803/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ynef Coin",
+            "symbol": "YNEF",
+            "address": "0x1DaE0680f6b8059C8945DE6A8a93009e054417b4",
+            "decimals": 18
         }
     ]
 }
