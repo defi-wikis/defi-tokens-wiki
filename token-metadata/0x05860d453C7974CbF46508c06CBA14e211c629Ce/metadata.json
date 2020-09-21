@@ -3,7 +3,5 @@
     "symbol": "EDN",
     "address": "0x05860d453C7974CbF46508c06CBA14e211c629Ce",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
