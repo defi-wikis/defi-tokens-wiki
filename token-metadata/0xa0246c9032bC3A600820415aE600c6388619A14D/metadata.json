@@ -1,0 +1,9 @@
+{
+    "name": "Harvest Finance",
+    "symbol": "FARM",
+    "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
