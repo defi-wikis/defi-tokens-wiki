@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:14:28.450Z",
+    "timestamp": "2020-09-21T23:14:41.409Z",
     "version": {
         "major": 1,
-        "minor": 1478,
+        "minor": 1479,
         "patch": 0
     },
     "keywords": [
@@ -9705,6 +9705,14 @@
             "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc770eefad204b5180df6a14ee197d99d808ee52d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "renBCH",
+            "symbol": "RENBCH",
+            "address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x459086f2376525bdceba5bdda135e4e9d3fef5bf/icon.png"
         }
     ]
 }
