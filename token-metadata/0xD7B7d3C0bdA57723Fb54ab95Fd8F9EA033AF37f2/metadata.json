@@ -1,0 +1,9 @@
+{
+    "name": "Pylon Finance",
+    "symbol": "PYLON",
+    "address": "0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
