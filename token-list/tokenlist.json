@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:54:26.066Z",
+    "timestamp": "2020-09-21T23:54:37.656Z",
     "version": {
         "major": 1,
-        "minor": 1680,
+        "minor": 1681,
         "patch": 0
     },
     "keywords": [
@@ -11182,6 +11182,14 @@
             "address": "0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb2cf3a438acf46275839a38db7594065f64151d3/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "ZelaaPayAE",
+            "symbol": "ZPAE",
+            "address": "0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x045eb7e34e94b28c7a3641bc5e1a1f61f225af9f/icon.png"
         }
     ]
 }
