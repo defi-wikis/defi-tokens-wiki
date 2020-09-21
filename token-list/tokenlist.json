@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T16:43:44.739Z",
+    "timestamp": "2020-09-21T16:56:39.541Z",
     "version": {
         "major": 1,
-        "minor": 1046,
+        "minor": 1047,
         "patch": 0
     },
     "keywords": [
@@ -6828,6 +6828,13 @@
             "name": "StaFI",
             "symbol": "FIS",
             "address": "0x43FA5834b4e87aB2417a798048D84Dd1C9CE62da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Democrat 2020",
+            "symbol": "DEM20",
+            "address": "0x000387483308752EE8a478D1939002aa6DA18461",
             "decimals": 18
         }
     ]
