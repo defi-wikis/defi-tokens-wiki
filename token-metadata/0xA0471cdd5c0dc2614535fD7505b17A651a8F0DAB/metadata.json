@@ -1,0 +1,9 @@
+{
+    "name": "EasySwap",
+    "symbol": "ESWA",
+    "address": "0xA0471cdd5c0dc2614535fD7505b17A651a8F0DAB",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
