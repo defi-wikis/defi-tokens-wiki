@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:23:27.937Z",
+    "timestamp": "2020-09-21T23:23:36.802Z",
     "version": {
         "major": 1,
-        "minor": 1524,
+        "minor": 1525,
         "patch": 0
     },
     "keywords": [
@@ -10035,6 +10035,13 @@
             "address": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "VINYL RECORDS TOKEN",
+            "symbol": "VRTN",
+            "address": "0x24e96809B4E720Ea911bc3De8341400E26d6E994",
+            "decimals": 18
         }
     ]
 }
