@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:57:18.774Z",
+    "timestamp": "2020-09-21T23:57:30.656Z",
     "version": {
         "major": 1,
-        "minor": 1695,
+        "minor": 1696,
         "patch": 0
     },
     "keywords": [
@@ -11298,6 +11298,14 @@
             "address": "0xF4edA77f0B455A12f3eb44F8653835f377e36b76",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0xf4eda77f0b455a12f3eb44f8653835f377e36b76/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Jurasaur",
+            "symbol": "JREX",
+            "address": "0x638155F4BD8F85d401Da32498D8866eE39A150B8",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x638155f4bd8f85d401da32498d8866ee39a150b8/icon.png"
         }
     ]
 }
