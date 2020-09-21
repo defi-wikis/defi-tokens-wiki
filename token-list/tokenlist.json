@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:58:33.959Z",
+    "timestamp": "2020-09-21T23:58:47.013Z",
     "version": {
         "major": 1,
-        "minor": 1702,
+        "minor": 1703,
         "patch": 0
     },
     "keywords": [
@@ -11351,6 +11351,14 @@
             "address": "0xD9A947789974bAD9BE77E45C2b327174A9c59D71",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd9a947789974bad9be77e45c2b327174a9c59d71/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "bDAI",
+            "symbol": "BDAI",
+            "address": "0x6a4FFAafa8DD400676Df8076AD6c724867b0e2e8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6a4ffaafa8dd400676df8076ad6c724867b0e2e8/icon.png"
         }
     ]
 }
