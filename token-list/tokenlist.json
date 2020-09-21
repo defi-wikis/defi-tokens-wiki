@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:05:00.657Z",
+    "timestamp": "2020-09-21T22:05:14.254Z",
     "version": {
         "major": 1,
-        "minor": 1142,
+        "minor": 1143,
         "patch": 0
     },
     "keywords": [
@@ -7385,6 +7385,14 @@
             "address": "0x4eCB692B0fEDeCD7B486b4c99044392784877E8C",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x4ecb692b0fedecd7b486b4c99044392784877e8c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CIPHER",
+            "symbol": "CPR",
+            "address": "0x20AE0cA9D42e6Ffeb1188F341A7D63450452dEF6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x20ae0ca9d42e6ffeb1188f341a7d63450452def6/icon.png"
         }
     ]
 }
