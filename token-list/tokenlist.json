@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:32:43.916Z",
+    "timestamp": "2020-09-21T22:32:57.219Z",
     "version": {
         "major": 1,
-        "minor": 1282,
+        "minor": 1283,
         "patch": 0
     },
     "keywords": [
@@ -8319,6 +8319,14 @@
             "address": "0x9235bDA06B8807161b8FBB1e102CB654555b212F",
             "decimals": 3,
             "logoURI": "https://tokens.dharma.io/assets/0x9235bda06b8807161b8fbb1e102cb654555b212f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DMme",
+            "symbol": "DMME",
+            "address": "0x9556f8ee795D991fF371F547162D5efB2769425F",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9556f8ee795d991ff371f547162d5efb2769425f/icon.png"
         }
     ]
 }
