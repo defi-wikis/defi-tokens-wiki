@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:52:43.299Z",
+    "timestamp": "2020-09-21T23:52:54.645Z",
     "version": {
         "major": 1,
-        "minor": 1670,
+        "minor": 1671,
         "patch": 0
     },
     "keywords": [
@@ -11115,6 +11115,14 @@
             "address": "0x51BC0DeaF7bBE82bC9006b0c3531668a4206D27F",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x51bc0deaf7bbe82bc9006b0c3531668a4206d27f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "StormX",
+            "symbol": "STMX",
+            "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbe9375c6a420d2eeb258962efb95551a5b722803/icon.png"
         }
     ]
 }
