@@ -1,0 +1,9 @@
+{
+    "name": "Bitanium",
+    "symbol": "BI",
+    "address": "0x5b5bB9765eff8D26c24B9FF0DAa09838a3Cd78E9",
+    "decimals": 4,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
