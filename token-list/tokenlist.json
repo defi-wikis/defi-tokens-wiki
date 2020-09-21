@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:50:23.250Z",
+    "timestamp": "2020-09-21T23:50:32.877Z",
     "version": {
         "major": 1,
-        "minor": 1659,
+        "minor": 1660,
         "patch": 0
     },
     "keywords": [
@@ -11038,6 +11038,13 @@
             "address": "0x608f006B6813f97097372d0d31Fb0F11d1CA3E4e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x608f006b6813f97097372d0d31fb0f11d1ca3e4e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Good Boy Points",
+            "symbol": "GBP",
+            "address": "0x0cf58006B2400ebec3eB8C05b73170138a340563",
+            "decimals": 18
         }
     ]
 }
