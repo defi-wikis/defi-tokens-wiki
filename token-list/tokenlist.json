@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T07:15:54.558Z",
+    "timestamp": "2020-09-21T07:29:59.232Z",
     "version": {
         "major": 1,
-        "minor": 1003,
+        "minor": 1004,
         "patch": 0
     },
     "keywords": [
@@ -6528,6 +6528,13 @@
             "symbol": "XSGD",
             "address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "power.trade",
+            "symbol": "PTF",
+            "address": "0x5dd4D19FcdF35d7619A1A67420095749e7ff2d83",
+            "decimals": 18
         }
     ]
 }
