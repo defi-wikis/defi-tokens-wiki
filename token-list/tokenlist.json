@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:04:11.334Z",
+    "timestamp": "2020-09-21T22:04:24.866Z",
     "version": {
         "major": 1,
-        "minor": 1138,
+        "minor": 1139,
         "patch": 0
     },
     "keywords": [
@@ -7362,6 +7362,14 @@
             "address": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
             "decimals": 3,
             "logoURI": "https://tokens.dharma.io/assets/0x31024a4c3e9aeeb256b825790f5cb7ac645e7cd5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Proton",
+            "symbol": "XPR",
+            "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xd7efb00d12c2c13131fd319336fdf952525da2af/icon.png"
         }
     ]
 }
