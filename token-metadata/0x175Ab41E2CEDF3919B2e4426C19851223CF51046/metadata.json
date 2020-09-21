@@ -1,0 +1,9 @@
+{
+    "name": "BaconSwap",
+    "symbol": "BACON",
+    "address": "0x175Ab41E2CEDF3919B2e4426C19851223CF51046",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
