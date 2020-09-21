@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:34:25.879Z",
+    "timestamp": "2020-09-21T22:34:35.265Z",
     "version": {
         "major": 1,
-        "minor": 1290,
+        "minor": 1291,
         "patch": 0
     },
     "keywords": [
@@ -8367,6 +8367,13 @@
             "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6c6ee5e31d828de241282b9606c8e98ea48526e2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "NFT Protocol",
+            "symbol": "NFT",
+            "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+            "decimals": 18
         }
     ]
 }
