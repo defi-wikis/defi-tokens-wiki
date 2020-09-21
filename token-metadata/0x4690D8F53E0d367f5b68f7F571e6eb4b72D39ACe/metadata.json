@@ -1,7 +1,9 @@
 {
-    "name": "WinPlay Token",
+    "name": "WinPlay",
     "symbol": "WNRZ",
     "address": "0x4690D8F53E0d367f5b68f7F571e6eb4b72D39ACe",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
