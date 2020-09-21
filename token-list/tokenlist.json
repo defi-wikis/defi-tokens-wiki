@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:03:24.816Z",
+    "timestamp": "2020-09-21T06:07:45.158Z",
     "version": {
         "major": 1,
-        "minor": 989,
+        "minor": 990,
         "patch": 0
     },
     "keywords": [
@@ -6429,6 +6429,13 @@
             "name": "OPES Finance",
             "symbol": "wPE",
             "address": "0xd075e95423C5c4BA1E122CaE0f4CdFA19b82881b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UnFederalReserveToken",
+            "symbol": "eRSDL",
+            "address": "0x01Ce398A2A59d164f366762EE70c596de06E9482",
             "decimals": 18
         }
     ]
