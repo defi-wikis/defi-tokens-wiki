@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:43:41.899Z",
+    "timestamp": "2020-09-21T22:43:53.574Z",
     "version": {
         "major": 1,
-        "minor": 1331,
+        "minor": 1332,
         "patch": 0
     },
     "keywords": [
@@ -8657,6 +8657,14 @@
             "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcd62b1c403fa761baadfc74c525ce2b51780b184/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Zipper Network",
+            "symbol": "ZIP",
+            "address": "0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd/icon.png"
         }
     ]
 }
