@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:16:05.826Z",
+    "timestamp": "2020-09-21T22:16:17.817Z",
     "version": {
         "major": 1,
-        "minor": 1197,
+        "minor": 1198,
         "patch": 0
     },
     "keywords": [
@@ -7753,6 +7753,14 @@
             "symbol": "GL",
             "address": "0x70FaDBE1F2CCCbaF98ac88FDCf94A0509A48E46d",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "KRYLL",
+            "symbol": "KRL",
+            "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0/icon.png"
         }
     ]
 }
