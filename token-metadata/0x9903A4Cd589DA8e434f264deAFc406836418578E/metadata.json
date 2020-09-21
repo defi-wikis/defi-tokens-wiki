@@ -3,7 +3,5 @@
     "symbol": "FIRST",
     "address": "0x9903A4Cd589DA8e434f264deAFc406836418578E",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
