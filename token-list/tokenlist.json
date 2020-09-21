@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T02:42:06.461Z",
+    "timestamp": "2020-09-21T02:47:59.315Z",
     "version": {
         "major": 1,
-        "minor": 961,
+        "minor": 962,
         "patch": 0
     },
     "keywords": [
@@ -6233,6 +6233,13 @@
             "name": "xILT",
             "symbol": "ILT",
             "address": "0xCBE3ca372eaf9a25Af48f0cA3968f7DA2E4E22cc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitBall Treasure",
+            "symbol": "BTRS",
+            "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
             "decimals": 18
         }
     ]
