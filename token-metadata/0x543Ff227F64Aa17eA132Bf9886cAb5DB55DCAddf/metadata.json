@@ -1,0 +1,9 @@
+{
+    "name": "DAOstack",
+    "symbol": "GEN",
+    "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
