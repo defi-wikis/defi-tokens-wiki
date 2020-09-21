@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:01:23.148Z",
+    "timestamp": "2020-09-21T23:01:36.534Z",
     "version": {
         "major": 1,
-        "minor": 1414,
+        "minor": 1415,
         "patch": 0
     },
     "keywords": [
@@ -9240,6 +9240,14 @@
             "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4f9254c83eb525f9fcf346490bbb3ed28a81c667/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LIBERTAS",
+            "symbol": "LIBERTAS",
+            "address": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x49184e6dae8c8ecd89d8bdc1b950c597b8167c90/icon.png"
         }
     ]
 }
