@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:01:10.172Z",
+    "timestamp": "2020-09-21T22:01:19.900Z",
     "version": {
         "major": 1,
-        "minor": 1122,
+        "minor": 1123,
         "patch": 0
     },
     "keywords": [
@@ -7247,6 +7247,13 @@
             "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6810e776880c02933d47db1b9fc05908e5386b96/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LonelyFans.finance",
+            "symbol": "THOT",
+            "address": "0x8F595db4f8b4118160966befE1B2D7dF6D522FB2",
+            "decimals": 18
         }
     ]
 }
