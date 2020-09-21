@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:15:26.209Z",
+    "timestamp": "2020-09-21T22:15:41.410Z",
     "version": {
         "major": 1,
-        "minor": 1194,
+        "minor": 1195,
         "patch": 0
     },
     "keywords": [
@@ -7730,6 +7730,14 @@
             "address": "0xb83Cd8d39462B761bb0092437d38b37812dd80A2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb83cd8d39462b761bb0092437d38b37812dd80a2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SingularityNET",
+            "symbol": "AGI",
+            "address": "0x8eB24319393716668D768dCEC29356ae9CfFe285",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x8eb24319393716668d768dcec29356ae9cffe285/icon.png"
         }
     ]
 }
