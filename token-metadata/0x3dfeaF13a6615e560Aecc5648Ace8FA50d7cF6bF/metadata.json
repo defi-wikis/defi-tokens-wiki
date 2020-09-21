@@ -1,0 +1,9 @@
+{
+    "name": "Nerthus",
+    "symbol": "NTS",
+    "address": "0x3dfeaF13a6615e560Aecc5648Ace8FA50d7cF6bF",
+    "decimals": 12,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
