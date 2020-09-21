@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:20:28.210Z",
+    "timestamp": "2020-09-21T22:20:39.993Z",
     "version": {
         "major": 1,
-        "minor": 1221,
+        "minor": 1222,
         "patch": 0
     },
     "keywords": [
@@ -7892,6 +7892,14 @@
             "symbol": "GOF",
             "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digix Gold",
+            "symbol": "DGX",
+            "address": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf/icon.png"
         }
     ]
 }
