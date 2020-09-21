@@ -3,7 +3,5 @@
     "symbol": "BONK",
     "address": "0x6D6506E6F438edE269877a0A720026559110B7d5",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
