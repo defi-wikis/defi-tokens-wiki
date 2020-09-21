@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:53:51.906Z",
+    "timestamp": "2020-09-21T23:54:03.802Z",
     "version": {
         "major": 1,
-        "minor": 1677,
+        "minor": 1678,
         "patch": 0
     },
     "keywords": [
@@ -11159,6 +11159,14 @@
             "address": "0x261b45D85cCFeAbb11F022eBa346ee8D1cd488c0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x261b45d85ccfeabb11f022eba346ee8d1cd488c0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Benscoin",
+            "symbol": "BSC",
+            "address": "0xcfAD57a67689809CdA997f655802a119838c9ceC",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xcfad57a67689809cda997f655802a119838c9cec/icon.png"
         }
     ]
 }
