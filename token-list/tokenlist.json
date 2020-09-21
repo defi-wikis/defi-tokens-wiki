@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T05:12:06.406Z",
+    "timestamp": "2020-09-21T05:22:25.321Z",
     "version": {
         "major": 1,
-        "minor": 982,
+        "minor": 983,
         "patch": 0
     },
     "keywords": [
@@ -6380,6 +6380,13 @@
             "name": "TribToken",
             "symbol": "TRIB",
             "address": "0x32cb708cbDEDBDE6c54D4011C111EAd59c1C06Ee",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LINUS MEDIA GROUP",
+            "symbol": "LMG",
+            "address": "0xf63F03b4654af75c08A9C5DDeA343DDae1953F34",
             "decimals": 18
         }
     ]
