@@ -1,0 +1,9 @@
+{
+    "name": "BIKI",
+    "symbol": "BIKI",
+    "address": "0x70debcDAB2Ef20bE3d1dBFf6a845E9cCb6E46930",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
