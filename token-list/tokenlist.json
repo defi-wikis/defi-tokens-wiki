@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:03:39.562Z",
+    "timestamp": "2020-09-21T22:03:51.057Z",
     "version": {
         "major": 1,
-        "minor": 1135,
+        "minor": 1136,
         "patch": 0
     },
     "keywords": [
@@ -7339,6 +7339,14 @@
             "symbol": "YFARM",
             "address": "0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Community Token",
+            "symbol": "COM",
+            "address": "0x1B4052d98fb1888C2Bf3B8d3b930e0aFf8A910dF",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1b4052d98fb1888c2bf3b8d3b930e0aff8a910df/icon.png"
         }
     ]
 }
