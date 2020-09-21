@@ -3,7 +3,5 @@
     "symbol": "GEM",
     "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
