@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:44:38.499Z",
+    "timestamp": "2020-09-21T23:44:55.112Z",
     "version": {
         "major": 1,
-        "minor": 1632,
+        "minor": 1633,
         "patch": 0
     },
     "keywords": [
@@ -10831,6 +10831,14 @@
             "symbol": "SMDX",
             "address": "0x7e8539D1E5cB91d63E46B8e188403b3f262a949B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Obee Network",
+            "symbol": "OBEE",
+            "address": "0x3678d8CC9Eb08875A3720f34c1C8d1e1B31F5A11",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3678d8cc9eb08875a3720f34c1c8d1e1b31f5a11/icon.png"
         }
     ]
 }
