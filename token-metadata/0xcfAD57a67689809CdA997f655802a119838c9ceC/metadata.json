@@ -1,0 +1,9 @@
+{
+    "name": "Benscoin",
+    "symbol": "BSC",
+    "address": "0xcfAD57a67689809CdA997f655802a119838c9ceC",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
