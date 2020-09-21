@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:38:23.295Z",
+    "timestamp": "2020-09-21T22:38:37.471Z",
     "version": {
         "major": 1,
-        "minor": 1307,
+        "minor": 1308,
         "patch": 0
     },
     "keywords": [
@@ -8491,6 +8491,14 @@
             "symbol": "KIF",
             "address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BarterTrade",
+            "symbol": "BART",
+            "address": "0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x54c9ea2e9c9e8ed865db4a4ce6711c2a0d5063ba/icon.png"
         }
     ]
 }
