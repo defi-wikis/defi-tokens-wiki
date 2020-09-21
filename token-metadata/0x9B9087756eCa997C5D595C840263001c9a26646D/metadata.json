@@ -3,7 +3,5 @@
     "symbol": "DOGEFI",
     "address": "0x9B9087756eCa997C5D595C840263001c9a26646D",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
