@@ -1,0 +1,9 @@
+{
+    "name": "Ystar",
+    "symbol": "YSR",
+    "address": "0xD9A947789974bAD9BE77E45C2b327174A9c59D71",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
