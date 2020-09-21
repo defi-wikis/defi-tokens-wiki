@@ -1,0 +1,9 @@
+{
+    "name": "Rebase",
+    "symbol": "REBASE",
+    "address": "0x4208D8d500B1643DcA98dD27bA6C0060BcA311c5",
+    "decimals": 9,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
