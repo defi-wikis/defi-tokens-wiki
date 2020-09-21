@@ -3,7 +3,5 @@
     "symbol": "SYLO",
     "address": "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
