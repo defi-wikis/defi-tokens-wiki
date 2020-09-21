@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:47:08.902Z",
+    "timestamp": "2020-09-21T22:47:17.804Z",
     "version": {
         "major": 1,
-        "minor": 1348,
+        "minor": 1349,
         "patch": 0
     },
     "keywords": [
@@ -8782,6 +8782,13 @@
             "name": "Kush Finance",
             "symbol": "KSEED",
             "address": "0x3F09400313e83d53366147e3ea0e4e2279D80850",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "New Year Bull",
+            "symbol": "NYB",
+            "address": "0x798A9055a98913835bBFb45a0BbC209438dcFD97",
             "decimals": 18
         }
     ]
