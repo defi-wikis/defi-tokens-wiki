@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:16:44.630Z",
+    "timestamp": "2020-09-21T23:16:56.955Z",
     "version": {
         "major": 1,
-        "minor": 1490,
+        "minor": 1491,
         "patch": 0
     },
     "keywords": [
@@ -22,10 +22,6 @@
         "yield-farming": {
             "name": "Yield Farming",
             "description": "Tokens that are doled out as rewards for providing liquidity to protocols"
-        },
-        "business-services": {
-            "name": "Business Services",
-            "description": "Tokens that are redeemable for a business service"
         },
         "oracle": {
             "name": "Oracles",
@@ -9789,6 +9785,14 @@
             "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "smARTOFGIVING",
+            "symbol": "AOG",
+            "address": "0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8578530205cecbe5db83f7f29ecfeec860c297c2/icon.png"
         }
     ]
 }
