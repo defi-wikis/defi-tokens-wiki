@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T01:12:54.351Z",
+    "timestamp": "2020-09-21T01:22:06.439Z",
     "version": {
         "major": 1,
-        "minor": 949,
+        "minor": 950,
         "patch": 0
     },
     "keywords": [
@@ -6149,6 +6149,13 @@
             "name": "ILT",
             "symbol": "ILT",
             "address": "0xcff1507BB0462cD58E1FACAD90845f52d57D1229",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bridge",
+            "symbol": "BGN",
+            "address": "0xD15585D010b6EAf21A6681d3cF3C71f1AaA353fa",
             "decimals": 18
         }
     ]
