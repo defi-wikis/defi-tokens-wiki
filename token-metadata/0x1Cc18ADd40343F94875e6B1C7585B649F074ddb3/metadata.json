@@ -1,0 +1,7 @@
+{
+    "name": "XYearn.Finance Bug Test Token",
+    "symbol": "XYFI",
+    "address": "0x1Cc18ADd40343F94875e6B1C7585B649F074ddb3",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
