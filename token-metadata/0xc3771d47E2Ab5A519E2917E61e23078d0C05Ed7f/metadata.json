@@ -3,5 +3,7 @@
     "symbol": "GTH",
     "address": "0xc3771d47E2Ab5A519E2917E61e23078d0C05Ed7f",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
