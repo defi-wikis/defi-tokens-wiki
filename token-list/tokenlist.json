@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:23:06.947Z",
+    "timestamp": "2020-09-21T22:23:19.185Z",
     "version": {
         "major": 1,
-        "minor": 1234,
+        "minor": 1235,
         "patch": 0
     },
     "keywords": [
@@ -7972,6 +7972,14 @@
             "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x04fa0d235c4abf4bcf4787af4cf447de572ef828/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Omega",
+            "symbol": "DFIO",
+            "address": "0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff/icon.png"
         }
     ]
 }
