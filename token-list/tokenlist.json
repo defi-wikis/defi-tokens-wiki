@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:53:42.684Z",
+    "timestamp": "2020-09-21T22:53:55.277Z",
     "version": {
         "major": 1,
-        "minor": 1380,
+        "minor": 1381,
         "patch": 0
     },
     "keywords": [
@@ -270,7 +270,7 @@
         },
         {
             "chainId": 1,
-            "name": "Republic Token",
+            "name": "REN",
             "symbol": "REN",
             "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
             "decimals": 18,
