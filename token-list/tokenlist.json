@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:24:02.073Z",
+    "timestamp": "2020-09-21T23:24:14.150Z",
     "version": {
         "major": 1,
-        "minor": 1527,
+        "minor": 1528,
         "patch": 0
     },
     "keywords": [
@@ -10058,6 +10058,14 @@
             "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "EthermonToken",
+            "symbol": "EMONT",
+            "address": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x95daaab98046846bf4b2853e23cba236fa394a31/icon.png"
         }
     ]
 }
