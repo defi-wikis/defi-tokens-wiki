@@ -3,7 +3,5 @@
     "symbol": "CHESS",
     "address": "0x5f75112bBB4E1aF516fBE3e21528C63DA2B6a1A5",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
