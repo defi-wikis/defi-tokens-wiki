@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T21:59:49.094Z",
+    "timestamp": "2020-09-21T22:00:14.770Z",
     "version": {
         "major": 1,
-        "minor": 1117,
+        "minor": 1118,
         "patch": 0
     },
     "keywords": [
@@ -7207,6 +7207,14 @@
             "symbol": "PUMP",
             "address": "0x4666725A20A64728B543006a34Cf6F728b78817b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shuffle Monster",
+            "symbol": "SHUF",
+            "address": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3a9fff453d50d4ac52a6890647b823379ba36b9e/icon.png"
         }
     ]
 }
