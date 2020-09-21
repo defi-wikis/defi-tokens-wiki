@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:56:06.933Z",
+    "timestamp": "2020-09-21T22:56:19.600Z",
     "version": {
         "major": 1,
-        "minor": 1391,
+        "minor": 1392,
         "patch": 0
     },
     "keywords": [
@@ -9070,6 +9070,14 @@
             "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb4efd85c19999d84251304bda99e90b92300bd93/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "NKN",
+            "symbol": "NKN",
+            "address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5cf04716ba20127f1e2297addcf4b5035000c9eb/icon.png"
         }
     ]
 }
