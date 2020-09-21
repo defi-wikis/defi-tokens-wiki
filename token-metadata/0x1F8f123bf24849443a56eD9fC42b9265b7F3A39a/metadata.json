@@ -3,7 +3,5 @@
     "symbol": "UTO",
     "address": "0x1F8f123bf24849443a56eD9fC42b9265b7F3A39a",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
