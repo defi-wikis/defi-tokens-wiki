@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:32:20.282Z",
+    "timestamp": "2020-09-21T23:32:28.713Z",
     "version": {
         "major": 1,
-        "minor": 1571,
+        "minor": 1572,
         "patch": 0
     },
     "keywords": [
@@ -10375,6 +10375,13 @@
             "address": "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xed0849bf46cfb9845a2d900a0a4e593f2dd3673c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "808TA Token",
+            "symbol": "808TA",
+            "address": "0x5b535EDfA75d7CB706044Da0171204E1c48D00e8",
+            "decimals": 18
         }
     ]
 }
