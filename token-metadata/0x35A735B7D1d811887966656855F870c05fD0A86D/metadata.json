@@ -1,0 +1,9 @@
+{
+    "name": "Thorncoin",
+    "symbol": "THRN",
+    "address": "0x35A735B7D1d811887966656855F870c05fD0A86D",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
