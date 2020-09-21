@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:08:32.373Z",
+    "timestamp": "2020-09-21T22:08:45.047Z",
     "version": {
         "major": 1,
-        "minor": 1159,
+        "minor": 1160,
         "patch": 0
     },
     "keywords": [
@@ -7498,6 +7498,14 @@
             "address": "0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AMLT Network",
+            "symbol": "AMLT",
+            "address": "0xCA0e7269600d353F70b14Ad118A49575455C0f2f",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xca0e7269600d353f70b14ad118a49575455c0f2f/icon.png"
         }
     ]
 }
