@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:21:37.541Z",
+    "timestamp": "2020-09-21T23:21:47.098Z",
     "version": {
         "major": 1,
-        "minor": 1515,
+        "minor": 1516,
         "patch": 0
     },
     "keywords": [
@@ -9964,6 +9964,13 @@
             "name": "yffc finance",
             "symbol": "YFFC",
             "address": "0xea004e8FA3701B8E58E41b78D50996e0f7176CbD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Libera",
+            "symbol": "LIB",
+            "address": "0x0bf6261297198D91D4FA460242C69232146A5703",
             "decimals": 18
         }
     ]
