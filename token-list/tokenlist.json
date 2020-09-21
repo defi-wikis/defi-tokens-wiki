@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:51:21.932Z",
+    "timestamp": "2020-09-21T23:51:36.102Z",
     "version": {
         "major": 1,
-        "minor": 1663,
+        "minor": 1664,
         "patch": 0
     },
     "keywords": [
@@ -4395,7 +4395,8 @@
             "name": "Hue",
             "symbol": "HUE",
             "address": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
-            "decimals": 4
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xdcfe18bc46f5a0cd0d3af0c2155d2bcb5ade2fc5/icon.png"
         },
         {
             "chainId": 1,
