@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T06:37:59.280Z",
+    "timestamp": "2020-09-21T06:41:06.009Z",
     "version": {
         "major": 1,
-        "minor": 995,
+        "minor": 996,
         "patch": 0
     },
     "keywords": [
@@ -6471,6 +6471,13 @@
             "name": "QWERT",
             "symbol": "QWER",
             "address": "0x6509f9cDCd547b06482Fc79209c71C7C7493d5f1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "https://devil.finance/",
+            "symbol": "$SOUL",
+            "address": "0xB8cF66406a52c682FfBe97149d6dC74A51DAF53E",
             "decimals": 18
         }
     ]
