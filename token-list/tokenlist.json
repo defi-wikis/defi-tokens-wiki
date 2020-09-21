@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:44:57.288Z",
+    "timestamp": "2020-09-21T22:45:09.139Z",
     "version": {
         "major": 1,
-        "minor": 1337,
+        "minor": 1338,
         "patch": 0
     },
     "keywords": [
@@ -8698,6 +8698,14 @@
             "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0488401c3f535193fa8df029d9ffe615a06e74e6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aludra Network",
+            "symbol": "ALD",
+            "address": "0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb339fca531367067e98d7c4f9303ffeadff7b881/icon.png"
         }
     ]
 }
