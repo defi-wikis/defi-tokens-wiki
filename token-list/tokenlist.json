@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:41:11.732Z",
+    "timestamp": "2020-09-21T23:41:23.504Z",
     "version": {
         "major": 1,
-        "minor": 1615,
+        "minor": 1616,
         "patch": 0
     },
     "keywords": [
@@ -10705,6 +10705,14 @@
             "symbol": "VGTN",
             "address": "0xB52FC0F17Df38ad76F290467Aab57caBaEEada14",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BONK Token",
+            "symbol": "BONK",
+            "address": "0x6D6506E6F438edE269877a0A720026559110B7d5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6d6506e6f438ede269877a0a720026559110b7d5/icon.png"
         }
     ]
 }
