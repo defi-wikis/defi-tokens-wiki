@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T05:52:10.063Z",
+    "timestamp": "2020-09-21T05:52:44.253Z",
     "version": {
         "major": 1,
-        "minor": 987,
+        "minor": 988,
         "patch": 0
     },
     "keywords": [
@@ -6415,6 +6415,13 @@
             "name": "Sendy Token",
             "symbol": "SNDY",
             "address": "0xa59f7a3eDBB1D9803CDb00721A5E2946739CFc83",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bidencoin",
+            "symbol": "BIDN",
+            "address": "0xecbCc9a826254EdE5a39fA0c9699aBfa46056e22",
             "decimals": 18
         }
     ]
