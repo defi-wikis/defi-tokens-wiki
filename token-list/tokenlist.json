@@ -1,6 +1,6 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:36:45.510Z",
+    "timestamp": "2020-09-21T23:36:47.285Z",
     "version": {
         "major": 1,
         "minor": 1593,
@@ -10528,10 +10528,11 @@
         },
         {
             "chainId": 1,
-            "name": "DontBuySeven",
-            "symbol": "DontBuySeven",
-            "address": "0xae3e478aA7A166021a644aBE6AF7E1A33d5C2758",
-            "decimals": 18
+            "name": "Grap Finance",
+            "symbol": "GRAP",
+            "address": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc8d2ab2a6fdebc25432e54941cb85b55b9f152db/icon.png"
         }
     ]
 }
