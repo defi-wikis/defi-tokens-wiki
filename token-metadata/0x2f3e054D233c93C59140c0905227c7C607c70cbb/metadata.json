@@ -3,7 +3,5 @@
     "symbol": "COOM",
     "address": "0x2f3e054D233c93C59140c0905227c7C607c70cbb",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
