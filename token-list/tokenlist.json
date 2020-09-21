@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:28:05.354Z",
+    "timestamp": "2020-09-21T22:28:17.462Z",
     "version": {
         "major": 1,
-        "minor": 1260,
+        "minor": 1261,
         "patch": 0
     },
     "keywords": [
@@ -8152,6 +8152,14 @@
             "address": "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x3936ad01cf109a36489d93cabda11cf062fd3d48/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DUST Token",
+            "symbol": "DUST",
+            "address": "0xbCa3C97837A39099eC3082DF97e28CE91BE14472",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xbca3c97837a39099ec3082df97e28ce91be14472/icon.png"
         }
     ]
 }
