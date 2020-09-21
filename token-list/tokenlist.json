@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:04:24.866Z",
+    "timestamp": "2020-09-21T22:04:35.146Z",
     "version": {
         "major": 1,
-        "minor": 1139,
+        "minor": 1140,
         "patch": 0
     },
     "keywords": [
@@ -7370,6 +7370,13 @@
             "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xd7efb00d12c2c13131fd319336fdf952525da2af/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Taurus Coin",
+            "symbol": "TAUC",
+            "address": "0xd0F12A5D6D74c92E0600ce4274AC19Ec6E7fE6AE",
+            "decimals": 4
         }
     ]
 }
