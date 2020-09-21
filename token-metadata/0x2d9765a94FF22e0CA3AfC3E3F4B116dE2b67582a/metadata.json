@@ -1,0 +1,9 @@
+{
+    "name": "CGC Token",
+    "symbol": "CGC",
+    "address": "0x2d9765a94FF22e0CA3AfC3E3F4B116dE2b67582a",
+    "decimals": 16,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
