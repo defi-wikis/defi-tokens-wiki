@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:23:24.724Z",
+    "timestamp": "2020-09-21T19:31:49.105Z",
     "version": {
         "major": 1,
-        "minor": 1070,
+        "minor": 1071,
         "patch": 0
     },
     "keywords": [
@@ -6996,6 +6996,13 @@
             "name": "Weave DAO Token",
             "symbol": "WEV",
             "address": "0xFB9fc4CCC2538172fe76F7dC231a6969950E57c8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rice Token",
+            "symbol": "RICE",
+            "address": "0x29F5ba7e35c5333330dA060efd44306be24a8190",
             "decimals": 18
         }
     ]
