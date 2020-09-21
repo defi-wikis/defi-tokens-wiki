@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:04:40.263Z",
+    "timestamp": "2020-09-21T23:04:49.386Z",
     "version": {
         "major": 1,
-        "minor": 1430,
+        "minor": 1431,
         "patch": 0
     },
     "keywords": [
@@ -9358,6 +9358,13 @@
             "address": "0x89eE58Af4871b474c30001982c3D7439C933c838",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x89ee58af4871b474c30001982c3d7439c933c838/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "1Million Token",
+            "symbol": "1MT",
+            "address": "0xf0Bc1ae4eF7ffb126A8347D06Ac6f8AdD770e1CE",
+            "decimals": 7
         }
     ]
 }
