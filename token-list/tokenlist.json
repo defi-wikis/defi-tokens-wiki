@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:13:06.682Z",
+    "timestamp": "2020-09-21T22:13:18.912Z",
     "version": {
         "major": 1,
-        "minor": 1182,
+        "minor": 1183,
         "patch": 0
     },
     "keywords": [
@@ -7653,6 +7653,14 @@
             "address": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Livepeer",
+            "symbol": "LPT",
+            "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x58b6a8a3302369daec383334672404ee733ab239/icon.png"
         }
     ]
 }
