@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:44:19.037Z",
+    "timestamp": "2020-09-21T22:44:32.067Z",
     "version": {
         "major": 1,
-        "minor": 1334,
+        "minor": 1335,
         "patch": 0
     },
     "keywords": [
@@ -8681,6 +8681,14 @@
             "address": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PhoenixDAO",
+            "symbol": "PHNX",
+            "address": "0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x38a2fdc11f526ddd5a607c1f251c065f40fbf2f7/icon.png"
         }
     ]
 }
