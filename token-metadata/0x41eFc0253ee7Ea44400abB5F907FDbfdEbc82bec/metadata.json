@@ -3,7 +3,5 @@
     "symbol": "AAPL",
     "address": "0x41eFc0253ee7Ea44400abB5F907FDbfdEbc82bec",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
