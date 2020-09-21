@@ -3,7 +3,5 @@
     "symbol": "LEO",
     "address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
