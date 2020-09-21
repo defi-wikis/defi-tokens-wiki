@@ -1,0 +1,9 @@
+{
+    "name": "Decentralized Machi",
+    "symbol": "DML",
+    "address": "0xbCdfE338D55c061C084D81fD793Ded00A27F226D",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
