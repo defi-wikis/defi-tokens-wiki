@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T22:21:41.021Z",
+    "timestamp": "2020-09-21T22:21:53.681Z",
     "version": {
         "major": 1,
-        "minor": 1227,
+        "minor": 1228,
         "patch": 0
     },
     "keywords": [
@@ -7917,6 +7917,14 @@
             "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb705268213d593b8fd88d3fdeff93aff5cbdcfae/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Darwinia Network Na",
+            "symbol": "RING",
+            "address": "0x9469D013805bFfB7D3DEBe5E7839237e535ec483",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9469d013805bffb7d3debe5e7839237e535ec483/icon.png"
         }
     ]
 }
