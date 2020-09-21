@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:58:09.724Z",
+    "timestamp": "2020-09-21T23:58:22.117Z",
     "version": {
         "major": 1,
-        "minor": 1700,
+        "minor": 1701,
         "patch": 0
     },
     "keywords": [
@@ -11335,6 +11335,14 @@
             "symbol": "T1C",
             "address": "0xa7C71d444bf9aF4bfEd2adE75595d7512Eb4DD39",
             "decimals": 16
+        },
+        {
+            "chainId": 1,
+            "name": "YEARN2 FINANCE",
+            "symbol": "YFI2",
+            "address": "0xF6c151Ea50A4F1a50983eB98998A18be0a549aD5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf6c151ea50a4f1a50983eb98998a18be0a549ad5/icon.png"
         }
     ]
 }
