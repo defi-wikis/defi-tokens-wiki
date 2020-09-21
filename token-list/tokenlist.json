@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:55:22.795Z",
+    "timestamp": "2020-09-21T23:55:34.334Z",
     "version": {
         "major": 1,
-        "minor": 1685,
+        "minor": 1686,
         "patch": 0
     },
     "keywords": [
@@ -11221,6 +11221,14 @@
             "address": "0xEA610B1153477720748DC13ED378003941d84fAB",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xea610b1153477720748dc13ed378003941d84fab/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Blockparty",
+            "symbol": "BOXX",
+            "address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
+            "decimals": 15,
+            "logoURI": "https://tokens.dharma.io/assets/0x780116d91e5592e58a3b3c76a351571b39abcec6/icon.png"
         }
     ]
 }
