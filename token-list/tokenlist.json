@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T19:52:47.296Z",
+    "timestamp": "2020-09-21T19:54:09.684Z",
     "version": {
         "major": 1,
-        "minor": 1082,
+        "minor": 1083,
         "patch": 0
     },
     "keywords": [
@@ -7028,6 +7028,13 @@
             "symbol": "MCT",
             "address": "0x5242c24732d8Bec2F35c28c23782b77Db6111279",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "USDF",
+            "symbol": "USDF",
+            "address": "0x0462A453c194C176C94A38F1A2AC786bAf05ab2b",
+            "decimals": 6
         }
     ]
 }
