@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:57:05.894Z",
+    "timestamp": "2020-09-22T00:57:18.868Z",
     "version": {
         "major": 1,
-        "minor": 1994,
+        "minor": 1995,
         "patch": 0
     },
     "keywords": [
@@ -13500,6 +13500,14 @@
             "address": "0xEd1199093b1aBd07a368Dd1C0Cdc77D8517BA2A0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xed1199093b1abd07a368dd1c0cdc77d8517ba2a0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Orbs",
+            "symbol": "ORBS",
+            "address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa/icon.png"
         }
     ]
 }
