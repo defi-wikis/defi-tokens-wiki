@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:58:21.589Z",
+    "timestamp": "2020-09-22T00:58:33.406Z",
     "version": {
         "major": 1,
-        "minor": 2000,
+        "minor": 2001,
         "patch": 0
     },
     "keywords": [
@@ -13548,6 +13548,14 @@
             "address": "0x0F4CA92660Efad97a9a70CB0fe969c755439772C",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x0f4ca92660efad97a9a70cb0fe969c755439772c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Skrumble Network",
+            "symbol": "SKM",
+            "address": "0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603/icon.png"
         }
     ]
 }
