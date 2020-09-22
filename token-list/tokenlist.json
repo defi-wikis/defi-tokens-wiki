@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:14:48.348Z",
+    "timestamp": "2020-09-22T00:14:57.481Z",
     "version": {
         "major": 1,
-        "minor": 1784,
+        "minor": 1785,
         "patch": 0
     },
     "keywords": [
@@ -11978,6 +11978,13 @@
             "address": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd379700999f4805ce80aa32db46a94df64561108/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Union Fair Coin",
+            "symbol": "UFC",
+            "address": "0x995dE3D961b40Ec6CDee0009059D48768ccbdD48",
+            "decimals": 8
         }
     ]
 }
