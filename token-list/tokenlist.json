@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:05:36.867Z",
+    "timestamp": "2020-09-22T00:05:47.932Z",
     "version": {
         "major": 1,
-        "minor": 1739,
+        "minor": 1740,
         "patch": 0
     },
     "keywords": [
@@ -11639,6 +11639,14 @@
             "symbol": "69C",
             "address": "0x02FdD6866333D8Cd8B1ca022d382080698060BC2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Project SHIVOM",
+            "symbol": "OMX",
+            "address": "0xB5DBC6D3cf380079dF3b27135664b6BCF45D1869",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xb5dbc6d3cf380079df3b27135664b6bcf45d1869/icon.png"
         }
     ]
 }
