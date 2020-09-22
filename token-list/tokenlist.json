@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:05:40.234Z",
+    "timestamp": "2020-09-22T02:06:07.687Z",
     "version": {
         "major": 1,
-        "minor": 2039,
+        "minor": 2040,
         "patch": 0
     },
     "keywords": [
@@ -13771,6 +13771,13 @@
             "name": "DontBuy19",
             "symbol": "DontBuy19",
             "address": "0x76D2c26d3ADb555c105A7e9fF9dc7d3a795FE3dd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Corn Finance",
+            "symbol": "CORN",
+            "address": "0x279B5f62d78D038041Da4CB80c198fe804d02322",
             "decimals": 18
         }
     ]
