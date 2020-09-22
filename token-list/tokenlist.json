@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:19:26.268Z",
+    "timestamp": "2020-09-22T00:19:36.076Z",
     "version": {
         "major": 1,
-        "minor": 1807,
+        "minor": 1808,
         "patch": 0
     },
     "keywords": [
@@ -12144,6 +12144,13 @@
             "address": "0xe61eECfDBa2aD1669cee138f1919D08cEd070B83",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xe61eecfdba2ad1669cee138f1919d08ced070b83/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DuckDaoDime",
+            "symbol": "DDIM",
+            "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
+            "decimals": 18
         }
     ]
 }
