@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:02:02.037Z",
+    "timestamp": "2020-09-22T00:02:14.200Z",
     "version": {
         "major": 1,
-        "minor": 1721,
+        "minor": 1722,
         "patch": 0
     },
     "keywords": [
@@ -11498,6 +11498,14 @@
             "symbol": "UWTC",
             "address": "0x282CB0a611280fF5887Ca122911A0cA6b841CB03",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "BOX Token",
+            "symbol": "BOX",
+            "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe1a178b681bd05964d3e3ed33ae731577d9d96dd/icon.png"
         }
     ]
 }
