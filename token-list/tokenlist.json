@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:25:12.517Z",
+    "timestamp": "2020-09-22T00:25:21.359Z",
     "version": {
         "major": 1,
-        "minor": 1835,
+        "minor": 1836,
         "patch": 0
     },
     "keywords": [
@@ -12338,6 +12338,13 @@
             "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BOA",
+            "symbol": "BOA",
+            "address": "0xF9c36C7aD7FA0f0862589c919830268d1A2581A1",
+            "decimals": 18
         }
     ]
 }
