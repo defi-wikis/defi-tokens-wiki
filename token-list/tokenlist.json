@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:15:35.369Z",
+    "timestamp": "2020-09-22T00:15:46.875Z",
     "version": {
         "major": 1,
-        "minor": 1788,
+        "minor": 1789,
         "patch": 0
     },
     "keywords": [
@@ -12009,6 +12009,14 @@
             "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "HyperDAO",
+            "symbol": "HDAO",
+            "address": "0x74faaB6986560fD1140508e4266D8a7b87274Ffd",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x74faab6986560fd1140508e4266d8a7b87274ffd/icon.png"
         }
     ]
 }
