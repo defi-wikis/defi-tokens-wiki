@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T15:33:36.414Z",
+    "timestamp": "2020-09-22T15:36:35.148Z",
     "version": {
         "major": 1,
-        "minor": 2193,
+        "minor": 2194,
         "patch": 0
     },
     "keywords": [
@@ -14382,6 +14382,13 @@
             "name": "YFPI.Finance",
             "symbol": "YFPI",
             "address": "0x89E3fD1B2342DeF63938E07593a43907145050b5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yEARN UNI",
+            "symbol": "yUNI",
+            "address": "0xEB02345d4540D9607f2da8A0235da7A75715E242",
             "decimals": 18
         }
     ]
