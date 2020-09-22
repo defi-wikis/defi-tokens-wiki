@@ -3,7 +3,5 @@
     "symbol": "BLZ",
     "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
