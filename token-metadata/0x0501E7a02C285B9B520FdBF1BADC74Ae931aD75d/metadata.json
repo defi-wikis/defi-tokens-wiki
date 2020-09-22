@@ -1,0 +1,9 @@
+{
+    "name": "Walnut finance",
+    "symbol": "WTF",
+    "address": "0x0501E7a02C285B9B520FdBF1BADC74Ae931aD75d",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
