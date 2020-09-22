@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:46:50.550Z",
+    "timestamp": "2020-09-22T00:47:03.564Z",
     "version": {
         "major": 1,
-        "minor": 1941,
+        "minor": 1942,
         "patch": 0
     },
     "keywords": [
@@ -13103,6 +13103,13 @@
             "name": "Keysians Network",
             "symbol": "KEN",
             "address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Akropolis Delphi",
+            "symbol": "ADEL",
+            "address": "0x94d863173EE77439E4292284fF13fAD54b3BA182",
             "decimals": 18
         }
     ]
