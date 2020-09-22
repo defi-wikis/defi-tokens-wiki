@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:45:35.976Z",
+    "timestamp": "2020-09-22T00:45:47.802Z",
     "version": {
         "major": 1,
-        "minor": 1934,
+        "minor": 1935,
         "patch": 0
     },
     "keywords": [
@@ -13052,6 +13052,14 @@
             "address": "0x10Bae51262490B4f4AF41e12eD52A0E744c1137A",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0x10bae51262490b4f4af41e12ed52a0e744c1137a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cartesi",
+            "symbol": "CTSI",
+            "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d/icon.png"
         }
     ]
 }
