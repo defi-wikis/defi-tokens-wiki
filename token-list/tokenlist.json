@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:49:30.142Z",
+    "timestamp": "2020-09-22T00:49:42.333Z",
     "version": {
         "major": 1,
-        "minor": 1955,
+        "minor": 1956,
         "patch": 0
     },
     "keywords": [
@@ -13212,6 +13212,14 @@
             "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x27054b13b1b798b345b591a4d22e6562d47ea75a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MXC",
+            "symbol": "MXC",
+            "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5ca381bbfb58f0092df149bd3d243b08b9a8386e/icon.png"
         }
     ]
 }
