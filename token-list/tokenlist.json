@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:22:52.405Z",
+    "timestamp": "2020-09-22T00:23:07.293Z",
     "version": {
         "major": 1,
-        "minor": 1824,
+        "minor": 1825,
         "patch": 0
     },
     "keywords": [
@@ -12252,6 +12252,14 @@
             "address": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x57700244b20f84799a31c6c96dadff373ca9d6c5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LibraToken",
+            "symbol": "LBA",
+            "address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfe5f141bf94fe84bc28ded0ab966c16b17490657/icon.png"
         }
     ]
 }
