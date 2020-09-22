@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T18:56:09.602Z",
+    "timestamp": "2020-09-22T19:07:29.913Z",
     "version": {
         "major": 1,
-        "minor": 2268,
+        "minor": 2269,
         "patch": 0
     },
     "keywords": [
@@ -14612,6 +14612,13 @@
             "name": "Yearn Finance Bit2",
             "symbol": "YFB2",
             "address": "0x59e7B5DB9Be0BDD26Fa048d39E01FEe456AB674E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIRELAY",
+            "symbol": "URE",
+            "address": "0x6f53C2a29CA2411519392DDf7f981a112A0973E1",
             "decimals": 18
         }
     ]
