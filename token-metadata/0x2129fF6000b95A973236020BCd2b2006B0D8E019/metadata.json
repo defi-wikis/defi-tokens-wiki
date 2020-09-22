@@ -3,7 +3,5 @@
     "symbol": "MYX",
     "address": "0x2129fF6000b95A973236020BCd2b2006B0D8E019",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
