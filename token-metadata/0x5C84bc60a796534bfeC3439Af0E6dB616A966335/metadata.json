@@ -1,0 +1,9 @@
+{
+    "name": "Bone",
+    "symbol": "BONE",
+    "address": "0x5C84bc60a796534bfeC3439Af0E6dB616A966335",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
