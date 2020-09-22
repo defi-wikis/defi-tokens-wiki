@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:53:52.910Z",
+    "timestamp": "2020-09-22T00:54:05.615Z",
     "version": {
         "major": 1,
-        "minor": 1978,
+        "minor": 1979,
         "patch": 0
     },
     "keywords": [
@@ -13374,6 +13374,14 @@
             "symbol": "BOOST",
             "address": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SAND",
+            "symbol": "SAND",
+            "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x3845badade8e6dff049820680d1f14bd3903a5d0/icon.png"
         }
     ]
 }
