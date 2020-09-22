@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:18:49.366Z",
+    "timestamp": "2020-09-22T00:19:01.320Z",
     "version": {
         "major": 1,
-        "minor": 1804,
+        "minor": 1805,
         "patch": 0
     },
     "keywords": [
@@ -12120,6 +12120,14 @@
             "address": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x687bfc3e73f6af55f0ccca8450114d107e781a0e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Donut",
+            "symbol": "DONUT",
+            "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9/icon.png"
         }
     ]
 }
