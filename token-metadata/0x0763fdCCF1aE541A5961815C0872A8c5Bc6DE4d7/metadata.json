@@ -3,7 +3,5 @@
     "symbol": "SUKU",
     "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
