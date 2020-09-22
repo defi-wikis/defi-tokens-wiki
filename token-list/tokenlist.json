@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T23:00:49.358Z",
+    "timestamp": "2020-09-22T23:06:30.745Z",
     "version": {
         "major": 1,
-        "minor": 2288,
+        "minor": 2289,
         "patch": 0
     },
     "keywords": [
@@ -14753,6 +14753,13 @@
             "symbol": "ADT",
             "address": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "yif.finance",
+            "symbol": "YIF",
+            "address": "0x37Df975c725Af9162EDDb376C60059A9e38C7Df3",
+            "decimals": 18
         }
     ]
 }
