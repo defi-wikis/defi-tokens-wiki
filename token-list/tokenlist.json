@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:45.570Z",
+    "timestamp": "2020-09-22T05:02:48.428Z",
     "version": {
         "major": 1,
-        "minor": 2090,
+        "minor": 2091,
         "patch": 0
     },
     "keywords": [
@@ -1200,7 +1200,9 @@
             "name": "Hegic",
             "symbol": "HEGIC",
             "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
-            "decimals": 18
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0x584bc13c7d411c00c01a62e8019472de68768430/icon.png"
         },
         {
             "chainId": 1,
