@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:43:18.995Z",
+    "timestamp": "2020-09-22T00:43:29.899Z",
     "version": {
         "major": 1,
-        "minor": 1923,
+        "minor": 1924,
         "patch": 0
     },
     "keywords": [
@@ -12979,6 +12979,14 @@
             "address": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FunFair",
+            "symbol": "FUN",
+            "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x419d0d8bdd9af5e606ae2232ed285aff190e711b/icon.png"
         }
     ]
 }
