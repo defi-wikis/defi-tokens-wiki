@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:31:52.619Z",
+    "timestamp": "2020-09-22T00:32:02.895Z",
     "version": {
         "major": 1,
-        "minor": 1867,
+        "minor": 1868,
         "patch": 0
     },
     "keywords": [
@@ -12577,6 +12577,13 @@
             "address": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Walnut finance",
+            "symbol": "WTF",
+            "address": "0x0501E7a02C285B9B520FdBF1BADC74Ae931aD75d",
+            "decimals": 18
         }
     ]
 }
