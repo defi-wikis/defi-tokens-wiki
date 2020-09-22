@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:17:22.690Z",
+    "timestamp": "2020-09-22T00:17:35.418Z",
     "version": {
         "major": 1,
-        "minor": 1797,
+        "minor": 1798,
         "patch": 0
     },
     "keywords": [
@@ -12065,6 +12065,14 @@
             "symbol": "BONE",
             "address": "0x5C84bc60a796534bfeC3439Af0E6dB616A966335",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PieDAO BTC  ",
+            "symbol": "BTC++",
+            "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd/icon.png"
         }
     ]
 }
