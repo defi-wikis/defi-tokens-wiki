@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T14:42:25.004Z",
+    "timestamp": "2020-09-22T14:48:34.395Z",
     "version": {
         "major": 1,
-        "minor": 2140,
+        "minor": 2141,
         "patch": 0
     },
     "keywords": [
@@ -14327,6 +14327,13 @@
             "name": "FTXv3",
             "symbol": "FTXv3",
             "address": "0x3f79dde8d3Fa7f33a7538A58CBB53A55F13644A6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfpi.finance",
+            "symbol": "YFPI",
+            "address": "0xAA80F3DfF2C94474c4fa9dadfA9BaD93abA6d548",
             "decimals": 18
         }
     ]
