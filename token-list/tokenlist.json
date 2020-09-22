@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:35:59.097Z",
+    "timestamp": "2020-09-22T00:36:11.935Z",
     "version": {
         "major": 1,
-        "minor": 1887,
+        "minor": 1888,
         "patch": 0
     },
     "keywords": [
@@ -12731,6 +12731,14 @@
             "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb8baa0e4287890a5f79863ab62b7f175cecbd433/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MixTrust",
+            "symbol": "MXT",
+            "address": "0x6251E725CD45Fb1AF99354035a414A2C0890B929",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6251e725cd45fb1af99354035a414a2c0890b929/icon.png"
         }
     ]
 }
