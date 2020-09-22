@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:30:08.933Z",
+    "timestamp": "2020-09-22T00:30:21.199Z",
     "version": {
         "major": 1,
-        "minor": 1859,
+        "minor": 1860,
         "patch": 0
     },
     "keywords": [
@@ -12514,6 +12514,14 @@
             "address": "0xCeD4E93198734dDaFf8492d525Bd258D49eb388E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xced4e93198734ddaff8492d525bd258d49eb388e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bitgear",
+            "symbol": "GEAR",
+            "address": "0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1b980e05943de3db3a459c72325338d327b6f5a9/icon.png"
         }
     ]
 }
