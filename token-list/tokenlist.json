@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:23:31.112Z",
+    "timestamp": "2020-09-22T00:23:44.518Z",
     "version": {
         "major": 1,
-        "minor": 1827,
+        "minor": 1828,
         "patch": 0
     },
     "keywords": [
@@ -12275,6 +12275,14 @@
             "symbol": "PDC",
             "address": "0xAF0336137c2f68E881cEa7d95059E6B2ddCf7E57",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CargoX",
+            "symbol": "CXO",
+            "address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb6ee9668771a79be7967ee29a63d4184f8097143/icon.png"
         }
     ]
 }
