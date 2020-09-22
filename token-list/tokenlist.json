@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:04:38.910Z",
+    "timestamp": "2020-09-22T00:04:51.163Z",
     "version": {
         "major": 1,
-        "minor": 1734,
+        "minor": 1735,
         "patch": 0
     },
     "keywords": [
@@ -11601,6 +11601,14 @@
             "address": "0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x810908b285f85af668f6348cd8b26d76b3ec12e1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MATH",
+            "symbol": "MATH",
+            "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x08d967bb0134f2d07f7cfb6e246680c53927dd30/icon.png"
         }
     ]
 }
