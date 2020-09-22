@@ -1,0 +1,9 @@
+{
+    "name": "Donut",
+    "symbol": "DONUT",
+    "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
