@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T12:44:44.483Z",
+    "timestamp": "2020-09-22T12:57:14.967Z",
     "version": {
         "major": 1,
-        "minor": 2128,
+        "minor": 2129,
         "patch": 0
     },
     "keywords": [
@@ -14243,6 +14243,13 @@
             "name": "GKD",
             "symbol": "GKD",
             "address": "0x0b2b20dD71a9DcC1D0d9236dB6B2C2d2598BDDE5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DiFy.Finance",
+            "symbol": "YFIII",
+            "address": "0x4be40bc9681D0A7C24A99b4c92F85B9053Fc2A45",
             "decimals": 18
         }
     ]
