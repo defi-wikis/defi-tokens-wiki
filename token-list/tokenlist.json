@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:28:58.074Z",
+    "timestamp": "2020-09-22T00:29:13.173Z",
     "version": {
         "major": 1,
-        "minor": 1854,
+        "minor": 1855,
         "patch": 0
     },
     "keywords": [
@@ -12474,6 +12474,14 @@
             "symbol": "FAZR",
             "address": "0x6e4D93Efc2BeaC20992197278AD41f8d10b3EFAA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GEEQ",
+            "symbol": "GEEQ",
+            "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6b9f031d718dded0d681c20cb754f97b3bb81b78/icon.png"
         }
     ]
 }
