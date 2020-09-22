@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:14:24.309Z",
+    "timestamp": "2020-09-22T00:14:36.476Z",
     "version": {
         "major": 1,
-        "minor": 1782,
+        "minor": 1783,
         "patch": 0
     },
     "keywords": [
@@ -11962,6 +11962,14 @@
             "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0xf552b656022c218c26dad43ad88881fc04116f76/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PieDAO USD  ",
+            "symbol": "USD++",
+            "address": "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e/icon.png"
         }
     ]
 }
