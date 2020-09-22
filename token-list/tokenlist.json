@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:01:31.091Z",
+    "timestamp": "2020-09-22T01:01:45.934Z",
     "version": {
         "major": 1,
-        "minor": 2016,
+        "minor": 2017,
         "patch": 0
     },
     "keywords": [
@@ -13658,6 +13658,14 @@
             "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0cf0ee63788a0849fe5297f3407f701e122cc023/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Toast finance",
+            "symbol": "HOUSE",
+            "address": "0x19810559dF63f19cfE88923313250550eDADB743",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x19810559df63f19cfe88923313250550edadb743/icon.png"
         }
     ]
 }
