@@ -3,7 +3,5 @@
     "symbol": "PROPS",
     "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
