@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T14:06:19.617Z",
+    "timestamp": "2020-09-22T14:23:15.002Z",
     "version": {
         "major": 1,
-        "minor": 2137,
+        "minor": 2138,
         "patch": 0
     },
     "keywords": [
@@ -14306,6 +14306,13 @@
             "name": "Moon Farm",
             "symbol": "MFS",
             "address": "0x63C58584e8F1EB02522550fbABd89a7cBfC796F0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.devFinance",
+            "symbol": "DeYFV",
+            "address": "0x46e14005927eDF5bB204082fe83eD5A6FF76E2Ab",
             "decimals": 18
         }
     ]
