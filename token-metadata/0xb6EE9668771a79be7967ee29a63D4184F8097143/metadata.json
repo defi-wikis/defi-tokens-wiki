@@ -3,7 +3,5 @@
     "symbol": "CXO",
     "address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
