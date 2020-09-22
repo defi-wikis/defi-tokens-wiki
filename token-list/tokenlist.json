@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T21:33:35.333Z",
+    "timestamp": "2020-09-22T21:37:14.811Z",
     "version": {
         "major": 1,
-        "minor": 2278,
+        "minor": 2279,
         "patch": 0
     },
     "keywords": [
@@ -14682,6 +14682,13 @@
             "name": "PoFI Network Token @ PoFi.Network",
             "symbol": "POFI",
             "address": "0x2C5f9325Ec8F6c88e0D701A3E816Eaa99f10Db0b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAMBOtoken.finance",
+            "symbol": "LAMBO",
+            "address": "0x68B81754b6DDaB5142c101ba364838B4f7FF8c5e",
             "decimals": 18
         }
     ]
