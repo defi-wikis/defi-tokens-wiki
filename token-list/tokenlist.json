@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:42:19.053Z",
+    "timestamp": "2020-09-22T00:42:31.949Z",
     "version": {
         "major": 1,
-        "minor": 1918,
+        "minor": 1919,
         "patch": 0
     },
     "keywords": [
@@ -12940,6 +12940,14 @@
             "address": "0x625aE63000f46200499120B906716420bd059240",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x625ae63000f46200499120b906716420bd059240/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MYX Network",
+            "symbol": "MYX",
+            "address": "0x2129fF6000b95A973236020BCd2b2006B0D8E019",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2129ff6000b95a973236020bcd2b2006b0d8e019/icon.png"
         }
     ]
 }
