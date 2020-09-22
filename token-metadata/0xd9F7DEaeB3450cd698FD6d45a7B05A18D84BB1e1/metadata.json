@@ -3,7 +3,5 @@
     "symbol": "NEXE",
     "address": "0xd9F7DEaeB3450cd698FD6d45a7B05A18D84BB1e1",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
