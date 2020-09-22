@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:20:03.291Z",
+    "timestamp": "2020-09-22T00:20:13.572Z",
     "version": {
         "major": 1,
-        "minor": 1810,
+        "minor": 1811,
         "patch": 0
     },
     "keywords": [
@@ -12160,6 +12160,13 @@
             "address": "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x66fd97a78d8854fec445cd1c80a07896b0b4851f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Zest Token",
+            "symbol": "ZEST",
+            "address": "0x757703bD5B2c4BBCfde0BE2C0b0E7C2f31FCf4E9",
+            "decimals": 18
         }
     ]
 }
