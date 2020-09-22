@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T09:11:49.867Z",
+    "timestamp": "2020-09-22T09:45:29.477Z",
     "version": {
         "major": 1,
-        "minor": 2111,
+        "minor": 2112,
         "patch": 0
     },
     "keywords": [
@@ -14124,6 +14124,13 @@
             "name": "SUPER",
             "symbol": "SUPER",
             "address": "0x058391E75eE8F675c7EECA35fD6d12B11E73b4b6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XFV Finance",
+            "symbol": "XFV",
+            "address": "0x3F231430b09a9A2Ca4cE74299e769F10084289B0",
             "decimals": 18
         }
     ]
