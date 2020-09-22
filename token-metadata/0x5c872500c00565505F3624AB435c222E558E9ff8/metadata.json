@@ -3,7 +3,5 @@
     "symbol": "COT",
     "address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
