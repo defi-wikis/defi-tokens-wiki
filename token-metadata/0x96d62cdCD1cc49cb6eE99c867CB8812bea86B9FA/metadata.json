@@ -3,7 +3,5 @@
     "symbol": "YFP",
     "address": "0x96d62cdCD1cc49cb6eE99c867CB8812bea86B9FA",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
