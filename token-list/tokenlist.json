@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:24:07.683Z",
+    "timestamp": "2020-09-22T00:24:20.938Z",
     "version": {
         "major": 1,
-        "minor": 1830,
+        "minor": 1831,
         "patch": 0
     },
     "keywords": [
@@ -12298,6 +12298,14 @@
             "symbol": "MXX",
             "address": "0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Bread",
+            "symbol": "BRD",
+            "address": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x558ec3152e2eb2174905cd19aea4e34a23de9ad6/icon.png"
         }
     ]
 }
