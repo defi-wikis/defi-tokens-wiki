@@ -3,7 +3,5 @@
     "symbol": "CAT",
     "address": "0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
