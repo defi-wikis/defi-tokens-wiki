@@ -3,7 +3,5 @@
     "symbol": "XCM",
     "address": "0x44E2ca91ceA1147f1B503e669f06CD11FB0C5490",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
