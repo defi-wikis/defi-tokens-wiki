@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:41:05.839Z",
+    "timestamp": "2020-09-22T00:41:18.751Z",
     "version": {
         "major": 1,
-        "minor": 1912,
+        "minor": 1913,
         "patch": 0
     },
     "keywords": [
@@ -207,10 +207,11 @@
         },
         {
             "chainId": 1,
-            "name": "Aave Interest bearing DAI",
-            "symbol": "aDAI",
+            "name": "Aave DAI",
+            "symbol": "ADAI",
             "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d/icon.png"
         },
         {
             "chainId": 1,
