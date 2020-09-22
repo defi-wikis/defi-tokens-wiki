@@ -1,0 +1,9 @@
+{
+    "name": "Universal Liquidity",
+    "symbol": "ULU",
+    "address": "0x035bfe6057E15Ea692c0DfdcaB3BB41a64Dd2aD4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
