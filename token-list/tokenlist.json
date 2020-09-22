@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T04:36:24.887Z",
+    "timestamp": "2020-09-22T04:42:06.857Z",
     "version": {
         "major": 1,
-        "minor": 2059,
+        "minor": 2060,
         "patch": 0
     },
     "keywords": [
@@ -13911,6 +13911,13 @@
             "name": "GoodFriendsFinance",
             "symbol": "GFF",
             "address": "0xC63ddAc214f6845849230D526BFaB5526e6d138c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YXX.Finance",
+            "symbol": "YXX",
+            "address": "0x6c2124C7f5E59606fb59f3F39B88B0e000FBBeDb",
             "decimals": 18
         }
     ]
