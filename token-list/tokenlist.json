@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T03:12:10.319Z",
+    "timestamp": "2020-09-22T03:27:14.261Z",
     "version": {
         "major": 1,
-        "minor": 2051,
+        "minor": 2052,
         "patch": 0
     },
     "keywords": [
@@ -13855,6 +13855,13 @@
             "name": "ZUT WAGE",
             "symbol": "ZWAG",
             "address": "0xA1C8291Edf1de263E0D6A92aA7CF70a4D255A51F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Super Yin Yang",
+            "symbol": "SYYF",
+            "address": "0xA9402793F40B8e4A2cb79555bbaBD45E40fAe0E3",
             "decimals": 18
         }
     ]
