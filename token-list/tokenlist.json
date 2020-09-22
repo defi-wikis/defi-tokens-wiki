@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:38:30.675Z",
+    "timestamp": "2020-09-22T00:38:43.547Z",
     "version": {
         "major": 1,
-        "minor": 1900,
+        "minor": 1901,
         "patch": 0
     },
     "keywords": [
@@ -12833,6 +12833,14 @@
             "address": "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AllianceBlock",
+            "symbol": "ALBT",
+            "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x00a8b738e453ffd858a7edf03bccfe20412f0eb0/icon.png"
         }
     ]
 }
