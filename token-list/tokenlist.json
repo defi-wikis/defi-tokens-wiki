@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:24:18.880Z",
+    "timestamp": "2020-09-22T17:24:32.024Z",
     "version": {
         "major": 1,
-        "minor": 2235,
+        "minor": 2236,
         "patch": 0
     },
     "keywords": [
@@ -10278,7 +10278,8 @@
             "symbol": "RARI",
             "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xfca59cd816ab1ead66534d82bc21e7515ce441cf/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xfca59cd816ab1ead66534d82bc21e7515ce441cf/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
