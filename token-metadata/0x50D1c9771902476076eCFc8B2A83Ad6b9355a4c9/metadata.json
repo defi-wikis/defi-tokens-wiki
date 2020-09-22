@@ -1,0 +1,9 @@
+{
+    "name": "FTX Token",
+    "symbol": "FTT",
+    "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
