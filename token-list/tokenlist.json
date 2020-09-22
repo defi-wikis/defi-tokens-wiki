@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:03:27.869Z",
+    "timestamp": "2020-09-22T00:03:39.853Z",
     "version": {
         "major": 1,
-        "minor": 1728,
+        "minor": 1729,
         "patch": 0
     },
     "keywords": [
@@ -11554,6 +11554,14 @@
             "address": "0x525794473F7ab5715C81d06d10f52d11cC052804",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x525794473f7ab5715c81d06d10f52d11cc052804/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Arcona",
+            "symbol": "ARCONA",
+            "address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0f71b8de197a1c84d31de0f1fa7926c365f052b3/icon.png"
         }
     ]
 }
