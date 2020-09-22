@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:11:46.021Z",
+    "timestamp": "2020-09-22T00:11:58.602Z",
     "version": {
         "major": 1,
-        "minor": 1769,
+        "minor": 1770,
         "patch": 0
     },
     "keywords": [
@@ -11868,6 +11868,14 @@
             "address": "0xc4199fB6FFDb30A829614becA030f9042f1c3992",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc4199fb6ffdb30a829614beca030f9042f1c3992/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Davecoin",
+            "symbol": "DDTG",
+            "address": "0x56CdBbeec9828962cECB3f1b69517d430295D952",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x56cdbbeec9828962cecb3f1b69517d430295d952/icon.png"
         }
     ]
 }
