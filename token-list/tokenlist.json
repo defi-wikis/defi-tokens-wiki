@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:01:35.767Z",
+    "timestamp": "2020-09-22T05:01:38.791Z",
     "version": {
         "major": 1,
-        "minor": 2069,
+        "minor": 2070,
         "patch": 0
     },
     "keywords": [
@@ -9634,7 +9634,10 @@
             "symbol": "HAKKA",
             "address": "0x0E29e5AbbB5FD88e28b2d355774e73BD47dE3bcd",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
