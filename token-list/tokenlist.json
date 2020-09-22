@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:40:59.486Z",
+    "timestamp": "2020-09-22T01:42:34.651Z",
     "version": {
         "major": 1,
-        "minor": 2030,
+        "minor": 2031,
         "patch": 0
     },
     "keywords": [
@@ -13756,6 +13756,13 @@
             "name": "MysteryToken",
             "symbol": "MYSTERY",
             "address": "0x6Af95095805981A752A0E53933eC4ba0560fC9dB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuy",
+            "symbol": "DontBuy",
+            "address": "0x3f2892546F7832F22E65FE068DF5a6Dc408C7331",
             "decimals": 18
         }
     ]
