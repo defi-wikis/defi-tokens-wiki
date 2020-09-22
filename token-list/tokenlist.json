@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:39:32.234Z",
+    "timestamp": "2020-09-22T00:39:44.463Z",
     "version": {
         "major": 1,
-        "minor": 1905,
+        "minor": 1906,
         "patch": 0
     },
     "keywords": [
@@ -12865,6 +12865,14 @@
             "address": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Tolar",
+            "symbol": "TOL",
+            "address": "0xd07D9Fe2d2cc067015E2b4917D24933804f42cFA",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd07d9fe2d2cc067015e2b4917d24933804f42cfa/icon.png"
         }
     ]
 }
