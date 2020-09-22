@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:20:02.111Z",
+    "timestamp": "2020-09-22T17:20:24.592Z",
     "version": {
         "major": 1,
-        "minor": 2224,
+        "minor": 2225,
         "patch": 0
     },
     "keywords": [
@@ -2327,7 +2327,9 @@
             "name": "yearn Dai Stablecoin",
             "symbol": "yDAI",
             "address": "0xACd43E627e64355f1861cEC6d3a6688B31a6F952",
-            "decimals": 18
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0xacd43e627e64355f1861cec6d3a6688b31a6f952/icon.png"
         },
         {
             "chainId": 1,
