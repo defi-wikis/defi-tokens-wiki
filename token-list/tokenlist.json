@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:10:39.706Z",
+    "timestamp": "2020-09-22T05:21:19.400Z",
     "version": {
         "major": 1,
-        "minor": 2093,
+        "minor": 2094,
         "patch": 0
     },
     "keywords": [
@@ -13998,6 +13998,13 @@
             "name": "YOINK",
             "symbol": "YOINK",
             "address": "0xF52C0130d028F3BEB47af49F372A5dc2a3F9A42c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MaskDAO",
+            "symbol": "MSK",
+            "address": "0x6954874e3E9cCb527d0CaA602BE5502dB2A1D76a",
             "decimals": 18
         }
     ]
