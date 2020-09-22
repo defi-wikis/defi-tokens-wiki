@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:10:10.205Z",
+    "timestamp": "2020-09-22T00:10:20.372Z",
     "version": {
         "major": 1,
-        "minor": 1761,
+        "minor": 1762,
         "patch": 0
     },
     "keywords": [
@@ -11805,6 +11805,13 @@
             "address": "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Seed Venture",
+            "symbol": "SEED",
+            "address": "0xC969e16e63fF31ad4BCAc3095C616644e6912d79",
+            "decimals": 18
         }
     ]
 }
