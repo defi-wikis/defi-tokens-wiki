@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T06:38:24.780Z",
+    "timestamp": "2020-09-22T06:39:19.333Z",
     "version": {
         "major": 1,
-        "minor": 2100,
+        "minor": 2101,
         "patch": 0
     },
     "keywords": [
@@ -14047,6 +14047,13 @@
             "name": "Avocado",
             "symbol": "GUAC",
             "address": "0x6c2070e3831c30b4430ec28d24976aF4252a495F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "In and Out",
+            "symbol": "IAO",
+            "address": "0xD1a7Df60AA7908D3f6a237Ed43BE9e881a696869",
             "decimals": 18
         }
     ]
