@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T03:09:29.236Z",
+    "timestamp": "2020-09-22T03:09:54.914Z",
     "version": {
         "major": 1,
-        "minor": 2049,
+        "minor": 2050,
         "patch": 0
     },
     "keywords": [
@@ -13842,6 +13842,13 @@
             "symbol": "GWI",
             "address": "0x869411CE22058D0B6692F9579627b0f065D2265C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AUTonioUnited States Dollar",
+            "symbol": "AUTU",
+            "address": "0x829aA8E3455d0D6F18ed46121a64268CA0782465",
+            "decimals": 6
         }
     ]
 }
