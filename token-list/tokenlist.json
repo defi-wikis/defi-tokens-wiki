@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:32:17.024Z",
+    "timestamp": "2020-09-22T00:32:29.576Z",
     "version": {
         "major": 1,
-        "minor": 1869,
+        "minor": 1870,
         "patch": 0
     },
     "keywords": [
@@ -12592,6 +12592,14 @@
             "address": "0x4156D3342D5c385a87D264F90653733592000581",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x4156d3342d5c385a87d264f90653733592000581/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Gimli",
+            "symbol": "GIM",
+            "address": "0xaE4f56F072c34C0a65B3ae3E4DB797D831439D93",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xae4f56f072c34c0a65b3ae3e4db797d831439d93/icon.png"
         }
     ]
 }
