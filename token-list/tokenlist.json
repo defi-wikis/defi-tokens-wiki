@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:48:31.822Z",
+    "timestamp": "2020-09-22T00:48:41.183Z",
     "version": {
         "major": 1,
-        "minor": 1950,
+        "minor": 1951,
         "patch": 0
     },
     "keywords": [
@@ -13173,6 +13173,13 @@
             "address": "0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Proto",
+            "symbol": "YFP",
+            "address": "0x96d62cdCD1cc49cb6eE99c867CB8812bea86B9FA",
+            "decimals": 18
         }
     ]
 }
