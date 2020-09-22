@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T14:58:14.700Z",
+    "timestamp": "2020-09-22T15:07:49.415Z",
     "version": {
         "major": 1,
-        "minor": 2143,
+        "minor": 2144,
         "patch": 0
     },
     "keywords": [
@@ -14348,6 +14348,13 @@
             "name": "$ROPE",
             "symbol": "$ROPE",
             "address": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BaaToken",
+            "symbol": "BAA",
+            "address": "0x4DE552184F06AbF0367792A718c9a6Ac20E3fd66",
             "decimals": 18
         }
     ]
