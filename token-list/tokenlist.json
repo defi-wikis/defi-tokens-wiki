@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:14:57.481Z",
+    "timestamp": "2020-09-22T00:15:10.498Z",
     "version": {
         "major": 1,
-        "minor": 1785,
+        "minor": 1786,
         "patch": 0
     },
     "keywords": [
@@ -11985,6 +11985,14 @@
             "symbol": "UFC",
             "address": "0x995dE3D961b40Ec6CDee0009059D48768ccbdD48",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "UniGraph",
+            "symbol": "GRAPH",
+            "address": "0x165440036Ce972C5F8EBef667086707e48B2623e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x165440036ce972c5f8ebef667086707e48b2623e/icon.png"
         }
     ]
 }
