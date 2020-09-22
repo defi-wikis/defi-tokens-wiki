@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:07:55.002Z",
+    "timestamp": "2020-09-22T00:08:04.603Z",
     "version": {
         "major": 1,
-        "minor": 1750,
+        "minor": 1751,
         "patch": 0
     },
     "keywords": [
@@ -11726,6 +11726,13 @@
             "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7d29a64504629172a429e64183d6673b9dacbfce/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DecenTradex",
+            "symbol": "DCX",
+            "address": "0x199c3DdedB0e91dB3897039AF27c23286269F088",
+            "decimals": 8
         }
     ]
 }
