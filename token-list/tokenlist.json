@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T14:48:34.395Z",
+    "timestamp": "2020-09-22T14:57:10.747Z",
     "version": {
         "major": 1,
-        "minor": 2141,
+        "minor": 2142,
         "patch": 0
     },
     "keywords": [
@@ -14334,6 +14334,13 @@
             "name": "yfpi.finance",
             "symbol": "YFPI",
             "address": "0xAA80F3DfF2C94474c4fa9dadfA9BaD93abA6d548",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dify.finance",
+            "symbol": "DIFY",
+            "address": "0xD0D29055D4A17a04149D3611459D50f74F512ADf",
             "decimals": 18
         }
     ]
