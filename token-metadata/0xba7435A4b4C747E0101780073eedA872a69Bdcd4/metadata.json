@@ -1,0 +1,9 @@
+{
+    "name": "Airdrop Token",
+    "symbol": "AIRDROP",
+    "address": "0xba7435A4b4C747E0101780073eedA872a69Bdcd4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
