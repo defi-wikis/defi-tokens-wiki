@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:09:43.354Z",
+    "timestamp": "2020-09-22T00:09:50.169Z",
     "version": {
         "major": 1,
-        "minor": 1758,
+        "minor": 1759,
         "patch": 0
     },
     "keywords": [
@@ -11782,6 +11782,13 @@
             "address": "0x821144518dfE9e7b44fCF4d0824e15e8390d4637",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x821144518dfe9e7b44fcf4d0824e15e8390d4637/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyEleven",
+            "symbol": "DontBuyEleven",
+            "address": "0xFD953D2c0Cf8cDa78dA19fC3c90FF4e2EBD42e33",
+            "decimals": 18
         }
     ]
 }
