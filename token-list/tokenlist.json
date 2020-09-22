@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T22:31:20.496Z",
+    "timestamp": "2020-09-22T22:32:54.699Z",
     "version": {
         "major": 1,
-        "minor": 2283,
+        "minor": 2284,
         "patch": 0
     },
     "keywords": [
@@ -14717,6 +14717,13 @@
             "name": "FEW Citadel",
             "symbol": "FEW",
             "address": "0xFA73a8e9A1198b7888FFa93E8136482DF979a255",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNO",
+            "symbol": "UNO",
+            "address": "0x2d032231E2E5ab9628a3C745b71cE27C2F6138A9",
             "decimals": 18
         }
     ]
