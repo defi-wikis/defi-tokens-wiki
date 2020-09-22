@@ -1,0 +1,9 @@
+{
+    "name": "Rug",
+    "symbol": "RUG",
+    "address": "0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
