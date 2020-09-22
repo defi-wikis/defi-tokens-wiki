@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T03:09:54.914Z",
+    "timestamp": "2020-09-22T03:12:10.319Z",
     "version": {
         "major": 1,
-        "minor": 2050,
+        "minor": 2051,
         "patch": 0
     },
     "keywords": [
@@ -13849,6 +13849,13 @@
             "symbol": "AUTU",
             "address": "0x829aA8E3455d0D6F18ed46121a64268CA0782465",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "ZUT WAGE",
+            "symbol": "ZWAG",
+            "address": "0xA1C8291Edf1de263E0D6A92aA7CF70a4D255A51F",
+            "decimals": 18
         }
     ]
 }
