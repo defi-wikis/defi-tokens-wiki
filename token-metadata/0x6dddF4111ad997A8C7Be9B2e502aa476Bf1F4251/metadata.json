@@ -1,0 +1,9 @@
+{
+    "name": "Unimonitor",
+    "symbol": "UNT",
+    "address": "0x6dddF4111ad997A8C7Be9B2e502aa476Bf1F4251",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
