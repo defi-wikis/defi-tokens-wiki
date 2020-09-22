@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:07:08.363Z",
+    "timestamp": "2020-09-22T00:07:20.590Z",
     "version": {
         "major": 1,
-        "minor": 1746,
+        "minor": 1747,
         "patch": 0
     },
     "keywords": [
@@ -11695,6 +11695,14 @@
             "address": "0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4ba6ddd7b89ed838fed25d208d4f644106e34279/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BNS Token",
+            "symbol": "BNS",
+            "address": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x695106ad73f506f9d0a9650a78019a93149ae07c/icon.png"
         }
     ]
 }
