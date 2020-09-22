@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:59:35.693Z",
+    "timestamp": "2020-09-22T00:59:47.443Z",
     "version": {
         "major": 1,
-        "minor": 2006,
+        "minor": 2007,
         "patch": 0
     },
     "keywords": [
@@ -13589,6 +13589,14 @@
             "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MyBit Token",
+            "symbol": "MYB",
+            "address": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc/icon.png"
         }
     ]
 }
