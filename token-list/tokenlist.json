@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:49:54.430Z",
+    "timestamp": "2020-09-22T00:50:07.251Z",
     "version": {
         "major": 1,
-        "minor": 1957,
+        "minor": 1958,
         "patch": 0
     },
     "keywords": [
@@ -13228,6 +13228,14 @@
             "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YF Link",
+            "symbol": "YFL",
+            "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x28cb7e841ee97947a86b06fa4090c8451f64c0be/icon.png"
         }
     ]
 }
