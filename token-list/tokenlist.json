@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:21:54.494Z",
+    "timestamp": "2020-09-22T17:22:15.648Z",
     "version": {
         "major": 1,
-        "minor": 2228,
+        "minor": 2229,
         "patch": 0
     },
     "keywords": [
@@ -11355,7 +11355,9 @@
             "name": "cWBTC",
             "symbol": "CWBTC",
             "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
-            "decimals": 8
+            "decimals": 8,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4/icon.png"
         },
         {
             "chainId": 1,
