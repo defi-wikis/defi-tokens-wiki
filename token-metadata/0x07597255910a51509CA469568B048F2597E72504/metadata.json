@@ -1,0 +1,9 @@
+{
+    "name": "Uptrennd",
+    "symbol": "1UP",
+    "address": "0x07597255910a51509CA469568B048F2597E72504",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
