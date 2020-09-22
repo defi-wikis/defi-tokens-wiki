@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T22:42:19.903Z",
+    "timestamp": "2020-09-22T22:46:49.629Z",
     "version": {
         "major": 1,
-        "minor": 2285,
+        "minor": 2286,
         "patch": 0
     },
     "keywords": [
@@ -14732,6 +14732,13 @@
             "symbol": "TFE",
             "address": "0xf3225C3cD4A5fC0560159AAD73332c69c5F0CaCc",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "CHAD CLUB",
+            "symbol": "CHAD",
+            "address": "0xb5969d36A826D365dCE9FC121F1bc10f4AFfd2D1",
+            "decimals": 18
         }
     ]
 }
