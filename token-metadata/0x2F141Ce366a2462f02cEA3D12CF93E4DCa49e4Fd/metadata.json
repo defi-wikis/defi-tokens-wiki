@@ -1,0 +1,9 @@
+{
+    "name": "FREE coin",
+    "symbol": "FREE",
+    "address": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
