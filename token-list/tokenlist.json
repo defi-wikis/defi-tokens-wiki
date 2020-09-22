@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:27:15.323Z",
+    "timestamp": "2020-09-22T00:27:27.008Z",
     "version": {
         "major": 1,
-        "minor": 1846,
+        "minor": 1847,
         "patch": 0
     },
     "keywords": [
@@ -12419,6 +12419,14 @@
             "symbol": "VYBE",
             "address": "0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Buccaneer",
+            "symbol": "PRIVATE",
+            "address": "0x17540494Ad5E39AEFD49901774528e9ff17FE40B",
+            "decimals": 3,
+            "logoURI": "https://tokens.dharma.io/assets/0x17540494ad5e39aefd49901774528e9ff17fe40b/icon.png"
         }
     ]
 }
