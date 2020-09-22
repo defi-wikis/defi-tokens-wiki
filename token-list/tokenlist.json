@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T21:20:59.498Z",
+    "timestamp": "2020-09-22T21:33:35.333Z",
     "version": {
         "major": 1,
-        "minor": 2277,
+        "minor": 2278,
         "patch": 0
     },
     "keywords": [
@@ -14676,6 +14676,13 @@
             "symbol": "DUCK",
             "address": "0xA97f70640E03D909F573989FB825D166bC7CdbfE",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "PoFI Network Token @ PoFi.Network",
+            "symbol": "POFI",
+            "address": "0x2C5f9325Ec8F6c88e0D701A3E816Eaa99f10Db0b",
+            "decimals": 18
         }
     ]
 }
