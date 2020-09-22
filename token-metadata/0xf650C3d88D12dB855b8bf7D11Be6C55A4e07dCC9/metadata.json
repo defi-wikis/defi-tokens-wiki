@@ -3,5 +3,6 @@
     "symbol": "CUSDT",
     "address": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
     "decimals": 8,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["yield-bearing"]
 }

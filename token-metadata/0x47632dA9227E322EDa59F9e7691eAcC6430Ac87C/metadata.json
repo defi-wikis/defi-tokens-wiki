@@ -3,5 +3,6 @@
     "symbol": "YFIB",
     "address": "0x47632dA9227E322EDa59F9e7691eAcC6430Ac87C",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["yield-farming", "yfi-inspired"]
 }

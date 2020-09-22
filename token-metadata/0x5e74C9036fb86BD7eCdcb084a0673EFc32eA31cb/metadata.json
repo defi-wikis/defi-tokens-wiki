@@ -3,5 +3,6 @@
     "symbol": "SETH",
     "address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["synthetics"]
 }

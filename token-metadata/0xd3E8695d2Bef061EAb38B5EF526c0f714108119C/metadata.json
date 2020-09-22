@@ -3,5 +3,6 @@
     "symbol": "YFIVE",
     "address": "0xd3E8695d2Bef061EAb38B5EF526c0f714108119C",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["yield-farming", "yfi-inspired"]
 }

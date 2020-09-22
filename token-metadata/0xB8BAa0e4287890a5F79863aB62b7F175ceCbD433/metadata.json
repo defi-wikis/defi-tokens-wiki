@@ -3,5 +3,6 @@
     "symbol": "SWRV",
     "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["amm", "daos"]
 }

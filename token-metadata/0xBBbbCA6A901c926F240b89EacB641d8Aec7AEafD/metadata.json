@@ -3,5 +3,6 @@
     "symbol": "LRC",
     "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": "scaling"
 }

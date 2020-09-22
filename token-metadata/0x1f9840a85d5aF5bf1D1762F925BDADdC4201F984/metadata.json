@@ -3,5 +3,6 @@
     "symbol": "UNI",
     "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["yield-farming", "amm", "a16z", "paradigm", "daos"]
 }
