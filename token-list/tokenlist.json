@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:37:31.560Z",
+    "timestamp": "2020-09-22T00:37:43.467Z",
     "version": {
         "major": 1,
-        "minor": 1895,
+        "minor": 1896,
         "patch": 0
     },
     "keywords": [
@@ -12794,6 +12794,14 @@
             "address": "0xE17f017475a709De58E976081eB916081ff4c9d5",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0xe17f017475a709de58e976081eb916081ff4c9d5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Melon",
+            "symbol": "MLN",
+            "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xec67005c4e498ec7f55e092bd1d35cbc47c91892/icon.png"
         }
     ]
 }
