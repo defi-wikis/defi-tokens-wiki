@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:26:19.685Z",
+    "timestamp": "2020-09-22T00:26:27.755Z",
     "version": {
         "major": 1,
-        "minor": 1841,
+        "minor": 1842,
         "patch": 0
     },
     "keywords": [
@@ -12382,6 +12382,13 @@
             "symbol": "ETH",
             "address": "0x1A9b2f47433cbAaCf63DAe98a47532F60C45E76F",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "HilkCoin",
+            "symbol": "HILK",
+            "address": "0x9D54F8f50424B3b40055cf1261924E4c5A34E562",
+            "decimals": 16
         }
     ]
 }
