@@ -3,7 +3,5 @@
     "symbol": "NANJ",
     "address": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
