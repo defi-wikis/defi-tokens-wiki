@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T04:11:30.101Z",
+    "timestamp": "2020-09-22T04:19:44.397Z",
     "version": {
         "major": 1,
-        "minor": 2055,
+        "minor": 2056,
         "patch": 0
     },
     "keywords": [
@@ -13884,6 +13884,13 @@
             "symbol": "DRC",
             "address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "power.trade",
+            "symbol": "PTF",
+            "address": "0xEe5BdB262db4448bB663ddF85d6eF6395FAD64C1",
+            "decimals": 18
         }
     ]
 }
