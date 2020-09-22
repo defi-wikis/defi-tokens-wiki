@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T23:36:24.776Z",
+    "timestamp": "2020-09-22T23:37:28.899Z",
     "version": {
         "major": 1,
-        "minor": 2293,
+        "minor": 2294,
         "patch": 0
     },
     "keywords": [
@@ -14788,6 +14788,13 @@
             "symbol": "REVO",
             "address": "0x0C64167A02fDEa0935FA7dFF44Eb97C0dcb0BE68",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfPENTA",
+            "symbol": "YFPENTA",
+            "address": "0x07dD7c24e93B3434C6fb36463D4DBB42cDA799C3",
+            "decimals": 0
         }
     ]
 }
