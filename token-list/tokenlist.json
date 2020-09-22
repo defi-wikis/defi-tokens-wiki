@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:06:01.177Z",
+    "timestamp": "2020-09-22T00:06:13.296Z",
     "version": {
         "major": 1,
-        "minor": 1741,
+        "minor": 1742,
         "patch": 0
     },
     "keywords": [
@@ -11655,6 +11655,14 @@
             "address": "0x4eC2eFb9cBd374786A03261E46ffce1a67756f3B",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4ec2efb9cbd374786a03261e46ffce1a67756f3b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BiLira",
+            "symbol": "TRYB",
+            "address": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x2c537e5624e4af88a7ae4060c022609376c8d0eb/icon.png"
         }
     ]
 }
