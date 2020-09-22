@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:10:32.890Z",
+    "timestamp": "2020-09-22T00:10:44.162Z",
     "version": {
         "major": 1,
-        "minor": 1763,
+        "minor": 1764,
         "patch": 0
     },
     "keywords": [
@@ -11820,6 +11820,14 @@
             "address": "0x40AdFc7c23c22Cc06f94F199a4750D7196F46fbe",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x40adfc7c23c22cc06f94f199a4750d7196f46fbe/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Curio",
+            "symbol": "CUR",
+            "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x13339fd07934cd674269726edf3b5ccee9dd93de/icon.png"
         }
     ]
 }
