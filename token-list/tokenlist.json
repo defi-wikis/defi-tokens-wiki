@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:07:43.638Z",
+    "timestamp": "2020-09-22T00:07:55.002Z",
     "version": {
         "major": 1,
-        "minor": 1749,
+        "minor": 1750,
         "patch": 0
     },
     "keywords": [
@@ -11718,6 +11718,14 @@
             "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc76fb75950536d98fa62ea968e1d6b45ffea2a55/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vectorspace AI",
+            "symbol": "VXV",
+            "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7d29a64504629172a429e64183d6673b9dacbfce/icon.png"
         }
     ]
 }
