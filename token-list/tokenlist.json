@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:16:24.155Z",
+    "timestamp": "2020-09-22T00:16:36.260Z",
     "version": {
         "major": 1,
-        "minor": 1792,
+        "minor": 1793,
         "patch": 0
     },
     "keywords": [
@@ -12033,6 +12033,14 @@
             "address": "0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4b3a0c6d668b43f3f07904e124328659b90bb4ca/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "RigoBlock",
+            "symbol": "GRG",
+            "address": "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4fbb350052bca5417566f188eb2ebce5b19bc964/icon.png"
         }
     ]
 }
