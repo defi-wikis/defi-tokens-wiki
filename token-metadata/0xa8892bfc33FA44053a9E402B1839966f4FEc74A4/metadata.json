@@ -3,7 +3,5 @@
     "symbol": "CUB",
     "address": "0xa8892bfc33FA44053a9E402B1839966f4FEc74A4",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
