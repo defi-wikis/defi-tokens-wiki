@@ -3,7 +3,5 @@
     "symbol": "ZCN",
     "address": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
     "decimals": 10,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
