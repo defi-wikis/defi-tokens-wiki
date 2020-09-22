@@ -1,0 +1,9 @@
+{
+    "name": "Huptex",
+    "symbol": "HTX",
+    "address": "0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994",
+    "decimals": 2,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
