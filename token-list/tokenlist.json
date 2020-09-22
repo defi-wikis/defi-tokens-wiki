@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T19:33:39.944Z",
+    "timestamp": "2020-09-22T19:46:45.169Z",
     "version": {
         "major": 1,
-        "minor": 2271,
+        "minor": 2272,
         "patch": 0
     },
     "keywords": [
@@ -14633,6 +14633,13 @@
             "name": "PoorFag",
             "symbol": "FAG",
             "address": "0xe5868468Cb6Dd5d6D7056bd93f084816c6eF075f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pool",
+            "symbol": "POOL",
+            "address": "0xE718E626533C6A238804464798c19fF0ffB39B9a",
             "decimals": 18
         }
     ]
