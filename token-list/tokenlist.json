@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:50:21.980Z",
+    "timestamp": "2020-09-22T00:50:33.981Z",
     "version": {
         "major": 1,
-        "minor": 1960,
+        "minor": 1961,
         "patch": 0
     },
     "keywords": [
@@ -13251,6 +13251,14 @@
             "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Perpetual Protocol",
+            "symbol": "PERP",
+            "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xbc396689893d065f41bc2c6ecbee5e0085233447/icon.png"
         }
     ]
 }
