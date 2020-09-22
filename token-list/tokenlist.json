@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:28:16.902Z",
+    "timestamp": "2020-09-22T00:28:31.294Z",
     "version": {
         "major": 1,
-        "minor": 1851,
+        "minor": 1852,
         "patch": 0
     },
     "keywords": [
@@ -12451,6 +12451,14 @@
             "address": "0x0a4b2d4B48a63088e0897a3F147Ba37f81a27722",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0a4b2d4b48a63088e0897a3f147ba37f81a27722/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Cotrace",
+            "symbol": "COTR",
+            "address": "0x40428FDD5588197C15DD00B22fe9b9A48afeEb23",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x40428fdd5588197c15dd00b22fe9b9a48afeeb23/icon.png"
         }
     ]
 }
