@@ -3,7 +3,5 @@
     "symbol": "UGC",
     "address": "0xf485C5E679238f9304D986bb2fC28fE3379200e5",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
