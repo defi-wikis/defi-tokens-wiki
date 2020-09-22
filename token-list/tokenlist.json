@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:09:54.742Z",
+    "timestamp": "2020-09-22T00:10:10.205Z",
     "version": {
         "major": 1,
-        "minor": 1760,
+        "minor": 1761,
         "patch": 0
     },
     "keywords": [
@@ -11797,6 +11797,14 @@
             "address": "0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994",
             "decimals": 2,
             "logoURI": "https://tokens.dharma.io/assets/0x38a0df9a08d18dc06cd91fc7ec94a0acdf28d994/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Modum",
+            "symbol": "MOD",
+            "address": "0x957c30aB0426e0C93CD8241E2c60392d08c6aC8e",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e/icon.png"
         }
     ]
 }
