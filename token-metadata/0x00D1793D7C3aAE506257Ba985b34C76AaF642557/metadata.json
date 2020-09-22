@@ -1,0 +1,9 @@
+{
+    "name": "Tacos",
+    "symbol": "TACO",
+    "address": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
