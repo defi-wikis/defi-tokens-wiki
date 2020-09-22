@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:59:23.083Z",
+    "timestamp": "2020-09-22T00:59:35.693Z",
     "version": {
         "major": 1,
-        "minor": 2005,
+        "minor": 2006,
         "patch": 0
     },
     "keywords": [
@@ -13581,6 +13581,14 @@
             "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Shroom Finance",
+            "symbol": "SHROOM",
+            "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xed0439eacf4c4965ae4613d77a5c2efe10e5f183/icon.png"
         }
     ]
 }
