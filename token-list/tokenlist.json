@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:24:19.914Z",
+    "timestamp": "2020-09-22T05:52:24.534Z",
     "version": {
         "major": 1,
-        "minor": 2095,
+        "minor": 2096,
         "patch": 0
     },
     "keywords": [
@@ -14012,6 +14012,13 @@
             "name": "PeachSwap Token",
             "symbol": "TAO",
             "address": "0x812C6770926956e88BDAa40A9Ed6eE233832c4dF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RottenSwap",
+            "symbol": "ROT",
+            "address": "0xa05FfdAB6523364bD3e7abB135d914CBd58397Fe",
             "decimals": 18
         }
     ]
