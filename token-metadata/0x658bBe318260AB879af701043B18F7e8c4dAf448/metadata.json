@@ -1,0 +1,9 @@
+{
+    "name": "AnarchETH",
+    "symbol": "AETH",
+    "address": "0x658bBe318260AB879af701043B18F7e8c4dAf448",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
