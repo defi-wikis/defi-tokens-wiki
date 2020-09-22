@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:03:04.644Z",
+    "timestamp": "2020-09-22T00:03:16.086Z",
     "version": {
         "major": 1,
-        "minor": 1726,
+        "minor": 1727,
         "patch": 0
     },
     "keywords": [
@@ -11538,6 +11538,14 @@
             "address": "0x02F2D4a04E6E01aCE88bD2Cd632875543b2eF577",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x02f2d4a04e6e01ace88bd2cd632875543b2ef577/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "NANJCOIN",
+            "symbol": "NANJ",
+            "address": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265/icon.png"
         }
     ]
 }
