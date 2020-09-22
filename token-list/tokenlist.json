@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:51:58.541Z",
+    "timestamp": "2020-09-22T00:52:08.925Z",
     "version": {
         "major": 1,
-        "minor": 1968,
+        "minor": 1969,
         "patch": 0
     },
     "keywords": [
@@ -13313,6 +13313,13 @@
             "name": "Unimonitor",
             "symbol": "UNT",
             "address": "0x6dddF4111ad997A8C7Be9B2e502aa476Bf1F4251",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nest Protocol",
+            "symbol": "NEST",
+            "address": "0x04abEdA201850aC0124161F037Efd70c74ddC74C",
             "decimals": 18
         }
     ]
