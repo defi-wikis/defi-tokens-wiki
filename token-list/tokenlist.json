@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:12:55.990Z",
+    "timestamp": "2020-09-22T00:13:09.653Z",
     "version": {
         "major": 1,
-        "minor": 1775,
+        "minor": 1776,
         "patch": 0
     },
     "keywords": [
@@ -11907,6 +11907,14 @@
             "symbol": "ECA",
             "address": "0xfab25D4469444f28023075Db5932497D70094601",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LGCY Network",
+            "symbol": "LGCY",
+            "address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xae697f994fc5ebc000f8e22ebffee04612f98a0d/icon.png"
         }
     ]
 }
