@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:41:31.586Z",
+    "timestamp": "2020-09-22T00:41:44.084Z",
     "version": {
         "major": 1,
-        "minor": 1914,
+        "minor": 1915,
         "patch": 0
     },
     "keywords": [
@@ -12908,6 +12908,14 @@
             "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0000000000085d4780b73119b644ae5ecd22b376/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pundi X",
+            "symbol": "NPXS",
+            "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3/icon.png"
         }
     ]
 }
