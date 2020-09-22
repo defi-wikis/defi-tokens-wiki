@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:22:15.648Z",
+    "timestamp": "2020-09-22T17:22:35.598Z",
     "version": {
         "major": 1,
-        "minor": 2229,
+        "minor": 2230,
         "patch": 0
     },
     "keywords": [
@@ -7141,7 +7141,10 @@
             "symbol": "AMPL",
             "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
             "decimals": 9,
-            "logoURI": "https://tokens.dharma.io/assets/0xd46ba6d942050d489dbd938a2c909a5d5039a161/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xd46ba6d942050d489dbd938a2c909a5d5039a161/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
