@@ -54,6 +54,11 @@
     "description": "Tokens backed by Paradigm",
     "emoji": "🔮"
   },
+  "coinbase": {
+      "name": "Coinbase",
+      "description": "Tokens backed by Coinbase",
+      "emoji": "👴🏻"
+  },
   "nft": {
       "name": "NFT",
       "description": "Non-fungible tokens or tokens associated with the NFT ecosystem.",
