@@ -1,0 +1,9 @@
+{
+    "name": "Vectorspace AI",
+    "symbol": "VXV",
+    "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
