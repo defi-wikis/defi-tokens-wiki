@@ -3,7 +3,5 @@
     "symbol": "PLM",
     "address": "0x80d211718f9B9Ba31959a14328Acd8D8c9d5382f",
     "decimals": 6,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
