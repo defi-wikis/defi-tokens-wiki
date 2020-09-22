@@ -3,7 +3,5 @@
     "symbol": "CLOUT",
     "address": "0xa10ae543dB5D967a73E9Abcc69c81a18A7Fc0A78",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
