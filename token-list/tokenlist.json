@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T14:26:45.626Z",
+    "timestamp": "2020-09-22T14:42:25.004Z",
     "version": {
         "major": 1,
-        "minor": 2139,
+        "minor": 2140,
         "patch": 0
     },
     "keywords": [
@@ -14320,6 +14320,13 @@
             "name": "Nano Swap",
             "symbol": "NANS",
             "address": "0xA3C7002726f29C23e35B7df4103c5D423e3f2B0f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FTXv3",
+            "symbol": "FTXv3",
+            "address": "0x3f79dde8d3Fa7f33a7538A58CBB53A55F13644A6",
             "decimals": 18
         }
     ]
