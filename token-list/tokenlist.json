@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:25:31.601Z",
+    "timestamp": "2020-09-22T17:25:57.573Z",
     "version": {
         "major": 1,
-        "minor": 2240,
+        "minor": 2241,
         "patch": 0
     },
     "keywords": [
@@ -106,7 +106,6 @@
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc00e94cb662c3520282e6f5717214004a7f26888/icon.png",
             "tags": [
-                "defi",
                 "yield-farming"
             ]
         },
