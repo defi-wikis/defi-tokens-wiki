@@ -69,7 +69,7 @@
       "description": "Tokens that govern decentralized autonomous organizations (DAOs)",
       "emoji": "🏛"
   },
-  "yield-bearing" {
+  "yield-bearing": {
       "name": "Yield-Bearing",
       "description": "Assets that are wrappers around other tokens earning yield in a DeFi system",
       "emoji": "📈"
