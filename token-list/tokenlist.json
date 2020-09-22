@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:09:50.169Z",
+    "timestamp": "2020-09-22T00:09:54.742Z",
     "version": {
         "major": 1,
-        "minor": 1759,
+        "minor": 1760,
         "patch": 0
     },
     "keywords": [
@@ -11789,6 +11789,14 @@
             "symbol": "DontBuyEleven",
             "address": "0xFD953D2c0Cf8cDa78dA19fC3c90FF4e2EBD42e33",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Huptex",
+            "symbol": "HTX",
+            "address": "0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994",
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x38a0df9a08d18dc06cd91fc7ec94a0acdf28d994/icon.png"
         }
     ]
 }
