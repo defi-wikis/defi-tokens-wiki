@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:10:44.162Z",
+    "timestamp": "2020-09-22T00:10:57.482Z",
     "version": {
         "major": 1,
-        "minor": 1764,
+        "minor": 1765,
         "patch": 0
     },
     "keywords": [
@@ -11828,6 +11828,14 @@
             "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x13339fd07934cd674269726edf3b5ccee9dd93de/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Props Token",
+            "symbol": "PROPS",
+            "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41/icon.png"
         }
     ]
 }
