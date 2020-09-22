@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:02:38.027Z",
+    "timestamp": "2020-09-22T00:02:51.022Z",
     "version": {
         "major": 1,
-        "minor": 1724,
+        "minor": 1725,
         "patch": 0
     },
     "keywords": [
@@ -11522,6 +11522,14 @@
             "address": "0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x42382f39e7c9f1add5fa5f0c6e24aa62f50be3b3/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Panvala Pan",
+            "symbol": "PAN",
+            "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd56dac73a4d6766464b38ec6d91eb45ce7457c44/icon.png"
         }
     ]
 }
