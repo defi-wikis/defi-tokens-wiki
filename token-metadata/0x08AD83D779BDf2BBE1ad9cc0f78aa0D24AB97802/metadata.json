@@ -1,0 +1,9 @@
+{
+    "name": "Robonomics Web Serv",
+    "symbol": "RWS",
+    "address": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
