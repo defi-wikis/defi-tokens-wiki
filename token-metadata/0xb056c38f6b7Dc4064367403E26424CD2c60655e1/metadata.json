@@ -1,0 +1,9 @@
+{
+    "name": "CEEK Smart VR Token",
+    "symbol": "CEEK",
+    "address": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
