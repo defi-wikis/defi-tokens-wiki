@@ -3,7 +3,5 @@
     "symbol": "ZZZ",
     "address": "0xc75F15AdA581219c95485c578E124df3985e4CE0",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
