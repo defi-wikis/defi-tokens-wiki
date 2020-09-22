@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:30:50.447Z",
+    "timestamp": "2020-09-22T01:32:20.398Z",
     "version": {
         "major": 1,
-        "minor": 2023,
+        "minor": 2024,
         "patch": 0
     },
     "keywords": [
@@ -13707,6 +13707,13 @@
             "name": "definer.org",
             "symbol": "FIN",
             "address": "0x4a02403616E2e4f964b932180e67908590Eb0241",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuy20",
+            "symbol": "DontBuy20",
+            "address": "0x089498fe7dEb5533Ba276f915E2EF52cdDF2a34F",
             "decimals": 18
         }
     ]
