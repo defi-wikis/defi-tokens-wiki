@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T16:00:19.533Z",
+    "timestamp": "2020-09-22T16:08:07.518Z",
     "version": {
         "major": 1,
-        "minor": 2195,
+        "minor": 2196,
         "patch": 0
     },
     "keywords": [
@@ -14396,6 +14396,13 @@
             "name": "Gocoworker",
             "symbol": "GOCO",
             "address": "0xE5A9f7D738A839E93E611b9BfA19251542C72427",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Stable Finance Governance Token",
+            "symbol": "SFG",
+            "address": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
             "decimals": 18
         }
     ]
