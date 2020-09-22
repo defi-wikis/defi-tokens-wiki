@@ -3,7 +3,5 @@
     "symbol": "3CS",
     "address": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
