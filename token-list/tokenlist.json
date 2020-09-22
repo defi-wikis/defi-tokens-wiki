@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T21:50:30.303Z",
+    "timestamp": "2020-09-22T22:07:06.458Z",
     "version": {
         "major": 1,
-        "minor": 2280,
+        "minor": 2281,
         "patch": 0
     },
     "keywords": [
@@ -14697,6 +14697,13 @@
             "symbol": "FEW",
             "address": "0x194160cf5351Eb4b54Ea20735B5C1565F3c48A91",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "BunMaker",
+            "symbol": "BUN",
+            "address": "0x944b22D2721ddA5e881a0C20ed08dE1fA2C10fcE",
+            "decimals": 18
         }
     ]
 }
