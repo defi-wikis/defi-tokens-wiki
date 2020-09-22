@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:50:46.170Z",
+    "timestamp": "2020-09-22T00:50:59.620Z",
     "version": {
         "major": 1,
-        "minor": 1962,
+        "minor": 1963,
         "patch": 0
     },
     "keywords": [
@@ -13267,6 +13267,14 @@
             "address": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb056c38f6b7dc4064367403e26424cd2c60655e1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Decentraland",
+            "symbol": "MANA",
+            "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0f5d2fb29fb7d3cfee444a200298f468908cc942/icon.png"
         }
     ]
 }
