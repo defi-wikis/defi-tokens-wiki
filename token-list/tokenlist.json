@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T23:19:54.540Z",
+    "timestamp": "2020-09-22T23:22:07.532Z",
     "version": {
         "major": 1,
-        "minor": 2291,
+        "minor": 2292,
         "patch": 0
     },
     "keywords": [
@@ -14773,6 +14773,13 @@
             "name": "Cybertruck.Finance",
             "symbol": "TRUCK",
             "address": "0x6a3A700f0De835e774EBF1bFA98a943DbF2dD314",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FEW",
+            "symbol": "FEW",
+            "address": "0x7554448dC6734e7B5c9bf0688D2de75AD7d4cEcb",
             "decimals": 18
         }
     ]
