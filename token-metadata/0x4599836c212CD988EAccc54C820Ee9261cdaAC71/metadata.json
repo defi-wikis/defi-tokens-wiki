@@ -1,0 +1,9 @@
+{
+    "name": "Cryptid",
+    "symbol": "CID",
+    "address": "0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
