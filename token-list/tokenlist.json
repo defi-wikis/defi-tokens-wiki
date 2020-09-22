@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T15:18:35.564Z",
+    "timestamp": "2020-09-22T15:18:45.086Z",
     "version": {
         "major": 1,
-        "minor": 2157,
+        "minor": 2158,
         "patch": 0
     },
     "keywords": [
@@ -14368,6 +14368,13 @@
             "name": "deyfk",
             "symbol": "DeYFK",
             "address": "0x5023c43cF2eAaE2bFa4ebF884c0d18f772aBb566",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pot.finance",
+            "symbol": "POT",
+            "address": "0x15105a6D2e8F52041F5c8731a580807De8cFFA81",
             "decimals": 18
         }
     ]
