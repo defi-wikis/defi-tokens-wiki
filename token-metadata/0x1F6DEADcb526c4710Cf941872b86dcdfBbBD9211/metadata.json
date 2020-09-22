@@ -1,0 +1,9 @@
+{
+    "name": "Ruletka",
+    "symbol": "RTK",
+    "address": "0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
