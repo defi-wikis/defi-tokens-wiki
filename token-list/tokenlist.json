@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:16:00.576Z",
+    "timestamp": "2020-09-22T17:16:41.460Z",
     "version": {
         "major": 1,
-        "minor": 2210,
+        "minor": 2211,
         "patch": 0
     },
     "keywords": [
@@ -13566,7 +13566,10 @@
             "symbol": "SUSHI",
             "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
