@@ -1,8 +1,9 @@
 {
-    "name": "Aave Interest bearing DAI",
-    "symbol": "aDAI",
+    "name": "Aave DAI",
+    "symbol": "ADAI",
     "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED",
-    "tags": ["lending"]
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
