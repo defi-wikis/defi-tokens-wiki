@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:18:24.715Z",
+    "timestamp": "2020-09-22T00:18:36.645Z",
     "version": {
         "major": 1,
-        "minor": 1802,
+        "minor": 1803,
         "patch": 0
     },
     "keywords": [
@@ -12104,6 +12104,14 @@
             "symbol": "JT",
             "address": "0xEb7355C2f217b3485a591332Fe13C8c5A76A581D",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlockBurn",
+            "symbol": "BURN",
+            "address": "0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd/icon.png"
         }
     ]
 }
