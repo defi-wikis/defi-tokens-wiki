@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:07:19.894Z",
+    "timestamp": "2020-09-22T02:07:54.978Z",
     "version": {
         "major": 1,
-        "minor": 2041,
+        "minor": 2042,
         "patch": 0
     },
     "keywords": [
@@ -13786,6 +13786,13 @@
             "symbol": "YFN",
             "address": "0x02Cbd176e86e363FE84cda7a6C7BB885dE40B57f",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fools Gold Rush",
+            "symbol": "FGR",
+            "address": "0x8cD9c2542500c547b4430ba9FCB789127DEf6dc5",
+            "decimals": 0
         }
     ]
 }
