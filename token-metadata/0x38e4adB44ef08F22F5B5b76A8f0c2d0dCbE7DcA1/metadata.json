@@ -1,0 +1,9 @@
+{
+    "name": "PowerPool Concentra",
+    "symbol": "CVP",
+    "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
