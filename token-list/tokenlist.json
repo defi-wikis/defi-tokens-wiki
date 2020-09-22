@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:55:07.683Z",
+    "timestamp": "2020-09-22T17:59:40.074Z",
     "version": {
         "major": 1,
-        "minor": 2252,
+        "minor": 2253,
         "patch": 0
     },
     "keywords": [
@@ -14543,6 +14543,13 @@
             "name": "Yolex.io",
             "symbol": "YEX",
             "address": "0xCAC7a8aeC77372449412cA7C1FC945B615EAa957",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Presearch",
+            "symbol": "PRE",
+            "address": "0x88A3E4F35D64aAD41A6d4030ac9AFE4356cB84fA",
             "decimals": 18
         }
     ]
