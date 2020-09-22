@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:06:55.263Z",
+    "timestamp": "2020-09-22T00:07:08.363Z",
     "version": {
         "major": 1,
-        "minor": 1745,
+        "minor": 1746,
         "patch": 0
     },
     "keywords": [
@@ -11687,6 +11687,14 @@
             "address": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vether",
+            "symbol": "VETH",
+            "address": "0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4ba6ddd7b89ed838fed25d208d4f644106e34279/icon.png"
         }
     ]
 }
