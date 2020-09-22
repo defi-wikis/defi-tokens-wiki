@@ -1,0 +1,9 @@
+{
+    "name": "EthBet",
+    "symbol": "EBET",
+    "address": "0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d",
+    "decimals": 2,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
