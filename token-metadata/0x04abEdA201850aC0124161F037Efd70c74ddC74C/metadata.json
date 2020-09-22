@@ -1,0 +1,9 @@
+{
+    "name": "Nest Protocol",
+    "symbol": "NEST",
+    "address": "0x04abEdA201850aC0124161F037Efd70c74ddC74C",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
