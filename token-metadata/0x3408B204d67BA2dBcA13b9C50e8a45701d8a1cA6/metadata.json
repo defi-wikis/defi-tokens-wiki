@@ -3,7 +3,5 @@
     "symbol": "SVB",
     "address": "0x3408B204d67BA2dBcA13b9C50e8a45701d8a1cA6",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
