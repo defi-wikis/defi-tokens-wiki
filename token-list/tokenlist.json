@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:42:54.680Z",
+    "timestamp": "2020-09-22T00:43:07.147Z",
     "version": {
         "major": 1,
-        "minor": 1921,
+        "minor": 1922,
         "patch": 0
     },
     "keywords": [
@@ -12963,6 +12963,14 @@
             "symbol": "SKYFT",
             "address": "0x5dd0815A4cF119AD91BA045BbBF879F3F7de3C68",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soft Bitcoin",
+            "symbol": "SBTC",
+            "address": "0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x309013d55fb0e8c17363bcc79f25d92f711a5802/icon.png"
         }
     ]
 }
