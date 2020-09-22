@@ -1,0 +1,9 @@
+{
+    "name": "Arcona",
+    "symbol": "ARCONA",
+    "address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
