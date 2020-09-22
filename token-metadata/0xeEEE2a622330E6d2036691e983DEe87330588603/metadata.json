@@ -1,0 +1,9 @@
+{
+    "name": "Askobar Network",
+    "symbol": "ASKO",
+    "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
