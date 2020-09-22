@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:19.157Z",
+    "timestamp": "2020-09-22T05:02:22.327Z",
     "version": {
         "major": 1,
-        "minor": 2082,
+        "minor": 2083,
         "patch": 0
     },
     "keywords": [
@@ -8626,7 +8626,10 @@
             "symbol": "PICKLE",
             "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x429881672b9ae42b8eba0e26cd9c73711b891ca5/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x429881672b9ae42b8eba0e26cd9c73711b891ca5/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
