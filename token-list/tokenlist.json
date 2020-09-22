@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:10:57.482Z",
+    "timestamp": "2020-09-22T00:11:10.538Z",
     "version": {
         "major": 1,
-        "minor": 1765,
+        "minor": 1766,
         "patch": 0
     },
     "keywords": [
@@ -11836,6 +11836,14 @@
             "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Waifu Token",
+            "symbol": "WAIF",
+            "address": "0xB2279B6769CFBa691416F00609b16244c0cF4b20",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb2279b6769cfba691416f00609b16244c0cf4b20/icon.png"
         }
     ]
 }
