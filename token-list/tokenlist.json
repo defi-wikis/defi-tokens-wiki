@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:32:41.981Z",
+    "timestamp": "2020-09-22T00:32:55.340Z",
     "version": {
         "major": 1,
-        "minor": 1871,
+        "minor": 1872,
         "patch": 0
     },
     "keywords": [
@@ -12608,6 +12608,14 @@
             "address": "0x5d48F293BaED247A2D0189058bA37aa238bD4725",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5d48f293baed247a2d0189058ba37aa238bd4725/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Atlant",
+            "symbol": "ATL",
+            "address": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05/icon.png"
         }
     ]
 }
