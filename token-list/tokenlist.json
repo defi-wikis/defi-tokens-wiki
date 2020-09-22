@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T18:30:54.164Z",
+    "timestamp": "2020-09-22T18:30:57.731Z",
     "version": {
         "major": 1,
-        "minor": 2261,
+        "minor": 2262,
         "patch": 0
     },
     "keywords": [
@@ -13328,7 +13328,8 @@
             "symbol": "LRC",
             "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
