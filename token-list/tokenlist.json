@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T09:46:09.726Z",
+    "timestamp": "2020-09-22T09:54:29.655Z",
     "version": {
         "major": 1,
-        "minor": 2113,
+        "minor": 2114,
         "patch": 0
     },
     "keywords": [
@@ -14138,6 +14138,13 @@
             "name": "Unique.Finance",
             "symbol": "UNIQUE",
             "address": "0x60126CE6Ce9eED61989819A1eE1BB1Fa2FF4C352",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "“RevToken”",
+            "symbol": "“REV”",
+            "address": "0xC0B6F8d75E3c3c1928637Ed7Fbc628388292256f",
             "decimals": 18
         }
     ]
