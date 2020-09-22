@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:04:05.336Z",
+    "timestamp": "2020-09-22T00:04:14.421Z",
     "version": {
         "major": 1,
-        "minor": 1731,
+        "minor": 1732,
         "patch": 0
     },
     "keywords": [
@@ -11578,6 +11578,13 @@
             "address": "0xe541504417670FB76b612B41B4392d967a1956c7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xe541504417670fb76b612b41b4392d967a1956c7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ebliex",
+            "symbol": "EBX",
+            "address": "0xC0A07eAFB93ACf9E897F787C79a9657e8E07D65C",
+            "decimals": 6
         }
     ]
 }
