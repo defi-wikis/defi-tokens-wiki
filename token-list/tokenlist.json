@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:13.512Z",
+    "timestamp": "2020-09-22T05:02:16.265Z",
     "version": {
         "major": 1,
-        "minor": 2080,
+        "minor": 2081,
         "patch": 0
     },
     "keywords": [
@@ -4139,7 +4139,9 @@
             "name": "IdleDAI v4 [Best yield]",
             "symbol": "idleDAIYield",
             "address": "0x3fE7940616e5Bc47b0775a0dccf6237893353bB4",
-            "decimals": 18
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0x3fe7940616e5bc47b0775a0dccf6237893353bb4/icon.png"
         },
         {
             "chainId": 1,
