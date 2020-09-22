@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:27:26.115Z",
+    "timestamp": "2020-09-22T17:27:40.219Z",
     "version": {
         "major": 1,
-        "minor": 2245,
+        "minor": 2246,
         "patch": 0
     },
     "keywords": [
@@ -7965,7 +7965,11 @@
             "name": "Katana Finance",
             "symbol": "KATANA",
             "address": "0xe6410569602124506658Ff992F258616Ea2D4A3D",
-            "decimals": 18
+            "decimals": 18,
+            "tags": [
+                "yield-farming"
+            ],
+            "logoURI": "https://tokens.dharma.io/assets/0xe6410569602124506658ff992f258616ea2d4a3d/icon.png"
         },
         {
             "chainId": 1,
