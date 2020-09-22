@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T12:17:14.299Z",
+    "timestamp": "2020-09-22T12:26:39.480Z",
     "version": {
         "major": 1,
-        "minor": 2124,
+        "minor": 2125,
         "patch": 0
     },
     "keywords": [
@@ -14215,6 +14215,13 @@
             "name": "FirstDerivative",
             "symbol": "FDV",
             "address": "0xF2425d8C7b5194f9C95D826BB969Cf17ad88d154",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pumpanomics",
+            "symbol": "PMPNOM",
+            "address": "0xdD2ddF1D4A48b897779FBD70c1F42eBcd871aAed",
             "decimals": 18
         }
     ]
