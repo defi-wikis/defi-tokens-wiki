@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:53:19.098Z",
+    "timestamp": "2020-09-22T00:53:30.781Z",
     "version": {
         "major": 1,
-        "minor": 1975,
+        "minor": 1976,
         "patch": 0
     },
     "keywords": [
@@ -161,7 +161,7 @@
         },
         {
             "chainId": 1,
-            "name": "Wrapped BTC",
+            "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
             "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
             "decimals": 8,
