@@ -1,0 +1,9 @@
+{
+    "name": "Aave SUSD",
+    "symbol": "ASUSD",
+    "address": "0x625aE63000f46200499120B906716420bd059240",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
