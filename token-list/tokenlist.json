@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:52:21.808Z",
+    "timestamp": "2020-09-22T00:52:33.321Z",
     "version": {
         "major": 1,
-        "minor": 1970,
+        "minor": 1971,
         "patch": 0
     },
     "keywords": [
@@ -13329,6 +13329,14 @@
             "address": "0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4b4701f3f827e1331fb22ff8e2beac24b17eb055/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Sentinel",
+            "symbol": "SENT",
+            "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037/icon.png"
         }
     ]
 }
