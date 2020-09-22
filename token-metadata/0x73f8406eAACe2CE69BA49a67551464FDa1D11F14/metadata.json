@@ -3,7 +3,5 @@
     "symbol": "MOON",
     "address": "0x73f8406eAACe2CE69BA49a67551464FDa1D11F14",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
