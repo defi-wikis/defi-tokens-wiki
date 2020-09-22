@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:35:24.877Z",
+    "timestamp": "2020-09-22T00:35:34.062Z",
     "version": {
         "major": 1,
-        "minor": 1884,
+        "minor": 1885,
         "patch": 0
     },
     "keywords": [
@@ -12709,6 +12709,13 @@
             "address": "0x23aEfF664c1B2bbA98422a0399586e96cc8a1C92",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x23aeff664c1b2bba98422a0399586e96cc8a1c92/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DefiDollar",
+            "symbol": "DUSD",
+            "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
+            "decimals": 18
         }
     ]
 }
