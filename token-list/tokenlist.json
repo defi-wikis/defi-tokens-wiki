@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:19:36.146Z",
+    "timestamp": "2020-09-22T17:19:49.319Z",
     "version": {
         "major": 1,
-        "minor": 2222,
+        "minor": 2223,
         "patch": 0
     },
     "keywords": [
@@ -14474,6 +14474,15 @@
             "symbol": "RBC",
             "address": "0x029C4D6a757D275A82D494282385D1b74013C599",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aave LINK",
+            "symbol": "ALINK",
+            "address": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84/icon.png"
         }
     ]
 }
