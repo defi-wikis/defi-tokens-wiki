@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:50:33.981Z",
+    "timestamp": "2020-09-22T00:50:46.170Z",
     "version": {
         "major": 1,
-        "minor": 1961,
+        "minor": 1962,
         "patch": 0
     },
     "keywords": [
@@ -13259,6 +13259,14 @@
             "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xbc396689893d065f41bc2c6ecbee5e0085233447/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CEEK Smart VR Token",
+            "symbol": "CEEK",
+            "address": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb056c38f6b7dc4064367403e26424cd2c60655e1/icon.png"
         }
     ]
 }
