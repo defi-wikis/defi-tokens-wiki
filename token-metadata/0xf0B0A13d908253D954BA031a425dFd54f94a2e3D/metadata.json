@@ -3,7 +3,5 @@
     "symbol": "FSXA",
     "address": "0xf0B0A13d908253D954BA031a425dFd54f94a2e3D",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
