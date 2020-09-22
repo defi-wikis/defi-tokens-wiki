@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:42:14.630Z",
+    "timestamp": "2020-09-22T02:54:29.753Z",
     "version": {
         "major": 1,
-        "minor": 2046,
+        "minor": 2047,
         "patch": 0
     },
     "keywords": [
@@ -13820,6 +13820,13 @@
             "name": "Im Satoshi Nakamoto",
             "symbol": "ISN",
             "address": "0xADd7eb98E18D8b5B3fDcd68115706621D636BCAd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WIPcoin",
+            "symbol": "WIPC",
+            "address": "0xab47fbe8A0b75Baa4Ef846E99f6bB3b52007A115",
             "decimals": 18
         }
     ]
