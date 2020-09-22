@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:05:25.155Z",
+    "timestamp": "2020-09-22T17:12:54.554Z",
     "version": {
         "major": 1,
-        "minor": 2203,
+        "minor": 2204,
         "patch": 0
     },
     "keywords": [
@@ -14452,6 +14452,13 @@
             "name": "BTCC比特创世",
             "symbol": "BTCC",
             "address": "0x582Ab60C8A314244823DD9fcfB325AD55fa25acD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RUBIC",
+            "symbol": "RBC",
+            "address": "0x029C4D6a757D275A82D494282385D1b74013C599",
             "decimals": 18
         }
     ]
