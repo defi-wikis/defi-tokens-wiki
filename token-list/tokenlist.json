@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:16:49.144Z",
+    "timestamp": "2020-09-22T00:17:01.344Z",
     "version": {
         "major": 1,
-        "minor": 1794,
+        "minor": 1795,
         "patch": 0
     },
     "keywords": [
@@ -12049,6 +12049,14 @@
             "address": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf04a8ac553fcedb5ba99a64799155826c136b0be/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Tether Gold",
+            "symbol": "XAUT",
+            "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x4922a015c4407f87432b179bb209e125432e4a2a/icon.png"
         }
     ]
 }
