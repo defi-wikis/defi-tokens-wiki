@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:54:17.649Z",
+    "timestamp": "2020-09-22T00:54:29.601Z",
     "version": {
         "major": 1,
-        "minor": 1980,
+        "minor": 1981,
         "patch": 0
     },
     "keywords": [
@@ -13390,6 +13390,14 @@
             "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "STONK",
+            "symbol": "STONK",
+            "address": "0xb4058411967D5046f3510943103805be61f0600E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb4058411967d5046f3510943103805be61f0600e/icon.png"
         }
     ]
 }
