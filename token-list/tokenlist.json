@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:38:24.948Z",
+    "timestamp": "2020-09-22T01:39:54.550Z",
     "version": {
         "major": 1,
-        "minor": 2028,
+        "minor": 2029,
         "patch": 0
     },
     "keywords": [
@@ -13742,6 +13742,13 @@
             "name": "definer.org",
             "symbol": "FIN",
             "address": "0xff74f12403C700717749F3B5Cd04afb3C6D4bD66",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Garden Of Eden",
+            "symbol": "EDEN",
+            "address": "0x55372903C01065dcF83363C132372C2E5C3B0c9f",
             "decimals": 18
         }
     ]
