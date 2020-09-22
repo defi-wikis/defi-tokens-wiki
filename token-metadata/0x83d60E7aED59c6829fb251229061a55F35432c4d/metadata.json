@@ -3,7 +3,5 @@
     "symbol": "INFT",
     "address": "0x83d60E7aED59c6829fb251229061a55F35432c4d",
     "decimals": 6,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
