@@ -3,7 +3,5 @@
     "symbol": "TRXC",
     "address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
     "decimals": 0,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
