@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:45:09.538Z",
+    "timestamp": "2020-09-22T00:45:21.314Z",
     "version": {
         "major": 1,
-        "minor": 1932,
+        "minor": 1933,
         "patch": 0
     },
     "keywords": [
@@ -13036,6 +13036,14 @@
             "address": "0x3080ec2A6960432F179c66D388099A48E82e2047",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x3080ec2a6960432f179c66d388099a48e82e2047/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "0chain",
+            "symbol": "ZCN",
+            "address": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
+            "decimals": 10,
+            "logoURI": "https://tokens.dharma.io/assets/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78/icon.png"
         }
     ]
 }
