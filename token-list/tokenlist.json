@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:31:41.454Z",
+    "timestamp": "2020-09-22T00:31:52.619Z",
     "version": {
         "major": 1,
-        "minor": 1866,
+        "minor": 1867,
         "patch": 0
     },
     "keywords": [
@@ -12569,6 +12569,14 @@
             "symbol": "TTT",
             "address": "0x9F599410D207f3D2828a8712e5e543AC2E040382",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Rand",
+            "symbol": "DZAR",
+            "address": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c/icon.png"
         }
     ]
 }
