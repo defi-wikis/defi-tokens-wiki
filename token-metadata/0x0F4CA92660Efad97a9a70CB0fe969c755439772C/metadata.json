@@ -3,7 +3,5 @@
     "symbol": "LEV",
     "address": "0x0F4CA92660Efad97a9a70CB0fe969c755439772C",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
