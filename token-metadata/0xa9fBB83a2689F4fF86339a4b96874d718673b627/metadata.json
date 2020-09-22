@@ -1,0 +1,9 @@
+{
+    "name": "FireAnts",
+    "symbol": "ANTS",
+    "address": "0xa9fBB83a2689F4fF86339a4b96874d718673b627",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
