@@ -3,7 +3,5 @@
     "symbol": "TOL",
     "address": "0xd07D9Fe2d2cc067015E2b4917D24933804f42cFA",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
