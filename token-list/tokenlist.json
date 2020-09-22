@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:01:19.904Z",
+    "timestamp": "2020-09-22T05:01:22.945Z",
     "version": {
         "major": 1,
-        "minor": 2065,
+        "minor": 2066,
         "patch": 0
     },
     "keywords": [
@@ -9622,7 +9622,10 @@
             "symbol": "SAKE",
             "address": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x066798d9ef0833ccc719076dab77199ecbd178b0/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x066798d9ef0833ccc719076dab77199ecbd178b0/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
