@@ -1,0 +1,9 @@
+{
+    "name": "Offshift",
+    "symbol": "XFT",
+    "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
