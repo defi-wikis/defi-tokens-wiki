@@ -1,0 +1,9 @@
+{
+    "name": "ZOM",
+    "symbol": "ZOM",
+    "address": "0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
