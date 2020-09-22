@@ -3,7 +3,5 @@
     "symbol": "KGW",
     "address": "0x55Eb5288c9b65037a4cd2289637f38A4F9DB3a6B",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
