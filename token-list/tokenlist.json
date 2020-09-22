@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:56:34.995Z",
+    "timestamp": "2020-09-22T03:09:29.236Z",
     "version": {
         "major": 1,
-        "minor": 2048,
+        "minor": 2049,
         "patch": 0
     },
     "keywords": [
@@ -13835,6 +13835,13 @@
             "symbol": "YFHEX",
             "address": "0x91e63e28D9315dc62E32A9beea9E7D9312f6bB04",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Great Wall Intl Token",
+            "symbol": "GWI",
+            "address": "0x869411CE22058D0B6692F9579627b0f065D2265C",
+            "decimals": 18
         }
     ]
 }
