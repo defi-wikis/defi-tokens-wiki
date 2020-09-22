@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T03:27:14.261Z",
+    "timestamp": "2020-09-22T03:42:49.849Z",
     "version": {
         "major": 1,
-        "minor": 2052,
+        "minor": 2053,
         "patch": 0
     },
     "keywords": [
@@ -13862,6 +13862,13 @@
             "name": "Super Yin Yang",
             "symbol": "SYYF",
             "address": "0xA9402793F40B8e4A2cb79555bbaBD45E40fAe0E3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "random.finance",
+            "symbol": "RAND",
+            "address": "0xDb0387e8216D296FC053AFda790d870212577004",
             "decimals": 18
         }
     ]
