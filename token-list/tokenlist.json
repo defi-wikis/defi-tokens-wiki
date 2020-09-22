@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:19:01.320Z",
+    "timestamp": "2020-09-22T00:19:13.590Z",
     "version": {
         "major": 1,
-        "minor": 1805,
+        "minor": 1806,
         "patch": 0
     },
     "keywords": [
@@ -12128,6 +12128,14 @@
             "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Refereum",
+            "symbol": "RFR",
+            "address": "0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xd0929d411954c47438dc1d871dd6081f5c5e149c/icon.png"
         }
     ]
 }
