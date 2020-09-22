@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:04:14.421Z",
+    "timestamp": "2020-09-22T00:04:26.424Z",
     "version": {
         "major": 1,
-        "minor": 1732,
+        "minor": 1733,
         "patch": 0
     },
     "keywords": [
@@ -11585,6 +11585,14 @@
             "symbol": "EBX",
             "address": "0xC0A07eAFB93ACf9E897F787C79a9657e8E07D65C",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Crypto User Base",
+            "symbol": "CUB",
+            "address": "0xa8892bfc33FA44053a9E402B1839966f4FEc74A4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa8892bfc33fa44053a9e402b1839966f4fec74a4/icon.png"
         }
     ]
 }
