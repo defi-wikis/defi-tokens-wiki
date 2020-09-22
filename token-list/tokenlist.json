@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:40:49.410Z",
+    "timestamp": "2020-09-22T00:41:05.839Z",
     "version": {
         "major": 1,
-        "minor": 1911,
+        "minor": 1912,
         "patch": 0
     },
     "keywords": [
@@ -12898,6 +12898,14 @@
             "address": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0000000000085d4780b73119b644ae5ecd22b376/icon.png"
         }
     ]
 }
