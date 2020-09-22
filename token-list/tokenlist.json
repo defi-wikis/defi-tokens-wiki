@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:38:56.816Z",
+    "timestamp": "2020-09-22T00:39:06.749Z",
     "version": {
         "major": 1,
-        "minor": 1902,
+        "minor": 1903,
         "patch": 0
     },
     "keywords": [
@@ -12842,6 +12842,13 @@
             "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x00a8b738e453ffd858a7edf03bccfe20412f0eb0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Reserve",
+            "symbol": "RSV",
+            "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
+            "decimals": 18
         }
     ]
 }
