@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:42:07.133Z",
+    "timestamp": "2020-09-22T00:42:19.053Z",
     "version": {
         "major": 1,
-        "minor": 1917,
+        "minor": 1918,
         "patch": 0
     },
     "keywords": [
@@ -12932,6 +12932,14 @@
             "address": "0x646707246D7d5C2a86d7206f41CA8199ea9CED69",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x646707246d7d5c2a86d7206f41ca8199ea9ced69/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave SUSD",
+            "symbol": "ASUSD",
+            "address": "0x625aE63000f46200499120B906716420bd059240",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x625ae63000f46200499120b906716420bd059240/icon.png"
         }
     ]
 }
