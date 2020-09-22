@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:55:36.537Z",
+    "timestamp": "2020-09-22T00:55:48.116Z",
     "version": {
         "major": 1,
-        "minor": 1987,
+        "minor": 1988,
         "patch": 0
     },
     "keywords": [
@@ -13444,6 +13444,14 @@
             "address": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcc4304a31d09258b0029ea7fe63d032f52e44efe/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FTX Token",
+            "symbol": "FTT",
+            "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9/icon.png"
         }
     ]
 }
