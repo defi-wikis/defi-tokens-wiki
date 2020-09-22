@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:21:55.615Z",
+    "timestamp": "2020-09-22T00:22:07.499Z",
     "version": {
         "major": 1,
-        "minor": 1819,
+        "minor": 1820,
         "patch": 0
     },
     "keywords": [
@@ -12221,6 +12221,14 @@
             "symbol": "AIRDROP",
             "address": "0xba7435A4b4C747E0101780073eedA872a69Bdcd4",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tacos",
+            "symbol": "TACO",
+            "address": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x00d1793d7c3aae506257ba985b34c76aaf642557/icon.png"
         }
     ]
 }
