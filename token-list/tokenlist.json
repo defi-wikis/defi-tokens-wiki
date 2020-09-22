@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T10:09:49.739Z",
+    "timestamp": "2020-09-22T10:31:39.508Z",
     "version": {
         "major": 1,
-        "minor": 2116,
+        "minor": 2117,
         "patch": 0
     },
     "keywords": [
@@ -14159,6 +14159,13 @@
             "name": "burn2moon.finance",
             "symbol": "BROON",
             "address": "0xe31e50Fc9F997B4dAB2c1c3189753685DBe7f442",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SHARK",
+            "symbol": "SHARK",
+            "address": "0x5F56C26Ed52614fD331C8291E09B437F1845d558",
             "decimals": 18
         }
     ]
