@@ -1,0 +1,9 @@
+{
+    "name": "Soft Bitcoin",
+    "symbol": "SBTC",
+    "address": "0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+    "decimals": 9,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
