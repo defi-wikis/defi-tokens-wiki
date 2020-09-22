@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:04:51.163Z",
+    "timestamp": "2020-09-22T00:05:03.296Z",
     "version": {
         "major": 1,
-        "minor": 1735,
+        "minor": 1736,
         "patch": 0
     },
     "keywords": [
@@ -11609,6 +11609,14 @@
             "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x08d967bb0134f2d07f7cfb6e246680c53927dd30/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AI Doctor",
+            "symbol": "AIDOC",
+            "address": "0x584B44853680ee34a0F337B712a8f66d816dF151",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x584b44853680ee34a0f337b712a8f66d816df151/icon.png"
         }
     ]
 }
