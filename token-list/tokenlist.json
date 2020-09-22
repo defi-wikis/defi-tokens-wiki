@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:15:17.705Z",
+    "timestamp": "2020-09-22T17:15:30.047Z",
     "version": {
         "major": 1,
-        "minor": 2207,
+        "minor": 2208,
         "patch": 0
     },
     "keywords": [
@@ -3283,7 +3283,9 @@
             "name": "Synth sBNB",
             "symbol": "sBNB",
             "address": "0x617aeCB6137B5108D1E7D4918e3725C8cEbdB848",
-            "decimals": 18
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0x617aecb6137b5108d1e7d4918e3725c8cebdb848/icon.png"
         },
         {
             "chainId": 1,
