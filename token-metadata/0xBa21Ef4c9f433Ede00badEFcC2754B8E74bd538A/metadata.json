@@ -1,0 +1,9 @@
+{
+    "name": "Swapfolio",
+    "symbol": "SWFL",
+    "address": "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
