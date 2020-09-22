@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:00:36.744Z",
+    "timestamp": "2020-09-22T00:00:48.888Z",
     "version": {
         "major": 1,
-        "minor": 1714,
+        "minor": 1715,
         "patch": 0
     },
     "keywords": [
@@ -11443,6 +11443,14 @@
             "address": "0x87210f1D3422BA75B6C40C63C78d79324daBcd55",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x87210f1d3422ba75b6c40c63c78d79324dabcd55/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "1World",
+            "symbol": "1WO",
+            "address": "0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23/icon.png"
         }
     ]
 }
