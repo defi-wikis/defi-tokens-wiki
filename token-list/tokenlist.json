@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T10:02:19.630Z",
+    "timestamp": "2020-09-22T10:09:49.739Z",
     "version": {
         "major": 1,
-        "minor": 2115,
+        "minor": 2116,
         "patch": 0
     },
     "keywords": [
@@ -14152,6 +14152,13 @@
             "name": "CellETF",
             "symbol": "ECELL",
             "address": "0x79B9525fc1367F3E507E015dE669379eeBEC086e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "burn2moon.finance",
+            "symbol": "BROON",
+            "address": "0xe31e50Fc9F997B4dAB2c1c3189753685DBe7f442",
             "decimals": 18
         }
     ]
