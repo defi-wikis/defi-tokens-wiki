@@ -1,0 +1,9 @@
+{
+    "name": "Onyx S P 500",
+    "symbol": "OSPV",
+    "address": "0xFCCe9526E030F1691966d5A651F5EbE1A5B4C8E4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
