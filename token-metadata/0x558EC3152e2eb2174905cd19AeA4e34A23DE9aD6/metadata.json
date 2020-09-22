@@ -1,0 +1,9 @@
+{
+    "name": "Bread",
+    "symbol": "BRD",
+    "address": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
