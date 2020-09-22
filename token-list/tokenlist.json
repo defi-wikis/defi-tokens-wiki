@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T23:15:44.847Z",
+    "timestamp": "2020-09-22T23:19:54.540Z",
     "version": {
         "major": 1,
-        "minor": 2290,
+        "minor": 2291,
         "patch": 0
     },
     "keywords": [
@@ -14766,6 +14766,13 @@
             "name": "UniFarm.network",
             "symbol": "UFARM",
             "address": "0x20bd9dC43B2e70CCBb4304e9be3b48D48b0DB723",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cybertruck.Finance",
+            "symbol": "TRUCK",
+            "address": "0x6a3A700f0De835e774EBF1bFA98a943DbF2dD314",
             "decimals": 18
         }
     ]
