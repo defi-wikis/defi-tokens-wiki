@@ -3,7 +3,5 @@
     "symbol": "FERA",
     "address": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
