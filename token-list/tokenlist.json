@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:23:07.293Z",
+    "timestamp": "2020-09-22T00:23:19.798Z",
     "version": {
         "major": 1,
-        "minor": 1825,
+        "minor": 1826,
         "patch": 0
     },
     "keywords": [
@@ -12260,6 +12260,14 @@
             "address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xfe5f141bf94fe84bc28ded0ab966c16b17490657/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "sETH",
+            "symbol": "SETH",
+            "address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb/icon.png"
         }
     ]
 }
