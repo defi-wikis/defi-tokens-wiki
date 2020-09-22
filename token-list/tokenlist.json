@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:21:29.450Z",
+    "timestamp": "2020-09-22T00:21:44.181Z",
     "version": {
         "major": 1,
-        "minor": 1817,
+        "minor": 1818,
         "patch": 0
     },
     "keywords": [
@@ -12206,6 +12206,14 @@
             "address": "0xA9859874e1743A32409f75bB11549892138BBA1E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa9859874e1743a32409f75bb11549892138bba1e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Blaze Network",
+            "symbol": "BLZN",
+            "address": "0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x70efdc485a10210b056ef8e0a32993bc6529995e/icon.png"
         }
     ]
 }
