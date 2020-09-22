@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T06:29:24.714Z",
+    "timestamp": "2020-09-22T06:38:24.780Z",
     "version": {
         "major": 1,
-        "minor": 2099,
+        "minor": 2100,
         "patch": 0
     },
     "keywords": [
@@ -14040,6 +14040,13 @@
             "name": "SCT",
             "symbol": "SCT",
             "address": "0x7b5b070238089d1E4E0091cBf81de99aAbec4F10",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Avocado",
+            "symbol": "GUAC",
+            "address": "0x6c2070e3831c30b4430ec28d24976aF4252a495F",
             "decimals": 18
         }
     ]
