@@ -3,7 +3,5 @@
     "symbol": "KEN",
     "address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
