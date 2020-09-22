@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:15:10.498Z",
+    "timestamp": "2020-09-22T00:15:23.738Z",
     "version": {
         "major": 1,
-        "minor": 1786,
+        "minor": 1787,
         "patch": 0
     },
     "keywords": [
@@ -11993,6 +11993,14 @@
             "address": "0x165440036Ce972C5F8EBef667086707e48B2623e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x165440036ce972c5f8ebef667086707e48b2623e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PROXI DeFi",
+            "symbol": "CREDIT",
+            "address": "0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4/icon.png"
         }
     ]
 }
