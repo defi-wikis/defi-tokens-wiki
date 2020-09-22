@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:34:05.114Z",
+    "timestamp": "2020-09-22T00:34:17.922Z",
     "version": {
         "major": 1,
-        "minor": 1878,
+        "minor": 1879,
         "patch": 0
     },
     "keywords": [
@@ -12662,6 +12662,14 @@
             "address": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xea097a2b1db00627b2fa17460ad260c016016977/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FOAM",
+            "symbol": "FOAM",
+            "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4946fcea7c692606e8908002e55a582af44ac121/icon.png"
         }
     ]
 }
