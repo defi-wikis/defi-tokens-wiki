@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:43:29.899Z",
+    "timestamp": "2020-09-22T00:43:42.240Z",
     "version": {
         "major": 1,
-        "minor": 1924,
+        "minor": 1925,
         "patch": 0
     },
     "keywords": [
@@ -256,10 +256,11 @@
         },
         {
             "chainId": 1,
-            "name": "Compound Ether",
-            "symbol": "cETH",
+            "name": "cETH",
+            "symbol": "CETH",
             "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5/icon.png"
         },
         {
             "chainId": 1,
