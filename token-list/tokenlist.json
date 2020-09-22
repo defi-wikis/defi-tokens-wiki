@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:43:54.571Z",
+    "timestamp": "2020-09-22T01:44:02.811Z",
     "version": {
         "major": 1,
-        "minor": 2034,
+        "minor": 2035,
         "patch": 0
     },
     "keywords": [
@@ -13741,6 +13741,13 @@
             "name": "DontBuy",
             "symbol": "DontBuy",
             "address": "0x3f2892546F7832F22E65FE068DF5a6Dc408C7331",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deadwood.finance",
+            "symbol": "xOOD",
+            "address": "0xF31B279b2D8c07FE00e38130576e3A8a2bC5D74f",
             "decimals": 18
         }
     ]
