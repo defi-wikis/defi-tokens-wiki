@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T09:54:29.655Z",
+    "timestamp": "2020-09-22T10:02:19.630Z",
     "version": {
         "major": 1,
-        "minor": 2114,
+        "minor": 2115,
         "patch": 0
     },
     "keywords": [
@@ -14145,6 +14145,13 @@
             "name": "“RevToken”",
             "symbol": "“REV”",
             "address": "0xC0B6F8d75E3c3c1928637Ed7Fbc628388292256f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CellETF",
+            "symbol": "ECELL",
+            "address": "0x79B9525fc1367F3E507E015dE669379eeBEC086e",
             "decimals": 18
         }
     ]
