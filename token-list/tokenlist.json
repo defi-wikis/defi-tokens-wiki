@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:49:05.529Z",
+    "timestamp": "2020-09-22T00:49:18.489Z",
     "version": {
         "major": 1,
-        "minor": 1953,
+        "minor": 1954,
         "patch": 0
     },
     "keywords": [
@@ -13196,6 +13196,14 @@
             "address": "0x07597255910a51509CA469568B048F2597E72504",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x07597255910a51509ca469568b048f2597e72504/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SpankChain",
+            "symbol": "SPANK",
+            "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x42d6622dece394b54999fbd73d108123806f6a18/icon.png"
         }
     ]
 }
