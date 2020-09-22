@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:18:00.428Z",
+    "timestamp": "2020-09-22T00:18:14.255Z",
     "version": {
         "major": 1,
-        "minor": 1800,
+        "minor": 1801,
         "patch": 0
     },
     "keywords": [
@@ -12089,6 +12089,14 @@
             "address": "0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd55bd2c12b30075b325bc35aef0b46363b3818f8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Onyx S P 500",
+            "symbol": "OSPV",
+            "address": "0xFCCe9526E030F1691966d5A651F5EbE1A5B4C8E4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xfcce9526e030f1691966d5a651f5ebe1a5b4c8e4/icon.png"
         }
     ]
 }
