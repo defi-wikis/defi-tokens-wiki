@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:46:22.110Z",
+    "timestamp": "2020-09-22T00:46:31.614Z",
     "version": {
         "major": 1,
-        "minor": 1938,
+        "minor": 1939,
         "patch": 0
     },
     "keywords": [
@@ -13083,6 +13083,13 @@
             "symbol": "HCASH",
             "address": "0x51BFCdf5282292425faA0426FB9Db6f14B4cf956",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OIN Finance",
+            "symbol": "OIN",
+            "address": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+            "decimals": 8
         }
     ]
 }
