@@ -3,6 +3,7 @@
     "symbol": "USDT",
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 6,
+    "description": "USDT is a stablecoin (stable-value cryptocurrency) that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. The token’s peg to the USD is achieved via maintaining a sum of dollars in reserves that is equal to the number of USDT in circulation.",
     "dharmaVerificationStatus": "VERIFIED",
     "tags": ["stablecoin"]
 }

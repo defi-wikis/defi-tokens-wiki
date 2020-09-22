@@ -3,6 +3,7 @@
     "symbol": "YFBETA",
     "address": "0x89eE58Af4871b474c30001982c3D7439C933c838",
     "decimals": 18,
+    "description": "yfBETA uses yields generated from farming other protocols. When you stake your assets on yfBETA, in addition to farming yfBETA, the assets will be used to farm the highest performing assets from other protocols, leaving yfBETA strategies to do the hardwork whilst you farm more yfBETA. Rather than distributing these rewards to farmers, they are used to buy and burn yfBETA in the market, reducing the supply of yfBETA.",
     "dharmaVerificationStatus": "VERIFIED",
     "tags": ["yield-farming", "yfi-inspired"]
 }
