@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:14:10.358Z",
+    "timestamp": "2020-09-22T00:14:24.309Z",
     "version": {
         "major": 1,
-        "minor": 1781,
+        "minor": 1782,
         "patch": 0
     },
     "keywords": [
@@ -11954,6 +11954,14 @@
             "address": "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xba21ef4c9f433ede00badefcc2754b8e74bd538a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MORK",
+            "symbol": "MORK",
+            "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0xf552b656022c218c26dad43ad88881fc04116f76/icon.png"
         }
     ]
 }
