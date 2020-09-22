@@ -3,7 +3,5 @@
     "symbol": "WHALE",
     "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
     "decimals": 4,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
