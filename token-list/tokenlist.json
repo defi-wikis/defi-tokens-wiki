@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:01:31.909Z",
+    "timestamp": "2020-09-22T05:01:35.767Z",
     "version": {
         "major": 1,
-        "minor": 2068,
+        "minor": 2069,
         "patch": 0
     },
     "keywords": [
@@ -8670,7 +8670,8 @@
             "symbol": "STAKE",
             "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x0ae055097c6d159879521c384f1d2123d1f195e6/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x0ae055097c6d159879521c384f1d2123d1f195e6/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
