@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:54:59.902Z",
+    "timestamp": "2020-09-22T00:55:11.620Z",
     "version": {
         "major": 1,
-        "minor": 1984,
+        "minor": 1985,
         "patch": 0
     },
     "keywords": [
@@ -13420,6 +13420,14 @@
             "symbol": "CHI",
             "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "dForce Token",
+            "symbol": "DF",
+            "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0/icon.png"
         }
     ]
 }
