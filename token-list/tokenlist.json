@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:09:29.726Z",
+    "timestamp": "2020-09-22T00:09:43.354Z",
     "version": {
         "major": 1,
-        "minor": 1757,
+        "minor": 1758,
         "patch": 0
     },
     "keywords": [
@@ -11774,6 +11774,14 @@
             "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x666d875c600aa06ac1cf15641361dec3b00432ef/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Atlantis Token",
+            "symbol": "ATIS",
+            "address": "0x821144518dfE9e7b44fCF4d0824e15e8390d4637",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x821144518dfe9e7b44fcf4d0824e15e8390d4637/icon.png"
         }
     ]
 }
