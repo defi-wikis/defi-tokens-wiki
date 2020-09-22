@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:00:04.014Z",
+    "timestamp": "2020-09-22T00:00:13.416Z",
     "version": {
         "major": 1,
-        "minor": 1711,
+        "minor": 1712,
         "patch": 0
     },
     "keywords": [
@@ -11420,6 +11420,13 @@
             "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aeryus",
+            "symbol": "AER",
+            "address": "0xac4D22e40bf0B8eF4750a99ED4E935B99A42685E",
+            "decimals": 18
         }
     ]
 }
