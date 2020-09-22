@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:34:17.922Z",
+    "timestamp": "2020-09-22T00:34:31.469Z",
     "version": {
         "major": 1,
-        "minor": 1879,
+        "minor": 1880,
         "patch": 0
     },
     "keywords": [
@@ -12670,6 +12670,14 @@
             "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4946fcea7c692606e8908002e55a582af44ac121/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Unitrade",
+            "symbol": "TRADE",
+            "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6f87d756daf0503d08eb8993686c7fc01dc44fb1/icon.png"
         }
     ]
 }
