@@ -3,7 +3,5 @@
     "symbol": "GRG",
     "address": "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
