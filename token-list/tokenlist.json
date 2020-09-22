@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T13:00:35.155Z",
+    "timestamp": "2020-09-22T13:29:54.308Z",
     "version": {
         "major": 1,
-        "minor": 2130,
+        "minor": 2131,
         "patch": 0
     },
     "keywords": [
@@ -14257,6 +14257,13 @@
             "name": "yearn.deFinance",
             "symbol": "DeYFI",
             "address": "0x44B08e3f3071507FE0c138322B7697E4714b719A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFTEST",
+            "symbol": "YFFF",
+            "address": "0x541177465431dDb39215AA6f2E0C8F7159AB0E65",
             "decimals": 18
         }
     ]
