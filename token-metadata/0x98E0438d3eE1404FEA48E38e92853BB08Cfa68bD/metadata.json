@@ -3,7 +3,5 @@
     "symbol": "TVT",
     "address": "0x98E0438d3eE1404FEA48E38e92853BB08Cfa68bD",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
