@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:44:44.774Z",
+    "timestamp": "2020-09-22T00:44:56.119Z",
     "version": {
         "major": 1,
-        "minor": 1930,
+        "minor": 1931,
         "patch": 0
     },
     "keywords": [
@@ -13020,6 +13020,14 @@
             "symbol": "IYF",
             "address": "0x2Ce8300Ce3a0e65BB4Da5a16a7faBeD42FFe7Fc1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orion Protocol",
+            "symbol": "ORN",
+            "address": "0x8fB00FDeBb4E83f2C58b3bcD6732AC1B6A7b7221",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x8fb00fdebb4e83f2c58b3bcd6732ac1b6a7b7221/icon.png"
         }
     ]
 }
