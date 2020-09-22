@@ -3,7 +3,5 @@
     "symbol": "FLOW",
     "address": "0xC6e64729931f60D2c8Bc70A27D66D9E0c28D1BF9",
     "decimals": 9,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
