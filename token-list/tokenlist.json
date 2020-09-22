@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:07:20.590Z",
+    "timestamp": "2020-09-22T00:07:30.840Z",
     "version": {
         "major": 1,
-        "minor": 1747,
+        "minor": 1748,
         "patch": 0
     },
     "keywords": [
@@ -11703,6 +11703,13 @@
             "address": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x695106ad73f506f9d0a9650a78019a93149ae07c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TVT",
+            "symbol": "TVT",
+            "address": "0x98E0438d3eE1404FEA48E38e92853BB08Cfa68bD",
+            "decimals": 8
         }
     ]
 }
