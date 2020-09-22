@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T09:45:29.477Z",
+    "timestamp": "2020-09-22T09:46:09.726Z",
     "version": {
         "major": 1,
-        "minor": 2112,
+        "minor": 2113,
         "patch": 0
     },
     "keywords": [
@@ -14131,6 +14131,13 @@
             "name": "XFV Finance",
             "symbol": "XFV",
             "address": "0x3F231430b09a9A2Ca4cE74299e769F10084289B0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unique.Finance",
+            "symbol": "UNIQUE",
+            "address": "0x60126CE6Ce9eED61989819A1eE1BB1Fa2FF4C352",
             "decimals": 18
         }
     ]
