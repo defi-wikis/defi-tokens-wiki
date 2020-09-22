@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-21T23:59:52.181Z",
+    "timestamp": "2020-09-22T00:00:04.014Z",
     "version": {
         "major": 1,
-        "minor": 1710,
+        "minor": 1711,
         "patch": 0
     },
     "keywords": [
@@ -11412,6 +11412,14 @@
             "address": "0xb7ba8461664dE526A3ae44189727DFC768625902",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0xb7ba8461664de526a3ae44189727dfc768625902/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BCdiploma EvidenZ",
+            "symbol": "BCDT",
+            "address": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5/icon.png"
         }
     ]
 }
