@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T16:31:50.499Z",
+    "timestamp": "2020-09-22T16:31:54.698Z",
     "version": {
         "major": 1,
-        "minor": 2200,
+        "minor": 2201,
         "patch": 0
     },
     "keywords": [
@@ -14431,6 +14431,13 @@
             "name": "Shibuya",
             "symbol": "SHIB",
             "address": "0x7E6fe6064cd6cfC77f2cAB1D813C48DCE9F3A418",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.deiFinance",
+            "symbol": "DeYFII",
+            "address": "0x1B8d8dBAeB7f5acA72F3A125b7c0956fA8f323c3",
             "decimals": 18
         }
     ]
