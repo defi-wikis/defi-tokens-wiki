@@ -3,7 +3,5 @@
     "symbol": "ATL",
     "address": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
