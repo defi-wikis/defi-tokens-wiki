@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:29:13.173Z",
+    "timestamp": "2020-09-22T00:29:25.981Z",
     "version": {
         "major": 1,
-        "minor": 1855,
+        "minor": 1856,
         "patch": 0
     },
     "keywords": [
@@ -12482,6 +12482,14 @@
             "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6b9f031d718dded0d681c20cb754f97b3bb81b78/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "EthBet",
+            "symbol": "EBET",
+            "address": "0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d",
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d/icon.png"
         }
     ]
 }
