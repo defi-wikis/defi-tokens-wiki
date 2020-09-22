@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:41:55.832Z",
+    "timestamp": "2020-09-22T00:42:07.133Z",
     "version": {
         "major": 1,
-        "minor": 1916,
+        "minor": 1917,
         "patch": 0
     },
     "keywords": [
@@ -12924,6 +12924,14 @@
             "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Porkchop",
+            "symbol": "CHOP",
+            "address": "0x646707246D7d5C2a86d7206f41CA8199ea9CED69",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x646707246d7d5c2a86d7206f41ca8199ea9ced69/icon.png"
         }
     ]
 }
