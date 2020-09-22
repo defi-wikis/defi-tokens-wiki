@@ -3,7 +3,5 @@
     "symbol": "VYA",
     "address": "0xecF51a98B71f0421151a1d45E033Ab8B88665221",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
