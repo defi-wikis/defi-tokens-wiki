@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:27:49.702Z",
+    "timestamp": "2020-09-22T00:28:03.628Z",
     "version": {
         "major": 1,
-        "minor": 1849,
+        "minor": 1850,
         "patch": 0
     },
     "keywords": [
@@ -12435,6 +12435,14 @@
             "address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YouForia",
+            "symbol": "YFR",
+            "address": "0xD6940A1FfD9F3B025D1F1055AbCfd9F7CdA81eF9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd6940a1ffd9f3b025d1f1055abcfd9f7cda81ef9/icon.png"
         }
     ]
 }
