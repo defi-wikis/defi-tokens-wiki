@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:25:54.813Z",
+    "timestamp": "2020-09-22T00:26:06.902Z",
     "version": {
         "major": 1,
-        "minor": 1839,
+        "minor": 1840,
         "patch": 0
     },
     "keywords": [
@@ -12367,6 +12367,14 @@
             "symbol": "YFIE",
             "address": "0x8F57e8e38e61975a0433Fa792542F453d8eD4d7D",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZMINE",
+            "symbol": "ZMN",
+            "address": "0x554FFc77F4251a9fB3c0E3590a6a205f8d4e067D",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d/icon.png"
         }
     ]
 }
