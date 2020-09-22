@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T18:55:34.541Z",
+    "timestamp": "2020-09-22T18:56:09.602Z",
     "version": {
         "major": 1,
-        "minor": 2267,
+        "minor": 2268,
         "patch": 0
     },
     "keywords": [
@@ -14605,6 +14605,13 @@
             "name": "PuddleToken",
             "symbol": "PUD",
             "address": "0xA49C8c60A5c0C2350012793d69DbB97f47Ff4f76",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Bit2",
+            "symbol": "YFB2",
+            "address": "0x59e7B5DB9Be0BDD26Fa048d39E01FEe456AB674E",
             "decimals": 18
         }
     ]
