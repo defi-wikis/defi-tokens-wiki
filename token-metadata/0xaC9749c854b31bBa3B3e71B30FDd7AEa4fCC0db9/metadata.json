@@ -1,0 +1,9 @@
+{
+    "name": "FightBackCoin",
+    "symbol": "FBC",
+    "address": "0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
