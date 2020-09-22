@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:15:19.914Z",
+    "timestamp": "2020-09-22T01:21:54.794Z",
     "version": {
         "major": 1,
-        "minor": 2020,
+        "minor": 2021,
         "patch": 0
     },
     "keywords": [
@@ -13686,6 +13686,13 @@
             "name": "hoprnet.org",
             "symbol": "HOPR",
             "address": "0x608A8E0B5BCA04465F5AD2cA76611bACEB993D4d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuy17",
+            "symbol": "DontBuy17",
+            "address": "0xb05F175228865247b346e883fE5773087F1ADDDe",
             "decimals": 18
         }
     ]
