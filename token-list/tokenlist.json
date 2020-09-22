@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:52:08.925Z",
+    "timestamp": "2020-09-22T00:52:21.808Z",
     "version": {
         "major": 1,
-        "minor": 1969,
+        "minor": 1970,
         "patch": 0
     },
     "keywords": [
@@ -13321,6 +13321,14 @@
             "symbol": "NEST",
             "address": "0x04abEdA201850aC0124161F037Efd70c74ddC74C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DistX",
+            "symbol": "DISTX",
+            "address": "0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4b4701f3f827e1331fb22ff8e2beac24b17eb055/icon.png"
         }
     ]
 }
