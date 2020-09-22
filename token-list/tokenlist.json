@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:51:29.536Z",
+    "timestamp": "2020-09-22T02:05:40.234Z",
     "version": {
         "major": 1,
-        "minor": 2038,
+        "minor": 2039,
         "patch": 0
     },
     "keywords": [
@@ -13764,6 +13764,13 @@
             "name": "xyz",
             "symbol": "XYZ",
             "address": "0x92403071600d2D74c82EF508786F46eDD4cD1669",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuy19",
+            "symbol": "DontBuy19",
+            "address": "0x76D2c26d3ADb555c105A7e9fF9dc7d3a795FE3dd",
             "decimals": 18
         }
     ]
