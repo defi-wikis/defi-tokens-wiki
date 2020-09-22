@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:20:24.592Z",
+    "timestamp": "2020-09-22T17:20:44.704Z",
     "version": {
         "major": 1,
-        "minor": 2225,
+        "minor": 2226,
         "patch": 0
     },
     "keywords": [
@@ -12908,7 +12908,8 @@
             "symbol": "CZRX",
             "address": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
             "decimals": 8,
-            "logoURI": "https://tokens.dharma.io/assets/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
