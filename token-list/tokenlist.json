@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T13:49:24.500Z",
+    "timestamp": "2020-09-22T13:58:19.652Z",
     "version": {
         "major": 1,
-        "minor": 2134,
+        "minor": 2135,
         "patch": 0
     },
     "keywords": [
@@ -14285,6 +14285,13 @@
             "name": "CornSwap",
             "symbol": "CORN",
             "address": "0x7a4803078E262c661a907908E5009DB8fd3c34Ca",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Passive Income",
+            "symbol": "YFPI",
+            "address": "0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5",
             "decimals": 18
         }
     ]
