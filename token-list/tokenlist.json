@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:16:54.178Z",
+    "timestamp": "2020-09-22T17:17:07.803Z",
     "version": {
         "major": 1,
-        "minor": 2212,
+        "minor": 2213,
         "patch": 0
     },
     "keywords": [
@@ -7483,7 +7483,9 @@
             "name": "Aave BUSD",
             "symbol": "ABUSD",
             "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
-            "decimals": 18
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8/icon.png"
         },
         {
             "chainId": 1,
