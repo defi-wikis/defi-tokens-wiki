@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T16:08:07.518Z",
+    "timestamp": "2020-09-22T16:09:14.608Z",
     "version": {
         "major": 1,
-        "minor": 2196,
+        "minor": 2197,
         "patch": 0
     },
     "keywords": [
@@ -14404,6 +14404,13 @@
             "symbol": "SFG",
             "address": "0x8a6ACA71A218301c7081d4e96D64292D3B275ce0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Basil Finance",
+            "symbol": "BASF",
+            "address": "0x7F7ce4061aF64A23F49591Da71e90B7DD2419512",
+            "decimals": 2
         }
     ]
 }
