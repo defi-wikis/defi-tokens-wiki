@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:32:02.895Z",
+    "timestamp": "2020-09-22T00:32:17.024Z",
     "version": {
         "major": 1,
-        "minor": 1868,
+        "minor": 1869,
         "patch": 0
     },
     "keywords": [
@@ -12584,6 +12584,14 @@
             "symbol": "WTF",
             "address": "0x0501E7a02C285B9B520FdBF1BADC74Ae931aD75d",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SALT",
+            "symbol": "SALT",
+            "address": "0x4156D3342D5c385a87D264F90653733592000581",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x4156d3342d5c385a87d264f90653733592000581/icon.png"
         }
     ]
 }
