@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:21:44.181Z",
+    "timestamp": "2020-09-22T00:21:55.615Z",
     "version": {
         "major": 1,
-        "minor": 1818,
+        "minor": 1819,
         "patch": 0
     },
     "keywords": [
@@ -12214,6 +12214,13 @@
             "address": "0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x70efdc485a10210b056ef8e0a32993bc6529995e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Airdrop Token",
+            "symbol": "AIRDROP",
+            "address": "0xba7435A4b4C747E0101780073eedA872a69Bdcd4",
+            "decimals": 18
         }
     ]
 }
