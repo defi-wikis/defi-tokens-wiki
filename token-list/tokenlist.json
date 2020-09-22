@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:40:35.345Z",
+    "timestamp": "2020-09-22T00:40:49.410Z",
     "version": {
         "major": 1,
-        "minor": 1910,
+        "minor": 1911,
         "patch": 0
     },
     "keywords": [
@@ -12890,6 +12890,14 @@
             "symbol": "CUSDT",
             "address": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Freight Trust Netwo",
+            "symbol": "EDI",
+            "address": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x79c5a1ae586322a07bfb60be36e1b31ce8c84a1e/icon.png"
         }
     ]
 }
