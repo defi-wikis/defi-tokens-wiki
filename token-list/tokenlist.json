@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:32:55.340Z",
+    "timestamp": "2020-09-22T00:33:08.530Z",
     "version": {
         "major": 1,
-        "minor": 1872,
+        "minor": 1873,
         "patch": 0
     },
     "keywords": [
@@ -12616,6 +12616,14 @@
             "address": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bankroll Vault",
+            "symbol": "VLT",
+            "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6b785a0322126826d8226d77e173d75dafb84d11/icon.png"
         }
     ]
 }
