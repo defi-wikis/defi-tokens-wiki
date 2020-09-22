@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:00:24.779Z",
+    "timestamp": "2020-09-22T00:00:36.744Z",
     "version": {
         "major": 1,
-        "minor": 1713,
+        "minor": 1714,
         "patch": 0
     },
     "keywords": [
@@ -11435,6 +11435,14 @@
             "address": "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
             "decimals": 2,
             "logoURI": "https://tokens.dharma.io/assets/0x998ffe1e43facffb941dc337dd0468d52ba5b48a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "EOS TRUST",
+            "symbol": "EOST",
+            "address": "0x87210f1D3422BA75B6C40C63C78d79324daBcd55",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x87210f1d3422ba75b6c40c63c78d79324dabcd55/icon.png"
         }
     ]
 }
