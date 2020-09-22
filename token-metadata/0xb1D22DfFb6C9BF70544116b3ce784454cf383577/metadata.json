@@ -1,0 +1,9 @@
+{
+    "name": "LogicDEX",
+    "symbol": "LDEX",
+    "address": "0xb1D22DfFb6C9BF70544116b3ce784454cf383577",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
