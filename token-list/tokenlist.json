@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:53:30.781Z",
+    "timestamp": "2020-09-22T00:53:42.490Z",
     "version": {
         "major": 1,
-        "minor": 1976,
+        "minor": 1977,
         "patch": 0
     },
     "keywords": [
@@ -13359,6 +13359,14 @@
             "symbol": "NOODLE",
             "address": "0x420Ab548B18911717Ed7C4CCBF46371EA758458C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PAX Gold",
+            "symbol": "PAXG",
+            "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x45804880de22913dafe09f4980848ece6ecbaf78/icon.png"
         }
     ]
 }
