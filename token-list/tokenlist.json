@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:26:40.437Z",
+    "timestamp": "2020-09-22T00:26:50.847Z",
     "version": {
         "major": 1,
-        "minor": 1843,
+        "minor": 1844,
         "patch": 0
     },
     "keywords": [
@@ -12397,6 +12397,13 @@
             "address": "0xd3E8695d2Bef061EAb38B5EF526c0f714108119C",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd3e8695d2bef061eab38b5ef526c0f714108119c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Maxum",
+            "symbol": "MUM",
+            "address": "0xC9634DA9B1EEfd1CB3d88b598A91Ec69E5afe4E4",
+            "decimals": 0
         }
     ]
 }
