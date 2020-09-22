@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:30:46.750Z",
+    "timestamp": "2020-09-22T00:31:05.754Z",
     "version": {
         "major": 1,
-        "minor": 1862,
+        "minor": 1863,
         "patch": 0
     },
     "keywords": [
@@ -12538,6 +12538,14 @@
             "address": "0xc75F15AdA581219c95485c578E124df3985e4CE0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc75f15ada581219c95485c578e124df3985e4ce0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Rebased",
+            "symbol": "REB",
+            "address": "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0xe6279e1c65dd41b30ba3760dcac3cd8bbb4420d6/icon.png"
         }
     ]
 }
