@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T22:59:54.519Z",
+    "timestamp": "2020-09-22T23:00:49.358Z",
     "version": {
         "major": 1,
-        "minor": 2287,
+        "minor": 2288,
         "patch": 0
     },
     "keywords": [
@@ -14746,6 +14746,13 @@
             "symbol": "POLS",
             "address": "0xB2979bd0Daf3ea5146B261Eb854Ee23c155539d0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AdToken",
+            "symbol": "ADT",
+            "address": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
+            "decimals": 9
         }
     ]
 }
