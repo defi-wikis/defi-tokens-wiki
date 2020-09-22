@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:26:27.755Z",
+    "timestamp": "2020-09-22T00:26:40.437Z",
     "version": {
         "major": 1,
-        "minor": 1842,
+        "minor": 1843,
         "patch": 0
     },
     "keywords": [
@@ -12389,6 +12389,14 @@
             "symbol": "HILK",
             "address": "0x9D54F8f50424B3b40055cf1261924E4c5A34E562",
             "decimals": 16
+        },
+        {
+            "chainId": 1,
+            "name": "YFIVE FINANCE",
+            "symbol": "YFIVE",
+            "address": "0xd3E8695d2Bef061EAb38B5EF526c0f714108119C",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd3e8695d2bef061eab38b5ef526c0f714108119c/icon.png"
         }
     ]
 }
