@@ -1,0 +1,9 @@
+{
+    "name": "12Ships",
+    "symbol": "TSHP",
+    "address": "0x525794473F7ab5715C81d06d10f52d11cC052804",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
