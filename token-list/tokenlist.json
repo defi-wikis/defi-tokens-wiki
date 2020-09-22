@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:46:40.933Z",
+    "timestamp": "2020-09-22T00:46:50.550Z",
     "version": {
         "major": 1,
-        "minor": 1940,
+        "minor": 1941,
         "patch": 0
     },
     "keywords": [
@@ -13096,6 +13096,13 @@
             "name": "Sendvibe",
             "symbol": "SVB",
             "address": "0x3408B204d67BA2dBcA13b9C50e8a45701d8a1cA6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Keysians Network",
+            "symbol": "KEN",
+            "address": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
             "decimals": 18
         }
     ]
