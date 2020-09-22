@@ -1,0 +1,9 @@
+{
+    "name": "ARPA Chain",
+    "symbol": "ARPA",
+    "address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
