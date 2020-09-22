@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:18:14.255Z",
+    "timestamp": "2020-09-22T00:18:24.715Z",
     "version": {
         "major": 1,
-        "minor": 1801,
+        "minor": 1802,
         "patch": 0
     },
     "keywords": [
@@ -12097,6 +12097,13 @@
             "address": "0xFCCe9526E030F1691966d5A651F5EbE1A5B4C8E4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xfcce9526e030f1691966d5a651f5ebe1a5b4c8e4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Jubi Token",
+            "symbol": "JT",
+            "address": "0xEb7355C2f217b3485a591332Fe13C8c5A76A581D",
+            "decimals": 18
         }
     ]
 }
