@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:51:49.170Z",
+    "timestamp": "2020-09-22T00:51:58.541Z",
     "version": {
         "major": 1,
-        "minor": 1967,
+        "minor": 1968,
         "patch": 0
     },
     "keywords": [
@@ -13307,6 +13307,13 @@
             "address": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xba50933c268f567bdc86e1ac131be072c6b0b71a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Unimonitor",
+            "symbol": "UNT",
+            "address": "0x6dddF4111ad997A8C7Be9B2e502aa476Bf1F4251",
+            "decimals": 18
         }
     ]
 }
