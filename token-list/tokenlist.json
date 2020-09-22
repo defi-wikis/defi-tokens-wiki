@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:00:11.033Z",
+    "timestamp": "2020-09-22T01:00:20.142Z",
     "version": {
         "major": 1,
-        "minor": 2009,
+        "minor": 2010,
         "patch": 0
     },
     "keywords": [
@@ -13605,6 +13605,13 @@
             "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5732046a883704404f284ce41ffadd5b007fd668/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Yeld Finance",
+            "symbol": "YELD",
+            "address": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+            "decimals": 18
         }
     ]
 }
