@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:56:27.435Z",
+    "timestamp": "2020-09-22T00:56:41.255Z",
     "version": {
         "major": 1,
-        "minor": 1991,
+        "minor": 1992,
         "patch": 0
     },
     "keywords": [
@@ -13476,6 +13476,14 @@
             "address": "0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4fe5851c9af07df9e5ad8217afae1ea72737ebda/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Datamine",
+            "symbol": "DAM",
+            "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf80d589b3dbe130c270a69f1a69d050f268786df/icon.png"
         }
     ]
 }
