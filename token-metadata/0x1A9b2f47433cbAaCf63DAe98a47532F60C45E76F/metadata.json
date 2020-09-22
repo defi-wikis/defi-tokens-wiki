@@ -1,0 +1,7 @@
+{
+    "name": "ETH",
+    "symbol": "ETH",
+    "address": "0x1A9b2f47433cbAaCf63DAe98a47532F60C45E76F",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
