@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:51:11.720Z",
+    "timestamp": "2020-09-22T00:51:23.514Z",
     "version": {
         "major": 1,
-        "minor": 1964,
+        "minor": 1965,
         "patch": 0
     },
     "keywords": [
@@ -13283,6 +13283,14 @@
             "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xcbd55d4ffc43467142761a764763652b48b969ff/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DigiMax",
+            "symbol": "DGMT",
+            "address": "0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0d4b4da5fb1a7d55e85f8e22f728701ceb6e44c9/icon.png"
         }
     ]
 }
