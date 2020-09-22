@@ -3,7 +3,5 @@
     "symbol": "SUSD",
     "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
