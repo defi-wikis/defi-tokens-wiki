@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T08:02:29.385Z",
+    "timestamp": "2020-09-22T08:02:49.686Z",
     "version": {
         "major": 1,
-        "minor": 2106,
+        "minor": 2107,
         "patch": 0
     },
     "keywords": [
@@ -14089,6 +14089,13 @@
             "name": "JustOneHundred.com",
             "symbol": "JOH",
             "address": "0x4340b2e1Fd4570cEBef325BedD98ff76Ee01edCc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Semi Centralized Finance",
+            "symbol": "SCFI",
+            "address": "0xB3Cf3c70b957483E554227769037cd454D7056c8",
             "decimals": 18
         }
     ]
