@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T10:31:39.508Z",
+    "timestamp": "2020-09-22T10:47:29.413Z",
     "version": {
         "major": 1,
-        "minor": 2117,
+        "minor": 2118,
         "patch": 0
     },
     "keywords": [
@@ -14166,6 +14166,13 @@
             "name": "SHARK",
             "symbol": "SHARK",
             "address": "0x5F56C26Ed52614fD331C8291E09B437F1845d558",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.Money",
+            "symbol": "YEAM",
+            "address": "0x6F40802d334A09A67ACA1f0D0E0cf4BC7a3D5B68",
             "decimals": 18
         }
     ]
