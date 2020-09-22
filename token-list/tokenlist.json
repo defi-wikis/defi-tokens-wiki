@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:40:22.338Z",
+    "timestamp": "2020-09-22T00:40:35.345Z",
     "version": {
         "major": 1,
-        "minor": 1909,
+        "minor": 1910,
         "patch": 0
     },
     "keywords": [
@@ -77,10 +77,11 @@
         },
         {
             "chainId": 1,
-            "name": "Compound USDC",
+            "name": "cUSDC",
             "symbol": "CUSDC",
             "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x39aa39c021dfbae8fac545936693ac917d5e7563/icon.png"
         },
         {
             "chainId": 1,
