@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:15:23.738Z",
+    "timestamp": "2020-09-22T00:15:35.369Z",
     "version": {
         "major": 1,
-        "minor": 1787,
+        "minor": 1788,
         "patch": 0
     },
     "keywords": [
@@ -12001,6 +12001,14 @@
             "address": "0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SWFT Blockchain",
+            "symbol": "SWFTC",
+            "address": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e/icon.png"
         }
     ]
 }
