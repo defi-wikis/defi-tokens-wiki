@@ -1,0 +1,9 @@
+{
+    "name": "Aeryus",
+    "symbol": "AER",
+    "address": "0xac4D22e40bf0B8eF4750a99ED4E935B99A42685E",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
