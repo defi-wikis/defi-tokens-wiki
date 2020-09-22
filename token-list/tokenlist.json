@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:33:52.775Z",
+    "timestamp": "2020-09-22T00:34:05.114Z",
     "version": {
         "major": 1,
-        "minor": 1877,
+        "minor": 1878,
         "patch": 0
     },
     "keywords": [
@@ -12654,6 +12654,14 @@
             "symbol": "INTX",
             "address": "0x7533D63A2558965472398Ef473908e1320520AE2",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Upfiring",
+            "symbol": "UFR",
+            "address": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xea097a2b1db00627b2fa17460ad260c016016977/icon.png"
         }
     ]
 }
