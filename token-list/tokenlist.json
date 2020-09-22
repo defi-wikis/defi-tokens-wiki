@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:19:49.319Z",
+    "timestamp": "2020-09-22T17:20:02.111Z",
     "version": {
         "major": 1,
-        "minor": 2223,
+        "minor": 2224,
         "patch": 0
     },
     "keywords": [
@@ -12242,7 +12242,8 @@
             "symbol": "IETH",
             "address": "0xA9859874e1743A32409f75bB11549892138BBA1E",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xa9859874e1743a32409f75bb11549892138bba1e/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xa9859874e1743a32409f75bb11549892138bba1e/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
