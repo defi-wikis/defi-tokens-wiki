@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:34:49.560Z",
+    "timestamp": "2020-09-22T00:34:59.136Z",
     "version": {
         "major": 1,
-        "minor": 1881,
+        "minor": 1882,
         "patch": 0
     },
     "keywords": [
@@ -12686,6 +12686,13 @@
             "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd8912c10681d8b21fd3742244f44658dba12264e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bounce Token",
+            "symbol": "BOT",
+            "address": "0x5bEaBAEBB3146685Dd74176f68a0721F91297D37",
+            "decimals": 18
         }
     ]
 }
