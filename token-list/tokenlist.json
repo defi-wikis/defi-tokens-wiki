@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:15:30.047Z",
+    "timestamp": "2020-09-22T17:15:43.581Z",
     "version": {
         "major": 1,
-        "minor": 2208,
+        "minor": 2209,
         "patch": 0
     },
     "keywords": [
@@ -12975,7 +12975,8 @@
             "symbol": "ASUSD",
             "address": "0x625aE63000f46200499120B906716420bd059240",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x625ae63000f46200499120b906716420bd059240/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x625ae63000f46200499120b906716420bd059240/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
