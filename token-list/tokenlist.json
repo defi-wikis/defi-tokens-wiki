@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:16:10.762Z",
+    "timestamp": "2020-09-22T00:16:24.155Z",
     "version": {
         "major": 1,
-        "minor": 1791,
+        "minor": 1792,
         "patch": 0
     },
     "keywords": [
@@ -4349,10 +4349,11 @@
         },
         {
             "chainId": 1,
-            "name": "ShipChain SHIP",
+            "name": "ShipChain",
             "symbol": "SHIP",
             "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe25b0bba01dc5630312b6a21927e578061a13f55/icon.png"
         },
         {
             "chainId": 1,
