@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:37:43.467Z",
+    "timestamp": "2020-09-22T00:37:52.944Z",
     "version": {
         "major": 1,
-        "minor": 1896,
+        "minor": 1897,
         "patch": 0
     },
     "keywords": [
@@ -12802,6 +12802,13 @@
             "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xec67005c4e498ec7f55e092bd1d35cbc47c91892/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FlashSwap",
+            "symbol": "FSP",
+            "address": "0x0128E4FcCf5EF86b030b28f0a8A029A3c5397a94",
+            "decimals": 18
         }
     ]
 }
