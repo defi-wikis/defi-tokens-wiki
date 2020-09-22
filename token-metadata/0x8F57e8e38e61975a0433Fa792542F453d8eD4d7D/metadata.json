@@ -3,7 +3,5 @@
     "symbol": "YFIE",
     "address": "0x8F57e8e38e61975a0433Fa792542F453d8eD4d7D",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
