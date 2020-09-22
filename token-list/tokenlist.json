@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:44:30.400Z",
+    "timestamp": "2020-09-22T00:44:44.774Z",
     "version": {
         "major": 1,
-        "minor": 1929,
+        "minor": 1930,
         "patch": 0
     },
     "keywords": [
@@ -13013,6 +13013,13 @@
             "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x3212b29e33587a00fb1c83346f5dbfa69a458923/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "IYF.Finance",
+            "symbol": "IYF",
+            "address": "0x2Ce8300Ce3a0e65BB4Da5a16a7faBeD42FFe7Fc1",
+            "decimals": 18
         }
     ]
 }
