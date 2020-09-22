@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T18:34:25.422Z",
+    "timestamp": "2020-09-22T18:45:40.156Z",
     "version": {
         "major": 1,
-        "minor": 2264,
+        "minor": 2265,
         "patch": 0
     },
     "keywords": [
@@ -14585,6 +14585,13 @@
             "symbol": "VIVID",
             "address": "0xF32544D1Ab31814160054bD6371Db4DE389E0083",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "United Dao",
+            "symbol": "UD",
+            "address": "0x1b4B3a741dc182C122301D6daBab8eADAC830afa",
+            "decimals": 18
         }
     ]
 }
