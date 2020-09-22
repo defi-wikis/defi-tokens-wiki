@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:27:36.394Z",
+    "timestamp": "2020-09-22T00:27:49.702Z",
     "version": {
         "major": 1,
-        "minor": 1848,
+        "minor": 1849,
         "patch": 0
     },
     "keywords": [
@@ -12427,6 +12427,14 @@
             "address": "0x17540494Ad5E39AEFD49901774528e9ff17FE40B",
             "decimals": 3,
             "logoURI": "https://tokens.dharma.io/assets/0x17540494ad5e39aefd49901774528e9ff17fe40b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TronClassic",
+            "symbol": "TRXC",
+            "address": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
+            "decimals": 0,
+            "logoURI": "https://tokens.dharma.io/assets/0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e/icon.png"
         }
     ]
 }
