@@ -1,0 +1,9 @@
+{
+    "name": "EOS TRUST",
+    "symbol": "EOST",
+    "address": "0x87210f1D3422BA75B6C40C63C78d79324daBcd55",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
