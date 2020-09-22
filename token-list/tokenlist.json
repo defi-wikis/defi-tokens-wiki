@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:59:40.074Z",
+    "timestamp": "2020-09-22T18:03:19.996Z",
     "version": {
         "major": 1,
-        "minor": 2253,
+        "minor": 2254,
         "patch": 0
     },
     "keywords": [
@@ -14550,6 +14550,13 @@
             "name": "Presearch",
             "symbol": "PRE",
             "address": "0x88A3E4F35D64aAD41A6d4030ac9AFE4356cB84fA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFXI Finance",
+            "symbol": "YFXI",
+            "address": "0xa9E13dFFC9eB859917D0EdeC81B51F96183A4Ed2",
             "decimals": 18
         }
     ]
