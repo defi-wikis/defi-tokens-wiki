@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:58:59.919Z",
+    "timestamp": "2020-09-22T00:59:11.591Z",
     "version": {
         "major": 1,
-        "minor": 2003,
+        "minor": 2004,
         "patch": 0
     },
     "keywords": [
@@ -13572,6 +13572,14 @@
             "address": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "MCDex",
+            "symbol": "MCB",
+            "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42/icon.png"
         }
     ]
 }
