@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T06:39:19.333Z",
+    "timestamp": "2020-09-22T06:47:19.703Z",
     "version": {
         "major": 1,
-        "minor": 2101,
+        "minor": 2102,
         "patch": 0
     },
     "keywords": [
@@ -14055,6 +14055,13 @@
             "symbol": "IAO",
             "address": "0xD1a7Df60AA7908D3f6a237Ed43BE9e881a696869",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AmpereForce",
+            "symbol": "AF",
+            "address": "0xA20353AaB94597e7f305642Faa8DCde2889c95EF",
+            "decimals": 8
         }
     ]
 }
