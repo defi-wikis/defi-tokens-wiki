@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:49:42.333Z",
+    "timestamp": "2020-09-22T00:49:54.430Z",
     "version": {
         "major": 1,
-        "minor": 1956,
+        "minor": 1957,
         "patch": 0
     },
     "keywords": [
@@ -13220,6 +13220,14 @@
             "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5ca381bbfb58f0092df149bd3d243b08b9a8386e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Storj",
+            "symbol": "STORJ",
+            "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac/icon.png"
         }
     ]
 }
