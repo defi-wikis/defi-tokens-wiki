@@ -3,7 +3,5 @@
     "symbol": "BOA",
     "address": "0xF9c36C7aD7FA0f0862589c919830268d1A2581A1",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
