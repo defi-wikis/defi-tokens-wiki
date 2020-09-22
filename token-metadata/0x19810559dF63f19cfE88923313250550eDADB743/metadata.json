@@ -3,7 +3,5 @@
     "symbol": "HOUSE",
     "address": "0x19810559dF63f19cfE88923313250550eDADB743",
     "decimals": 0,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
