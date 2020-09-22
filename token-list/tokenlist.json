@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:02:14.200Z",
+    "timestamp": "2020-09-22T00:02:26.839Z",
     "version": {
         "major": 1,
-        "minor": 1722,
+        "minor": 1723,
         "patch": 0
     },
     "keywords": [
@@ -11506,6 +11506,14 @@
             "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xe1a178b681bd05964d3e3ed33ae731577d9d96dd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FlashX Advance",
+            "symbol": "FSXA",
+            "address": "0xf0B0A13d908253D954BA031a425dFd54f94a2e3D",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xf0b0a13d908253d954ba031a425dfd54f94a2e3d/icon.png"
         }
     ]
 }
