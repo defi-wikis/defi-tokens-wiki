@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:57:44.389Z",
+    "timestamp": "2020-09-22T00:57:56.969Z",
     "version": {
         "major": 1,
-        "minor": 1997,
+        "minor": 1998,
         "patch": 0
     },
     "keywords": [
@@ -13524,6 +13524,14 @@
             "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "renBTC",
+            "symbol": "RENBTC",
+            "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d/icon.png"
         }
     ]
 }
