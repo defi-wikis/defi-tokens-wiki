@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:14:50.751Z",
+    "timestamp": "2020-09-22T17:15:03.836Z",
     "version": {
         "major": 1,
-        "minor": 2205,
+        "minor": 2206,
         "patch": 0
     },
     "keywords": [
@@ -12913,7 +12913,8 @@
             "symbol": "YVAULT-LP-YCURVE",
             "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x5dbcf33d8c2e976c6b560249878e6f1491bca25c/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x5dbcf33d8c2e976c6b560249878e6f1491bca25c/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
