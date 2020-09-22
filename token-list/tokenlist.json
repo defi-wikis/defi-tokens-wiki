@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:12:54.554Z",
+    "timestamp": "2020-09-22T17:14:50.751Z",
     "version": {
         "major": 1,
-        "minor": 2204,
+        "minor": 2205,
         "patch": 0
     },
     "keywords": [
@@ -58,7 +58,8 @@
             "symbol": "CDAI",
             "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
             "decimals": 8,
-            "logoURI": "https://tokens.dharma.io/assets/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
