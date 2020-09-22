@@ -3,7 +3,5 @@
     "symbol": "BNS",
     "address": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
