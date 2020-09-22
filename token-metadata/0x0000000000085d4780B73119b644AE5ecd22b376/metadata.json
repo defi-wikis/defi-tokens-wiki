@@ -3,7 +3,5 @@
     "symbol": "TUSD",
     "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
