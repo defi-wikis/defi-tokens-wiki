@@ -3,7 +3,5 @@
     "symbol": "DMST",
     "address": "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
