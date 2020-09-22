@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:36:51.902Z",
+    "timestamp": "2020-09-22T00:37:04.732Z",
     "version": {
         "major": 1,
-        "minor": 1891,
+        "minor": 1892,
         "patch": 0
     },
     "keywords": [
@@ -12763,6 +12763,14 @@
             "address": "0xF03f8D65BaFA598611C3495124093c56e8F638f0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xf03f8d65bafa598611c3495124093c56e8f638f0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Metronome",
+            "symbol": "MET",
+            "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e/icon.png"
         }
     ]
 }
