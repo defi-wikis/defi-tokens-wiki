@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T22:07:06.458Z",
+    "timestamp": "2020-09-22T22:19:09.745Z",
     "version": {
         "major": 1,
-        "minor": 2281,
+        "minor": 2282,
         "patch": 0
     },
     "keywords": [
@@ -14703,6 +14703,13 @@
             "name": "BunMaker",
             "symbol": "BUN",
             "address": "0x944b22D2721ddA5e881a0C20ed08dE1fA2C10fcE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "best yearn world",
+            "symbol": "byw",
+            "address": "0x5c99f74586D71d2C1063172CBd4aB317A31848F8",
             "decimals": 18
         }
     ]
