@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:24:33.347Z",
+    "timestamp": "2020-09-22T00:24:46.096Z",
     "version": {
         "major": 1,
-        "minor": 1832,
+        "minor": 1833,
         "patch": 0
     },
     "keywords": [
@@ -12314,6 +12314,14 @@
             "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xb6ed7644c69416d67b522e20bc294a9a9b405b31/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ferrum Network",
+            "symbol": "FRM",
+            "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xe5caef4af8780e59df925470b050fb23c43ca68c/icon.png"
         }
     ]
 }
