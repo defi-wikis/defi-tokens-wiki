@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:01:54.956Z",
+    "timestamp": "2020-09-22T05:01:59.736Z",
     "version": {
         "major": 1,
-        "minor": 2075,
+        "minor": 2076,
         "patch": 0
     },
     "keywords": [
@@ -10939,7 +10939,8 @@
             "symbol": "SXAU",
             "address": "0x261EfCdD24CeA98652B9700800a13DfBca4103fF",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x261efcdd24cea98652b9700800a13dfbca4103ff/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x261efcdd24cea98652b9700800a13dfbca4103ff/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
