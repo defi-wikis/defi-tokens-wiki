@@ -3,7 +3,5 @@
     "symbol": "HAI",
     "address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
