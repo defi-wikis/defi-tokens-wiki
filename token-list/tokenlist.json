@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:58:48.021Z",
+    "timestamp": "2020-09-22T00:58:59.919Z",
     "version": {
         "major": 1,
-        "minor": 2002,
+        "minor": 2003,
         "patch": 0
     },
     "keywords": [
@@ -13564,6 +13564,14 @@
             "address": "0x44E2ca91ceA1147f1B503e669f06CD11FB0C5490",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x44e2ca91cea1147f1b503e669f06cd11fb0c5490/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Robonomics Web Serv",
+            "symbol": "RWS",
+            "address": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802/icon.png"
         }
     ]
 }
