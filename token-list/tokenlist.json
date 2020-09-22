@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:14:36.476Z",
+    "timestamp": "2020-09-22T00:14:48.348Z",
     "version": {
         "major": 1,
-        "minor": 1783,
+        "minor": 1784,
         "patch": 0
     },
     "keywords": [
@@ -11970,6 +11970,14 @@
             "address": "0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dextrust",
+            "symbol": "DETS",
+            "address": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd379700999f4805ce80aa32db46a94df64561108/icon.png"
         }
     ]
 }
