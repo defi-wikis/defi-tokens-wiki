@@ -3,7 +3,5 @@
     "symbol": "SKYFT",
     "address": "0x5dd0815A4cF119AD91BA045BbBF879F3F7de3C68",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
