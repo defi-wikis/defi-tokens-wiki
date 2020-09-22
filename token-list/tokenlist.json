@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T18:48:29.553Z",
+    "timestamp": "2020-09-22T18:55:34.541Z",
     "version": {
         "major": 1,
-        "minor": 2266,
+        "minor": 2267,
         "patch": 0
     },
     "keywords": [
@@ -14598,6 +14598,13 @@
             "name": "DxChain Token",
             "symbol": "DX",
             "address": "0x973e52691176d36453868D9d86572788d27041A9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PuddleToken",
+            "symbol": "PUD",
+            "address": "0xA49C8c60A5c0C2350012793d69DbB97f47Ff4f76",
             "decimals": 18
         }
     ]
