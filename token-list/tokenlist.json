@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:42.536Z",
+    "timestamp": "2020-09-22T05:02:45.570Z",
     "version": {
         "major": 1,
-        "minor": 2089,
+        "minor": 2090,
         "patch": 0
     },
     "keywords": [
@@ -13416,7 +13416,10 @@
             "symbol": "SUSD",
             "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x57ab1ec28d129707052df4df418d58a2d46d5f51/icon.png",
+            "tags": [
+                "stablecoin"
+            ]
         },
         {
             "chainId": 1,
