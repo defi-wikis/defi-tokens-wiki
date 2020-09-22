@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:55:48.116Z",
+    "timestamp": "2020-09-22T00:56:01.033Z",
     "version": {
         "major": 1,
-        "minor": 1988,
+        "minor": 1989,
         "patch": 0
     },
     "keywords": [
@@ -13452,6 +13452,14 @@
             "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Status",
+            "symbol": "SNT",
+            "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x744d70fdbe2ba4cf95131626614a1763df805b9e/icon.png"
         }
     ]
 }
