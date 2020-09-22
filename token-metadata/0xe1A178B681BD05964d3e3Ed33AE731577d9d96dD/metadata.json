@@ -1,0 +1,9 @@
+{
+    "name": "BOX Token",
+    "symbol": "BOX",
+    "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
