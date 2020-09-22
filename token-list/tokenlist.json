@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:06:25.299Z",
+    "timestamp": "2020-09-22T00:06:41.565Z",
     "version": {
         "major": 1,
-        "minor": 1743,
+        "minor": 1744,
         "patch": 0
     },
     "keywords": [
@@ -11671,6 +11671,14 @@
             "address": "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x14409b0fc5c7f87b5dad20754fe22d29a3de8217/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "WHALE",
+            "symbol": "WHALE",
+            "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x9355372396e3f6daf13359b7b607a3374cc638e0/icon.png"
         }
     ]
 }
