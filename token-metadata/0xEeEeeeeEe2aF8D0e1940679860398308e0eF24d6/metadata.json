@@ -1,0 +1,9 @@
+{
+    "name": "Ethverse",
+    "symbol": "ETHV",
+    "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
