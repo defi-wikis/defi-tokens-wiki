@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:47:03.564Z",
+    "timestamp": "2020-09-22T00:47:16.842Z",
     "version": {
         "major": 1,
-        "minor": 1942,
+        "minor": 1943,
         "patch": 0
     },
     "keywords": [
@@ -13111,6 +13111,14 @@
             "symbol": "ADEL",
             "address": "0x94d863173EE77439E4292284fF13fAD54b3BA182",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Request",
+            "symbol": "REQ",
+            "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8f8221afbb33998d8584a2b05749ba73c37a938a/icon.png"
         }
     ]
 }
