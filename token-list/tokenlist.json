@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:05:47.932Z",
+    "timestamp": "2020-09-22T00:06:01.177Z",
     "version": {
         "major": 1,
-        "minor": 1740,
+        "minor": 1741,
         "patch": 0
     },
     "keywords": [
@@ -11647,6 +11647,14 @@
             "address": "0xB5DBC6D3cf380079dF3b27135664b6BCF45D1869",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xb5dbc6d3cf380079df3b27135664b6bcf45d1869/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Deflacoin",
+            "symbol": "DEFL",
+            "address": "0x4eC2eFb9cBd374786A03261E46ffce1a67756f3B",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4ec2efb9cbd374786a03261e46ffce1a67756f3b/icon.png"
         }
     ]
 }
