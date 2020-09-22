@@ -3,7 +3,5 @@
     "symbol": "VETH",
     "address": "0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
