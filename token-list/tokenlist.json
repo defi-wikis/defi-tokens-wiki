@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:11:33.827Z",
+    "timestamp": "2020-09-22T00:11:46.021Z",
     "version": {
         "major": 1,
-        "minor": 1768,
+        "minor": 1769,
         "patch": 0
     },
     "keywords": [
@@ -11860,6 +11860,14 @@
             "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xabe580e7ee158da464b51ee1a83ac0289622e6be/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "snglsDAO Governance",
+            "symbol": "SGT",
+            "address": "0xc4199fB6FFDb30A829614becA030f9042f1c3992",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc4199fb6ffdb30a829614beca030f9042f1c3992/icon.png"
         }
     ]
 }
