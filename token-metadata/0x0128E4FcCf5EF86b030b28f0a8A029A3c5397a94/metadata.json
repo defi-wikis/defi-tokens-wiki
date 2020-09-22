@@ -3,7 +3,5 @@
     "symbol": "FSP",
     "address": "0x0128E4FcCf5EF86b030b28f0a8A029A3c5397a94",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
