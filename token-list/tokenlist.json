@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T15:10:46.824Z",
+    "timestamp": "2020-09-22T15:15:50.221Z",
     "version": {
         "major": 1,
-        "minor": 2146,
+        "minor": 2147,
         "patch": 0
     },
     "keywords": [
@@ -14361,6 +14361,13 @@
             "name": "BaaToken",
             "symbol": "BAA",
             "address": "0x4DE552184F06AbF0367792A718c9a6Ac20E3fd66",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deyfk",
+            "symbol": "DeYFK",
+            "address": "0x5023c43cF2eAaE2bFa4ebF884c0d18f772aBb566",
             "decimals": 18
         }
     ]
