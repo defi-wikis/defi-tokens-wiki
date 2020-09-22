@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:25:42.970Z",
+    "timestamp": "2020-09-22T00:25:54.813Z",
     "version": {
         "major": 1,
-        "minor": 1838,
+        "minor": 1839,
         "patch": 0
     },
     "keywords": [
@@ -12360,6 +12360,13 @@
             "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xeeeeeeeee2af8d0e1940679860398308e0ef24d6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "YFIEXCHANGE FINANCE",
+            "symbol": "YFIE",
+            "address": "0x8F57e8e38e61975a0433Fa792542F453d8eD4d7D",
+            "decimals": 18
         }
     ]
 }
