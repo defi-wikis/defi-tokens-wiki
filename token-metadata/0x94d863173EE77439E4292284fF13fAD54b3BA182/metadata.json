@@ -1,0 +1,9 @@
+{
+    "name": "Akropolis Delphi",
+    "symbol": "ADEL",
+    "address": "0x94d863173EE77439E4292284fF13fAD54b3BA182",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
