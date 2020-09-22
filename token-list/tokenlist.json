@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T19:07:29.913Z",
+    "timestamp": "2020-09-22T19:13:19.895Z",
     "version": {
         "major": 1,
-        "minor": 2269,
+        "minor": 2270,
         "patch": 0
     },
     "keywords": [
@@ -14619,6 +14619,13 @@
             "name": "UNIRELAY",
             "symbol": "URE",
             "address": "0x6f53C2a29CA2411519392DDf7f981a112A0973E1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eternal Contract Token",
+            "symbol": "EOC",
+            "address": "0xb5f554E47Ad3670CFFD38C64546fEB177062daE5",
             "decimals": 18
         }
     ]
