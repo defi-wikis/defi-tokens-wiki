@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:16:36.260Z",
+    "timestamp": "2020-09-22T00:16:49.144Z",
     "version": {
         "major": 1,
-        "minor": 1793,
+        "minor": 1794,
         "patch": 0
     },
     "keywords": [
@@ -12041,6 +12041,14 @@
             "address": "0x4FbB350052Bca5417566f188eB2EBCE5b19BC964",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4fbb350052bca5417566f188eb2ebce5b19bc964/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Flixxo",
+            "symbol": "FLIXX",
+            "address": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf04a8ac553fcedb5ba99a64799155826c136b0be/icon.png"
         }
     ]
 }
