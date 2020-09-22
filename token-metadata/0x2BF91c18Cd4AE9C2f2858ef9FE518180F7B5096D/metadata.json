@@ -3,7 +3,5 @@
     "symbol": "KIWI",
     "address": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
