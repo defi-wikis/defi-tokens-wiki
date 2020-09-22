@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T16:30:40.276Z",
+    "timestamp": "2020-09-22T16:31:50.499Z",
     "version": {
         "major": 1,
-        "minor": 2199,
+        "minor": 2200,
         "patch": 0
     },
     "keywords": [
@@ -14424,6 +14424,13 @@
             "name": "TRAMSV1 Token",
             "symbol": "TRAMSV1",
             "address": "0x38A6741251e849ddaD46619b720a6970f73aD25A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shibuya",
+            "symbol": "SHIB",
+            "address": "0x7E6fe6064cd6cfC77f2cAB1D813C48DCE9F3A418",
             "decimals": 18
         }
     ]
