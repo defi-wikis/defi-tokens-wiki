@@ -1,0 +1,9 @@
+{
+    "name": "Cartesi",
+    "symbol": "CTSI",
+    "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
