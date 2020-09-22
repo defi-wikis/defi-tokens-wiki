@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T16:31:54.698Z",
+    "timestamp": "2020-09-22T16:43:20.232Z",
     "version": {
         "major": 1,
-        "minor": 2201,
+        "minor": 2202,
         "patch": 0
     },
     "keywords": [
@@ -14438,6 +14438,13 @@
             "name": "yearn.deiFinance",
             "symbol": "DeYFII",
             "address": "0x1B8d8dBAeB7f5acA72F3A125b7c0956fA8f323c3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap Defi finance",
+            "symbol": "UNIF",
+            "address": "0x89478716139F983D44b37507aBfEF2c5794D26Ee",
             "decimals": 18
         }
     ]
