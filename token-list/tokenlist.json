@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:07:30.840Z",
+    "timestamp": "2020-09-22T00:07:43.638Z",
     "version": {
         "major": 1,
-        "minor": 1748,
+        "minor": 1749,
         "patch": 0
     },
     "keywords": [
@@ -11710,6 +11710,14 @@
             "symbol": "TVT",
             "address": "0x98E0438d3eE1404FEA48E38e92853BB08Cfa68bD",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Unit Protocol",
+            "symbol": "COL",
+            "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc76fb75950536d98fa62ea968e1d6b45ffea2a55/icon.png"
         }
     ]
 }
