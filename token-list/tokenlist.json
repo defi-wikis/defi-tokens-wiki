@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T12:28:14.626Z",
+    "timestamp": "2020-09-22T12:42:40.502Z",
     "version": {
         "major": 1,
-        "minor": 2126,
+        "minor": 2127,
         "patch": 0
     },
     "keywords": [
@@ -14229,6 +14229,13 @@
             "name": "eee.finance",
             "symbol": "EEE",
             "address": "0x3775bCd42D75Ea252e65dc5F26A8AB64862856f1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "10x.finance",
+            "symbol": "TENX",
+            "address": "0x3a0Bf06B8DDd39983F2334BeC3A0F0016622CA77",
             "decimals": 18
         }
     ]
