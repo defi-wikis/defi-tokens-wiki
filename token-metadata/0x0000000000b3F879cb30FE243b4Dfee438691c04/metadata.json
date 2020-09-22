@@ -3,7 +3,5 @@
     "symbol": "GST2",
     "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
     "decimals": 2,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
