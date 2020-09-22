@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:12:10.052Z",
+    "timestamp": "2020-09-22T00:12:24.163Z",
     "version": {
         "major": 1,
-        "minor": 1771,
+        "minor": 1772,
         "patch": 0
     },
     "keywords": [
@@ -11884,6 +11884,14 @@
             "address": "0x445f51299Ef3307dBD75036dd896565F5B4BF7A5",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x445f51299ef3307dbd75036dd896565f5b4bf7a5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Ruletka",
+            "symbol": "RTK",
+            "address": "0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x1f6deadcb526c4710cf941872b86dcdfbbbd9211/icon.png"
         }
     ]
 }
