@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T09:04:34.982Z",
+    "timestamp": "2020-09-22T09:11:49.867Z",
     "version": {
         "major": 1,
-        "minor": 2110,
+        "minor": 2111,
         "patch": 0
     },
     "keywords": [
@@ -14117,6 +14117,13 @@
             "name": "GrowDeFi.capital",
             "symbol": "GRDEFI",
             "address": "0x7bd075e70977b8C026Ba29624340A70f832DF3C9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SUPER",
+            "symbol": "SUPER",
+            "address": "0x058391E75eE8F675c7EECA35fD6d12B11E73b4b6",
             "decimals": 18
         }
     ]
