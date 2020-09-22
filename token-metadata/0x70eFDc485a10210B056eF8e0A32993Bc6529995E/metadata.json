@@ -3,7 +3,5 @@
     "symbol": "BLZN",
     "address": "0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
