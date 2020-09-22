@@ -1,0 +1,9 @@
+{
+    "name": "INTEXCOIN",
+    "symbol": "INTX",
+    "address": "0x7533D63A2558965472398Ef473908e1320520AE2",
+    "decimals": 9,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
