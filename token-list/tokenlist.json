@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:35:12.762Z",
+    "timestamp": "2020-09-22T00:35:24.877Z",
     "version": {
         "major": 1,
-        "minor": 1883,
+        "minor": 1884,
         "patch": 0
     },
     "keywords": [
@@ -12701,6 +12701,14 @@
             "address": "0x846C66cf71C43f80403B51fE3906B3599D63336f",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x846c66cf71c43f80403b51fe3906b3599d63336f/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Fee Active Collater",
+            "symbol": "FACT",
+            "address": "0x23aEfF664c1B2bbA98422a0399586e96cc8a1C92",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x23aeff664c1b2bba98422a0399586e96cc8a1c92/icon.png"
         }
     ]
 }
