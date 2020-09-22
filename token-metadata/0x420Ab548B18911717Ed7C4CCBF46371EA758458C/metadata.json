@@ -1,0 +1,9 @@
+{
+    "name": "NOODLE Finance",
+    "symbol": "NOODLE",
+    "address": "0x420Ab548B18911717Ed7C4CCBF46371EA758458C",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
