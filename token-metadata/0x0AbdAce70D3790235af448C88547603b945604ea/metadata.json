@@ -3,7 +3,5 @@
     "symbol": "DNT",
     "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
