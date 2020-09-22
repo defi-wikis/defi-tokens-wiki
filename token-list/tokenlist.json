@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T15:10:43.750Z",
+    "timestamp": "2020-09-22T15:10:46.824Z",
     "version": {
         "major": 1,
-        "minor": 2145,
+        "minor": 2146,
         "patch": 0
     },
     "keywords": [
@@ -203,7 +203,10 @@
             "symbol": "USDT",
             "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "decimals": 6,
-            "logoURI": "https://tokens.dharma.io/assets/0xdac17f958d2ee523a2206206994597c13d831ec7/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xdac17f958d2ee523a2206206994597c13d831ec7/icon.png",
+            "tags": [
+                "stablecoin"
+            ]
         },
         {
             "chainId": 1,
