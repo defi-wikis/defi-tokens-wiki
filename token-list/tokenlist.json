@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T04:43:44.257Z",
+    "timestamp": "2020-09-22T04:45:15.967Z",
     "version": {
         "major": 1,
-        "minor": 2061,
+        "minor": 2062,
         "patch": 0
     },
     "keywords": [
@@ -13925,6 +13925,13 @@
             "name": "YFI FINANCE DAO",
             "symbol": "YFD",
             "address": "0x378d847cA9225E0C6928F22d7204D3628F8a2C18",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DOG: The Anti-Scam Reward Token",
+            "symbol": "DOG",
+            "address": "0xEEd2B7756E295A9300e53dD049AeB0751899BAe3",
             "decimals": 18
         }
     ]
