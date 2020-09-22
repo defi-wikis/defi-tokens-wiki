@@ -1,0 +1,9 @@
+{
+    "name": "Rupiah Token",
+    "symbol": "IDRT",
+    "address": "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
+    "decimals": 2,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
