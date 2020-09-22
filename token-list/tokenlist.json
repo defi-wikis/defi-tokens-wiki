@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:07:54.978Z",
+    "timestamp": "2020-09-22T02:08:06.391Z",
     "version": {
         "major": 1,
-        "minor": 2042,
+        "minor": 2043,
         "patch": 0
     },
     "keywords": [
@@ -13793,6 +13793,13 @@
             "symbol": "FGR",
             "address": "0x8cD9c2542500c547b4430ba9FCB789127DEf6dc5",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "TomatoToken (TOMATO)",
+            "symbol": "TMT",
+            "address": "0x1Ee0ebE0198613597ab82c6d78eFc3FA19C2128A",
+            "decimals": 18
         }
     ]
 }
