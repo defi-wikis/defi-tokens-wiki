@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T04:29:54.651Z",
+    "timestamp": "2020-09-22T04:31:49.204Z",
     "version": {
         "major": 1,
-        "minor": 2057,
+        "minor": 2058,
         "patch": 0
     },
     "keywords": [
@@ -13897,6 +13897,13 @@
             "name": "power.trade",
             "symbol": "PTF",
             "address": "0xfB95241C436315FeF46ef18CE08B340E0f0AdfD0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFO",
+            "symbol": "YFO",
+            "address": "0x34F7Be81679F8ee497014DE298aABfddf83b0A84",
             "decimals": 18
         }
     ]
