@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T16:43:20.232Z",
+    "timestamp": "2020-09-22T17:05:25.155Z",
     "version": {
         "major": 1,
-        "minor": 2202,
+        "minor": 2203,
         "patch": 0
     },
     "keywords": [
@@ -14445,6 +14445,13 @@
             "name": "Uniswap Defi finance",
             "symbol": "UNIF",
             "address": "0x89478716139F983D44b37507aBfEF2c5794D26Ee",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTCC比特创世",
+            "symbol": "BTCC",
+            "address": "0x582Ab60C8A314244823DD9fcfB325AD55fa25acD",
             "decimals": 18
         }
     ]
