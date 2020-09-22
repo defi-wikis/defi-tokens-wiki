@@ -44,6 +44,11 @@
     "description": "Tokens backed by Andreesen-Horrowitz",
     "emoji": "🏗️"
   },
+  "paradigm": {
+    "name": "Paradigm",
+    "description": "Tokens backed by Paradigm",
+    "emoji": "🔮"
+  },
   "polychain": {
     "name": "Polychain",
     "description": "Tokens backed by Polychain",
