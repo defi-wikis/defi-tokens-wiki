@@ -3,7 +3,5 @@
     "symbol": "FUN",
     "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
