@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:04:26.424Z",
+    "timestamp": "2020-09-22T00:04:38.910Z",
     "version": {
         "major": 1,
-        "minor": 1733,
+        "minor": 1734,
         "patch": 0
     },
     "keywords": [
@@ -11593,6 +11593,14 @@
             "address": "0xa8892bfc33FA44053a9E402B1839966f4FEc74A4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa8892bfc33fa44053a9e402b1839966f4fec74a4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SwapCoinz",
+            "symbol": "SPAZ",
+            "address": "0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x810908b285f85af668f6348cd8b26d76b3ec12e1/icon.png"
         }
     ]
 }
