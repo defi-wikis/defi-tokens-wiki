@@ -1,0 +1,9 @@
+{
+    "name": "UniCrypt",
+    "symbol": "UNC",
+    "address": "0xf29e46887FFAE92f1ff87DfE39713875Da541373",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
