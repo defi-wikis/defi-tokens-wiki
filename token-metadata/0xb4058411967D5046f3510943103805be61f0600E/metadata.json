@@ -1,0 +1,9 @@
+{
+    "name": "STONK",
+    "symbol": "STONK",
+    "address": "0xb4058411967D5046f3510943103805be61f0600E",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
