@@ -3,7 +3,5 @@
     "symbol": "YFKA",
     "address": "0x4086692D53262b2Be0b13909D804F0491FF6Ec3e",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
