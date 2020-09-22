@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T18:31:01.330Z",
+    "timestamp": "2020-09-22T18:34:25.422Z",
     "version": {
         "major": 1,
-        "minor": 2263,
+        "minor": 2264,
         "patch": 0
     },
     "keywords": [
@@ -14578,6 +14578,13 @@
             "symbol": "OBL",
             "address": "0x43818ec4020BfC8f5a9aE7B22EbB2aD1003c6Bc6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vivid Finance",
+            "symbol": "VIVID",
+            "address": "0xF32544D1Ab31814160054bD6371Db4DE389E0083",
+            "decimals": 2
         }
     ]
 }
