@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:01:15.929Z",
+    "timestamp": "2020-09-22T05:01:19.904Z",
     "version": {
         "major": 1,
-        "minor": 2064,
+        "minor": 2065,
         "patch": 0
     },
     "keywords": [
@@ -7971,7 +7971,10 @@
             "symbol": "UMA",
             "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x04fa0d235c4abf4bcf4787af4cf447de572ef828/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x04fa0d235c4abf4bcf4787af4cf447de572ef828/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
