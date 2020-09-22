@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:46:13.219Z",
+    "timestamp": "2020-09-22T00:46:22.110Z",
     "version": {
         "major": 1,
-        "minor": 1937,
+        "minor": 1938,
         "patch": 0
     },
     "keywords": [
@@ -13076,6 +13076,13 @@
             "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x2b591e99afe9f32eaa6214f7b7629768c40eeb39/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hex Cash",
+            "symbol": "HCASH",
+            "address": "0x51BFCdf5282292425faA0426FB9Db6f14B4cf956",
+            "decimals": 18
         }
     ]
 }
