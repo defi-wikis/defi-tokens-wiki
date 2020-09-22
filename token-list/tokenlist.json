@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:01:45.934Z",
+    "timestamp": "2020-09-22T01:11:20.565Z",
     "version": {
         "major": 1,
-        "minor": 2017,
+        "minor": 2018,
         "patch": 0
     },
     "keywords": [
@@ -13666,6 +13666,13 @@
             "address": "0x19810559dF63f19cfE88923313250550eDADB743",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0x19810559df63f19cfe88923313250550edadb743/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuy16",
+            "symbol": "DontBuy16",
+            "address": "0x46Fd19E0baf75AF896442A34F21aF78dE9B6b56E",
+            "decimals": 18
         }
     ]
 }
