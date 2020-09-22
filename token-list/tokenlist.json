@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T16:17:55.146Z",
+    "timestamp": "2020-09-22T16:30:40.276Z",
     "version": {
         "major": 1,
-        "minor": 2198,
+        "minor": 2199,
         "patch": 0
     },
     "keywords": [
@@ -14417,6 +14417,13 @@
             "name": "YFIR.FINANCE",
             "symbol": "YFIR",
             "address": "0xDD4d1D10e8022d16e4cBf3B226179538264023db",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TRAMSV1 Token",
+            "symbol": "TRAMSV1",
+            "address": "0x38A6741251e849ddaD46619b720a6970f73aD25A",
             "decimals": 18
         }
     ]
