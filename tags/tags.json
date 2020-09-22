@@ -14,11 +14,6 @@
     "description": "Tokens either associated with or inspired by the yEarn ecosystem",
     "emoji": "💡"
   },
-  "yield-tokens": {
-    "name": "Yield-Bearing",
-    "description": "Tokens that are wrappers around yield-bearing asset pools",
-    "emoji": "📈"
-  },
   "amm": {
     "name": "Automated Market Maker",
     "descriptions": "Tokens that govern on-chain automated market makers",
@@ -53,11 +48,6 @@
     "name": "Paradigm",
     "description": "Tokens backed by Paradigm",
     "emoji": "🔮"
-  },
-  "coinbase": {
-      "name": "Coinbase",
-      "description": "Tokens backed by Coinbase",
-      "emoji": "👴🏻"
   },
   "nft": {
       "name": "NFT",
