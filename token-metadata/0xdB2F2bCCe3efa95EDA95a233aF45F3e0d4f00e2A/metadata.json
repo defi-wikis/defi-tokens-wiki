@@ -3,7 +3,5 @@
     "symbol": "AGS",
     "address": "0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
