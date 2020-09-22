@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:38:06.279Z",
+    "timestamp": "2020-09-22T00:38:18.342Z",
     "version": {
         "major": 1,
-        "minor": 1898,
+        "minor": 1899,
         "patch": 0
     },
     "keywords": [
@@ -12817,6 +12817,14 @@
             "address": "0x0eF3b2024ae079e6dBC2b37435cE30d2731F0101",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0ef3b2024ae079e6dbc2b37435ce30d2731f0101/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "QuarkChain",
+            "symbol": "QKC",
+            "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664/icon.png"
         }
     ]
 }
