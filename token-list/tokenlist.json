@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:18:42.717Z",
+    "timestamp": "2020-09-22T17:18:56.458Z",
     "version": {
         "major": 1,
-        "minor": 2219,
+        "minor": 2220,
         "patch": 0
     },
     "keywords": [
@@ -7586,7 +7586,8 @@
             "symbol": "ANT",
             "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x960b236a07cf122663c4303350609a66a7b288c0/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x960b236a07cf122663c4303350609a66a7b288c0/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
