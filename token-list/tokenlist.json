@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:33:17.983Z",
+    "timestamp": "2020-09-22T00:33:30.141Z",
     "version": {
         "major": 1,
-        "minor": 1874,
+        "minor": 1875,
         "patch": 0
     },
     "keywords": [
@@ -12631,6 +12631,14 @@
             "symbol": "HAI",
             "address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Aegis",
+            "symbol": "AGS",
+            "address": "0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a/icon.png"
         }
     ]
 }
