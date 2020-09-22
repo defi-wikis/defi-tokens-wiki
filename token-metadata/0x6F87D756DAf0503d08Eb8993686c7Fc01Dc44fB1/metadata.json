@@ -3,7 +3,5 @@
     "symbol": "TRADE",
     "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
