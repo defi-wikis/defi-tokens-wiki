@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:06:41.565Z",
+    "timestamp": "2020-09-22T00:06:55.263Z",
     "version": {
         "major": 1,
-        "minor": 1744,
+        "minor": 1745,
         "patch": 0
     },
     "keywords": [
@@ -11679,6 +11679,14 @@
             "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
             "decimals": 4,
             "logoURI": "https://tokens.dharma.io/assets/0x9355372396e3f6daf13359b7b607a3374cc638e0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FREE coin",
+            "symbol": "FREE",
+            "address": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd/icon.png"
         }
     ]
 }
