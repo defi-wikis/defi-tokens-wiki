@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T22:19:09.745Z",
+    "timestamp": "2020-09-22T22:31:20.496Z",
     "version": {
         "major": 1,
-        "minor": 2282,
+        "minor": 2283,
         "patch": 0
     },
     "keywords": [
@@ -14710,6 +14710,13 @@
             "name": "best yearn world",
             "symbol": "byw",
             "address": "0x5c99f74586D71d2C1063172CBd4aB317A31848F8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FEW Citadel",
+            "symbol": "FEW",
+            "address": "0xFA73a8e9A1198b7888FFa93E8136482DF979a255",
             "decimals": 18
         }
     ]
