@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:33:08.530Z",
+    "timestamp": "2020-09-22T00:33:17.983Z",
     "version": {
         "major": 1,
-        "minor": 1873,
+        "minor": 1874,
         "patch": 0
     },
     "keywords": [
@@ -12624,6 +12624,13 @@
             "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6b785a0322126826d8226d77e173d75dafb84d11/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hacken Token",
+            "symbol": "HAI",
+            "address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
+            "decimals": 8
         }
     ]
 }
