@@ -1,3 +1,4 @@
+![Banner](https://dharma-assets.s3-us-west-2.amazonaws.com/defi-asset-wiki-banner.png)
 # DeFi Tokens Wiki
 
 ## Overview
