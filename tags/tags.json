@@ -2,7 +2,7 @@
   "stablecoin": {
     "name": "Stablecoin",
     "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
-    "emoji": "💲"
+    "emoji": "😴"
   },
   "yield-farming": {
     "name": "Yield Farming",
@@ -16,15 +16,8 @@
   },
   "yield-tokens": {
     "name": "Yield-Bearing",
-    "description": "Tokens that are wrappers around yield-bearing asset pools"
-  },
-  "dex": {
-    "name": "DEX",
-    "description": "Tokens for decentralized exchange protocols that enable peer-to-peer trading of tokens"
-  },
-  "lending": {
-    "name": "Lending",
-    "description": "Tokens associated with permissionless lending pools"
+    "description": "Tokens that are wrappers around yield-bearing asset pools",
+    "emoji": "📈"
   },
   "amm": {
     "name": "Automated Market Maker",
@@ -60,17 +53,5 @@
     "name": "Polychain",
     "description": "Tokens backed by Polychain",
     "emoji": "⛓️"
-  },
-  "oracle": {
-    "name": "Oracles",
-    "description": "Tokens associated with decentralized oracle infrastructure"
-  },
-  "defi": {
-    "name": "DeFi",
-    "description": "Tokens associated with the decentralized finance movement."
-  },
-  "exchange-based": {
-    "name": "Exchange Based",
-    "description": "Tokens that offer holders discounts on trading fees and other benefits"
   }
 }
