@@ -3,7 +3,5 @@
     "symbol": "LMY",
     "address": "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
