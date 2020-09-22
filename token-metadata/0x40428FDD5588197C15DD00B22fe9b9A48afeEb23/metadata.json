@@ -3,7 +3,5 @@
     "symbol": "COTR",
     "address": "0x40428FDD5588197C15DD00B22fe9b9A48afeEb23",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
