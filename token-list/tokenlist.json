@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:39:06.749Z",
+    "timestamp": "2020-09-22T00:39:19.946Z",
     "version": {
         "major": 1,
-        "minor": 1903,
+        "minor": 1904,
         "patch": 0
     },
     "keywords": [
@@ -12849,6 +12849,14 @@
             "symbol": "RSV",
             "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rug",
+            "symbol": "RUG",
+            "address": "0xd0Df3b1Cf729A29B7404c40D61C750008E631bA7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd0df3b1cf729a29b7404c40d61c750008e631ba7/icon.png"
         }
     ]
 }
