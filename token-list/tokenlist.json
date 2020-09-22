@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:38:43.547Z",
+    "timestamp": "2020-09-22T00:38:56.816Z",
     "version": {
         "major": 1,
-        "minor": 1901,
+        "minor": 1902,
         "patch": 0
     },
     "keywords": [
@@ -4403,10 +4403,11 @@
         },
         {
             "chainId": 1,
-            "name": "Gastoken.io",
+            "name": "Gastoken",
             "symbol": "GST2",
             "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
-            "decimals": 2
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0x0000000000b3f879cb30fe243b4dfee438691c04/icon.png"
         },
         {
             "chainId": 1,
