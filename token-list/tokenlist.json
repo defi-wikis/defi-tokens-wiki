@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:37:17.791Z",
+    "timestamp": "2020-09-22T00:37:31.560Z",
     "version": {
         "major": 1,
-        "minor": 1894,
+        "minor": 1895,
         "patch": 0
     },
     "keywords": [
@@ -12786,6 +12786,14 @@
             "address": "0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x763fa6806e1acf68130d2d0f0df754c93cc546b2/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "RMPL",
+            "symbol": "RMPL",
+            "address": "0xE17f017475a709De58E976081eB916081ff4c9d5",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0xe17f017475a709de58e976081eb916081ff4c9d5/icon.png"
         }
     ]
 }
