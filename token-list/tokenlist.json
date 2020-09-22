@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:47:55.697Z",
+    "timestamp": "2020-09-22T00:48:08.238Z",
     "version": {
         "major": 1,
-        "minor": 1947,
+        "minor": 1948,
         "patch": 0
     },
     "keywords": [
@@ -13149,6 +13149,14 @@
             "address": "0x7777770f8A6632ff043c8833310e245EBa9209E6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x7777770f8a6632ff043c8833310e245eba9209e6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DMScript",
+            "symbol": "DMST",
+            "address": "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xf29992d7b589a0a6bd2de7be29a97a6eb73eaf85/icon.png"
         }
     ]
 }
