@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:58:09.796Z",
+    "timestamp": "2020-09-22T00:58:21.589Z",
     "version": {
         "major": 1,
-        "minor": 1999,
+        "minor": 2000,
         "patch": 0
     },
     "keywords": [
@@ -13540,6 +13540,14 @@
             "address": "0x1C95b093d6C236d3EF7c796fE33f9CC6b8606714",
             "decimals": 0,
             "logoURI": "https://tokens.dharma.io/assets/0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Leverj",
+            "symbol": "LEV",
+            "address": "0x0F4CA92660Efad97a9a70CB0fe969c755439772C",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x0f4ca92660efad97a9a70cb0fe969c755439772c/icon.png"
         }
     ]
 }
