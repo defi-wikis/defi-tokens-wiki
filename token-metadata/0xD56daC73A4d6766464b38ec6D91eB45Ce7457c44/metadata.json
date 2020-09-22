@@ -3,7 +3,5 @@
     "symbol": "PAN",
     "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
