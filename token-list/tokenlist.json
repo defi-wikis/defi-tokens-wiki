@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:54:29.601Z",
+    "timestamp": "2020-09-22T00:54:38.674Z",
     "version": {
         "major": 1,
-        "minor": 1981,
+        "minor": 1982,
         "patch": 0
     },
     "keywords": [
@@ -13398,6 +13398,13 @@
             "address": "0xb4058411967D5046f3510943103805be61f0600E",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb4058411967d5046f3510943103805be61f0600e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PowerPool Concentra",
+            "symbol": "CVP",
+            "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
+            "decimals": 18
         }
     ]
 }
