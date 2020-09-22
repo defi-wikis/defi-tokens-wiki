@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:01:19.088Z",
+    "timestamp": "2020-09-22T01:01:31.091Z",
     "version": {
         "major": 1,
-        "minor": 2015,
+        "minor": 2016,
         "patch": 0
     },
     "keywords": [
@@ -13650,6 +13650,14 @@
             "address": "0xEd91879919B71bB6905f23af0A68d231EcF87b14",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xed91879919b71bb6905f23af0a68d231ecf87b14/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Streamr DATAcoin",
+            "symbol": "DATA",
+            "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0cf0ee63788a0849fe5297f3407f701e122cc023/icon.png"
         }
     ]
 }
