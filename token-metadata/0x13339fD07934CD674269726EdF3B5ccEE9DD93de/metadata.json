@@ -1,0 +1,9 @@
+{
+    "name": "Curio",
+    "symbol": "CUR",
+    "address": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
