@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:22:38.662Z",
+    "timestamp": "2020-09-22T00:22:52.405Z",
     "version": {
         "major": 1,
-        "minor": 1823,
+        "minor": 1824,
         "patch": 0
     },
     "keywords": [
@@ -12244,6 +12244,14 @@
             "address": "0x556148562d5DdeB72545D7EC4B3eC8edc8F55Ba7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x556148562d5ddeb72545d7ec4b3ec8edc8f55ba7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TrustDAO",
+            "symbol": "TRUST",
+            "address": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x57700244b20f84799a31c6c96dadff373ca9d6c5/icon.png"
         }
     ]
 }
