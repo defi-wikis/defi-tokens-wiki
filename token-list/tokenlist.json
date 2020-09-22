@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:01:14.097Z",
+    "timestamp": "2020-09-22T00:01:25.490Z",
     "version": {
         "major": 1,
-        "minor": 1717,
+        "minor": 1718,
         "patch": 0
     },
     "keywords": [
@@ -11467,6 +11467,14 @@
             "address": "0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Yobit Token",
+            "symbol": "YO",
+            "address": "0xeBF4CA5319F406602EEFf68da16261f1216011B5",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xebf4ca5319f406602eeff68da16261f1216011b5/icon.png"
         }
     ]
 }
