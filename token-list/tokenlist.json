@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:08:04.603Z",
+    "timestamp": "2020-09-22T00:08:18.965Z",
     "version": {
         "major": 1,
-        "minor": 1751,
+        "minor": 1752,
         "patch": 0
     },
     "keywords": [
@@ -4381,7 +4381,8 @@
             "name": "Ethereum Money",
             "symbol": "ETHMNY",
             "address": "0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa",
-            "decimals": 2
+            "decimals": 2,
+            "logoURI": "https://tokens.dharma.io/assets/0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa/icon.png"
         },
         {
             "chainId": 1,
