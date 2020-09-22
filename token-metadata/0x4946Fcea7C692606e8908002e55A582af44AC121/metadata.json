@@ -1,0 +1,9 @@
+{
+    "name": "FOAM",
+    "symbol": "FOAM",
+    "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
