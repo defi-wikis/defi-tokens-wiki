@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:33:42.106Z",
+    "timestamp": "2020-09-22T00:33:52.775Z",
     "version": {
         "major": 1,
-        "minor": 1876,
+        "minor": 1877,
         "patch": 0
     },
     "keywords": [
@@ -12647,6 +12647,13 @@
             "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xe5dada80aa6477e85d09747f2842f7993d0df71c/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "INTEXCOIN",
+            "symbol": "INTX",
+            "address": "0x7533D63A2558965472398Ef473908e1320520AE2",
+            "decimals": 9
         }
     ]
 }
