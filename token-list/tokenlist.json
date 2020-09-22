@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:17:01.344Z",
+    "timestamp": "2020-09-22T00:17:10.568Z",
     "version": {
         "major": 1,
-        "minor": 1795,
+        "minor": 1796,
         "patch": 0
     },
     "keywords": [
@@ -12057,6 +12057,13 @@
             "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x4922a015c4407f87432b179bb209e125432e4a2a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bone",
+            "symbol": "BONE",
+            "address": "0x5C84bc60a796534bfeC3439Af0E6dB616A966335",
+            "decimals": 18
         }
     ]
 }
