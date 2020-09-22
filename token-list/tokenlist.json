@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:46:31.614Z",
+    "timestamp": "2020-09-22T00:46:40.933Z",
     "version": {
         "major": 1,
-        "minor": 1939,
+        "minor": 1940,
         "patch": 0
     },
     "keywords": [
@@ -13090,6 +13090,13 @@
             "symbol": "OIN",
             "address": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Sendvibe",
+            "symbol": "SVB",
+            "address": "0x3408B204d67BA2dBcA13b9C50e8a45701d8a1cA6",
+            "decimals": 18
         }
     ]
 }
