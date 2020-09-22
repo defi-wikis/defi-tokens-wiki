@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:42:31.949Z",
+    "timestamp": "2020-09-22T00:42:45.156Z",
     "version": {
         "major": 1,
-        "minor": 1919,
+        "minor": 1920,
         "patch": 0
     },
     "keywords": [
@@ -12948,6 +12948,14 @@
             "address": "0x2129fF6000b95A973236020BCd2b2006B0D8E019",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x2129ff6000b95a973236020bcd2b2006b0d8e019/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Binance USD",
+            "symbol": "BUSD",
+            "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4fabb145d64652a948d72533023f6e7a623c7c53/icon.png"
         }
     ]
 }
