@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:34:31.469Z",
+    "timestamp": "2020-09-22T00:34:49.560Z",
     "version": {
         "major": 1,
-        "minor": 1880,
+        "minor": 1881,
         "patch": 0
     },
     "keywords": [
@@ -12678,6 +12678,14 @@
             "address": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6f87d756daf0503d08eb8993686c7fc01dc44fb1/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Pluton",
+            "symbol": "PLU",
+            "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd8912c10681d8b21fd3742244f44658dba12264e/icon.png"
         }
     ]
 }
