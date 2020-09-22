@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:59:47.443Z",
+    "timestamp": "2020-09-22T00:59:59.600Z",
     "version": {
         "major": 1,
-        "minor": 2007,
+        "minor": 2008,
         "patch": 0
     },
     "keywords": [
@@ -13597,6 +13597,14 @@
             "address": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Bluzelle",
+            "symbol": "BLZ",
+            "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5732046a883704404f284ce41ffadd5b007fd668/icon.png"
         }
     ]
 }
