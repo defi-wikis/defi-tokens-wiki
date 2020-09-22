@@ -3,7 +3,5 @@
     "symbol": "ACW",
     "address": "0xD29FA4B8Cc936a68BB560b19eED969EbfDBaA565",
     "decimals": 10,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
