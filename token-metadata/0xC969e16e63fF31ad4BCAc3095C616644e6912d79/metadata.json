@@ -3,7 +3,5 @@
     "symbol": "SEED",
     "address": "0xC969e16e63fF31ad4BCAc3095C616644e6912d79",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
