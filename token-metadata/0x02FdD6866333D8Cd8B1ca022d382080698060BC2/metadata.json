@@ -1,0 +1,9 @@
+{
+    "name": "6ix9ine Chain",
+    "symbol": "69C",
+    "address": "0x02FdD6866333D8Cd8B1ca022d382080698060BC2",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
