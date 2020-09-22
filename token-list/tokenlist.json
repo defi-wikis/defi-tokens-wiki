@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T12:42:40.502Z",
+    "timestamp": "2020-09-22T12:44:44.483Z",
     "version": {
         "major": 1,
-        "minor": 2127,
+        "minor": 2128,
         "patch": 0
     },
     "keywords": [
@@ -14236,6 +14236,13 @@
             "name": "10x.finance",
             "symbol": "TENX",
             "address": "0x3a0Bf06B8DDd39983F2334BeC3A0F0016622CA77",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GKD",
+            "symbol": "GKD",
+            "address": "0x0b2b20dD71a9DcC1D0d9236dB6B2C2d2598BDDE5",
             "decimals": 18
         }
     ]
