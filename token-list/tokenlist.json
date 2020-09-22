@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:33:30.141Z",
+    "timestamp": "2020-09-22T00:33:42.106Z",
     "version": {
         "major": 1,
-        "minor": 1875,
+        "minor": 1876,
         "patch": 0
     },
     "keywords": [
@@ -12639,6 +12639,14 @@
             "address": "0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Dock",
+            "symbol": "DOCK",
+            "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xe5dada80aa6477e85d09747f2842f7993d0df71c/icon.png"
         }
     ]
 }
