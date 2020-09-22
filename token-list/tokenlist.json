@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:50:07.251Z",
+    "timestamp": "2020-09-22T00:50:15.125Z",
     "version": {
         "major": 1,
-        "minor": 1958,
+        "minor": 1959,
         "patch": 0
     },
     "keywords": [
@@ -13236,6 +13236,13 @@
             "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x28cb7e841ee97947a86b06fa4090c8451f64c0be/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuy14",
+            "symbol": "DontBuy14",
+            "address": "0x19C282134E3955d1DB1551b303521957F01D71B5",
+            "decimals": 18
         }
     ]
 }
