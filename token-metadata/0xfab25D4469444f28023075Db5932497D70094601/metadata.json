@@ -3,7 +3,5 @@
     "symbol": "ECA",
     "address": "0xfab25D4469444f28023075Db5932497D70094601",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
