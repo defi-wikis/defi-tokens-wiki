@@ -3,7 +3,5 @@
     "symbol": "HILK",
     "address": "0x9D54F8f50424B3b40055cf1261924E4c5A34E562",
     "decimals": 16,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
