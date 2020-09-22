@@ -3,7 +3,5 @@
     "symbol": "VLT",
     "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
