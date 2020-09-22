@@ -1,0 +1,9 @@
+{
+    "name": "MATH",
+    "symbol": "MATH",
+    "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
