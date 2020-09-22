@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:31:19.934Z",
+    "timestamp": "2020-09-22T00:31:31.827Z",
     "version": {
         "major": 1,
-        "minor": 1864,
+        "minor": 1865,
         "patch": 0
     },
     "keywords": [
@@ -12554,6 +12554,14 @@
             "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0abdace70d3790235af448c88547603b945604ea/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CoTrader",
+            "symbol": "COT",
+            "address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x5c872500c00565505f3624ab435c222e558e9ff8/icon.png"
         }
     ]
 }
