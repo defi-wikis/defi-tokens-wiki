@@ -3,7 +3,5 @@
     "symbol": "USDX",
     "address": "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
