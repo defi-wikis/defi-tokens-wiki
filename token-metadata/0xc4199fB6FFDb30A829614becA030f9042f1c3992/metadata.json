@@ -1,0 +1,9 @@
+{
+    "name": "snglsDAO Governance",
+    "symbol": "SGT",
+    "address": "0xc4199fB6FFDb30A829614becA030f9042f1c3992",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
