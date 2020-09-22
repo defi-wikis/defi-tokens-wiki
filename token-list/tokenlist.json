@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:28:01.317Z",
+    "timestamp": "2020-09-22T17:28:14.924Z",
     "version": {
         "major": 1,
-        "minor": 2247,
+        "minor": 2248,
         "patch": 0
     },
     "keywords": [
@@ -12960,7 +12960,9 @@
             "name": "cUSDT",
             "symbol": "CUSDT",
             "address": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
-            "decimals": 8
+            "decimals": 8,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9/icon.png"
         },
         {
             "chainId": 1,
