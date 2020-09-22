@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:00:48.888Z",
+    "timestamp": "2020-09-22T00:01:02.699Z",
     "version": {
         "major": 1,
-        "minor": 1715,
+        "minor": 1716,
         "patch": 0
     },
     "keywords": [
@@ -11451,6 +11451,14 @@
             "address": "0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Shardus",
+            "symbol": "ULT",
+            "address": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7/icon.png"
         }
     ]
 }
