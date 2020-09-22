@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:13:19.459Z",
+    "timestamp": "2020-09-22T00:13:30.994Z",
     "version": {
         "major": 1,
-        "minor": 1777,
+        "minor": 1778,
         "patch": 0
     },
     "keywords": [
@@ -11922,6 +11922,14 @@
             "symbol": "CRDT",
             "address": "0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KIWI Token",
+            "symbol": "KIWI",
+            "address": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d/icon.png"
         }
     ]
 }
