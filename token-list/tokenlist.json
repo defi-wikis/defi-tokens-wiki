@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:43:42.240Z",
+    "timestamp": "2020-09-22T00:43:53.797Z",
     "version": {
         "major": 1,
-        "minor": 1925,
+        "minor": 1926,
         "patch": 0
     },
     "keywords": [
@@ -12988,6 +12988,14 @@
             "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x419d0d8bdd9af5e606ae2232ed285aff190e711b/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Augur",
+            "symbol": "REP",
+            "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x221657776846890989a759ba2973e427dff5c9bb/icon.png"
         }
     ]
 }
