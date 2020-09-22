@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:48:41.183Z",
+    "timestamp": "2020-09-22T00:48:53.605Z",
     "version": {
         "major": 1,
-        "minor": 1951,
+        "minor": 1952,
         "patch": 0
     },
     "keywords": [
@@ -13180,6 +13180,14 @@
             "symbol": "YFP",
             "address": "0x96d62cdCD1cc49cb6eE99c867CB8812bea86B9FA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zap",
+            "symbol": "ZAP",
+            "address": "0x6781a0F84c7E9e846DCb84A9a5bd49333067b104",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x6781a0f84c7e9e846dcb84a9a5bd49333067b104/icon.png"
         }
     ]
 }
