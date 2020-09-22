@@ -1,0 +1,9 @@
+{
+    "name": "Zest Token",
+    "symbol": "ZEST",
+    "address": "0x757703bD5B2c4BBCfde0BE2C0b0E7C2f31FCf4E9",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
