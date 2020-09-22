@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:18:56.458Z",
+    "timestamp": "2020-09-22T17:19:17.583Z",
     "version": {
         "major": 1,
-        "minor": 2220,
+        "minor": 2221,
         "patch": 0
     },
     "keywords": [
@@ -4031,9 +4031,7 @@
             "symbol": "MKR",
             "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
             "decimals": 18,
-            "tags": [
-                "defi"
-            ],
+            "tags": {},
             "logoURI": "https://tokens.dharma.io/assets/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/icon.png"
         },
         {
