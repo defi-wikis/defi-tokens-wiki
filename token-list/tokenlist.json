@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:28:27.587Z",
+    "timestamp": "2020-09-22T17:42:54.608Z",
     "version": {
         "major": 1,
-        "minor": 2249,
+        "minor": 2250,
         "patch": 0
     },
     "keywords": [
@@ -14523,6 +14523,13 @@
             "decimals": 18,
             "tags": {},
             "logoURI": "https://tokens.dharma.io/assets/0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Qub Coin",
+            "symbol": "QUB",
+            "address": "0xB2D74b7a454EDa300c6E633f5b593d128C0C0Dcf",
+            "decimals": 18
         }
     ]
 }
