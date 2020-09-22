@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T19:46:45.169Z",
+    "timestamp": "2020-09-22T20:19:55.071Z",
     "version": {
         "major": 1,
-        "minor": 2272,
+        "minor": 2273,
         "patch": 0
     },
     "keywords": [
@@ -14640,6 +14640,13 @@
             "name": "Pool",
             "symbol": "POOL",
             "address": "0xE718E626533C6A238804464798c19fF0ffB39B9a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiner @ definer.org",
+            "symbol": "FIN",
+            "address": "0x58F328DB059E2e0165f706647E043E3307f0A6F2",
             "decimals": 18
         }
     ]
