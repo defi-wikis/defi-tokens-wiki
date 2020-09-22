@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:01:12.958Z",
+    "timestamp": "2020-09-22T05:01:15.929Z",
     "version": {
         "major": 1,
-        "minor": 2063,
+        "minor": 2064,
         "patch": 0
     },
     "keywords": [
@@ -12216,7 +12216,10 @@
             "symbol": "TACO",
             "address": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x00d1793d7c3aae506257ba985b34c76aaf642557/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x00d1793d7c3aae506257ba985b34c76aaf642557/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
