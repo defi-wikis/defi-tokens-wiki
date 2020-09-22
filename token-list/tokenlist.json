@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:32:29.721Z",
+    "timestamp": "2020-09-22T01:38:09.627Z",
     "version": {
         "major": 1,
-        "minor": 2025,
+        "minor": 2026,
         "patch": 0
     },
     "keywords": [
@@ -13721,6 +13721,13 @@
             "name": "AAA",
             "symbol": "AAA",
             "address": "0x4338e27bc2b8241BC456774Aef78cf16dA4e666a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ABSOLUTELY NO DUMPS",
+            "symbol": "AND",
+            "address": "0xC64F78Ef3B16AD516F9064fc2E6E90f49be6422B",
             "decimals": 18
         }
     ]
