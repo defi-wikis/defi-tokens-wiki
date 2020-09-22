@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:01:42.291Z",
+    "timestamp": "2020-09-22T05:01:45.037Z",
     "version": {
         "major": 1,
-        "minor": 2071,
+        "minor": 2072,
         "patch": 0
     },
     "keywords": [
@@ -10957,7 +10957,8 @@
             "symbol": "TEND",
             "address": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x1453dbb8a29551ade11d89825ca812e05317eaeb/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x1453dbb8a29551ade11d89825ca812e05317eaeb/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
