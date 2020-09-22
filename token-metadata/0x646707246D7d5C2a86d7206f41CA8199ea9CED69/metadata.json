@@ -3,7 +3,5 @@
     "symbol": "CHOP",
     "address": "0x646707246D7d5C2a86d7206f41CA8199ea9CED69",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
