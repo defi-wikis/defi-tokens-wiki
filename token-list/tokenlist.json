@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:11:22.330Z",
+    "timestamp": "2020-09-22T00:11:33.827Z",
     "version": {
         "major": 1,
-        "minor": 1767,
+        "minor": 1768,
         "patch": 0
     },
     "keywords": [
@@ -11852,6 +11852,14 @@
             "address": "0xeEEE2a622330E6d2036691e983DEe87330588603",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xeeee2a622330e6d2036691e983dee87330588603/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Offshift",
+            "symbol": "XFT",
+            "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xabe580e7ee158da464b51ee1a83ac0289622e6be/icon.png"
         }
     ]
 }
