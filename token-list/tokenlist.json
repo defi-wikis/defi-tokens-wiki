@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T03:42:49.849Z",
+    "timestamp": "2020-09-22T03:53:19.357Z",
     "version": {
         "major": 1,
-        "minor": 2053,
+        "minor": 2054,
         "patch": 0
     },
     "keywords": [
@@ -13869,6 +13869,13 @@
             "name": "random.finance",
             "symbol": "RAND",
             "address": "0xDb0387e8216D296FC053AFda790d870212577004",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gradient",
+            "symbol": "GDT",
+            "address": "0x79fbaC9bAf712972e3a438524fD2750278b6fe84",
             "decimals": 18
         }
     ]
