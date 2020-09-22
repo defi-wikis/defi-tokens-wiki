@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:20:13.572Z",
+    "timestamp": "2020-09-22T00:20:24.781Z",
     "version": {
         "major": 1,
-        "minor": 1811,
+        "minor": 1812,
         "patch": 0
     },
     "keywords": [
@@ -12167,6 +12167,14 @@
             "symbol": "ZEST",
             "address": "0x757703bD5B2c4BBCfde0BE2C0b0E7C2f31FCf4E9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NuLINK",
+            "symbol": "NLINK",
+            "address": "0x493c8d6a973246a7B26Aa8Ef4b1494867A825DE5",
+            "decimals": 3,
+            "logoURI": "https://tokens.dharma.io/assets/0x493c8d6a973246a7b26aa8ef4b1494867a825de5/icon.png"
         }
     ]
 }
