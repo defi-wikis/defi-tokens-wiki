@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:21:03.908Z",
+    "timestamp": "2020-09-22T00:21:16.801Z",
     "version": {
         "major": 1,
-        "minor": 1815,
+        "minor": 1816,
         "patch": 0
     },
     "keywords": [
@@ -12190,6 +12190,14 @@
             "symbol": "LDEX",
             "address": "0xb1D22DfFb6C9BF70544116b3ce784454cf383577",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FightBackCoin",
+            "symbol": "FBC",
+            "address": "0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xac9749c854b31bba3b3e71b30fdd7aea4fcc0db9/icon.png"
         }
     ]
 }
