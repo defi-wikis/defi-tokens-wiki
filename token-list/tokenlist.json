@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:26:50.847Z",
+    "timestamp": "2020-09-22T00:27:05.568Z",
     "version": {
         "major": 1,
-        "minor": 1844,
+        "minor": 1845,
         "patch": 0
     },
     "keywords": [
@@ -12404,6 +12404,14 @@
             "symbol": "MUM",
             "address": "0xC9634DA9B1EEfd1CB3d88b598A91Ec69E5afe4E4",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Sether",
+            "symbol": "SETH",
+            "address": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x78b039921e84e726eb72e7b1212bb35504c645ca/icon.png"
         }
     ]
 }
