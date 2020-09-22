@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:23:10.101Z",
+    "timestamp": "2020-09-22T17:23:52.252Z",
     "version": {
         "major": 1,
-        "minor": 2232,
+        "minor": 2233,
         "patch": 0
     },
     "keywords": [
@@ -3187,7 +3187,9 @@
             "name": "Synth iBTC",
             "symbol": "iBTC",
             "address": "0xD6014EA05BDe904448B743833dDF07c3C7837481",
-            "decimals": 18
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0xd6014ea05bde904448b743833ddf07c3c7837481/icon.png"
         },
         {
             "chainId": 1,
