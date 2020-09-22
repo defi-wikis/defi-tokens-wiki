@@ -1,0 +1,7 @@
+{
+    "name": "Third Payment Circulation",
+    "symbol": "TPC",
+    "address": "0x1098B3Cd6A49c94142100C9131A52cfa2538cb18",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
