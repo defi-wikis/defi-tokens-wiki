@@ -1,0 +1,9 @@
+{
+    "name": "yUSD",
+    "symbol": "YVAULT-LP-YCURVE",
+    "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
