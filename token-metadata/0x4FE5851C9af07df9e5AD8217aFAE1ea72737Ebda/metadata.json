@@ -1,0 +1,9 @@
+{
+    "name": "OpenPredict Token",
+    "symbol": "OPT",
+    "address": "0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
