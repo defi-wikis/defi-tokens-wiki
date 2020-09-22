@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T08:02:49.686Z",
+    "timestamp": "2020-09-22T08:16:35.056Z",
     "version": {
         "major": 1,
-        "minor": 2107,
+        "minor": 2108,
         "patch": 0
     },
     "keywords": [
@@ -14096,6 +14096,13 @@
             "name": "Semi Centralized Finance",
             "symbol": "SCFI",
             "address": "0xB3Cf3c70b957483E554227769037cd454D7056c8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "flamingo.finance",
+            "symbol": "FLM",
+            "address": "0x1A941be1b8Fbb980521027Dd9a1D81E2477d7985",
             "decimals": 18
         }
     ]
