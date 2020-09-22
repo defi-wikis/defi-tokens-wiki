@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:19:50.358Z",
+    "timestamp": "2020-09-22T00:20:03.291Z",
     "version": {
         "major": 1,
-        "minor": 1809,
+        "minor": 1810,
         "patch": 0
     },
     "keywords": [
@@ -4372,10 +4372,11 @@
         },
         {
             "chainId": 1,
-            "name": "Raiden Token",
+            "name": "Raiden Network Toke",
             "symbol": "RDN",
             "address": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6/icon.png"
         },
         {
             "chainId": 1,
