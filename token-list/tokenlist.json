@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:32.125Z",
+    "timestamp": "2020-09-22T05:02:36.445Z",
     "version": {
         "major": 1,
-        "minor": 2086,
+        "minor": 2087,
         "patch": 0
     },
     "keywords": [
@@ -243,7 +243,8 @@
             "symbol": "CETH",
             "address": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
             "decimals": 8,
-            "logoURI": "https://tokens.dharma.io/assets/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
