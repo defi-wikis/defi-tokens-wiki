@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:13:30.994Z",
+    "timestamp": "2020-09-22T00:13:43.620Z",
     "version": {
         "major": 1,
-        "minor": 1778,
+        "minor": 1779,
         "patch": 0
     },
     "keywords": [
@@ -11930,6 +11930,14 @@
             "address": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Unipot",
+            "symbol": "UNI",
+            "address": "0x3e370A6c8255b065bD42bc0AC9255b269CFcC172",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x3e370a6c8255b065bd42bc0ac9255b269cfcc172/icon.png"
         }
     ]
 }
