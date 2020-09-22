@@ -3,7 +3,5 @@
     "symbol": "QCH",
     "address": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
