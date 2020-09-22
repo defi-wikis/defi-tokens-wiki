@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:29:25.981Z",
+    "timestamp": "2020-09-22T00:29:40.803Z",
     "version": {
         "major": 1,
-        "minor": 1856,
+        "minor": 1857,
         "patch": 0
     },
     "keywords": [
@@ -12490,6 +12490,14 @@
             "address": "0x7D5Edcd23dAa3fB94317D32aE253eE1Af08Ba14d",
             "decimals": 2,
             "logoURI": "https://tokens.dharma.io/assets/0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SoMee Social",
+            "symbol": "ONG",
+            "address": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd341d1680eeee3255b8c4c75bcce7eb57f144dae/icon.png"
         }
     ]
 }
