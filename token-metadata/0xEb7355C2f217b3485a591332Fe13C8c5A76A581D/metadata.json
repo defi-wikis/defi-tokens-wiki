@@ -3,7 +3,5 @@
     "symbol": "JT",
     "address": "0xEb7355C2f217b3485a591332Fe13C8c5A76A581D",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
