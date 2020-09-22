@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:16.265Z",
+    "timestamp": "2020-09-22T05:02:19.157Z",
     "version": {
         "major": 1,
-        "minor": 2081,
+        "minor": 2082,
         "patch": 0
     },
     "keywords": [
@@ -259,7 +259,10 @@
             "symbol": "REN",
             "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x408e41876cccdc0f92210600ef50372656052a38/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x408e41876cccdc0f92210600ef50372656052a38/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
