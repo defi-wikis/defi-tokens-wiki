@@ -1,0 +1,9 @@
+{
+    "name": "Davecoin",
+    "symbol": "DDTG",
+    "address": "0x56CdBbeec9828962cECB3f1b69517d430295D952",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
