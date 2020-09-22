@@ -3,7 +3,5 @@
     "symbol": "HCASH",
     "address": "0x51BFCdf5282292425faA0426FB9Db6f14B4cf956",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
