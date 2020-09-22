@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T03:53:19.357Z",
+    "timestamp": "2020-09-22T04:11:30.101Z",
     "version": {
         "major": 1,
-        "minor": 2054,
+        "minor": 2055,
         "patch": 0
     },
     "keywords": [
@@ -13877,6 +13877,13 @@
             "symbol": "GDT",
             "address": "0x79fbaC9bAf712972e3a438524fD2750278b6fe84",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Reserve Currency",
+            "symbol": "DRC",
+            "address": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
+            "decimals": 0
         }
     ]
 }
