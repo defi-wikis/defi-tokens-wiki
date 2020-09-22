@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:27:27.008Z",
+    "timestamp": "2020-09-22T00:27:36.394Z",
     "version": {
         "major": 1,
-        "minor": 1847,
+        "minor": 1848,
         "patch": 0
     },
     "keywords": [
@@ -360,7 +360,7 @@
         },
         {
             "chainId": 1,
-            "name": "CryptoLiveLeak",
+            "name": "Attention Mining",
             "symbol": "CLL",
             "address": "0x3dC9a42fa7Afe57BE03c58fD7F4411b1E466C508",
             "decimals": 18
