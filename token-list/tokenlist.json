@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:14:34.609Z",
+    "timestamp": "2020-09-22T01:15:19.914Z",
     "version": {
         "major": 1,
-        "minor": 2019,
+        "minor": 2020,
         "patch": 0
     },
     "keywords": [
@@ -13679,6 +13679,13 @@
             "name": "Anti-bot 2",
             "symbol": "Anti-bot 2",
             "address": "0x58Ccd6e10C43675eC1FE537Ed473aCB18EBe31E1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hoprnet.org",
+            "symbol": "HOPR",
+            "address": "0x608A8E0B5BCA04465F5AD2cA76611bACEB993D4d",
             "decimals": 18
         }
     ]
