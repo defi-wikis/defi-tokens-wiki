@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:24:48.752Z",
+    "timestamp": "2020-09-22T17:25:02.186Z",
     "version": {
         "major": 1,
-        "minor": 2237,
+        "minor": 2238,
         "patch": 0
     },
     "keywords": [
@@ -3310,7 +3310,9 @@
             "name": "Synth sXRP",
             "symbol": "sXRP",
             "address": "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
-            "decimals": 18
+            "decimals": 18,
+            "tags": {},
+            "logoURI": "https://tokens.dharma.io/assets/0xa2b0fde6d710e201d0d608e924a484d1a5fed57c/icon.png"
         },
         {
             "chainId": 1,
