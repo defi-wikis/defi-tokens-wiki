@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T14:57:10.747Z",
+    "timestamp": "2020-09-22T14:58:14.700Z",
     "version": {
         "major": 1,
-        "minor": 2142,
+        "minor": 2143,
         "patch": 0
     },
     "keywords": [
@@ -14341,6 +14341,13 @@
             "name": "dify.finance",
             "symbol": "DIFY",
             "address": "0xD0D29055D4A17a04149D3611459D50f74F512ADf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$ROPE",
+            "symbol": "$ROPE",
+            "address": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
             "decimals": 18
         }
     ]
