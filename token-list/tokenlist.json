@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:09:16.854Z",
+    "timestamp": "2020-09-22T00:09:29.726Z",
     "version": {
         "major": 1,
-        "minor": 1756,
+        "minor": 1757,
         "patch": 0
     },
     "keywords": [
@@ -11766,6 +11766,14 @@
             "address": "0x35a5cB585d51D836922b78A9bb1f5c04635c39b6",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0x35a5cb585d51d836922b78a9bb1f5c04635c39b6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "BTSE Token",
+            "symbol": "BTSE",
+            "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x666d875c600aa06ac1cf15641361dec3b00432ef/icon.png"
         }
     ]
 }
