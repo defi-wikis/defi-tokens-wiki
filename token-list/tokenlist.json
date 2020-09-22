@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:49:04.025Z",
+    "timestamp": "2020-09-22T01:51:29.536Z",
     "version": {
         "major": 1,
-        "minor": 2037,
+        "minor": 2038,
         "patch": 0
     },
     "keywords": [
@@ -13757,6 +13757,13 @@
             "name": "PeerEx.Network",
             "symbol": "PERX",
             "address": "0x9D9136899C8ed82812949E35c9cE1550a7E86818",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xyz",
+            "symbol": "XYZ",
+            "address": "0x92403071600d2D74c82EF508786F46eDD4cD1669",
             "decimals": 18
         }
     ]
