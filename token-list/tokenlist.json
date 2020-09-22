@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:52:33.321Z",
+    "timestamp": "2020-09-22T00:52:47.538Z",
     "version": {
         "major": 1,
-        "minor": 1971,
+        "minor": 1972,
         "patch": 0
     },
     "keywords": [
@@ -13337,6 +13337,14 @@
             "address": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Add xyz",
+            "symbol": "PLT",
+            "address": "0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x9fbfed658919a896b5dc7b00456ce22d780f9b65/icon.png"
         }
     ]
 }
