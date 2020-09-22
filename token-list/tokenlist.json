@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:17:35.418Z",
+    "timestamp": "2020-09-22T00:17:47.685Z",
     "version": {
         "major": 1,
-        "minor": 1798,
+        "minor": 1799,
         "patch": 0
     },
     "keywords": [
@@ -12073,6 +12073,14 @@
             "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Xtake",
+            "symbol": "XTK",
+            "address": "0xF96459323030137703483B46fD59A71D712BF0aa",
+            "decimals": 6,
+            "logoURI": "https://tokens.dharma.io/assets/0xf96459323030137703483b46fd59a71d712bf0aa/icon.png"
         }
     ]
 }
