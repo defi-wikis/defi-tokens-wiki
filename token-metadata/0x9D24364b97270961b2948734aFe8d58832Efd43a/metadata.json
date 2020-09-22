@@ -1,0 +1,9 @@
+{
+    "name": "Yefam Finance",
+    "symbol": "FAM",
+    "address": "0x9D24364b97270961b2948734aFe8d58832Efd43a",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
