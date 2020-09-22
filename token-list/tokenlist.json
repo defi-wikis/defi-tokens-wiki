@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:25:02.186Z",
+    "timestamp": "2020-09-22T17:25:15.282Z",
     "version": {
         "major": 1,
-        "minor": 2238,
+        "minor": 2239,
         "patch": 0
     },
     "keywords": [
@@ -13328,7 +13328,10 @@
             "symbol": "PERP",
             "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xbc396689893d065f41bc2c6ecbee5e0085233447/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xbc396689893d065f41bc2c6ecbee5e0085233447/icon.png",
+            "tags": [
+                "yield-farming"
+            ]
         },
         {
             "chainId": 1,
