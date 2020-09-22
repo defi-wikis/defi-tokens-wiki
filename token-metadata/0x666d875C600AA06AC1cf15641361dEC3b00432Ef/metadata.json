@@ -3,7 +3,5 @@
     "symbol": "BTSE",
     "address": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
