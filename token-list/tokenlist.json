@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:03:16.086Z",
+    "timestamp": "2020-09-22T00:03:27.869Z",
     "version": {
         "major": 1,
-        "minor": 1727,
+        "minor": 1728,
         "patch": 0
     },
     "keywords": [
@@ -11546,6 +11546,14 @@
             "address": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
             "decimals": 8,
             "logoURI": "https://tokens.dharma.io/assets/0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "12Ships",
+            "symbol": "TSHP",
+            "address": "0x525794473F7ab5715C81d06d10f52d11cC052804",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x525794473f7ab5715c81d06d10f52d11cc052804/icon.png"
         }
     ]
 }
