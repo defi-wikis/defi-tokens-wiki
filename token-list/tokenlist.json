@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T23:37:28.899Z",
+    "timestamp": "2020-09-22T23:43:54.572Z",
     "version": {
         "major": 1,
-        "minor": 2294,
+        "minor": 2295,
         "patch": 0
     },
     "keywords": [
@@ -14795,6 +14795,13 @@
             "symbol": "YFPENTA",
             "address": "0x07dD7c24e93B3434C6fb36463D4DBB42cDA799C3",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "AidCoin",
+            "symbol": "AID",
+            "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
+            "decimals": 18
         }
     ]
 }
