@@ -3,5 +3,6 @@
     "symbol": "ALEND",
     "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["yield-bearing"]
 }

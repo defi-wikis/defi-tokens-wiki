@@ -3,5 +3,6 @@
     "symbol": "sXRP",
     "address": "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "UNVERIFIED",
+    "tags": ["synthetics"]
 }

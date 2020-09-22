@@ -3,5 +3,6 @@
     "symbol": "UMA",
     "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["yield-farming", "coinbase", "synthetics"]
 }

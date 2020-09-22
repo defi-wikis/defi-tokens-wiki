@@ -3,5 +3,6 @@
     "symbol": "YF-DAI",
     "address": "0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["yield-farming", "yfi-inspired", "yield-bearing"]
 }

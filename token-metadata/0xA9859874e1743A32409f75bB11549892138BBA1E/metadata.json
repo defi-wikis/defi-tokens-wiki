@@ -1,7 +1,9 @@
+
 {
     "name": "iETH",
     "symbol": "IETH",
     "address": "0xA9859874e1743A32409f75bB11549892138BBA1E",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "tags": ["synthetics"]
 }

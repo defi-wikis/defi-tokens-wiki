@@ -2,7 +2,7 @@
   "stablecoin": {
     "name": "Stablecoin",
     "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
-    "emoji": "😴"
+    "emoji": "💵"
   },
   "yield-farming": {
     "name": "Yield Farming",
@@ -53,5 +53,25 @@
     "name": "Paradigm",
     "description": "Tokens backed by Paradigm",
     "emoji": "🔮"
+  },
+  "nft": {
+      "name": "NFT",
+      "description": "Non-fungible tokens or tokens associated with the NFT ecosystem.",
+      "emoji": "🖼"
+  },
+  "scaling": {
+      "name": "Scaling",
+      "description": "Tokens associated with systems for scaling the Ethereum blockchain",
+      "emoji": "🏎"
+  },
+  "daos": {
+      "name": "DAOs",
+      "description": "Tokens that govern decentralized autonomous organizations (DAOs)",
+      "emoji": "🏛"
+  },
+  "yield-bearing" {
+      "name": "Yield-Bearing",
+      "description": "Assets that are wrappers around other tokens earning yield in a DeFi system",
+      "emoji": "📈"
   }
 }
