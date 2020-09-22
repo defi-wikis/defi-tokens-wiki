@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:35:44.751Z",
+    "timestamp": "2020-09-22T00:35:59.097Z",
     "version": {
         "major": 1,
-        "minor": 1886,
+        "minor": 1887,
         "patch": 0
     },
     "keywords": [
@@ -12723,6 +12723,14 @@
             "symbol": "KGW",
             "address": "0x55Eb5288c9b65037a4cd2289637f38A4F9DB3a6B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Swerve",
+            "symbol": "SWRV",
+            "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xb8baa0e4287890a5f79863ab62b7f175cecbd433/icon.png"
         }
     ]
 }
