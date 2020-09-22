@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T13:29:54.308Z",
+    "timestamp": "2020-09-22T13:40:39.780Z",
     "version": {
         "major": 1,
-        "minor": 2131,
+        "minor": 2132,
         "patch": 0
     },
     "keywords": [
@@ -14264,6 +14264,13 @@
             "name": "YFTEST",
             "symbol": "YFFF",
             "address": "0x541177465431dDb39215AA6f2E0C8F7159AB0E65",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "42-coin",
+            "symbol": "42",
+            "address": "0x2aED2307765E2ec509cf88d7a4F2E987Ad8FafDe",
             "decimals": 18
         }
     ]
