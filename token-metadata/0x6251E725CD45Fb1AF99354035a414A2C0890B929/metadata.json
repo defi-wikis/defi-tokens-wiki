@@ -1,0 +1,9 @@
+{
+    "name": "MixTrust",
+    "symbol": "MXT",
+    "address": "0x6251E725CD45Fb1AF99354035a414A2C0890B929",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
