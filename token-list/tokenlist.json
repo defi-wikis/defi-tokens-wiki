@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:28:31.294Z",
+    "timestamp": "2020-09-22T00:28:47.197Z",
     "version": {
         "major": 1,
-        "minor": 1852,
+        "minor": 1853,
         "patch": 0
     },
     "keywords": [
@@ -12459,6 +12459,14 @@
             "address": "0x40428FDD5588197C15DD00B22fe9b9A48afeEb23",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x40428fdd5588197c15dd00b22fe9b9a48afeeb23/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "SUKU",
+            "symbol": "SUKU",
+            "address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7/icon.png"
         }
     ]
 }
