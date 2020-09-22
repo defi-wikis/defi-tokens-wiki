@@ -3,7 +3,5 @@
     "symbol": "DOCK",
     "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
