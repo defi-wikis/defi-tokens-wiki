@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T13:47:49.428Z",
+    "timestamp": "2020-09-22T13:49:24.500Z",
     "version": {
         "major": 1,
-        "minor": 2133,
+        "minor": 2134,
         "patch": 0
     },
     "keywords": [
@@ -14279,6 +14279,13 @@
             "symbol": "GAMMA",
             "address": "0xef75b7490b0e99a61888C45F19A5d0FFF6B913c6",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "CornSwap",
+            "symbol": "CORN",
+            "address": "0x7a4803078E262c661a907908E5009DB8fd3c34Ca",
+            "decimals": 18
         }
     ]
 }
