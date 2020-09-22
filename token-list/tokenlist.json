@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:55:23.223Z",
+    "timestamp": "2020-09-22T00:55:36.537Z",
     "version": {
         "major": 1,
-        "minor": 1986,
+        "minor": 1987,
         "patch": 0
     },
     "keywords": [
@@ -13436,6 +13436,14 @@
             "address": "0x035bfe6057E15Ea692c0DfdcaB3BB41a64Dd2aD4",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Trustswap",
+            "symbol": "SWAP",
+            "address": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xcc4304a31d09258b0029ea7fe63d032f52e44efe/icon.png"
         }
     ]
 }
