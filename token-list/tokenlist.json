@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:45:21.314Z",
+    "timestamp": "2020-09-22T00:45:35.976Z",
     "version": {
         "major": 1,
-        "minor": 1933,
+        "minor": 1934,
         "patch": 0
     },
     "keywords": [
@@ -13044,6 +13044,14 @@
             "address": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78",
             "decimals": 10,
             "logoURI": "https://tokens.dharma.io/assets/0xb9ef770b6a5e12e45983c5d80545258aa38f3b78/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Soft Link",
+            "symbol": "SLINK",
+            "address": "0x10Bae51262490B4f4AF41e12eD52A0E744c1137A",
+            "decimals": 9,
+            "logoURI": "https://tokens.dharma.io/assets/0x10bae51262490b4f4af41e12ed52a0e744c1137a/icon.png"
         }
     ]
 }
