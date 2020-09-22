@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T15:18:45.086Z",
+    "timestamp": "2020-09-22T15:19:39.966Z",
     "version": {
         "major": 1,
-        "minor": 2158,
+        "minor": 2159,
         "patch": 0
     },
     "keywords": [
@@ -14375,6 +14375,13 @@
             "name": "pot.finance",
             "symbol": "POT",
             "address": "0x15105a6D2e8F52041F5c8731a580807De8cFFA81",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "S.FINANCE",
+            "symbol": "SFG",
+            "address": "0xD9f451dFB591BD340A69cd259f605CA4157D22FC",
             "decimals": 18
         }
     ]
