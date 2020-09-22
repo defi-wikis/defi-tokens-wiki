@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:06:13.296Z",
+    "timestamp": "2020-09-22T00:06:25.299Z",
     "version": {
         "major": 1,
-        "minor": 1742,
+        "minor": 1743,
         "patch": 0
     },
     "keywords": [
@@ -11663,6 +11663,14 @@
             "address": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0x2c537e5624e4af88a7ae4060c022609376c8d0eb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "PYRO Network",
+            "symbol": "PYRO",
+            "address": "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x14409b0fc5c7f87b5dad20754fe22d29a3de8217/icon.png"
         }
     ]
 }
