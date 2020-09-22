@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:36:11.935Z",
+    "timestamp": "2020-09-22T00:36:24.594Z",
     "version": {
         "major": 1,
-        "minor": 1888,
+        "minor": 1889,
         "patch": 0
     },
     "keywords": [
@@ -12739,6 +12739,14 @@
             "address": "0x6251E725CD45Fb1AF99354035a414A2C0890B929",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x6251e725cd45fb1af99354035a414a2c0890b929/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Aave LEND",
+            "symbol": "ALEND",
+            "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x7d2d3688df45ce7c552e19c27e007673da9204b8/icon.png"
         }
     ]
 }
