@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T09:01:49.719Z",
+    "timestamp": "2020-09-22T09:04:34.982Z",
     "version": {
         "major": 1,
-        "minor": 2109,
+        "minor": 2110,
         "patch": 0
     },
     "keywords": [
@@ -14110,6 +14110,13 @@
             "name": "afk.finance",
             "symbol": "AFKFI",
             "address": "0x2c67e2ea1a83Ceb15Ec58C40f9f5DA43B268A058",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GrowDeFi.capital",
+            "symbol": "GRDEFI",
+            "address": "0x7bd075e70977b8C026Ba29624340A70f832DF3C9",
             "decimals": 18
         }
     ]
