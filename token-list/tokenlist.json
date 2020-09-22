@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T21:15:24.913Z",
+    "timestamp": "2020-09-22T21:20:59.498Z",
     "version": {
         "major": 1,
-        "minor": 2276,
+        "minor": 2277,
         "patch": 0
     },
     "keywords": [
@@ -14669,6 +14669,13 @@
             "symbol": "MTN",
             "address": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DuckCoin",
+            "symbol": "DUCK",
+            "address": "0xA97f70640E03D909F573989FB825D166bC7CdbfE",
+            "decimals": 6
         }
     ]
 }
