@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:12:24.163Z",
+    "timestamp": "2020-09-22T00:12:34.079Z",
     "version": {
         "major": 1,
-        "minor": 1772,
+        "minor": 1773,
         "patch": 0
     },
     "keywords": [
@@ -11892,6 +11892,13 @@
             "address": "0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1f6deadcb526c4710cf941872b86dcdfbbbd9211/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FireAnts",
+            "symbol": "ANTS",
+            "address": "0xa9fBB83a2689F4fF86339a4b96874d718673b627",
+            "decimals": 18
         }
     ]
 }
