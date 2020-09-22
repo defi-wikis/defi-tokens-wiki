@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:17:47.685Z",
+    "timestamp": "2020-09-22T00:18:00.428Z",
     "version": {
         "major": 1,
-        "minor": 1799,
+        "minor": 1800,
         "patch": 0
     },
     "keywords": [
@@ -12081,6 +12081,14 @@
             "address": "0xF96459323030137703483B46fD59A71D712BF0aa",
             "decimals": 6,
             "logoURI": "https://tokens.dharma.io/assets/0xf96459323030137703483b46fd59a71d712bf0aa/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Zombie Finance",
+            "symbol": "ZOMBIE",
+            "address": "0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd55bd2c12b30075b325bc35aef0b46363b3818f8/icon.png"
         }
     ]
 }
