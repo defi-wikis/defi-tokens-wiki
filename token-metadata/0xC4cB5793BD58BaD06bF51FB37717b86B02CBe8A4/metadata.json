@@ -1,0 +1,9 @@
+{
+    "name": "PROXI DeFi",
+    "symbol": "CREDIT",
+    "address": "0xC4cB5793BD58BaD06bF51FB37717b86B02CBe8A4",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
