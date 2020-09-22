@@ -1,0 +1,9 @@
+{
+    "name": "The Tokenized Bitco",
+    "symbol": "IMBTC",
+    "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
