@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:40:08.589Z",
+    "timestamp": "2020-09-22T00:40:22.338Z",
     "version": {
         "major": 1,
-        "minor": 1908,
+        "minor": 1909,
         "patch": 0
     },
     "keywords": [
@@ -248,7 +248,8 @@
             "name": "Paxos Standard",
             "symbol": "PAX",
             "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x8e870d67f660d95d5be530380d0ec0bd388289e1/icon.png"
         },
         {
             "chainId": 1,
