@@ -1,0 +1,7 @@
+{
+    "name": "EtherPay",
+    "symbol": "ETHPY",
+    "address": "0x601938988f0FDd937373Ea185c33751462B1d194",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
