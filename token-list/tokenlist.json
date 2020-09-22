@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:18:36.645Z",
+    "timestamp": "2020-09-22T00:18:49.366Z",
     "version": {
         "major": 1,
-        "minor": 1803,
+        "minor": 1804,
         "patch": 0
     },
     "keywords": [
@@ -12112,6 +12112,14 @@
             "address": "0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "QChi",
+            "symbol": "QCH",
+            "address": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x687bfc3e73f6af55f0ccca8450114d107e781a0e/icon.png"
         }
     ]
 }
