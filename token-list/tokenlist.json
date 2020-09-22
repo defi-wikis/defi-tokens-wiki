@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:03.092Z",
+    "timestamp": "2020-09-22T05:02:06.220Z",
     "version": {
         "major": 1,
-        "minor": 2077,
+        "minor": 2078,
         "patch": 0
     },
     "keywords": [
@@ -9373,7 +9373,8 @@
             "symbol": "ASNX",
             "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x328c4c80bc7aca0834db37e6600a6c49e12da4de/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x328c4c80bc7aca0834db37e6600a6c49e12da4de/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
