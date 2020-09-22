@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:49:18.489Z",
+    "timestamp": "2020-09-22T00:49:30.142Z",
     "version": {
         "major": 1,
-        "minor": 1954,
+        "minor": 1955,
         "patch": 0
     },
     "keywords": [
@@ -13204,6 +13204,14 @@
             "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x42d6622dece394b54999fbd73d108123806f6a18/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "AirSwap",
+            "symbol": "AST",
+            "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
+            "decimals": 4,
+            "logoURI": "https://tokens.dharma.io/assets/0x27054b13b1b798b345b591a4d22e6562d47ea75a/icon.png"
         }
     ]
 }
