@@ -3,7 +3,5 @@
     "symbol": "1WO",
     "address": "0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23",
     "decimals": 8,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
