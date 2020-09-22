@@ -1,0 +1,9 @@
+{
+    "name": "Ferrum Network",
+    "symbol": "FRM",
+    "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+    "decimals": 6,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
