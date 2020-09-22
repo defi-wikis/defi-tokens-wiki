@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:20:49.989Z",
+    "timestamp": "2020-09-22T00:21:03.908Z",
     "version": {
         "major": 1,
-        "minor": 1814,
+        "minor": 1815,
         "patch": 0
     },
     "keywords": [
@@ -12183,6 +12183,13 @@
             "address": "0x187D1018E8ef879BE4194d6eD7590987463eAD85",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x187d1018e8ef879be4194d6ed7590987463ead85/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LogicDEX",
+            "symbol": "LDEX",
+            "address": "0xb1D22DfFb6C9BF70544116b3ce784454cf383577",
+            "decimals": 18
         }
     ]
 }
