@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:44:02.811Z",
+    "timestamp": "2020-09-22T01:46:10.004Z",
     "version": {
         "major": 1,
-        "minor": 2035,
+        "minor": 2036,
         "patch": 0
     },
     "keywords": [
@@ -13748,6 +13748,13 @@
             "name": "deadwood.finance",
             "symbol": "xOOD",
             "address": "0xF31B279b2D8c07FE00e38130576e3A8a2bC5D74f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PeerEx.Network",
+            "symbol": "PERX",
+            "address": "0x9D9136899C8ed82812949E35c9cE1550a7E86818",
             "decimals": 18
         }
     ]
