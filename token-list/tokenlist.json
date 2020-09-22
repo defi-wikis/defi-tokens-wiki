@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T23:43:54.572Z",
+    "timestamp": "2020-09-22T23:50:09.683Z",
     "version": {
         "major": 1,
-        "minor": 2295,
+        "minor": 2296,
         "patch": 0
     },
     "keywords": [
@@ -14801,6 +14801,13 @@
             "name": "AidCoin",
             "symbol": "AID",
             "address": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Simple Token",
+            "symbol": "ST",
+            "address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
             "decimals": 18
         }
     ]
