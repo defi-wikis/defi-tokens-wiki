@@ -1,0 +1,9 @@
+{
+    "name": "DecenTradex",
+    "symbol": "DCX",
+    "address": "0x199c3DdedB0e91dB3897039AF27c23286269F088",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
