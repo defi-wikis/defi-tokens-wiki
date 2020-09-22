@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T05:02:48.428Z",
+    "timestamp": "2020-09-22T05:07:34.490Z",
     "version": {
         "major": 1,
-        "minor": 2091,
+        "minor": 2092,
         "patch": 0
     },
     "keywords": [
@@ -13984,6 +13984,13 @@
             "name": "DOG: The Anti-Scam Reward Token",
             "symbol": "DOG",
             "address": "0xEEd2B7756E295A9300e53dD049AeB0751899BAe3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EtherPay",
+            "symbol": "ETHPY",
+            "address": "0x601938988f0FDd937373Ea185c33751462B1d194",
             "decimals": 18
         }
     ]
