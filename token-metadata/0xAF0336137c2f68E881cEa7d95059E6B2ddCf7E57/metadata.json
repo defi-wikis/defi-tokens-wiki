@@ -3,7 +3,5 @@
     "symbol": "PDC",
     "address": "0xAF0336137c2f68E881cEa7d95059E6B2ddCf7E57",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
