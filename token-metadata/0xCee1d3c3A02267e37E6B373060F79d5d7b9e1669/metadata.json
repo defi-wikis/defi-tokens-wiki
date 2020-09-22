@@ -1,0 +1,9 @@
+{
+    "name": "yffi finance",
+    "symbol": "YFFI",
+    "address": "0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
