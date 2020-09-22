@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:39:54.550Z",
+    "timestamp": "2020-09-22T01:40:59.486Z",
     "version": {
         "major": 1,
-        "minor": 2029,
+        "minor": 2030,
         "patch": 0
     },
     "keywords": [
@@ -13749,6 +13749,13 @@
             "name": "Garden Of Eden",
             "symbol": "EDEN",
             "address": "0x55372903C01065dcF83363C132372C2E5C3B0c9f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MysteryToken",
+            "symbol": "MYSTERY",
+            "address": "0x6Af95095805981A752A0E53933eC4ba0560fC9dB",
             "decimals": 18
         }
     ]
