@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:01:51.839Z",
+    "timestamp": "2020-09-22T00:02:02.037Z",
     "version": {
         "major": 1,
-        "minor": 1720,
+        "minor": 1721,
         "patch": 0
     },
     "keywords": [
@@ -11491,6 +11491,13 @@
             "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x986ee2b944c42d017f52af21c4c69b84dbea35d8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "UP Wallet",
+            "symbol": "UWTC",
+            "address": "0x282CB0a611280fF5887Ca122911A0cA6b841CB03",
+            "decimals": 6
         }
     ]
 }
