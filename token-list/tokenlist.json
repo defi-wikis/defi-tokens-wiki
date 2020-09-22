@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:05:12.204Z",
+    "timestamp": "2020-09-22T00:05:25.633Z",
     "version": {
         "major": 1,
-        "minor": 1737,
+        "minor": 1738,
         "patch": 0
     },
     "keywords": [
@@ -11624,6 +11624,14 @@
             "symbol": "NEXE",
             "address": "0xd9F7DEaeB3450cd698FD6d45a7B05A18D84BB1e1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cryptid",
+            "symbol": "CID",
+            "address": "0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4599836c212cd988eaccc54c820ee9261cdaac71/icon.png"
         }
     ]
 }
