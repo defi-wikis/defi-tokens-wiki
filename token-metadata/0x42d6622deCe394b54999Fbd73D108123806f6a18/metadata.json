@@ -3,7 +3,5 @@
     "symbol": "SPANK",
     "address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
