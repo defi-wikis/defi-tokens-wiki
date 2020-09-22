@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:15:57.755Z",
+    "timestamp": "2020-09-22T00:16:10.762Z",
     "version": {
         "major": 1,
-        "minor": 1790,
+        "minor": 1791,
         "patch": 0
     },
     "keywords": [
@@ -12024,6 +12024,14 @@
             "symbol": "AETH",
             "address": "0x658bBe318260AB879af701043B18F7e8c4dAf448",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aced",
+            "symbol": "ACED",
+            "address": "0x4B3a0c6d668B43F3f07904E124328659b90Bb4Ca",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4b3a0c6d668b43f3f07904e124328659b90bb4ca/icon.png"
         }
     ]
 }
