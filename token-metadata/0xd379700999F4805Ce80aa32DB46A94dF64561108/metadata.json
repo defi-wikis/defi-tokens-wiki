@@ -3,7 +3,5 @@
     "symbol": "DETS",
     "address": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
