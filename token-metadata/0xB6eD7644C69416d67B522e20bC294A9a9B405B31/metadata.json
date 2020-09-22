@@ -1,0 +1,9 @@
+{
+    "name": "0xBitcoin",
+    "symbol": "0XBTC",
+    "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+    "decimals": 8,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
