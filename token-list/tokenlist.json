@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:55:11.620Z",
+    "timestamp": "2020-09-22T00:55:23.223Z",
     "version": {
         "major": 1,
-        "minor": 1985,
+        "minor": 1986,
         "patch": 0
     },
     "keywords": [
@@ -13428,6 +13428,14 @@
             "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Universal Liquidity",
+            "symbol": "ULU",
+            "address": "0x035bfe6057E15Ea692c0DfdcaB3BB41a64Dd2aD4",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4/icon.png"
         }
     ]
 }
