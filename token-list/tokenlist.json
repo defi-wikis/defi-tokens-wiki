@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:30:21.199Z",
+    "timestamp": "2020-09-22T00:30:34.581Z",
     "version": {
         "major": 1,
-        "minor": 1860,
+        "minor": 1861,
         "patch": 0
     },
     "keywords": [
@@ -12522,6 +12522,14 @@
             "address": "0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x1b980e05943de3db3a459c72325338d327b6f5a9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "TrustUSD",
+            "symbol": "TRUSD",
+            "address": "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xdd436a0dce9244b36599ae7b22f0373b4e33992d/icon.png"
         }
     ]
 }
