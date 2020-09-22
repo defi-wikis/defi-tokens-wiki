@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:30:34.581Z",
+    "timestamp": "2020-09-22T00:30:46.750Z",
     "version": {
         "major": 1,
-        "minor": 1861,
+        "minor": 1862,
         "patch": 0
     },
     "keywords": [
@@ -12530,6 +12530,14 @@
             "address": "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xdd436a0dce9244b36599ae7b22f0373b4e33992d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "zzz finance",
+            "symbol": "ZZZ",
+            "address": "0xc75F15AdA581219c95485c578E124df3985e4CE0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xc75f15ada581219c95485c578e124df3985e4ce0/icon.png"
         }
     ]
 }
