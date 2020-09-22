@@ -1,0 +1,9 @@
+{
+    "name": "Morpheus Labs",
+    "symbol": "MITX",
+    "address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
