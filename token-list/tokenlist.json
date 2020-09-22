@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T18:45:40.156Z",
+    "timestamp": "2020-09-22T18:48:29.553Z",
     "version": {
         "major": 1,
-        "minor": 2265,
+        "minor": 2266,
         "patch": 0
     },
     "keywords": [
@@ -14591,6 +14591,13 @@
             "name": "United Dao",
             "symbol": "UD",
             "address": "0x1b4B3a741dc182C122301D6daBab8eADAC830afa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DxChain Token",
+            "symbol": "DX",
+            "address": "0x973e52691176d36453868D9d86572788d27041A9",
             "decimals": 18
         }
     ]
