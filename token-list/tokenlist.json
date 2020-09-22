@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:00:20.142Z",
+    "timestamp": "2020-09-22T01:00:29.586Z",
     "version": {
         "major": 1,
-        "minor": 2010,
+        "minor": 2011,
         "patch": 0
     },
     "keywords": [
@@ -13611,6 +13611,13 @@
             "name": "Yeld Finance",
             "symbol": "YELD",
             "address": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yefam Finance",
+            "symbol": "FAM",
+            "address": "0x9D24364b97270961b2948734aFe8d58832Efd43a",
             "decimals": 18
         }
     ]
