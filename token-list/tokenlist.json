@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:41:18.751Z",
+    "timestamp": "2020-09-22T00:41:31.586Z",
     "version": {
         "major": 1,
-        "minor": 1913,
+        "minor": 1914,
         "patch": 0
     },
     "keywords": [
@@ -70,10 +70,11 @@
         },
         {
             "chainId": 1,
-            "name": "Compound DAI",
+            "name": "cDAI",
             "symbol": "CDAI",
             "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://tokens.dharma.io/assets/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643/icon.png"
         },
         {
             "chainId": 1,
