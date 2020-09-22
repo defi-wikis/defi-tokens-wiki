@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:18:13.309Z",
+    "timestamp": "2020-09-22T17:18:25.933Z",
     "version": {
         "major": 1,
-        "minor": 2217,
+        "minor": 2218,
         "patch": 0
     },
     "keywords": [
@@ -9561,7 +9561,8 @@
             "symbol": "RSR",
             "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x8762db106b2c2a0bccb3a80d1ed41273552616e8/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x8762db106b2c2a0bccb3a80d1ed41273552616e8/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
