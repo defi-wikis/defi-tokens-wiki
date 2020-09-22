@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T10:47:29.413Z",
+    "timestamp": "2020-09-22T10:52:09.566Z",
     "version": {
         "major": 1,
-        "minor": 2118,
+        "minor": 2119,
         "patch": 0
     },
     "keywords": [
@@ -14173,6 +14173,13 @@
             "name": "Yearn.Money",
             "symbol": "YEAM",
             "address": "0x6F40802d334A09A67ACA1f0D0E0cf4BC7a3D5B68",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pump Hodl Dump",
+            "symbol": "PHD",
+            "address": "0xd88E482c2bC6547FfbBafD2713d8999cfFeC3fcE",
             "decimals": 18
         }
     ]
