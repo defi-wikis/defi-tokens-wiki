@@ -1,0 +1,9 @@
+{
+    "name": "NeuroChain",
+    "symbol": "NCC",
+    "address": "0x5d48F293BaED247A2D0189058bA37aa238bD4725",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
