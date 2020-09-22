@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:37:04.732Z",
+    "timestamp": "2020-09-22T00:37:10.171Z",
     "version": {
         "major": 1,
-        "minor": 1892,
+        "minor": 1893,
         "patch": 0
     },
     "keywords": [
@@ -12771,6 +12771,13 @@
             "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Save The Children",
+            "symbol": "STC",
+            "address": "0x7b8De0D367e30B4Af7704c7cb47454ed25f2506F",
+            "decimals": 18
         }
     ]
 }
