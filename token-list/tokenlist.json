@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:28:03.628Z",
+    "timestamp": "2020-09-22T00:28:16.902Z",
     "version": {
         "major": 1,
-        "minor": 1850,
+        "minor": 1851,
         "patch": 0
     },
     "keywords": [
@@ -12443,6 +12443,14 @@
             "address": "0xD6940A1FfD9F3B025D1F1055AbCfd9F7CdA81eF9",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xd6940a1ffd9f3b025d1f1055abcfd9f7cda81ef9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CuraDAI",
+            "symbol": "CURA",
+            "address": "0x0a4b2d4B48a63088e0897a3F147Ba37f81a27722",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0a4b2d4b48a63088e0897a3f147ba37f81a27722/icon.png"
         }
     ]
 }
