@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:37:10.171Z",
+    "timestamp": "2020-09-22T00:37:17.791Z",
     "version": {
         "major": 1,
-        "minor": 1893,
+        "minor": 1894,
         "patch": 0
     },
     "keywords": [
@@ -12778,6 +12778,14 @@
             "symbol": "STC",
             "address": "0x7b8De0D367e30B4Af7704c7cb47454ed25f2506F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lition",
+            "symbol": "LIT",
+            "address": "0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x763fa6806e1acf68130d2d0f0df754c93cc546b2/icon.png"
         }
     ]
 }
