@@ -3,7 +3,5 @@
     "symbol": "XAUT",
     "address": "0x4922a015c4407F87432B179bb209e125432E4a2A",
     "decimals": 6,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
