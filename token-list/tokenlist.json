@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:01:02.699Z",
+    "timestamp": "2020-09-22T00:01:14.097Z",
     "version": {
         "major": 1,
-        "minor": 1716,
+        "minor": 1717,
         "patch": 0
     },
     "keywords": [
@@ -11459,6 +11459,14 @@
             "address": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x09617f6fd6cf8a71278ec86e23bbab29c04353a7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "LoanBurst",
+            "symbol": "LBURST",
+            "address": "0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6/icon.png"
         }
     ]
 }
