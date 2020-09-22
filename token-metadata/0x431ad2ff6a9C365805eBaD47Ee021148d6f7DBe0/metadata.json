@@ -3,7 +3,5 @@
     "symbol": "DF",
     "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
