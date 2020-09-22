@@ -1,0 +1,9 @@
+{
+    "name": "LibraToken",
+    "symbol": "LBA",
+    "address": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
