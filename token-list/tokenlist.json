@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:27:05.568Z",
+    "timestamp": "2020-09-22T00:27:15.323Z",
     "version": {
         "major": 1,
-        "minor": 1845,
+        "minor": 1846,
         "patch": 0
     },
     "keywords": [
@@ -12412,6 +12412,13 @@
             "address": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x78b039921e84e726eb72e7b1212bb35504c645ca/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vybe",
+            "symbol": "VYBE",
+            "address": "0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9",
+            "decimals": 18
         }
     ]
 }
