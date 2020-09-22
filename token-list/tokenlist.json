@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:47:10.762Z",
+    "timestamp": "2020-09-22T17:55:07.683Z",
     "version": {
         "major": 1,
-        "minor": 2251,
+        "minor": 2252,
         "patch": 0
     },
     "keywords": [
@@ -14536,6 +14536,13 @@
             "name": "YYFF.Finance",
             "symbol": "YYFF",
             "address": "0x3D4e4A70E280D6A6d06AA4EB00816c196be335AD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yolex.io",
+            "symbol": "YEX",
+            "address": "0xCAC7a8aeC77372449412cA7C1FC945B615EAa957",
             "decimals": 18
         }
     ]
