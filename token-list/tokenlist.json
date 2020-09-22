@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:26:02.454Z",
+    "timestamp": "2020-09-22T02:26:50.119Z",
     "version": {
         "major": 1,
-        "minor": 2044,
+        "minor": 2045,
         "patch": 0
     },
     "keywords": [
@@ -13807,6 +13807,13 @@
             "symbol": "TPC",
             "address": "0x1098B3Cd6A49c94142100C9131A52cfa2538cb18",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Poly Ontology Wing Token",
+            "symbol": "pWING",
+            "address": "0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a",
+            "decimals": 9
         }
     ]
 }
