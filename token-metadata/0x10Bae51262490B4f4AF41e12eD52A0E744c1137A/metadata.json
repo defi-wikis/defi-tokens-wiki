@@ -1,0 +1,9 @@
+{
+    "name": "Soft Link",
+    "symbol": "SLINK",
+    "address": "0x10Bae51262490B4f4AF41e12eD52A0E744c1137A",
+    "decimals": 9,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
