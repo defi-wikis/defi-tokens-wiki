@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:13:09.653Z",
+    "timestamp": "2020-09-22T00:13:19.459Z",
     "version": {
         "major": 1,
-        "minor": 1776,
+        "minor": 1777,
         "patch": 0
     },
     "keywords": [
@@ -11915,6 +11915,13 @@
             "address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xae697f994fc5ebc000f8e22ebffee04612f98a0d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "CRDT",
+            "symbol": "CRDT",
+            "address": "0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52",
+            "decimals": 18
         }
     ]
 }
