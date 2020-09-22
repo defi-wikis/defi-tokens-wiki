@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:26:50.119Z",
+    "timestamp": "2020-09-22T02:42:14.630Z",
     "version": {
         "major": 1,
-        "minor": 2045,
+        "minor": 2046,
         "patch": 0
     },
     "keywords": [
@@ -13814,6 +13814,13 @@
             "symbol": "pWING",
             "address": "0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Im Satoshi Nakamoto",
+            "symbol": "ISN",
+            "address": "0xADd7eb98E18D8b5B3fDcd68115706621D636BCAd",
+            "decimals": 18
         }
     ]
 }
