@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T02:54:29.753Z",
+    "timestamp": "2020-09-22T02:56:34.995Z",
     "version": {
         "major": 1,
-        "minor": 2047,
+        "minor": 2048,
         "patch": 0
     },
     "keywords": [
@@ -13828,6 +13828,13 @@
             "symbol": "WIPC",
             "address": "0xab47fbe8A0b75Baa4Ef846E99f6bB3b52007A115",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfHEX",
+            "symbol": "YFHEX",
+            "address": "0x91e63e28D9315dc62E32A9beea9E7D9312f6bB04",
+            "decimals": 0
         }
     ]
 }
