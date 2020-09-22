@@ -1,0 +1,9 @@
+{
+    "name": "Popcorn Token",
+    "symbol": "CORN",
+    "address": "0x3080ec2A6960432F179c66D388099A48E82e2047",
+    "decimals": 18,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
