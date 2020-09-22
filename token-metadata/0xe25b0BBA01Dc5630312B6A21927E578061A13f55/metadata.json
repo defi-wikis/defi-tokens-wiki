@@ -1,7 +1,9 @@
 {
-    "name": "ShipChain SHIP",
+    "name": "ShipChain",
     "symbol": "SHIP",
     "address": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
 }
