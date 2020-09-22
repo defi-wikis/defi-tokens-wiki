@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:48:20.373Z",
+    "timestamp": "2020-09-22T00:48:31.822Z",
     "version": {
         "major": 1,
-        "minor": 1949,
+        "minor": 1950,
         "patch": 0
     },
     "keywords": [
@@ -13165,6 +13165,14 @@
             "address": "0xC6e64729931f60D2c8Bc70A27D66D9E0c28D1BF9",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0xc6e64729931f60d2c8bc70a27d66d9e0c28d1bf9/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Hxro",
+            "symbol": "HXRO",
+            "address": "0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3/icon.png"
         }
     ]
 }
