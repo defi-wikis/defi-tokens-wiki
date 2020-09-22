@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:56:53.739Z",
+    "timestamp": "2020-09-22T00:57:05.894Z",
     "version": {
         "major": 1,
-        "minor": 1993,
+        "minor": 1994,
         "patch": 0
     },
     "keywords": [
@@ -13492,6 +13492,14 @@
             "address": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4cc19356f2d37338b9802aa8e8fc58b0373296e7/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Axion",
+            "symbol": "HEX2T",
+            "address": "0xEd1199093b1aBd07a368Dd1C0Cdc77D8517BA2A0",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xed1199093b1abd07a368dd1c0cdc77d8517ba2a0/icon.png"
         }
     ]
 }
