@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:31:31.827Z",
+    "timestamp": "2020-09-22T00:31:41.454Z",
     "version": {
         "major": 1,
-        "minor": 1865,
+        "minor": 1866,
         "patch": 0
     },
     "keywords": [
@@ -12562,6 +12562,13 @@
             "address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x5c872500c00565505f3624ab435c222e558e9ff8/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Tapcoin",
+            "symbol": "TTT",
+            "address": "0x9F599410D207f3D2828a8712e5e543AC2E040382",
+            "decimals": 18
         }
     ]
 }
