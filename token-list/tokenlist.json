@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:22:17.007Z",
+    "timestamp": "2020-09-22T00:22:25.965Z",
     "version": {
         "major": 1,
-        "minor": 1821,
+        "minor": 1822,
         "patch": 0
     },
     "keywords": [
@@ -12229,6 +12229,13 @@
             "address": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x00d1793d7c3aae506257ba985b34c76aaf642557/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "VAYLA",
+            "symbol": "VYA",
+            "address": "0xecF51a98B71f0421151a1d45E033Ab8B88665221",
+            "decimals": 8
         }
     ]
 }
