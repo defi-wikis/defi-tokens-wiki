@@ -1,6 +1,7 @@
 const fs = require("fs");
 const web3 = require("web3-utils");
 const Ajv = require("ajv");
+const { Base64 } = require("js-base64");
 
 const metadataSchema = require("../../schemas/metadata.json");
 const { isValidSize, isValidDimension } = require("../../utils");
@@ -48,12 +49,9 @@ describe("metadata.json", () => {
                         });
 
                         it("should be able to be decoded from base 64 format", () => {
-                            let buffer = new Buffer(JSON.stringify(metadata));
-                            const base64String = buffer.toString("base64");
+                            const base64String = Base64.encode(JSON.stringify(metadata));
             
-                            buffer = new Buffer(base64String, "base64");
-            
-                            const json = JSON.parse(buffer.toString("ascii"));
+                            const json = JSON.parse(Base64.decode(base64String));
             
                             expect(JSON.stringify(metadata)).toEqual(JSON.stringify(json));
                         })
