@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:13:57.094Z",
+    "timestamp": "2020-09-22T00:14:10.358Z",
     "version": {
         "major": 1,
-        "minor": 1780,
+        "minor": 1781,
         "patch": 0
     },
     "keywords": [
@@ -11946,6 +11946,14 @@
             "address": "0x73f8406eAACe2CE69BA49a67551464FDa1D11F14",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x73f8406eaace2ce69ba49a67551464fda1d11f14/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Swapfolio",
+            "symbol": "SWFL",
+            "address": "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xba21ef4c9f433ede00badefcc2754b8e74bd538a/icon.png"
         }
     ]
 }
