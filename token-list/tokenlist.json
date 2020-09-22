@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T10:52:09.566Z",
+    "timestamp": "2020-09-22T10:53:14.641Z",
     "version": {
         "major": 1,
-        "minor": 2119,
+        "minor": 2120,
         "patch": 0
     },
     "keywords": [
@@ -14180,6 +14180,13 @@
             "name": "Pump Hodl Dump",
             "symbol": "PHD",
             "address": "0xd88E482c2bC6547FfbBafD2713d8999cfFeC3fcE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BANG",
+            "symbol": "BANG",
+            "address": "0x2Bb8359CD1E27c7CF23D5da092D6e3653B6E9EA9",
             "decimals": 18
         }
     ]
