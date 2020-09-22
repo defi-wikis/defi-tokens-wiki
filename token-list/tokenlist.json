@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:08:46.510Z",
+    "timestamp": "2020-09-22T00:09:00.322Z",
     "version": {
         "major": 1,
-        "minor": 1754,
+        "minor": 1755,
         "patch": 0
     },
     "keywords": [
@@ -11750,6 +11750,14 @@
             "address": "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xeb269732ab75a6fd61ea60b06fe994cd32a83549/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Proof of Nature Tok",
+            "symbol": "PON",
+            "address": "0x19ddC3605052554A1aC2b174aE745c911456841f",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x19ddc3605052554a1ac2b174ae745c911456841f/icon.png"
         }
     ]
 }
