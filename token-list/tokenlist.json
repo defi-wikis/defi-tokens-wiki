@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:54:38.674Z",
+    "timestamp": "2020-09-22T00:54:50.198Z",
     "version": {
         "major": 1,
-        "minor": 1982,
+        "minor": 1983,
         "patch": 0
     },
     "keywords": [
@@ -13405,6 +13405,14 @@
             "symbol": "CVP",
             "address": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Morpheus Labs",
+            "symbol": "MITX",
+            "address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6/icon.png"
         }
     ]
 }
