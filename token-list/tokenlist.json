@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T01:01:07.733Z",
+    "timestamp": "2020-09-22T01:01:19.088Z",
     "version": {
         "major": 1,
-        "minor": 2014,
+        "minor": 2015,
         "patch": 0
     },
     "keywords": [
@@ -13642,6 +13642,14 @@
             "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4575f41308ec1483f3d399aa9a2826d74da13deb/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "DMM  Governance",
+            "symbol": "DMG",
+            "address": "0xEd91879919B71bB6905f23af0A68d231EcF87b14",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xed91879919b71bb6905f23af0a68d231ecf87b14/icon.png"
         }
     ]
 }
