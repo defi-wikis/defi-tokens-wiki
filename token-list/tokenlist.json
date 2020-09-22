@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:20:36.249Z",
+    "timestamp": "2020-09-22T00:20:49.989Z",
     "version": {
         "major": 1,
-        "minor": 1813,
+        "minor": 1814,
         "patch": 0
     },
     "keywords": [
@@ -12175,6 +12175,14 @@
             "address": "0x493c8d6a973246a7B26Aa8Ef4b1494867A825DE5",
             "decimals": 3,
             "logoURI": "https://tokens.dharma.io/assets/0x493c8d6a973246a7b26aa8ef4b1494867a825de5/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "FUZE Token",
+            "symbol": "FUZE",
+            "address": "0x187D1018E8ef879BE4194d6eD7590987463eAD85",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x187d1018e8ef879be4194d6ed7590987463ead85/icon.png"
         }
     ]
 }
