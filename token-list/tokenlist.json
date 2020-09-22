@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T20:21:49.918Z",
+    "timestamp": "2020-09-22T20:22:49.594Z",
     "version": {
         "major": 1,
-        "minor": 2274,
+        "minor": 2275,
         "patch": 0
     },
     "keywords": [
@@ -14654,6 +14654,13 @@
             "name": "yfpro.finance",
             "symbol": "YFPRO",
             "address": "0x85E0f67f1C560B24Ed1F9028Fa9d097F635CaBd1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TUKE",
+            "symbol": "TUKE",
+            "address": "0x9D97109217295412D31B735a0f5F94ab2ECf7b0a",
             "decimals": 18
         }
     ]
