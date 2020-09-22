@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:52:47.538Z",
+    "timestamp": "2020-09-22T00:52:58.098Z",
     "version": {
         "major": 1,
-        "minor": 1972,
+        "minor": 1973,
         "patch": 0
     },
     "keywords": [
@@ -13345,6 +13345,13 @@
             "address": "0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x9fbfed658919a896b5dc7b00456ce22d780f9b65/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "REVV",
+            "symbol": "REVV",
+            "address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+            "decimals": 18
         }
     ]
 }
