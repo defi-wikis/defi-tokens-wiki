@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T20:19:55.071Z",
+    "timestamp": "2020-09-22T20:21:49.918Z",
     "version": {
         "major": 1,
-        "minor": 2273,
+        "minor": 2274,
         "patch": 0
     },
     "keywords": [
@@ -14647,6 +14647,13 @@
             "name": "DeFiner @ definer.org",
             "symbol": "FIN",
             "address": "0x58F328DB059E2e0165f706647E043E3307f0A6F2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfpro.finance",
+            "symbol": "YFPRO",
+            "address": "0x85E0f67f1C560B24Ed1F9028Fa9d097F635CaBd1",
             "decimals": 18
         }
     ]
