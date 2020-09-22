@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:42:54.608Z",
+    "timestamp": "2020-09-22T17:47:10.762Z",
     "version": {
         "major": 1,
-        "minor": 2250,
+        "minor": 2251,
         "patch": 0
     },
     "keywords": [
@@ -14529,6 +14529,13 @@
             "name": "Qub Coin",
             "symbol": "QUB",
             "address": "0xB2D74b7a454EDa300c6E633f5b593d128C0C0Dcf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YYFF.Finance",
+            "symbol": "YYFF",
+            "address": "0x3D4e4A70E280D6A6d06AA4EB00816c196be335AD",
             "decimals": 18
         }
     ]
