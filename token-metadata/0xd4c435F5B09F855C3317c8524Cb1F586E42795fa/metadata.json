@@ -3,7 +3,5 @@
     "symbol": "CND",
     "address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
     "decimals": 18,
-    "dharmaVerificationStatus": {
-        "dharmaVerificationStatus": "VERIFIED"
-    }
+    "dharmaVerificationStatus": "VERIFIED"
 }
