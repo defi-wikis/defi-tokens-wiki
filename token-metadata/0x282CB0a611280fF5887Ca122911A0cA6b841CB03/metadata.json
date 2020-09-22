@@ -1,0 +1,9 @@
+{
+    "name": "UP Wallet",
+    "symbol": "UWTC",
+    "address": "0x282CB0a611280fF5887Ca122911A0cA6b841CB03",
+    "decimals": 6,
+    "dharmaVerificationStatus": {
+        "dharmaVerificationStatus": "VERIFIED"
+    }
+}
