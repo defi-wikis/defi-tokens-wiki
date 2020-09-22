@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:53:42.490Z",
+    "timestamp": "2020-09-22T00:53:52.910Z",
     "version": {
         "major": 1,
-        "minor": 1977,
+        "minor": 1978,
         "patch": 0
     },
     "keywords": [
@@ -13367,6 +13367,13 @@
             "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x45804880de22913dafe09f4980848ece6ecbaf78/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Boosted Finance",
+            "symbol": "BOOST",
+            "address": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
+            "decimals": 18
         }
     ]
 }
