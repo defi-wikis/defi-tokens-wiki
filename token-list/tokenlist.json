@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:23:44.518Z",
+    "timestamp": "2020-09-22T00:23:56.463Z",
     "version": {
         "major": 1,
-        "minor": 1828,
+        "minor": 1829,
         "patch": 0
     },
     "keywords": [
@@ -12283,6 +12283,14 @@
             "address": "0xb6EE9668771a79be7967ee29a63D4184F8097143",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0xb6ee9668771a79be7967ee29a63d4184f8097143/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Vid",
+            "symbol": "VI",
+            "address": "0xd321Ca7Cd7A233483b8CD5a11a89E9337e70Df84",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0xd321ca7cd7a233483b8cd5a11a89e9337e70df84/icon.png"
         }
     ]
 }
