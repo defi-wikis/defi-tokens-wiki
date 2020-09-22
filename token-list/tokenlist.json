@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:31:05.754Z",
+    "timestamp": "2020-09-22T00:31:19.934Z",
     "version": {
         "major": 1,
-        "minor": 1863,
+        "minor": 1864,
         "patch": 0
     },
     "keywords": [
@@ -12546,6 +12546,14 @@
             "address": "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
             "decimals": 9,
             "logoURI": "https://tokens.dharma.io/assets/0xe6279e1c65dd41b30ba3760dcac3cd8bbb4420d6/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "district0x",
+            "symbol": "DNT",
+            "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x0abdace70d3790235af448c88547603b945604ea/icon.png"
         }
     ]
 }
