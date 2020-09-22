@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:05:25.633Z",
+    "timestamp": "2020-09-22T00:05:36.867Z",
     "version": {
         "major": 1,
-        "minor": 1738,
+        "minor": 1739,
         "patch": 0
     },
     "keywords": [
@@ -11632,6 +11632,13 @@
             "address": "0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x4599836c212cd988eaccc54c820ee9261cdaac71/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "6ix9ine Chain",
+            "symbol": "69C",
+            "address": "0x02FdD6866333D8Cd8B1ca022d382080698060BC2",
+            "decimals": 18
         }
     ]
 }
