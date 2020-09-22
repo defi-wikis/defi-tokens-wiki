@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:45:47.802Z",
+    "timestamp": "2020-09-22T00:46:01.138Z",
     "version": {
         "major": 1,
-        "minor": 1935,
+        "minor": 1936,
         "patch": 0
     },
     "keywords": [
@@ -13060,6 +13060,14 @@
             "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
             "decimals": 18,
             "logoURI": "https://tokens.dharma.io/assets/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d/icon.png"
+        },
+        {
+            "chainId": 1,
+            "name": "Fera",
+            "symbol": "FERA",
+            "address": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
+            "decimals": 18,
+            "logoURI": "https://tokens.dharma.io/assets/0x539f3615c1dbafa0d008d87504667458acbd16fa/icon.png"
         }
     ]
 }
