@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T00:12:46.561Z",
+    "timestamp": "2020-09-22T00:12:55.990Z",
     "version": {
         "major": 1,
-        "minor": 1774,
+        "minor": 1775,
         "patch": 0
     },
     "keywords": [
@@ -11899,6 +11899,13 @@
             "name": "FireAnts",
             "symbol": "ANTS",
             "address": "0xa9fBB83a2689F4fF86339a4b96874d718673b627",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "European Coin Allia",
+            "symbol": "ECA",
+            "address": "0xfab25D4469444f28023075Db5932497D70094601",
             "decimals": 18
         }
     ]
