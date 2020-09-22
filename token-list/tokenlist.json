@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T17:28:14.924Z",
+    "timestamp": "2020-09-22T17:28:27.587Z",
     "version": {
         "major": 1,
-        "minor": 2248,
+        "minor": 2249,
         "patch": 0
     },
     "keywords": [
@@ -196,7 +196,8 @@
             "symbol": "ADAI",
             "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
