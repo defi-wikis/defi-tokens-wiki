@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T15:13:59.466Z",
+    "timestamp": "2020-09-23T15:15:14.343Z",
     "version": {
         "major": 1,
-        "minor": 2408,
+        "minor": 2409,
         "patch": 0
     },
     "keywords": [
@@ -15587,6 +15587,13 @@
             "symbol": "LOL",
             "address": "0x6af745a1fc906a3c0d08F8CF7D8cF0d51f421886",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Combine Token @ combine.finance",
+            "symbol": "COMB",
+            "address": "0x1c4DA058095D614cf87d36c8F695F8F2EE7954Ff",
+            "decimals": 18
         }
     ]
 }
