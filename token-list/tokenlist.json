@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:50:15.816Z",
+    "timestamp": "2020-09-23T23:50:50.136Z",
     "version": {
         "major": 1,
-        "minor": 2483,
+        "minor": 2484,
         "patch": 0
     },
     "keywords": [
@@ -16111,6 +16111,13 @@
             "name": "AirLink",
             "symbol": "AIRL",
             "address": "0x16DA56D2151501fdA98716CA2219Dbd71F47a2aA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Comfy",
+            "symbol": "COMFY",
+            "address": "0x3cbEF167626f0c5F46c6b91A6E38758189CfE4fA",
             "decimals": 18
         }
     ]
