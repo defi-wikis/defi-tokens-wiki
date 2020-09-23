@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T08:19:30.119Z",
+    "timestamp": "2020-09-23T08:31:07.517Z",
     "version": {
         "major": 1,
-        "minor": 2346,
+        "minor": 2347,
         "patch": 0
     },
     "keywords": [
@@ -15158,6 +15158,13 @@
             "name": "Butterfly",
             "symbol": "BTF",
             "address": "0xa55b8A123E4C7cBdDB9DF384c66c755B9150cb31",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SashiToken",
+            "symbol": "SASHI",
+            "address": "0x66e24b0a0275f2B8826B116f5Bd6a27f97617Ddb",
             "decimals": 18
         }
     ]
