@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:37:59.387Z",
+    "timestamp": "2020-09-23T23:40:51.176Z",
     "version": {
         "major": 1,
-        "minor": 2479,
+        "minor": 2480,
         "patch": 0
     },
     "keywords": [
@@ -16083,6 +16083,13 @@
             "name": "ROCK",
             "symbol": "ROK",
             "address": "0x099bf5D2FE677476A84d986eAA92e8Cb6C80eeb1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Insurance Farming @ YIF.Finance",
+            "symbol": "YIF",
+            "address": "0x29b19cFd50704cEefeE3147a6b844c6048406da2",
             "decimals": 18
         }
     ]
