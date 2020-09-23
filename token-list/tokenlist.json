@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:05:10.972Z",
+    "timestamp": "2020-09-23T16:12:20.779Z",
     "version": {
         "major": 1,
-        "minor": 2417,
+        "minor": 2418,
         "patch": 0
     },
     "keywords": [
@@ -15649,6 +15649,13 @@
             "name": "YouFuture",
             "symbol": "YFTT",
             "address": "0xaa03c063f7Cd3E1636e384090CB7Dc537DEC64Ac",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kitten",
+            "symbol": "MEW",
+            "address": "0xd17e374a7D49287F583DdfBDEb6ad4dA21c00cE3",
             "decimals": 18
         }
     ]
