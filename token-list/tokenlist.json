@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:35:59.216Z",
+    "timestamp": "2020-09-23T00:36:09.404Z",
     "version": {
         "major": 1,
-        "minor": 2303,
+        "minor": 2304,
         "patch": 0
     },
     "keywords": [
@@ -14857,6 +14857,13 @@
             "name": "Im-Satoshi-Nakamoto",
             "symbol": "ISN",
             "address": "0x4f6Ed396342d1AB651dE65488dc3e2F0A64Ea387",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Frqtal",
+            "symbol": "FRQ",
+            "address": "0xE841dC3aa4Ef3e77Ed5d7b8E0E6A7bEE7770Cde9",
             "decimals": 18
         }
     ]
