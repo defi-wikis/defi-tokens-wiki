@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:37:59.798Z",
+    "timestamp": "2020-09-23T07:53:54.459Z",
     "version": {
         "major": 1,
-        "minor": 2341,
+        "minor": 2342,
         "patch": 0
     },
     "keywords": [
@@ -15123,6 +15123,13 @@
             "name": "SideShift Token",
             "symbol": "XAI",
             "address": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YSV.Finance",
+            "symbol": "YSV",
+            "address": "0x9dAe21dD26290c179FCCb4435b15Eb50F4dea898",
             "decimals": 18
         }
     ]
