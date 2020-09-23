@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T09:15:24.608Z",
+    "timestamp": "2020-09-23T09:19:49.877Z",
     "version": {
         "major": 1,
-        "minor": 2354,
+        "minor": 2355,
         "patch": 0
     },
     "keywords": [
@@ -15214,6 +15214,13 @@
             "name": "TOD",
             "symbol": "todo.finance",
             "address": "0x648b4fD82724433F58A4b36CA844bbFD61415348",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DATO xyz curve",
+            "symbol": "DXYZ",
+            "address": "0x7eB248eAa1597781c9fbEBf154B3066Cf88aC851",
             "decimals": 18
         }
     ]
