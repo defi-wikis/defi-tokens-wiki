@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T21:37:14.941Z",
+    "timestamp": "2020-09-23T21:40:09.733Z",
     "version": {
         "major": 1,
-        "minor": 2460,
+        "minor": 2461,
         "patch": 0
     },
     "keywords": [
@@ -15950,6 +15950,13 @@
             "name": "Jplus",
             "symbol": "JPLUS",
             "address": "0xE2779DF83D0C75Df4d2e6173Af671Adb5Aa56eF6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sundae Finance",
+            "symbol": "SUN",
+            "address": "0x980554252c9E737C59434B0652b2fe541191253D",
             "decimals": 18
         }
     ]
