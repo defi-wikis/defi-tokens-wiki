@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:45:39.999Z",
+    "timestamp": "2020-09-23T11:59:39.881Z",
     "version": {
         "major": 1,
-        "minor": 2379,
+        "minor": 2380,
         "patch": 0
     },
     "keywords": [
@@ -15389,6 +15389,13 @@
             "name": "leafdefi.finance",
             "symbol": "LAF",
             "address": "0x455246e74d8BE777FC96eEdBe1be5D375378918c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Recovery Token @ yfir.finance",
+            "symbol": "YFIR",
+            "address": "0x798f522a7124C48C47F42e8Da714CddA59e0C802",
             "decimals": 18
         }
     ]
