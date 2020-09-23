@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:30:59.764Z",
+    "timestamp": "2020-09-23T11:35:02.371Z",
     "version": {
         "major": 1,
-        "minor": 2373,
+        "minor": 2374,
         "patch": 0
     },
     "keywords": [
@@ -15348,6 +15348,13 @@
             "symbol": "YFCC",
             "address": "0x8feEb9F36F484b312A30CB5486aa99976DAB63B0",
             "decimals": 12
+        },
+        {
+            "chainId": 1,
+            "name": "MUCH",
+            "symbol": "MUCH",
+            "address": "0x8638cb1eC477Cb0042E6202b19171404bad8d6fC",
+            "decimals": 18
         }
     ]
 }
