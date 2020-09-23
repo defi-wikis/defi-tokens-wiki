@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:24:20.011Z",
+    "timestamp": "2020-09-23T16:30:50.024Z",
     "version": {
         "major": 1,
-        "minor": 2420,
+        "minor": 2421,
         "patch": 0
     },
     "keywords": [
@@ -15671,6 +15671,13 @@
             "symbol": "yMFi",
             "address": "0x447c76582DdF1d33BAF37FdEC5c74CdD7fe9d2da",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "SnowSwap yDAI/yUSDC/yUSDT/yTUSD",
+            "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
+            "address": "0x173f8ee61C0FE712caE2a2fc8d5c0ccDDa57E6dA",
+            "decimals": 18
         }
     ]
 }
