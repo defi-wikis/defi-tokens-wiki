@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:40:30.144Z",
+    "timestamp": "2020-09-23T11:42:09.569Z",
     "version": {
         "major": 1,
-        "minor": 2377,
+        "minor": 2378,
         "patch": 0
     },
     "keywords": [
@@ -15376,6 +15376,13 @@
             "symbol": "SPRK",
             "address": "0x80a740C8FFa28C8C2c3f1fc8b6c1A0A442212E71",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dLYTToken",
+            "symbol": "dLTY",
+            "address": "0x58cFC50FC47FFDbE2feD6819760Bdc71c7153408",
+            "decimals": 8
         }
     ]
 }
