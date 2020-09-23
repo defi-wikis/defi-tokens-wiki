@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:31:06.562Z",
+    "timestamp": "2020-09-23T16:37:08.057Z",
     "version": {
         "major": 1,
-        "minor": 2422,
+        "minor": 2423,
         "patch": 0
     },
     "keywords": [
@@ -15684,6 +15684,13 @@
             "name": "Millionaire Club Token",
             "symbol": "MCT",
             "address": "0x39A97cb3dcdc51699bb7925895132De744FaAC17",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlotX.io",
+            "symbol": "PLOT",
+            "address": "0xb6F85f73DCfc7f15B792a85cac14fFeDDbC8e678",
             "decimals": 18
         }
     ]
