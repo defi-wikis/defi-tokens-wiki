@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:52:45.198Z",
+    "timestamp": "2020-09-23T13:54:54.955Z",
     "version": {
         "major": 1,
-        "minor": 2397,
+        "minor": 2398,
         "patch": 0
     },
     "keywords": [
@@ -15515,6 +15515,13 @@
             "name": "Pajama.Finance",
             "symbol": "PJM",
             "address": "0x61bc1F530AC6193D73aF1e1A6A14CB44b9C3f915",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOINK",
+            "symbol": "YNK",
+            "address": "0x87C00817ABe35eD4C093e59043fae488238d2F74",
             "decimals": 18
         }
     ]
