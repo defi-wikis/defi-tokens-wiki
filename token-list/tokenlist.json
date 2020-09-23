@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:37:19.532Z",
+    "timestamp": "2020-09-23T16:49:44.591Z",
     "version": {
         "major": 1,
-        "minor": 2424,
+        "minor": 2425,
         "patch": 0
     },
     "keywords": [
@@ -15698,6 +15698,13 @@
             "name": "SWAPS.NETWORK",
             "symbol": "SWAP",
             "address": "0xC958e9FB59724f8b0927426a8836F1158F0d03cf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TokenGeneratorToken",
+            "symbol": "TGT",
+            "address": "0x1143a42DF6f80d70A1B3Cc766EEc10e37024Ab1D",
             "decimals": 18
         }
     ]
