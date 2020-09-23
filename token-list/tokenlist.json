@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:45:29.961Z",
+    "timestamp": "2020-09-23T01:18:09.727Z",
     "version": {
         "major": 1,
-        "minor": 2306,
+        "minor": 2307,
         "patch": 0
     },
     "keywords": [
@@ -14878,6 +14878,13 @@
             "name": "Marshmallow Governance",
             "symbol": "MGT",
             "address": "0x041d37F02b4219e5a038B22C1f69E7e55F3A82D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orange.Finance",
+            "symbol": "ORG",
+            "address": "0x36C9C8AbA0dAa86358a9EE6FF9F27C96b12fA644",
             "decimals": 18
         }
     ]
