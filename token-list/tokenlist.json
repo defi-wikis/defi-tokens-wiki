@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T05:48:33.950Z",
+    "timestamp": "2020-09-23T06:11:24.612Z",
     "version": {
         "major": 1,
-        "minor": 2331,
+        "minor": 2332,
         "patch": 0
     },
     "keywords": [
@@ -15054,6 +15054,13 @@
             "symbol": "ULF",
             "address": "0x1f09d0DF67adAA8E80Cd499dE2D658102D980599",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Inlock token",
+            "symbol": "ILK",
+            "address": "0xF784682C82526e245F50975190EF0fff4E4fC077",
+            "decimals": 8
         }
     ]
 }
