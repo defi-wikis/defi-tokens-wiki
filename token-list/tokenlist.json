@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T15:42:15.753Z",
+    "timestamp": "2020-09-23T15:54:09.992Z",
     "version": {
         "major": 1,
-        "minor": 2413,
+        "minor": 2414,
         "patch": 0
     },
     "keywords": [
@@ -15621,6 +15621,13 @@
             "name": "Combine.finance",
             "symbol": "COMB",
             "address": "0x7d36cCe46DD2B0D28dde12A859C2ACe4a21E3678",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gainz",
+            "symbol": "GAIN",
+            "address": "0x90377C5ff5Ed9840F94207eB70F0025cbCc9dF1C",
             "decimals": 18
         }
     ]
