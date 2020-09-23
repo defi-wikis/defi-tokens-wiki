@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:35:09.847Z",
+    "timestamp": "2020-09-23T13:35:49.915Z",
     "version": {
         "major": 1,
-        "minor": 2392,
+        "minor": 2393,
         "patch": 0
     },
     "keywords": [
@@ -15481,6 +15481,13 @@
             "symbol": "OMEGA",
             "address": "0xb1BE03247196E622282B8715bef89E94506fDe15",
             "decimals": 12
+        },
+        {
+            "chainId": 1,
+            "name": "SOAP",
+            "symbol": "SOAP",
+            "address": "0x3992075f307523EC80a895A21F7E8fFf9e1e0F79",
+            "decimals": 18
         }
     ]
 }
