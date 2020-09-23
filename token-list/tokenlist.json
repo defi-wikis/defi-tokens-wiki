@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T12:52:30.310Z",
+    "timestamp": "2020-09-23T12:56:15.210Z",
     "version": {
         "major": 1,
-        "minor": 2385,
+        "minor": 2386,
         "patch": 0
     },
     "keywords": [
@@ -15431,6 +15431,13 @@
             "name": "LEAF",
             "symbol": "LAF",
             "address": "0xaB4F288BcAB7c3FF212Bc2bd433bA4ba339Eb873",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIE",
+            "symbol": "YFIE",
+            "address": "0x0ad462A8406EBfaC6112944454F06F7c65457B1E",
             "decimals": 18
         }
     ]
