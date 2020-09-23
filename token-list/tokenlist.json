@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T10:40:59.481Z",
+    "timestamp": "2020-09-23T10:41:14.210Z",
     "version": {
         "major": 1,
-        "minor": 2365,
+        "minor": 2366,
         "patch": 0
     },
     "keywords": [
@@ -15291,6 +15291,13 @@
             "name": "Hot Pot.finance",
             "symbol": "HOTPOT",
             "address": "0x11068577AE36897fFaB0024F010247B9129459E6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFT.Cards",
+            "symbol": "NFTC",
+            "address": "0x20E73F795828f61490395216C2504731632247d3",
             "decimals": 18
         }
     ]
