@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T08:51:30.529Z",
+    "timestamp": "2020-09-23T08:52:39.489Z",
     "version": {
         "major": 1,
-        "minor": 2351,
+        "minor": 2352,
         "patch": 0
     },
     "keywords": [
@@ -15193,6 +15193,13 @@
             "name": "Zero Utility Coppycat",
             "symbol": "ZUCC",
             "address": "0x753C0eBDB9aBC135F073861d8dEF82d5DF8Dd60C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Smudge.meme",
+            "symbol": "SMEME",
+            "address": "0xfBAC35Cc47f78b58D18962C59B2EB6d8332D6954",
             "decimals": 18
         }
     ]
