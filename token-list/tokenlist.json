@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:07:29.465Z",
+    "timestamp": "2020-09-23T07:14:06.661Z",
     "version": {
         "major": 1,
-        "minor": 2336,
+        "minor": 2337,
         "patch": 0
     },
     "keywords": [
@@ -15088,6 +15088,13 @@
             "name": "MANY",
             "symbol": "MANY",
             "address": "0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XY Finance",
+            "symbol": "XYF",
+            "address": "0x74df3b281BE27fA3FD6a7bd8e9A40688EE0a6A32",
             "decimals": 18
         }
     ]
