@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T15:39:45.125Z",
+    "timestamp": "2020-09-23T15:42:15.753Z",
     "version": {
         "major": 1,
-        "minor": 2412,
+        "minor": 2413,
         "patch": 0
     },
     "keywords": [
@@ -15614,6 +15614,13 @@
             "name": "SnowSwap yyCRV/ybCRV",
             "symbol": "ycrvSNOW",
             "address": "0x078b728243b975d1a284666C30B30530a8c087fe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Combine.finance",
+            "symbol": "COMB",
+            "address": "0x7d36cCe46DD2B0D28dde12A859C2ACe4a21E3678",
             "decimals": 18
         }
     ]
