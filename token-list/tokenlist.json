@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:12:20.779Z",
+    "timestamp": "2020-09-23T16:20:09.877Z",
     "version": {
         "major": 1,
-        "minor": 2418,
+        "minor": 2419,
         "patch": 0
     },
     "keywords": [
@@ -15657,6 +15657,13 @@
             "symbol": "MEW",
             "address": "0xd17e374a7D49287F583DdfBDEb6ad4dA21c00cE3",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFT Aggregator Token",
+            "symbol": "NFTAT",
+            "address": "0xf119D367D4E0Ce07542a706EFc8D0F918A1fA061",
+            "decimals": 6
         }
     ]
 }
