@@ -1,0 +1,7 @@
+{
+    "name": "SnowSwap yDAI/yUSDC/yUSDT/yTUSD",
+    "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
+    "address": "0x173f8ee61C0FE712caE2a2fc8d5c0ccDDa57E6dA",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
