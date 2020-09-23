@@ -68,5 +68,10 @@
       "name": "Yield-Bearing",
       "description": "Assets that are wrappers around other tokens earning yield in a DeFi system",
       "emoji": "📈"
+  },
+  "payments": {
+    "name": "Payments",
+    "description": "Tokens that enable real-world payments for digital assets",
+    "emoji": "🛒"
   }
 }
