@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:42:09.569Z",
+    "timestamp": "2020-09-23T11:45:39.999Z",
     "version": {
         "major": 1,
-        "minor": 2378,
+        "minor": 2379,
         "patch": 0
     },
     "keywords": [
@@ -15383,6 +15383,13 @@
             "symbol": "dLTY",
             "address": "0x58cFC50FC47FFDbE2feD6819760Bdc71c7153408",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "leafdefi.finance",
+            "symbol": "LAF",
+            "address": "0x455246e74d8BE777FC96eEdBe1be5D375378918c",
+            "decimals": 18
         }
     ]
 }
