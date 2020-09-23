@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:16:15.364Z",
+    "timestamp": "2020-09-23T13:17:10.241Z",
     "version": {
         "major": 1,
-        "minor": 2389,
+        "minor": 2390,
         "patch": 0
     },
     "keywords": [
@@ -15460,6 +15460,13 @@
             "symbol": "TPT",
             "address": "0x35BE4379fA51d3748585532915142b5Bf64534c8",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "SashiToken",
+            "symbol": "SASHI",
+            "address": "0x0FE5dA8828f7F2dFa5cdf181461E0f2039d765f5",
+            "decimals": 18
         }
     ]
 }
