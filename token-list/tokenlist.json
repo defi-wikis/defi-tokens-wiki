@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:22:14.498Z",
+    "timestamp": "2020-09-23T00:32:59.783Z",
     "version": {
         "major": 1,
-        "minor": 2299,
+        "minor": 2300,
         "patch": 0
     },
     "keywords": [
@@ -14829,6 +14829,13 @@
             "name": "Archangel",
             "symbol": "ARCH",
             "address": "0x3f4a0B4314c022D61255ae01d1Ad5fA582CEa0D9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yoink.rocks",
+            "symbol": "YOINK",
+            "address": "0x229768E32d9B7E84889Eae382D0da7c6503e6D38",
             "decimals": 18
         }
     ]
