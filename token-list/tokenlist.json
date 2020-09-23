@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:20:14.483Z",
+    "timestamp": "2020-09-23T07:26:14.601Z",
     "version": {
         "major": 1,
-        "minor": 2338,
+        "minor": 2339,
         "patch": 0
     },
     "keywords": [
@@ -15102,6 +15102,13 @@
             "name": "Acala",
             "symbol": "ACA",
             "address": "0x2F48f520d1917A46d890E7b685d2b2A890b70086",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfbit.finance",
+            "symbol": "YFBIT",
+            "address": "0x6417D352310dc646C40c2b1aD1aCC398FF2539cf",
             "decimals": 18
         }
     ]
