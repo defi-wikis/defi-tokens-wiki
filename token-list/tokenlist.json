@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:40:51.176Z",
+    "timestamp": "2020-09-23T23:42:39.486Z",
     "version": {
         "major": 1,
-        "minor": 2480,
+        "minor": 2481,
         "patch": 0
     },
     "keywords": [
@@ -16090,6 +16090,13 @@
             "name": "Yearn Insurance Farming @ YIF.Finance",
             "symbol": "YIF",
             "address": "0x29b19cFd50704cEefeE3147a6b844c6048406da2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$STIMULUS",
+            "symbol": "$STIM",
+            "address": "0x357A11B0160Bc783F89BD9799F4c8Ae8f72C8fdD",
             "decimals": 18
         }
     ]
