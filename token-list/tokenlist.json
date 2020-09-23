@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T17:06:07.064Z",
+    "timestamp": "2020-09-23T17:06:54.542Z",
     "version": {
         "major": 1,
-        "minor": 2428,
+        "minor": 2429,
         "patch": 0
     },
     "keywords": [
@@ -15726,6 +15726,13 @@
             "name": "Do Not Buy This Token",
             "symbol": "NOBUY",
             "address": "0x10d7c026Daa5a061B00b0473D9c0f9F13E1674aD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hyperburn.finance",
+            "symbol": "hybn",
+            "address": "0x8C897F38A24aB3896c06d598dfcd226399F8cE13",
             "decimals": 18
         }
     ]
