@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:57:14.476Z",
+    "timestamp": "2020-09-23T08:06:54.427Z",
     "version": {
         "major": 1,
-        "minor": 2343,
+        "minor": 2344,
         "patch": 0
     },
     "keywords": [
@@ -15137,6 +15137,13 @@
             "name": "SNI",
             "symbol": "Sniper ouch",
             "address": "0xAF51f71EfCd6f6d009C97e7f067e405C0C7Ff010",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETENEUM",
+            "symbol": "ETN",
+            "address": "0xB293FedF303A2336990D8E2C36d05111eDA52887",
             "decimals": 18
         }
     ]
