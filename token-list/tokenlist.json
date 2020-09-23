@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:49:44.591Z",
+    "timestamp": "2020-09-23T16:55:19.803Z",
     "version": {
         "major": 1,
-        "minor": 2425,
+        "minor": 2426,
         "patch": 0
     },
     "keywords": [
@@ -15705,6 +15705,13 @@
             "name": "TokenGeneratorToken",
             "symbol": "TGT",
             "address": "0x1143a42DF6f80d70A1B3Cc766EEc10e37024Ab1D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuygun.com",
+            "symbol": "$GUN",
+            "address": "0x82B9c89af106716D48270618848c83A1dC5b2365",
             "decimals": 18
         }
     ]
