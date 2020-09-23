@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:55:19.803Z",
+    "timestamp": "2020-09-23T17:05:29.875Z",
     "version": {
         "major": 1,
-        "minor": 2426,
+        "minor": 2427,
         "patch": 0
     },
     "keywords": [
@@ -15712,6 +15712,13 @@
             "name": "dontbuygun.com",
             "symbol": "$GUN",
             "address": "0x82B9c89af106716D48270618848c83A1dC5b2365",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Buffalo Farm",
+            "symbol": "BFARM",
+            "address": "0xc63B5C57d823b97289FB65fe1CE391fC84DA3BA7",
             "decimals": 18
         }
     ]
