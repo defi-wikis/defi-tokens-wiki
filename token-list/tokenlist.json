@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T10:00:00.015Z",
+    "timestamp": "2020-09-23T10:09:24.922Z",
     "version": {
         "major": 1,
-        "minor": 2361,
+        "minor": 2362,
         "patch": 0
     },
     "keywords": [
@@ -15263,6 +15263,13 @@
             "name": "AntsToken",
             "symbol": "ANTS",
             "address": "0x621a45a79fd3fae84e854d91cB80C4974fF542f8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PAQUEBOT",
+            "symbol": "PAQUEBOT",
+            "address": "0xCc037772C458402A5b42B40d704E2ce64b737d0D",
             "decimals": 18
         }
     ]
