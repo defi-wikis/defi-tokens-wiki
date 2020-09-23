@@ -1,0 +1,7 @@
+{
+    "name": "yearn.finance cash",
+    "symbol": "YFI CASH",
+    "address": "0x03e8f56ad0D759BCFfF960863388Bfdb2efD1579",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
