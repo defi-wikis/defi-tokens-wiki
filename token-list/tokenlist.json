@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T04:14:59.142Z",
+    "timestamp": "2020-09-23T04:16:45.427Z",
     "version": {
         "major": 1,
-        "minor": 2325,
+        "minor": 2326,
         "patch": 0
     },
     "keywords": [
@@ -15011,6 +15011,13 @@
             "name": "localbitcoins",
             "symbol": "LBC",
             "address": "0xc2ba5524df13935Ce27AA0A94cCbdeC29a09733E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FEW",
+            "symbol": "FEW",
+            "address": "0x8D588b66b9c605bD1f6E9b75CB9365AaD5b97140",
             "decimals": 18
         }
     ]
