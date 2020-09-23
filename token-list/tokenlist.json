@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T06:11:24.612Z",
+    "timestamp": "2020-09-23T06:40:30.231Z",
     "version": {
         "major": 1,
-        "minor": 2332,
+        "minor": 2333,
         "patch": 0
     },
     "keywords": [
@@ -15061,6 +15061,13 @@
             "symbol": "ILK",
             "address": "0xF784682C82526e245F50975190EF0fff4E4fC077",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "MANY",
+            "symbol": "MANY",
+            "address": "0x38AA2e089eFf7cd2Ff77D274669b2391a0659996",
+            "decimals": 18
         }
     ]
 }
