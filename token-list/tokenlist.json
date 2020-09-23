@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T22:45:39.645Z",
+    "timestamp": "2020-09-23T22:51:10.229Z",
     "version": {
         "major": 1,
-        "minor": 2471,
+        "minor": 2472,
         "patch": 0
     },
     "keywords": [
@@ -16028,6 +16028,13 @@
             "symbol": "RUG",
             "address": "0x12C834F49f1A5732044f72796f57ddB3dA2F76d5",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Floss.Finance",
+            "symbol": "FLOSS",
+            "address": "0x1265913722BEF28a93C3AA5bE223606d8389B1Da",
+            "decimals": 18
         }
     ]
 }
