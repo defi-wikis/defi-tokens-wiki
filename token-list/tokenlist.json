@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:31:29.564Z",
+    "timestamp": "2020-09-23T23:37:59.387Z",
     "version": {
         "major": 1,
-        "minor": 2478,
+        "minor": 2479,
         "patch": 0
     },
     "keywords": [
@@ -16076,6 +16076,13 @@
             "name": "efuel.finance",
             "symbol": "FUEL",
             "address": "0xb743FE289A8Fa825d8997AAb5aD5692C8C313fD5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ROCK",
+            "symbol": "ROK",
+            "address": "0x099bf5D2FE677476A84d986eAA92e8Cb6C80eeb1",
             "decimals": 18
         }
     ]
