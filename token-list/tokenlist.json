@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T09:41:20.025Z",
+    "timestamp": "2020-09-23T09:41:59.935Z",
     "version": {
         "major": 1,
-        "minor": 2357,
+        "minor": 2358,
         "patch": 0
     },
     "keywords": [
@@ -15235,6 +15235,13 @@
             "name": "iChain LP",
             "symbol": "ICLP",
             "address": "0x3bb90142552dd38cD0F8e81aD758182CAcAa7A92",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hyve.Works",
+            "symbol": "HYVE",
+            "address": "0xAcD0490a8e2cfAC7E82267b424563347E1B2b1D8",
             "decimals": 18
         }
     ]
