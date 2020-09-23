@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T12:56:15.210Z",
+    "timestamp": "2020-09-23T13:03:35.067Z",
     "version": {
         "major": 1,
-        "minor": 2386,
+        "minor": 2387,
         "patch": 0
     },
     "keywords": [
@@ -15438,6 +15438,13 @@
             "name": "YFIE",
             "symbol": "YFIE",
             "address": "0x0ad462A8406EBfaC6112944454F06F7c65457B1E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hayek",
+            "symbol": "HYK",
+            "address": "0x53B9C60B55BC1F5B3cB399Cc44F704C47F2C5FC1",
             "decimals": 18
         }
     ]
