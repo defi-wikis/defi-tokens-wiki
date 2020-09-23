@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T20:38:50.713Z",
+    "timestamp": "2020-09-23T20:45:14.290Z",
     "version": {
         "major": 1,
-        "minor": 2454,
+        "minor": 2455,
         "patch": 0
     },
     "keywords": [
@@ -15908,6 +15908,13 @@
             "name": "PLEB",
             "symbol": "PLB",
             "address": "0x7BA9Dc49196fb31B6155BDc5A3fa2c26219679f8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dosAmigosNFT",
+            "symbol": "DAMI",
+            "address": "0xDB7c24B2673Dc37214329324C312c173C63E5E24",
             "decimals": 18
         }
     ]
