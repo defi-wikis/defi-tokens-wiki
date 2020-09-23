@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T19:00:30.326Z",
+    "timestamp": "2020-09-23T19:14:10.121Z",
     "version": {
         "major": 1,
-        "minor": 2448,
+        "minor": 2449,
         "patch": 0
     },
     "keywords": [
@@ -15866,6 +15866,13 @@
             "name": "ZEN token @ zengarden.finance",
             "symbol": "ZEN",
             "address": "0x58dF2248a7EA6A6E5910Ae783dd82548CE13e995",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniFuel",
+            "symbol": "UNIFUEL",
+            "address": "0x55FF7C8D75d233F5803E7555d0c6620b8E07e635",
             "decimals": 18
         }
     ]
