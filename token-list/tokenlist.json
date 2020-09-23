@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T01:57:20.676Z",
+    "timestamp": "2020-09-23T02:00:54.376Z",
     "version": {
         "major": 1,
-        "minor": 2311,
+        "minor": 2312,
         "patch": 0
     },
     "keywords": [
@@ -14914,6 +14914,13 @@
             "symbol": "Justed",
             "address": "0xC7607A51b21b86745908Ae6F0D221e9A2854100b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Red Tulip",
+            "symbol": "rTLP",
+            "address": "0xf7070F533932B495ac859E910373d9f7Bdf9569F",
+            "decimals": 9
         }
     ]
 }
