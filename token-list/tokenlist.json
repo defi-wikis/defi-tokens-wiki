@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:14:06.661Z",
+    "timestamp": "2020-09-23T07:20:14.483Z",
     "version": {
         "major": 1,
-        "minor": 2337,
+        "minor": 2338,
         "patch": 0
     },
     "keywords": [
@@ -15095,6 +15095,13 @@
             "name": "XY Finance",
             "symbol": "XYF",
             "address": "0x74df3b281BE27fA3FD6a7bd8e9A40688EE0a6A32",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Acala",
+            "symbol": "ACA",
+            "address": "0x2F48f520d1917A46d890E7b685d2b2A890b70086",
             "decimals": 18
         }
     ]
