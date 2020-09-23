@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T06:42:34.950Z",
+    "timestamp": "2020-09-23T07:06:49.708Z",
     "version": {
         "major": 1,
-        "minor": 2334,
+        "minor": 2335,
         "patch": 0
     },
     "keywords": [
@@ -15074,6 +15074,13 @@
             "name": "ysv.finance",
             "symbol": "YSV",
             "address": "0xBedA52a466C824738f735c0645Cf3CaE58A50Aad",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BETTING 4 FUEL",
+            "symbol": "BET4",
+            "address": "0xeb6a9769A43A80147b2A59052f3004c34aB147BA",
             "decimals": 18
         }
     ]
