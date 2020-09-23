@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T01:49:06.475Z",
+    "timestamp": "2020-09-23T01:57:20.676Z",
     "version": {
         "major": 1,
-        "minor": 2310,
+        "minor": 2311,
         "patch": 0
     },
     "keywords": [
@@ -14906,6 +14906,13 @@
             "name": "ScissorsToken",
             "symbol": "SCISSORS",
             "address": "0x6c4Eb967C853ba717bF09007483E6249feF0e07A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Justed",
+            "symbol": "Justed",
+            "address": "0xC7607A51b21b86745908Ae6F0D221e9A2854100b",
             "decimals": 18
         }
     ]
