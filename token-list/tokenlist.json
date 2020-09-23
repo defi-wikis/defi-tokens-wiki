@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:25:20.382Z",
+    "timestamp": "2020-09-23T18:26:50.101Z",
     "version": {
         "major": 1,
-        "minor": 2441,
+        "minor": 2442,
         "patch": 0
     },
     "keywords": [
@@ -15817,6 +15817,13 @@
             "name": "Pluton Blogging Network",
             "symbol": "PBN",
             "address": "0x569D320BEB50ddC6191e858A1F9217E3A1C6cD9d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pluton Blogging Network",
+            "symbol": "PBN",
+            "address": "0x80f7415DAC9A37E168047eB56A25032B5fe216CC",
             "decimals": 18
         }
     ]
