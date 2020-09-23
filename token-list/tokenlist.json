@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T03:49:29.773Z",
+    "timestamp": "2020-09-23T03:59:39.492Z",
     "version": {
         "major": 1,
-        "minor": 2321,
+        "minor": 2322,
         "patch": 0
     },
     "keywords": [
@@ -14983,6 +14983,13 @@
             "name": "TULIPBULB",
             "symbol": "TLPB",
             "address": "0x02a643D43cc72671bec8BEB6c163945160e50e52",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FiveHundredUselessTokens",
+            "symbol": "FHUT",
+            "address": "0x9C15bBB9fB998e3C3bb4C64D895322eC17eBc41b",
             "decimals": 18
         }
     ]
