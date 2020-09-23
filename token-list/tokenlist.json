@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T21:30:54.606Z",
+    "timestamp": "2020-09-23T21:37:14.941Z",
     "version": {
         "major": 1,
-        "minor": 2459,
+        "minor": 2460,
         "patch": 0
     },
     "keywords": [
@@ -15943,6 +15943,13 @@
             "name": "Republic note @ republic.co",
             "symbol": "NOTE",
             "address": "0x22a576178298c665cF919354CB576CC0A6b51CD5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jplus",
+            "symbol": "JPLUS",
+            "address": "0xE2779DF83D0C75Df4d2e6173Af671Adb5Aa56eF6",
             "decimals": 18
         }
     ]
