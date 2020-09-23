@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T14:16:24.950Z",
+    "timestamp": "2020-09-23T14:39:21.009Z",
     "version": {
         "major": 1,
-        "minor": 2401,
+        "minor": 2402,
         "patch": 0
     },
     "keywords": [
@@ -15543,6 +15543,13 @@
             "name": "yYvault MEME",
             "symbol": "yMEME",
             "address": "0x60330EE3F3a2835007a5468B5301894886104aC8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ThirdFloorToken",
+            "symbol": "TFT",
+            "address": "0xBdDa9670Bc2a672c36ccE0102ce8C69B12E9deE3",
             "decimals": 18
         }
     ]
