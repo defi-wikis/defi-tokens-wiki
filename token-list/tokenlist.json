@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T22:07:44.758Z",
+    "timestamp": "2020-09-23T22:18:49.939Z",
     "version": {
         "major": 1,
-        "minor": 2467,
+        "minor": 2468,
         "patch": 0
     },
     "keywords": [
@@ -15999,6 +15999,13 @@
             "name": "pls do not buy",
             "symbol": "PLSNO",
             "address": "0xe850520e4B6a0CDDFBC82572fa93d0DeBE9a5955",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "the-NFT.farm",
+            "symbol": "NFTf",
+            "address": "0xf5Aa2a537dAfba8952f4a6A75037971aBa17b0b5",
             "decimals": 18
         }
     ]
