@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T12:37:07.602Z",
+    "timestamp": "2020-09-23T12:52:30.310Z",
     "version": {
         "major": 1,
-        "minor": 2384,
+        "minor": 2385,
         "patch": 0
     },
     "keywords": [
@@ -15424,6 +15424,13 @@
             "name": "Combine Finance",
             "symbol": "COMB",
             "address": "0xdf920992B6C33F9e0143633dc6cc38917C300335",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LEAF",
+            "symbol": "LAF",
+            "address": "0xaB4F288BcAB7c3FF212Bc2bd433bA4ba339Eb873",
             "decimals": 18
         }
     ]
