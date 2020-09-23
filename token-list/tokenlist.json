@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T09:56:06.277Z",
+    "timestamp": "2020-09-23T10:00:00.015Z",
     "version": {
         "major": 1,
-        "minor": 2360,
+        "minor": 2361,
         "patch": 0
     },
     "keywords": [
@@ -15256,6 +15256,13 @@
             "name": "DOGEswap",
             "symbol": "DOGES",
             "address": "0xb4FBed161bEbcb37afB1Cb4a6F7cA18b977cCB25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AntsToken",
+            "symbol": "ANTS",
+            "address": "0x621a45a79fd3fae84e854d91cB80C4974fF542f8",
             "decimals": 18
         }
     ]
