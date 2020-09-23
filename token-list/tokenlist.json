@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T14:39:21.009Z",
+    "timestamp": "2020-09-23T14:48:20.084Z",
     "version": {
         "major": 1,
-        "minor": 2402,
+        "minor": 2403,
         "patch": 0
     },
     "keywords": [
@@ -9230,7 +9230,8 @@
             "symbol": "AMP",
             "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0xff20817765cb7f73d4bde2e66e067e58d11095c2/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0xff20817765cb7f73d4bde2e66e067e58d11095c2/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
