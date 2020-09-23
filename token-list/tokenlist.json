@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T05:04:39.991Z",
+    "timestamp": "2020-09-23T05:05:29.636Z",
     "version": {
         "major": 1,
-        "minor": 2327,
+        "minor": 2328,
         "patch": 0
     },
     "keywords": [
@@ -15026,6 +15026,13 @@
             "symbol": "YAN",
             "address": "0x14d37D614ADBEd69a8AC7B3188e833E800C4BCEa",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Harambe",
+            "symbol": "HARAM",
+            "address": "0x1D66A4c5ad91aEEf7DD4E39C1fd9f081663B201f",
+            "decimals": 18
         }
     ]
 }
