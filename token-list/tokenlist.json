@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T15:07:07.281Z",
+    "timestamp": "2020-09-23T15:07:44.583Z",
     "version": {
         "major": 1,
-        "minor": 2405,
+        "minor": 2406,
         "patch": 0
     },
     "keywords": [
@@ -15565,6 +15565,13 @@
             "name": "Combine.Finance",
             "symbol": "COMB",
             "address": "0x852208B0B61b31c075CFa5902866f8C6D10942FD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SIRIN",
+            "symbol": "SRN",
+            "address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
             "decimals": 18
         }
     ]
