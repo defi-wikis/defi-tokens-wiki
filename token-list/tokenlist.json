@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:59:39.881Z",
+    "timestamp": "2020-09-23T12:09:09.686Z",
     "version": {
         "major": 1,
-        "minor": 2380,
+        "minor": 2381,
         "patch": 0
     },
     "keywords": [
@@ -15396,6 +15396,13 @@
             "name": "Yearn Recovery Token @ yfir.finance",
             "symbol": "YFIR",
             "address": "0x798f522a7124C48C47F42e8Da714CddA59e0C802",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Konk Finance",
+            "symbol": "KOFI",
+            "address": "0x145e49F0a037e358f82d2D7bF1f8b3FF455D7eF7",
             "decimals": 18
         }
     ]
