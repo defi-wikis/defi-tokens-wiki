@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T12:21:39.510Z",
+    "timestamp": "2020-09-23T12:34:44.236Z",
     "version": {
         "major": 1,
-        "minor": 2382,
+        "minor": 2383,
         "patch": 0
     },
     "keywords": [
@@ -15411,6 +15411,13 @@
             "symbol": "yfLUX",
             "address": "0xF511b0EDeD17B0f5077C64D52B7595f65b008ec1",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "POSSWAP",
+            "symbol": "POS",
+            "address": "0x4D8270E58125fACA77F91CEcD329bA5DC6e89851",
+            "decimals": 8
         }
     ]
 }
