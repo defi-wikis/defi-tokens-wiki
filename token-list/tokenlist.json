@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T21:56:40.079Z",
+    "timestamp": "2020-09-23T22:06:24.406Z",
     "version": {
         "major": 1,
-        "minor": 2464,
+        "minor": 2465,
         "patch": 0
     },
     "keywords": [
@@ -15978,6 +15978,13 @@
             "name": "pls do not buy",
             "symbol": "PLSNO",
             "address": "0x96a68a38e84cbDD0599c5b416A163a4642C8bddA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pls do not buy",
+            "symbol": "PLSNO",
+            "address": "0xEd1199ba9eB7758A6CAA1070941bacFe3d1A8F9E",
             "decimals": 18
         }
     ]
