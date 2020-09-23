@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:19:09.833Z",
+    "timestamp": "2020-09-23T00:22:14.498Z",
     "version": {
         "major": 1,
-        "minor": 2298,
+        "minor": 2299,
         "patch": 0
     },
     "keywords": [
@@ -14822,6 +14822,13 @@
             "name": "FEW NFT",
             "symbol": "FEW",
             "address": "0x91D8C70dBFf9717ef6cA10240301DAee99a4a5E1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Archangel",
+            "symbol": "ARCH",
+            "address": "0x3f4a0B4314c022D61255ae01d1Ad5fA582CEa0D9",
             "decimals": 18
         }
     ]
