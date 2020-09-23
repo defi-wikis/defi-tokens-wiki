@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T10:09:24.922Z",
+    "timestamp": "2020-09-23T10:31:59.388Z",
     "version": {
         "major": 1,
-        "minor": 2362,
+        "minor": 2363,
         "patch": 0
     },
     "keywords": [
@@ -15270,6 +15270,13 @@
             "name": "PAQUEBOT",
             "symbol": "PAQUEBOT",
             "address": "0xCc037772C458402A5b42B40d704E2ce64b737d0D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yif.finance",
+            "symbol": "YIF",
+            "address": "0xa9a5711EcE549A71d7849dF731Feb4E0902dB1B7",
             "decimals": 18
         }
     ]
