@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T08:31:07.517Z",
+    "timestamp": "2020-09-23T08:34:49.830Z",
     "version": {
         "major": 1,
-        "minor": 2347,
+        "minor": 2348,
         "patch": 0
     },
     "keywords": [
@@ -15165,6 +15165,13 @@
             "name": "SashiToken",
             "symbol": "SASHI",
             "address": "0x66e24b0a0275f2B8826B116f5Bd6a27f97617Ddb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "kBASEv0 - Kitten.Finance",
+            "symbol": "kBASEv0",
+            "address": "0x124c6092c469716A661b5B0609F205050b26b50f",
             "decimals": 18
         }
     ]
