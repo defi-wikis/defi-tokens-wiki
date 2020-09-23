@@ -4,11 +4,11 @@
     "address": "0x70538834e68efe5061a11c4999fc050e55ae2b68",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED",
-    "description": "Our mission is to improve the adoption of cryptocurrency by providing innovative products and services",
+    "description": "Our mission is to improve the adoption of cryptocurrency by providing innovative products and services.",
     "socialLinks": [
         {
             "type": "Twitter",
-            "value": "#"
+            "value": ""
         },
         {
             "type": "Website",
@@ -17,12 +17,14 @@
         {
             "type": "Discord",
             "value": "https://discord.gg/WGDQxW2"
+        },
+        {
+            "type": "Telegram",
+            "value": "https://t.me/ProjectLaya"
         }
     ],
     "tags": [
-        "airdrop",
         "defi",
-        "utility",
-        "lending"
+        "payments"
     ]
 }
