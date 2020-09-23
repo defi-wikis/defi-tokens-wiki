@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T14:09:07.313Z",
+    "timestamp": "2020-09-23T14:16:24.950Z",
     "version": {
         "major": 1,
-        "minor": 2400,
+        "minor": 2401,
         "patch": 0
     },
     "keywords": [
@@ -15536,6 +15536,13 @@
             "name": "Clan Finance",
             "symbol": "CLAN",
             "address": "0x2e735427db73e419b23A02D6ea21739FE7bd587d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yYvault MEME",
+            "symbol": "yMEME",
+            "address": "0x60330EE3F3a2835007a5468B5301894886104aC8",
             "decimals": 18
         }
     ]
