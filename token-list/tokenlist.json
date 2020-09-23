@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:42:39.486Z",
+    "timestamp": "2020-09-23T23:47:54.727Z",
     "version": {
         "major": 1,
-        "minor": 2481,
+        "minor": 2482,
         "patch": 0
     },
     "keywords": [
@@ -16097,6 +16097,13 @@
             "name": "$STIMULUS",
             "symbol": "$STIM",
             "address": "0x357A11B0160Bc783F89BD9799F4c8Ae8f72C8fdD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TBC TRUSTED TOKEN",
+            "symbol": "TBCT",
+            "address": "0x47949aa1a0AC54374976B0dbB0F2828D0D12d73C",
             "decimals": 18
         }
     ]
