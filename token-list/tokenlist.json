@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T21:40:09.733Z",
+    "timestamp": "2020-09-23T21:41:40.224Z",
     "version": {
         "major": 1,
-        "minor": 2461,
+        "minor": 2462,
         "patch": 0
     },
     "keywords": [
@@ -15957,6 +15957,13 @@
             "name": "Sundae Finance",
             "symbol": "SUN",
             "address": "0x980554252c9E737C59434B0652b2fe541191253D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Baked Jiaozi",
+            "symbol": "$BJ",
+            "address": "0xAc4a4aE328375C9Ee6406EEBF1d3dd86017D7B75",
             "decimals": 18
         }
     ]
