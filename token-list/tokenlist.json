@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:53:54.459Z",
+    "timestamp": "2020-09-23T07:57:14.476Z",
     "version": {
         "major": 1,
-        "minor": 2342,
+        "minor": 2343,
         "patch": 0
     },
     "keywords": [
@@ -15130,6 +15130,13 @@
             "name": "YSV.Finance",
             "symbol": "YSV",
             "address": "0x9dAe21dD26290c179FCCb4435b15Eb50F4dea898",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SNI",
+            "symbol": "Sniper ouch",
+            "address": "0xAF51f71EfCd6f6d009C97e7f067e405C0C7Ff010",
             "decimals": 18
         }
     ]
