@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T08:06:54.427Z",
+    "timestamp": "2020-09-23T08:07:49.492Z",
     "version": {
         "major": 1,
-        "minor": 2344,
+        "minor": 2345,
         "patch": 0
     },
     "keywords": [
@@ -15144,6 +15144,13 @@
             "name": "ETENEUM",
             "symbol": "ETN",
             "address": "0xB293FedF303A2336990D8E2C36d05111eDA52887",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xDeFi Token",
+            "symbol": "XDFT",
+            "address": "0x51D01615F8D5af8F64C3d754f156E03D988f7771",
             "decimals": 18
         }
     ]
