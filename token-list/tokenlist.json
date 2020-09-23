@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:47:54.727Z",
+    "timestamp": "2020-09-23T23:50:15.816Z",
     "version": {
         "major": 1,
-        "minor": 2482,
+        "minor": 2483,
         "patch": 0
     },
     "keywords": [
@@ -16104,6 +16104,13 @@
             "name": "TBC TRUSTED TOKEN",
             "symbol": "TBCT",
             "address": "0x47949aa1a0AC54374976B0dbB0F2828D0D12d73C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AirLink",
+            "symbol": "AIRL",
+            "address": "0x16DA56D2151501fdA98716CA2219Dbd71F47a2aA",
             "decimals": 18
         }
     ]
