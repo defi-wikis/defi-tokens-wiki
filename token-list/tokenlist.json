@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T04:16:45.427Z",
+    "timestamp": "2020-09-23T05:04:39.991Z",
     "version": {
         "major": 1,
-        "minor": 2326,
+        "minor": 2327,
         "patch": 0
     },
     "keywords": [
@@ -15019,6 +15019,13 @@
             "symbol": "FEW",
             "address": "0x8D588b66b9c605bD1f6E9b75CB9365AaD5b97140",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YAN Finance",
+            "symbol": "YAN",
+            "address": "0x14d37D614ADBEd69a8AC7B3188e833E800C4BCEa",
+            "decimals": 8
         }
     ]
 }
