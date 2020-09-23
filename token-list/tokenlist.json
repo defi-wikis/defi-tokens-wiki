@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T03:59:49.623Z",
+    "timestamp": "2020-09-23T04:12:19.687Z",
     "version": {
         "major": 1,
-        "minor": 2323,
+        "minor": 2324,
         "patch": 0
     },
     "keywords": [
@@ -14997,6 +14997,13 @@
             "name": "Y",
             "symbol": "Y",
             "address": "0xCD7b31160d2a4689C043Bb7E19e6F68B11E1075f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XCU",
+            "symbol": "XCU",
+            "address": "0x465F7BA50e548945b430Ca8Ef6FD876582350cCF",
             "decimals": 18
         }
     ]
