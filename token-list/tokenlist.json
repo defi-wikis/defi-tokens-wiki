@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T08:37:59.429Z",
+    "timestamp": "2020-09-23T08:51:07.000Z",
     "version": {
         "major": 1,
-        "minor": 2349,
+        "minor": 2350,
         "patch": 0
     },
     "keywords": [
@@ -15179,6 +15179,13 @@
             "name": "Hot Pot.Finance",
             "symbol": "HOTPOT",
             "address": "0xBdBFBcCf62c3BF086CC721abf603af93B2145f95",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TigerCash",
+            "symbol": "TCH",
+            "address": "0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
             "decimals": 18
         }
     ]
