@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T03:44:34.439Z",
+    "timestamp": "2020-09-23T03:49:29.773Z",
     "version": {
         "major": 1,
-        "minor": 2320,
+        "minor": 2321,
         "patch": 0
     },
     "keywords": [
@@ -14976,6 +14976,13 @@
             "name": "扯犊子",
             "symbol": "CDZ",
             "address": "0x483aaEbf6675c14B16b374D747e454791c26468F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TULIPBULB",
+            "symbol": "TLPB",
+            "address": "0x02a643D43cc72671bec8BEB6c163945160e50e52",
             "decimals": 18
         }
     ]
