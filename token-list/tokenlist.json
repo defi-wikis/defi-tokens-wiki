@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T04:12:19.687Z",
+    "timestamp": "2020-09-23T04:14:59.142Z",
     "version": {
         "major": 1,
-        "minor": 2324,
+        "minor": 2325,
         "patch": 0
     },
     "keywords": [
@@ -15004,6 +15004,13 @@
             "name": "XCU",
             "symbol": "XCU",
             "address": "0x465F7BA50e548945b430Ca8Ef6FD876582350cCF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "localbitcoins",
+            "symbol": "LBC",
+            "address": "0xc2ba5524df13935Ce27AA0A94cCbdeC29a09733E",
             "decimals": 18
         }
     ]
