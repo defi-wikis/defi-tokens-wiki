@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T21:41:40.224Z",
+    "timestamp": "2020-09-23T21:43:44.586Z",
     "version": {
         "major": 1,
-        "minor": 2462,
+        "minor": 2463,
         "patch": 0
     },
     "keywords": [
@@ -15964,6 +15964,13 @@
             "name": "Baked Jiaozi",
             "symbol": "$BJ",
             "address": "0xAc4a4aE328375C9Ee6406EEBF1d3dd86017D7B75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pls do not buy",
+            "symbol": "PLSNO",
+            "address": "0xf8676d56a8C986d905084A756903eb0b95C0b78c",
             "decimals": 18
         }
     ]
