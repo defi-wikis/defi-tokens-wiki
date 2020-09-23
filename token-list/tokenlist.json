@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T02:48:14.544Z",
+    "timestamp": "2020-09-23T03:04:24.689Z",
     "version": {
         "major": 1,
-        "minor": 2315,
+        "minor": 2316,
         "patch": 0
     },
     "keywords": [
@@ -14941,6 +14941,13 @@
             "name": "YfKey-Token",
             "symbol": "YFK",
             "address": "0xF19bF6Ff06e7aa00450085F8A6bd7e8fD2d74536",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fearless",
+            "symbol": "FEAR",
+            "address": "0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
             "decimals": 18
         }
     ]
