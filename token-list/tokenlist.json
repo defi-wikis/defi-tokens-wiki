@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:07:25.244Z",
+    "timestamp": "2020-09-23T18:15:44.746Z",
     "version": {
         "major": 1,
-        "minor": 2438,
+        "minor": 2439,
         "patch": 0
     },
     "keywords": [
@@ -15796,6 +15796,13 @@
             "name": "Simple Yearn Finance",
             "symbol": "SYF",
             "address": "0xeb60d429E02928e494516CE0a81f185Ef52f20d4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LinkMarine",
+            "symbol": "LMRN",
+            "address": "0x533209Eb5B95506C4a3D72Be57bc254D28305F8A",
             "decimals": 18
         }
     ]
