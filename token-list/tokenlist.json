@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T03:43:39.803Z",
+    "timestamp": "2020-09-23T03:43:49.348Z",
     "version": {
         "major": 1,
-        "minor": 2318,
+        "minor": 2319,
         "patch": 0
     },
     "keywords": [
@@ -14962,6 +14962,13 @@
             "name": "growdefi.network",
             "symbol": "GDF",
             "address": "0xB567D00228133fB7fAD263fdDff5aa52963cA7fB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "unilend.finance",
+            "symbol": "UFT",
+            "address": "0x9e8B680F1c4d494a042fc679C9173B2263a2e391",
             "decimals": 18
         }
     ]
