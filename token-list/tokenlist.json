@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:25:20.324Z",
+    "timestamp": "2020-09-23T23:25:35.232Z",
     "version": {
         "major": 1,
-        "minor": 2475,
+        "minor": 2476,
         "patch": 0
     },
     "keywords": [
@@ -16055,6 +16055,13 @@
             "name": "$comfy",
             "symbol": "COMFY",
             "address": "0xfD30CB7016F75b2E44c4CE4ae9F610CBe292C292",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arriverderci Token",
+            "symbol": "DERCI",
+            "address": "0xD4cEFA024414B62730EcB454A1FE8BfeC9ae8520",
             "decimals": 18
         }
     ]
