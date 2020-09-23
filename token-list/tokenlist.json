@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T17:06:54.542Z",
+    "timestamp": "2020-09-23T17:09:54.584Z",
     "version": {
         "major": 1,
-        "minor": 2429,
+        "minor": 2430,
         "patch": 0
     },
     "keywords": [
@@ -15733,6 +15733,13 @@
             "name": "hyperburn.finance",
             "symbol": "hybn",
             "address": "0x8C897F38A24aB3896c06d598dfcd226399F8cE13",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PowerTrade Fuel",
+            "symbol": "PTF",
+            "address": "0xEf614e4b667105a94DCC73bFD5571FE2b7ce1175",
             "decimals": 18
         }
     ]
