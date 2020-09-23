@@ -7,15 +7,15 @@
     "description": "Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility. Using Amp, networks like Flexa can quickly and irreversibly secure transactions for a wide variety of asset-related use cases.",
     "socialLinks": [
         {
-            "type": "Twitter",
+            "type": "twitter",
             "value": "https://twitter.com/amptoken"
         },
         {
-            "type": "Website",
+            "type": "website",
             "value": "https://amptoken.org"
         },
         {
-            "type": "Discord",
+            "type": "discord",
             "value": "https://amptoken.org/discord"
         }
     ],
