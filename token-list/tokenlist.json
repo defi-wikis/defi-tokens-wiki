@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T03:59:39.492Z",
+    "timestamp": "2020-09-23T03:59:49.623Z",
     "version": {
         "major": 1,
-        "minor": 2322,
+        "minor": 2323,
         "patch": 0
     },
     "keywords": [
@@ -14990,6 +14990,13 @@
             "name": "FiveHundredUselessTokens",
             "symbol": "FHUT",
             "address": "0x9C15bBB9fB998e3C3bb4C64D895322eC17eBc41b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Y",
+            "symbol": "Y",
+            "address": "0xCD7b31160d2a4689C043Bb7E19e6F68B11E1075f",
             "decimals": 18
         }
     ]
