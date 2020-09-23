@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T22:18:49.939Z",
+    "timestamp": "2020-09-23T22:37:14.903Z",
     "version": {
         "major": 1,
-        "minor": 2468,
+        "minor": 2469,
         "patch": 0
     },
     "keywords": [
@@ -16006,6 +16006,13 @@
             "name": "the-NFT.farm",
             "symbol": "NFTf",
             "address": "0xf5Aa2a537dAfba8952f4a6A75037971aBa17b0b5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$UNIMEME",
+            "symbol": "$UNIMEME",
+            "address": "0x7206579D60e985928098Ea8fF8773C66788A9cdc",
             "decimals": 18
         }
     ]
