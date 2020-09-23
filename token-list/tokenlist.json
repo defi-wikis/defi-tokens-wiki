@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T17:10:29.804Z",
+    "timestamp": "2020-09-23T17:10:45.088Z",
     "version": {
         "major": 1,
-        "minor": 2431,
+        "minor": 2432,
         "patch": 0
     },
     "keywords": [
@@ -15747,6 +15747,13 @@
             "name": "$SOUP",
             "symbol": "$SOUP",
             "address": "0x7b262e9284822a91DBeff9DF80388F4637f40Ddc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Classic",
+            "symbol": "EARN",
+            "address": "0x63a18BC38D1101DB7F0efCbCBdCbe927A5879039",
             "decimals": 18
         }
     ]
