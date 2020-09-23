@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T08:07:49.492Z",
+    "timestamp": "2020-09-23T08:19:30.119Z",
     "version": {
         "major": 1,
-        "minor": 2345,
+        "minor": 2346,
         "patch": 0
     },
     "keywords": [
@@ -15151,6 +15151,13 @@
             "name": "xDeFi Token",
             "symbol": "XDFT",
             "address": "0x51D01615F8D5af8F64C3d754f156E03D988f7771",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Butterfly",
+            "symbol": "BTF",
+            "address": "0xa55b8A123E4C7cBdDB9DF384c66c755B9150cb31",
             "decimals": 18
         }
     ]
