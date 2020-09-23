@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:36:09.404Z",
+    "timestamp": "2020-09-23T00:45:20.061Z",
     "version": {
         "major": 1,
-        "minor": 2304,
+        "minor": 2305,
         "patch": 0
     },
     "keywords": [
@@ -14864,6 +14864,13 @@
             "name": "Frqtal",
             "symbol": "FRQ",
             "address": "0xE841dC3aa4Ef3e77Ed5d7b8E0E6A7bEE7770Cde9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rari Stable Pool Token",
+            "symbol": "RSPT",
+            "address": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0",
             "decimals": 18
         }
     ]
