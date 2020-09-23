@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:35:49.915Z",
+    "timestamp": "2020-09-23T13:42:44.923Z",
     "version": {
         "major": 1,
-        "minor": 2393,
+        "minor": 2394,
         "patch": 0
     },
     "keywords": [
@@ -15487,6 +15487,13 @@
             "name": "SOAP",
             "symbol": "SOAP",
             "address": "0x3992075f307523EC80a895A21F7E8fFf9e1e0F79",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dynamic Yield",
+            "symbol": "DYD",
+            "address": "0xe9AfF5b088eea48FA3d470d4270f9E197249d105",
             "decimals": 18
         }
     ]
