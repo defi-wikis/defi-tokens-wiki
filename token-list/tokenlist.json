@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T10:48:09.745Z",
+    "timestamp": "2020-09-23T10:58:06.641Z",
     "version": {
         "major": 1,
-        "minor": 2367,
+        "minor": 2368,
         "patch": 0
     },
     "keywords": [
@@ -15305,6 +15305,13 @@
             "name": "nToken YFI",
             "symbol": "nYFI",
             "address": "0x9D1D90CfF88694B75735c605383d0d18Adf2Ff4B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "coconut.finance",
+            "symbol": "COCO",
+            "address": "0x411F0a2E2Da53754Ff5618512Fa1c8b2b5695967",
             "decimals": 18
         }
     ]
