@@ -1,0 +1,7 @@
+{
+    "name": "SashiToken",
+    "symbol": "SASHI",
+    "address": "0x0FE5dA8828f7F2dFa5cdf181461E0f2039d765f5",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
