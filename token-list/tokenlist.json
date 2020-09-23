@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T15:54:09.992Z",
+    "timestamp": "2020-09-23T15:55:19.781Z",
     "version": {
         "major": 1,
-        "minor": 2414,
+        "minor": 2415,
         "patch": 0
     },
     "keywords": [
@@ -15628,6 +15628,13 @@
             "name": "Gainz",
             "symbol": "GAIN",
             "address": "0x90377C5ff5Ed9840F94207eB70F0025cbCc9dF1C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YBank.Finance",
+            "symbol": "YBAF",
+            "address": "0x5dA8891Bc105a971EC7300CD832339aEAA454b13",
             "decimals": 18
         }
     ]
