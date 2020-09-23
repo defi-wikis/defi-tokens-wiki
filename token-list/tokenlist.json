@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:45:20.061Z",
+    "timestamp": "2020-09-23T00:45:29.961Z",
     "version": {
         "major": 1,
-        "minor": 2305,
+        "minor": 2306,
         "patch": 0
     },
     "keywords": [
@@ -14871,6 +14871,13 @@
             "name": "Rari Stable Pool Token",
             "symbol": "RSPT",
             "address": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Marshmallow Governance",
+            "symbol": "MGT",
+            "address": "0x041d37F02b4219e5a038B22C1f69E7e55F3A82D8",
             "decimals": 18
         }
     ]
