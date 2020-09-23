@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:42:49.693Z",
+    "timestamp": "2020-09-23T13:43:34.908Z",
     "version": {
         "major": 1,
-        "minor": 2395,
+        "minor": 2396,
         "patch": 0
     },
     "keywords": [
@@ -15502,6 +15502,13 @@
             "symbol": "WLEO",
             "address": "0x352c0F76Cfd34Ab3A2724ef67F46cf4D3f61192B",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "Egregeum.Finance",
+            "symbol": "EGMF",
+            "address": "0x51D0d0cAA19E03EaFdEA60BD9df523946d4285BA",
+            "decimals": 18
         }
     ]
 }
