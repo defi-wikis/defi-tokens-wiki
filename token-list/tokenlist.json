@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T09:47:14.665Z",
+    "timestamp": "2020-09-23T09:56:06.277Z",
     "version": {
         "major": 1,
-        "minor": 2359,
+        "minor": 2360,
         "patch": 0
     },
     "keywords": [
@@ -15249,6 +15249,13 @@
             "name": "YFIBusiness.finance",
             "symbol": "YFIB",
             "address": "0x5B6694E4c17DECF3cF0d43BEd8B47520B2b8EdF1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DOGEswap",
+            "symbol": "DOGES",
+            "address": "0xb4FBed161bEbcb37afB1Cb4a6F7cA18b977cCB25",
             "decimals": 18
         }
     ]
