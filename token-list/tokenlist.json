@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-22T23:50:09.683Z",
+    "timestamp": "2020-09-23T00:12:09.904Z",
     "version": {
         "major": 1,
-        "minor": 2296,
+        "minor": 2297,
         "patch": 0
     },
     "keywords": [
@@ -14808,6 +14808,13 @@
             "name": "Simple Token",
             "symbol": "ST",
             "address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Once",
+            "symbol": "ONCE",
+            "address": "0x1683c5fdE2522b1683fF6f2ab71AFf4eA5013f33",
             "decimals": 18
         }
     ]
