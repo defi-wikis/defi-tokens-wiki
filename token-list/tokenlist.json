@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:36:35.668Z",
+    "timestamp": "2020-09-23T18:47:20.129Z",
     "version": {
         "major": 1,
-        "minor": 2445,
+        "minor": 2446,
         "patch": 0
     },
     "keywords": [
@@ -15845,6 +15845,13 @@
             "name": "yearn.finance cash",
             "symbol": "YFI CASH",
             "address": "0x03e8f56ad0D759BCFfF960863388Bfdb2efD1579",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoBet",
+            "symbol": "CBET",
+            "address": "0x35dd2ebf20746C6e658fac75cd80D4722fae62f6",
             "decimals": 18
         }
     ]
