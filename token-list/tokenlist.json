@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:26:40.615Z",
+    "timestamp": "2020-09-23T23:31:29.564Z",
     "version": {
         "major": 1,
-        "minor": 2477,
+        "minor": 2478,
         "patch": 0
     },
     "keywords": [
@@ -16069,6 +16069,13 @@
             "name": "ratio",
             "symbol": "RATIO",
             "address": "0x4d447e2Fe2a916fC8a034Ef0F638C4d2396d8fCF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "efuel.finance",
+            "symbol": "FUEL",
+            "address": "0xb743FE289A8Fa825d8997AAb5aD5692C8C313fD5",
             "decimals": 18
         }
     ]
