@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T01:18:09.727Z",
+    "timestamp": "2020-09-23T01:28:29.678Z",
     "version": {
         "major": 1,
-        "minor": 2307,
+        "minor": 2308,
         "patch": 0
     },
     "keywords": [
@@ -14886,6 +14886,13 @@
             "symbol": "ORG",
             "address": "0x36C9C8AbA0dAa86358a9EE6FF9F27C96b12fA644",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RAS",
+            "symbol": "RAS",
+            "address": "0x6420A10A763dB3E0f3B8EB501Ba9c6153619410b",
+            "decimals": 4
         }
     ]
 }
