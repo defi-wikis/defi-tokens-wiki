@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:26:14.601Z",
+    "timestamp": "2020-09-23T07:36:24.515Z",
     "version": {
         "major": 1,
-        "minor": 2339,
+        "minor": 2340,
         "patch": 0
     },
     "keywords": [
@@ -15109,6 +15109,13 @@
             "name": "yfbit.finance",
             "symbol": "YFBIT",
             "address": "0x6417D352310dc646C40c2b1aD1aCC398FF2539cf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZUN",
+            "symbol": "ZuniSwap",
+            "address": "0x44c7762129D6ea71C76F32b5E92f4FE709fe7E86",
             "decimals": 18
         }
     ]
