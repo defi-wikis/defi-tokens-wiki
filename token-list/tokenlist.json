@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:54:54.955Z",
+    "timestamp": "2020-09-23T14:02:44.594Z",
     "version": {
         "major": 1,
-        "minor": 2398,
+        "minor": 2399,
         "patch": 0
     },
     "keywords": [
@@ -15522,6 +15522,13 @@
             "name": "YOINK",
             "symbol": "YNK",
             "address": "0x87C00817ABe35eD4C093e59043fae488238d2F74",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$SOAP",
+            "symbol": "$SOAP",
+            "address": "0x3492ce62703AA8B8f699F3eaEFdF8c00aed18B9a",
             "decimals": 18
         }
     ]
