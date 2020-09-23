@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T14:53:10.387Z",
+    "timestamp": "2020-09-23T15:07:07.281Z",
     "version": {
         "major": 1,
-        "minor": 2404,
+        "minor": 2405,
         "patch": 0
     },
     "keywords": [
@@ -15558,6 +15558,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xBb2b8038a1640196FbE3e38816F3e67Cba72D940",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Combine.Finance",
+            "symbol": "COMB",
+            "address": "0x852208B0B61b31c075CFa5902866f8C6D10942FD",
             "decimals": 18
         }
     ]
