@@ -7,10 +7,6 @@
     "description": "Our mission is to improve the adoption of cryptocurrency by providing innovative products and services.",
     "socialLinks": [
         {
-            "type": "Twitter",
-            "value": ""
-        },
-        {
             "type": "Website",
             "value": "https://project-laya.com"
         },
