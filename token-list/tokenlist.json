@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T17:34:44.461Z",
+    "timestamp": "2020-09-23T17:43:35.094Z",
     "version": {
         "major": 1,
-        "minor": 2434,
+        "minor": 2435,
         "patch": 0
     },
     "keywords": [
@@ -15768,6 +15768,13 @@
             "name": "Wrapped Gen 0",
             "symbol": "WG0",
             "address": "0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BANANAFORAPES",
+            "symbol": "BANA",
+            "address": "0xE6f49DA15E4AC241f8fe4c142812E8a53a7031a4",
             "decimals": 18
         }
     ]
