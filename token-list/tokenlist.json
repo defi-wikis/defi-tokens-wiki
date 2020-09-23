@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T22:42:15.689Z",
+    "timestamp": "2020-09-23T22:45:39.645Z",
     "version": {
         "major": 1,
-        "minor": 2470,
+        "minor": 2471,
         "patch": 0
     },
     "keywords": [
@@ -16021,6 +16021,13 @@
             "symbol": "FRNK",
             "address": "0xf938c9A22C6Fc9e6b81b24b68dB94B92dc4a7976",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "RUG LIFE",
+            "symbol": "RUG",
+            "address": "0x12C834F49f1A5732044f72796f57ddB3dA2F76d5",
+            "decimals": 0
         }
     ]
 }
