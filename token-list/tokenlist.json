@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:17:35.415Z",
+    "timestamp": "2020-09-23T23:25:20.324Z",
     "version": {
         "major": 1,
-        "minor": 2474,
+        "minor": 2475,
         "patch": 0
     },
     "keywords": [
@@ -16048,6 +16048,13 @@
             "name": "Ethereum Beta A Series",
             "symbol": "ETBA",
             "address": "0x4461762456623fBFB2e605bdC7639405e5D2cFeA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$comfy",
+            "symbol": "COMFY",
+            "address": "0xfD30CB7016F75b2E44c4CE4ae9F610CBe292C292",
             "decimals": 18
         }
     ]
