@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:00:14.999Z",
+    "timestamp": "2020-09-23T16:05:10.972Z",
     "version": {
         "major": 1,
-        "minor": 2416,
+        "minor": 2417,
         "patch": 0
     },
     "keywords": [
@@ -15642,6 +15642,13 @@
             "name": "My First Token",
             "symbol": "MFT",
             "address": "0x05C8C6028DBfcf85244Cd6AdA8b1cb1807694e71",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YouFuture",
+            "symbol": "YFTT",
+            "address": "0xaa03c063f7Cd3E1636e384090CB7Dc537DEC64Ac",
             "decimals": 18
         }
     ]
