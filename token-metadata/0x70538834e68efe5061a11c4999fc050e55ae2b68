@@ -1,0 +1,28 @@
+{
+    "name": "Project Laya",
+    "symbol": "AYA",
+    "address": "0x70538834e68efe5061a11c4999fc050e55ae2b68",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Our mission is to improve the adoption of cryptocurrency by providing innovative products and services",
+    "socialLinks": [
+        {
+            "type": "Twitter",
+            "value": "#"
+        },
+        {
+            "type": "Website",
+            "value": "https://project-laya.com"
+        },
+        {
+            "type": "Discord",
+            "value": "https://discord.gg/WGDQxW2"
+        }
+    ],
+    "tags": [
+        "airdrop",
+        "defi",
+        "utility",
+        "lending"
+    ]
+}
