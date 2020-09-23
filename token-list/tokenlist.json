@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:32:59.783Z",
+    "timestamp": "2020-09-23T00:33:14.304Z",
     "version": {
         "major": 1,
-        "minor": 2300,
+        "minor": 2301,
         "patch": 0
     },
     "keywords": [
@@ -14836,6 +14836,13 @@
             "name": "yoink.rocks",
             "symbol": "YOINK",
             "address": "0x229768E32d9B7E84889Eae382D0da7c6503e6D38",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Garden Of Eden, Price is Celestial",
+            "symbol": "EDEN",
+            "address": "0x4E82a579C8A62cd75190b7B513aCaE356159d182",
             "decimals": 18
         }
     ]
