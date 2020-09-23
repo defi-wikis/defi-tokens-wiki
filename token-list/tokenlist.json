@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T10:31:59.388Z",
+    "timestamp": "2020-09-23T10:38:07.498Z",
     "version": {
         "major": 1,
-        "minor": 2363,
+        "minor": 2364,
         "patch": 0
     },
     "keywords": [
@@ -15277,6 +15277,13 @@
             "name": "yif.finance",
             "symbol": "YIF",
             "address": "0xa9a5711EcE549A71d7849dF731Feb4E0902dB1B7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SashiToken",
+            "symbol": "SASHI",
+            "address": "0xA26bc292829E04B222126a15d6A7587C40910A15",
             "decimals": 18
         }
     ]
