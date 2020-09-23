@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:25:35.232Z",
+    "timestamp": "2020-09-23T23:26:40.615Z",
     "version": {
         "major": 1,
-        "minor": 2476,
+        "minor": 2477,
         "patch": 0
     },
     "keywords": [
@@ -16062,6 +16062,13 @@
             "name": "Arriverderci Token",
             "symbol": "DERCI",
             "address": "0xD4cEFA024414B62730EcB454A1FE8BfeC9ae8520",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ratio",
+            "symbol": "RATIO",
+            "address": "0x4d447e2Fe2a916fC8a034Ef0F638C4d2396d8fCF",
             "decimals": 18
         }
     ]
