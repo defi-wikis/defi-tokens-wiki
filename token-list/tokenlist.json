@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T17:34:35.463Z",
+    "timestamp": "2020-09-23T17:34:44.461Z",
     "version": {
         "major": 1,
-        "minor": 2433,
+        "minor": 2434,
         "patch": 0
     },
     "keywords": [
@@ -15762,6 +15762,13 @@
             "symbol": "MORE",
             "address": "0x305DE070488C8469dFAC957226c9c900c4BFbA22",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped Gen 0",
+            "symbol": "WG0",
+            "address": "0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057",
+            "decimals": 18
         }
     ]
 }
