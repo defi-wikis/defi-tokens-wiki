@@ -3,7 +3,7 @@
     "timestamp": "2020-09-23T13:54:54.955Z",
     "version": {
         "major": 1,
-        "minor": 2398,
+        "minor": 2399,
         "patch": 0
     },
     "keywords": [
@@ -15522,6 +15522,13 @@
             "name": "YOINK",
             "symbol": "YNK",
             "address": "0x87C00817ABe35eD4C093e59043fae488238d2F74",
+            "decimals": 18
+        },
+                {
+            "chainId": 1,
+            "name": "Project Laya",
+            "symbol": "AYA",
+            "address": "0x70538834e68efe5061a11c4999fc050e55ae2b68",
             "decimals": 18
         }
     ]
