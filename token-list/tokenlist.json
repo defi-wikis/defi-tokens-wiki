@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T15:15:14.343Z",
+    "timestamp": "2020-09-23T15:24:44.937Z",
     "version": {
         "major": 1,
-        "minor": 2409,
+        "minor": 2410,
         "patch": 0
     },
     "keywords": [
@@ -15593,6 +15593,13 @@
             "name": "Combine Token @ combine.finance",
             "symbol": "COMB",
             "address": "0x1c4DA058095D614cf87d36c8F695F8F2EE7954Ff",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuygun.com",
+            "symbol": "$GUN",
+            "address": "0x2D1b6886A6Dc7dE805dF22E73A21dcdF1F56020B",
             "decimals": 18
         }
     ]
