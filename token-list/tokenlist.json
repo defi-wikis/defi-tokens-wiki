@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T17:43:35.094Z",
+    "timestamp": "2020-09-23T17:51:49.576Z",
     "version": {
         "major": 1,
-        "minor": 2435,
+        "minor": 2436,
         "patch": 0
     },
     "keywords": [
@@ -15775,6 +15775,13 @@
             "name": "BANANAFORAPES",
             "symbol": "BANA",
             "address": "0xE6f49DA15E4AC241f8fe4c142812E8a53a7031a4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuybomb.com",
+            "symbol": "$BOMB",
+            "address": "0xc2DA6e42Ec6dc74b537ECbDcBfD174E164C3bD07",
             "decimals": 18
         }
     ]
