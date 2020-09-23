@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T14:48:20.084Z",
+    "timestamp": "2020-09-23T14:53:10.387Z",
     "version": {
         "major": 1,
-        "minor": 2403,
+        "minor": 2404,
         "patch": 0
     },
     "keywords": [
@@ -15551,6 +15551,13 @@
             "name": "ThirdFloorToken",
             "symbol": "TFT",
             "address": "0xBdDa9670Bc2a672c36ccE0102ce8C69B12E9deE3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0xBb2b8038a1640196FbE3e38816F3e67Cba72D940",
             "decimals": 18
         }
     ]
