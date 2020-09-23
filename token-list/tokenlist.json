@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:26:50.101Z",
+    "timestamp": "2020-09-23T18:29:20.540Z",
     "version": {
         "major": 1,
-        "minor": 2442,
+        "minor": 2443,
         "patch": 0
     },
     "keywords": [
@@ -15824,6 +15824,13 @@
             "name": "Pluton Blogging Network",
             "symbol": "PBN",
             "address": "0x80f7415DAC9A37E168047eB56A25032B5fe216CC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IceTea.Network",
+            "symbol": "ITN",
+            "address": "0x4db89344b9233Bb618a2Ad1f024753b890D74228",
             "decimals": 18
         }
     ]
