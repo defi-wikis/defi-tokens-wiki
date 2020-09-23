@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:58:15.652Z",
+    "timestamp": "2020-09-23T19:00:30.326Z",
     "version": {
         "major": 1,
-        "minor": 2447,
+        "minor": 2448,
         "patch": 0
     },
     "keywords": [
@@ -15859,6 +15859,13 @@
             "name": "YFF Farm",
             "symbol": "YFF",
             "address": "0xCa8F646e000e12B67990A6965a7e336b4E556070",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZEN token @ zengarden.finance",
+            "symbol": "ZEN",
+            "address": "0x58dF2248a7EA6A6E5910Ae783dd82548CE13e995",
             "decimals": 18
         }
     ]
