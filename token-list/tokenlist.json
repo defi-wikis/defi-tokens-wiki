@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:06:49.708Z",
+    "timestamp": "2020-09-23T07:07:29.465Z",
     "version": {
         "major": 1,
-        "minor": 2335,
+        "minor": 2336,
         "patch": 0
     },
     "keywords": [
@@ -15081,6 +15081,13 @@
             "name": "BETTING 4 FUEL",
             "symbol": "BET4",
             "address": "0xeb6a9769A43A80147b2A59052f3004c34aB147BA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MANY",
+            "symbol": "MANY",
+            "address": "0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
             "decimals": 18
         }
     ]
