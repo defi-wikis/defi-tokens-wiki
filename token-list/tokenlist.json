@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T02:00:54.376Z",
+    "timestamp": "2020-09-23T02:00:59.713Z",
     "version": {
         "major": 1,
-        "minor": 2312,
+        "minor": 2313,
         "patch": 0
     },
     "keywords": [
@@ -14921,6 +14921,13 @@
             "symbol": "rTLP",
             "address": "0xf7070F533932B495ac859E910373d9f7Bdf9569F",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "chuiniubi",
+            "symbol": "CNB",
+            "address": "0xc5a138603C037cf52AFb121339064436360f08da",
+            "decimals": 18
         }
     ]
 }
