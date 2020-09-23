@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T03:43:49.348Z",
+    "timestamp": "2020-09-23T03:44:34.439Z",
     "version": {
         "major": 1,
-        "minor": 2319,
+        "minor": 2320,
         "patch": 0
     },
     "keywords": [
@@ -14969,6 +14969,13 @@
             "name": "unilend.finance",
             "symbol": "UFT",
             "address": "0x9e8B680F1c4d494a042fc679C9173B2263a2e391",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "扯犊子",
+            "symbol": "CDZ",
+            "address": "0x483aaEbf6675c14B16b374D747e454791c26468F",
             "decimals": 18
         }
     ]
