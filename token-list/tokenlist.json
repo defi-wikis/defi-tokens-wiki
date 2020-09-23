@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:36:10.216Z",
+    "timestamp": "2020-09-23T18:36:35.668Z",
     "version": {
         "major": 1,
-        "minor": 2444,
+        "minor": 2445,
         "patch": 0
     },
     "keywords": [
@@ -15838,6 +15838,13 @@
             "name": "Bondly.Finance",
             "symbol": "BONDLY",
             "address": "0x8AdB4c7Febb324468519B7a4Dc1F5d47d812c467",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.finance cash",
+            "symbol": "YFI CASH",
+            "address": "0x03e8f56ad0D759BCFfF960863388Bfdb2efD1579",
             "decimals": 18
         }
     ]
