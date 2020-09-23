@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:38:25.125Z",
+    "timestamp": "2020-09-23T11:40:30.144Z",
     "version": {
         "major": 1,
-        "minor": 2376,
+        "minor": 2377,
         "patch": 0
     },
     "keywords": [
@@ -15368,6 +15368,13 @@
             "name": "icetea.finance",
             "symbol": "ICET",
             "address": "0x63565f559b094C81eeB01BF8B1afA58bE991D7Eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sparkster",
+            "symbol": "SPRK",
+            "address": "0x80a740C8FFa28C8C2c3f1fc8b6c1A0A442212E71",
             "decimals": 18
         }
     ]
