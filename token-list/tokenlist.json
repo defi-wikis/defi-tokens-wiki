@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T22:51:10.229Z",
+    "timestamp": "2020-09-23T23:09:35.317Z",
     "version": {
         "major": 1,
-        "minor": 2472,
+        "minor": 2473,
         "patch": 0
     },
     "keywords": [
@@ -16034,6 +16034,13 @@
             "name": "Floss.Finance",
             "symbol": "FLOSS",
             "address": "0x1265913722BEF28a93C3AA5bE223606d8389B1Da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Stabilize Token",
+            "symbol": "STBZ",
+            "address": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
             "decimals": 18
         }
     ]
