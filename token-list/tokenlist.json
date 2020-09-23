@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:47:20.129Z",
+    "timestamp": "2020-09-23T18:58:15.652Z",
     "version": {
         "major": 1,
-        "minor": 2446,
+        "minor": 2447,
         "patch": 0
     },
     "keywords": [
@@ -15852,6 +15852,13 @@
             "name": "CryptoBet",
             "symbol": "CBET",
             "address": "0x35dd2ebf20746C6e658fac75cd80D4722fae62f6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFF Farm",
+            "symbol": "YFF",
+            "address": "0xCa8F646e000e12B67990A6965a7e336b4E556070",
             "decimals": 18
         }
     ]
