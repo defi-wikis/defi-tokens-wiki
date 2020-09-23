@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:09:14.912Z",
+    "timestamp": "2020-09-23T11:16:16.584Z",
     "version": {
         "major": 1,
-        "minor": 2370,
+        "minor": 2371,
         "patch": 0
     },
     "keywords": [
@@ -15327,6 +15327,13 @@
             "symbol": "MEDX",
             "address": "0x07055b86840C83c9f0875b8658967cc81B50D333",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "MUCH",
+            "symbol": "MUCH",
+            "address": "0x5f9565eA3F5a3CE956702608310DB548469665a0",
+            "decimals": 0
         }
     ]
 }
