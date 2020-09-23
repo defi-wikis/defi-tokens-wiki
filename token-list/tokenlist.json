@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:33:06.195Z",
+    "timestamp": "2020-09-23T13:35:09.847Z",
     "version": {
         "major": 1,
-        "minor": 2391,
+        "minor": 2392,
         "patch": 0
     },
     "keywords": [
@@ -15474,6 +15474,13 @@
             "symbol": "BLUE",
             "address": "0xE167Ea5C79ED3C991871569A80FdF0B345492aa0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Omega Finance",
+            "symbol": "OMEGA",
+            "address": "0xb1BE03247196E622282B8715bef89E94506fDe15",
+            "decimals": 12
         }
     ]
 }
