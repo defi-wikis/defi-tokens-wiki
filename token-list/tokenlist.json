@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T17:51:49.576Z",
+    "timestamp": "2020-09-23T17:55:06.949Z",
     "version": {
         "major": 1,
-        "minor": 2436,
+        "minor": 2437,
         "patch": 0
     },
     "keywords": [
@@ -15782,6 +15782,13 @@
             "name": "dontbuybomb.com",
             "symbol": "$BOMB",
             "address": "0xc2DA6e42Ec6dc74b537ECbDcBfD174E164C3bD07",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WhalesburgToken",
+            "symbol": "WBT",
+            "address": "0xe2Ee1ac57B2E5564522b2dE064A47b3f98B0e9c9",
             "decimals": 18
         }
     ]
