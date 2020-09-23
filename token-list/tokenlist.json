@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T22:37:14.903Z",
+    "timestamp": "2020-09-23T22:42:15.689Z",
     "version": {
         "major": 1,
-        "minor": 2469,
+        "minor": 2470,
         "patch": 0
     },
     "keywords": [
@@ -16014,6 +16014,13 @@
             "symbol": "$UNIMEME",
             "address": "0x7206579D60e985928098Ea8fF8773C66788A9cdc",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Frinkcoin",
+            "symbol": "FRNK",
+            "address": "0xf938c9A22C6Fc9e6b81b24b68dB94B92dc4a7976",
+            "decimals": 8
         }
     ]
 }
