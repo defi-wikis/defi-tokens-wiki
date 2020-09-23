@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T01:28:29.678Z",
+    "timestamp": "2020-09-23T01:31:34.716Z",
     "version": {
         "major": 1,
-        "minor": 2308,
+        "minor": 2309,
         "patch": 0
     },
     "keywords": [
@@ -14893,6 +14893,13 @@
             "symbol": "RAS",
             "address": "0x6420A10A763dB3E0f3B8EB501Ba9c6153619410b",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "1-USD Finance",
+            "symbol": "1USDF",
+            "address": "0x878bd6dBD9A4Ac3f8420f6A9Abd3e8813721E63E",
+            "decimals": 1
         }
     ]
 }
