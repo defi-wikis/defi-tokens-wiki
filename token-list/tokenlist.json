@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T07:36:24.515Z",
+    "timestamp": "2020-09-23T07:37:59.798Z",
     "version": {
         "major": 1,
-        "minor": 2340,
+        "minor": 2341,
         "patch": 0
     },
     "keywords": [
@@ -15116,6 +15116,13 @@
             "name": "ZUN",
             "symbol": "ZuniSwap",
             "address": "0x44c7762129D6ea71C76F32b5E92f4FE709fe7E86",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SideShift Token",
+            "symbol": "XAI",
+            "address": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
             "decimals": 18
         }
     ]
