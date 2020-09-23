@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:03:35.067Z",
+    "timestamp": "2020-09-23T13:07:24.704Z",
     "version": {
         "major": 1,
-        "minor": 2387,
+        "minor": 2388,
         "patch": 0
     },
     "keywords": [
@@ -15445,6 +15445,13 @@
             "name": "Hayek",
             "symbol": "HYK",
             "address": "0x53B9C60B55BC1F5B3cB399Cc44F704C47F2C5FC1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFTfarm.net",
+            "symbol": "NFTfarm",
+            "address": "0x29a10390DAfA39fd88f18404e4293b7e72Efd59f",
             "decimals": 18
         }
     ]
