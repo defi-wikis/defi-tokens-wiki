@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:42:44.923Z",
+    "timestamp": "2020-09-23T13:42:49.693Z",
     "version": {
         "major": 1,
-        "minor": 2394,
+        "minor": 2395,
         "patch": 0
     },
     "keywords": [
@@ -15495,6 +15495,13 @@
             "symbol": "DYD",
             "address": "0xe9AfF5b088eea48FA3d470d4270f9E197249d105",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped Leo",
+            "symbol": "WLEO",
+            "address": "0x352c0F76Cfd34Ab3A2724ef67F46cf4D3f61192B",
+            "decimals": 3
         }
     ]
 }
