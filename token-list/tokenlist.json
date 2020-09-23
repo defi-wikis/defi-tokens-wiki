@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T19:43:50.177Z",
+    "timestamp": "2020-09-23T20:12:10.059Z",
     "version": {
         "major": 1,
-        "minor": 2452,
+        "minor": 2453,
         "patch": 0
     },
     "keywords": [
@@ -15894,6 +15894,13 @@
             "name": "WOM Token",
             "symbol": "WOM",
             "address": "0xa982B2e19e90b2D9F7948e9C1b65D119F1CE88D6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bennycoin",
+            "symbol": "BEN",
+            "address": "0xe1618Ad65964da3a4F44CB70723D6c6dD6d839C2",
             "decimals": 18
         }
     ]
