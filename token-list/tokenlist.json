@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T01:31:34.716Z",
+    "timestamp": "2020-09-23T01:49:06.475Z",
     "version": {
         "major": 1,
-        "minor": 2309,
+        "minor": 2310,
         "patch": 0
     },
     "keywords": [
@@ -14900,6 +14900,13 @@
             "symbol": "1USDF",
             "address": "0x878bd6dBD9A4Ac3f8420f6A9Abd3e8813721E63E",
             "decimals": 1
+        },
+        {
+            "chainId": 1,
+            "name": "ScissorsToken",
+            "symbol": "SCISSORS",
+            "address": "0x6c4Eb967C853ba717bF09007483E6249feF0e07A",
+            "decimals": 18
         }
     ]
 }
