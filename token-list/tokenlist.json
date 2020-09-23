@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T09:19:49.877Z",
+    "timestamp": "2020-09-23T09:29:49.342Z",
     "version": {
         "major": 1,
-        "minor": 2355,
+        "minor": 2356,
         "patch": 0
     },
     "keywords": [
@@ -15222,6 +15222,13 @@
             "symbol": "DXYZ",
             "address": "0x7eB248eAa1597781c9fbEBf154B3066Cf88aC851",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Leonid Korobov Token",
+            "symbol": "ASI",
+            "address": "0x5Ef3347c34C69D5C6E0b25233a7b259EF34C1103",
+            "decimals": 4
         }
     ]
 }
