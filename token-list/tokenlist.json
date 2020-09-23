@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T18:29:20.540Z",
+    "timestamp": "2020-09-23T18:36:10.216Z",
     "version": {
         "major": 1,
-        "minor": 2443,
+        "minor": 2444,
         "patch": 0
     },
     "keywords": [
@@ -15831,6 +15831,13 @@
             "name": "IceTea.Network",
             "symbol": "ITN",
             "address": "0x4db89344b9233Bb618a2Ad1f024753b890D74228",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bondly.Finance",
+            "symbol": "BONDLY",
+            "address": "0x8AdB4c7Febb324468519B7a4Dc1F5d47d812c467",
             "decimals": 18
         }
     ]
