@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:35:02.371Z",
+    "timestamp": "2020-09-23T11:37:44.593Z",
     "version": {
         "major": 1,
-        "minor": 2374,
+        "minor": 2375,
         "patch": 0
     },
     "keywords": [
@@ -15354,6 +15354,13 @@
             "name": "MUCH",
             "symbol": "MUCH",
             "address": "0x8638cb1eC477Cb0042E6202b19171404bad8d6fC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mana",
+            "symbol": "MANA",
+            "address": "0xB37f21CB50f3551bf2A711D45E7eFf8D3dA88abb",
             "decimals": 18
         }
     ]
