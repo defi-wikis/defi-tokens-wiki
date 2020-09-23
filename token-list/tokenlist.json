@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:30:50.024Z",
+    "timestamp": "2020-09-23T16:31:06.562Z",
     "version": {
         "major": 1,
-        "minor": 2421,
+        "minor": 2422,
         "patch": 0
     },
     "keywords": [
@@ -15677,6 +15677,13 @@
             "name": "SnowSwap yDAI/yUSDC/yUSDT/yTUSD",
             "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
             "address": "0x173f8ee61C0FE712caE2a2fc8d5c0ccDDa57E6dA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Millionaire Club Token",
+            "symbol": "MCT",
+            "address": "0x39A97cb3dcdc51699bb7925895132De744FaAC17",
             "decimals": 18
         }
     ]
