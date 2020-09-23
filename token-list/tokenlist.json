@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T13:17:10.241Z",
+    "timestamp": "2020-09-23T13:33:06.195Z",
     "version": {
         "major": 1,
-        "minor": 2390,
+        "minor": 2391,
         "patch": 0
     },
     "keywords": [
@@ -15466,6 +15466,13 @@
             "name": "SashiToken",
             "symbol": "SASHI",
             "address": "0x0FE5dA8828f7F2dFa5cdf181461E0f2039d765f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "blue.protocol",
+            "symbol": "BLUE",
+            "address": "0xE167Ea5C79ED3C991871569A80FdF0B345492aa0",
             "decimals": 18
         }
     ]
