@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:33:14.304Z",
+    "timestamp": "2020-09-23T00:34:59.424Z",
     "version": {
         "major": 1,
-        "minor": 2301,
+        "minor": 2302,
         "patch": 0
     },
     "keywords": [
@@ -14843,6 +14843,13 @@
             "name": "Garden Of Eden, Price is Celestial",
             "symbol": "EDEN",
             "address": "0x4E82a579C8A62cd75190b7B513aCaE356159d182",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "memes",
+            "symbol": "MEMES",
+            "address": "0x2385769fc7b9447960120Af845341a803Ca78561",
             "decimals": 18
         }
     ]
