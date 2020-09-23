@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T00:34:59.424Z",
+    "timestamp": "2020-09-23T00:35:59.216Z",
     "version": {
         "major": 1,
-        "minor": 2302,
+        "minor": 2303,
         "patch": 0
     },
     "keywords": [
@@ -14850,6 +14850,13 @@
             "name": "memes",
             "symbol": "MEMES",
             "address": "0x2385769fc7b9447960120Af845341a803Ca78561",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Im-Satoshi-Nakamoto",
+            "symbol": "ISN",
+            "address": "0x4f6Ed396342d1AB651dE65488dc3e2F0A64Ea387",
             "decimals": 18
         }
     ]
