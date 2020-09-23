@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T02:21:39.866Z",
+    "timestamp": "2020-09-23T02:48:14.544Z",
     "version": {
         "major": 1,
-        "minor": 2314,
+        "minor": 2315,
         "patch": 0
     },
     "keywords": [
@@ -14934,6 +14934,13 @@
             "name": "S FINANCE",
             "symbol": "SFI",
             "address": "0x07aB5a100F946A10Be86F53CA6A0fD1486810C8d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YfKey-Token",
+            "symbol": "YFK",
+            "address": "0xF19bF6Ff06e7aa00450085F8A6bd7e8fD2d74536",
             "decimals": 18
         }
     ]
