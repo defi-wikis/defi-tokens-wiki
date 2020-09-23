@@ -1,77 +1,81 @@
 {
-  "stablecoin": {
-    "name": "Stablecoin",
-    "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
-    "emoji": "💵"
-  },
-  "yield-farming": {
-    "name": "Yield Farming",
-    "description": "Tokens that are doled out as rewards for providing liquidity to protocols",
-    "emoji": "🌾"
-  },
-  "yfi-inspired": {
-    "name": "YFI Inspired",
-    "description": "Tokens either associated with or inspired by the yEarn ecosystem",
-    "emoji": "💡"
-  },
-  "amm": {
-    "name": "Automated Market Maker",
-    "descriptions": "Tokens that govern on-chain automated market makers",
-    "emoji": "🤖"
-  },
-  "synthetics": {
-    "name": "Synthetics",
-    "description": "Synthetic assets created to track the value of another asset",
-    "emoji": "🧪"
-  },
-  "token-sets": {
-    "name": "TokenSets",
-    "description": "Token indices composed within Set Protocol",
-    "emoji": "🧺"
-  },
-  "options": {
-    "name": "Options",
-    "description": "Tokens that trustlessly recreate decentralized options contracts on other assets",
-    "emoji": "🤞"
-  },
-  "a16z": {
-    "name": "A16Z",
-    "description": "Tokens backed by Andreesen-Horrowitz",
-    "emoji": "🏗️"
-  },
-  "polychain": {
-    "name": "Polychain",
-    "description": "Tokens backed by Polychain",
-    "emoji": "⛓️"
-  },
-  "paradigm": {
-    "name": "Paradigm",
-    "description": "Tokens backed by Paradigm",
-    "emoji": "🔮"
-  },
-  "nft": {
-      "name": "NFT",
-      "description": "Non-fungible tokens or tokens associated with the NFT ecosystem.",
-      "emoji": "🖼"
-  },
-  "scaling": {
-      "name": "Scaling",
-      "description": "Tokens associated with systems for scaling the Ethereum blockchain",
-      "emoji": "🏎"
-  },
-  "daos": {
-      "name": "DAOs",
-      "description": "Tokens that govern decentralized autonomous organizations (DAOs)",
-      "emoji": "🏛"
-  },
-  "yield-bearing": {
-      "name": "Yield-Bearing",
-      "description": "Assets that are wrappers around other tokens earning yield in a DeFi system",
-      "emoji": "📈"
-  },
-  "payments": {
-    "name": "Payments",
-    "description": "Tokens that enable real-world payments for digital assets",
-    "emoji": "🛒"
-  }
+    "stablecoin": {
+        "name": "Stablecoin",
+        "description": "Tokens that are fixed to an external asset, e.g. the US dollar",
+        "emoji": "💵"
+    },
+    "yield-farming": {
+        "name": "Yield Farming",
+        "description": "Tokens that are doled out as rewards for providing liquidity to protocols",
+        "emoji": "🌾"
+    },
+    "yfi-inspired": {
+        "name": "YFI Inspired",
+        "description": "Tokens either associated with or inspired by the yEarn ecosystem",
+        "emoji": "💡"
+    },
+    "amm": {
+        "name": "Automated Market Maker",
+        "descriptions": "Tokens that govern on-chain automated market makers",
+        "emoji": "🤖"
+    },
+    "synthetics": {
+        "name": "Synthetics",
+        "description": "Synthetic assets created to track the value of another asset",
+        "emoji": "🧪"
+    },
+    "token-sets": {
+        "name": "TokenSets",
+        "description": "Token indices composed within Set Protocol",
+        "emoji": "🧺"
+    },
+    "options": {
+        "name": "Options",
+        "description": "Tokens that trustlessly recreate decentralized options contracts on other assets",
+        "emoji": "🤞"
+    },
+    "a16z": {
+        "name": "A16Z",
+        "description": "Tokens backed by Andreesen-Horrowitz",
+        "emoji": "🏗️"
+    },
+    "polychain": {
+        "name": "Polychain",
+        "description": "Tokens backed by Polychain",
+        "emoji": "⛓️"
+    },
+    "paradigm": {
+        "name": "Paradigm",
+        "description": "Tokens backed by Paradigm",
+        "emoji": "🔮"
+    },
+    "nft": {
+        "name": "NFT",
+        "description": "Non-fungible tokens or tokens associated with the NFT ecosystem.",
+        "emoji": "🖼"
+    },
+    "scaling": {
+        "name": "Scaling",
+        "description": "Tokens associated with systems for scaling the Ethereum blockchain",
+        "emoji": "🏎"
+    },
+    "daos": {
+        "name": "DAOs",
+        "description": "Tokens that govern decentralized autonomous organizations (DAOs)",
+        "emoji": "🏛"
+    },
+    "yield-bearing": {
+        "name": "Yield-Bearing",
+        "description": "Assets that are wrappers around other tokens earning yield in a DeFi system",
+        "emoji": "📈"
+    },
+    "payments": {
+        "name": "Payments",
+        "description": "Tokens that enable real-world payments for digital assets",
+        "emoji": "🛒"
+    },
+    "defi": {
+        "name": "Defi",
+        "description": null
+    }
 }
