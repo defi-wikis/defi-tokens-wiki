@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T11:37:44.593Z",
+    "timestamp": "2020-09-23T11:38:25.125Z",
     "version": {
         "major": 1,
-        "minor": 2375,
+        "minor": 2376,
         "patch": 0
     },
     "keywords": [
@@ -15361,6 +15361,13 @@
             "name": "Mana",
             "symbol": "MANA",
             "address": "0xB37f21CB50f3551bf2A711D45E7eFf8D3dA88abb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "icetea.finance",
+            "symbol": "ICET",
+            "address": "0x63565f559b094C81eeB01BF8B1afA58bE991D7Eb",
             "decimals": 18
         }
     ]
