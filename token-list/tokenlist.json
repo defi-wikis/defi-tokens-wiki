@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T10:41:14.210Z",
+    "timestamp": "2020-09-23T10:48:09.745Z",
     "version": {
         "major": 1,
-        "minor": 2366,
+        "minor": 2367,
         "patch": 0
     },
     "keywords": [
@@ -15298,6 +15298,13 @@
             "name": "NFT.Cards",
             "symbol": "NFTC",
             "address": "0x20E73F795828f61490395216C2504731632247d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nToken YFI",
+            "symbol": "nYFI",
+            "address": "0x9D1D90CfF88694B75735c605383d0d18Adf2Ff4B",
             "decimals": 18
         }
     ]
