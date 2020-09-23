@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T09:13:59.562Z",
+    "timestamp": "2020-09-23T09:15:24.608Z",
     "version": {
         "major": 1,
-        "minor": 2353,
+        "minor": 2354,
         "patch": 0
     },
     "keywords": [
@@ -15207,6 +15207,13 @@
             "name": "avocadoswap.com",
             "symbol": "AVO",
             "address": "0xb8e3Fd2D4539A9176d2236A7b27917222664316b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TOD",
+            "symbol": "todo.finance",
+            "address": "0x648b4fD82724433F58A4b36CA844bbFD61415348",
             "decimals": 18
         }
     ]
