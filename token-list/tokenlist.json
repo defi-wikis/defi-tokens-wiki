@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T16:37:08.057Z",
+    "timestamp": "2020-09-23T16:37:19.532Z",
     "version": {
         "major": 1,
-        "minor": 2423,
+        "minor": 2424,
         "patch": 0
     },
     "keywords": [
@@ -15691,6 +15691,13 @@
             "name": "PlotX.io",
             "symbol": "PLOT",
             "address": "0xb6F85f73DCfc7f15B792a85cac14fFeDDbC8e678",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SWAPS.NETWORK",
+            "symbol": "SWAP",
+            "address": "0xC958e9FB59724f8b0927426a8836F1158F0d03cf",
             "decimals": 18
         }
     ]
