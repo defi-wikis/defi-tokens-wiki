@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-23T23:50:50.136Z",
+    "timestamp": "2020-09-24T00:03:35.584Z",
     "version": {
         "major": 1,
-        "minor": 2484,
+        "minor": 2485,
         "patch": 0
     },
     "keywords": [
@@ -16118,6 +16118,13 @@
             "name": "Comfy",
             "symbol": "COMFY",
             "address": "0x3cbEF167626f0c5F46c6b91A6E38758189CfE4fA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xBTC",
+            "symbol": "XBTC",
+            "address": "0x0f23fcdab5d3D53cCA6EBEDF769B16E0bFeA331a",
             "decimals": 18
         }
     ]
