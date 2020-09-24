@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:25:10.037Z",
+    "timestamp": "2020-09-24T11:48:54.661Z",
     "version": {
         "major": 1,
-        "minor": 2593,
+        "minor": 2594,
         "patch": 0
     },
     "keywords": [
@@ -16882,6 +16882,13 @@
             "symbol": "GROW",
             "address": "0xE0008BB8a3c63b0762E9BCf2fc99b1Aa301c3460",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IceCreamSwap",
+            "symbol": "ICE",
+            "address": "0xc78627573efaFb143600502a815295515788572F",
+            "decimals": 8
         }
     ]
 }
