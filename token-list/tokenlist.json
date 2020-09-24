@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:08:54.654Z",
+    "timestamp": "2020-09-24T10:10:19.549Z",
     "version": {
         "major": 1,
-        "minor": 2581,
+        "minor": 2582,
         "patch": 0
     },
     "keywords": [
@@ -16797,6 +16797,13 @@
             "name": "SDogeToken",
             "symbol": "SDOGE",
             "address": "0xb25FEda5512445Aa4e481Add71731cD0cffF18C1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Donald",
+            "symbol": "yDON",
+            "address": "0xc732eA7fFfa34e25573a318bD9c2BC986939F972",
             "decimals": 18
         }
     ]
