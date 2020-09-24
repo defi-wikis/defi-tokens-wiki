@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:14:19.712Z",
+    "timestamp": "2020-09-24T07:24:54.583Z",
     "version": {
         "major": 1,
-        "minor": 2556,
+        "minor": 2557,
         "patch": 0
     },
     "keywords": [
@@ -16622,6 +16622,13 @@
             "name": "TomoChain",
             "symbol": "TOMOE",
             "address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BobaSwap",
+            "symbol": "BOBA",
+            "address": "0xD4D7196d1dfa44160C32A1773E3e7073c395818E",
             "decimals": 18
         }
     ]
