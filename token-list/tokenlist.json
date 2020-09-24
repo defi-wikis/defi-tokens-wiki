@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:44:19.587Z",
+    "timestamp": "2020-09-24T15:57:10.777Z",
     "version": {
         "major": 1,
-        "minor": 2634,
+        "minor": 2635,
         "patch": 0
     },
     "keywords": [
@@ -17165,6 +17165,13 @@
             "name": "NOPOLIEX",
             "symbol": "NPEX",
             "address": "0x00440CD01642Fe9b6DAF973001536ebdC28A1dE1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "H4X",
+            "symbol": "H4X",
+            "address": "0xFE354e0180FbA93D67E9766fB7B6C85130627124",
             "decimals": 18
         }
     ]
