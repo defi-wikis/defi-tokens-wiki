@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T21:18:34.587Z",
+    "timestamp": "2020-09-24T21:40:09.988Z",
     "version": {
         "major": 1,
-        "minor": 2663,
+        "minor": 2664,
         "patch": 0
     },
     "keywords": [
@@ -17368,6 +17368,13 @@
             "name": "PowerTrade",
             "symbol": "PTF",
             "address": "0x413d5891Ed2f20E1AEf1b6deA9B5D3280bb47224",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mushie.Finance",
+            "symbol": "MUSH",
+            "address": "0x923D6205575DaBaBaD610BE6A2A43C542af8e6de",
             "decimals": 18
         }
     ]
