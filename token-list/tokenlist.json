@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T19:42:44.561Z",
+    "timestamp": "2020-09-24T19:45:13.724Z",
     "version": {
         "major": 1,
-        "minor": 2652,
+        "minor": 2653,
         "patch": 0
     },
     "keywords": [
@@ -17291,6 +17291,13 @@
             "name": "Yuri Protocol",
             "symbol": "YURI",
             "address": "0x1B37bf0b28C79d48c6472276cB4701FcF4B1C6D1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GREENDILDO",
+            "symbol": "GDILDO",
+            "address": "0x235b55b197534526aE09fDb83Cc3d95259ca9C46",
             "decimals": 18
         }
     ]
