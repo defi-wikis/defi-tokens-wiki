@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:37:45.327Z",
+    "timestamp": "2020-09-24T09:43:02.089Z",
     "version": {
         "major": 1,
-        "minor": 2574,
+        "minor": 2575,
         "patch": 0
     },
     "keywords": [
@@ -16748,6 +16748,13 @@
             "name": "UD Coin",
             "symbol": "UDC",
             "address": "0x1378bfD46a7FfbcAE16C7Af06a6aF34281d0Ba7A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ICETEA FINANCE",
+            "symbol": "ICET",
+            "address": "0xC2344343764B8CD3C2cFd1c880b3AAEBAA0422Da",
             "decimals": 18
         }
     ]
