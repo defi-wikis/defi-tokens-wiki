@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T17:58:59.910Z",
+    "timestamp": "2020-09-24T18:05:02.239Z",
     "version": {
         "major": 1,
-        "minor": 2645,
+        "minor": 2646,
         "patch": 0
     },
     "keywords": [
@@ -17242,6 +17242,13 @@
             "name": "Troll",
             "symbol": "TROLL",
             "address": "0x716E3cfB68254640cBC2c431a85Cb282b1076a67",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "reavive.com",
+            "symbol": "VIVE",
+            "address": "0x1f05275240bEcc70037323E49beF182E62fD1B36",
             "decimals": 18
         }
     ]
