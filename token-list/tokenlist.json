@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:02:34.717Z",
+    "timestamp": "2020-09-24T03:02:39.440Z",
     "version": {
         "major": 1,
-        "minor": 2515,
+        "minor": 2516,
         "patch": 0
     },
     "keywords": [
@@ -16335,6 +16335,13 @@
             "name": "Im Sato Nak",
             "symbol": "ISN",
             "address": "0x7417b8c8d91c46941CcC40EA88540A3060e4F8f0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NToken0031",
+            "symbol": "N0031",
+            "address": "0x075190c6130EA0a3A7E40802F1D77F4Ea8f38fE2",
             "decimals": 18
         }
     ]
