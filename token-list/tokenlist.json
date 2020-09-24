@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:03:35.584Z",
+    "timestamp": "2020-09-24T00:08:39.577Z",
     "version": {
         "major": 1,
-        "minor": 2485,
+        "minor": 2486,
         "patch": 0
     },
     "keywords": [
@@ -16125,6 +16125,13 @@
             "name": "xBTC",
             "symbol": "XBTC",
             "address": "0x0f23fcdab5d3D53cCA6EBEDF769B16E0bFeA331a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nyan Token",
+            "symbol": "NYAN",
+            "address": "0xFDafaDeC5CA221445d0c5006bc7a395675F05662",
             "decimals": 18
         }
     ]
