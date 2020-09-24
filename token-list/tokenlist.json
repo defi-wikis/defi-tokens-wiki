@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T22:52:20.109Z",
+    "timestamp": "2020-09-24T22:58:30.270Z",
     "version": {
         "major": 1,
-        "minor": 2668,
+        "minor": 2669,
         "patch": 0
     },
     "keywords": [
@@ -17403,6 +17403,13 @@
             "name": "Rubic.finance",
             "symbol": "RBC",
             "address": "0x71289140Cfd7c59204fdA8774783400db6c5e9BE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BRACK",
+            "symbol": "BCK",
+            "address": "0xbf453394548b25E0115f38832F2BF752cef3dF0f",
             "decimals": 18
         }
     ]
