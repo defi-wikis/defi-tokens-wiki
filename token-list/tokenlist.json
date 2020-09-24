@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:43:59.408Z",
+    "timestamp": "2020-09-24T05:50:19.815Z",
     "version": {
         "major": 1,
-        "minor": 2544,
+        "minor": 2545,
         "patch": 0
     },
     "keywords": [
@@ -16538,6 +16538,13 @@
             "name": "TomatoDefi.finance",
             "symbol": "TOMATO",
             "address": "0x65b05Ecf3eb2CA8Ff3efe5BA87c9466E3c33d95f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuybow.com",
+            "symbol": "$BOW",
+            "address": "0x3dA3827b7bba2cFFa84eEc1719FC7148C2463Ffd",
             "decimals": 18
         }
     ]
