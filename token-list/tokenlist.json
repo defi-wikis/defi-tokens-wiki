@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:57:02.044Z",
+    "timestamp": "2020-09-24T08:09:09.942Z",
     "version": {
         "major": 1,
-        "minor": 2561,
+        "minor": 2562,
         "patch": 0
     },
     "keywords": [
@@ -16657,6 +16657,13 @@
             "name": "NotImportantToken",
             "symbol": "NIT",
             "address": "0x8B904244932a11d7E2C4c9EEa8e3A8E0Cd3a53C2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bidao",
+            "symbol": "BID",
+            "address": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
             "decimals": 18
         }
     ]
