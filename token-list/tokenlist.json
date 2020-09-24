@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T21:03:15.172Z",
+    "timestamp": "2020-09-24T21:13:07.859Z",
     "version": {
         "major": 1,
-        "minor": 2660,
+        "minor": 2661,
         "patch": 0
     },
     "keywords": [
@@ -17348,6 +17348,13 @@
             "symbol": "FRUIT",
             "address": "0x7E34D1CFdBb7919600971e7F1B247D6bDDBAc641",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bones",
+            "symbol": "BONES",
+            "address": "0x3A75731f9e16244dE01DD431636Db7c07D42A166",
+            "decimals": 4
         }
     ]
 }
