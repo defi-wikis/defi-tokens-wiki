@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T08:24:44.319Z",
+    "timestamp": "2020-09-24T08:27:54.762Z",
     "version": {
         "major": 1,
-        "minor": 2564,
+        "minor": 2565,
         "patch": 0
     },
     "keywords": [
@@ -16678,6 +16678,13 @@
             "name": "xBTC",
             "symbol": "XBTC",
             "address": "0x026B8D2edDa7882B0612607dC0a31a1bBC1a9E1c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ICETEA.FINANCE",
+            "symbol": "ICETEA",
+            "address": "0x0aF51384f8929D7b2991472D5443E7e4819CDbF1",
             "decimals": 18
         }
     ]
