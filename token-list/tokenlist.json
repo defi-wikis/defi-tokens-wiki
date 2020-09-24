@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:51:05.763Z",
+    "timestamp": "2020-09-24T11:52:59.287Z",
     "version": {
         "major": 1,
-        "minor": 2596,
+        "minor": 2597,
         "patch": 0
     },
     "keywords": [
@@ -16902,6 +16902,13 @@
             "name": "deficopper.com V2",
             "symbol": "DCOP2",
             "address": "0xA93f7BB3676AeF570a4fdD797dC753b252423F73",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Modularity.Network",
+            "symbol": "MNU",
+            "address": "0x395D317Ba0156f417224a73b945c870a34F939DD",
             "decimals": 18
         }
     ]
