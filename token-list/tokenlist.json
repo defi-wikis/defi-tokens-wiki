@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T22:58:30.270Z",
+    "timestamp": "2020-09-24T22:58:55.236Z",
     "version": {
         "major": 1,
-        "minor": 2669,
+        "minor": 2670,
         "patch": 0
     },
     "keywords": [
@@ -17410,6 +17410,13 @@
             "name": "BRACK",
             "symbol": "BCK",
             "address": "0xbf453394548b25E0115f38832F2BF752cef3dF0f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fish Token",
+            "symbol": "FISH",
+            "address": "0x60757088C7140E9e7Bc943632ee43A831f1112ac",
             "decimals": 18
         }
     ]
