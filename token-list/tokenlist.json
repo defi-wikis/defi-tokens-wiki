@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:37:02.146Z",
+    "timestamp": "2020-09-24T15:44:19.587Z",
     "version": {
         "major": 1,
-        "minor": 2633,
+        "minor": 2634,
         "patch": 0
     },
     "keywords": [
@@ -17158,6 +17158,13 @@
             "name": "Y2K Finance",
             "symbol": "Y2K",
             "address": "0x45DedF22641aC5902779904Ec3fB393E0F8DC8B6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NOPOLIEX",
+            "symbol": "NPEX",
+            "address": "0x00440CD01642Fe9b6DAF973001536ebdC28A1dE1",
             "decimals": 18
         }
     ]
