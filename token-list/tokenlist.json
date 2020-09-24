@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:19:35.114Z",
+    "timestamp": "2020-09-24T11:22:54.480Z",
     "version": {
         "major": 1,
-        "minor": 2591,
+        "minor": 2592,
         "patch": 0
     },
     "keywords": [
@@ -16867,6 +16867,13 @@
             "name": "Hotdogfi.club",
             "symbol": "HOTC",
             "address": "0x815a8B7ED1B6132E48CC03001491E78fF70cd940",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PowerTrade",
+            "symbol": "PFT",
+            "address": "0x96B59cC3e4B40B9C62F0A4B1d6dCe9ED4951Ff63",
             "decimals": 18
         }
     ]
