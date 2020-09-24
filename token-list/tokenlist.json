@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:39:34.902Z",
+    "timestamp": "2020-09-24T00:41:54.668Z",
     "version": {
         "major": 1,
-        "minor": 2489,
+        "minor": 2490,
         "patch": 0
     },
     "keywords": [
@@ -16153,6 +16153,13 @@
             "name": "xKAI Finance",
             "symbol": "XKAI",
             "address": "0xE37a0C89c17c5d3b14AE1e080F4E20b2b06898AF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YACHT",
+            "symbol": "YACHT",
+            "address": "0xC9Eb3389B20fd6Ab506a1a49b0382F8fEbd0c73F",
             "decimals": 18
         }
     ]
