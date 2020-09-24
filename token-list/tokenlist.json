@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:04:15.014Z",
+    "timestamp": "2020-09-24T10:04:50.029Z",
     "version": {
         "major": 1,
-        "minor": 2579,
+        "minor": 2580,
         "patch": 0
     },
     "keywords": [
@@ -16783,6 +16783,13 @@
             "name": "Arbitrage",
             "symbol": "ARB",
             "address": "0xb64e3888aE92a96EE182412A985B591Ff758fbAb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Smart Advertising Transition Token",
+            "symbol": "SATT",
+            "address": "0x48947710ee28AB17F833730B0ba22a46Bdc50a0E",
             "decimals": 18
         }
     ]
