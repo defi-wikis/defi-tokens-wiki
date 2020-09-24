@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:50:19.815Z",
+    "timestamp": "2020-09-24T05:56:49.055Z",
     "version": {
         "major": 1,
-        "minor": 2545,
+        "minor": 2546,
         "patch": 0
     },
     "keywords": [
@@ -16545,6 +16545,13 @@
             "name": "dontbuybow.com",
             "symbol": "$BOW",
             "address": "0x3dA3827b7bba2cFFa84eEc1719FC7148C2463Ffd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.BeFinance",
+            "symbol": "BEYFI",
+            "address": "0x1dB35215363d4eF2B9663C1cd425feE4b1752003",
             "decimals": 18
         }
     ]
