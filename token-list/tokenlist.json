@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:15:06.564Z",
+    "timestamp": "2020-09-24T10:31:14.936Z",
     "version": {
         "major": 1,
-        "minor": 2585,
+        "minor": 2586,
         "patch": 0
     },
     "keywords": [
@@ -16825,6 +16825,13 @@
             "name": "Smart Advertising Transition Token",
             "symbol": "SATT",
             "address": "0x3423083C821F37460531237C1a4f9617eA71306F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cozy.Finance",
+            "symbol": "COZY",
+            "address": "0x690F86935dB734Ab7232FbB52803B7A61faD1E17",
             "decimals": 18
         }
     ]
