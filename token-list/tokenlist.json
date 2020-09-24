@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T20:12:29.915Z",
+    "timestamp": "2020-09-24T20:22:59.351Z",
     "version": {
         "major": 1,
-        "minor": 2656,
+        "minor": 2657,
         "patch": 0
     },
     "keywords": [
@@ -17320,6 +17320,13 @@
             "symbol": "BASS",
             "address": "0x140b0DFEB471f53f2A0aE6e7C654c489C301AC50",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GLOBALTRUSTFUND Token",
+            "symbol": "GTF",
+            "address": "0x40F8b7A82b6355D26546D363ce9C12Ce104cf0Ce",
+            "decimals": 8
         }
     ]
 }
