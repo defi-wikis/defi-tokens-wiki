@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:06:24.658Z",
+    "timestamp": "2020-09-24T15:07:45.005Z",
     "version": {
         "major": 1,
-        "minor": 2627,
+        "minor": 2628,
         "patch": 0
     },
     "keywords": [
@@ -17116,6 +17116,13 @@
             "name": "NettleBank.Farm",
             "symbol": "NBF",
             "address": "0x0C085cBb1D03516469F69bb1dAd98aCF47b4DeA9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yieldwars.com",
+            "symbol": "WAR",
+            "address": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
             "decimals": 18
         }
     ]
