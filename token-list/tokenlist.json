@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T17:13:07.002Z",
+    "timestamp": "2020-09-24T17:58:59.910Z",
     "version": {
         "major": 1,
-        "minor": 2644,
+        "minor": 2645,
         "patch": 0
     },
     "keywords": [
@@ -17235,6 +17235,13 @@
             "name": "DecentralizeCurrency",
             "symbol": "DCA",
             "address": "0x18aa7c90d3ae4C5BB219d0a2813F441704084625",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Troll",
+            "symbol": "TROLL",
+            "address": "0x716E3cfB68254640cBC2c431a85Cb282b1076a67",
             "decimals": 18
         }
     ]
