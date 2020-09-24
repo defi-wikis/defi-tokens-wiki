@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:15:20.014Z",
+    "timestamp": "2020-09-24T01:21:20.035Z",
     "version": {
         "major": 1,
-        "minor": 2495,
+        "minor": 2496,
         "patch": 0
     },
     "keywords": [
@@ -16195,6 +16195,13 @@
             "name": "NFT.Protocol",
             "symbol": "NFT",
             "address": "0xCB71aa9A90c57b069eddbE4e7557dd970eE5e23F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SBF Tweets, Many Rebase ",
+            "symbol": "SBF",
+            "address": "0x2c9d7512dd4D68578b7728777B95478A288E0D93",
             "decimals": 18
         }
     ]
