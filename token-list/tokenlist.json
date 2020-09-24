@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T21:13:07.859Z",
+    "timestamp": "2020-09-24T21:17:14.479Z",
     "version": {
         "major": 1,
-        "minor": 2661,
+        "minor": 2662,
         "patch": 0
     },
     "keywords": [
@@ -17355,6 +17355,13 @@
             "symbol": "BONES",
             "address": "0x3A75731f9e16244dE01DD431636Db7c07D42A166",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "SaunaToken",
+            "symbol": "SAUNA",
+            "address": "0x0A75407486403c371CDE689DcB9507495Aa487C6",
+            "decimals": 18
         }
     ]
 }
