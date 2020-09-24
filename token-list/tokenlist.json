@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T14:10:59.749Z",
+    "timestamp": "2020-09-24T14:20:10.548Z",
     "version": {
         "major": 1,
-        "minor": 2617,
+        "minor": 2618,
         "patch": 0
     },
     "keywords": [
@@ -17049,6 +17049,13 @@
             "name": "WaykiChain",
             "symbol": "WICC",
             "address": "0xd373A32C6A5D04500FDeced28Dd6F0147b7b664D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dego Finance Token",
+            "symbol": "DEGO",
+            "address": "0x049fAb818c3893D8Bdc5c5Da3DCDf8B726B8fFde",
             "decimals": 18
         }
     ]
