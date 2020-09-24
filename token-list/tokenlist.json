@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:44:09.359Z",
+    "timestamp": "2020-09-24T03:46:14.366Z",
     "version": {
         "major": 1,
-        "minor": 2521,
+        "minor": 2522,
         "patch": 0
     },
     "keywords": [
@@ -16377,6 +16377,13 @@
             "name": "Microsoft",
             "symbol": "MCS",
             "address": "0xb0162064E44bCffD33dB1a469B40De3D26D22c94",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "apy.finance token",
+            "symbol": "APY",
+            "address": "0x6B7133E0a708b451B8c8A2b02e7107282D3D3b4d",
             "decimals": 18
         }
     ]
