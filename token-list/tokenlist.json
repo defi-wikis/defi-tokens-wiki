@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:38:40.383Z",
+    "timestamp": "2020-09-24T13:46:35.077Z",
     "version": {
         "major": 1,
-        "minor": 2613,
+        "minor": 2614,
         "patch": 0
     },
     "keywords": [
@@ -17021,6 +17021,13 @@
             "name": "dontbuy.gold",
             "symbol": "$GOLD",
             "address": "0xdf3314f0409030Fc7F2bC9C39FA852139889577d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Behodler.io",
+            "symbol": "EYE",
+            "address": "0x155ff1A85F440EE0A382eA949f24CE4E0b751c65",
             "decimals": 18
         }
     ]
