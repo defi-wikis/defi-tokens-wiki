@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:30:59.448Z",
+    "timestamp": "2020-09-24T05:34:19.507Z",
     "version": {
         "major": 1,
-        "minor": 2541,
+        "minor": 2542,
         "patch": 0
     },
     "keywords": [
@@ -16517,6 +16517,13 @@
             "name": "Pluton Blogging Network",
             "symbol": "PBN",
             "address": "0x5f9585043A1cDd583f6ED469f42839482b31ce0B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Im Sato Nakistr",
+            "symbol": "ISN",
+            "address": "0xFcAF31aaBAaA85adBdDcEe950C608Be8C96f0A47",
             "decimals": 18
         }
     ]
