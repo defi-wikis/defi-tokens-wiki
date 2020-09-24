@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T02:51:39.491Z",
+    "timestamp": "2020-09-24T03:02:34.717Z",
     "version": {
         "major": 1,
-        "minor": 2514,
+        "minor": 2515,
         "patch": 0
     },
     "keywords": [
@@ -16328,6 +16328,13 @@
             "name": "Cope",
             "symbol": "COPE",
             "address": "0xFbd937D457CBd4b9354B20D44C6B7f7D1a22d22C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Im Sato Nak",
+            "symbol": "ISN",
+            "address": "0x7417b8c8d91c46941CcC40EA88540A3060e4F8f0",
             "decimals": 18
         }
     ]
