@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T04:07:06.043Z",
+    "timestamp": "2020-09-24T04:13:59.494Z",
     "version": {
         "major": 1,
-        "minor": 2527,
+        "minor": 2528,
         "patch": 0
     },
     "keywords": [
@@ -16419,6 +16419,13 @@
             "name": "Andreea Finance",
             "symbol": "AND",
             "address": "0x2021F4207D97f643A506064aE4FFC2815b576556",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Steaua Finance",
+            "symbol": "STA",
+            "address": "0x25733E7b34AB7e9E6A7c576da6C5e5Df75076F6B",
             "decimals": 18
         }
     ]
