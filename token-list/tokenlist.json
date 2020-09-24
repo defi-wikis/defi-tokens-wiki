@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:43:02.089Z",
+    "timestamp": "2020-09-24T09:50:14.924Z",
     "version": {
         "major": 1,
-        "minor": 2575,
+        "minor": 2576,
         "patch": 0
     },
     "keywords": [
@@ -16755,6 +16755,13 @@
             "name": "ICETEA FINANCE",
             "symbol": "ICET",
             "address": "0xC2344343764B8CD3C2cFd1c880b3AAEBAA0422Da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Power.Trade",
+            "symbol": "PTF",
+            "address": "0x308950921071965f72A0d254497EcD48C910ceb4",
             "decimals": 18
         }
     ]
