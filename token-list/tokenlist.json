@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:57:10.777Z",
+    "timestamp": "2020-09-24T15:57:59.538Z",
     "version": {
         "major": 1,
-        "minor": 2635,
+        "minor": 2636,
         "patch": 0
     },
     "keywords": [
@@ -17173,6 +17173,13 @@
             "symbol": "H4X",
             "address": "0xFE354e0180FbA93D67E9766fB7B6C85130627124",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Limestone",
+            "symbol": "LIMEX",
+            "address": "0x400b1d8a7dd8C471026B2c8CBe1062b27d120538",
+            "decimals": 8
         }
     ]
 }
