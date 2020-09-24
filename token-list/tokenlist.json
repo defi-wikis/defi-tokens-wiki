@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T06:16:00.070Z",
+    "timestamp": "2020-09-24T06:17:19.639Z",
     "version": {
         "major": 1,
-        "minor": 2550,
+        "minor": 2551,
         "patch": 0
     },
     "keywords": [
@@ -16580,6 +16580,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x0Df411Cd73DD664237A8E67d43C3e13D6E7D2BFf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "the-NFT.farm",
+            "symbol": "NFTf",
+            "address": "0x67C7D5a99a979a9675f5ba602E8a6Ccf78a67cF0",
             "decimals": 18
         }
     ]
