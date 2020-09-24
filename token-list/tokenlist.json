@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:05:14.798Z",
+    "timestamp": "2020-09-24T07:14:19.712Z",
     "version": {
         "major": 1,
-        "minor": 2555,
+        "minor": 2556,
         "patch": 0
     },
     "keywords": [
@@ -16615,6 +16615,13 @@
             "name": "Chocolate Token",
             "symbol": "CHO",
             "address": "0x4fD9D7E72917eCA7CEAAf5Cf872A7D021C905dD1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TomoChain",
+            "symbol": "TOMOE",
+            "address": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
             "decimals": 18
         }
     ]
