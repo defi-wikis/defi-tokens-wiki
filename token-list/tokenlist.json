@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:04:44.615Z",
+    "timestamp": "2020-09-24T09:13:14.506Z",
     "version": {
         "major": 1,
-        "minor": 2568,
+        "minor": 2569,
         "patch": 0
     },
     "keywords": [
@@ -16706,6 +16706,13 @@
             "name": "Soda POP Finance",
             "symbol": "POP",
             "address": "0xF0a71fa72d8dE6B59A59e9521197e674EA18E5BA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pancakeswap.finance",
+            "symbol": "CAKE",
+            "address": "0x3f69C6Ae5e3635d94224258D5fCB2DBEe0E2DD33",
             "decimals": 18
         }
     ]
