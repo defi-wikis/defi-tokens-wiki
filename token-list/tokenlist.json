@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:48:54.661Z",
+    "timestamp": "2020-09-24T11:49:29.473Z",
     "version": {
         "major": 1,
-        "minor": 2594,
+        "minor": 2595,
         "patch": 0
     },
     "keywords": [
@@ -16889,6 +16889,13 @@
             "symbol": "ICE",
             "address": "0xc78627573efaFb143600502a815295515788572F",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Cherry.Finance",
+            "symbol": "CHR",
+            "address": "0x58B1C3fC7D8665d2f4BAAe6ACafF10c0D7dD6261",
+            "decimals": 18
         }
     ]
 }
