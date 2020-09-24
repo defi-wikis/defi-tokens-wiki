@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:54:49.229Z",
+    "timestamp": "2020-09-24T11:12:06.093Z",
     "version": {
         "major": 1,
-        "minor": 2589,
+        "minor": 2590,
         "patch": 0
     },
     "keywords": [
@@ -16853,6 +16853,13 @@
             "name": "Literally Useless Token",
             "symbol": "LUT",
             "address": "0x69e1D86fC8994551734d9A7E98A313CFE229fa88",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aureus Coin",
+            "symbol": "AUREUS",
+            "address": "0xf98f61A89E1A2c521229d1395d5Fbc39a4E58A9A",
             "decimals": 18
         }
     ]
