@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:51:54.710Z",
+    "timestamp": "2020-09-24T09:58:44.493Z",
     "version": {
         "major": 1,
-        "minor": 2577,
+        "minor": 2578,
         "patch": 0
     },
     "keywords": [
@@ -16769,6 +16769,13 @@
             "name": "Nyan Finance",
             "symbol": "NYAN",
             "address": "0xA51e266fFc962CE426F27e6ACBE1e6F85611E886",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiner",
+            "symbol": "FIN",
+            "address": "0x933714786a4B2EFbB68DAA3320bF2BEAA8049B90",
             "decimals": 18
         }
     ]
