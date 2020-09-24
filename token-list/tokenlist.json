@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T06:17:19.639Z",
+    "timestamp": "2020-09-24T06:23:01.962Z",
     "version": {
         "major": 1,
-        "minor": 2551,
+        "minor": 2552,
         "patch": 0
     },
     "keywords": [
@@ -16587,6 +16587,13 @@
             "name": "the-NFT.farm",
             "symbol": "NFTf",
             "address": "0x67C7D5a99a979a9675f5ba602E8a6Ccf78a67cF0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "teal.digital",
+            "symbol": "TEAT",
+            "address": "0x8B5F266FD46c31feA47e4b9a77dF392e9E6FecC2",
             "decimals": 18
         }
     ]
