@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:54:39.483Z",
+    "timestamp": "2020-09-24T10:54:49.229Z",
     "version": {
         "major": 1,
-        "minor": 2588,
+        "minor": 2589,
         "patch": 0
     },
     "keywords": [
@@ -16847,6 +16847,13 @@
             "symbol": "LBOO",
             "address": "0x16A7b202dF84751a4E281ba35f1a6550cf894738",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Literally Useless Token",
+            "symbol": "LUT",
+            "address": "0x69e1D86fC8994551734d9A7E98A313CFE229fa88",
+            "decimals": 18
         }
     ]
 }
