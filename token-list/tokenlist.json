@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:12:06.093Z",
+    "timestamp": "2020-09-24T11:19:35.114Z",
     "version": {
         "major": 1,
-        "minor": 2590,
+        "minor": 2591,
         "patch": 0
     },
     "keywords": [
@@ -16860,6 +16860,13 @@
             "name": "Aureus Coin",
             "symbol": "AUREUS",
             "address": "0xf98f61A89E1A2c521229d1395d5Fbc39a4E58A9A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hotdogfi.club",
+            "symbol": "HOTC",
+            "address": "0x815a8B7ED1B6132E48CC03001491E78fF70cd940",
             "decimals": 18
         }
     ]
