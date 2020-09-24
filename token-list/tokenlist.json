@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:31:14.936Z",
+    "timestamp": "2020-09-24T10:32:45.692Z",
     "version": {
         "major": 1,
-        "minor": 2586,
+        "minor": 2587,
         "patch": 0
     },
     "keywords": [
@@ -16833,6 +16833,13 @@
             "symbol": "COZY",
             "address": "0x690F86935dB734Ab7232FbB52803B7A61faD1E17",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Doom",
+            "symbol": "DOOM",
+            "address": "0xA4F9CEC920cA520a7FEB2c3A63050e08967bc111",
+            "decimals": 4
         }
     ]
 }
