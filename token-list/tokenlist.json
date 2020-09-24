@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:07:19.857Z",
+    "timestamp": "2020-09-24T13:11:49.993Z",
     "version": {
         "major": 1,
-        "minor": 2606,
+        "minor": 2607,
         "patch": 0
     },
     "keywords": [
@@ -16972,6 +16972,13 @@
             "name": "Yearn Finance Network",
             "symbol": "YFN",
             "address": "0xF596CDbf7766516447AFd5f79cB8D3A76A98bfa7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoinHunt Token",
+            "symbol": "CHT",
+            "address": "0xA7e6b2CE535b83E82ab598E9E432705F8d7CE929",
             "decimals": 18
         }
     ]
