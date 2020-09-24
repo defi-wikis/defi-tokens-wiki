@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:02:39.440Z",
+    "timestamp": "2020-09-24T03:06:39.636Z",
     "version": {
         "major": 1,
-        "minor": 2516,
+        "minor": 2517,
         "patch": 0
     },
     "keywords": [
@@ -16342,6 +16342,13 @@
             "name": "NToken0031",
             "symbol": "N0031",
             "address": "0x075190c6130EA0a3A7E40802F1D77F4Ea8f38fE2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Twitter",
+            "symbol": "TWT",
+            "address": "0xff5d87A910a55127aBf406B29d24D3CE66cAd19c",
             "decimals": 18
         }
     ]
