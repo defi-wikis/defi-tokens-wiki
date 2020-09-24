@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T12:45:07.729Z",
+    "timestamp": "2020-09-24T13:00:29.866Z",
     "version": {
         "major": 1,
-        "minor": 2603,
+        "minor": 2604,
         "patch": 0
     },
     "keywords": [
@@ -16951,6 +16951,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x4dF4d8B990C43DB1bAb8219E4b42eC815750f15e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "One Piece Token",
+            "symbol": "OPT",
+            "address": "0x7Ec83e6FD23D46D7160ff95f2aB5cBF8028AAc2F",
             "decimals": 18
         }
     ]
