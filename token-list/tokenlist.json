@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T16:27:39.780Z",
+    "timestamp": "2020-09-24T16:36:20.210Z",
     "version": {
         "major": 1,
-        "minor": 2640,
+        "minor": 2641,
         "patch": 0
     },
     "keywords": [
@@ -17207,6 +17207,13 @@
             "name": "BurnMeDaddy",
             "symbol": "BMD",
             "address": "0xbf90589931CC6a98C93fCA03778BCf2E5e3402BE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FANTA.FINANCE",
+            "symbol": "FANTA",
+            "address": "0xBf06035C31386d0D024895a97D0cc6eF6884854f",
             "decimals": 18
         }
     ]
