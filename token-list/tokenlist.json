@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T14:45:14.982Z",
+    "timestamp": "2020-09-24T14:46:34.621Z",
     "version": {
         "major": 1,
-        "minor": 2623,
+        "minor": 2624,
         "patch": 0
     },
     "keywords": [
@@ -17092,6 +17092,13 @@
             "symbol": "SUO",
             "address": "0x4a290E291A3417fEb2d54254553e15190434eed3",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "KoolAid",
+            "symbol": "KOOL",
+            "address": "0x9d695E811beb55c98b1B3668295e390d33dE5930",
+            "decimals": 18
         }
     ]
 }
