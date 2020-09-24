@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T14:46:34.621Z",
+    "timestamp": "2020-09-24T15:03:14.249Z",
     "version": {
         "major": 1,
-        "minor": 2624,
+        "minor": 2625,
         "patch": 0
     },
     "keywords": [
@@ -17098,6 +17098,13 @@
             "name": "KoolAid",
             "symbol": "KOOL",
             "address": "0x9d695E811beb55c98b1B3668295e390d33dE5930",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WHALE",
+            "symbol": "WHALE",
+            "address": "0x0A57f8eB6B2B7dA9158Ff312d69835a33fc52456",
             "decimals": 18
         }
     ]
