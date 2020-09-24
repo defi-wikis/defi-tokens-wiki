@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:35:39.353Z",
+    "timestamp": "2020-09-24T13:38:40.383Z",
     "version": {
         "major": 1,
-        "minor": 2612,
+        "minor": 2613,
         "patch": 0
     },
     "keywords": [
@@ -17015,6 +17015,13 @@
             "symbol": "SUP",
             "address": "0x10dA61E2B17bdf7A9C351D2d7DEbDcC562Db9b2c",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuy.gold",
+            "symbol": "$GOLD",
+            "address": "0xdf3314f0409030Fc7F2bC9C39FA852139889577d",
+            "decimals": 18
         }
     ]
 }
