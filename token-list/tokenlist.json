@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T06:23:01.962Z",
+    "timestamp": "2020-09-24T07:01:24.853Z",
     "version": {
         "major": 1,
-        "minor": 2552,
+        "minor": 2553,
         "patch": 0
     },
     "keywords": [
@@ -16594,6 +16594,13 @@
             "name": "teal.digital",
             "symbol": "TEAT",
             "address": "0x8B5F266FD46c31feA47e4b9a77dF392e9E6FecC2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Insurance Farming Token @ yif.finance",
+            "symbol": "YIF",
+            "address": "0x32B58Cd620A678eB0d51A8614C8F81CaD2Ea7E67",
             "decimals": 18
         }
     ]
