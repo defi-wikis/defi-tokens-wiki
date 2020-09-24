@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:15:54.932Z",
+    "timestamp": "2020-09-24T13:29:20.728Z",
     "version": {
         "major": 1,
-        "minor": 2608,
+        "minor": 2609,
         "patch": 0
     },
     "keywords": [
@@ -16986,6 +16986,13 @@
             "name": "VI",
             "symbol": "VI",
             "address": "0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PowerTrade Fuel Token",
+            "symbol": "PTF",
+            "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
             "decimals": 18
         }
     ]
