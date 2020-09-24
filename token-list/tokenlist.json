@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:09:09.884Z",
+    "timestamp": "2020-09-24T03:12:39.552Z",
     "version": {
         "major": 1,
-        "minor": 2518,
+        "minor": 2519,
         "patch": 0
     },
     "keywords": [
@@ -16356,6 +16356,13 @@
             "name": "MANY Token",
             "symbol": "MANY",
             "address": "0x750FB06c7e160B5efDeE53696ca327bd37Fa62b4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ROMGAMEToken",
+            "symbol": "ROMG",
+            "address": "0xF89D14675c227390F9E2329F26a70dB65b6336Bd",
             "decimals": 18
         }
     ]
