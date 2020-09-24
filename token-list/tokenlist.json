@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:52:59.287Z",
+    "timestamp": "2020-09-24T11:54:59.768Z",
     "version": {
         "major": 1,
-        "minor": 2597,
+        "minor": 2598,
         "patch": 0
     },
     "keywords": [
@@ -16909,6 +16909,13 @@
             "name": "Modularity.Network",
             "symbol": "MNU",
             "address": "0x395D317Ba0156f417224a73b945c870a34F939DD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yam.finance v4",
+            "symbol": "YAMV4",
+            "address": "0xD4539Af43BfBe3d8b4C7020C7bcCC276A90A7a73",
             "decimals": 18
         }
     ]
