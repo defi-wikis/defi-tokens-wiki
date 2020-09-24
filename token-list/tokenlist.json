@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:17:39.163Z",
+    "timestamp": "2020-09-24T05:30:59.448Z",
     "version": {
         "major": 1,
-        "minor": 2540,
+        "minor": 2541,
         "patch": 0
     },
     "keywords": [
@@ -16510,6 +16510,13 @@
             "name": "Helium",
             "symbol": "HNT",
             "address": "0x08Abae9AF6713aC141D85e0b6ad825bb85F39220",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pluton Blogging Network",
+            "symbol": "PBN",
+            "address": "0x5f9585043A1cDd583f6ED469f42839482b31ce0B",
             "decimals": 18
         }
     ]
