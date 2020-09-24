@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:12:29.251Z",
+    "timestamp": "2020-09-24T05:14:49.564Z",
     "version": {
         "major": 1,
-        "minor": 2537,
+        "minor": 2538,
         "patch": 0
     },
     "keywords": [
@@ -16489,6 +16489,13 @@
             "name": "ALL",
             "symbol": "ALL",
             "address": "0xA9813313A9ab5426113e7F4Ca6056f4778118A37",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Convertible ACXT",
+            "symbol": "cACXT",
+            "address": "0xe2b8C4938A3103C1Ab5c19a6B93d07AB6f9dA2ba",
             "decimals": 18
         }
     ]
