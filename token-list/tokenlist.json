@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:21:49.998Z",
+    "timestamp": "2020-09-24T01:28:06.686Z",
     "version": {
         "major": 1,
-        "minor": 2498,
+        "minor": 2499,
         "patch": 0
     },
     "keywords": [
@@ -16216,6 +16216,13 @@
             "name": "Archangel Finance",
             "symbol": "ARCH",
             "address": "0x8AA1cBAbd6e62DEa0687aC155e91F0D54b57D09D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "soju.farm",
+            "symbol": "SOJU2",
+            "address": "0x5046F6f7F2fCec1688f34F1a18bB1A0944ce49bf",
             "decimals": 18
         }
     ]
