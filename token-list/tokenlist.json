@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T16:36:20.210Z",
+    "timestamp": "2020-09-24T16:51:59.722Z",
     "version": {
         "major": 1,
-        "minor": 2641,
+        "minor": 2642,
         "patch": 0
     },
     "keywords": [
@@ -17214,6 +17214,13 @@
             "name": "FANTA.FINANCE",
             "symbol": "FANTA",
             "address": "0xBf06035C31386d0D024895a97D0cc6eF6884854f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TORONTO.cityswap.io",
+            "symbol": "TORONTO",
+            "address": "0x601b02791F81C6832d5D087d671eFDCd414565c8",
             "decimals": 18
         }
     ]
