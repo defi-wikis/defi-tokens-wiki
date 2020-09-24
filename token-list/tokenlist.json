@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T19:26:10.028Z",
+    "timestamp": "2020-09-24T19:31:06.321Z",
     "version": {
         "major": 1,
-        "minor": 2650,
+        "minor": 2651,
         "patch": 0
     },
     "keywords": [
@@ -17277,6 +17277,13 @@
             "name": "Crash Network",
             "symbol": "CRASH",
             "address": "0x884838936Df0163e0d8a9E52Eefb65d76fb1003B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rubic",
+            "symbol": "RBC",
+            "address": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
             "decimals": 18
         }
     ]
