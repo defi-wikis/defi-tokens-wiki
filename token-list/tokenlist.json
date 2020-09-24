@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T23:14:35.614Z",
+    "timestamp": "2020-09-24T23:23:44.788Z",
     "version": {
         "major": 1,
-        "minor": 2672,
+        "minor": 2673,
         "patch": 0
     },
     "keywords": [
@@ -17431,6 +17431,13 @@
             "name": "BONK Token",
             "symbol": "BONK",
             "address": "0x6E480Ee815302c4bB34E66f0d2bAB19cD2F5df21",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yeld.finance",
+            "symbol": "YELD",
+            "address": "0xaccb0936E7a88be2135D0AA970AFAe47c18C1691",
             "decimals": 18
         }
     ]
