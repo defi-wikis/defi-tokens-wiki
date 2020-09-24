@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T04:58:34.572Z",
+    "timestamp": "2020-09-24T04:59:09.656Z",
     "version": {
         "major": 1,
-        "minor": 2533,
+        "minor": 2534,
         "patch": 0
     },
     "keywords": [
@@ -16461,6 +16461,13 @@
             "name": "the-NFT.farm",
             "symbol": "yNFT",
             "address": "0xCb388f17a575AAE70c7619103c37927d6bb87Bb0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XPAHKD",
+            "symbol": "HKX",
+            "address": "0xa325AaA53dE6ae1ad7DF6671162bEEA340ac08c6",
             "decimals": 18
         }
     ]
