@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:12:50.320Z",
+    "timestamp": "2020-09-24T01:15:20.014Z",
     "version": {
         "major": 1,
-        "minor": 2494,
+        "minor": 2495,
         "patch": 0
     },
     "keywords": [
@@ -16188,6 +16188,13 @@
             "name": "NERVE",
             "symbol": "NIRV",
             "address": "0x7c0E00fF4769d63A6d48d66A5dE7279BF9EFbe02",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFT.Protocol",
+            "symbol": "NFT",
+            "address": "0xCB71aa9A90c57b069eddbE4e7557dd970eE5e23F",
             "decimals": 18
         }
     ]
