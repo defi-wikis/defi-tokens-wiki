@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T20:07:49.814Z",
+    "timestamp": "2020-09-24T20:12:29.915Z",
     "version": {
         "major": 1,
-        "minor": 2655,
+        "minor": 2656,
         "patch": 0
     },
     "keywords": [
@@ -17312,6 +17312,13 @@
             "name": "Harden Network",
             "symbol": "HARDEN",
             "address": "0x4AD183B38e82F44C6331CB1b107550AeF42188c8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Baselayer",
+            "symbol": "BASS",
+            "address": "0x140b0DFEB471f53f2A0aE6e7C654c489C301AC50",
             "decimals": 18
         }
     ]
