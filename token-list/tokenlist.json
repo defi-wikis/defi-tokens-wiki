@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T21:48:54.499Z",
+    "timestamp": "2020-09-24T21:57:19.184Z",
     "version": {
         "major": 1,
-        "minor": 2665,
+        "minor": 2666,
         "patch": 0
     },
     "keywords": [
@@ -17382,6 +17382,13 @@
             "name": "SKALE",
             "symbol": "SKL",
             "address": "0xC1BF274dF45A120f693B6cdA28D3BBbb1C1009Ce",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PolkaShare",
+            "symbol": "SHARE",
+            "address": "0x866439B27479762BAb188433EfA9451D9f503ce8",
             "decimals": 18
         }
     ]
