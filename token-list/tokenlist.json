@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:24:54.583Z",
+    "timestamp": "2020-09-24T07:37:45.851Z",
     "version": {
         "major": 1,
-        "minor": 2557,
+        "minor": 2558,
         "patch": 0
     },
     "keywords": [
@@ -16629,6 +16629,13 @@
             "name": "BobaSwap",
             "symbol": "BOBA",
             "address": "0xD4D7196d1dfa44160C32A1773E3e7073c395818E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GimmerToken",
+            "symbol": "GMR",
+            "address": "0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466",
             "decimals": 18
         }
     ]
