@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:24:14.573Z",
+    "timestamp": "2020-09-24T09:37:45.327Z",
     "version": {
         "major": 1,
-        "minor": 2573,
+        "minor": 2574,
         "patch": 0
     },
     "keywords": [
@@ -16741,6 +16741,13 @@
             "name": "YieldWars",
             "symbol": "WAR",
             "address": "0x3F0f4972Fb47fFa6DDbF1514fF49001dF8a6ADE8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UD Coin",
+            "symbol": "UDC",
+            "address": "0x1378bfD46a7FfbcAE16C7Af06a6aF34281d0Ba7A",
             "decimals": 18
         }
     ]
