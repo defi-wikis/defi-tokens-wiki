@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:56:49.055Z",
+    "timestamp": "2020-09-24T05:58:19.649Z",
     "version": {
         "major": 1,
-        "minor": 2546,
+        "minor": 2547,
         "patch": 0
     },
     "keywords": [
@@ -16552,6 +16552,13 @@
             "name": "Yearn.BeFinance",
             "symbol": "BEYFI",
             "address": "0x1dB35215363d4eF2B9663C1cd425feE4b1752003",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZooToken",
+            "symbol": "ZOO",
+            "address": "0x1af39b291fCD158ADe7b85D83f1044D02AB8D6C2",
             "decimals": 18
         }
     ]
