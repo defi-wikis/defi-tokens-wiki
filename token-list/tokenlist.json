@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:45:54.637Z",
+    "timestamp": "2020-09-24T00:55:39.828Z",
     "version": {
         "major": 1,
-        "minor": 2491,
+        "minor": 2492,
         "patch": 0
     },
     "keywords": [
@@ -16168,6 +16168,13 @@
             "symbol": "GNEISS",
             "address": "0x5da3E93faB0580bD7a532A741aC5F886376EFF46",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "UNII",
+            "symbol": "UNII",
+            "address": "0x343448261b4E96236e08516d8182e301cCb2bcBD",
+            "decimals": 18
         }
     ]
 }
