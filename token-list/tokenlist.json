@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T02:42:29.460Z",
+    "timestamp": "2020-09-24T02:49:45.260Z",
     "version": {
         "major": 1,
-        "minor": 2511,
+        "minor": 2512,
         "patch": 0
     },
     "keywords": [
@@ -16308,6 +16308,13 @@
             "symbol": "SEX",
             "address": "0x397Ac126b2CD731c2a103d1521275929E830eB6F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WAFFLESWAP.ORG",
+            "symbol": "WAFFLE",
+            "address": "0xeC0913Df65eAb3Ff850cc33a39aa3AEb97cc5617",
+            "decimals": 0
         }
     ]
 }
