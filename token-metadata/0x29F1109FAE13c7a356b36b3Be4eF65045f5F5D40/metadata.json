@@ -1,0 +1,7 @@
+{
+    "name": "Test Token",
+    "symbol": "TEST",
+    "address": "0x29F1109FAE13c7a356b36b3Be4eF65045f5F5D40",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
