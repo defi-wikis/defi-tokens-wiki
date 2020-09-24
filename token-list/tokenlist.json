@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:10:19.549Z",
+    "timestamp": "2020-09-24T10:10:23.786Z",
     "version": {
         "major": 1,
-        "minor": 2582,
+        "minor": 2583,
         "patch": 0
     },
     "keywords": [
@@ -16804,6 +16804,13 @@
             "name": "Yearn Donald",
             "symbol": "yDON",
             "address": "0xc732eA7fFfa34e25573a318bD9c2BC986939F972",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Joe",
+            "symbol": "yJOE",
+            "address": "0x39E7f52ae509A51678b541018bd4811B6AF09feA",
             "decimals": 18
         }
     ]
