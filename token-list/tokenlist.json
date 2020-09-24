@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:58:44.493Z",
+    "timestamp": "2020-09-24T10:04:15.014Z",
     "version": {
         "major": 1,
-        "minor": 2578,
+        "minor": 2579,
         "patch": 0
     },
     "keywords": [
@@ -16776,6 +16776,13 @@
             "name": "DeFiner",
             "symbol": "FIN",
             "address": "0x933714786a4B2EFbB68DAA3320bF2BEAA8049B90",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arbitrage",
+            "symbol": "ARB",
+            "address": "0xb64e3888aE92a96EE182412A985B591Ff758fbAb",
             "decimals": 18
         }
     ]
