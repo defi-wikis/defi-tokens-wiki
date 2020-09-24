@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:44:54.538Z",
+    "timestamp": "2020-09-24T01:48:29.770Z",
     "version": {
         "major": 1,
-        "minor": 2502,
+        "minor": 2503,
         "patch": 0
     },
     "keywords": [
@@ -16244,6 +16244,13 @@
             "name": "APE",
             "symbol": "APE",
             "address": "0xf048dEB8Ab55f0820CdA5D4A748424E42865a9c0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dice.finance",
+            "symbol": "DICE",
+            "address": "0x3A8BE5d5915CB57C827EDCA800Dd9Da75Aa3219d",
             "decimals": 18
         }
     ]
