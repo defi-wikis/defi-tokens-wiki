@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:07:45.005Z",
+    "timestamp": "2020-09-24T15:17:44.816Z",
     "version": {
         "major": 1,
-        "minor": 2628,
+        "minor": 2629,
         "patch": 0
     },
     "keywords": [
@@ -17124,6 +17124,13 @@
             "symbol": "WAR",
             "address": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Troll Token",
+            "symbol": "TROLL",
+            "address": "0xB8Ad8F304C7314784D32Ea525B7aAc0235CF093A",
+            "decimals": 12
         }
     ]
 }
