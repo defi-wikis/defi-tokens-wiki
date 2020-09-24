@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:59:54.881Z",
+    "timestamp": "2020-09-24T02:18:15.119Z",
     "version": {
         "major": 1,
-        "minor": 2505,
+        "minor": 2506,
         "patch": 0
     },
     "keywords": [
@@ -16265,6 +16265,13 @@
             "name": "STAY POOR",
             "symbol": "POOR",
             "address": "0x6dF428AF6b30A01F99Dc10a8f3fFaD6F3d64885f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Facebook Finance",
+            "symbol": "FACE",
+            "address": "0x81af90Be6f25Ddfb1be76078feA334Ed538Cfc85",
             "decimals": 18
         }
     ]
