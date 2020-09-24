@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:46:14.366Z",
+    "timestamp": "2020-09-24T03:50:55.658Z",
     "version": {
         "major": 1,
-        "minor": 2522,
+        "minor": 2523,
         "patch": 0
     },
     "keywords": [
@@ -16384,6 +16384,13 @@
             "name": "apy.finance token",
             "symbol": "APY",
             "address": "0x6B7133E0a708b451B8c8A2b02e7107282D3D3b4d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Galaxy",
+            "symbol": "GALAXY",
+            "address": "0x09a59b9B677cbAad89cd1ba37ea1d42D3449A6FC",
             "decimals": 18
         }
     ]
