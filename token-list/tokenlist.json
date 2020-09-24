@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:14:25.931Z",
+    "timestamp": "2020-09-24T10:15:06.564Z",
     "version": {
         "major": 1,
-        "minor": 2584,
+        "minor": 2585,
         "patch": 0
     },
     "keywords": [
@@ -16818,6 +16818,13 @@
             "name": "Zero Swap",
             "symbol": "ZERO",
             "address": "0x2b41B32668deF3C3a366390225704356eEcD4609",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Smart Advertising Transition Token",
+            "symbol": "SATT",
+            "address": "0x3423083C821F37460531237C1a4f9617eA71306F",
             "decimals": 18
         }
     ]
