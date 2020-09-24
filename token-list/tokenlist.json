@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T23:05:59.511Z",
+    "timestamp": "2020-09-24T23:14:35.614Z",
     "version": {
         "major": 1,
-        "minor": 2671,
+        "minor": 2672,
         "patch": 0
     },
     "keywords": [
@@ -17424,6 +17424,13 @@
             "name": "xBTC",
             "symbol": "XBTC",
             "address": "0x6667418C8ed7965d9D7b132B96c518B624a0EBf9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BONK Token",
+            "symbol": "BONK",
+            "address": "0x6E480Ee815302c4bB34E66f0d2bAB19cD2F5df21",
             "decimals": 18
         }
     ]
