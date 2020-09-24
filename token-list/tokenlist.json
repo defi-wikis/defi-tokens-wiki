@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T19:45:13.724Z",
+    "timestamp": "2020-09-24T19:52:21.440Z",
     "version": {
         "major": 1,
-        "minor": 2653,
+        "minor": 2654,
         "patch": 0
     },
     "keywords": [
@@ -17298,6 +17298,13 @@
             "name": "GREENDILDO",
             "symbol": "GDILDO",
             "address": "0x235b55b197534526aE09fDb83Cc3d95259ca9C46",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rubic",
+            "symbol": "RBC",
+            "address": "0x66322BD9a74b9b85D64c5786C846dAa0500e777b",
             "decimals": 18
         }
     ]
