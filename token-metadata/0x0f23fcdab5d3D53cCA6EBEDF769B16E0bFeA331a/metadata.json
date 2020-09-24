@@ -1,0 +1,7 @@
+{
+    "name": "xBTC",
+    "symbol": "XBTC",
+    "address": "0x0f23fcdab5d3D53cCA6EBEDF769B16E0bFeA331a",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

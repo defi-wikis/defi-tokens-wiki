@@ -75,7 +75,7 @@ describe("metadata.json", () => {
                         if (metadata.socialLinks) {
                             it("should only have valid fields", () => {
                                 const fields = metadata.socialLinks.map(({ type }) => type);
-                                expect(fields.every(field => VALID_SOCIAL_LINK_FIELDS.includes(field))).toBe(true);
+                                expect(fields.every(field => VALID_SOCIAL_LINK_FIELDS.includes(field.toLowerCase()))).toBe(true);
                             })
 
                             if (metadata.twitter) {
