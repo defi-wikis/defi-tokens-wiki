@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T17:00:19.991Z",
+    "timestamp": "2020-09-24T17:13:07.002Z",
     "version": {
         "major": 1,
-        "minor": 2643,
+        "minor": 2644,
         "patch": 0
     },
     "keywords": [
@@ -17228,6 +17228,13 @@
             "name": "DePay",
             "symbol": "DEPAY",
             "address": "0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DecentralizeCurrency",
+            "symbol": "DCA",
+            "address": "0x18aa7c90d3ae4C5BB219d0a2813F441704084625",
             "decimals": 18
         }
     ]
