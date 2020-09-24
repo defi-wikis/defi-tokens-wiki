@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:35:21.082Z",
+    "timestamp": "2020-09-24T01:42:09.937Z",
     "version": {
         "major": 1,
-        "minor": 2500,
+        "minor": 2501,
         "patch": 0
     },
     "keywords": [
@@ -16230,6 +16230,13 @@
             "name": "wekilledthe.dev",
             "symbol": "DEAD",
             "address": "0x9118b506dab836c00f229714221e6c9Ca1E8d1EB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xKAI Finance",
+            "symbol": "XKAI",
+            "address": "0x95078913F8Cba27129B93DD2955915D4dE11E1b2",
             "decimals": 18
         }
     ]
