@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T21:57:19.184Z",
+    "timestamp": "2020-09-24T22:37:24.743Z",
     "version": {
         "major": 1,
-        "minor": 2666,
+        "minor": 2667,
         "patch": 0
     },
     "keywords": [
@@ -17390,6 +17390,13 @@
             "symbol": "SHARE",
             "address": "0x866439B27479762BAb188433EfA9451D9f503ce8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn20Moon.Finance",
+            "symbol": "YMF20",
+            "address": "0x16bE21C08EB27953273608629e4397556c561D26",
+            "decimals": 8
         }
     ]
 }
