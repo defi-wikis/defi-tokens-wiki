@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:00:35.139Z",
+    "timestamp": "2020-09-24T13:07:19.857Z",
     "version": {
         "major": 1,
-        "minor": 2605,
+        "minor": 2606,
         "patch": 0
     },
     "keywords": [
@@ -16965,6 +16965,13 @@
             "name": "NotImportantToken",
             "symbol": "NIT",
             "address": "0x84105E55bB58B8B691a31aD2652C09fA024F3997",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Network",
+            "symbol": "YFN",
+            "address": "0xF596CDbf7766516447AFd5f79cB8D3A76A98bfa7",
             "decimals": 18
         }
     ]
