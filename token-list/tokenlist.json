@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:24:10.311Z",
+    "timestamp": "2020-09-24T09:24:14.573Z",
     "version": {
         "major": 1,
-        "minor": 2572,
+        "minor": 2573,
         "patch": 0
     },
     "keywords": [
@@ -16734,6 +16734,13 @@
             "name": "Badger",
             "symbol": "Badger",
             "address": "0x5e872D2aAF1F767E117e822b0c72BF491d3dd308",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YieldWars",
+            "symbol": "WAR",
+            "address": "0x3F0f4972Fb47fFa6DDbF1514fF49001dF8a6ADE8",
             "decimals": 18
         }
     ]
