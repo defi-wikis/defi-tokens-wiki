@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:10:23.786Z",
+    "timestamp": "2020-09-24T10:14:25.931Z",
     "version": {
         "major": 1,
-        "minor": 2583,
+        "minor": 2584,
         "patch": 0
     },
     "keywords": [
@@ -16811,6 +16811,13 @@
             "name": "Yearn Joe",
             "symbol": "yJOE",
             "address": "0x39E7f52ae509A51678b541018bd4811B6AF09feA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zero Swap",
+            "symbol": "ZERO",
+            "address": "0x2b41B32668deF3C3a366390225704356eEcD4609",
             "decimals": 18
         }
     ]
