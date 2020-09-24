@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T21:17:14.479Z",
+    "timestamp": "2020-09-24T21:18:34.587Z",
     "version": {
         "major": 1,
-        "minor": 2662,
+        "minor": 2663,
         "patch": 0
     },
     "keywords": [
@@ -17361,6 +17361,13 @@
             "name": "SaunaToken",
             "symbol": "SAUNA",
             "address": "0x0A75407486403c371CDE689DcB9507495Aa487C6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PowerTrade",
+            "symbol": "PTF",
+            "address": "0x413d5891Ed2f20E1AEf1b6deA9B5D3280bb47224",
             "decimals": 18
         }
     ]
