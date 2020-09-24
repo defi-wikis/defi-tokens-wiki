@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:06:39.636Z",
+    "timestamp": "2020-09-24T03:09:09.884Z",
     "version": {
         "major": 1,
-        "minor": 2517,
+        "minor": 2518,
         "patch": 0
     },
     "keywords": [
@@ -16349,6 +16349,13 @@
             "name": "Twitter",
             "symbol": "TWT",
             "address": "0xff5d87A910a55127aBf406B29d24D3CE66cAd19c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MANY Token",
+            "symbol": "MANY",
+            "address": "0x750FB06c7e160B5efDeE53696ca327bd37Fa62b4",
             "decimals": 18
         }
     ]
