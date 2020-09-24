@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:55:39.828Z",
+    "timestamp": "2020-09-24T00:56:35.071Z",
     "version": {
         "major": 1,
-        "minor": 2492,
+        "minor": 2493,
         "patch": 0
     },
     "keywords": [
@@ -16174,6 +16174,13 @@
             "name": "UNII",
             "symbol": "UNII",
             "address": "0x343448261b4E96236e08516d8182e301cCb2bcBD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tower Of Babel, Price is God",
+            "symbol": "TOB",
+            "address": "0x1Fe2A612545Dc6f6C7Cc942346762bc76ac99274",
             "decimals": 18
         }
     ]
