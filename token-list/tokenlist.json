@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:22:54.480Z",
+    "timestamp": "2020-09-24T11:25:10.037Z",
     "version": {
         "major": 1,
-        "minor": 2592,
+        "minor": 2593,
         "patch": 0
     },
     "keywords": [
@@ -16874,6 +16874,13 @@
             "name": "PowerTrade",
             "symbol": "PFT",
             "address": "0x96B59cC3e4B40B9C62F0A4B1d6dCe9ED4951Ff63",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Grow",
+            "symbol": "GROW",
+            "address": "0xE0008BB8a3c63b0762E9BCf2fc99b1Aa301c3460",
             "decimals": 18
         }
     ]
