@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:21:20.035Z",
+    "timestamp": "2020-09-24T01:21:34.854Z",
     "version": {
         "major": 1,
-        "minor": 2496,
+        "minor": 2497,
         "patch": 0
     },
     "keywords": [
@@ -16202,6 +16202,13 @@
             "name": "SBF Tweets, Many Rebase ",
             "symbol": "SBF",
             "address": "0x2c9d7512dd4D68578b7728777B95478A288E0D93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "soju.farm",
+            "symbol": "SOJU",
+            "address": "0x4da7A03B023eDFA80CdEb2B5A6FAa72eF84a1494",
             "decimals": 18
         }
     ]
