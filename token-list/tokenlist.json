@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T16:51:59.722Z",
+    "timestamp": "2020-09-24T17:00:19.991Z",
     "version": {
         "major": 1,
-        "minor": 2642,
+        "minor": 2643,
         "patch": 0
     },
     "keywords": [
@@ -17221,6 +17221,13 @@
             "name": "TORONTO.cityswap.io",
             "symbol": "TORONTO",
             "address": "0x601b02791F81C6832d5D087d671eFDCd414565c8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DePay",
+            "symbol": "DEPAY",
+            "address": "0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
             "decimals": 18
         }
     ]
