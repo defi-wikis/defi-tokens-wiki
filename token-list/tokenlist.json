@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:57:59.538Z",
+    "timestamp": "2020-09-24T16:10:24.999Z",
     "version": {
         "major": 1,
-        "minor": 2636,
+        "minor": 2637,
         "patch": 0
     },
     "keywords": [
@@ -17180,6 +17180,13 @@
             "symbol": "LIMEX",
             "address": "0x400b1d8a7dd8C471026B2c8CBe1062b27d120538",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "NFT Protocol",
+            "symbol": "NFT",
+            "address": "0x216B043ca84CE65d88e01FAa7e906840F77D9126",
+            "decimals": 18
         }
     ]
 }
