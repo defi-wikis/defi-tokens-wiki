@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:01:44.465Z",
+    "timestamp": "2020-09-24T07:05:14.798Z",
     "version": {
         "major": 1,
-        "minor": 2554,
+        "minor": 2555,
         "patch": 0
     },
     "keywords": [
@@ -16608,6 +16608,13 @@
             "name": "STBS",
             "symbol": "STBS",
             "address": "0x077307ffC27256756177A2A2D745112e3dF9b803",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chocolate Token",
+            "symbol": "CHO",
+            "address": "0x4fD9D7E72917eCA7CEAAf5Cf872A7D021C905dD1",
             "decimals": 18
         }
     ]
