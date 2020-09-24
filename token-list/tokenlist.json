@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T08:50:45.081Z",
+    "timestamp": "2020-09-24T08:57:14.452Z",
     "version": {
         "major": 1,
-        "minor": 2566,
+        "minor": 2567,
         "patch": 0
     },
     "keywords": [
@@ -16692,6 +16692,13 @@
             "name": "EVE",
             "symbol": "EVE",
             "address": "0x27d2867201819e9AEB876519057d8943Ca90724b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Centra token",
+            "symbol": "Centra",
+            "address": "0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a",
             "decimals": 18
         }
     ]
