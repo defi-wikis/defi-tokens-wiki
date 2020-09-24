@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T02:18:15.119Z",
+    "timestamp": "2020-09-24T02:26:14.582Z",
     "version": {
         "major": 1,
-        "minor": 2506,
+        "minor": 2507,
         "patch": 0
     },
     "keywords": [
@@ -16272,6 +16272,13 @@
             "name": "Facebook Finance",
             "symbol": "FACE",
             "address": "0x81af90Be6f25Ddfb1be76078feA334Ed538Cfc85",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLottery Token",
+            "symbol": "ULT",
+            "address": "0xDDDeC9a618725b1652e7B2f569f3B4Dd86bbcA4d",
             "decimals": 18
         }
     ]
