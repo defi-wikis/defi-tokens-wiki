@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T04:59:09.656Z",
+    "timestamp": "2020-09-24T05:07:30.489Z",
     "version": {
         "major": 1,
-        "minor": 2534,
+        "minor": 2535,
         "patch": 0
     },
     "keywords": [
@@ -16468,6 +16468,13 @@
             "name": "XPAHKD",
             "symbol": "HKX",
             "address": "0xa325AaA53dE6ae1ad7DF6671162bEEA340ac08c6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YZK Finance",
+            "symbol": "YZK",
+            "address": "0x00c3a4Ea499cF8a68F26EC78fAd0BD2BE28c2769",
             "decimals": 18
         }
     ]
