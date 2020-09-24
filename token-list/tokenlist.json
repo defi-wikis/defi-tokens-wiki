@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:19:07.539Z",
+    "timestamp": "2020-09-24T09:23:24.922Z",
     "version": {
         "major": 1,
-        "minor": 2570,
+        "minor": 2571,
         "patch": 0
     },
     "keywords": [
@@ -16720,6 +16720,13 @@
             "name": "SOY.Finance",
             "symbol": "SOY",
             "address": "0x3f1e6b03B8d455618548986045D55926143e70D6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "whaleblocks",
+            "symbol": "WBS",
+            "address": "0x74e137E9aC2a7Bcd8d13FD20A6266E92eA352f2C",
             "decimals": 18
         }
     ]
