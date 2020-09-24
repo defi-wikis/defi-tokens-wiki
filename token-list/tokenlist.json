@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T12:15:54.750Z",
+    "timestamp": "2020-09-24T12:20:24.556Z",
     "version": {
         "major": 1,
-        "minor": 2600,
+        "minor": 2601,
         "patch": 0
     },
     "keywords": [
@@ -16930,6 +16930,13 @@
             "name": "Elastic Sterling",
             "symbol": "EGBP",
             "address": "0xDd3353A262c99FaCB28b6dAc25bC1D7A416141C5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoLocally Token",
+            "symbol": "GIV",
+            "address": "0xBF1A0e17350e2096bFc1b1cfCEA2Bd97CD98948b",
             "decimals": 18
         }
     ]
