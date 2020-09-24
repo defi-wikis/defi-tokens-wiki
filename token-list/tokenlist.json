@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:04:50.029Z",
+    "timestamp": "2020-09-24T10:08:54.654Z",
     "version": {
         "major": 1,
-        "minor": 2580,
+        "minor": 2581,
         "patch": 0
     },
     "keywords": [
@@ -16790,6 +16790,13 @@
             "name": "Smart Advertising Transition Token",
             "symbol": "SATT",
             "address": "0x48947710ee28AB17F833730B0ba22a46Bdc50a0E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SDogeToken",
+            "symbol": "SDOGE",
+            "address": "0xb25FEda5512445Aa4e481Add71731cD0cffF18C1",
             "decimals": 18
         }
     ]
