@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T18:12:29.971Z",
+    "timestamp": "2020-09-24T18:46:07.630Z",
     "version": {
         "major": 1,
-        "minor": 2647,
+        "minor": 2648,
         "patch": 0
     },
     "keywords": [
@@ -17256,6 +17256,13 @@
             "name": "linkinas",
             "symbol": "linas",
             "address": "0xb430E312f2618C280BaBcb3E159B9aB1814F0F7f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIO Protocol",
+            "symbol": "YFIO",
+            "address": "0x003b6561606C439a14909f4B0a29fc452209d540",
             "decimals": 18
         }
     ]
