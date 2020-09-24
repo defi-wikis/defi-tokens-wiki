@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T19:31:06.321Z",
+    "timestamp": "2020-09-24T19:42:44.561Z",
     "version": {
         "major": 1,
-        "minor": 2651,
+        "minor": 2652,
         "patch": 0
     },
     "keywords": [
@@ -17284,6 +17284,13 @@
             "name": "Rubic",
             "symbol": "RBC",
             "address": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yuri Protocol",
+            "symbol": "YURI",
+            "address": "0x1B37bf0b28C79d48c6472276cB4701FcF4B1C6D1",
             "decimals": 18
         }
     ]
