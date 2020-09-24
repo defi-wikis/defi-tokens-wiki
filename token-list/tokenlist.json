@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T20:55:44.708Z",
+    "timestamp": "2020-09-24T21:03:15.172Z",
     "version": {
         "major": 1,
-        "minor": 2659,
+        "minor": 2660,
         "patch": 0
     },
     "keywords": [
@@ -17340,6 +17340,13 @@
             "name": "ALL",
             "symbol": "ALL",
             "address": "0xc3BbFb0cfE1A91C51145e7Be020fB22ab2142057",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fruit",
+            "symbol": "FRUIT",
+            "address": "0x7E34D1CFdBb7919600971e7F1B247D6bDDBAc641",
             "decimals": 18
         }
     ]
