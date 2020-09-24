@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T02:30:54.717Z",
+    "timestamp": "2020-09-24T02:34:39.195Z",
     "version": {
         "major": 1,
-        "minor": 2508,
+        "minor": 2509,
         "patch": 0
     },
     "keywords": [
@@ -16286,6 +16286,13 @@
             "name": "MINISWAP",
             "symbol": "MINI",
             "address": "0xD4Ac7C0b272d60D821949355F1d933dd3a054751",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Apple",
+            "symbol": "AAPL",
+            "address": "0xCc0b40b14830c2Ee864E11bbB0Af34Fd16E5eea1",
             "decimals": 18
         }
     ]
