@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:46:35.077Z",
+    "timestamp": "2020-09-24T13:48:20.258Z",
     "version": {
         "major": 1,
-        "minor": 2614,
+        "minor": 2615,
         "patch": 0
     },
     "keywords": [
@@ -17028,6 +17028,13 @@
             "name": "Behodler.io",
             "symbol": "EYE",
             "address": "0x155ff1A85F440EE0A382eA949f24CE4E0b751c65",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sergey Save Link",
+            "symbol": "SSL",
+            "address": "0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4",
             "decimals": 18
         }
     ]
