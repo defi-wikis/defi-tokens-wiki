@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T02:51:24.798Z",
+    "timestamp": "2020-09-24T02:51:39.491Z",
     "version": {
         "major": 1,
-        "minor": 2513,
+        "minor": 2514,
         "patch": 0
     },
     "keywords": [
@@ -16321,6 +16321,13 @@
             "name": "Google",
             "symbol": "GOG",
             "address": "0xe3ffF5f26AFF9B5AdaE2Dc13b71Cc0f055ed7db3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cope",
+            "symbol": "COPE",
+            "address": "0xFbd937D457CBd4b9354B20D44C6B7f7D1a22d22C",
             "decimals": 18
         }
     ]
