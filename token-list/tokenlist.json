@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:54:59.768Z",
+    "timestamp": "2020-09-24T11:59:45.670Z",
     "version": {
         "major": 1,
-        "minor": 2598,
+        "minor": 2599,
         "patch": 0
     },
     "keywords": [
@@ -16916,6 +16916,13 @@
             "name": "yam.finance v4",
             "symbol": "YAMV4",
             "address": "0xD4539Af43BfBe3d8b4C7020C7bcCC276A90A7a73",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cryptolocally.com",
+            "symbol": "GIV",
+            "address": "0xCfD57E2869aF6111737De62acc3B465011c6681a",
             "decimals": 18
         }
     ]
