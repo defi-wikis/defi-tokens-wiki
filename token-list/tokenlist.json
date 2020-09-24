@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T20:50:30.176Z",
+    "timestamp": "2020-09-24T20:55:44.708Z",
     "version": {
         "major": 1,
-        "minor": 2658,
+        "minor": 2659,
         "patch": 0
     },
     "keywords": [
@@ -17333,6 +17333,13 @@
             "name": "Mushie.Finance",
             "symbol": "MUSH",
             "address": "0x53a68E70E7daB2105df15ecF0f142967902203fb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ALL",
+            "symbol": "ALL",
+            "address": "0xc3BbFb0cfE1A91C51145e7Be020fB22ab2142057",
             "decimals": 18
         }
     ]
