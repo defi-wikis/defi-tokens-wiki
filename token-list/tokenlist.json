@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T09:50:14.924Z",
+    "timestamp": "2020-09-24T09:51:54.710Z",
     "version": {
         "major": 1,
-        "minor": 2576,
+        "minor": 2577,
         "patch": 0
     },
     "keywords": [
@@ -16762,6 +16762,13 @@
             "name": "Power.Trade",
             "symbol": "PTF",
             "address": "0x308950921071965f72A0d254497EcD48C910ceb4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nyan Finance",
+            "symbol": "NYAN",
+            "address": "0xA51e266fFc962CE426F27e6ACBE1e6F85611E886",
             "decimals": 18
         }
     ]
