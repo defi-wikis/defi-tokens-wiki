@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T10:32:45.692Z",
+    "timestamp": "2020-09-24T10:54:39.483Z",
     "version": {
         "major": 1,
-        "minor": 2587,
+        "minor": 2588,
         "patch": 0
     },
     "keywords": [
@@ -16840,6 +16840,13 @@
             "symbol": "DOOM",
             "address": "0xA4F9CEC920cA520a7FEB2c3A63050e08967bc111",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "LEVERAGED BUYOUT",
+            "symbol": "LBOO",
+            "address": "0x16A7b202dF84751a4E281ba35f1a6550cf894738",
+            "decimals": 9
         }
     ]
 }
