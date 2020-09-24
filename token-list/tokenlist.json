@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T04:13:59.494Z",
+    "timestamp": "2020-09-24T04:41:07.193Z",
     "version": {
         "major": 1,
-        "minor": 2528,
+        "minor": 2529,
         "patch": 0
     },
     "keywords": [
@@ -16426,6 +16426,13 @@
             "name": "Steaua Finance",
             "symbol": "STA",
             "address": "0x25733E7b34AB7e9E6A7c576da6C5e5Df75076F6B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "John Finance",
+            "symbol": "JHN",
+            "address": "0x7CDfA3f9D50494350d5b367Da1980dcd418015c0",
             "decimals": 18
         }
     ]
