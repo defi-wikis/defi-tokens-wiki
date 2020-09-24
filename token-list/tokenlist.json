@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T01:54:44.783Z",
+    "timestamp": "2020-09-24T01:59:54.881Z",
     "version": {
         "major": 1,
-        "minor": 2504,
+        "minor": 2505,
         "patch": 0
     },
     "keywords": [
@@ -16258,6 +16258,13 @@
             "name": "AAPL",
             "symbol": "DEFI",
             "address": "0xbcc4CF894b0790EDc36Eab066631a8523a6231c1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STAY POOR",
+            "symbol": "POOR",
+            "address": "0x6dF428AF6b30A01F99Dc10a8f3fFaD6F3d64885f",
             "decimals": 18
         }
     ]
