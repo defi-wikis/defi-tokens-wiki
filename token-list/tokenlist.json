@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:37:45.851Z",
+    "timestamp": "2020-09-24T07:52:34.656Z",
     "version": {
         "major": 1,
-        "minor": 2558,
+        "minor": 2559,
         "patch": 0
     },
     "keywords": [
@@ -16636,6 +16636,13 @@
             "name": "GimmerToken",
             "symbol": "GMR",
             "address": "0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mushie.Finance",
+            "symbol": "MUSH",
+            "address": "0x179D3E24628107C1cf370def083802CE6aEA262b",
             "decimals": 18
         }
     ]
