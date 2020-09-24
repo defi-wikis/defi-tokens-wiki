@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:15:39.729Z",
+    "timestamp": "2020-09-24T05:17:39.163Z",
     "version": {
         "major": 1,
-        "minor": 2539,
+        "minor": 2540,
         "patch": 0
     },
     "keywords": [
@@ -16503,6 +16503,13 @@
             "name": "the-NFT.farm",
             "symbol": "yNFT",
             "address": "0x3AD3b4cAFB773363a8Ab3D50672743bcA8Dc38AB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Helium",
+            "symbol": "HNT",
+            "address": "0x08Abae9AF6713aC141D85e0b6ad825bb85F39220",
             "decimals": 18
         }
     ]
