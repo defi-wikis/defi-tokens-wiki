@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T04:41:35.523Z",
+    "timestamp": "2020-09-24T04:49:19.544Z",
     "version": {
         "major": 1,
-        "minor": 2530,
+        "minor": 2531,
         "patch": 0
     },
     "keywords": [
@@ -16440,6 +16440,13 @@
             "name": "Ernest Finance",
             "symbol": "ERN",
             "address": "0x92a61814891Df6e1d845a41f680Ee82f33e6Dc5B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XPlay Token",
+            "symbol": "XPA",
+            "address": "0x90528aeb3a2B736B780fD1B6C478bB7E1d643170",
             "decimals": 18
         }
     ]
