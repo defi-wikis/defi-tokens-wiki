@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:06:18.835Z",
+    "timestamp": "2020-09-24T15:06:24.658Z",
     "version": {
         "major": 1,
-        "minor": 2626,
+        "minor": 2627,
         "patch": 0
     },
     "keywords": [
@@ -17109,6 +17109,13 @@
             "name": "WHALE",
             "symbol": "WHALE",
             "address": "0x0A57f8eB6B2B7dA9158Ff312d69835a33fc52456",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NettleBank.Farm",
+            "symbol": "NBF",
+            "address": "0x0C085cBb1D03516469F69bb1dAd98aCF47b4DeA9",
             "decimals": 18
         }
     ]
