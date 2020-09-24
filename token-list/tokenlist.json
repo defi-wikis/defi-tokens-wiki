@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:58:19.649Z",
+    "timestamp": "2020-09-24T06:09:54.615Z",
     "version": {
         "major": 1,
-        "minor": 2547,
+        "minor": 2548,
         "patch": 0
     },
     "keywords": [
@@ -16559,6 +16559,13 @@
             "name": "ZooToken",
             "symbol": "ZOO",
             "address": "0x1af39b291fCD158ADe7b85D83f1044D02AB8D6C2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crypto Chips",
+            "symbol": "CCP",
+            "address": "0x9aDCE5b07Aef2AB64Cf8c15F0ecBAB774f56200F",
             "decimals": 18
         }
     ]
