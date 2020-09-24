@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T14:39:45.108Z",
+    "timestamp": "2020-09-24T14:42:25.146Z",
     "version": {
         "major": 1,
-        "minor": 2621,
+        "minor": 2622,
         "patch": 0
     },
     "keywords": [
@@ -17077,6 +17077,13 @@
             "name": "BitOfTrade",
             "symbol": "BTF",
             "address": "0x02044C9d2Da3fd33eD800716693396eEEcEEf918",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JAIL",
+            "symbol": "JAIL",
+            "address": "0x5F49Bf77B8965fafC41394d9C184593C5fdd5272",
             "decimals": 18
         }
     ]
