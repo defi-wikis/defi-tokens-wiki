@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T14:20:10.548Z",
+    "timestamp": "2020-09-24T14:30:13.897Z",
     "version": {
         "major": 1,
-        "minor": 2618,
+        "minor": 2619,
         "patch": 0
     },
     "keywords": [
@@ -17056,6 +17056,13 @@
             "name": "Dego Finance Token",
             "symbol": "DEGO",
             "address": "0x049fAb818c3893D8Bdc5c5Da3DCDf8B726B8fFde",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OMENCOIN",
+            "symbol": "OMEN",
+            "address": "0xCe5D6E8bB22C1494B1D94C7716d32cb293Bb67Ab",
             "decimals": 18
         }
     ]
