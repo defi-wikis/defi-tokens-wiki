@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:17:44.816Z",
+    "timestamp": "2020-09-24T15:27:19.537Z",
     "version": {
         "major": 1,
-        "minor": 2629,
+        "minor": 2630,
         "patch": 0
     },
     "keywords": [
@@ -17131,6 +17131,13 @@
             "symbol": "TROLL",
             "address": "0xB8Ad8F304C7314784D32Ea525B7aAc0235CF093A",
             "decimals": 12
+        },
+        {
+            "chainId": 1,
+            "name": "unisushi",
+            "symbol": "UNISUSHI",
+            "address": "0x96A860e45c4e23bb104f87d95a758FF669b03A95",
+            "decimals": 6
         }
     ]
 }
