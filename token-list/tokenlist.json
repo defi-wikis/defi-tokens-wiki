@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:27:07.252Z",
+    "timestamp": "2020-09-24T00:39:34.902Z",
     "version": {
         "major": 1,
-        "minor": 2488,
+        "minor": 2489,
         "patch": 0
     },
     "keywords": [
@@ -16146,6 +16146,13 @@
             "name": "the-NFT.farm2",
             "symbol": "NFT2",
             "address": "0x1d0B28c2EaEc68040d27A1373852d299A234F940",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xKAI Finance",
+            "symbol": "XKAI",
+            "address": "0xE37a0C89c17c5d3b14AE1e080F4E20b2b06898AF",
             "decimals": 18
         }
     ]
