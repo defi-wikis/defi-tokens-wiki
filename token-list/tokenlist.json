@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:25:07.151Z",
+    "timestamp": "2020-09-24T00:27:07.252Z",
     "version": {
         "major": 1,
-        "minor": 2487,
+        "minor": 2488,
         "patch": 0
     },
     "keywords": [
@@ -16140,6 +16140,13 @@
             "symbol": "$GOLD",
             "address": "0xe4740f80eed35F96313301e7F8680fE74f66B82F",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "the-NFT.farm2",
+            "symbol": "NFT2",
+            "address": "0x1d0B28c2EaEc68040d27A1373852d299A234F940",
+            "decimals": 18
         }
     ]
 }
