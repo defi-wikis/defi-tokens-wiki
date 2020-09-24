@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:12:24.886Z",
+    "timestamp": "2020-09-24T05:12:29.251Z",
     "version": {
         "major": 1,
-        "minor": 2536,
+        "minor": 2537,
         "patch": 0
     },
     "keywords": [
@@ -16482,6 +16482,13 @@
             "name": "TOMATODEFI.FINANCE",
             "symbol": "TFI",
             "address": "0x26f02Ea7c4b23ab06731A441FBB15318F058Ad80",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ALL",
+            "symbol": "ALL",
+            "address": "0xA9813313A9ab5426113e7F4Ca6056f4778118A37",
             "decimals": 18
         }
     ]
