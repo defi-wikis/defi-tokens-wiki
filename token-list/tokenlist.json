@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:34:02.014Z",
+    "timestamp": "2020-09-24T13:35:39.353Z",
     "version": {
         "major": 1,
-        "minor": 2611,
+        "minor": 2612,
         "patch": 0
     },
     "keywords": [
@@ -17008,6 +17008,13 @@
             "symbol": "METRIC",
             "address": "0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SupplyControl",
+            "symbol": "SUP",
+            "address": "0x10dA61E2B17bdf7A9C351D2d7DEbDcC562Db9b2c",
+            "decimals": 9
         }
     ]
 }
