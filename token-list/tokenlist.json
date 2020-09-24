@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:56:35.071Z",
+    "timestamp": "2020-09-24T01:12:50.320Z",
     "version": {
         "major": 1,
-        "minor": 2493,
+        "minor": 2494,
         "patch": 0
     },
     "keywords": [
@@ -16181,6 +16181,13 @@
             "name": "Tower Of Babel, Price is God",
             "symbol": "TOB",
             "address": "0x1Fe2A612545Dc6f6C7Cc942346762bc76ac99274",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NERVE",
+            "symbol": "NIRV",
+            "address": "0x7c0E00fF4769d63A6d48d66A5dE7279BF9EFbe02",
             "decimals": 18
         }
     ]
