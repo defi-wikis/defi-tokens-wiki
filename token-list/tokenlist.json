@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T02:34:39.195Z",
+    "timestamp": "2020-09-24T02:37:44.143Z",
     "version": {
         "major": 1,
-        "minor": 2509,
+        "minor": 2510,
         "patch": 0
     },
     "keywords": [
@@ -16293,6 +16293,13 @@
             "name": "Apple",
             "symbol": "AAPL",
             "address": "0xCc0b40b14830c2Ee864E11bbB0Af34Fd16E5eea1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Im Sato Nak",
+            "symbol": "ISN",
+            "address": "0x58624482a60974514f26892dd6e5dE13230BE96f",
             "decimals": 18
         }
     ]
