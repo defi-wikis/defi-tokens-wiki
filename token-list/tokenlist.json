@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T02:26:14.582Z",
+    "timestamp": "2020-09-24T02:30:54.717Z",
     "version": {
         "major": 1,
-        "minor": 2507,
+        "minor": 2508,
         "patch": 0
     },
     "keywords": [
@@ -16279,6 +16279,13 @@
             "name": "UniLottery Token",
             "symbol": "ULT",
             "address": "0xDDDeC9a618725b1652e7B2f569f3B4Dd86bbcA4d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MINISWAP",
+            "symbol": "MINI",
+            "address": "0xD4Ac7C0b272d60D821949355F1d933dd3a054751",
             "decimals": 18
         }
     ]
