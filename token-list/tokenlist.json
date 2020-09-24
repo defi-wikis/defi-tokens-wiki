@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:03:14.249Z",
+    "timestamp": "2020-09-24T15:06:18.835Z",
     "version": {
         "major": 1,
-        "minor": 2625,
+        "minor": 2626,
         "patch": 0
     },
     "keywords": [
@@ -14872,7 +14872,11 @@
             "name": "Rari Stable Pool Token",
             "symbol": "RSPT",
             "address": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0",
-            "decimals": 18
+            "decimals": 18,
+            "tags": [
+                "yield-farming"
+            ],
+            "logoURI": "https://tokens.dharma.io/assets/0x016bf078abcacb987f0589a6d3beadd4316922b0/icon.png"
         },
         {
             "chainId": 1,
