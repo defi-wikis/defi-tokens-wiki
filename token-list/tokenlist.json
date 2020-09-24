@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:48:20.258Z",
+    "timestamp": "2020-09-24T14:01:35.362Z",
     "version": {
         "major": 1,
-        "minor": 2615,
+        "minor": 2616,
         "patch": 0
     },
     "keywords": [
@@ -17035,6 +17035,13 @@
             "name": "Sergey Save Link",
             "symbol": "SSL",
             "address": "0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PowerTrade",
+            "symbol": "PTF",
+            "address": "0x22b253C061016895f29dE1B67f841F07fBED6dab",
             "decimals": 18
         }
     ]
