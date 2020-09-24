@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T16:23:24.743Z",
+    "timestamp": "2020-09-24T16:27:39.780Z",
     "version": {
         "major": 1,
-        "minor": 2639,
+        "minor": 2640,
         "patch": 0
     },
     "keywords": [
@@ -17200,6 +17200,13 @@
             "name": "SPARTAburn.com",
             "symbol": "$WAR",
             "address": "0x6A6EdA659D55D29EB44800e969b1B3EaC900aE5F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BurnMeDaddy",
+            "symbol": "BMD",
+            "address": "0xbf90589931CC6a98C93fCA03778BCf2E5e3402BE",
             "decimals": 18
         }
     ]
