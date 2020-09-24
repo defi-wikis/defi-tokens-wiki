@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:54:15.338Z",
+    "timestamp": "2020-09-24T07:57:02.044Z",
     "version": {
         "major": 1,
-        "minor": 2560,
+        "minor": 2561,
         "patch": 0
     },
     "keywords": [
@@ -16650,6 +16650,13 @@
             "name": "Chicken Finance",
             "symbol": "KFC",
             "address": "0x25c902e8E1aD274C8032d265352E909f0e5b7CD5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NotImportantToken",
+            "symbol": "NIT",
+            "address": "0x8B904244932a11d7E2C4c9EEa8e3A8E0Cd3a53C2",
             "decimals": 18
         }
     ]
