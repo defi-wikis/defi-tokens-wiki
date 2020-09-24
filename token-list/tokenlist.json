@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T23:23:44.788Z",
+    "timestamp": "2020-09-24T23:57:45.034Z",
     "version": {
         "major": 1,
-        "minor": 2673,
+        "minor": 2674,
         "patch": 0
     },
     "keywords": [
@@ -17438,6 +17438,13 @@
             "name": "yeld.finance",
             "symbol": "YELD",
             "address": "0xaccb0936E7a88be2135D0AA970AFAe47c18C1691",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Doggy Finance",
+            "symbol": "DOG",
+            "address": "0x957A9eae7040Fe4aF8dd1F37524dc66016aa95e5",
             "decimals": 18
         }
     ]
