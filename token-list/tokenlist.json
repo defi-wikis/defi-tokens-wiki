@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T21:40:09.988Z",
+    "timestamp": "2020-09-24T21:48:54.499Z",
     "version": {
         "major": 1,
-        "minor": 2664,
+        "minor": 2665,
         "patch": 0
     },
     "keywords": [
@@ -17375,6 +17375,13 @@
             "name": "Mushie.Finance",
             "symbol": "MUSH",
             "address": "0x923D6205575DaBaBaD610BE6A2A43C542af8e6de",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SKALE",
+            "symbol": "SKL",
+            "address": "0xC1BF274dF45A120f693B6cdA28D3BBbb1C1009Ce",
             "decimals": 18
         }
     ]
