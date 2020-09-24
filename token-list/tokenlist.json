@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T15:27:19.537Z",
+    "timestamp": "2020-09-24T15:28:05.265Z",
     "version": {
         "major": 1,
-        "minor": 2630,
+        "minor": 2631,
         "patch": 0
     },
     "keywords": [
@@ -17138,6 +17138,13 @@
             "symbol": "UNISUSHI",
             "address": "0x96A860e45c4e23bb104f87d95a758FF669b03A95",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "smol",
+            "symbol": "SMOL",
+            "address": "0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C",
+            "decimals": 18
         }
     ]
 }
