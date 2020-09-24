@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:23:39.619Z",
+    "timestamp": "2020-09-24T03:44:09.359Z",
     "version": {
         "major": 1,
-        "minor": 2520,
+        "minor": 2521,
         "patch": 0
     },
     "keywords": [
@@ -16370,6 +16370,13 @@
             "name": "YFMoonshot.finance",
             "symbol": "YFMS",
             "address": "0x6413BE89Fcd25050Fd6d51b4e04e4E22B16848EA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Microsoft",
+            "symbol": "MCS",
+            "address": "0xb0162064E44bCffD33dB1a469B40De3D26D22c94",
             "decimals": 18
         }
     ]
