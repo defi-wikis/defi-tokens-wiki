@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T06:12:24.443Z",
+    "timestamp": "2020-09-24T06:16:00.070Z",
     "version": {
         "major": 1,
-        "minor": 2549,
+        "minor": 2550,
         "patch": 0
     },
     "keywords": [
@@ -16573,6 +16573,13 @@
             "name": "Yoink.Rocks",
             "symbol": "YNK",
             "address": "0x15B4ED50Ad94a49B2ff64cAAB320a023D2356f7c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0x0Df411Cd73DD664237A8E67d43C3e13D6E7D2BFf",
             "decimals": 18
         }
     ]
