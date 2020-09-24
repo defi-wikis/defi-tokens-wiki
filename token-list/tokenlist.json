@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:14:49.564Z",
+    "timestamp": "2020-09-24T05:15:39.729Z",
     "version": {
         "major": 1,
-        "minor": 2538,
+        "minor": 2539,
         "patch": 0
     },
     "keywords": [
@@ -16496,6 +16496,13 @@
             "name": "Convertible ACXT",
             "symbol": "cACXT",
             "address": "0xe2b8C4938A3103C1Ab5c19a6B93d07AB6f9dA2ba",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "the-NFT.farm",
+            "symbol": "yNFT",
+            "address": "0x3AD3b4cAFB773363a8Ab3D50672743bcA8Dc38AB",
             "decimals": 18
         }
     ]
