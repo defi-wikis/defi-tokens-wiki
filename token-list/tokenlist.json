@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:00:29.866Z",
+    "timestamp": "2020-09-24T13:00:35.139Z",
     "version": {
         "major": 1,
-        "minor": 2604,
+        "minor": 2605,
         "patch": 0
     },
     "keywords": [
@@ -16958,6 +16958,13 @@
             "name": "One Piece Token",
             "symbol": "OPT",
             "address": "0x7Ec83e6FD23D46D7160ff95f2aB5cBF8028AAc2F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NotImportantToken",
+            "symbol": "NIT",
+            "address": "0x84105E55bB58B8B691a31aD2652C09fA024F3997",
             "decimals": 18
         }
     ]
