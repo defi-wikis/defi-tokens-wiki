@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T16:10:24.999Z",
+    "timestamp": "2020-09-24T16:18:19.917Z",
     "version": {
         "major": 1,
-        "minor": 2637,
+        "minor": 2638,
         "patch": 0
     },
     "keywords": [
@@ -17186,6 +17186,13 @@
             "name": "NFT Protocol",
             "symbol": "NFT",
             "address": "0x216B043ca84CE65d88e01FAa7e906840F77D9126",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xbtc.fi",
+            "symbol": "xBTC",
+            "address": "0x3d9B9520A4705aBd39d7754C05498c2c3Ee4a9c2",
             "decimals": 18
         }
     ]
