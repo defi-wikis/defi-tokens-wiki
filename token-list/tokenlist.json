@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:34:19.507Z",
+    "timestamp": "2020-09-24T05:43:06.791Z",
     "version": {
         "major": 1,
-        "minor": 2542,
+        "minor": 2543,
         "patch": 0
     },
     "keywords": [
@@ -16524,6 +16524,13 @@
             "name": "Im Sato Nakistr",
             "symbol": "ISN",
             "address": "0xFcAF31aaBAaA85adBdDcEe950C608Be8C96f0A47",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/cryptovigilantenetwork",
+            "symbol": "VIGIL",
+            "address": "0xb3321F93dAfedF5296bf764806ceefFd6bCEF55a",
             "decimals": 18
         }
     ]
