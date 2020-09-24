@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T13:11:49.993Z",
+    "timestamp": "2020-09-24T13:15:54.932Z",
     "version": {
         "major": 1,
-        "minor": 2607,
+        "minor": 2608,
         "patch": 0
     },
     "keywords": [
@@ -16979,6 +16979,13 @@
             "name": "CoinHunt Token",
             "symbol": "CHT",
             "address": "0xA7e6b2CE535b83E82ab598E9E432705F8d7CE929",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VI",
+            "symbol": "VI",
+            "address": "0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
             "decimals": 18
         }
     ]
