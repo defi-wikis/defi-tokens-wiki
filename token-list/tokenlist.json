@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T14:30:13.897Z",
+    "timestamp": "2020-09-24T14:38:45.121Z",
     "version": {
         "major": 1,
-        "minor": 2619,
+        "minor": 2620,
         "patch": 0
     },
     "keywords": [
@@ -17063,6 +17063,13 @@
             "name": "OMENCOIN",
             "symbol": "OMEN",
             "address": "0xCe5D6E8bB22C1494B1D94C7716d32cb293Bb67Ab",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PassiveYield ",
+            "symbol": "PYD",
+            "address": "0x57A449a364C126B36a74D57593106FD4643441Ac",
             "decimals": 18
         }
     ]
