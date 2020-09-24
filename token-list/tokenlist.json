@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:41:54.668Z",
+    "timestamp": "2020-09-24T00:45:54.637Z",
     "version": {
         "major": 1,
-        "minor": 2490,
+        "minor": 2491,
         "patch": 0
     },
     "keywords": [
@@ -16161,6 +16161,13 @@
             "symbol": "YACHT",
             "address": "0xC9Eb3389B20fd6Ab506a1a49b0382F8fEbd0c73F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GNEISS Coin",
+            "symbol": "GNEISS",
+            "address": "0x5da3E93faB0580bD7a532A741aC5F886376EFF46",
+            "decimals": 8
         }
     ]
 }
