@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T16:18:19.917Z",
+    "timestamp": "2020-09-24T16:23:24.743Z",
     "version": {
         "major": 1,
-        "minor": 2638,
+        "minor": 2639,
         "patch": 0
     },
     "keywords": [
@@ -17193,6 +17193,13 @@
             "name": "xbtc.fi",
             "symbol": "xBTC",
             "address": "0x3d9B9520A4705aBd39d7754C05498c2c3Ee4a9c2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPARTAburn.com",
+            "symbol": "$WAR",
+            "address": "0x6A6EdA659D55D29EB44800e969b1B3EaC900aE5F",
             "decimals": 18
         }
     ]
