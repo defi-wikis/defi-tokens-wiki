@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:12:39.552Z",
+    "timestamp": "2020-09-24T03:23:39.619Z",
     "version": {
         "major": 1,
-        "minor": 2519,
+        "minor": 2520,
         "patch": 0
     },
     "keywords": [
@@ -16363,6 +16363,13 @@
             "name": "ROMGAMEToken",
             "symbol": "ROMG",
             "address": "0xF89D14675c227390F9E2329F26a70dB65b6336Bd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFMoonshot.finance",
+            "symbol": "YFMS",
+            "address": "0x6413BE89Fcd25050Fd6d51b4e04e4E22B16848EA",
             "decimals": 18
         }
     ]
