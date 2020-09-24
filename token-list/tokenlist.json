@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:07:30.489Z",
+    "timestamp": "2020-09-24T05:12:24.886Z",
     "version": {
         "major": 1,
-        "minor": 2535,
+        "minor": 2536,
         "patch": 0
     },
     "keywords": [
@@ -16475,6 +16475,13 @@
             "name": "YZK Finance",
             "symbol": "YZK",
             "address": "0x00c3a4Ea499cF8a68F26EC78fAd0BD2BE28c2769",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TOMATODEFI.FINANCE",
+            "symbol": "TFI",
+            "address": "0x26f02Ea7c4b23ab06731A441FBB15318F058Ad80",
             "decimals": 18
         }
     ]
