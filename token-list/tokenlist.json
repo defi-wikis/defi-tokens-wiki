@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T11:49:29.473Z",
+    "timestamp": "2020-09-24T11:51:05.763Z",
     "version": {
         "major": 1,
-        "minor": 2595,
+        "minor": 2596,
         "patch": 0
     },
     "keywords": [
@@ -16895,6 +16895,13 @@
             "name": "Cherry.Finance",
             "symbol": "CHR",
             "address": "0x58B1C3fC7D8665d2f4BAAe6ACafF10c0D7dD6261",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deficopper.com V2",
+            "symbol": "DCOP2",
+            "address": "0xA93f7BB3676AeF570a4fdD797dC753b252423F73",
             "decimals": 18
         }
     ]
