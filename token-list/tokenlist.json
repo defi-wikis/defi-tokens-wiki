@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T04:41:07.193Z",
+    "timestamp": "2020-09-24T04:41:35.523Z",
     "version": {
         "major": 1,
-        "minor": 2529,
+        "minor": 2530,
         "patch": 0
     },
     "keywords": [
@@ -16433,6 +16433,13 @@
             "name": "John Finance",
             "symbol": "JHN",
             "address": "0x7CDfA3f9D50494350d5b367Da1980dcd418015c0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ernest Finance",
+            "symbol": "ERN",
+            "address": "0x92a61814891Df6e1d845a41f680Ee82f33e6Dc5B",
             "decimals": 18
         }
     ]
