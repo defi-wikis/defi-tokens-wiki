@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T08:57:14.452Z",
+    "timestamp": "2020-09-24T09:04:44.615Z",
     "version": {
         "major": 1,
-        "minor": 2567,
+        "minor": 2568,
         "patch": 0
     },
     "keywords": [
@@ -16699,6 +16699,13 @@
             "name": "Centra token",
             "symbol": "Centra",
             "address": "0x96A65609a7B84E8842732DEB08f56C3E21aC6f8a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soda POP Finance",
+            "symbol": "POP",
+            "address": "0xF0a71fa72d8dE6B59A59e9521197e674EA18E5BA",
             "decimals": 18
         }
     ]
