@@ -1,0 +1,27 @@
+{
+	"name": "Rari Stable Pool Token",
+	"symbol": "RSPT",
+	"address": "0x016bf078ABcaCB987f0589a6d3BEAdD4316922B0",
+	"decimals": 18,
+	"dharmaVerificationStatus": "VERIFIED",
+	"description": "Rari Stable Pool Token represents a share in the Rari Stable Pool, actively earning yield through various DeFi mechanisms (like lending assets).",
+	"socialLinks": [
+		{
+			"type": "Twitter",
+			"value": "https://twitter.com/RariCapital"
+		},
+		{
+			"type": "Website",
+			"value": "https://www.rari.capital/"
+		},
+		{
+			"type": "Telegram",
+			"value": "https://t.me/RariCapitalChat"
+		}
+	],
+	"tags": [
+		"defi",
+		"yield-farming",
+		"yfi-inspired"
+	]
+}
