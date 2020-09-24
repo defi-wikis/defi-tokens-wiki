@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T03:59:49.900Z",
+    "timestamp": "2020-09-24T04:06:10.074Z",
     "version": {
         "major": 1,
-        "minor": 2525,
+        "minor": 2526,
         "patch": 0
     },
     "keywords": [
@@ -16406,6 +16406,13 @@
             "symbol": "DIFI2",
             "address": "0xf44C384fe90aC962d428C8578223035b0fdB1Eaf",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STAR.Finance",
+            "symbol": "STAR",
+            "address": "0x9e42e925eC33954741F3940bAFa9a0f2BBE37574",
+            "decimals": 8
         }
     ]
 }
