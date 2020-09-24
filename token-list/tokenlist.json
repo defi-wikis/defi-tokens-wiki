@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T05:43:06.791Z",
+    "timestamp": "2020-09-24T05:43:59.408Z",
     "version": {
         "major": 1,
-        "minor": 2543,
+        "minor": 2544,
         "patch": 0
     },
     "keywords": [
@@ -16531,6 +16531,13 @@
             "name": "t.me/cryptovigilantenetwork",
             "symbol": "VIGIL",
             "address": "0xb3321F93dAfedF5296bf764806ceefFd6bCEF55a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TomatoDefi.finance",
+            "symbol": "TOMATO",
+            "address": "0x65b05Ecf3eb2CA8Ff3efe5BA87c9466E3c33d95f",
             "decimals": 18
         }
     ]
