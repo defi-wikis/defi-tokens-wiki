@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T07:52:34.656Z",
+    "timestamp": "2020-09-24T07:54:15.338Z",
     "version": {
         "major": 1,
-        "minor": 2559,
+        "minor": 2560,
         "patch": 0
     },
     "keywords": [
@@ -16643,6 +16643,13 @@
             "name": "Mushie.Finance",
             "symbol": "MUSH",
             "address": "0x179D3E24628107C1cf370def083802CE6aEA262b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chicken Finance",
+            "symbol": "KFC",
+            "address": "0x25c902e8E1aD274C8032d265352E909f0e5b7CD5",
             "decimals": 18
         }
     ]
