@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T00:08:39.577Z",
+    "timestamp": "2020-09-24T00:25:07.151Z",
     "version": {
         "major": 1,
-        "minor": 2486,
+        "minor": 2487,
         "patch": 0
     },
     "keywords": [
@@ -16133,6 +16133,13 @@
             "symbol": "NYAN",
             "address": "0xFDafaDeC5CA221445d0c5006bc7a395675F05662",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GOLD Finance",
+            "symbol": "$GOLD",
+            "address": "0xe4740f80eed35F96313301e7F8680fE74f66B82F",
+            "decimals": 8
         }
     ]
 }
