@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T16:28:59.486Z",
+    "timestamp": "2020-09-25T16:53:14.846Z",
     "version": {
         "major": 1,
-        "minor": 2806,
+        "minor": 2807,
         "patch": 0
     },
     "keywords": [
@@ -18369,6 +18369,13 @@
             "name": "Tradez",
             "symbol": "TRZ",
             "address": "0x23935765cDf2F7548F86042Ff053D16A22C4e240",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Warm Network",
+            "symbol": "WARM",
+            "address": "0x751f408b001eCFd2eFB6c87716b0a150312D0fd2",
             "decimals": 18
         }
     ]
