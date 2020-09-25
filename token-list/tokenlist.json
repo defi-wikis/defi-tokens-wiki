@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T18:48:35.199Z",
+    "timestamp": "2020-09-25T18:56:25.972Z",
     "version": {
         "major": 1,
-        "minor": 2818,
+        "minor": 2819,
         "patch": 0
     },
     "keywords": [
@@ -18445,6 +18445,13 @@
             "symbol": "BGF",
             "address": "0xA8DaA52DEd91F7C82b4BB02B4b87c6a841Db1fD5",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Token",
+            "symbol": "YFT",
+            "address": "0xB6F3FB78B87A13d607c8081e14f77cB59D945cba",
+            "decimals": 18
         }
     ]
 }
