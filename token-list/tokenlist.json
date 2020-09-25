@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:42:44.431Z",
+    "timestamp": "2020-09-25T00:45:09.586Z",
     "version": {
         "major": 1,
-        "minor": 2682,
+        "minor": 2683,
         "patch": 0
     },
     "keywords": [
@@ -17502,6 +17502,13 @@
             "symbol": "xBTC",
             "address": "0xECbF566944250ddE88322581024E611419715f7A",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "PropelCrypto",
+            "symbol": "PCR",
+            "address": "0x264Cf2798c7Df1c86E5fe8164FE24aC7532bF624",
+            "decimals": 18
         }
     ]
 }
