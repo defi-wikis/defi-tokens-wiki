@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T17:59:07.444Z",
+    "timestamp": "2020-09-25T17:59:12.115Z",
     "version": {
         "major": 1,
-        "minor": 2812,
+        "minor": 2813,
         "patch": 0
     },
     "keywords": [
@@ -18402,6 +18402,13 @@
             "name": "DogeToken",
             "symbol": "DogeT",
             "address": "0x576097fA17E1F702bB9167f0f08F2eA0898a3EA5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ArdropFinanceTOKEN",
+            "symbol": "AirdropFIN",
+            "address": "0xE96377378336d7e465e1af647C2Da18D6825fc71",
             "decimals": 18
         }
     ]
