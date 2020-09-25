@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:51:10.271Z",
+    "timestamp": "2020-09-25T15:02:10.654Z",
     "version": {
         "major": 1,
-        "minor": 2798,
+        "minor": 2799,
         "patch": 0
     },
     "keywords": [
@@ -18313,6 +18313,13 @@
             "name": " FUCK ",
             "symbol": " FUCK ",
             "address": "0xF4fA06274c10F46B4b698d164b529fB5f32CB4e7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Milky Way Galaxy",
+            "symbol": "ySPACE",
+            "address": "0x69816c14266eE9c5Ee074d03b7A6E9C9198672d2",
             "decimals": 18
         }
     ]
