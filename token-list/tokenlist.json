@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:48:25.146Z",
+    "timestamp": "2020-09-25T23:50:44.992Z",
     "version": {
         "major": 1,
-        "minor": 2847,
+        "minor": 2848,
         "patch": 0
     },
     "keywords": [
@@ -18647,6 +18647,13 @@
             "name": "Centaur Token @ Centaur.Finance",
             "symbol": "CNTR",
             "address": "0x491E7Bba4C6316dECd163b945F402055A6e0FaeD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sparta.finance",
+            "symbol": "SPARTA",
+            "address": "0xCc77B2802dBe1DE7ee987010727AF43E4ca79eA1",
             "decimals": 18
         }
     ]
