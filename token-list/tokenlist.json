@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-24T23:57:45.034Z",
+    "timestamp": "2020-09-25T00:03:24.962Z",
     "version": {
         "major": 1,
-        "minor": 2674,
+        "minor": 2675,
         "patch": 0
     },
     "keywords": [
@@ -17445,6 +17445,13 @@
             "name": "Doggy Finance",
             "symbol": "DOG",
             "address": "0x957A9eae7040Fe4aF8dd1F37524dc66016aa95e5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Abraham Finance",
+            "symbol": "ABR",
+            "address": "0x9c16bdabAe353bE6B81C718eF74C6eab78775114",
             "decimals": 18
         }
     ]
