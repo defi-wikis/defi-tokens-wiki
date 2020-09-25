@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T17:59:12.115Z",
+    "timestamp": "2020-09-25T17:59:46.048Z",
     "version": {
         "major": 1,
-        "minor": 2813,
+        "minor": 2814,
         "patch": 0
     },
     "keywords": [
@@ -18409,6 +18409,13 @@
             "name": "ArdropFinanceTOKEN",
             "symbol": "AirdropFIN",
             "address": "0xE96377378336d7e465e1af647C2Da18D6825fc71",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sweet16",
+            "symbol": "S16",
+            "address": "0x3f58aA85Ed2C262F675824083106E4fdd6dDfDBD",
             "decimals": 18
         }
     ]
