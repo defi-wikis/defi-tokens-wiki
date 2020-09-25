@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:40:24.899Z",
+    "timestamp": "2020-09-25T01:43:34.795Z",
     "version": {
         "major": 1,
-        "minor": 2692,
+        "minor": 2693,
         "patch": 0
     },
     "keywords": [
@@ -17571,6 +17571,13 @@
             "name": "Garden Of Eden, Price is Celestial",
             "symbol": "EDEN",
             "address": "0x15DD49c3b551ED85f83BF9EC2760ca473E18ADCd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fox Finance",
+            "symbol": "FOX",
+            "address": "0x06A68535494BFF3Fd6D28a1eBE445eFB52dA0559",
             "decimals": 18
         }
     ]
