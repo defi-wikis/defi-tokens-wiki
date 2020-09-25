@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T17:50:50.138Z",
+    "timestamp": "2020-09-25T17:59:07.444Z",
     "version": {
         "major": 1,
-        "minor": 2811,
+        "minor": 2812,
         "patch": 0
     },
     "keywords": [
@@ -18395,6 +18395,13 @@
             "name": "SFI Finance",
             "symbol": "SFI",
             "address": "0x5dC8Db591e7A476a0163F66822dB8c024A4F7617",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DogeToken",
+            "symbol": "DogeT",
+            "address": "0x576097fA17E1F702bB9167f0f08F2eA0898a3EA5",
             "decimals": 18
         }
     ]
