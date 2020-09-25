@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T11:04:15.007Z",
+    "timestamp": "2020-09-25T11:10:02.211Z",
     "version": {
         "major": 1,
-        "minor": 2762,
+        "minor": 2763,
         "patch": 0
     },
     "keywords": [
@@ -18061,6 +18061,13 @@
             "name": "Testa",
             "symbol": "TESTA",
             "address": "0x1da65B1868e2d36d06d7A44DBD2Be98e49E1f7f9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIX.finance",
+            "symbol": "YFIX",
+            "address": "0xa4f779074850D320B5553C9Db5Fc6A8ab15Bd34a",
             "decimals": 18
         }
     ]
