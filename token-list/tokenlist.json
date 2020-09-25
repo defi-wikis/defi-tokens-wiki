@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:23:39.546Z",
+    "timestamp": "2020-09-25T02:26:14.867Z",
     "version": {
         "major": 1,
-        "minor": 2698,
+        "minor": 2699,
         "patch": 0
     },
     "keywords": [
@@ -17613,6 +17613,13 @@
             "name": "Maria",
             "symbol": "Maria",
             "address": "0x75b0C0394771fE5E6aD31d73276F24967bA9745A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DogeToken",
+            "symbol": "DogeT",
+            "address": "0xc154ace99343350e9B303F861Ca84d6eBE2D33Dc",
             "decimals": 18
         }
     ]
