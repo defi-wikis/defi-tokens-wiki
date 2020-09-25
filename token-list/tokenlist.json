@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:16:24.418Z",
+    "timestamp": "2020-09-25T14:17:44.526Z",
     "version": {
         "major": 1,
-        "minor": 2792,
+        "minor": 2793,
         "patch": 0
     },
     "keywords": [
@@ -18271,6 +18271,13 @@
             "name": "Codezo Network",
             "symbol": "CZN",
             "address": "0xE40319da1345a7400D05F644644DE46146F9C93D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ponzi Scheme @ Ponzi.Finance",
+            "symbol": "PONZI",
+            "address": "0xDc3BEB15179BA72bf8A49106f6d42D5FDa375505",
             "decimals": 18
         }
     ]
