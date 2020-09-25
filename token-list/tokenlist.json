@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T17:59:46.048Z",
+    "timestamp": "2020-09-25T18:11:06.299Z",
     "version": {
         "major": 1,
-        "minor": 2814,
+        "minor": 2815,
         "patch": 0
     },
     "keywords": [
@@ -18416,6 +18416,13 @@
             "name": "Sweet16",
             "symbol": "S16",
             "address": "0x3f58aA85Ed2C262F675824083106E4fdd6dDfDBD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PapaToken",
+            "symbol": "PAPA",
+            "address": "0xA81E69Bf5B6849C19Ffa596068BedE2217b8B480",
             "decimals": 18
         }
     ]
