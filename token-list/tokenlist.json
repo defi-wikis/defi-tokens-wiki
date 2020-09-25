@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:46:34.617Z",
+    "timestamp": "2020-09-25T10:51:06.626Z",
     "version": {
         "major": 1,
-        "minor": 2760,
+        "minor": 2761,
         "patch": 0
     },
     "keywords": [
@@ -18047,6 +18047,13 @@
             "name": "DAWD",
             "symbol": "DAWD",
             "address": "0x54277648c6c803C7E3D0D743cdD7A664B06b6E66",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XSwap2",
+            "symbol": "XSPII",
+            "address": "0x3bdF976325760cA9fef47dbbDD438De6831b07F4",
             "decimals": 18
         }
     ]
