@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:28:09.646Z",
+    "timestamp": "2020-09-25T23:28:14.285Z",
     "version": {
         "major": 1,
-        "minor": 2840,
+        "minor": 2841,
         "patch": 0
     },
     "keywords": [
@@ -18598,6 +18598,13 @@
             "name": "LECHON",
             "symbol": "LECHN",
             "address": "0xC99D3815aF645b67d292624bAcbBEe5F8E2038E3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ampleforth Tesla",
+            "symbol": "ATSLA",
+            "address": "0x17108d538aFc53AFc7E80428385355A8a94C4960",
             "decimals": 18
         }
     ]
