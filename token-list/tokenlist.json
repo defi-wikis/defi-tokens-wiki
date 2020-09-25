@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:02:09.588Z",
+    "timestamp": "2020-09-25T14:16:24.418Z",
     "version": {
         "major": 1,
-        "minor": 2791,
+        "minor": 2792,
         "patch": 0
     },
     "keywords": [
@@ -18264,6 +18264,13 @@
             "name": "CPST ETH 400 Call 30102020",
             "symbol": "XTF.000T01",
             "address": "0x126537c06F2734d9e543F87D5379f294dd288460",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Codezo Network",
+            "symbol": "CZN",
+            "address": "0xE40319da1345a7400D05F644644DE46146F9C93D",
             "decimals": 18
         }
     ]
