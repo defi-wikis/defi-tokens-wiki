@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:35:34.502Z",
+    "timestamp": "2020-09-25T07:36:55.226Z",
     "version": {
         "major": 1,
-        "minor": 2733,
+        "minor": 2734,
         "patch": 0
     },
     "keywords": [
@@ -17858,6 +17858,13 @@
             "name": "yearnfinancial-mf",
             "symbol": "YFMF",
             "address": "0xe3d995B2B734e2Fb554ef75E70Cd1c27Af71F59B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pocket ポケット",
+            "symbol": "P1",
+            "address": "0x5b70f204488c3467eE8149A8458f15d998C406Cf",
             "decimals": 18
         }
     ]
