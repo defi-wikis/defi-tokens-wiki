@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T16:04:44.985Z",
+    "timestamp": "2020-09-25T16:09:51.371Z",
     "version": {
         "major": 1,
-        "minor": 2803,
+        "minor": 2804,
         "patch": 0
     },
     "keywords": [
@@ -18348,6 +18348,13 @@
             "name": "skale.network",
             "symbol": "SKL",
             "address": "0x0581e46495Db4081eF2e4eD0aAB945D09cfEd834",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeLorean",
+            "symbol": "DMC",
+            "address": "0x3620a54EC63B98fB709F91C1F89F77842049aFc3",
             "decimals": 18
         }
     ]
