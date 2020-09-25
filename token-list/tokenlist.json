@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:59:49.943Z",
+    "timestamp": "2020-09-25T13:08:06.713Z",
     "version": {
         "major": 1,
-        "minor": 2782,
+        "minor": 2783,
         "patch": 0
     },
     "keywords": [
@@ -18202,6 +18202,13 @@
             "symbol": "BTF",
             "address": "0xB4c080587977F358b45B2964299086Fd64cF081d",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yLand.finance",
+            "symbol": "yLand",
+            "address": "0x19E05c8e78d89a05D2144Dd8B14E92d5E86F8aab",
+            "decimals": 4
         }
     ]
 }
