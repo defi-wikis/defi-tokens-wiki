@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T11:10:10.277Z",
+    "timestamp": "2020-09-25T11:13:34.523Z",
     "version": {
         "major": 1,
-        "minor": 2764,
+        "minor": 2765,
         "patch": 0
     },
     "keywords": [
@@ -18075,6 +18075,13 @@
             "name": "Centaur Token @ Centaur.Finance",
             "symbol": "CNTR",
             "address": "0x6100f1Bd7bE0fd49e89C8bfbb0aDF2718cf098Aa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YYF.Finance",
+            "symbol": "YYF",
+            "address": "0x51112D07891302D519977D0e572a86622D7a94cE",
             "decimals": 18
         }
     ]
