@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T09:52:50.202Z",
+    "timestamp": "2020-09-25T10:05:24.680Z",
     "version": {
         "major": 1,
-        "minor": 2750,
+        "minor": 2751,
         "patch": 0
     },
     "keywords": [
@@ -17977,6 +17977,13 @@
             "name": "Uix Token",
             "symbol": "UIX",
             "address": "0xAD72157AeC83afE3e0A6d988E892a5800550fb59",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xswap Token",
+            "symbol": "XT",
+            "address": "0xe0D580cC6A860ab6Ed1595108472cE7f6dBc3E6c",
             "decimals": 18
         }
     ]
