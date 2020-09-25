@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:39:40.132Z",
+    "timestamp": "2020-09-25T23:40:07.050Z",
     "version": {
         "major": 1,
-        "minor": 2844,
+        "minor": 2845,
         "patch": 0
     },
     "keywords": [
@@ -18626,6 +18626,13 @@
             "name": "BPTN",
             "symbol": "BPTN",
             "address": "0x6c22B815904165F3599F0A4a092D458966bD8024",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FUD.finance",
+            "symbol": "FUD",
+            "address": "0x2688213fEDd489762a281a67Ae4F2295D8E17ECc",
             "decimals": 18
         }
     ]
