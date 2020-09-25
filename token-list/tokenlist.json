@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:45:09.586Z",
+    "timestamp": "2020-09-25T00:46:49.832Z",
     "version": {
         "major": 1,
-        "minor": 2683,
+        "minor": 2684,
         "patch": 0
     },
     "keywords": [
@@ -17508,6 +17508,13 @@
             "name": "PropelCrypto",
             "symbol": "PCR",
             "address": "0x264Cf2798c7Df1c86E5fe8164FE24aC7532bF624",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SSL",
+            "symbol": "SSL",
+            "address": "0x425483a4C92e2Bc1fa99630839bbb563C21dfeAa",
             "decimals": 18
         }
     ]
