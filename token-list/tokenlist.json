@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T05:53:34.952Z",
+    "timestamp": "2020-09-25T05:56:15.351Z",
     "version": {
         "major": 1,
-        "minor": 2718,
+        "minor": 2719,
         "patch": 0
     },
     "keywords": [
@@ -17754,6 +17754,13 @@
             "symbol": "$Rich",
             "address": "0xD43Be4Ecd4E1bB1ECb2E75600ECD3C4cFD079448",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "BTCFuture",
+            "symbol": "BTWL",
+            "address": "0x10601bCDF2AC43c5b0852C2c5AE38B20Cc320166",
+            "decimals": 18
         }
     ]
 }
