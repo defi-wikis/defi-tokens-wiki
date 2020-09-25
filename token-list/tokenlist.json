@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T06:13:49.373Z",
+    "timestamp": "2020-09-25T06:17:45.146Z",
     "version": {
         "major": 1,
-        "minor": 2721,
+        "minor": 2722,
         "patch": 0
     },
     "keywords": [
@@ -17774,6 +17774,13 @@
             "name": "Hyper BTC",
             "symbol": "hBTC",
             "address": "0x043AabF85Dc6955b0e4a9c9a83864889f6599f16",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HotTea.Finance",
+            "symbol": "HTF",
+            "address": "0xB12103CE903E68e4d9987a10ca71A3335D18872C",
             "decimals": 18
         }
     ]
