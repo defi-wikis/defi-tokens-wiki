@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T22:02:35.281Z",
+    "timestamp": "2020-09-25T22:21:02.051Z",
     "version": {
         "major": 1,
-        "minor": 2832,
+        "minor": 2833,
         "patch": 0
     },
     "keywords": [
@@ -18542,6 +18542,13 @@
             "name": "Bamboo token @ bmboo.cash",
             "symbol": "BMB",
             "address": "0x313BfD74df8E6189C70dd8eE4854D3f29Fd06086",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cockroach.finance",
+            "symbol": "COCK",
+            "address": "0xEF9867047473160a7f57f04Dbd6E9Fe870112c49",
             "decimals": 18
         }
     ]
