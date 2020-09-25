@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:06:29.479Z",
+    "timestamp": "2020-09-25T02:19:29.820Z",
     "version": {
         "major": 1,
-        "minor": 2696,
+        "minor": 2697,
         "patch": 0
     },
     "keywords": [
@@ -17600,6 +17600,13 @@
             "symbol": "KOL",
             "address": "0x740e31eB73218a9d4155B9faB2AF08d0181bdAD9",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YF Moonshot Token",
+            "symbol": "YFMS",
+            "address": "0xB1E4eB659216B7d304Cb539A07763a3F6FCAA330",
+            "decimals": 18
         }
     ]
 }
