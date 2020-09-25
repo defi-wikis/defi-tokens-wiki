@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T16:00:14.393Z",
+    "timestamp": "2020-09-25T16:04:44.985Z",
     "version": {
         "major": 1,
-        "minor": 2802,
+        "minor": 2803,
         "patch": 0
     },
     "keywords": [
@@ -18341,6 +18341,13 @@
             "name": "MAJED",
             "symbol": "MAJ",
             "address": "0x6164283643D90403509Fee2ee055faAd72Cea413",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "skale.network",
+            "symbol": "SKL",
+            "address": "0x0581e46495Db4081eF2e4eD0aAB945D09cfEd834",
             "decimals": 18
         }
     ]
