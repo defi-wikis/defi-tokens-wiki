@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:30:50.315Z",
+    "timestamp": "2020-09-25T10:36:40.422Z",
     "version": {
         "major": 1,
-        "minor": 2758,
+        "minor": 2759,
         "patch": 0
     },
     "keywords": [
@@ -18034,6 +18034,13 @@
             "symbol": "MTX",
             "address": "0x7832956C2306F9A2c510cDf2Af226A208059F019",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yLand.finance",
+            "symbol": "yLand",
+            "address": "0xA2CC3829A5886865cDB0B9f0E7bB9ec9F6B56bC0",
+            "decimals": 4
         }
     ]
 }
