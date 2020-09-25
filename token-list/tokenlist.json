@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:05:06.636Z",
+    "timestamp": "2020-09-25T02:06:29.479Z",
     "version": {
         "major": 1,
-        "minor": 2695,
+        "minor": 2696,
         "patch": 0
     },
     "keywords": [
@@ -17593,6 +17593,13 @@
             "symbol": "xBTC",
             "address": "0x680e348e32eC2C6B01d80d1f5C8c3AFa8799c595",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kolibri Token",
+            "symbol": "KOL",
+            "address": "0x740e31eB73218a9d4155B9faB2AF08d0181bdAD9",
+            "decimals": 8
         }
     ]
 }
