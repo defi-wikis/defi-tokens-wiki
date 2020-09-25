@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T04:09:35.103Z",
+    "timestamp": "2020-09-25T04:32:24.566Z",
     "version": {
         "major": 1,
-        "minor": 2710,
+        "minor": 2711,
         "patch": 0
     },
     "keywords": [
@@ -17698,6 +17698,13 @@
             "symbol": "YELD",
             "address": "0x07A690Fb0ef85498047d46D9E53BE91d9A755149",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Last Man Standing TEST",
+            "symbol": "LMST",
+            "address": "0x32b704FDbE796fC24A5918F9934a430bf237A15e",
+            "decimals": 0
         }
     ]
 }
