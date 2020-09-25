@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T22:21:02.051Z",
+    "timestamp": "2020-09-25T22:30:25.086Z",
     "version": {
         "major": 1,
-        "minor": 2833,
+        "minor": 2834,
         "patch": 0
     },
     "keywords": [
@@ -18549,6 +18549,13 @@
             "name": "Cockroach.finance",
             "symbol": "COCK",
             "address": "0xEF9867047473160a7f57f04Dbd6E9Fe870112c49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Avocado Finance",
+            "symbol": "AVO",
+            "address": "0x284bEEd3f70Cf56e16996fEf94c2F2EE30b6A740",
             "decimals": 18
         }
     ]
