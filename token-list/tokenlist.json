@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T19:02:50.310Z",
+    "timestamp": "2020-09-25T19:04:59.974Z",
     "version": {
         "major": 1,
-        "minor": 2821,
+        "minor": 2822,
         "patch": 0
     },
     "keywords": [
@@ -18465,6 +18465,13 @@
             "name": "Yeb",
             "symbol": "YEB",
             "address": "0x36aaDf08BFB999d8BD1edbf4D1CCFA6a8F1CD711",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BETHERO",
+            "symbol": "HERO",
+            "address": "0xB9A1ECcd8324d586B2d95b95Ac75Ea8E6e72154E",
             "decimals": 18
         }
     ]
