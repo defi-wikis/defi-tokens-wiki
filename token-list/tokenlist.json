@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:17:44.526Z",
+    "timestamp": "2020-09-25T14:21:35.516Z",
     "version": {
         "major": 1,
-        "minor": 2793,
+        "minor": 2794,
         "patch": 0
     },
     "keywords": [
@@ -18278,6 +18278,13 @@
             "name": "Ponzi Scheme @ Ponzi.Finance",
             "symbol": "PONZI",
             "address": "0xDc3BEB15179BA72bf8A49106f6d42D5FDa375505",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Semi Centralized Finance v2",
+            "symbol": "SCFI v2",
+            "address": "0x6debc4e5D398F7c32af927a43cd2fCc523764bA2",
             "decimals": 18
         }
     ]
