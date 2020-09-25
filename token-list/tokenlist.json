@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T05:27:44.496Z",
+    "timestamp": "2020-09-25T05:29:20.270Z",
     "version": {
         "major": 1,
-        "minor": 2715,
+        "minor": 2716,
         "patch": 0
     },
     "keywords": [
@@ -17732,6 +17732,13 @@
             "name": "BaaToken",
             "symbol": "BAA",
             "address": "0x5016C464595870fa23a839aA6B78F48433178F53",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ICETEA.FINANCE",
+            "symbol": "ICETEA",
+            "address": "0xE117D681AFda47b87FD2D7B7e84BA866002fc0a0",
             "decimals": 18
         }
     ]
