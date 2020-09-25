@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:13:40.695Z",
+    "timestamp": "2020-09-25T01:31:06.827Z",
     "version": {
         "major": 1,
-        "minor": 2690,
+        "minor": 2691,
         "patch": 0
     },
     "keywords": [
@@ -17557,6 +17557,13 @@
             "name": "Many",
             "symbol": "MANY",
             "address": "0x26a662539008d36fa3246be2c04e8F9919E2c02f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GweiFi Live",
+            "symbol": "GFI",
+            "address": "0x2874D3a3D94093E7d5402A9d37FB81838Cd72758",
             "decimals": 18
         }
     ]
