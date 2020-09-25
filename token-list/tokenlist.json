@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T13:49:24.415Z",
+    "timestamp": "2020-09-25T13:52:55.421Z",
     "version": {
         "major": 1,
-        "minor": 2787,
+        "minor": 2788,
         "patch": 0
     },
     "keywords": [
@@ -18236,6 +18236,13 @@
             "name": "YFE.Fund",
             "symbol": "YFE",
             "address": "0x5227e3A0152B7Ce1089837D29ca3BE66AbF7A0a5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Speculative Resistance RTC",
+            "symbol": "SPECTRE",
+            "address": "0x441d91F7AAEe51C7AE8cAB84333D6383A8a8C175",
             "decimals": 18
         }
     ]
