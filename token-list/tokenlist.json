@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T18:29:44.557Z",
+    "timestamp": "2020-09-25T18:44:50.674Z",
     "version": {
         "major": 1,
-        "minor": 2816,
+        "minor": 2817,
         "patch": 0
     },
     "keywords": [
@@ -18430,6 +18430,13 @@
             "name": "Shambala",
             "symbol": "SHAM",
             "address": "0x00A884e8d8a8Fd52F11ce7AcAA55294e2C01E7C3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PapaToken",
+            "symbol": "PAPA",
+            "address": "0xadE5900F0c560Dc3aed9eBE93CeFf90f69745dF5",
             "decimals": 18
         }
     ]
