@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:30:24.767Z",
+    "timestamp": "2020-09-25T10:30:50.315Z",
     "version": {
         "major": 1,
-        "minor": 2757,
+        "minor": 2758,
         "patch": 0
     },
     "keywords": [
@@ -18026,6 +18026,13 @@
             "name": "SHLIAPA",
             "symbol": "SHLIAPA",
             "address": "0xfDA3b27Ce3AB814ceA7715bD960d8b8C04Eb351E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Metrax",
+            "symbol": "MTX",
+            "address": "0x7832956C2306F9A2c510cDf2Af226A208059F019",
             "decimals": 18
         }
     ]
