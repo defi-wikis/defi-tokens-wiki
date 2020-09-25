@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:59:15.530Z",
+    "timestamp": "2020-09-25T08:17:30.912Z",
     "version": {
         "major": 1,
-        "minor": 2736,
+        "minor": 2737,
         "patch": 0
     },
     "keywords": [
@@ -17879,6 +17879,13 @@
             "name": "Hotdogfi.club",
             "symbol": "HOTC",
             "address": "0xF8608b4f74E2adfa43FF8527529E961276a47F17",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Salty.Finance",
+            "symbol": "SLT",
+            "address": "0x84b2E4A6931931063daCa9a73f4Fc5560B418009",
             "decimals": 18
         }
     ]
