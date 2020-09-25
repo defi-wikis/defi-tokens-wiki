@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T15:54:54.670Z",
+    "timestamp": "2020-09-25T16:00:14.393Z",
     "version": {
         "major": 1,
-        "minor": 2801,
+        "minor": 2802,
         "patch": 0
     },
     "keywords": [
@@ -18334,6 +18334,13 @@
             "name": "eee.finance",
             "symbol": "EEE",
             "address": "0x2BB6c0003b41269903E182104A679B889B0c0151",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MAJED",
+            "symbol": "MAJ",
+            "address": "0x6164283643D90403509Fee2ee055faAd72Cea413",
             "decimals": 18
         }
     ]
