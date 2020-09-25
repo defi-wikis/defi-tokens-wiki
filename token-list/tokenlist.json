@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T08:59:54.459Z",
+    "timestamp": "2020-09-25T09:00:55.459Z",
     "version": {
         "major": 1,
-        "minor": 2744,
+        "minor": 2745,
         "patch": 0
     },
     "keywords": [
@@ -17935,6 +17935,13 @@
             "name": "Apple.Finance",
             "symbol": "APPLE",
             "address": "0x191CfAdC5466CdB2e8eA323e8A4A3D7b9c5E0944",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfpi.finance",
+            "symbol": "YFPI",
+            "address": "0x95Be5b93bfC3D12DeDd7Fc2d27E9f067710Ab065",
             "decimals": 18
         }
     ]
