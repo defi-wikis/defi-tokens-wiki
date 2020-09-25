@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:36:55.226Z",
+    "timestamp": "2020-09-25T07:53:54.666Z",
     "version": {
         "major": 1,
-        "minor": 2734,
+        "minor": 2735,
         "patch": 0
     },
     "keywords": [
@@ -17865,6 +17865,13 @@
             "name": "Pocket ポケット",
             "symbol": "P1",
             "address": "0x5b70f204488c3467eE8149A8458f15d998C406Cf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfic.money",
+            "symbol": "YFIC",
+            "address": "0xC543b3911Aba23B6E6F7cF1228463FeEBB4aD7e9",
             "decimals": 18
         }
     ]
