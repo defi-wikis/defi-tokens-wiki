@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:11:50.219Z",
+    "timestamp": "2020-09-25T12:19:35.836Z",
     "version": {
         "major": 1,
-        "minor": 2771,
+        "minor": 2772,
         "patch": 0
     },
     "keywords": [
@@ -18124,6 +18124,13 @@
             "name": "Befull DAO",
             "symbol": "BDO",
             "address": "0xAdb795AAaEc1339598bF360F033d723697450452",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jeo Exchange",
+            "symbol": "JEO",
+            "address": "0x27b55BA8B7D251d6e98246AE554B7821F09dd6Af",
             "decimals": 18
         }
     ]
