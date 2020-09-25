@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:04:54.632Z",
+    "timestamp": "2020-09-25T12:11:50.219Z",
     "version": {
         "major": 1,
-        "minor": 2770,
+        "minor": 2771,
         "patch": 0
     },
     "keywords": [
@@ -18117,6 +18117,13 @@
             "name": "YCS Token",
             "symbol": "YCS",
             "address": "0xb73EdC787013169461bAeA5774dA706aa506bCFb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Befull DAO",
+            "symbol": "BDO",
+            "address": "0xAdb795AAaEc1339598bF360F033d723697450452",
             "decimals": 18
         }
     ]
