@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:56:49.496Z",
+    "timestamp": "2020-09-25T01:04:59.838Z",
     "version": {
         "major": 1,
-        "minor": 2685,
+        "minor": 2686,
         "patch": 0
     },
     "keywords": [
@@ -17522,6 +17522,13 @@
             "name": "xKAI Finance",
             "symbol": "XKAI",
             "address": "0x6f57c64CCF882D69e8eeAbA63a26EA02Ca104C90",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eggy.Finance",
+            "symbol": "EGG",
+            "address": "0xA1b51A1b99Acca9D87ad98d373750146204F7d6b",
             "decimals": 18
         }
     ]
