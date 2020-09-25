@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T20:51:44.439Z",
+    "timestamp": "2020-09-25T20:58:59.663Z",
     "version": {
         "major": 1,
-        "minor": 2826,
+        "minor": 2827,
         "patch": 0
     },
     "keywords": [
@@ -18500,6 +18500,13 @@
             "name": "BitcoinToMoon",
             "symbol": "BTCM",
             "address": "0x1f08673F076B5B6487EA604773F054c8B1bD9148",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "3 Comma Club",
+            "symbol": "THREE",
+            "address": "0x14fD3063dfd3cE0A2C4C5eE43aB49988A989202C",
             "decimals": 18
         }
     ]
