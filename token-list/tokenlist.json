@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T18:56:25.972Z",
+    "timestamp": "2020-09-25T19:00:12.677Z",
     "version": {
         "major": 1,
-        "minor": 2819,
+        "minor": 2820,
         "patch": 0
     },
     "keywords": [
@@ -18451,6 +18451,13 @@
             "name": "Yearn Finance Token",
             "symbol": "YFT",
             "address": "0xB6F3FB78B87A13d607c8081e14f77cB59D945cba",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NoUtilityDefi",
+            "symbol": "NUD",
+            "address": "0x88E377a5Be65c730C669b3a098784dB667314380",
             "decimals": 18
         }
     ]
