@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:09:39.642Z",
+    "timestamp": "2020-09-25T00:19:06.094Z",
     "version": {
         "major": 1,
-        "minor": 2678,
+        "minor": 2679,
         "patch": 0
     },
     "keywords": [
@@ -17473,6 +17473,13 @@
             "name": "Exclastic Finance",
             "symbol": "EXC",
             "address": "0x18d0E29962F96ddDEC63491B2e4b1f009cF9f057",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WEESH",
+            "symbol": "WEESH",
+            "address": "0x3e8490E7f3fc5AEaA0068b72Ec10FfA0B41Dfc3f",
             "decimals": 18
         }
     ]
