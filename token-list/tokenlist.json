@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:21:35.516Z",
+    "timestamp": "2020-09-25T14:26:20.215Z",
     "version": {
         "major": 1,
-        "minor": 2794,
+        "minor": 2795,
         "patch": 0
     },
     "keywords": [
@@ -18285,6 +18285,13 @@
             "name": "Semi Centralized Finance v2",
             "symbol": "SCFI v2",
             "address": "0x6debc4e5D398F7c32af927a43cd2fCc523764bA2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cctip.io",
+            "symbol": "AFY",
+            "address": "0x9011AAAf93F48472283245138463DcAb40c136e9",
             "decimals": 18
         }
     ]
