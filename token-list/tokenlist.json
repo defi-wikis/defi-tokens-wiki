@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T15:04:59.790Z",
+    "timestamp": "2020-09-25T15:54:54.670Z",
     "version": {
         "major": 1,
-        "minor": 2800,
+        "minor": 2801,
         "patch": 0
     },
     "keywords": [
@@ -18327,6 +18327,13 @@
             "name": "FF Finance",
             "symbol": "FFF",
             "address": "0x0E96a15caFE05aeAa889b5c65dDAf88D3B8d030d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eee.finance",
+            "symbol": "EEE",
+            "address": "0x2BB6c0003b41269903E182104A679B889B0c0151",
             "decimals": 18
         }
     ]
