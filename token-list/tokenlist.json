@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:19:29.820Z",
+    "timestamp": "2020-09-25T02:23:39.546Z",
     "version": {
         "major": 1,
-        "minor": 2697,
+        "minor": 2698,
         "patch": 0
     },
     "keywords": [
@@ -17606,6 +17606,13 @@
             "name": "YF Moonshot Token",
             "symbol": "YFMS",
             "address": "0xB1E4eB659216B7d304Cb539A07763a3F6FCAA330",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Maria",
+            "symbol": "Maria",
+            "address": "0x75b0C0394771fE5E6aD31d73276F24967bA9745A",
             "decimals": 18
         }
     ]
