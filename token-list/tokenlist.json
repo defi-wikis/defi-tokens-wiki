@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T09:06:59.589Z",
+    "timestamp": "2020-09-25T09:09:34.297Z",
     "version": {
         "major": 1,
-        "minor": 2746,
+        "minor": 2747,
         "patch": 0
     },
     "keywords": [
@@ -17949,6 +17949,13 @@
             "name": "Dont Buy Sushi",
             "symbol": "SUSH",
             "address": "0x268B6AE61E640f30B8ea0bc14BE6e81868CE9AB0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Drip",
+            "symbol": "DRIP",
+            "address": "0x6dc3536f3906aCF3c8056653CB52009E754360d0",
             "decimals": 18
         }
     ]
