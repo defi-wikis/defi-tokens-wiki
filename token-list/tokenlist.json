@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T06:46:44.364Z",
+    "timestamp": "2020-09-25T06:49:06.622Z",
     "version": {
         "major": 1,
-        "minor": 2725,
+        "minor": 2726,
         "patch": 0
     },
     "keywords": [
@@ -17803,6 +17803,13 @@
             "symbol": "BCG",
             "address": "0xD3df385B376571e63B176a86053aAD66Fb38E2bc",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ArtFinity",
+            "symbol": "AT",
+            "address": "0xE54B3458C47E44C37a267E7C633AFEF88287C294",
+            "decimals": 5
         }
     ]
 }
