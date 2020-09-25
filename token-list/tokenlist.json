@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T06:40:24.610Z",
+    "timestamp": "2020-09-25T06:46:44.364Z",
     "version": {
         "major": 1,
-        "minor": 2724,
+        "minor": 2725,
         "patch": 0
     },
     "keywords": [
@@ -17795,6 +17795,13 @@
             "name": "Green Energy Coin ",
             "symbol": "GREC",
             "address": "0x091094D324005054E49608D2d29069eB9CB6C7A2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BullionsChain Gold",
+            "symbol": "BCG",
+            "address": "0xD3df385B376571e63B176a86053aAD66Fb38E2bc",
             "decimals": 18
         }
     ]
