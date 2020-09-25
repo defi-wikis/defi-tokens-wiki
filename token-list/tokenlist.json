@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T06:19:44.703Z",
+    "timestamp": "2020-09-25T06:40:24.610Z",
     "version": {
         "major": 1,
-        "minor": 2723,
+        "minor": 2724,
         "patch": 0
     },
     "keywords": [
@@ -17788,6 +17788,13 @@
             "name": "ACDEX",
             "symbol": "ACXT",
             "address": "0x038046037213748C71E11A6919A822e5D5448038",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Green Energy Coin ",
+            "symbol": "GREC",
+            "address": "0x091094D324005054E49608D2d29069eB9CB6C7A2",
             "decimals": 18
         }
     ]
