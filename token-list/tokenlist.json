@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T03:17:25.133Z",
+    "timestamp": "2020-09-25T03:26:49.569Z",
     "version": {
         "major": 1,
-        "minor": 2706,
+        "minor": 2707,
         "patch": 0
     },
     "keywords": [
@@ -17669,6 +17669,13 @@
             "name": "lpxtoken",
             "symbol": "LPX",
             "address": "0x0a6fC6CA12A27dF93dE4dcE5b62d141AAa4Be99E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Geronimo Finance",
+            "symbol": "GER",
+            "address": "0xC0ADf9292bdA448107667126D3942578298b76c0",
             "decimals": 18
         }
     ]
