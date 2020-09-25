@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:45:08.395Z",
+    "timestamp": "2020-09-25T02:47:49.854Z",
     "version": {
         "major": 1,
-        "minor": 2701,
+        "minor": 2702,
         "patch": 0
     },
     "keywords": [
@@ -17634,6 +17634,13 @@
             "name": "VKontakte Finance",
             "symbol": "VK",
             "address": "0x91Dd243Ec20B1a37BEf8A5cf02C991D622FBfd72",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlueKirby.eth",
+            "symbol": "YFI",
+            "address": "0x2d4BD1a527E5780bfe1C855371a296a8646290a2",
             "decimals": 18
         }
     ]
