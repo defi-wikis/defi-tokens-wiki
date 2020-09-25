@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:22:15.131Z",
+    "timestamp": "2020-09-25T10:29:34.547Z",
     "version": {
         "major": 1,
-        "minor": 2755,
+        "minor": 2756,
         "patch": 0
     },
     "keywords": [
@@ -18013,6 +18013,13 @@
             "symbol": "YLAND",
             "address": "0x36F818Ad8A9d303b2B5FE39627b2809D235382a6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AirDance",
+            "symbol": "DANCE",
+            "address": "0xdF1d11025F2A22b9DC01C7A100B4F6DdEBAc82A3",
+            "decimals": 2
         }
     ]
 }
