@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T05:29:20.270Z",
+    "timestamp": "2020-09-25T05:38:10.342Z",
     "version": {
         "major": 1,
-        "minor": 2716,
+        "minor": 2717,
         "patch": 0
     },
     "keywords": [
@@ -17739,6 +17739,13 @@
             "name": "ICETEA.FINANCE",
             "symbol": "ICETEA",
             "address": "0xE117D681AFda47b87FD2D7B7e84BA866002fc0a0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PancakeSwap.finance",
+            "symbol": "CAKE",
+            "address": "0xCb039d11Fd38167de19536453a105271A5e44392",
             "decimals": 18
         }
     ]
