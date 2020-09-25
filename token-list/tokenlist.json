@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T11:14:24.419Z",
+    "timestamp": "2020-09-25T11:57:15.840Z",
     "version": {
         "major": 1,
-        "minor": 2766,
+        "minor": 2767,
         "patch": 0
     },
     "keywords": [
@@ -18089,6 +18089,13 @@
             "name": "DEXPRO",
             "symbol": "DPRO",
             "address": "0x617A781e26419b5B0D9BF63c4ECB7f192AdB9768",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfix.finance",
+            "symbol": "YFIX",
+            "address": "0x3D76840198b0DE6dc06774ffe1f690F23143dAA9",
             "decimals": 18
         }
     ]
