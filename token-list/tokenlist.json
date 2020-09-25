@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:43:34.795Z",
+    "timestamp": "2020-09-25T01:55:07.788Z",
     "version": {
         "major": 1,
-        "minor": 2693,
+        "minor": 2694,
         "patch": 0
     },
     "keywords": [
@@ -17578,6 +17578,13 @@
             "name": "Fox Finance",
             "symbol": "FOX",
             "address": "0x06A68535494BFF3Fd6D28a1eBE445eFB52dA0559",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fox Finance 2",
+            "symbol": "FOX2",
+            "address": "0x59Db8C63cBc51793E3e4a7bC0ede513B559032aD",
             "decimals": 18
         }
     ]
