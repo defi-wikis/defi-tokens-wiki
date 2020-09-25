@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:05:24.680Z",
+    "timestamp": "2020-09-25T10:15:11.865Z",
     "version": {
         "major": 1,
-        "minor": 2751,
+        "minor": 2752,
         "patch": 0
     },
     "keywords": [
@@ -17985,6 +17985,13 @@
             "symbol": "XT",
             "address": "0xe0D580cC6A860ab6Ed1595108472cE7f6dBc3E6c",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bitpanda Ecosystem Token",
+            "symbol": "BEST",
+            "address": "0x1B073382E63411E3BcfFE90aC1B9A43feFa1Ec6F",
+            "decimals": 8
         }
     ]
 }
