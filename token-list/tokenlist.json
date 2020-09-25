@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:18:30.637Z",
+    "timestamp": "2020-09-25T10:20:06.578Z",
     "version": {
         "major": 1,
-        "minor": 2753,
+        "minor": 2754,
         "patch": 0
     },
     "keywords": [
@@ -17998,6 +17998,13 @@
             "name": "dontbuymomo.com",
             "symbol": "$MOMO",
             "address": "0xC8A8a04Af6c7eD1b2Aa3A1556Cdbb4E426646f49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pepsi.Finance",
+            "symbol": "PEPSI",
+            "address": "0xB45f7F164B855cB39A5D6FD584f147a9FC69eD2f",
             "decimals": 18
         }
     ]
