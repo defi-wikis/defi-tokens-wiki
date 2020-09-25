@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:12:39.486Z",
+    "timestamp": "2020-09-25T01:13:40.695Z",
     "version": {
         "major": 1,
-        "minor": 2689,
+        "minor": 2690,
         "patch": 0
     },
     "keywords": [
@@ -17550,6 +17550,13 @@
             "name": "Heuristic Finance",
             "symbol": "HER",
             "address": "0xDA6373F64133821E3b017b9cd31f57F3BDD4A543",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Many",
+            "symbol": "MANY",
+            "address": "0x26a662539008d36fa3246be2c04e8F9919E2c02f",
             "decimals": 18
         }
     ]
