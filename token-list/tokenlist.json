@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T11:57:35.377Z",
+    "timestamp": "2020-09-25T12:02:24.912Z",
     "version": {
         "major": 1,
-        "minor": 2768,
+        "minor": 2769,
         "patch": 0
     },
     "keywords": [
@@ -18103,6 +18103,13 @@
             "name": "Arweave",
             "symbol": "AR",
             "address": "0x255572964432f9cb677B67f42C4a5B51247c483A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JokerToken",
+            "symbol": "JOKER",
+            "address": "0x5cC4D697C8dCA18EdC09d6B9c656a788E873c6C1",
             "decimals": 18
         }
     ]
