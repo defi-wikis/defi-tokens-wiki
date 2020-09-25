@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:08:20.799Z",
+    "timestamp": "2020-09-25T01:12:39.486Z",
     "version": {
         "major": 1,
-        "minor": 2688,
+        "minor": 2689,
         "patch": 0
     },
     "keywords": [
@@ -17543,6 +17543,13 @@
             "name": "Orb",
             "symbol": "ORB",
             "address": "0x7BB594b3c757801346801f025699E39E7aaf5a49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Heuristic Finance",
+            "symbol": "HER",
+            "address": "0xDA6373F64133821E3b017b9cd31f57F3BDD4A543",
             "decimals": 18
         }
     ]
