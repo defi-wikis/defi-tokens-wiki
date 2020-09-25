@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:55:07.788Z",
+    "timestamp": "2020-09-25T02:05:06.636Z",
     "version": {
         "major": 1,
-        "minor": 2694,
+        "minor": 2695,
         "patch": 0
     },
     "keywords": [
@@ -17585,6 +17585,13 @@
             "name": "Fox Finance 2",
             "symbol": "FOX2",
             "address": "0x59Db8C63cBc51793E3e4a7bC0ede513B559032aD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xBTC.fi",
+            "symbol": "xBTC",
+            "address": "0x680e348e32eC2C6B01d80d1f5C8c3AFa8799c595",
             "decimals": 18
         }
     ]
