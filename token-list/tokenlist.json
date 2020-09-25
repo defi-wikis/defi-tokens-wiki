@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:26:14.867Z",
+    "timestamp": "2020-09-25T02:43:34.714Z",
     "version": {
         "major": 1,
-        "minor": 2699,
+        "minor": 2700,
         "patch": 0
     },
     "keywords": [
@@ -17620,6 +17620,13 @@
             "name": "DogeToken",
             "symbol": "DogeT",
             "address": "0xc154ace99343350e9B303F861Ca84d6eBE2D33Dc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0xe2aAb7232a9545F29112f9e6441661fD6eEB0a5d",
             "decimals": 18
         }
     ]
