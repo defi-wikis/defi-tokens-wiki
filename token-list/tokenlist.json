@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:36:40.422Z",
+    "timestamp": "2020-09-25T10:46:34.617Z",
     "version": {
         "major": 1,
-        "minor": 2759,
+        "minor": 2760,
         "patch": 0
     },
     "keywords": [
@@ -18041,6 +18041,13 @@
             "symbol": "yLand",
             "address": "0xA2CC3829A5886865cDB0B9f0E7bB9ec9F6B56bC0",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "DAWD",
+            "symbol": "DAWD",
+            "address": "0x54277648c6c803C7E3D0D743cdD7A664B06b6E66",
+            "decimals": 18
         }
     ]
 }
