@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T13:57:01.850Z",
+    "timestamp": "2020-09-25T13:57:35.244Z",
     "version": {
         "major": 1,
-        "minor": 2789,
+        "minor": 2790,
         "patch": 0
     },
     "keywords": [
@@ -18250,6 +18250,13 @@
             "name": "Starswap Token",
             "symbol": "STAR",
             "address": "0xAbC456299E7C29902dF175571500d3402358C46d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SFI Finance",
+            "symbol": "SFI",
+            "address": "0x6E7f4dC7Da16e0FD231cAE43689231414A147BB1",
             "decimals": 18
         }
     ]
