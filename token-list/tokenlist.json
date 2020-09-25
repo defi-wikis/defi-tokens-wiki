@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:20:06.578Z",
+    "timestamp": "2020-09-25T10:22:15.131Z",
     "version": {
         "major": 1,
-        "minor": 2754,
+        "minor": 2755,
         "patch": 0
     },
     "keywords": [
@@ -18005,6 +18005,13 @@
             "name": "Pepsi.Finance",
             "symbol": "PEPSI",
             "address": "0xB45f7F164B855cB39A5D6FD584f147a9FC69eD2f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "(yLand)",
+            "symbol": "YLAND",
+            "address": "0x36F818Ad8A9d303b2B5FE39627b2809D235382a6",
             "decimals": 18
         }
     ]
