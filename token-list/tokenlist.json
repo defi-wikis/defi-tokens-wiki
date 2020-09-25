@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T04:32:24.566Z",
+    "timestamp": "2020-09-25T04:39:44.016Z",
     "version": {
         "major": 1,
-        "minor": 2711,
+        "minor": 2712,
         "patch": 0
     },
     "keywords": [
@@ -17705,6 +17705,13 @@
             "symbol": "LMST",
             "address": "0x32b704FDbE796fC24A5918F9934a430bf237A15e",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "mushie.finance",
+            "symbol": "MUSH",
+            "address": "0x128deDb8f927CC480FDbA7eC7Fe6c968baD34a50",
+            "decimals": 4
         }
     ]
 }
