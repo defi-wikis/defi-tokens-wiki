@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T08:28:09.952Z",
+    "timestamp": "2020-09-25T08:37:59.571Z",
     "version": {
         "major": 1,
-        "minor": 2740,
+        "minor": 2741,
         "patch": 0
     },
     "keywords": [
@@ -17907,6 +17907,13 @@
             "name": "CHS",
             "symbol": "CHS",
             "address": "0x88C97F3fC11E28650F10c1862381A3262B572270",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Solid Network",
+            "symbol": "SOLID",
+            "address": "0x98Eb662e2Bdb54da73995a2d1011DfCb5481BA94",
             "decimals": 18
         }
     ]
