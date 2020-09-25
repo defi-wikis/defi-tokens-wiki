@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T04:39:44.016Z",
+    "timestamp": "2020-09-25T04:46:06.836Z",
     "version": {
         "major": 1,
-        "minor": 2712,
+        "minor": 2713,
         "patch": 0
     },
     "keywords": [
@@ -17712,6 +17712,13 @@
             "symbol": "MUSH",
             "address": "0x128deDb8f927CC480FDbA7eC7Fe6c968baD34a50",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Last Man Standing TEST2",
+            "symbol": "LMST2",
+            "address": "0x9c6410c56482A124eD46aE0BE0bBe4025A3f2663",
+            "decimals": 0
         }
     ]
 }
