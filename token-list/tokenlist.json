@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:51:06.538Z",
+    "timestamp": "2020-09-25T02:56:44.457Z",
     "version": {
         "major": 1,
-        "minor": 2703,
+        "minor": 2704,
         "patch": 0
     },
     "keywords": [
@@ -17648,6 +17648,13 @@
             "name": "Alpha DAO ",
             "symbol": "ADAO",
             "address": "0xB40554169eff159B80E563db17474e96D6F1EfCB",
+            "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Yanke",
+            "symbol": "YKE",
+            "address": "0x19669BFd8A77baE79D75F47e1EE2F80F12430107",
             "decimals": 4
         }
     ]
