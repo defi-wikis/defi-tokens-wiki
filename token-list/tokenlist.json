@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:25:54.643Z",
+    "timestamp": "2020-09-25T07:26:29.945Z",
     "version": {
         "major": 1,
-        "minor": 2731,
+        "minor": 2732,
         "patch": 0
     },
     "keywords": [
@@ -17844,6 +17844,13 @@
             "name": "GALAXY SWAP FARM",
             "symbol": "GLXS",
             "address": "0xCb8F0477C20E98F1CEc588e24a800879d5cd3b8D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEME SWAP",
+            "symbol": "MEME",
+            "address": "0xbE71a546369E094Ec6e6E6002a07cD41c7427C89",
             "decimals": 18
         }
     ]
