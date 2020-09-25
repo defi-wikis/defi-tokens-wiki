@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T20:27:19.822Z",
+    "timestamp": "2020-09-25T20:45:49.654Z",
     "version": {
         "major": 1,
-        "minor": 2824,
+        "minor": 2825,
         "patch": 0
     },
     "keywords": [
@@ -18487,6 +18487,13 @@
             "symbol": "TPS-202011",
             "address": "0xB3e5149d516f6024F5fE45b5776832F4Bb39942e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YES Donald Trump",
+            "symbol": "yTrump",
+            "address": "0x3af375d9f77Ddd4F16F86A5D51a9386b7B4493Fa",
+            "decimals": 15
         }
     ]
 }
