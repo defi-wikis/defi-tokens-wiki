@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T09:09:34.297Z",
+    "timestamp": "2020-09-25T09:23:49.659Z",
     "version": {
         "major": 1,
-        "minor": 2747,
+        "minor": 2748,
         "patch": 0
     },
     "keywords": [
@@ -17956,6 +17956,13 @@
             "name": "Drip",
             "symbol": "DRIP",
             "address": "0x6dc3536f3906aCF3c8056653CB52009E754360d0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "salty.finance",
+            "symbol": "SLT",
+            "address": "0x8FAa7a971A1f627D059850b03Ff74348439b891D",
             "decimals": 18
         }
     ]
