@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:07:19.984Z",
+    "timestamp": "2020-09-25T00:09:39.642Z",
     "version": {
         "major": 1,
-        "minor": 2677,
+        "minor": 2678,
         "patch": 0
     },
     "keywords": [
@@ -17466,6 +17466,13 @@
             "name": "Gold Hedge Fund",
             "symbol": "GHF",
             "address": "0x15cA0e237319711584dC8a00c3bD2cB22ffdc62a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Exclastic Finance",
+            "symbol": "EXC",
+            "address": "0x18d0E29962F96ddDEC63491B2e4b1f009cF9f057",
             "decimals": 18
         }
     ]
