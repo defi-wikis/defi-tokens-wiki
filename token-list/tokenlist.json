@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:35:24.382Z",
+    "timestamp": "2020-09-25T14:36:54.473Z",
     "version": {
         "major": 1,
-        "minor": 2796,
+        "minor": 2797,
         "patch": 0
     },
     "keywords": [
@@ -18299,6 +18299,13 @@
             "name": "kiwi.finance",
             "symbol": "KIWI",
             "address": "0xa06b5d108EfAf3673Ad28b20AF5c4DD2dfe4ab7f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFSigma",
+            "symbol": "YFS",
+            "address": "0x4Bdfc0BFb26aee631a3BFAA15Fb714d6bcB05186",
             "decimals": 18
         }
     ]
