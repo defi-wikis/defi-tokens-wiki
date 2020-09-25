@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T15:02:10.654Z",
+    "timestamp": "2020-09-25T15:04:59.790Z",
     "version": {
         "major": 1,
-        "minor": 2799,
+        "minor": 2800,
         "patch": 0
     },
     "keywords": [
@@ -18320,6 +18320,13 @@
             "name": "Milky Way Galaxy",
             "symbol": "ySPACE",
             "address": "0x69816c14266eE9c5Ee074d03b7A6E9C9198672d2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FF Finance",
+            "symbol": "FFF",
+            "address": "0x0E96a15caFE05aeAa889b5c65dDAf88D3B8d030d",
             "decimals": 18
         }
     ]
