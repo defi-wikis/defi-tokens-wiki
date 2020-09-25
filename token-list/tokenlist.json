@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:22:35.413Z",
+    "timestamp": "2020-09-25T07:25:54.643Z",
     "version": {
         "major": 1,
-        "minor": 2730,
+        "minor": 2731,
         "patch": 0
     },
     "keywords": [
@@ -17837,6 +17837,13 @@
             "name": "SHAKE token by SpaceSwap v2",
             "symbol": "SHAKE",
             "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GALAXY SWAP FARM",
+            "symbol": "GLXS",
+            "address": "0xCb8F0477C20E98F1CEc588e24a800879d5cd3b8D",
             "decimals": 18
         }
     ]
