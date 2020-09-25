@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:15:11.865Z",
+    "timestamp": "2020-09-25T10:18:30.637Z",
     "version": {
         "major": 1,
-        "minor": 2752,
+        "minor": 2753,
         "patch": 0
     },
     "keywords": [
@@ -17992,6 +17992,13 @@
             "symbol": "BEST",
             "address": "0x1B073382E63411E3BcfFE90aC1B9A43feFa1Ec6F",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuymomo.com",
+            "symbol": "$MOMO",
+            "address": "0xC8A8a04Af6c7eD1b2Aa3A1556Cdbb4E426646f49",
+            "decimals": 18
         }
     ]
 }
