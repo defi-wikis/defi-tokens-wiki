@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:51:45.092Z",
+    "timestamp": "2020-09-25T12:58:24.480Z",
     "version": {
         "major": 1,
-        "minor": 2780,
+        "minor": 2781,
         "patch": 0
     },
     "keywords": [
@@ -18187,6 +18187,13 @@
             "name": "Jeo Exchange",
             "symbol": "JEO",
             "address": "0xD27dab3551900E7CbA8dC6056163e59C8763C11A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": " ",
+            "symbol": " ",
+            "address": "0x41173eFAFc8eE76F8bA1589531acA5e4F1297E6c",
             "decimals": 18
         }
     ]
