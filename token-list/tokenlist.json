@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:05:44.478Z",
+    "timestamp": "2020-09-25T01:08:20.799Z",
     "version": {
         "major": 1,
-        "minor": 2687,
+        "minor": 2688,
         "patch": 0
     },
     "keywords": [
@@ -17536,6 +17536,13 @@
             "name": "yfSCAN",
             "symbol": "yfSCAN",
             "address": "0xD7f835E02CeC0313c07bb65129b95040994311Ea",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orb",
+            "symbol": "ORB",
+            "address": "0x7BB594b3c757801346801f025699E39E7aaf5a49",
             "decimals": 18
         }
     ]
