@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:43:34.714Z",
+    "timestamp": "2020-09-25T02:45:08.395Z",
     "version": {
         "major": 1,
-        "minor": 2700,
+        "minor": 2701,
         "patch": 0
     },
     "keywords": [
@@ -17627,6 +17627,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xe2aAb7232a9545F29112f9e6441661fD6eEB0a5d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VKontakte Finance",
+            "symbol": "VK",
+            "address": "0x91Dd243Ec20B1a37BEf8A5cf02C991D622FBfd72",
             "decimals": 18
         }
     ]
