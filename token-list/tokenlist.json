@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:02:24.912Z",
+    "timestamp": "2020-09-25T12:04:54.632Z",
     "version": {
         "major": 1,
-        "minor": 2769,
+        "minor": 2770,
         "patch": 0
     },
     "keywords": [
@@ -18110,6 +18110,13 @@
             "name": "JokerToken",
             "symbol": "JOKER",
             "address": "0x5cC4D697C8dCA18EdC09d6B9c656a788E873c6C1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YCS Token",
+            "symbol": "YCS",
+            "address": "0xb73EdC787013169461bAeA5774dA706aa506bCFb",
             "decimals": 18
         }
     ]
