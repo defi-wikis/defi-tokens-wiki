@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:26:20.215Z",
+    "timestamp": "2020-09-25T14:35:24.382Z",
     "version": {
         "major": 1,
-        "minor": 2795,
+        "minor": 2796,
         "patch": 0
     },
     "keywords": [
@@ -18292,6 +18292,13 @@
             "name": "cctip.io",
             "symbol": "AFY",
             "address": "0x9011AAAf93F48472283245138463DcAb40c136e9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "kiwi.finance",
+            "symbol": "KIWI",
+            "address": "0xa06b5d108EfAf3673Ad28b20AF5c4DD2dfe4ab7f",
             "decimals": 18
         }
     ]
