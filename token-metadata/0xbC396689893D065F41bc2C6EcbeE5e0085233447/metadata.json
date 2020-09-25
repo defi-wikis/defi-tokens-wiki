@@ -17,10 +17,10 @@
         {
             "type": "discord",
             "value": "https://discord.com/invite/mYKKRTn"
-        }
+        },
         {
             "type": "telegram",
             "value": "https://t.me/perpetualprotocol"
         }
-    ],
+    ]
 }
