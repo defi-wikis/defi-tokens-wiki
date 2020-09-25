@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T11:57:15.840Z",
+    "timestamp": "2020-09-25T11:57:35.377Z",
     "version": {
         "major": 1,
-        "minor": 2767,
+        "minor": 2768,
         "patch": 0
     },
     "keywords": [
@@ -18096,6 +18096,13 @@
             "name": "yfix.finance",
             "symbol": "YFIX",
             "address": "0x3D76840198b0DE6dc06774ffe1f690F23143dAA9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arweave",
+            "symbol": "AR",
+            "address": "0x255572964432f9cb677B67f42C4a5B51247c483A",
             "decimals": 18
         }
     ]
