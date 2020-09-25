@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:36:59.842Z",
+    "timestamp": "2020-09-25T23:37:14.879Z",
     "version": {
         "major": 1,
-        "minor": 2842,
+        "minor": 2843,
         "patch": 0
     },
     "keywords": [
@@ -18612,6 +18612,13 @@
             "name": "Burn The State Token Index",
             "symbol": "BTS",
             "address": "0xBdE559E273B3fd4f331d77c49DDc6B29229ab556",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sparta.Finance",
+            "symbol": "SPARTA",
+            "address": "0x8c09394479c20A3FC240A7877d1983FA63dBd609",
             "decimals": 18
         }
     ]
