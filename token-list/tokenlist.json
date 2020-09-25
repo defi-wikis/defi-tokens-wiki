@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T09:31:10.024Z",
+    "timestamp": "2020-09-25T09:52:50.202Z",
     "version": {
         "major": 1,
-        "minor": 2749,
+        "minor": 2750,
         "patch": 0
     },
     "keywords": [
@@ -17970,6 +17970,13 @@
             "name": "Airlink",
             "symbol": "AIRL",
             "address": "0x5537d6FaaCf7d5A566e824C4E3d8fddA43d8b09A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uix Token",
+            "symbol": "UIX",
+            "address": "0xAD72157AeC83afE3e0A6d988E892a5800550fb59",
             "decimals": 18
         }
     ]
