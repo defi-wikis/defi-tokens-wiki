@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T20:45:49.654Z",
+    "timestamp": "2020-09-25T20:51:44.439Z",
     "version": {
         "major": 1,
-        "minor": 2825,
+        "minor": 2826,
         "patch": 0
     },
     "keywords": [
@@ -18494,6 +18494,13 @@
             "symbol": "yTrump",
             "address": "0x3af375d9f77Ddd4F16F86A5D51a9386b7B4493Fa",
             "decimals": 15
+        },
+        {
+            "chainId": 1,
+            "name": "BitcoinToMoon",
+            "symbol": "BTCM",
+            "address": "0x1f08673F076B5B6487EA604773F054c8B1bD9148",
+            "decimals": 18
         }
     ]
 }
