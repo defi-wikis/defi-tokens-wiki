@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:40:07.050Z",
+    "timestamp": "2020-09-25T23:45:49.564Z",
     "version": {
         "major": 1,
-        "minor": 2845,
+        "minor": 2846,
         "patch": 0
     },
     "keywords": [
@@ -18633,6 +18633,13 @@
             "name": "FUD.finance",
             "symbol": "FUD",
             "address": "0x2688213fEDd489762a281a67Ae4F2295D8E17ECc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORB Token",
+            "symbol": "ORB",
+            "address": "0xC3dB396f0DFBAf252ecD07C254379F36cE78Ea21",
             "decimals": 18
         }
     ]
