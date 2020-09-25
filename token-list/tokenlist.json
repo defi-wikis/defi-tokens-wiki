@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T17:29:54.517Z",
+    "timestamp": "2020-09-25T17:32:30.506Z",
     "version": {
         "major": 1,
-        "minor": 2809,
+        "minor": 2810,
         "patch": 0
     },
     "keywords": [
@@ -18381,6 +18381,13 @@
             "name": "jam.finance",
             "symbol": "JAM",
             "address": "0x24Fd1189A6D242919e26B5c6c05FcDA308E1AE8e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Alternative Generation",
+            "symbol": "AlGen",
+            "address": "0xad3a6AE219faCD0d12eF55ACAE54714De01FC310",
             "decimals": 18
         }
     ]
