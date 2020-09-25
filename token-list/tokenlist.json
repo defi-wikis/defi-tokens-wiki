@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T14:36:54.473Z",
+    "timestamp": "2020-09-25T14:51:10.271Z",
     "version": {
         "major": 1,
-        "minor": 2797,
+        "minor": 2798,
         "patch": 0
     },
     "keywords": [
@@ -18306,6 +18306,13 @@
             "name": "YFSigma",
             "symbol": "YFS",
             "address": "0x4Bdfc0BFb26aee631a3BFAA15Fb714d6bcB05186",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": " FUCK ",
+            "symbol": " FUCK ",
+            "address": "0xF4fA06274c10F46B4b698d164b529fB5f32CB4e7",
             "decimals": 18
         }
     ]
