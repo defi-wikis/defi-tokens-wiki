@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T08:18:44.521Z",
+    "timestamp": "2020-09-25T08:28:09.952Z",
     "version": {
         "major": 1,
-        "minor": 2739,
+        "minor": 2740,
         "patch": 0
     },
     "keywords": [
@@ -17901,6 +17901,13 @@
             "symbol": "NVT",
             "address": "0x7b6F71c8B123b38aa8099e0098bEC7fbc35B8a13",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "CHS",
+            "symbol": "CHS",
+            "address": "0x88C97F3fC11E28650F10c1862381A3262B572270",
+            "decimals": 18
         }
     ]
 }
