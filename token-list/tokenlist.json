@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T08:47:44.779Z",
+    "timestamp": "2020-09-25T08:59:54.459Z",
     "version": {
         "major": 1,
-        "minor": 2743,
+        "minor": 2744,
         "patch": 0
     },
     "keywords": [
@@ -17928,6 +17928,13 @@
             "name": "Salty.Finance",
             "symbol": "SALTY",
             "address": "0xa332fECE7a5ce1D7c4550F852706A3b15D156C6e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Apple.Finance",
+            "symbol": "APPLE",
+            "address": "0x191CfAdC5466CdB2e8eA323e8A4A3D7b9c5E0944",
             "decimals": 18
         }
     ]
