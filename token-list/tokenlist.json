@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T11:10:02.211Z",
+    "timestamp": "2020-09-25T11:10:10.277Z",
     "version": {
         "major": 1,
-        "minor": 2763,
+        "minor": 2764,
         "patch": 0
     },
     "keywords": [
@@ -18068,6 +18068,13 @@
             "name": "YFIX.finance",
             "symbol": "YFIX",
             "address": "0xa4f779074850D320B5553C9Db5Fc6A8ab15Bd34a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Centaur Token @ Centaur.Finance",
+            "symbol": "CNTR",
+            "address": "0x6100f1Bd7bE0fd49e89C8bfbb0aDF2718cf098Aa",
             "decimals": 18
         }
     ]
