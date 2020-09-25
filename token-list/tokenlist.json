@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T17:32:30.506Z",
+    "timestamp": "2020-09-25T17:50:50.138Z",
     "version": {
         "major": 1,
-        "minor": 2810,
+        "minor": 2811,
         "patch": 0
     },
     "keywords": [
@@ -18388,6 +18388,13 @@
             "name": "Alternative Generation",
             "symbol": "AlGen",
             "address": "0xad3a6AE219faCD0d12eF55ACAE54714De01FC310",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SFI Finance",
+            "symbol": "SFI",
+            "address": "0x5dC8Db591e7A476a0163F66822dB8c024A4F7617",
             "decimals": 18
         }
     ]
