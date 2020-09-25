@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:03:24.962Z",
+    "timestamp": "2020-09-25T00:04:39.655Z",
     "version": {
         "major": 1,
-        "minor": 2675,
+        "minor": 2676,
         "patch": 0
     },
     "keywords": [
@@ -17452,6 +17452,13 @@
             "name": "Abraham Finance",
             "symbol": "ABR",
             "address": "0x9c16bdabAe353bE6B81C718eF74C6eab78775114",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fruit",
+            "symbol": "FRUIT",
+            "address": "0x32b5c09df927db1a886AA70feABF3f26F5da7546",
             "decimals": 18
         }
     ]
