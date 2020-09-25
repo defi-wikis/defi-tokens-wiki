@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:26:29.945Z",
+    "timestamp": "2020-09-25T07:35:34.502Z",
     "version": {
         "major": 1,
-        "minor": 2732,
+        "minor": 2733,
         "patch": 0
     },
     "keywords": [
@@ -17851,6 +17851,13 @@
             "name": "MEME SWAP",
             "symbol": "MEME",
             "address": "0xbE71a546369E094Ec6e6E6002a07cD41c7427C89",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearnfinancial-mf",
+            "symbol": "YFMF",
+            "address": "0xe3d995B2B734e2Fb554ef75E70Cd1c27Af71F59B",
             "decimals": 18
         }
     ]
