@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T21:04:44.772Z",
+    "timestamp": "2020-09-25T21:28:19.673Z",
     "version": {
         "major": 1,
-        "minor": 2828,
+        "minor": 2829,
         "patch": 0
     },
     "keywords": [
@@ -18514,6 +18514,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x4C508B9861116a15351aE0b67AAe548FCC05F99e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Autistic Token",
+            "symbol": "AUT",
+            "address": "0x01fd80f96BBd3ec95f5EeEc1777b1fbB0e33A864",
             "decimals": 18
         }
     ]
