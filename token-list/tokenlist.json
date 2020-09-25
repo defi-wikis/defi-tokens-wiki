@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T06:51:06.755Z",
+    "timestamp": "2020-09-25T07:17:35.310Z",
     "version": {
         "major": 1,
-        "minor": 2727,
+        "minor": 2728,
         "patch": 0
     },
     "keywords": [
@@ -17816,6 +17816,13 @@
             "name": "AntsToken",
             "symbol": "ANTS",
             "address": "0x1D28d97657E7cCBfD151B0B278F69CB8894509c6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MilkyWay Token by SpaceSwap v2",
+            "symbol": "MILK2",
+            "address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
             "decimals": 18
         }
     ]
