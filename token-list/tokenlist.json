@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T05:38:10.342Z",
+    "timestamp": "2020-09-25T05:53:34.952Z",
     "version": {
         "major": 1,
-        "minor": 2717,
+        "minor": 2718,
         "patch": 0
     },
     "keywords": [
@@ -17747,6 +17747,13 @@
             "symbol": "CAKE",
             "address": "0xCb039d11Fd38167de19536453a105271A5e44392",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyRich.Com",
+            "symbol": "$Rich",
+            "address": "0xD43Be4Ecd4E1bB1ECb2E75600ECD3C4cFD079448",
+            "decimals": 8
         }
     ]
 }
