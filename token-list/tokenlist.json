@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T04:46:06.836Z",
+    "timestamp": "2020-09-25T04:48:07.292Z",
     "version": {
         "major": 1,
-        "minor": 2713,
+        "minor": 2714,
         "patch": 0
     },
     "keywords": [
@@ -17719,6 +17719,13 @@
             "symbol": "LMST2",
             "address": "0x9c6410c56482A124eD46aE0BE0bBe4025A3f2663",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Hand Network",
+            "symbol": "HAND",
+            "address": "0xF6E407899164643A0d905d1398a7c6fB6DAB024D",
+            "decimals": 18
         }
     ]
 }
