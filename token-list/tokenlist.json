@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:28:14.285Z",
+    "timestamp": "2020-09-25T23:36:59.842Z",
     "version": {
         "major": 1,
-        "minor": 2841,
+        "minor": 2842,
         "patch": 0
     },
     "keywords": [
@@ -18605,6 +18605,13 @@
             "name": "Ampleforth Tesla",
             "symbol": "ATSLA",
             "address": "0x17108d538aFc53AFc7E80428385355A8a94C4960",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Burn The State Token Index",
+            "symbol": "BTS",
+            "address": "0xBdE559E273B3fd4f331d77c49DDc6B29229ab556",
             "decimals": 18
         }
     ]
