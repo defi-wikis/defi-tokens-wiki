@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:24:24.280Z",
+    "timestamp": "2020-09-25T12:35:25.286Z",
     "version": {
         "major": 1,
-        "minor": 2776,
+        "minor": 2777,
         "patch": 0
     },
     "keywords": [
@@ -18159,6 +18159,13 @@
             "name": " ",
             "symbol": " ",
             "address": "0xe25bE98EFd5744346b481b9a2e9D914b1cd4432B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GUM DEFI",
+            "symbol": "GUM",
+            "address": "0x6096ae5aF0a5847d742124429638AADaac687bcD",
             "decimals": 18
         }
     ]
