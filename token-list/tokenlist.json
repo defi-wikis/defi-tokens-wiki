@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:38:15.278Z",
+    "timestamp": "2020-09-25T12:45:45.697Z",
     "version": {
         "major": 1,
-        "minor": 2778,
+        "minor": 2779,
         "patch": 0
     },
     "keywords": [
@@ -18173,6 +18173,13 @@
             "name": "Fortune New Testament",
             "symbol": "YNTI",
             "address": "0x31945D2b5426C05cf5930dD5FD8Aa8F0a08b2c9E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFE Money",
+            "symbol": "YEE",
+            "address": "0x2A7e24d786803Eb650A704b63451E14E3e4D4E19",
             "decimals": 18
         }
     ]
