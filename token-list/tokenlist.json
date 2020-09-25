@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T13:57:35.244Z",
+    "timestamp": "2020-09-25T14:02:09.588Z",
     "version": {
         "major": 1,
-        "minor": 2790,
+        "minor": 2791,
         "patch": 0
     },
     "keywords": [
@@ -18257,6 +18257,13 @@
             "name": "SFI Finance",
             "symbol": "SFI",
             "address": "0x6E7f4dC7Da16e0FD231cAE43689231414A147BB1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CPST ETH 400 Call 30102020",
+            "symbol": "XTF.000T01",
+            "address": "0x126537c06F2734d9e543F87D5379f294dd288460",
             "decimals": 18
         }
     ]
