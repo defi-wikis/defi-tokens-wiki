@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:01:10.162Z",
+    "timestamp": "2020-09-25T23:06:54.684Z",
     "version": {
         "major": 1,
-        "minor": 2837,
+        "minor": 2838,
         "patch": 0
     },
     "keywords": [
@@ -18577,6 +18577,13 @@
             "name": "Insignia",
             "symbol": "SIG",
             "address": "0xF4B7337BC15d98597E8c74CF71634FA7895507Da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XProETF",
+            "symbol": "XETF",
+            "address": "0x77458C1841169F72DF0F1991F90873f9B2a44e87",
             "decimals": 18
         }
     ]
