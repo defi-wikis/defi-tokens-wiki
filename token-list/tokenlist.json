@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T01:31:06.827Z",
+    "timestamp": "2020-09-25T01:40:24.899Z",
     "version": {
         "major": 1,
-        "minor": 2691,
+        "minor": 2692,
         "patch": 0
     },
     "keywords": [
@@ -17564,6 +17564,13 @@
             "name": "GweiFi Live",
             "symbol": "GFI",
             "address": "0x2874D3a3D94093E7d5402A9d37FB81838Cd72758",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Garden Of Eden, Price is Celestial",
+            "symbol": "EDEN",
+            "address": "0x15DD49c3b551ED85f83BF9EC2760ca473E18ADCd",
             "decimals": 18
         }
     ]
