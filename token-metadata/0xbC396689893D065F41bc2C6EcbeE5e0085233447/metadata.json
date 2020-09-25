@@ -4,5 +4,23 @@
     "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED",
-    "tags": ["yield-farming"]
+    "tags": ["synthetics","amm","defi"],
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/perpprotocol"
+        },
+        {
+            "type": "website",
+            "value": "https://perp.fi"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/mYKKRTn"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/perpetualprotocol"
+        }
+    ]
 }
