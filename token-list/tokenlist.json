@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T06:49:06.622Z",
+    "timestamp": "2020-09-25T06:51:06.755Z",
     "version": {
         "major": 1,
-        "minor": 2726,
+        "minor": 2727,
         "patch": 0
     },
     "keywords": [
@@ -17810,6 +17810,13 @@
             "symbol": "AT",
             "address": "0xE54B3458C47E44C37a267E7C633AFEF88287C294",
             "decimals": 5
+        },
+        {
+            "chainId": 1,
+            "name": "AntsToken",
+            "symbol": "ANTS",
+            "address": "0x1D28d97657E7cCBfD151B0B278F69CB8894509c6",
+            "decimals": 18
         }
     ]
 }
