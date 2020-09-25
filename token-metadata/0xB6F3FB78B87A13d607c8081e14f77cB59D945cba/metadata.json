@@ -1,0 +1,7 @@
+{
+    "name": "Yearn Finance Token",
+    "symbol": "YFT",
+    "address": "0xB6F3FB78B87A13d607c8081e14f77cB59D945cba",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
