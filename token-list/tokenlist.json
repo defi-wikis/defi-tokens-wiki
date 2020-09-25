@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:17:35.310Z",
+    "timestamp": "2020-09-25T07:20:54.699Z",
     "version": {
         "major": 1,
-        "minor": 2728,
+        "minor": 2729,
         "patch": 0
     },
     "keywords": [
@@ -17823,6 +17823,13 @@
             "name": "MilkyWay Token by SpaceSwap v2",
             "symbol": "MILK2",
             "address": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YIF Finance",
+            "symbol": "YIF",
+            "address": "0xde0A8339d1bAC19e3c502268f7726a96eE749E4F",
             "decimals": 18
         }
     ]
