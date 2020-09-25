@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T10:29:34.547Z",
+    "timestamp": "2020-09-25T10:30:24.767Z",
     "version": {
         "major": 1,
-        "minor": 2756,
+        "minor": 2757,
         "patch": 0
     },
     "keywords": [
@@ -18020,6 +18020,13 @@
             "symbol": "DANCE",
             "address": "0xdF1d11025F2A22b9DC01C7A100B4F6DdEBAc82A3",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "SHLIAPA",
+            "symbol": "SHLIAPA",
+            "address": "0xfDA3b27Ce3AB814ceA7715bD960d8b8C04Eb351E",
+            "decimals": 18
         }
     ]
 }
