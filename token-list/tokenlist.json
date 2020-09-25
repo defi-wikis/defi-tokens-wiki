@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:45:49.564Z",
+    "timestamp": "2020-09-25T23:48:25.146Z",
     "version": {
         "major": 1,
-        "minor": 2846,
+        "minor": 2847,
         "patch": 0
     },
     "keywords": [
@@ -18640,6 +18640,13 @@
             "name": "ORB Token",
             "symbol": "ORB",
             "address": "0xC3dB396f0DFBAf252ecD07C254379F36cE78Ea21",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Centaur Token @ Centaur.Finance",
+            "symbol": "CNTR",
+            "address": "0x491E7Bba4C6316dECd163b945F402055A6e0FaeD",
             "decimals": 18
         }
     ]
