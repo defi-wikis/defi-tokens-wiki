@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T13:15:07.202Z",
+    "timestamp": "2020-09-25T13:32:11.911Z",
     "version": {
         "major": 1,
-        "minor": 2784,
+        "minor": 2785,
         "patch": 0
     },
     "keywords": [
@@ -18216,6 +18216,13 @@
             "symbol": "MYRT",
             "address": "0x75c3a47843BabCFDb677ee736377dA29c481f2E0",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Mamba",
+            "symbol": "MAMBA",
+            "address": "0xc27df48c23Ad414431907eD5bfA18B9DC337b139",
+            "decimals": 18
         }
     ]
 }
