@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:21:49.773Z",
+    "timestamp": "2020-09-25T00:38:24.534Z",
     "version": {
         "major": 1,
-        "minor": 2680,
+        "minor": 2681,
         "patch": 0
     },
     "keywords": [
@@ -17487,6 +17487,13 @@
             "name": "Edge Finance",
             "symbol": "EDGE",
             "address": "0x319B7ef7F3a77Dd692573926e69c9B74D4259A44",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MLR Token - Mega Lottery Services Global",
+            "symbol": "MLR",
+            "address": "0xF26893f89B23084C4C6216038D6eBDBE9e96C5cb",
             "decimals": 18
         }
     ]
