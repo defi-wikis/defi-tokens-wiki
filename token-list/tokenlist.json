@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T16:09:51.371Z",
+    "timestamp": "2020-09-25T16:10:06.830Z",
     "version": {
         "major": 1,
-        "minor": 2804,
+        "minor": 2805,
         "patch": 0
     },
     "keywords": [
@@ -18355,6 +18355,13 @@
             "name": "DeLorean",
             "symbol": "DMC",
             "address": "0x3620a54EC63B98fB709F91C1F89F77842049aFc3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuynyan.com",
+            "symbol": "$NYAN",
+            "address": "0x99999999014691414fe92C0FF487CED9eF66B2A2",
             "decimals": 18
         }
     ]
