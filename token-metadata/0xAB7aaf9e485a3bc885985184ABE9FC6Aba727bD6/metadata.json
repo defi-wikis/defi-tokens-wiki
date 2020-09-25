@@ -3,5 +3,22 @@
     "symbol": "MANY",
     "address": "0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "MANY is a community driven defi project. You can provide liquidity on uniswap and earn MORE token which can be redeemed to NFT's",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/MANYTOKEN"
+        },
+        {
+            "type": "website",
+            "value": "https://many.global"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/manyunderstandthis"
+        }
+    ],
+    "tags":[ "defi","yield-farming"]
+
 }
