@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:46:49.832Z",
+    "timestamp": "2020-09-25T00:56:49.496Z",
     "version": {
         "major": 1,
-        "minor": 2684,
+        "minor": 2685,
         "patch": 0
     },
     "keywords": [
@@ -17515,6 +17515,13 @@
             "name": "SSL",
             "symbol": "SSL",
             "address": "0x425483a4C92e2Bc1fa99630839bbb563C21dfeAa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xKAI Finance",
+            "symbol": "XKAI",
+            "address": "0x6f57c64CCF882D69e8eeAbA63a26EA02Ca104C90",
             "decimals": 18
         }
     ]
