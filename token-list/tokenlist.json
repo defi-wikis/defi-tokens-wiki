@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:23:53.568Z",
+    "timestamp": "2020-09-25T12:24:20.007Z",
     "version": {
         "major": 1,
-        "minor": 2774,
+        "minor": 2775,
         "patch": 0
     },
     "keywords": [
@@ -18145,6 +18145,13 @@
             "name": "YFE Money",
             "symbol": "YFE",
             "address": "0x33811D4EdBCaED10A685254eB5D3C4e4398520D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0x3041CbD36888bECc7bbCBc0045E3B1f144466f5f",
             "decimals": 18
         }
     ]
