@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T13:08:06.713Z",
+    "timestamp": "2020-09-25T13:15:07.202Z",
     "version": {
         "major": 1,
-        "minor": 2783,
+        "minor": 2784,
         "patch": 0
     },
     "keywords": [
@@ -18209,6 +18209,13 @@
             "symbol": "yLand",
             "address": "0x19E05c8e78d89a05D2144Dd8B14E92d5E86F8aab",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "MYRT (MYRToken.com)",
+            "symbol": "MYRT",
+            "address": "0x75c3a47843BabCFDb677ee736377dA29c481f2E0",
+            "decimals": 6
         }
     ]
 }
