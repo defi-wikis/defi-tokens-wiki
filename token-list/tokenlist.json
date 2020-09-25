@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T08:17:30.912Z",
+    "timestamp": "2020-09-25T08:18:34.439Z",
     "version": {
         "major": 1,
-        "minor": 2737,
+        "minor": 2738,
         "patch": 0
     },
     "keywords": [
@@ -17886,6 +17886,13 @@
             "name": "Salty.Finance",
             "symbol": "SLT",
             "address": "0x84b2E4A6931931063daCa9a73f4Fc5560B418009",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BETHERO.IO",
+            "symbol": "HERO",
+            "address": "0x57dF08Effb5EcFB978d85D6d3692a592eb4ea33e",
             "decimals": 18
         }
     ]
