@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T09:00:55.459Z",
+    "timestamp": "2020-09-25T09:06:59.589Z",
     "version": {
         "major": 1,
-        "minor": 2745,
+        "minor": 2746,
         "patch": 0
     },
     "keywords": [
@@ -17942,6 +17942,13 @@
             "name": "yfpi.finance",
             "symbol": "YFPI",
             "address": "0x95Be5b93bfC3D12DeDd7Fc2d27E9f067710Ab065",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dont Buy Sushi",
+            "symbol": "SUSH",
+            "address": "0x268B6AE61E640f30B8ea0bc14BE6e81868CE9AB0",
             "decimals": 18
         }
     ]
