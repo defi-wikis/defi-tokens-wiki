@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T07:20:54.699Z",
+    "timestamp": "2020-09-25T07:22:35.413Z",
     "version": {
         "major": 1,
-        "minor": 2729,
+        "minor": 2730,
         "patch": 0
     },
     "keywords": [
@@ -17830,6 +17830,13 @@
             "name": "YIF Finance",
             "symbol": "YIF",
             "address": "0xde0A8339d1bAC19e3c502268f7726a96eE749E4F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SHAKE token by SpaceSwap v2",
+            "symbol": "SHAKE",
+            "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
             "decimals": 18
         }
     ]
