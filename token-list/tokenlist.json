@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T04:48:07.292Z",
+    "timestamp": "2020-09-25T05:27:44.496Z",
     "version": {
         "major": 1,
-        "minor": 2714,
+        "minor": 2715,
         "patch": 0
     },
     "keywords": [
@@ -17725,6 +17725,13 @@
             "name": "Hand Network",
             "symbol": "HAND",
             "address": "0xF6E407899164643A0d905d1398a7c6fB6DAB024D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BaaToken",
+            "symbol": "BAA",
+            "address": "0x5016C464595870fa23a839aA6B78F48433178F53",
             "decimals": 18
         }
     ]
