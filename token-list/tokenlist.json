@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T12:35:25.286Z",
+    "timestamp": "2020-09-25T12:38:15.278Z",
     "version": {
         "major": 1,
-        "minor": 2777,
+        "minor": 2778,
         "patch": 0
     },
     "keywords": [
@@ -18166,6 +18166,13 @@
             "name": "GUM DEFI",
             "symbol": "GUM",
             "address": "0x6096ae5aF0a5847d742124429638AADaac687bcD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fortune New Testament",
+            "symbol": "YNTI",
+            "address": "0x31945D2b5426C05cf5930dD5FD8Aa8F0a08b2c9E",
             "decimals": 18
         }
     ]
