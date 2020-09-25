@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T00:04:39.655Z",
+    "timestamp": "2020-09-25T00:07:19.984Z",
     "version": {
         "major": 1,
-        "minor": 2676,
+        "minor": 2677,
         "patch": 0
     },
     "keywords": [
@@ -17459,6 +17459,13 @@
             "name": "Fruit",
             "symbol": "FRUIT",
             "address": "0x32b5c09df927db1a886AA70feABF3f26F5da7546",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gold Hedge Fund",
+            "symbol": "GHF",
+            "address": "0x15cA0e237319711584dC8a00c3bD2cB22ffdc62a",
             "decimals": 18
         }
     ]
