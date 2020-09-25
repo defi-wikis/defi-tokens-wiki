@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T03:51:10.330Z",
+    "timestamp": "2020-09-25T04:09:35.103Z",
     "version": {
         "major": 1,
-        "minor": 2709,
+        "minor": 2710,
         "patch": 0
     },
     "keywords": [
@@ -17691,6 +17691,13 @@
             "symbol": "EGG",
             "address": "0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yeld.finance",
+            "symbol": "YELD",
+            "address": "0x07A690Fb0ef85498047d46D9E53BE91d9A755149",
+            "decimals": 4
         }
     ]
 }
