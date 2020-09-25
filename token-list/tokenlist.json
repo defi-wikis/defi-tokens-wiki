@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T18:44:50.674Z",
+    "timestamp": "2020-09-25T18:48:35.199Z",
     "version": {
         "major": 1,
-        "minor": 2817,
+        "minor": 2818,
         "patch": 0
     },
     "keywords": [
@@ -18438,6 +18438,13 @@
             "symbol": "PAPA",
             "address": "0xadE5900F0c560Dc3aed9eBE93CeFf90f69745dF5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Biograffi",
+            "symbol": "BGF",
+            "address": "0xA8DaA52DEd91F7C82b4BB02B4b87c6a841Db1fD5",
+            "decimals": 8
         }
     ]
 }
