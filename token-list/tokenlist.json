@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:13:54.814Z",
+    "timestamp": "2020-09-25T23:28:09.646Z",
     "version": {
         "major": 1,
-        "minor": 2839,
+        "minor": 2840,
         "patch": 0
     },
     "keywords": [
@@ -18591,6 +18591,13 @@
             "name": "StrattonOakmont.network",
             "symbol": "WLF",
             "address": "0x8E382197AF6fA10D4ee27618D644381Db5495bdC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LECHON",
+            "symbol": "LECHN",
+            "address": "0xC99D3815aF645b67d292624bAcbBEe5F8E2038E3",
             "decimals": 18
         }
     ]
