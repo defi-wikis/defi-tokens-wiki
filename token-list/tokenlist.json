@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T02:47:49.854Z",
+    "timestamp": "2020-09-25T02:51:06.538Z",
     "version": {
         "major": 1,
-        "minor": 2702,
+        "minor": 2703,
         "patch": 0
     },
     "keywords": [
@@ -17642,6 +17642,13 @@
             "symbol": "YFI",
             "address": "0x2d4BD1a527E5780bfe1C855371a296a8646290a2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Alpha DAO ",
+            "symbol": "ADAO",
+            "address": "0xB40554169eff159B80E563db17474e96D6F1EfCB",
+            "decimals": 4
         }
     ]
 }
