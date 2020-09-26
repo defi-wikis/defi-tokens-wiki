@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T20:49:49.388Z",
+    "timestamp": "2020-09-26T20:56:14.726Z",
     "version": {
         "major": 1,
-        "minor": 3031,
+        "minor": 3032,
         "patch": 0
     },
     "keywords": [
@@ -19935,6 +19935,13 @@
             "name": "ZyxToken",
             "symbol": "ZYX",
             "address": "0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Y19 FINANCE",
+            "symbol": "Y19",
+            "address": "0x321219AfDcdCEdC2de491b75ed5529FEbA575Be3",
             "decimals": 18
         }
     ]
