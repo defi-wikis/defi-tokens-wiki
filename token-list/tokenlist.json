@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:35:54.490Z",
+    "timestamp": "2020-09-26T02:39:24.662Z",
     "version": {
         "major": 1,
-        "minor": 2870,
+        "minor": 2871,
         "patch": 0
     },
     "keywords": [
@@ -18809,6 +18809,13 @@
             "symbol": "POS",
             "address": "0x73c0D0abE065Acdbb52B25412593c9600366f78B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "POT Finance",
+            "symbol": "POT",
+            "address": "0xEb4F04007b5F92648547A41B61495C65B77a41d5",
+            "decimals": 8
         }
     ]
 }
