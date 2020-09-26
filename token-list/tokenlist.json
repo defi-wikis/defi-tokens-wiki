@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T20:28:24.521Z",
+    "timestamp": "2020-09-26T20:28:29.898Z",
     "version": {
         "major": 1,
-        "minor": 3026,
+        "minor": 3027,
         "patch": 0
     },
     "keywords": [
@@ -19900,6 +19900,13 @@
             "name": "LINK 2.0",
             "symbol": "LINK2",
             "address": "0x566208673f999fA2f7D6826e5Df39b92400B64E6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitcoinVilla",
+            "symbol": "BTCvilla",
+            "address": "0x631c6AF3F27623778552B557E73D0D75562F3B34",
             "decimals": 18
         }
     ]
