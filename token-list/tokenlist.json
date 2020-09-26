@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T10:19:49.567Z",
+    "timestamp": "2020-09-26T10:27:39.887Z",
     "version": {
         "major": 1,
-        "minor": 2920,
+        "minor": 2921,
         "patch": 0
     },
     "keywords": [
@@ -19158,6 +19158,13 @@
             "name": "Ice Cream.Finance",
             "symbol": "ICE",
             "address": "0x0c14EE32eA6f833b15462577fcC1a293146DDa4C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Timvi Governance Token",
+            "symbol": "GTMV",
+            "address": "0xfc9B8F57c6fab17Eca3456AFA5a27103083a85e4",
             "decimals": 18
         }
     ]
