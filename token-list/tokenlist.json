@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T12:43:14.903Z",
+    "timestamp": "2020-09-26T12:55:50.790Z",
     "version": {
         "major": 1,
-        "minor": 2941,
+        "minor": 2942,
         "patch": 0
     },
     "keywords": [
@@ -19305,6 +19305,13 @@
             "name": "DeFi DeVito",
             "symbol": "DANY",
             "address": "0x8B58140eB4e267dAE01053880494F85432489ECD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TapChiBitcoin.io",
+            "symbol": "TCB",
+            "address": "0x799Aeb6597d67869a2af09baBe8Ea67f4D2012C0",
             "decimals": 18
         }
     ]
