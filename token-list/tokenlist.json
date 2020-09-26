@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T12:58:19.623Z",
+    "timestamp": "2020-09-26T13:01:19.401Z",
     "version": {
         "major": 1,
-        "minor": 2943,
+        "minor": 2944,
         "patch": 0
     },
     "keywords": [
@@ -19319,6 +19319,13 @@
             "name": "oin.finance",
             "symbol": "OIN",
             "address": "0x4d9fFf5d385715cB1Dcd1810BE436b48792f10eE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ybitcoin",
+            "symbol": "YBTC",
+            "address": "0x86a0C45B95e49b6135E72220120d849721AC623d",
             "decimals": 18
         }
     ]
