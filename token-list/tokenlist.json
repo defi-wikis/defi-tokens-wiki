@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:20:15.161Z",
+    "timestamp": "2020-09-26T02:26:01.960Z",
     "version": {
         "major": 1,
-        "minor": 2868,
+        "minor": 2869,
         "patch": 0
     },
     "keywords": [
@@ -18794,6 +18794,13 @@
             "name": "Tower Of Babel, Price is God",
             "symbol": "TOB",
             "address": "0xb6Eb00Df75d295b39c07832847c8Ce7C5EAF9B3A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Saturn Finance",
+            "symbol": "SATURN",
+            "address": "0x3A40c93e297a91d9732aDD8C1ff6d36aad5FA520",
             "decimals": 18
         }
     ]
