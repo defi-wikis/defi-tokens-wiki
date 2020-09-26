@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T21:24:49.883Z",
+    "timestamp": "2020-09-26T21:25:10.134Z",
     "version": {
         "major": 1,
-        "minor": 3035,
+        "minor": 3036,
         "patch": 0
     },
     "keywords": [
@@ -19963,6 +19963,13 @@
             "name": "You Got PWNed",
             "symbol": "PWN",
             "address": "0x62797099F23AcEed93E1Ce38994cc6F3F1E12aaa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YMV FINANCE",
+            "symbol": "YMV",
+            "address": "0x720eF2CaF4f1138DfD18292Ee135A18224bdE87f",
             "decimals": 18
         }
     ]
