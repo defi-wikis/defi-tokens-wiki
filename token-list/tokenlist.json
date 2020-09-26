@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:39:09.286Z",
+    "timestamp": "2020-09-26T09:39:29.736Z",
     "version": {
         "major": 1,
-        "minor": 2911,
+        "minor": 2912,
         "patch": 0
     },
     "keywords": [
@@ -19095,6 +19095,13 @@
             "name": "XEON FINSWAP",
             "symbol": "XEON",
             "address": "0xf932E0f6e90e02383A6E1BC718E430c033C8F7D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zinax",
+            "symbol": "ZNX",
+            "address": "0x3296d7Eb8de0236622d9751Ea145bB9627a26D25",
             "decimals": 18
         }
     ]
