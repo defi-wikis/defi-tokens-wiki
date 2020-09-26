@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T17:40:19.704Z",
+    "timestamp": "2020-09-26T17:41:10.174Z",
     "version": {
         "major": 1,
-        "minor": 3004,
+        "minor": 3005,
         "patch": 0
     },
     "keywords": [
@@ -19746,6 +19746,13 @@
             "name": "Totally Pointless 2",
             "symbol": "TPT2",
             "address": "0x6CFE9a9ed3a6D8f480F272033A2B526b7aAC4bf9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CORE",
+            "symbol": "CORE",
+            "address": "0xa97dfe7b676AE4B494749680C5f9994ba33908B5",
             "decimals": 18
         }
     ]
