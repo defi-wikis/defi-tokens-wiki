@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T04:36:25.340Z",
+    "timestamp": "2020-09-26T04:37:59.687Z",
     "version": {
         "major": 1,
-        "minor": 2887,
+        "minor": 2888,
         "patch": 0
     },
     "keywords": [
@@ -18928,6 +18928,13 @@
             "symbol": "ZEN",
             "address": "0x8E024743F1BF8aE290802e703EA1B4E681E7e7C3",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sky Chain",
+            "symbol": "SKY",
+            "address": "0xF17af0fE3F2f7E0C9B83011332ba6A250ebdF37E",
+            "decimals": 8
         }
     ]
 }
