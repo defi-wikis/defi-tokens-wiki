@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T14:38:24.577Z",
+    "timestamp": "2020-09-26T14:49:14.530Z",
     "version": {
         "major": 1,
-        "minor": 2966,
+        "minor": 2967,
         "patch": 0
     },
     "keywords": [
@@ -19480,6 +19480,13 @@
             "name": "XSwap.app",
             "symbol": "XSP",
             "address": "0xaC029313B2aB0B59C7da409064c7E38DF2De161E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bagel Finance",
+            "symbol": "BAGEL",
+            "address": "0xcc033651f1193A49977D14678673Fe5A01756Aea",
             "decimals": 18
         }
     ]
