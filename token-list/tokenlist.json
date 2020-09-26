@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T01:43:19.184Z",
+    "timestamp": "2020-09-26T01:46:09.698Z",
     "version": {
         "major": 1,
-        "minor": 2861,
+        "minor": 2862,
         "patch": 0
     },
     "keywords": [
@@ -18745,6 +18745,13 @@
             "name": "yyzz",
             "symbol": "yyzz",
             "address": "0xa7ede2dD04fAA2EBB713d0ba1603579656724953",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BURGER Finance",
+            "symbol": "BURGER",
+            "address": "0x28BC8F42C787B87216610dAC8FDF3217F469a80d",
             "decimals": 18
         }
     ]
