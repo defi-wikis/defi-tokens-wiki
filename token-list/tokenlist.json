@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T08:02:49.888Z",
+    "timestamp": "2020-09-26T08:19:29.738Z",
     "version": {
         "major": 1,
-        "minor": 2902,
+        "minor": 2903,
         "patch": 0
     },
     "keywords": [
@@ -19032,6 +19032,13 @@
             "name": "Crypto Million Lotto",
             "symbol": "CML",
             "address": "0xEc1452A0c656A17a0ac4e5646670AfE819FD5256",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tokenlon Utility Token",
+            "symbol": "LON",
+            "address": "0xbA3d2A5D77120Cb42e0e449906a7d8E69e0af89d",
             "decimals": 18
         }
     ]
