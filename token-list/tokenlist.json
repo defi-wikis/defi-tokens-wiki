@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T14:28:44.768Z",
+    "timestamp": "2020-09-26T14:30:13.062Z",
     "version": {
         "major": 1,
-        "minor": 2963,
+        "minor": 2964,
         "patch": 0
     },
     "keywords": [
@@ -19459,6 +19459,13 @@
             "name": "BlueBerry",
             "symbol": "BBY",
             "address": "0x4f881e5a5730F2A4A991898Fbeac736C3a0Ce9D5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "scamproof.io",
+            "symbol": "PROOF",
+            "address": "0xD61C380Eed664EE41FEBCD005A59bFe84B7CF729",
             "decimals": 18
         }
     ]
