@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T17:54:09.820Z",
+    "timestamp": "2020-09-26T18:06:20.233Z",
     "version": {
         "major": 1,
-        "minor": 3006,
+        "minor": 3007,
         "patch": 0
     },
     "keywords": [
@@ -19760,6 +19760,13 @@
             "name": "moon.finance",
             "symbol": "MOON",
             "address": "0x5461325F0419BCe0C4b73a7e3f271130Ee18007a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vampire Protocol",
+            "symbol": "VAMP",
+            "address": "0x97f069C18F29DB289dD1eBc2d6bD06EFF9cE2A64",
             "decimals": 18
         }
     ]
