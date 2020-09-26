@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T08:19:29.738Z",
+    "timestamp": "2020-09-26T08:23:29.652Z",
     "version": {
         "major": 1,
-        "minor": 2903,
+        "minor": 2904,
         "patch": 0
     },
     "keywords": [
@@ -19039,6 +19039,13 @@
             "name": "Tokenlon Utility Token",
             "symbol": "LON",
             "address": "0xbA3d2A5D77120Cb42e0e449906a7d8E69e0af89d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AI Linkfinance",
+            "symbol": "YFIBC",
+            "address": "0x1021aC3E8fE17619b292e1bDec31a1E809430956",
             "decimals": 18
         }
     ]
