@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T00:46:07.361Z",
+    "timestamp": "2020-09-26T00:57:39.865Z",
     "version": {
         "major": 1,
-        "minor": 2854,
+        "minor": 2855,
         "patch": 0
     },
     "keywords": [
@@ -18696,6 +18696,13 @@
             "name": "Garden of Eden, Price is Celestial",
             "symbol": "EDEN",
             "address": "0xe14Bec93D99FFCbD3FF933cCAbBAa9173ac1BD09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Salad Finance",
+            "symbol": "SAL",
+            "address": "0x55f77Ba5Cb9424E500aA878fc0F31C66A24eFFef",
             "decimals": 18
         }
     ]
