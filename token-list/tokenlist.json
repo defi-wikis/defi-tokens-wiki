@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T20:28:29.898Z",
+    "timestamp": "2020-09-26T20:29:44.069Z",
     "version": {
         "major": 1,
-        "minor": 3027,
+        "minor": 3028,
         "patch": 0
     },
     "keywords": [
@@ -19907,6 +19907,13 @@
             "name": "BitcoinVilla",
             "symbol": "BTCvilla",
             "address": "0x631c6AF3F27623778552B557E73D0D75562F3B34",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YourGamify Token",
+            "symbol": "GAM",
+            "address": "0x05E4De681283bDF7c35EF7dE4b87E465E80a6216",
             "decimals": 18
         }
     ]
