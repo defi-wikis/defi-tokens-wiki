@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T01:46:09.698Z",
+    "timestamp": "2020-09-26T01:50:59.811Z",
     "version": {
         "major": 1,
-        "minor": 2862,
+        "minor": 2863,
         "patch": 0
     },
     "keywords": [
@@ -18752,6 +18752,13 @@
             "name": "BURGER Finance",
             "symbol": "BURGER",
             "address": "0x28BC8F42C787B87216610dAC8FDF3217F469a80d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPARTA.FINANCE",
+            "symbol": "SPARTA",
+            "address": "0x9A768Ff40f2Aa1517789BB8BaC871199e0eADE3B",
             "decimals": 18
         }
     ]
