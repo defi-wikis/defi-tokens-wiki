@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T10:35:35.286Z",
+    "timestamp": "2020-09-26T10:47:09.360Z",
     "version": {
         "major": 1,
-        "minor": 2923,
+        "minor": 2924,
         "patch": 0
     },
     "keywords": [
@@ -19179,6 +19179,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x919B599ecB6C9a474a046d1252b2F41f8047dECB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ELIO Token",
+            "symbol": "ELIO",
+            "address": "0xb8D2130f9815afBf5AA49c1355875551cFE6e708",
             "decimals": 18
         }
     ]
