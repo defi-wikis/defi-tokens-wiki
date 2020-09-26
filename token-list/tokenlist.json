@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T10:27:39.887Z",
+    "timestamp": "2020-09-26T10:27:44.796Z",
     "version": {
         "major": 1,
-        "minor": 2921,
+        "minor": 2922,
         "patch": 0
     },
     "keywords": [
@@ -19165,6 +19165,13 @@
             "name": "Timvi Governance Token",
             "symbol": "GTMV",
             "address": "0xfc9B8F57c6fab17Eca3456AFA5a27103083a85e4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wish Coin",
+            "symbol": "WIS",
+            "address": "0xFA12040497bC7B6077Ea125Bad27dAA8b74E7eDC",
             "decimals": 18
         }
     ]
