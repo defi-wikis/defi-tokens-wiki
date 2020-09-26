@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T05:41:24.501Z",
+    "timestamp": "2020-09-26T05:47:34.734Z",
     "version": {
         "major": 1,
-        "minor": 2891,
+        "minor": 2892,
         "patch": 0
     },
     "keywords": [
@@ -18955,6 +18955,13 @@
             "name": "Karma.Finance",
             "symbol": "KFI",
             "address": "0xF4Bf5FE2DF1bA8Cc02A1dcFf6a3b9A677e7270A9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MOAR",
+            "symbol": "MOAR",
+            "address": "0xBf131dCbE3436dab8a7c82D9C3666d652ca38eaB",
             "decimals": 18
         }
     ]
