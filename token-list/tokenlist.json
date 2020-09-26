@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:49:06.680Z",
+    "timestamp": "2020-09-26T09:50:59.685Z",
     "version": {
         "major": 1,
-        "minor": 2914,
+        "minor": 2915,
         "patch": 0
     },
     "keywords": [
@@ -19117,6 +19117,13 @@
             "symbol": "YFFP",
             "address": "0x8236cA11c349d98db5D48f32e0b507b9B88C05C6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QuickLiquidity",
+            "symbol": "QLIQ",
+            "address": "0x1b69a424F6960DE4bd5807a958BAF9E85829d761",
+            "decimals": 8
         }
     ]
 }
