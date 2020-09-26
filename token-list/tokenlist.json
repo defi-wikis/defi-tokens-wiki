@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T01:50:59.811Z",
+    "timestamp": "2020-09-26T01:59:39.638Z",
     "version": {
         "major": 1,
-        "minor": 2863,
+        "minor": 2864,
         "patch": 0
     },
     "keywords": [
@@ -18759,6 +18759,13 @@
             "name": "SPARTA.FINANCE",
             "symbol": "SPARTA",
             "address": "0x9A768Ff40f2Aa1517789BB8BaC871199e0eADE3B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WOO.Finance",
+            "symbol": "WOO",
+            "address": "0x65FDc88145f433d5fEe128e4FD7B95416636548b",
             "decimals": 18
         }
     ]
