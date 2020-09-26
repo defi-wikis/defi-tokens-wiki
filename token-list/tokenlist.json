@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T05:00:44.782Z",
+    "timestamp": "2020-09-26T05:10:44.507Z",
     "version": {
         "major": 1,
-        "minor": 2889,
+        "minor": 2890,
         "patch": 0
     },
     "keywords": [
@@ -18942,6 +18942,13 @@
             "symbol": "SUSHI2",
             "address": "0x9Ea8a6d108854b768C670B1b812BC41A08935081",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nuls",
+            "symbol": "NULS",
+            "address": "0xa2791BdF2D5055Cda4d46EC17f9F429568275047",
+            "decimals": 8
         }
     ]
 }
