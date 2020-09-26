@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T12:11:19.740Z",
+    "timestamp": "2020-09-26T12:11:24.930Z",
     "version": {
         "major": 1,
-        "minor": 2936,
+        "minor": 2937,
         "patch": 0
     },
     "keywords": [
@@ -19270,6 +19270,13 @@
             "name": "Xian Yearn Finance",
             "symbol": "XYF",
             "address": "0x0702B0020bC1a5728797a66c8e724B5c89Ae9f16",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uno Reward Pool",
+            "symbol": "UNRP",
+            "address": "0x12Da0356b15aAc28A8266d82A23F12227870317b",
             "decimals": 18
         }
     ]
