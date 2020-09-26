@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T06:47:24.393Z",
+    "timestamp": "2020-09-26T06:51:10.417Z",
     "version": {
         "major": 1,
-        "minor": 2898,
+        "minor": 2899,
         "patch": 0
     },
     "keywords": [
@@ -19004,6 +19004,13 @@
             "name": "MAVRO",
             "symbol": "MVR",
             "address": "0xA9926d9c8efdbbdb705ba9A3284089cfB4039831",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XFII.finance",
+            "symbol": "XFII",
+            "address": "0x66Cc3bF72CAbBFC4Ff314C862768B3A7A7e99430",
             "decimals": 18
         }
     ]
