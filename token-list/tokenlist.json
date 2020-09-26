@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T15:35:09.914Z",
+    "timestamp": "2020-09-26T15:38:09.888Z",
     "version": {
         "major": 1,
-        "minor": 2976,
+        "minor": 2977,
         "patch": 0
     },
     "keywords": [
@@ -19551,6 +19551,13 @@
             "symbol": "COC",
             "address": "0x22B6C31c2bEB8f2d0d5373146Eed41Ab9eDe3caf",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "BIGBEN",
+            "symbol": "BIBN",
+            "address": "0x29f764f68ded1F6398E4fc08E32dC14e0AB9fe7A",
+            "decimals": 18
         }
     ]
 }
