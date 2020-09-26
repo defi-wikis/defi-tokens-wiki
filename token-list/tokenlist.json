@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T20:28:14.567Z",
+    "timestamp": "2020-09-26T20:28:24.521Z",
     "version": {
         "major": 1,
-        "minor": 3025,
+        "minor": 3026,
         "patch": 0
     },
     "keywords": [
@@ -19893,6 +19893,13 @@
             "name": "degen.finance",
             "symbol": "DEGEN",
             "address": "0xe788E47882ff6670C527244fAd546317Cef3b33B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LINK 2.0",
+            "symbol": "LINK2",
+            "address": "0x566208673f999fA2f7D6826e5Df39b92400B64E6",
             "decimals": 18
         }
     ]
