@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:29:49.589Z",
+    "timestamp": "2020-09-26T13:31:59.512Z",
     "version": {
         "major": 1,
-        "minor": 2953,
+        "minor": 2954,
         "patch": 0
     },
     "keywords": [
@@ -19390,6 +19390,13 @@
             "symbol": "YRIB",
             "address": "0x64d1220d22AC2308e48aA0A236dF19Ef5D582c74",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Humaniq",
+            "symbol": "HMQ",
+            "address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
+            "decimals": 8
         }
     ]
 }
