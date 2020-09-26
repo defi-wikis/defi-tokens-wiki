@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T15:55:54.931Z",
+    "timestamp": "2020-09-26T15:55:59.838Z",
     "version": {
         "major": 1,
-        "minor": 2981,
+        "minor": 2982,
         "patch": 0
     },
     "keywords": [
@@ -19585,6 +19585,13 @@
             "name": "DeBear.CLUB",
             "symbol": "DEAR",
             "address": "0xc527656E2dFEdF3b89c8775caa90465eEf6AB21b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XwcDice Token",
+            "symbol": "XDT",
+            "address": "0x5F9d86fa0454fFD6a59cCc485e689B0a832313DB",
             "decimals": 18
         }
     ]
