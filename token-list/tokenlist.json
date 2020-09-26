@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T00:57:39.865Z",
+    "timestamp": "2020-09-26T01:11:40.114Z",
     "version": {
         "major": 1,
-        "minor": 2855,
+        "minor": 2856,
         "patch": 0
     },
     "keywords": [
@@ -18703,6 +18703,13 @@
             "name": "Salad Finance",
             "symbol": "SAL",
             "address": "0x55f77Ba5Cb9424E500aA878fc0F31C66A24eFFef",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HATCH",
+            "symbol": "HATCH",
+            "address": "0xe8C10fD6cafd4675d2237F2837554feb43A30db5",
             "decimals": 18
         }
     ]
