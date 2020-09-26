@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T18:52:19.860Z",
+    "timestamp": "2020-09-26T18:54:29.676Z",
     "version": {
         "major": 1,
-        "minor": 3014,
+        "minor": 3015,
         "patch": 0
     },
     "keywords": [
@@ -19816,6 +19816,13 @@
             "name": "Tyslin",
             "symbol": "TYS",
             "address": "0x80116D7b640Ba6dee577825BA0184C266544A152",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vampire Protocol",
+            "symbol": "VAMP",
+            "address": "0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
             "decimals": 18
         }
     ]
