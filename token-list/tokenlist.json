@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:14:19.879Z",
+    "timestamp": "2020-09-26T09:14:29.922Z",
     "version": {
         "major": 1,
-        "minor": 2906,
+        "minor": 2907,
         "patch": 0
     },
     "keywords": [
@@ -19060,6 +19060,13 @@
             "name": "Blogtienao.com",
             "symbol": "BTA",
             "address": "0xCF203C5F70c8AA8e6d7080Da47136dbF31a1D668",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rhino.bet",
+            "symbol": "RHINO",
+            "address": "0x398a18F607AEDC354DE25447151dc02D561d430a",
             "decimals": 18
         }
     ]
