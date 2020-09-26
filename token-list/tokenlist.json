@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T10:49:34.750Z",
+    "timestamp": "2020-09-26T10:57:59.310Z",
     "version": {
         "major": 1,
-        "minor": 2925,
+        "minor": 2926,
         "patch": 0
     },
     "keywords": [
@@ -19193,6 +19193,13 @@
             "name": "YCRAB.FINANCE",
             "symbol": "YCRAB",
             "address": "0xb947f77d2644533dc0322aCD91337b4c1cc024DE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tokenlon Utility Token",
+            "symbol": "LON",
+            "address": "0x36bb0b04c2ec75a6C1BE436Bc83Dbc1451750418",
             "decimals": 18
         }
     ]
