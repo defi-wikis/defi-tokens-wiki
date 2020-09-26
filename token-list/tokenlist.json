@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T23:30:10.301Z",
+    "timestamp": "2020-09-26T23:31:34.773Z",
     "version": {
         "major": 1,
-        "minor": 3043,
+        "minor": 3044,
         "patch": 0
     },
     "keywords": [
@@ -20019,6 +20019,13 @@
             "name": "UNI SWAP X",
             "symbol": "UNIX",
             "address": "0xD329062ab502F0e4670B347d5035dB89989Feb93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rich",
+            "symbol": "RICH",
+            "address": "0x31253881195E9233A4A79F62Cb735105c7cce22e",
             "decimals": 18
         }
     ]
