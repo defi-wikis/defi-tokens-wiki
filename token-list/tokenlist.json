@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T03:39:06.959Z",
+    "timestamp": "2020-09-26T03:40:39.393Z",
     "version": {
         "major": 1,
-        "minor": 2880,
+        "minor": 2881,
         "patch": 0
     },
     "keywords": [
@@ -18878,6 +18878,13 @@
             "name": "Archangel Azrael",
             "symbol": "ARCH",
             "address": "0xB59c30C7d55d719641d7120EF099c49f456622fB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEME 2.0",
+            "symbol": "MEME2",
+            "address": "0xA86cb87145d90fDe867078367f1929D57DD26D04",
             "decimals": 18
         }
     ]
