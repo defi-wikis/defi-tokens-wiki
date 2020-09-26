@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:12:54.346Z",
+    "timestamp": "2020-09-26T13:13:10.101Z",
     "version": {
         "major": 1,
-        "minor": 2948,
+        "minor": 2949,
         "patch": 0
     },
     "keywords": [
@@ -19354,6 +19354,13 @@
             "name": "MEME 2.0",
             "symbol": "MEME2",
             "address": "0x83dB71DaB0f0D957843120143A72ce88dc3c30ac",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "orb.bz",
+            "symbol": "ORB",
+            "address": "0x85d1C3c9Ed62B96240FaE71C74f1A90Fb3ea98aB",
             "decimals": 18
         }
     ]
