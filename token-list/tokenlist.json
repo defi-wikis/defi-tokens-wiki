@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T11:56:14.914Z",
+    "timestamp": "2020-09-26T12:04:19.853Z",
     "version": {
         "major": 1,
-        "minor": 2934,
+        "minor": 2935,
         "patch": 0
     },
     "keywords": [
@@ -19256,6 +19256,13 @@
             "name": "Level Up Finance",
             "symbol": "LVLUP",
             "address": "0x230278404f2E6549B9CB5645a9E87ad7f888D72b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dfinance Token",
+            "symbol": "DFI",
+            "address": "0x9A18d9E851d744A3D67F2a96D49b3beA3E0CD860",
             "decimals": 18
         }
     ]
