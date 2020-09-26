@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:21:24.611Z",
+    "timestamp": "2020-09-26T09:34:29.651Z",
     "version": {
         "major": 1,
-        "minor": 2909,
+        "minor": 2910,
         "patch": 0
     },
     "keywords": [
@@ -19081,6 +19081,13 @@
             "name": "LVToken",
             "symbol": "LV",
             "address": "0x30504D40838b21D5eBa8f91b14192e6737Cf8AE5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LOCUST finance",
+            "symbol": "LCTE",
+            "address": "0x55EBbF4FFbad75E9378f2B4c90277b8f3dA47401",
             "decimals": 18
         }
     ]
