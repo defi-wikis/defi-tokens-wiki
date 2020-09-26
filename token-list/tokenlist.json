@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:39:24.662Z",
+    "timestamp": "2020-09-26T02:40:54.272Z",
     "version": {
         "major": 1,
-        "minor": 2871,
+        "minor": 2872,
         "patch": 0
     },
     "keywords": [
@@ -18816,6 +18816,13 @@
             "symbol": "POT",
             "address": "0xEb4F04007b5F92648547A41B61495C65B77a41d5",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "SPARTA.FINANCE",
+            "symbol": "SPARTA",
+            "address": "0x2035e0863BbB580a04f5D4898B72c8C13705b948",
+            "decimals": 18
         }
     ]
 }
