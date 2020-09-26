@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:15:39.633Z",
+    "timestamp": "2020-09-26T09:21:24.611Z",
     "version": {
         "major": 1,
-        "minor": 2908,
+        "minor": 2909,
         "patch": 0
     },
     "keywords": [
@@ -19074,6 +19074,13 @@
             "name": "NECTAR",
             "symbol": "NEC",
             "address": "0x89A9ed4cFBDd8dca4167ef5BbF8b6671b24A3F20",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LVToken",
+            "symbol": "LV",
+            "address": "0x30504D40838b21D5eBa8f91b14192e6737Cf8AE5",
             "decimals": 18
         }
     ]
