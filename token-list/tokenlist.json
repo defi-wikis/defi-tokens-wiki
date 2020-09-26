@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T11:17:29.645Z",
+    "timestamp": "2020-09-26T11:19:19.316Z",
     "version": {
         "major": 1,
-        "minor": 2928,
+        "minor": 2929,
         "patch": 0
     },
     "keywords": [
@@ -19214,6 +19214,13 @@
             "name": "Rotten",
             "symbol": "ROT",
             "address": "0xc193b6d33D9dC5517efc3bC82B4f4630fC9D947E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bungle.fi",
+            "symbol": "BUNG",
+            "address": "0x1541Be566996da2509B6158e4d146F2B3Dd75a74",
             "decimals": 18
         }
     ]
