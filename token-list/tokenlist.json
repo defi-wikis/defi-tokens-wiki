@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T23:31:34.773Z",
+    "timestamp": "2020-09-26T23:40:54.252Z",
     "version": {
         "major": 1,
-        "minor": 3044,
+        "minor": 3045,
         "patch": 0
     },
     "keywords": [
@@ -20026,6 +20026,13 @@
             "name": "rich",
             "symbol": "RICH",
             "address": "0x31253881195E9233A4A79F62Cb735105c7cce22e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZUT3",
+            "symbol": "ZUT3",
+            "address": "0xA6Af79b5cbC90aE1613790bDcA4d657181C45CdA",
             "decimals": 18
         }
     ]
