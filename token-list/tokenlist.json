@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T15:27:49.619Z",
+    "timestamp": "2020-09-26T15:30:35.168Z",
     "version": {
         "major": 1,
-        "minor": 2974,
+        "minor": 2975,
         "patch": 0
     },
     "keywords": [
@@ -19536,6 +19536,13 @@
             "name": "Community Autonomy Token",
             "symbol": "COMTIT",
             "address": "0x5459D5FDA341d44AA443DE026baC176a4D39897a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RVX Token @ RIVEX.io",
+            "symbol": "RVX",
+            "address": "0x781bBD73a442eA661dC6337b52C0811d4dd66Afa",
             "decimals": 18
         }
     ]
