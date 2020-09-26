@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T03:41:34.971Z",
+    "timestamp": "2020-09-26T03:41:54.625Z",
     "version": {
         "major": 1,
-        "minor": 2882,
+        "minor": 2883,
         "patch": 0
     },
     "keywords": [
@@ -18892,6 +18892,13 @@
             "name": "ecoinofficial.org",
             "symbol": "ECO",
             "address": "0x2CD0E114998FD826ecE9dd4370F3EBB2a156CcCC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Silverback Financing",
+            "symbol": "APE",
+            "address": "0x646c458BC236495F031Dae12Dc2C7A0735E68ce2",
             "decimals": 18
         }
     ]
