@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T06:25:59.366Z",
+    "timestamp": "2020-09-26T06:47:24.393Z",
     "version": {
         "major": 1,
-        "minor": 2897,
+        "minor": 2898,
         "patch": 0
     },
     "keywords": [
@@ -18997,6 +18997,13 @@
             "name": "SWSH Token",
             "symbol": "SWSH",
             "address": "0x7C88aF365024514903816FD90B741eeaC5961994",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MAVRO",
+            "symbol": "MVR",
+            "address": "0xA9926d9c8efdbbdb705ba9A3284089cfB4039831",
             "decimals": 18
         }
     ]
