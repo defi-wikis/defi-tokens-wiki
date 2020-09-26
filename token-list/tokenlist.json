@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T01:31:14.965Z",
+    "timestamp": "2020-09-26T01:34:39.576Z",
     "version": {
         "major": 1,
-        "minor": 2858,
+        "minor": 2859,
         "patch": 0
     },
     "keywords": [
@@ -18725,6 +18725,13 @@
             "symbol": "YMAX",
             "address": "0x7525e103c3716a2F28343d0be9F484BEf3CEC0FE",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BIGOCOIN",
+            "symbol": "BIGO",
+            "address": "0xa6E7dc135Bdf4b3FEe7183EAB2E87C0BB9684783",
+            "decimals": 8
         }
     ]
 }
