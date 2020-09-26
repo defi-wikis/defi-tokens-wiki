@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T14:15:44.663Z",
+    "timestamp": "2020-09-26T14:28:44.768Z",
     "version": {
         "major": 1,
-        "minor": 2962,
+        "minor": 2963,
         "patch": 0
     },
     "keywords": [
@@ -19452,6 +19452,13 @@
             "name": "KFinance",
             "symbol": "KFI",
             "address": "0xf8D605884a9A93eaE52f814fcfFfFcb61DE17424",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlueBerry",
+            "symbol": "BBY",
+            "address": "0x4f881e5a5730F2A4A991898Fbeac736C3a0Ce9D5",
             "decimals": 18
         }
     ]
