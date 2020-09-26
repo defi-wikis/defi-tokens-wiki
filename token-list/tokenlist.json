@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T05:57:06.735Z",
+    "timestamp": "2020-09-26T06:03:24.579Z",
     "version": {
         "major": 1,
-        "minor": 2894,
+        "minor": 2895,
         "patch": 0
     },
     "keywords": [
@@ -18976,6 +18976,13 @@
             "name": "yfGamma.finance",
             "symbol": "YFGM",
             "address": "0xBb608d89A95707323d5548024A22c24Ce1BdDb91",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Red Moon",
+            "symbol": "YFRM",
+            "address": "0xbE685C5E06866cfB94A4242E3DF8f2fa3E7c2b73",
             "decimals": 18
         }
     ]
