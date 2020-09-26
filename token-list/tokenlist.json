@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:50:59.685Z",
+    "timestamp": "2020-09-26T09:52:59.660Z",
     "version": {
         "major": 1,
-        "minor": 2915,
+        "minor": 2916,
         "patch": 0
     },
     "keywords": [
@@ -19124,6 +19124,13 @@
             "symbol": "QLIQ",
             "address": "0x1b69a424F6960DE4bd5807a958BAF9E85829d761",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Ice Cream.Finance",
+            "symbol": "ICF",
+            "address": "0xA872058F78932B81332ebDFe725Bee3F69181133",
+            "decimals": 18
         }
     ]
 }
