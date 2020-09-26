@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T23:54:25.015Z",
+    "timestamp": "2020-09-26T23:55:44.819Z",
     "version": {
         "major": 1,
-        "minor": 3047,
+        "minor": 3048,
         "patch": 0
     },
     "keywords": [
@@ -20047,6 +20047,13 @@
             "name": "YinYang Finance",
             "symbol": "YYF",
             "address": "0x1541b47fca37b7AcCc7489cD20D4DA7B9682Ea7D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Black Hole",
+            "symbol": "HOLE",
+            "address": "0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
             "decimals": 18
         }
     ]
