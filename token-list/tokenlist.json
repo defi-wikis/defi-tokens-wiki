@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T15:38:09.888Z",
+    "timestamp": "2020-09-26T15:40:59.223Z",
     "version": {
         "major": 1,
-        "minor": 2977,
+        "minor": 2978,
         "patch": 0
     },
     "keywords": [
@@ -19557,6 +19557,13 @@
             "name": "BIGBEN",
             "symbol": "BIBN",
             "address": "0x29f764f68ded1F6398E4fc08E32dC14e0AB9fe7A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "joker.finance",
+            "symbol": "JOKER",
+            "address": "0x75D02F78228dBB9Ae6E3da10C362f595D6844020",
             "decimals": 18
         }
     ]
