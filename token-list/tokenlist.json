@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:39:34.766Z",
+    "timestamp": "2020-09-26T13:41:39.863Z",
     "version": {
         "major": 1,
-        "minor": 2957,
+        "minor": 2958,
         "patch": 0
     },
     "keywords": [
@@ -19417,6 +19417,13 @@
             "name": "yearn.finance 2.0",
             "symbol": "YFI2",
             "address": "0x4674ea3E191f527b7848c50bC80Acc9C0AfD292e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeBear.club",
+            "symbol": "DEAR",
+            "address": "0xd604b4C62f90fa022b462C729EA708bD688480AF",
             "decimals": 18
         }
     ]
