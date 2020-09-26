@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:48:44.525Z",
+    "timestamp": "2020-09-26T13:52:54.483Z",
     "version": {
         "major": 1,
-        "minor": 2960,
+        "minor": 2961,
         "patch": 0
     },
     "keywords": [
@@ -19438,6 +19438,13 @@
             "name": "Zen Garden Token",
             "symbol": "ZEN",
             "address": "0xAB037d12ec4EF8E56839911d53E675fD16E802DD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zzz.finance",
+            "symbol": "ZZZ",
+            "address": "0xef3E759dFE530ae638fE776b9b35D5B3A270DCC7",
             "decimals": 18
         }
     ]
