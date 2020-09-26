@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T03:04:19.724Z",
+    "timestamp": "2020-09-26T03:10:49.978Z",
     "version": {
         "major": 1,
-        "minor": 2876,
+        "minor": 2877,
         "patch": 0
     },
     "keywords": [
@@ -18850,6 +18850,13 @@
             "name": "Eth Maximalist",
             "symbol": "XTF.AUT2",
             "address": "0xB16072c73105d9248E4B5E3d696a9dB974191911",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped MarbleCards",
+            "symbol": "WMC",
+            "address": "0x8AedB297FED4b6884b808ee61fAf0837713670d0",
             "decimals": 18
         }
     ]
