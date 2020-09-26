@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T21:41:14.946Z",
+    "timestamp": "2020-09-26T21:42:05.906Z",
     "version": {
         "major": 1,
-        "minor": 3037,
+        "minor": 3038,
         "patch": 0
     },
     "keywords": [
@@ -19977,6 +19977,13 @@
             "name": "ANYT FINANCE",
             "symbol": "ANYT",
             "address": "0x39b9274DFCFBeE0DB81e43C6C83BC7F26ce7CB91",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "scam.finance",
+            "symbol": "SCAM",
+            "address": "0x767F2738616A7cfaC1e9486BBB8923051595A427",
             "decimals": 18
         }
     ]
