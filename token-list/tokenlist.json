@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T21:42:05.906Z",
+    "timestamp": "2020-09-26T22:00:25.209Z",
     "version": {
         "major": 1,
-        "minor": 3038,
+        "minor": 3039,
         "patch": 0
     },
     "keywords": [
@@ -19984,6 +19984,13 @@
             "name": "scam.finance",
             "symbol": "SCAM",
             "address": "0x767F2738616A7cfaC1e9486BBB8923051595A427",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.gold",
+            "symbol": "YAU",
+            "address": "0x4a44910A3bd628f1A089788B8501B155227913Fe",
             "decimals": 18
         }
     ]
