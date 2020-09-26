@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T10:10:14.887Z",
+    "timestamp": "2020-09-26T10:11:34.894Z",
     "version": {
         "major": 1,
-        "minor": 2918,
+        "minor": 2919,
         "patch": 0
     },
     "keywords": [
@@ -19145,6 +19145,13 @@
             "symbol": "BMB",
             "address": "0x9901b0b20cE01C6a9A5Ab39F3964DE99cfe61C15",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Maja Token",
+            "symbol": "MJA",
+            "address": "0x4b969C8c382953E18976bF9211B0Fe7A28E12172",
+            "decimals": 2
         }
     ]
 }
