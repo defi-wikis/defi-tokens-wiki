@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:47:39.345Z",
+    "timestamp": "2020-09-26T09:49:06.680Z",
     "version": {
         "major": 1,
-        "minor": 2913,
+        "minor": 2914,
         "patch": 0
     },
     "keywords": [
@@ -19109,6 +19109,13 @@
             "name": "Whitecoin",
             "symbol": "XWC",
             "address": "0xead4284Bc9B0f9C2c7e5235823B078830D7A59b9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFF Protocol",
+            "symbol": "YFFP",
+            "address": "0x8236cA11c349d98db5D48f32e0b507b9B88C05C6",
             "decimals": 18
         }
     ]
