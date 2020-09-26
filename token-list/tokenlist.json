@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T19:09:06.565Z",
+    "timestamp": "2020-09-26T19:27:30.200Z",
     "version": {
         "major": 1,
-        "minor": 3022,
+        "minor": 3023,
         "patch": 0
     },
     "keywords": [
@@ -19872,6 +19872,13 @@
             "name": "ToiletPaper.Finance",
             "symbol": "YFTP",
             "address": "0xd57f293c3982f9Ea89Fe4dA76c9c74fE78a45d41",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "gecko.finance",
+            "symbol": "GECKO",
+            "address": "0x9296Ca17bC32afdfe972ab127898E00DA8Ba1df2",
             "decimals": 18
         }
     ]
