@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T06:21:00.022Z",
+    "timestamp": "2020-09-26T06:25:59.366Z",
     "version": {
         "major": 1,
-        "minor": 2896,
+        "minor": 2897,
         "patch": 0
     },
     "keywords": [
@@ -18991,6 +18991,13 @@
             "symbol": "CET",
             "address": "0xbb963750b4e02e044E9b91A68Ef1Fb0d35787654",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "SWSH Token",
+            "symbol": "SWSH",
+            "address": "0x7C88aF365024514903816FD90B741eeaC5961994",
+            "decimals": 18
         }
     ]
 }
