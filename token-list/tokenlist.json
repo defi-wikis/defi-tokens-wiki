@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T00:45:25.254Z",
+    "timestamp": "2020-09-26T00:46:07.361Z",
     "version": {
         "major": 1,
-        "minor": 2853,
+        "minor": 2854,
         "patch": 0
     },
     "keywords": [
@@ -18689,6 +18689,13 @@
             "name": "Orb V2",
             "symbol": "ORBV2",
             "address": "0x3c5B699940Ad9818d49Cc0eC56eB4A93aA3e5077",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Garden of Eden, Price is Celestial",
+            "symbol": "EDEN",
+            "address": "0xe14Bec93D99FFCbD3FF933cCAbBAa9173ac1BD09",
             "decimals": 18
         }
     ]
