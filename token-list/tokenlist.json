@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T18:54:29.676Z",
+    "timestamp": "2020-09-26T18:57:09.595Z",
     "version": {
         "major": 1,
-        "minor": 3015,
+        "minor": 3016,
         "patch": 0
     },
     "keywords": [
@@ -19823,6 +19823,13 @@
             "name": "Vampire Protocol",
             "symbol": "VAMP",
             "address": "0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TooSwap.com",
+            "symbol": "TOO",
+            "address": "0x77A068E9d5c4B01CB1841C6F2bb335cffB110971",
             "decimals": 18
         }
     ]
