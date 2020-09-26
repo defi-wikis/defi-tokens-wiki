@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T01:59:39.638Z",
+    "timestamp": "2020-09-26T02:08:29.476Z",
     "version": {
         "major": 1,
-        "minor": 2864,
+        "minor": 2865,
         "patch": 0
     },
     "keywords": [
@@ -18766,6 +18766,13 @@
             "name": "WOO.Finance",
             "symbol": "WOO",
             "address": "0x65FDc88145f433d5fEe128e4FD7B95416636548b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TokenLon",
+            "symbol": "LON",
+            "address": "0x74fe63027ccD88f9cfFE4255fDF2075243582CE3",
             "decimals": 18
         }
     ]
