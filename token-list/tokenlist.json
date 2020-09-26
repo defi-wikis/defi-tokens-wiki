@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:08:29.476Z",
+    "timestamp": "2020-09-26T02:12:40.195Z",
     "version": {
         "major": 1,
-        "minor": 2865,
+        "minor": 2866,
         "patch": 0
     },
     "keywords": [
@@ -18773,6 +18773,13 @@
             "name": "TokenLon",
             "symbol": "LON",
             "address": "0x74fe63027ccD88f9cfFE4255fDF2075243582CE3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Archangel",
+            "symbol": "ARCH",
+            "address": "0x02E3048e9eb0d730Ca3F5f47B890c83d571D9A35",
             "decimals": 18
         }
     ]
