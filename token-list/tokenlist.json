@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T07:07:09.408Z",
+    "timestamp": "2020-09-26T07:34:19.797Z",
     "version": {
         "major": 1,
-        "minor": 2900,
+        "minor": 2901,
         "patch": 0
     },
     "keywords": [
@@ -19018,6 +19018,13 @@
             "name": "AA",
             "symbol": "WBTC",
             "address": "0xf0299d265bB7D9539bdf5D84D8A6a3840254838C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Street Cred",
+            "symbol": "CRED",
+            "address": "0xED7Fa212E100DFb3b13B834233E4B680332a3420",
             "decimals": 18
         }
     ]
