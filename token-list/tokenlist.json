@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T19:27:30.200Z",
+    "timestamp": "2020-09-26T19:42:49.811Z",
     "version": {
         "major": 1,
-        "minor": 3023,
+        "minor": 3024,
         "patch": 0
     },
     "keywords": [
@@ -19879,6 +19879,13 @@
             "name": "gecko.finance",
             "symbol": "GECKO",
             "address": "0x9296Ca17bC32afdfe972ab127898E00DA8Ba1df2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "aleph.im v2",
+            "symbol": "ALEPH",
+            "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
             "decimals": 18
         }
     ]
