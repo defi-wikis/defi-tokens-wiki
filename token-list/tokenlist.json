@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:12:40.195Z",
+    "timestamp": "2020-09-26T02:13:09.968Z",
     "version": {
         "major": 1,
-        "minor": 2866,
+        "minor": 2867,
         "patch": 0
     },
     "keywords": [
@@ -18780,6 +18780,13 @@
             "name": "Archangel",
             "symbol": "ARCH",
             "address": "0x02E3048e9eb0d730Ca3F5f47B890c83d571D9A35",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "akash.network",
+            "symbol": "AKT",
+            "address": "0x69878A9c7AcF0771828699145d34a3635773f7F3",
             "decimals": 18
         }
     ]
