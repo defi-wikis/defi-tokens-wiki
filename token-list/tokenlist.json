@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T17:36:19.695Z",
+    "timestamp": "2020-09-26T17:40:19.704Z",
     "version": {
         "major": 1,
-        "minor": 3003,
+        "minor": 3004,
         "patch": 0
     },
     "keywords": [
@@ -19739,6 +19739,13 @@
             "name": "Number Go Up",
             "symbol": "GOUP",
             "address": "0x4194155E4902E520bf907DFeC26728a1D6FEf002",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Totally Pointless 2",
+            "symbol": "TPT2",
+            "address": "0x6CFE9a9ed3a6D8f480F272033A2B526b7aAC4bf9",
             "decimals": 18
         }
     ]
