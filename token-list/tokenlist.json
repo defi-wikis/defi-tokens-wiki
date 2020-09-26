@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T16:37:39.579Z",
+    "timestamp": "2020-09-26T16:39:29.928Z",
     "version": {
         "major": 1,
-        "minor": 2990,
+        "minor": 2991,
         "patch": 0
     },
     "keywords": [
@@ -19648,6 +19648,13 @@
             "name": "Duck.Farm",
             "symbol": "DUCK",
             "address": "0xe123DF3Cde372103B113d28988cA264628C279C5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ape.finance",
+            "symbol": "APE",
+            "address": "0xbD3E01e989eb3327EB2aAB6B5C46153a19a5cdd4",
             "decimals": 18
         }
     ]
