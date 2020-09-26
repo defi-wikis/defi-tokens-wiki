@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T18:59:19.555Z",
+    "timestamp": "2020-09-26T19:01:54.930Z",
     "version": {
         "major": 1,
-        "minor": 3019,
+        "minor": 3020,
         "patch": 0
     },
     "keywords": [
@@ -19851,6 +19851,13 @@
             "name": "Sunrisenet finance",
             "symbol": "SRN",
             "address": "0xc027568786b2b3D82c2AE9Ae9D145A430932aFb1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiStake.me",
+            "symbol": "sDFI",
+            "address": "0x997d11bB6Fc07EeDA1C77573249dFa89f786e782",
             "decimals": 18
         }
     ]
