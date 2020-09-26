@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T11:22:49.521Z",
+    "timestamp": "2020-09-26T11:23:06.681Z",
     "version": {
         "major": 1,
-        "minor": 2930,
+        "minor": 2931,
         "patch": 0
     },
     "keywords": [
@@ -19228,6 +19228,13 @@
             "name": "bitso.org",
             "symbol": "bitso",
             "address": "0x522A7Bf2491C51832BdB38C24E99c580fF1e143a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ViteToken",
+            "symbol": "VITE",
+            "address": "0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016",
             "decimals": 18
         }
     ]
