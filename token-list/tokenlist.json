@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T14:49:14.530Z",
+    "timestamp": "2020-09-26T14:55:06.546Z",
     "version": {
         "major": 1,
-        "minor": 2967,
+        "minor": 2968,
         "patch": 0
     },
     "keywords": [
@@ -19487,6 +19487,13 @@
             "name": "Bagel Finance",
             "symbol": "BAGEL",
             "address": "0xcc033651f1193A49977D14678673Fe5A01756Aea",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "randomify.com",
+            "symbol": "rand",
+            "address": "0xCb2382d670D7BC027d30933bf96A290d1136B511",
             "decimals": 18
         }
     ]
