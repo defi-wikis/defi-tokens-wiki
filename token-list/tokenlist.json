@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T14:30:13.062Z",
+    "timestamp": "2020-09-26T14:34:20.740Z",
     "version": {
         "major": 1,
-        "minor": 2964,
+        "minor": 2965,
         "patch": 0
     },
     "keywords": [
@@ -19466,6 +19466,13 @@
             "name": "scamproof.io",
             "symbol": "PROOF",
             "address": "0xD61C380Eed664EE41FEBCD005A59bFe84B7CF729",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeBear.Club",
+            "symbol": "DEAR",
+            "address": "0xAc48F566BFb00b40112a868B45e44730798ABe8d",
             "decimals": 18
         }
     ]
