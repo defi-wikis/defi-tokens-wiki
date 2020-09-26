@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:21:15.675Z",
+    "timestamp": "2020-09-26T13:29:24.845Z",
     "version": {
         "major": 1,
-        "minor": 2951,
+        "minor": 2952,
         "patch": 0
     },
     "keywords": [
@@ -19375,6 +19375,13 @@
             "name": "GEC环保基金会",
             "symbol": "GEC",
             "address": "0x9Ef0F670a3d1D6C12648Fc56871e7573c87A7F39",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HONEYSWAP ON xDAI 1k",
+            "symbol": "HOX",
+            "address": "0x87d706f6467BF621BbB8d528a409fd6dF4CEBDd1",
             "decimals": 18
         }
     ]
