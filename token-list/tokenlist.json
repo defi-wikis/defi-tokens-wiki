@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T04:28:49.689Z",
+    "timestamp": "2020-09-26T04:34:34.961Z",
     "version": {
         "major": 1,
-        "minor": 2885,
+        "minor": 2886,
         "patch": 0
     },
     "keywords": [
@@ -18913,6 +18913,13 @@
             "name": "jplus.finance",
             "symbol": "JPLUS",
             "address": "0x02756339d28A1Af08B114EE5d8c531C9898A2B08",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "onio.finance",
+            "symbol": "ONIO",
+            "address": "0xA659CD3D64802726Fe97956E93F3375aB05DF63D",
             "decimals": 18
         }
     ]
