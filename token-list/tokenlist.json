@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T22:00:50.330Z",
+    "timestamp": "2020-09-26T22:05:09.527Z",
     "version": {
         "major": 1,
-        "minor": 3040,
+        "minor": 3041,
         "patch": 0
     },
     "keywords": [
@@ -19998,6 +19998,13 @@
             "name": "MXT FINANCE",
             "symbol": "MXT",
             "address": "0x4be6869DE9cF4337C429cA0DF1ec925b3FddF255",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rugpull.swap",
+            "symbol": "RUG",
+            "address": "0xecB99a2d628310d96Bb4B5F3a5e16Bd38ab8B04E",
             "decimals": 18
         }
     ]
