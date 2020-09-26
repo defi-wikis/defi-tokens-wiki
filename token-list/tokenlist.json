@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T17:21:05.957Z",
+    "timestamp": "2020-09-26T17:21:11.684Z",
     "version": {
         "major": 1,
-        "minor": 3000,
+        "minor": 3001,
         "patch": 0
     },
     "keywords": [
@@ -19718,6 +19718,13 @@
             "name": "FLM",
             "symbol": "Flamingoswap",
             "address": "0xB5b8c6E99CEe66AB0A84Fc94148E26643c8F7ba3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEME 2.0",
+            "symbol": "MEME2",
+            "address": "0xA36c78f28eEcb305a5A9436257271c17239b856a",
             "decimals": 18
         }
     ]
