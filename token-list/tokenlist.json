@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T05:10:44.507Z",
+    "timestamp": "2020-09-26T05:41:24.501Z",
     "version": {
         "major": 1,
-        "minor": 2890,
+        "minor": 2891,
         "patch": 0
     },
     "keywords": [
@@ -18949,6 +18949,13 @@
             "symbol": "NULS",
             "address": "0xa2791BdF2D5055Cda4d46EC17f9F429568275047",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Karma.Finance",
+            "symbol": "KFI",
+            "address": "0xF4Bf5FE2DF1bA8Cc02A1dcFf6a3b9A677e7270A9",
+            "decimals": 18
         }
     ]
 }
