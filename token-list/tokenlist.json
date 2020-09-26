@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T18:12:29.492Z",
+    "timestamp": "2020-09-26T18:30:12.749Z",
     "version": {
         "major": 1,
-        "minor": 3008,
+        "minor": 3009,
         "patch": 0
     },
     "keywords": [
@@ -19774,6 +19774,13 @@
             "name": "Yeildfinance",
             "symbol": "YEFI",
             "address": "0x7628644B6B2A26A4d8dC89ee3b22796605fCD6d8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YNDYT.FINANCE",
+            "symbol": "YNDYT",
+            "address": "0xba3C8024443671D75844E4caefA23C3670B458F3",
             "decimals": 18
         }
     ]
