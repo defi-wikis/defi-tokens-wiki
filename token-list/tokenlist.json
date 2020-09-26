@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T01:26:49.668Z",
+    "timestamp": "2020-09-26T01:31:14.965Z",
     "version": {
         "major": 1,
-        "minor": 2857,
+        "minor": 2858,
         "patch": 0
     },
     "keywords": [
@@ -18718,6 +18718,13 @@
             "symbol": "YTG",
             "address": "0x288F9a192207bC59230204655b12CCd83cEb74Dc",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Ymax.Finance",
+            "symbol": "YMAX",
+            "address": "0x7525e103c3716a2F28343d0be9F484BEf3CEC0FE",
+            "decimals": 18
         }
     ]
 }
