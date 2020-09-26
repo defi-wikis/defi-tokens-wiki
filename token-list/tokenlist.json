@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T17:30:14.955Z",
+    "timestamp": "2020-09-26T17:36:19.695Z",
     "version": {
         "major": 1,
-        "minor": 3002,
+        "minor": 3003,
         "patch": 0
     },
     "keywords": [
@@ -19732,6 +19732,13 @@
             "name": "cVault finance CORE",
             "symbol": "CORE",
             "address": "0xEbcA0DbedaeABBE386Ba7594De52E402ba2FCa1d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Number Go Up",
+            "symbol": "GOUP",
+            "address": "0x4194155E4902E520bf907DFeC26728a1D6FEf002",
             "decimals": 18
         }
     ]
