@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:13:39.847Z",
+    "timestamp": "2020-09-26T09:14:19.879Z",
     "version": {
         "major": 1,
-        "minor": 2905,
+        "minor": 2906,
         "patch": 0
     },
     "keywords": [
@@ -19053,6 +19053,13 @@
             "name": "RioDefi",
             "symbol": "RFUEL",
             "address": "0xA14c3bf6Cb3148a0710FD819dF6e1e662aa8Aa0e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Blogtienao.com",
+            "symbol": "BTA",
+            "address": "0xCF203C5F70c8AA8e6d7080Da47136dbF31a1D668",
             "decimals": 18
         }
     ]
