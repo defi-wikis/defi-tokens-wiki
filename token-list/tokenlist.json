@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T15:41:06.486Z",
+    "timestamp": "2020-09-26T15:46:29.469Z",
     "version": {
         "major": 1,
-        "minor": 2979,
+        "minor": 2980,
         "patch": 0
     },
     "keywords": [
@@ -19571,6 +19571,13 @@
             "name": "Fire",
             "symbol": "FIRE",
             "address": "0xf066C1d8CFBD7dB0cCa4301ccA29f5ed7C7b9599",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Canyon Protocol",
+            "symbol": "CYP",
+            "address": "0x5a9FE2D4c2FA2b70B52C9fbC6494697A9F1BD32c",
             "decimals": 18
         }
     ]
