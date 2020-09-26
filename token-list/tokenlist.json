@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:38:59.807Z",
+    "timestamp": "2020-09-26T13:39:34.766Z",
     "version": {
         "major": 1,
-        "minor": 2956,
+        "minor": 2957,
         "patch": 0
     },
     "keywords": [
@@ -19410,6 +19410,13 @@
             "name": "YEther",
             "symbol": "YETH",
             "address": "0xBdb3d22aFebd8995ee5B4992CDB7902A9fB03Fe4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.finance 2.0",
+            "symbol": "YFI2",
+            "address": "0x4674ea3E191f527b7848c50bC80Acc9C0AfD292e",
             "decimals": 18
         }
     ]
