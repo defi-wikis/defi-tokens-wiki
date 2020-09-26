@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T22:00:25.209Z",
+    "timestamp": "2020-09-26T22:00:50.330Z",
     "version": {
         "major": 1,
-        "minor": 3039,
+        "minor": 3040,
         "patch": 0
     },
     "keywords": [
@@ -19991,6 +19991,13 @@
             "name": "yearn.gold",
             "symbol": "YAU",
             "address": "0x4a44910A3bd628f1A089788B8501B155227913Fe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MXT FINANCE",
+            "symbol": "MXT",
+            "address": "0x4be6869DE9cF4337C429cA0DF1ec925b3FddF255",
             "decimals": 18
         }
     ]
