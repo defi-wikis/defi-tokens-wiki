@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T10:47:09.360Z",
+    "timestamp": "2020-09-26T10:49:34.750Z",
     "version": {
         "major": 1,
-        "minor": 2924,
+        "minor": 2925,
         "patch": 0
     },
     "keywords": [
@@ -19186,6 +19186,13 @@
             "name": "ELIO Token",
             "symbol": "ELIO",
             "address": "0xb8D2130f9815afBf5AA49c1355875551cFE6e708",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YCRAB.FINANCE",
+            "symbol": "YCRAB",
+            "address": "0xb947f77d2644533dc0322aCD91337b4c1cc024DE",
             "decimals": 18
         }
     ]
