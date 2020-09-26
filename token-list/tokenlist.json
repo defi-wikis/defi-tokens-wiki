@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T00:20:20.113Z",
+    "timestamp": "2020-09-26T00:41:14.926Z",
     "version": {
         "major": 1,
-        "minor": 2851,
+        "minor": 2852,
         "patch": 0
     },
     "keywords": [
@@ -18675,6 +18675,13 @@
             "name": "Yeildfinance",
             "symbol": "YEFI",
             "address": "0xb4694E97D8E84Bc42873F8a785920D40B9C09FB6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x5A86a33881F84DA721c5b71C062d6bdE55A116cE",
             "decimals": 18
         }
     ]
