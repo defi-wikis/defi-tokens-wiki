@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:31:59.512Z",
+    "timestamp": "2020-09-26T13:38:06.363Z",
     "version": {
         "major": 1,
-        "minor": 2954,
+        "minor": 2955,
         "patch": 0
     },
     "keywords": [
@@ -19397,6 +19397,13 @@
             "symbol": "HMQ",
             "address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "joker.finance",
+            "symbol": "JOKER",
+            "address": "0x769D90fd4086c181B916F6e2B79B9468366Fb6B4",
+            "decimals": 18
         }
     ]
 }
