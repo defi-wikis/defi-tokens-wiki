@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T06:03:24.579Z",
+    "timestamp": "2020-09-26T06:21:00.022Z",
     "version": {
         "major": 1,
-        "minor": 2895,
+        "minor": 2896,
         "patch": 0
     },
     "keywords": [
@@ -18984,6 +18984,13 @@
             "symbol": "YFRM",
             "address": "0xbE685C5E06866cfB94A4242E3DF8f2fa3E7c2b73",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Creation Engine Token",
+            "symbol": "CET",
+            "address": "0xbb963750b4e02e044E9b91A68Ef1Fb0d35787654",
+            "decimals": 8
         }
     ]
 }
