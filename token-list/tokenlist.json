@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T16:07:07.554Z",
+    "timestamp": "2020-09-26T16:07:35.543Z",
     "version": {
         "major": 1,
-        "minor": 2985,
+        "minor": 2986,
         "patch": 0
     },
     "keywords": [
@@ -19613,6 +19613,13 @@
             "name": "Limbo.Finance",
             "symbol": "LMF",
             "address": "0x1FFd7CF6fCe98bb25578e90cFB2C5766AA28E1b4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "compound.finance",
+            "symbol": "COMD",
+            "address": "0x80545fD13bd865be0dbF77c95E59C328A9750b86",
             "decimals": 18
         }
     ]
