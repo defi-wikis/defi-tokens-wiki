@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-25T23:50:44.992Z",
+    "timestamp": "2020-09-26T00:06:20.028Z",
     "version": {
         "major": 1,
-        "minor": 2848,
+        "minor": 2849,
         "patch": 0
     },
     "keywords": [
@@ -18654,6 +18654,13 @@
             "name": "Sparta.finance",
             "symbol": "SPARTA",
             "address": "0xCc77B2802dBe1DE7ee987010727AF43E4ca79eA1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SAFE2",
+            "symbol": "SAFE2",
+            "address": "0x250a3500f48666561386832f1F1f1019b89a2699",
             "decimals": 18
         }
     ]
