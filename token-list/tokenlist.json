@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T16:50:40.269Z",
+    "timestamp": "2020-09-26T16:56:24.342Z",
     "version": {
         "major": 1,
-        "minor": 2993,
+        "minor": 2994,
         "patch": 0
     },
     "keywords": [
@@ -19669,6 +19669,13 @@
             "name": "plouto.finance",
             "symbol": "PLU",
             "address": "0x1052620F0cB7247B8622B85d04180E25f49D2267",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn finance kit",
+            "symbol": "YFK",
+            "address": "0xCe8002943574259E4940d19362BA60c6463A9287",
             "decimals": 18
         }
     ]
