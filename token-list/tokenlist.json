@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:34:29.651Z",
+    "timestamp": "2020-09-26T09:39:09.286Z",
     "version": {
         "major": 1,
-        "minor": 2910,
+        "minor": 2911,
         "patch": 0
     },
     "keywords": [
@@ -19088,6 +19088,13 @@
             "name": "LOCUST finance",
             "symbol": "LCTE",
             "address": "0x55EBbF4FFbad75E9378f2B4c90277b8f3dA47401",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XEON FINSWAP",
+            "symbol": "XEON",
+            "address": "0xf932E0f6e90e02383A6E1BC718E430c033C8F7D2",
             "decimals": 18
         }
     ]
