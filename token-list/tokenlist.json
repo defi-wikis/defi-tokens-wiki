@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T11:23:06.681Z",
+    "timestamp": "2020-09-26T11:34:59.793Z",
     "version": {
         "major": 1,
-        "minor": 2931,
+        "minor": 2932,
         "patch": 0
     },
     "keywords": [
@@ -19235,6 +19235,13 @@
             "name": "ViteToken",
             "symbol": "VITE",
             "address": "0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Zetatoken",
+            "symbol": "YFZ",
+            "address": "0x5bFa882973B310F3ACe764cE914e75C2A5dec1d3",
             "decimals": 18
         }
     ]
