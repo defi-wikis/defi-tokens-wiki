@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T18:43:29.340Z",
+    "timestamp": "2020-09-26T18:46:25.832Z",
     "version": {
         "major": 1,
-        "minor": 3011,
+        "minor": 3012,
         "patch": 0
     },
     "keywords": [
@@ -19795,6 +19795,13 @@
             "name": "swapNFT.com",
             "symbol": "spNFT",
             "address": "0x12318150712671f10f60c2062227aC4CE2e62164",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniSushi",
+            "symbol": "UniSushi",
+            "address": "0x50b379ec299E4585F2644EA6376D00b3C402c8cc",
             "decimals": 18
         }
     ]
