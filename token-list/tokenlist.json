@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T12:42:09.633Z",
+    "timestamp": "2020-09-26T12:42:39.253Z",
     "version": {
         "major": 1,
-        "minor": 2939,
+        "minor": 2940,
         "patch": 0
     },
     "keywords": [
@@ -19291,6 +19291,13 @@
             "name": "RottenSwap",
             "symbol": "ROT",
             "address": "0xd4D1C6857d994f9Af768b67A6a6e9c279Dae1303",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "honeyswap",
+            "symbol": "HNY",
+            "address": "0xDb3abe1535b5b33Cc3ff0F48910e6201ec636F88",
             "decimals": 18
         }
     ]
