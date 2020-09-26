@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T03:16:44.616Z",
+    "timestamp": "2020-09-26T03:33:50.152Z",
     "version": {
         "major": 1,
-        "minor": 2878,
+        "minor": 2879,
         "patch": 0
     },
     "keywords": [
@@ -18864,6 +18864,13 @@
             "name": "Cockroach.Finance",
             "symbol": "COCK",
             "address": "0x35e0C11B87b6F6577Dc6117a37a12b8A80629e4D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Andre Cronje",
+            "symbol": "YAC",
+            "address": "0xfE98967a6cdA8eEF3b1D38e5E8c03c2F4CE5278F",
             "decimals": 18
         }
     ]
