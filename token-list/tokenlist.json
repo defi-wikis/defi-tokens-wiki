@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T12:55:50.790Z",
+    "timestamp": "2020-09-26T12:58:19.623Z",
     "version": {
         "major": 1,
-        "minor": 2942,
+        "minor": 2943,
         "patch": 0
     },
     "keywords": [
@@ -19312,6 +19312,13 @@
             "name": "TapChiBitcoin.io",
             "symbol": "TCB",
             "address": "0x799Aeb6597d67869a2af09baBe8Ea67f4D2012C0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "oin.finance",
+            "symbol": "OIN",
+            "address": "0x4d9fFf5d385715cB1Dcd1810BE436b48792f10eE",
             "decimals": 18
         }
     ]
