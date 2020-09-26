@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:38:06.363Z",
+    "timestamp": "2020-09-26T13:38:59.807Z",
     "version": {
         "major": 1,
-        "minor": 2955,
+        "minor": 2956,
         "patch": 0
     },
     "keywords": [
@@ -19403,6 +19403,13 @@
             "name": "joker.finance",
             "symbol": "JOKER",
             "address": "0x769D90fd4086c181B916F6e2B79B9468366Fb6B4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YEther",
+            "symbol": "YETH",
+            "address": "0xBdb3d22aFebd8995ee5B4992CDB7902A9fB03Fe4",
             "decimals": 18
         }
     ]
