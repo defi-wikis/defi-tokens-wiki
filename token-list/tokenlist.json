@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T03:41:54.625Z",
+    "timestamp": "2020-09-26T03:44:19.579Z",
     "version": {
         "major": 1,
-        "minor": 2883,
+        "minor": 2884,
         "patch": 0
     },
     "keywords": [
@@ -18899,6 +18899,13 @@
             "name": "Silverback Financing",
             "symbol": "APE",
             "address": "0x646c458BC236495F031Dae12Dc2C7A0735E68ce2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Greed",
+            "symbol": "greed.network",
+            "address": "0x82f4e8135917D0cE546E9cb96a3BE0921311D4f9",
             "decimals": 18
         }
     ]
