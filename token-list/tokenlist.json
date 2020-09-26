@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T16:20:14.571Z",
+    "timestamp": "2020-09-26T16:37:39.579Z",
     "version": {
         "major": 1,
-        "minor": 2989,
+        "minor": 2990,
         "patch": 0
     },
     "keywords": [
@@ -19641,6 +19641,13 @@
             "name": "Stripper Token",
             "symbol": "STRIP",
             "address": "0x28dF5e6FF6DcFEb4c69A4332DD51CF4733287081",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Duck.Farm",
+            "symbol": "DUCK",
+            "address": "0xe123DF3Cde372103B113d28988cA264628C279C5",
             "decimals": 18
         }
     ]
