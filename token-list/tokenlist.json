@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T03:00:15.488Z",
+    "timestamp": "2020-09-26T03:04:19.724Z",
     "version": {
         "major": 1,
-        "minor": 2875,
+        "minor": 2876,
         "patch": 0
     },
     "keywords": [
@@ -18843,6 +18843,13 @@
             "name": "Moonbase",
             "symbol": "mbBASED",
             "address": "0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eth Maximalist",
+            "symbol": "XTF.AUT2",
+            "address": "0xB16072c73105d9248E4B5E3d696a9dB974191911",
             "decimals": 18
         }
     ]
