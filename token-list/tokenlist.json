@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T16:19:39.921Z",
+    "timestamp": "2020-09-26T16:20:14.571Z",
     "version": {
         "major": 1,
-        "minor": 2988,
+        "minor": 2989,
         "patch": 0
     },
     "keywords": [
@@ -19634,6 +19634,13 @@
             "name": "Shrink Finance",
             "symbol": "SRK",
             "address": "0x099c4772aC7c866c48B5D870f2C702193CD3F27D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Stripper Token",
+            "symbol": "STRIP",
+            "address": "0x28dF5e6FF6DcFEb4c69A4332DD51CF4733287081",
             "decimals": 18
         }
     ]
