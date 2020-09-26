@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T17:01:15.269Z",
+    "timestamp": "2020-09-26T17:01:54.624Z",
     "version": {
         "major": 1,
-        "minor": 2996,
+        "minor": 2997,
         "patch": 0
     },
     "keywords": [
@@ -19690,6 +19690,13 @@
             "name": "Momo Token",
             "symbol": "MOMO",
             "address": "0x5c1787292838b2eC75952D42D3f25885b1Bf8d9c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFGamma",
+            "symbol": "YFG",
+            "address": "0x6A7B0232853136E834BDe8d80BF7278d26Dd444c",
             "decimals": 18
         }
     ]
