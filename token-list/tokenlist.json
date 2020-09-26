@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T01:37:34.303Z",
+    "timestamp": "2020-09-26T01:43:19.184Z",
     "version": {
         "major": 1,
-        "minor": 2860,
+        "minor": 2861,
         "patch": 0
     },
     "keywords": [
@@ -18738,6 +18738,13 @@
             "name": "Crumbs",
             "symbol": "CRUMBS",
             "address": "0x1568b0A870e4bc6200e60184E52649E8C805A5f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yyzz",
+            "symbol": "yyzz",
+            "address": "0xa7ede2dD04fAA2EBB713d0ba1603579656724953",
             "decimals": 18
         }
     ]
