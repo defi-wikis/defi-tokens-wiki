@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T23:09:19.663Z",
+    "timestamp": "2020-09-26T23:30:10.301Z",
     "version": {
         "major": 1,
-        "minor": 3042,
+        "minor": 3043,
         "patch": 0
     },
     "keywords": [
@@ -20012,6 +20012,13 @@
             "name": "AAA",
             "symbol": "WBTC",
             "address": "0x4a845949E52c5f9Da5BE96218EF3E3Aa372A5Bfe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNI SWAP X",
+            "symbol": "UNIX",
+            "address": "0xD329062ab502F0e4670B347d5035dB89989Feb93",
             "decimals": 18
         }
     ]
