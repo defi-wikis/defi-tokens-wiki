@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T18:49:06.581Z",
+    "timestamp": "2020-09-26T18:52:19.860Z",
     "version": {
         "major": 1,
-        "minor": 3013,
+        "minor": 3014,
         "patch": 0
     },
     "keywords": [
@@ -19809,6 +19809,13 @@
             "name": "rug.pull",
             "symbol": "RUG",
             "address": "0xB34BDD3EE8052Ae48Ae865A93cC18bd9B06BD2A6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tyslin",
+            "symbol": "TYS",
+            "address": "0x80116D7b640Ba6dee577825BA0184C266544A152",
             "decimals": 18
         }
     ]
