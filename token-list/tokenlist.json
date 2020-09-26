@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:17:19.818Z",
+    "timestamp": "2020-09-26T13:21:15.675Z",
     "version": {
         "major": 1,
-        "minor": 2950,
+        "minor": 2951,
         "patch": 0
     },
     "keywords": [
@@ -19368,6 +19368,13 @@
             "name": "YOU Finance",
             "symbol": "YOU",
             "address": "0x524168d043642D53D0dc79f9577074Da14a63DAC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GEC环保基金会",
+            "symbol": "GEC",
+            "address": "0x9Ef0F670a3d1D6C12648Fc56871e7573c87A7F39",
             "decimals": 18
         }
     ]
