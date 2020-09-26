@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T13:13:10.101Z",
+    "timestamp": "2020-09-26T13:17:19.818Z",
     "version": {
         "major": 1,
-        "minor": 2949,
+        "minor": 2950,
         "patch": 0
     },
     "keywords": [
@@ -19361,6 +19361,13 @@
             "name": "orb.bz",
             "symbol": "ORB",
             "address": "0x85d1C3c9Ed62B96240FaE71C74f1A90Fb3ea98aB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOU Finance",
+            "symbol": "YOU",
+            "address": "0x524168d043642D53D0dc79f9577074Da14a63DAC",
             "decimals": 18
         }
     ]
