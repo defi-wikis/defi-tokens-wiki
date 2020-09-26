@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T11:19:19.316Z",
+    "timestamp": "2020-09-26T11:22:49.521Z",
     "version": {
         "major": 1,
-        "minor": 2929,
+        "minor": 2930,
         "patch": 0
     },
     "keywords": [
@@ -19221,6 +19221,13 @@
             "name": "Bungle.fi",
             "symbol": "BUNG",
             "address": "0x1541Be566996da2509B6158e4d146F2B3Dd75a74",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bitso.org",
+            "symbol": "bitso",
+            "address": "0x522A7Bf2491C51832BdB38C24E99c580fF1e143a",
             "decimals": 18
         }
     ]
