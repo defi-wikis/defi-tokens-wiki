@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:51:54.571Z",
+    "timestamp": "2020-09-26T02:52:06.543Z",
     "version": {
         "major": 1,
-        "minor": 2873,
+        "minor": 2874,
         "patch": 0
     },
     "keywords": [
@@ -18830,6 +18830,13 @@
             "symbol": "CIVN",
             "address": "0x36EE4AB875C6FB7C9C3De5e32386e99e26fA3F43",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Shrimp Swap",
+            "symbol": "Shrimp",
+            "address": "0x054c69b9f2A58De980830d771cce78633923E8B1",
+            "decimals": 18
         }
     ]
 }
