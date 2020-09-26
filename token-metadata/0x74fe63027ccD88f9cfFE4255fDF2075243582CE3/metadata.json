@@ -1,0 +1,7 @@
+{
+    "name": "TokenLon",
+    "symbol": "LON",
+    "address": "0x74fe63027ccD88f9cfFE4255fDF2075243582CE3",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
