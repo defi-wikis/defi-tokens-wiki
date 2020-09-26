@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T20:29:44.069Z",
+    "timestamp": "2020-09-26T20:44:34.510Z",
     "version": {
         "major": 1,
-        "minor": 3028,
+        "minor": 3029,
         "patch": 0
     },
     "keywords": [
@@ -19914,6 +19914,13 @@
             "name": "YourGamify Token",
             "symbol": "GAM",
             "address": "0x05E4De681283bDF7c35EF7dE4b87E465E80a6216",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pepe.finance",
+            "symbol": "PEPE",
+            "address": "0xFdF7C68f22A902025c2a53CD7b52b87259e4c524",
             "decimals": 18
         }
     ]
