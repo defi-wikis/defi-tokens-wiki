@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:26:01.960Z",
+    "timestamp": "2020-09-26T02:35:54.490Z",
     "version": {
         "major": 1,
-        "minor": 2869,
+        "minor": 2870,
         "patch": 0
     },
     "keywords": [
@@ -18801,6 +18801,13 @@
             "name": "Saturn Finance",
             "symbol": "SATURN",
             "address": "0x3A40c93e297a91d9732aDD8C1ff6d36aad5FA520",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WePoS",
+            "symbol": "POS",
+            "address": "0x73c0D0abE065Acdbb52B25412593c9600366f78B",
             "decimals": 18
         }
     ]
