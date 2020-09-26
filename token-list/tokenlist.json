@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T18:57:44.724Z",
+    "timestamp": "2020-09-26T18:59:07.820Z",
     "version": {
         "major": 1,
-        "minor": 3017,
+        "minor": 3018,
         "patch": 0
     },
     "keywords": [
@@ -19838,6 +19838,13 @@
             "symbol": "CRUMP",
             "address": "0x178A636D37e3b521e4CAc103328e2a12346ef2e1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orion Protocol",
+            "symbol": "ORN",
+            "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
+            "decimals": 8
         }
     ]
 }
