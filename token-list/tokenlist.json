@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T09:39:29.736Z",
+    "timestamp": "2020-09-26T09:47:39.345Z",
     "version": {
         "major": 1,
-        "minor": 2912,
+        "minor": 2913,
         "patch": 0
     },
     "keywords": [
@@ -19102,6 +19102,13 @@
             "name": "Zinax",
             "symbol": "ZNX",
             "address": "0x3296d7Eb8de0236622d9751Ea145bB9627a26D25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Whitecoin",
+            "symbol": "XWC",
+            "address": "0xead4284Bc9B0f9C2c7e5235823B078830D7A59b9",
             "decimals": 18
         }
     ]
