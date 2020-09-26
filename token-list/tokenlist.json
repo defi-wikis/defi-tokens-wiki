@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T23:40:54.252Z",
+    "timestamp": "2020-09-26T23:46:14.441Z",
     "version": {
         "major": 1,
-        "minor": 3045,
+        "minor": 3046,
         "patch": 0
     },
     "keywords": [
@@ -20033,6 +20033,13 @@
             "name": "ZUT3",
             "symbol": "ZUT3",
             "address": "0xA6Af79b5cbC90aE1613790bDcA4d657181C45CdA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Endor Protocol Token",
+            "symbol": "EDR",
+            "address": "0xc528c28FEC0A90C083328BC45f587eE215760A0F",
             "decimals": 18
         }
     ]
