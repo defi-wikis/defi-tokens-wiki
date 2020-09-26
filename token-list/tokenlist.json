@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T00:09:19.616Z",
+    "timestamp": "2020-09-26T00:20:20.113Z",
     "version": {
         "major": 1,
-        "minor": 2850,
+        "minor": 2851,
         "patch": 0
     },
     "keywords": [
@@ -18668,6 +18668,13 @@
             "name": "Tokenlon.im",
             "symbol": "LON",
             "address": "0x7c490eA37f611Af8dcFb26ab47AE7eaD7fC45E72",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yeildfinance",
+            "symbol": "YEFI",
+            "address": "0xb4694E97D8E84Bc42873F8a785920D40B9C09FB6",
             "decimals": 18
         }
     ]
