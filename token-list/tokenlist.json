@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T03:40:39.393Z",
+    "timestamp": "2020-09-26T03:41:34.971Z",
     "version": {
         "major": 1,
-        "minor": 2881,
+        "minor": 2882,
         "patch": 0
     },
     "keywords": [
@@ -18885,6 +18885,13 @@
             "name": "MEME 2.0",
             "symbol": "MEME2",
             "address": "0xA86cb87145d90fDe867078367f1929D57DD26D04",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ecoinofficial.org",
+            "symbol": "ECO",
+            "address": "0x2CD0E114998FD826ecE9dd4370F3EBB2a156CcCC",
             "decimals": 18
         }
     ]
