@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T16:58:29.381Z",
+    "timestamp": "2020-09-26T17:01:15.269Z",
     "version": {
         "major": 1,
-        "minor": 2995,
+        "minor": 2996,
         "patch": 0
     },
     "keywords": [
@@ -19683,6 +19683,13 @@
             "name": "lambo.finance",
             "symbol": "LAMBO",
             "address": "0x01CafaBB9f33BE3D65c22469ec011B4aDB20bfcb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Momo Token",
+            "symbol": "MOMO",
+            "address": "0x5c1787292838b2eC75952D42D3f25885b1Bf8d9c",
             "decimals": 18
         }
     ]
