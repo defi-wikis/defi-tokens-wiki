@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T15:46:29.469Z",
+    "timestamp": "2020-09-26T15:55:54.931Z",
     "version": {
         "major": 1,
-        "minor": 2980,
+        "minor": 2981,
         "patch": 0
     },
     "keywords": [
@@ -19578,6 +19578,13 @@
             "name": "Canyon Protocol",
             "symbol": "CYP",
             "address": "0x5a9FE2D4c2FA2b70B52C9fbC6494697A9F1BD32c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeBear.CLUB",
+            "symbol": "DEAR",
+            "address": "0xc527656E2dFEdF3b89c8775caa90465eEf6AB21b",
             "decimals": 18
         }
     ]
