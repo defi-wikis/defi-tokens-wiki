@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T20:44:34.510Z",
+    "timestamp": "2020-09-26T20:46:10.384Z",
     "version": {
         "major": 1,
-        "minor": 3029,
+        "minor": 3030,
         "patch": 0
     },
     "keywords": [
@@ -19921,6 +19921,13 @@
             "name": "pepe.finance",
             "symbol": "PEPE",
             "address": "0xFdF7C68f22A902025c2a53CD7b52b87259e4c524",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cheese",
+            "symbol": "CHSTEST",
+            "address": "0x31Ec45237800102F1c42a40dfCCF276ac5386fce",
             "decimals": 18
         }
     ]
