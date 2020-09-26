@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T00:06:20.028Z",
+    "timestamp": "2020-09-26T00:09:19.616Z",
     "version": {
         "major": 1,
-        "minor": 2849,
+        "minor": 2850,
         "patch": 0
     },
     "keywords": [
@@ -18661,6 +18661,13 @@
             "name": "SAFE2",
             "symbol": "SAFE2",
             "address": "0x250a3500f48666561386832f1F1f1019b89a2699",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tokenlon.im",
+            "symbol": "LON",
+            "address": "0x7c490eA37f611Af8dcFb26ab47AE7eaD7fC45E72",
             "decimals": 18
         }
     ]
