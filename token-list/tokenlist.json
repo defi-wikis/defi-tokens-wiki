@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T02:40:54.272Z",
+    "timestamp": "2020-09-26T02:51:54.571Z",
     "version": {
         "major": 1,
-        "minor": 2872,
+        "minor": 2873,
         "patch": 0
     },
     "keywords": [
@@ -18823,6 +18823,13 @@
             "symbol": "SPARTA",
             "address": "0x2035e0863BbB580a04f5D4898B72c8C13705b948",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crazy Ivan",
+            "symbol": "CIVN",
+            "address": "0x36EE4AB875C6FB7C9C3De5e32386e99e26fA3F43",
+            "decimals": 6
         }
     ]
 }
