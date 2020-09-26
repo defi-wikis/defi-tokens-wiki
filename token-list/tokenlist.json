@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T20:46:10.384Z",
+    "timestamp": "2020-09-26T20:49:49.388Z",
     "version": {
         "major": 1,
-        "minor": 3030,
+        "minor": 3031,
         "patch": 0
     },
     "keywords": [
@@ -19928,6 +19928,13 @@
             "name": "Cheese",
             "symbol": "CHSTEST",
             "address": "0x31Ec45237800102F1c42a40dfCCF276ac5386fce",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZyxToken",
+            "symbol": "ZYX",
+            "address": "0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D",
             "decimals": 18
         }
     ]
