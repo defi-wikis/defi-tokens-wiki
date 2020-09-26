@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T16:39:29.928Z",
+    "timestamp": "2020-09-26T16:42:35.572Z",
     "version": {
         "major": 1,
-        "minor": 2991,
+        "minor": 2992,
         "patch": 0
     },
     "keywords": [
@@ -19655,6 +19655,13 @@
             "name": "ape.finance",
             "symbol": "APE",
             "address": "0xbD3E01e989eb3327EB2aAB6B5C46153a19a5cdd4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "miatoken.xyz",
+            "symbol": "MIA",
+            "address": "0x50AF7bA68a90D54206076FF70Af4e2eA0198d155",
             "decimals": 18
         }
     ]
