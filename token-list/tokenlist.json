@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:57:15.157Z",
+    "timestamp": "2020-09-27T12:18:59.565Z",
     "version": {
         "major": 1,
-        "minor": 3129,
+        "minor": 3130,
         "patch": 0
     },
     "keywords": [
@@ -20621,6 +20621,13 @@
             "name": "Virus",
             "symbol": "C19",
             "address": "0x83d525105388a5E511da67980196cBFA3773BA7c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "qdd.com",
+            "symbol": "QDD",
+            "address": "0x314f0fc514e154ECAaDaEc2A6d1Be96f4CD05adA",
             "decimals": 18
         }
     ]
