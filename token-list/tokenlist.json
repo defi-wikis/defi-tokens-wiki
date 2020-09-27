@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T05:53:14.930Z",
+    "timestamp": "2020-09-27T05:53:19.843Z",
     "version": {
         "major": 1,
-        "minor": 3083,
+        "minor": 3084,
         "patch": 0
     },
     "keywords": [
@@ -20299,6 +20299,13 @@
             "name": "oin.finance",
             "symbol": "OIN",
             "address": "0x53b003902CbcD42Ac8aE585DBfA9529f3318E7b8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Free Ticket for Sex",
+            "symbol": "FTS",
+            "address": "0x82a56FdC41811951c44954439D1D1e1C0e176FA8",
             "decimals": 18
         }
     ]
