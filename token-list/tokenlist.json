@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:25:01.939Z",
+    "timestamp": "2020-09-27T03:31:14.458Z",
     "version": {
         "major": 1,
-        "minor": 3064,
+        "minor": 3065,
         "patch": 0
     },
     "keywords": [
@@ -20167,6 +20167,13 @@
             "symbol": "COREII",
             "address": "0xEaFD7650b14Fb51eeC92cd47c351081eeE45B705",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFI Paprika",
+            "symbol": "YFIP",
+            "address": "0xB9782532FA7062A6F73df1CE71d75c0E16046ebC",
+            "decimals": 8
         }
     ]
 }
