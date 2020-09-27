@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T00:40:50.102Z",
+    "timestamp": "2020-09-27T00:40:55.238Z",
     "version": {
         "major": 1,
-        "minor": 3049,
+        "minor": 3050,
         "patch": 0
     },
     "keywords": [
@@ -20061,6 +20061,13 @@
             "name": "ThankYou",
             "symbol": "THX",
             "address": "0x4520D004BAB747Db1B946dB00f5D8cE4F41810b0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Network",
+            "symbol": "YFN",
+            "address": "0xd228564cb9F7E2A46d95Cda79d2A3BE54897cBc3",
             "decimals": 18
         }
     ]
