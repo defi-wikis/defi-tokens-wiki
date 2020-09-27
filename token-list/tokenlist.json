@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:27:14.641Z",
+    "timestamp": "2020-09-27T17:32:54.602Z",
     "version": {
         "major": 1,
-        "minor": 3185,
+        "minor": 3186,
         "patch": 0
     },
     "keywords": [
@@ -21013,6 +21013,13 @@
             "name": "noNFT",
             "symbol": "NNFT",
             "address": "0xfcdF6f539F9ce57f33b98CC3287C020cC582209E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DHB TOKEN",
+            "symbol": "DHB",
+            "address": "0x8bfaeaad34A32037B6deC2E7262382A2df954e13",
             "decimals": 18
         }
     ]
