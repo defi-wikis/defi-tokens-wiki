@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:57:55.551Z",
+    "timestamp": "2020-09-27T13:06:59.673Z",
     "version": {
         "major": 1,
-        "minor": 3139,
+        "minor": 3140,
         "patch": 0
     },
     "keywords": [
@@ -20691,6 +20691,13 @@
             "name": "ycrab.finance",
             "symbol": "YCRAB",
             "address": "0xD019d0319Fb3E0B829fe2f37B1BAcfdf7aDf233F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RIYADH.cityswap.io",
+            "symbol": "RIYADH",
+            "address": "0x8D073134489B2F98fD14e8d7fA6d7050F8d4814C",
             "decimals": 18
         }
     ]
