@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T04:40:30.345Z",
+    "timestamp": "2020-09-27T04:41:54.624Z",
     "version": {
         "major": 1,
-        "minor": 3075,
+        "minor": 3076,
         "patch": 0
     },
     "keywords": [
@@ -20244,6 +20244,13 @@
             "symbol": "FGT",
             "address": "0xB0EA97Cc7dAA268FBa2e0392A450e4e6c35c184C",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Denarii",
+            "symbol": "ARI",
+            "address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
+            "decimals": 8
         }
     ]
 }
