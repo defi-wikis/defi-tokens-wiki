@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:20:46.811Z",
+    "timestamp": "2020-09-27T21:21:34.468Z",
     "version": {
         "major": 1,
-        "minor": 3217,
+        "minor": 3218,
         "patch": 0
     },
     "keywords": [
@@ -21237,6 +21237,13 @@
             "name": "Vampire",
             "symbol": "Vampires",
             "address": "0x6457AA01f871754e6907B42CBCaF09383eFf60aC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Moons",
+            "symbol": "xMOON",
+            "address": "0xf93494f8CD0A6252727753f286F27b24B411ACF1",
             "decimals": 18
         }
     ]
