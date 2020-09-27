@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T08:43:44.840Z",
+    "timestamp": "2020-09-27T09:07:44.999Z",
     "version": {
         "major": 1,
-        "minor": 3098,
+        "minor": 3099,
         "patch": 0
     },
     "keywords": [
@@ -20404,6 +20404,13 @@
             "name": "RioDefi Ethereum",
             "symbol": "RFuel",
             "address": "0xeD030532b5DcAD2C08A69fAb3eE40E37E6D7E714",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "tango.finance",
+            "symbol": "TANGO",
+            "address": "0xfAC3FF24529D7944d436CCaB53C08F1cF5490411",
             "decimals": 18
         }
     ]
