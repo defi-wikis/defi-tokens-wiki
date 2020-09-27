@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:23:09.566Z",
+    "timestamp": "2020-09-27T15:28:49.936Z",
     "version": {
         "major": 1,
-        "minor": 3164,
+        "minor": 3165,
         "patch": 0
     },
     "keywords": [
@@ -20866,6 +20866,13 @@
             "name": "totalsupplyone.com",
             "symbol": "tso",
             "address": "0x8524072254D83f8854952828548F294aecD6095f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Junkyard Factory Token",
+            "symbol": "JUNK",
+            "address": "0xe9554160865134Bd8404243FFD7374F377673293",
             "decimals": 18
         }
     ]
