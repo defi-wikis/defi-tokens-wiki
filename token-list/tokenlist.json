@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T06:28:29.466Z",
+    "timestamp": "2020-09-27T06:34:19.420Z",
     "version": {
         "major": 1,
-        "minor": 3088,
+        "minor": 3089,
         "patch": 0
     },
     "keywords": [
@@ -20334,6 +20334,13 @@
             "name": "GGG Finance",
             "symbol": "GGG",
             "address": "0x91ea388F6aAFf44F667587109200cc75377F1234",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Speed Prove Dollar",
+            "symbol": "SPD",
+            "address": "0x6ba01e14edf40DaA9DCa3864bCda0FEEfaA69d94",
             "decimals": 18
         }
     ]
