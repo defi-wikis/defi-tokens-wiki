@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:30:31.062Z",
+    "timestamp": "2020-09-27T15:30:40.981Z",
     "version": {
         "major": 1,
-        "minor": 3167,
+        "minor": 3168,
         "patch": 0
     },
     "keywords": [
@@ -20887,6 +20887,13 @@
             "name": "Lava Finance",
             "symbol": "Lava",
             "address": "0xC93D30fC9379B6c25D96a1782a2bACb12D19aDE0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniMex Token @ UniMex.Finance",
+            "symbol": "UMEX",
+            "address": "0x03F1Fd90F7fDDacCb3CC593A5A35889cccdef777",
             "decimals": 18
         }
     ]
