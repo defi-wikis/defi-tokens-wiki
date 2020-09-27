@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T10:49:39.021Z",
+    "timestamp": "2020-09-27T10:56:14.753Z",
     "version": {
         "major": 1,
-        "minor": 3116,
+        "minor": 3117,
         "patch": 0
     },
     "keywords": [
@@ -20530,6 +20530,13 @@
             "name": "btct",
             "symbol": "BTCT",
             "address": "0x0F096B7f7c1A0e33C01AcEf5D24dA248809Df3a6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "torproject.org",
+            "symbol": "Onion",
+            "address": "0xC38564061520839a873E5ef526453D387B101212",
             "decimals": 18
         }
     ]
