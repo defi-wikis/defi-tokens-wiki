@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T20:20:35.433Z",
+    "timestamp": "2020-09-27T20:31:25.361Z",
     "version": {
         "major": 1,
-        "minor": 3207,
+        "minor": 3208,
         "patch": 0
     },
     "keywords": [
@@ -21167,6 +21167,13 @@
             "name": "jewelry mineral swap",
             "symbol": "JMS-T",
             "address": "0xe97Dfe37CE77e673d66dCD21321652d3fEEFE081",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Lending",
+            "symbol": "YLL",
+            "address": "0xE3B43b8D9Cb28B704515272A268467247bf26eEb",
             "decimals": 18
         }
     ]
