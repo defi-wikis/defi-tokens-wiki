@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T04:41:54.624Z",
+    "timestamp": "2020-09-27T04:52:14.430Z",
     "version": {
         "major": 1,
-        "minor": 3076,
+        "minor": 3077,
         "patch": 0
     },
     "keywords": [
@@ -20251,6 +20251,13 @@
             "symbol": "ARI",
             "address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "XingfuCoin",
+            "symbol": "XingfuCoin",
+            "address": "0x13Bd8A15902363bCaF43842C5bF944cF7AD0b77A",
+            "decimals": 3
         }
     ]
 }
