@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T07:56:19.735Z",
+    "timestamp": "2020-09-27T08:07:10.723Z",
     "version": {
         "major": 1,
-        "minor": 3094,
+        "minor": 3095,
         "patch": 0
     },
     "keywords": [
@@ -20377,6 +20377,13 @@
             "symbol": "MONO",
             "address": "0xd48de8c208E9Dbd1B66a0c655a89560Eb42a06C2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Penis",
+            "symbol": "PNS",
+            "address": "0xce853db3359326dB6D03981C9fb42983BbCdd007",
+            "decimals": 2
         }
     ]
 }
