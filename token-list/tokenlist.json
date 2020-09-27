@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:32:34.450Z",
+    "timestamp": "2020-09-27T15:32:39.801Z",
     "version": {
         "major": 1,
-        "minor": 3169,
+        "minor": 3170,
         "patch": 0
     },
     "keywords": [
@@ -20901,6 +20901,13 @@
             "name": "S.Finance",
             "symbol": "SFG",
             "address": "0x242AAfDD391D9eDB2cebeCCdA5444D145e97266C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Portion.io",
+            "symbol": "PRT",
+            "address": "0x14cCF0E7C55D657e3707fD6894f52C0C7CE17C29",
             "decimals": 18
         }
     ]
