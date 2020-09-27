@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-26T23:55:44.819Z",
+    "timestamp": "2020-09-27T00:40:50.102Z",
     "version": {
         "major": 1,
-        "minor": 3048,
+        "minor": 3049,
         "patch": 0
     },
     "keywords": [
@@ -20054,6 +20054,13 @@
             "name": "Black Hole",
             "symbol": "HOLE",
             "address": "0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ThankYou",
+            "symbol": "THX",
+            "address": "0x4520D004BAB747Db1B946dB00f5D8cE4F41810b0",
             "decimals": 18
         }
     ]
