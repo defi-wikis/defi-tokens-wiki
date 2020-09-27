@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T20:19:49.745Z",
+    "timestamp": "2020-09-27T20:20:35.433Z",
     "version": {
         "major": 1,
-        "minor": 3206,
+        "minor": 3207,
         "patch": 0
     },
     "keywords": [
@@ -21160,6 +21160,13 @@
             "name": "secondy finance",
             "symbol": "2yfi",
             "address": "0x51Dd0B70cc06a2e1B1a22F37B11c997A4B2051BF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "jewelry mineral swap",
+            "symbol": "JMS-T",
+            "address": "0xe97Dfe37CE77e673d66dCD21321652d3fEEFE081",
             "decimals": 18
         }
     ]
