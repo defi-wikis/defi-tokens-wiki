@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T13:12:45.158Z",
+    "timestamp": "2020-09-27T13:14:10.255Z",
     "version": {
         "major": 1,
-        "minor": 3143,
+        "minor": 3144,
         "patch": 0
     },
     "keywords": [
@@ -20719,6 +20719,13 @@
             "name": "zzz.finance",
             "symbol": "ZZZ",
             "address": "0x93CC94F48759896B26DFcE39245Db2F23B3336f2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DUNIT",
+            "symbol": "DUNIT",
+            "address": "0x4047A22eF02F1C280F21710D105CB60EFeE8D0f1",
             "decimals": 18
         }
     ]
