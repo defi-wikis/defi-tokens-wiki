@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:56:50.283Z",
+    "timestamp": "2020-09-27T17:59:02.404Z",
     "version": {
         "major": 1,
-        "minor": 3189,
+        "minor": 3190,
         "patch": 0
     },
     "keywords": [
@@ -21041,6 +21041,13 @@
             "name": "Mizx Finance",
             "symbol": "MXFI",
             "address": "0x8fb0D39D9810df2969BeA4587eC4f7738185D218",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "THEBIGPAYOUTTOKEN",
+            "symbol": "TBPT",
+            "address": "0xDE28e7Db09Acbb96ed9e1B297c5B214e4B3143dC",
             "decimals": 18
         }
     ]
