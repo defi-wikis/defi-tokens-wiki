@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:23:31.142Z",
+    "timestamp": "2020-09-27T21:27:25.480Z",
     "version": {
         "major": 1,
-        "minor": 3219,
+        "minor": 3220,
         "patch": 0
     },
     "keywords": [
@@ -21251,6 +21251,13 @@
             "name": "yVault.Finance",
             "symbol": "YCORE",
             "address": "0xb1d7a832d1f66ADa1a16f5499B0F2df367351601",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BloodVials",
+            "symbol": "Vials",
+            "address": "0xffDD4d26C91752d4f7AEfa4d50737212126c04A2",
             "decimals": 18
         }
     ]
