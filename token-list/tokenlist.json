@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:05:29.733Z",
+    "timestamp": "2020-09-27T14:10:54.804Z",
     "version": {
         "major": 1,
-        "minor": 3151,
+        "minor": 3152,
         "patch": 0
     },
     "keywords": [
@@ -20775,6 +20775,13 @@
             "name": "YFYY COIN",
             "symbol": "YFYY",
             "address": "0x45acfA2aA96F92E93b0dc56AadeF97F5a6b12fD0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SF Token",
+            "symbol": "SF",
+            "address": "0xEDcD18B50D503684c044308d0c6831905D4149F8",
             "decimals": 18
         }
     ]
