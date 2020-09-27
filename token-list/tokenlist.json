@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:38:45.025Z",
+    "timestamp": "2020-09-27T11:40:30.986Z",
     "version": {
         "major": 1,
-        "minor": 3124,
+        "minor": 3125,
         "patch": 0
     },
     "keywords": [
@@ -20586,6 +20586,13 @@
             "name": "Yearn Finance Jerkoff",
             "symbol": "YFJ",
             "address": "0xCB2e5e74aef9B2AEB5C96BD012278D1A52EC71b6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nftt.finance",
+            "symbol": "NFTT",
+            "address": "0xd79Ec35D2d9CEc5AbE7EBe0F0621b04eE1e14eFc",
             "decimals": 18
         }
     ]
