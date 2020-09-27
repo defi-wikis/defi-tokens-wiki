@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T16:19:34.979Z",
+    "timestamp": "2020-09-27T16:21:10.666Z",
     "version": {
         "major": 1,
-        "minor": 3174,
+        "minor": 3175,
         "patch": 0
     },
     "keywords": [
@@ -20936,6 +20936,13 @@
             "name": "NEXT",
             "symbol": "NEXT",
             "address": "0x166200CD8DB2474aB4aa323261fA5a7e97a98dd5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GATO",
+            "symbol": "GATO",
+            "address": "0xbe31e1e1FcAA786020213eA477f528834F30A4fb",
             "decimals": 18
         }
     ]
