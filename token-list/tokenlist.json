@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T10:56:14.753Z",
+    "timestamp": "2020-09-27T10:59:49.398Z",
     "version": {
         "major": 1,
-        "minor": 3117,
+        "minor": 3118,
         "patch": 0
     },
     "keywords": [
@@ -20537,6 +20537,13 @@
             "name": "torproject.org",
             "symbol": "Onion",
             "address": "0xC38564061520839a873E5ef526453D387B101212",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAID",
+            "symbol": "LAID",
+            "address": "0xa01Dc9091c247369815EbAeff3ECE7F492650767",
             "decimals": 18
         }
     ]
