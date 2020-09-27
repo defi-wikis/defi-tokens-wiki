@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T10:14:35.210Z",
+    "timestamp": "2020-09-27T10:14:59.149Z",
     "version": {
         "major": 1,
-        "minor": 3110,
+        "minor": 3111,
         "patch": 0
     },
     "keywords": [
@@ -20488,6 +20488,13 @@
             "name": "SharkStake.io",
             "symbol": "$SHARK",
             "address": "0x51C8132835ED9809b34F1440764a61bd72293749",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MlErgn.NFT",
+            "symbol": "MAL",
+            "address": "0xDCBa8c0Be82D9192560c9fDc0a06feCB7d66A488",
             "decimals": 18
         }
     ]
