@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T09:16:19.610Z",
+    "timestamp": "2020-09-27T09:17:39.630Z",
     "version": {
         "major": 1,
-        "minor": 3101,
+        "minor": 3102,
         "patch": 0
     },
     "keywords": [
@@ -20425,6 +20425,13 @@
             "name": "Acala",
             "symbol": "ACA",
             "address": "0xD9cDc966c19Db744ee1244B5c3Ca1C629b23C003",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "fertile chain",
+            "symbol": "FTC",
+            "address": "0xA73b98cf5B61647c8299bb54cd35ba6ba011310B",
             "decimals": 18
         }
     ]
