@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T10:59:49.398Z",
+    "timestamp": "2020-09-27T11:04:10.368Z",
     "version": {
         "major": 1,
-        "minor": 3118,
+        "minor": 3119,
         "patch": 0
     },
     "keywords": [
@@ -20545,6 +20545,13 @@
             "symbol": "LAID",
             "address": "0xa01Dc9091c247369815EbAeff3ECE7F492650767",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DTB",
+            "symbol": "DTB",
+            "address": "0x9f035A7d26F77E2549d2952eDe40f8Ca8169cED4",
+            "decimals": 8
         }
     ]
 }
