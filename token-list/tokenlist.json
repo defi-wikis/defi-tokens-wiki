@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T05:30:29.487Z",
+    "timestamp": "2020-09-27T05:53:14.930Z",
     "version": {
         "major": 1,
-        "minor": 3082,
+        "minor": 3083,
         "patch": 0
     },
     "keywords": [
@@ -20292,6 +20292,13 @@
             "name": "yieldbee.finance",
             "symbol": "YBF",
             "address": "0x803c7de67CD938F366599FD47Dd47CBfe7d87495",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "oin.finance",
+            "symbol": "OIN",
+            "address": "0x53b003902CbcD42Ac8aE585DBfA9529f3318E7b8",
             "decimals": 18
         }
     ]
