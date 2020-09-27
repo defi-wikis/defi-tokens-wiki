@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T19:24:20.393Z",
+    "timestamp": "2020-09-27T19:31:39.336Z",
     "version": {
         "major": 1,
-        "minor": 3200,
+        "minor": 3201,
         "patch": 0
     },
     "keywords": [
@@ -21118,6 +21118,13 @@
             "name": "yvi.finance",
             "symbol": "YVI",
             "address": "0xaeE1C14a1746c2c569B1209ee0D5884a4ED7FC2C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AutoZeroUtilityToken",
+            "symbol": "AZUT",
+            "address": "0xD31Ab732c054Dd3a75Ca81E1f50D72e4BF46D3A8",
             "decimals": 18
         }
     ]
