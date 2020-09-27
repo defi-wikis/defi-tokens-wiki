@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T01:58:50.219Z",
+    "timestamp": "2020-09-27T02:10:59.658Z",
     "version": {
         "major": 1,
-        "minor": 3054,
+        "minor": 3055,
         "patch": 0
     },
     "keywords": [
@@ -20096,6 +20096,13 @@
             "name": "PlotX.io",
             "symbol": "PLOT",
             "address": "0xB1dBdd7a2fC1E842abE634048f5BfD18e6b41AFD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Bonus",
+            "symbol": "ETHB",
+            "address": "0x0B87b434CfBaa838B8c5493Ee77f667F62608099",
             "decimals": 18
         }
     ]
