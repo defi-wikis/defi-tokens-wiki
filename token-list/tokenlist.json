@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T10:47:55.260Z",
+    "timestamp": "2020-09-27T10:49:39.021Z",
     "version": {
         "major": 1,
-        "minor": 3115,
+        "minor": 3116,
         "patch": 0
     },
     "keywords": [
@@ -20523,6 +20523,13 @@
             "name": "YFIOProtocol.finance",
             "symbol": "YFIO",
             "address": "0x1E1bC6c0b0C2fd8a846fD2593b3Ad058289805Cc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "btct",
+            "symbol": "BTCT",
+            "address": "0x0F096B7f7c1A0e33C01AcEf5D24dA248809Df3a6",
             "decimals": 18
         }
     ]
