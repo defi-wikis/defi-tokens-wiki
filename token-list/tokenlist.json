@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:19:45.628Z",
+    "timestamp": "2020-09-27T21:20:46.811Z",
     "version": {
         "major": 1,
-        "minor": 3216,
+        "minor": 3217,
         "patch": 0
     },
     "keywords": [
@@ -21231,6 +21231,13 @@
             "symbol": "DST",
             "address": "0x128bf16edb00C34CC5d62a11E0dB14255CDB1D44",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Vampire",
+            "symbol": "Vampires",
+            "address": "0x6457AA01f871754e6907B42CBCaF09383eFf60aC",
+            "decimals": 18
         }
     ]
 }
