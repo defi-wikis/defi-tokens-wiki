@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T22:09:40.628Z",
+    "timestamp": "2020-09-27T22:09:49.897Z",
     "version": {
         "major": 1,
-        "minor": 3226,
+        "minor": 3227,
         "patch": 0
     },
     "keywords": [
@@ -21300,6 +21300,13 @@
             "name": "Salad.Finance",
             "symbol": "SLD",
             "address": "0xb4f77cF516A8f1C3d1A68Ebc8aFD1f148E0d1324",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PoWH3D Extended",
+            "symbol": "P3X",
+            "address": "0x058a144951e062FC14f310057D2Fd9ef0Cf5095b",
             "decimals": 18
         }
     ]
