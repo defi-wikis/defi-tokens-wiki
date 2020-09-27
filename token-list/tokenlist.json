@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:34:24.868Z",
+    "timestamp": "2020-09-27T17:34:34.493Z",
     "version": {
         "major": 1,
-        "minor": 3187,
+        "minor": 3188,
         "patch": 0
     },
     "keywords": [
@@ -21027,6 +21027,13 @@
             "name": "Crypto Millions Lotto",
             "symbol": "CML",
             "address": "0xf6CBBd03f42b261A20EE161FBFB7585Ae5A08C5C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xerox Finance",
+            "symbol": "XRFI",
+            "address": "0xB993944776F9518dc7e2d9FC693Fd9de64c644d0",
             "decimals": 18
         }
     ]
