@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T05:02:50.542Z",
+    "timestamp": "2020-09-27T05:04:39.713Z",
     "version": {
         "major": 1,
-        "minor": 3078,
+        "minor": 3079,
         "patch": 0
     },
     "keywords": [
@@ -20264,6 +20264,13 @@
             "name": "flamingo.finance",
             "symbol": "FLM",
             "address": "0x1fC6Ab5E2b4EBb09C37807F988B22b38f3e1C228",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "medicalveda.com",
+            "symbol": "MVEDA",
+            "address": "0x2f0Df07D37Be833aBF07B3EF64A71ee5a6190b7b",
             "decimals": 18
         }
     ]
