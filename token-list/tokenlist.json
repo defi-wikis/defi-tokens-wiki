@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:04:10.368Z",
+    "timestamp": "2020-09-27T11:07:59.480Z",
     "version": {
         "major": 1,
-        "minor": 3119,
+        "minor": 3120,
         "patch": 0
     },
     "keywords": [
@@ -20552,6 +20552,13 @@
             "symbol": "DTB",
             "address": "0x9f035A7d26F77E2549d2952eDe40f8Ca8169cED4",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "BIGBEN",
+            "symbol": "BIGBEN",
+            "address": "0xE00e6c2abDc53f1F77e0B67e677A11D08838195a",
+            "decimals": 18
         }
     ]
 }
