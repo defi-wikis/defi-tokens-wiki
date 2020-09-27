@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:04:34.951Z",
+    "timestamp": "2020-09-27T17:05:49.855Z",
     "version": {
         "major": 1,
-        "minor": 3182,
+        "minor": 3183,
         "patch": 0
     },
     "keywords": [
@@ -20992,6 +20992,13 @@
             "name": "ECORE",
             "symbol": "ECORE",
             "address": "0xff640577CE10783619a5C7011175670cfD65dC27",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "polkastarter.com",
+            "symbol": "POLS",
+            "address": "0xE261405dc2a086Da06C77255dE37ECa44C1D30f4",
             "decimals": 18
         }
     ]
