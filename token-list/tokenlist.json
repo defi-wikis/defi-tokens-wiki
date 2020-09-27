@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T02:18:49.962Z",
+    "timestamp": "2020-09-27T02:39:25.847Z",
     "version": {
         "major": 1,
-        "minor": 3056,
+        "minor": 3057,
         "patch": 0
     },
     "keywords": [
@@ -20110,6 +20110,13 @@
             "name": "cvault.finance",
             "symbol": "CORE",
             "address": "0xDbC8446d541262f3cBA5E5Ec14F1994988dbcD2e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "The Nifty ONEz",
+            "symbol": "ONEZ",
+            "address": "0x12419EEA0B053FfeA92f9afcD7986a495E2CF0Dd",
             "decimals": 18
         }
     ]
