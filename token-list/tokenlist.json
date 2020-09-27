@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:11:59.943Z",
+    "timestamp": "2020-09-27T15:23:09.566Z",
     "version": {
         "major": 1,
-        "minor": 3163,
+        "minor": 3164,
         "patch": 0
     },
     "keywords": [
@@ -20859,6 +20859,13 @@
             "name": "BitcoinSun",
             "symbol": "BTCSUN",
             "address": "0x6CE67148227051319D3Cd7CE4187EbAD18ac88ED",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "totalsupplyone.com",
+            "symbol": "tso",
+            "address": "0x8524072254D83f8854952828548F294aecD6095f",
             "decimals": 18
         }
     ]
