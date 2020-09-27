@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T22:09:49.897Z",
+    "timestamp": "2020-09-27T22:10:40.650Z",
     "version": {
         "major": 1,
-        "minor": 3227,
+        "minor": 3228,
         "patch": 0
     },
     "keywords": [
@@ -21307,6 +21307,13 @@
             "name": "PoWH3D Extended",
             "symbol": "P3X",
             "address": "0x058a144951e062FC14f310057D2Fd9ef0Cf5095b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAYCON",
+            "symbol": "LAYCOIN",
+            "address": "0xe46B8F3aC59e109345604077f2eB97B153a7828a",
             "decimals": 18
         }
     ]
