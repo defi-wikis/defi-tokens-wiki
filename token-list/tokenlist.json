@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T09:12:29.469Z",
+    "timestamp": "2020-09-27T09:16:19.610Z",
     "version": {
         "major": 1,
-        "minor": 3100,
+        "minor": 3101,
         "patch": 0
     },
     "keywords": [
@@ -20419,6 +20419,13 @@
             "symbol": "CMCT",
             "address": "0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Acala",
+            "symbol": "ACA",
+            "address": "0xD9cDc966c19Db744ee1244B5c3Ca1C629b23C003",
+            "decimals": 18
         }
     ]
 }
