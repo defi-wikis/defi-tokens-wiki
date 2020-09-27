@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T04:25:40.107Z",
+    "timestamp": "2020-09-27T04:28:45.332Z",
     "version": {
         "major": 1,
-        "minor": 3073,
+        "minor": 3074,
         "patch": 0
     },
     "keywords": [
@@ -20229,6 +20229,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x32Ce7e48debdccbFE0CD037Cc89526E4382cb81b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sparta.Finance",
+            "symbol": "SPARTA2",
+            "address": "0x7C39e227067FA6e33C14F1b98FF862Ef074992F1",
             "decimals": 18
         }
     ]
