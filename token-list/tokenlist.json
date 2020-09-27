@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T02:10:59.658Z",
+    "timestamp": "2020-09-27T02:18:49.962Z",
     "version": {
         "major": 1,
-        "minor": 3055,
+        "minor": 3056,
         "patch": 0
     },
     "keywords": [
@@ -20103,6 +20103,13 @@
             "name": "Ethereum Bonus",
             "symbol": "ETHB",
             "address": "0x0B87b434CfBaa838B8c5493Ee77f667F62608099",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cvault.finance",
+            "symbol": "CORE",
+            "address": "0xDbC8446d541262f3cBA5E5Ec14F1994988dbcD2e",
             "decimals": 18
         }
     ]
