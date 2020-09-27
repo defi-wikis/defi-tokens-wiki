@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:00:25.102Z",
+    "timestamp": "2020-09-27T17:04:34.951Z",
     "version": {
         "major": 1,
-        "minor": 3181,
+        "minor": 3182,
         "patch": 0
     },
     "keywords": [
@@ -20985,6 +20985,13 @@
             "name": "Crypto Millions Lotto  @ CMLDefi.com",
             "symbol": "CML",
             "address": "0xfc0c197d5e8629755501f7CbE4fe6B5D54e832B6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ECORE",
+            "symbol": "ECORE",
+            "address": "0xff640577CE10783619a5C7011175670cfD65dC27",
             "decimals": 18
         }
     ]
