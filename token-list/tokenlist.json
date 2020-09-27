@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:03:55.471Z",
+    "timestamp": "2020-09-27T15:11:35.083Z",
     "version": {
         "major": 1,
-        "minor": 3161,
+        "minor": 3162,
         "patch": 0
     },
     "keywords": [
@@ -20845,6 +20845,13 @@
             "name": "ANT Token",
             "symbol": "ANT",
             "address": "0x1Ae567951175744512469d486004251934152668",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GATO.Farm",
+            "symbol": "GATO",
+            "address": "0x5aA119300fddC57E91EAf5bee685A8498Fd13f77",
             "decimals": 18
         }
     ]
