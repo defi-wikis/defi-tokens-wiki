@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T02:42:07.168Z",
+    "timestamp": "2020-09-27T02:44:02.343Z",
     "version": {
         "major": 1,
-        "minor": 3058,
+        "minor": 3059,
         "patch": 0
     },
     "keywords": [
@@ -20124,6 +20124,13 @@
             "name": "FARM Reward Token V2",
             "symbol": "FARMS",
             "address": "0x9fBBe6D9D6c98bfCEfa9c1097eE854b6b01814f4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xKAI Finance",
+            "symbol": "XKAI",
+            "address": "0xB7608381e5c7B1E7AdA306E77AF74f132a83D564",
             "decimals": 18
         }
     ]
