@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:02:07.513Z",
+    "timestamp": "2020-09-27T21:08:30.805Z",
     "version": {
         "major": 1,
-        "minor": 3211,
+        "minor": 3212,
         "patch": 0
     },
     "keywords": [
@@ -21195,6 +21195,13 @@
             "name": "Yearn Finance Bank Token",
             "symbol": "YFBNK",
             "address": "0x61C1Cf2a67c80ada89983623667914376924D12E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NiceCash",
+            "symbol": "nCASH",
+            "address": "0x4D99C9263c4B5a0B9c0cFC25F76f18bD00117A92",
             "decimals": 18
         }
     ]
