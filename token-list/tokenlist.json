@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:15:02.350Z",
+    "timestamp": "2020-09-27T14:23:24.882Z",
     "version": {
         "major": 1,
-        "minor": 3153,
+        "minor": 3154,
         "patch": 0
     },
     "keywords": [
@@ -20789,6 +20789,13 @@
             "name": "Zin.Finance",
             "symbol": "ZIN",
             "address": "0xF739ADE667Fd699650224999e73dDbB391A36f45",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "firemoon.finance",
+            "symbol": "FIRM",
+            "address": "0x2B4206ad409627be29c7e3A452E63f6854BD977d",
             "decimals": 18
         }
     ]
