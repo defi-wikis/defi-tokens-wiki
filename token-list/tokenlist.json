@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T16:03:54.960Z",
+    "timestamp": "2020-09-27T16:15:30.743Z",
     "version": {
         "major": 1,
-        "minor": 3172,
+        "minor": 3173,
         "patch": 0
     },
     "keywords": [
@@ -20922,6 +20922,13 @@
             "name": "xbtc.fi",
             "symbol": "XBTC",
             "address": "0xF1361c17c04fE044951C527dc007792Cdb0307BF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bounce.finance",
+            "symbol": "BOUNCE",
+            "address": "0xa5915e601C77Ff206c70dE380103e0a8dca0d774",
             "decimals": 18
         }
     ]
