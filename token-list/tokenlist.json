@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:56:34.898Z",
+    "timestamp": "2020-09-27T11:56:44.946Z",
     "version": {
         "major": 1,
-        "minor": 3127,
+        "minor": 3128,
         "patch": 0
     },
     "keywords": [
@@ -20607,6 +20607,13 @@
             "name": "BitDNS",
             "symbol": "DNS",
             "address": "0x17c090F9a17E4e5a8cEb23bbe7E7e28E3C4Ca196",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/RegretNotParticipating",
+            "symbol": "Regret",
+            "address": "0x31316b52E72ea490A53c2ecb819451A046FD26bC",
             "decimals": 18
         }
     ]
