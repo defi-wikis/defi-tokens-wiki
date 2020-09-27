@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:19:14.887Z",
+    "timestamp": "2020-09-27T11:36:49.439Z",
     "version": {
         "major": 1,
-        "minor": 3122,
+        "minor": 3123,
         "patch": 0
     },
     "keywords": [
@@ -20572,6 +20572,13 @@
             "name": "UniMex Token @ UniMex.Finance",
             "symbol": "UMEX",
             "address": "0xb20E28254a3ad1B53017B6929616aa494ecEfEeC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfdot.finance",
+            "symbol": "YFDOT",
+            "address": "0x2e6539edc3b76f1E21B71d214527FAbA875F70F3",
             "decimals": 18
         }
     ]
