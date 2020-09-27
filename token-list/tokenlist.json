@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:10:54.804Z",
+    "timestamp": "2020-09-27T14:15:02.350Z",
     "version": {
         "major": 1,
-        "minor": 3152,
+        "minor": 3153,
         "patch": 0
     },
     "keywords": [
@@ -20782,6 +20782,13 @@
             "name": "SF Token",
             "symbol": "SF",
             "address": "0xEDcD18B50D503684c044308d0c6831905D4149F8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zin.Finance",
+            "symbol": "ZIN",
+            "address": "0xF739ADE667Fd699650224999e73dDbB391A36f45",
             "decimals": 18
         }
     ]
