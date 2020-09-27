@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:21:34.468Z",
+    "timestamp": "2020-09-27T21:23:31.142Z",
     "version": {
         "major": 1,
-        "minor": 3218,
+        "minor": 3219,
         "patch": 0
     },
     "keywords": [
@@ -21244,6 +21244,13 @@
             "name": "Moons",
             "symbol": "xMOON",
             "address": "0xf93494f8CD0A6252727753f286F27b24B411ACF1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yVault.Finance",
+            "symbol": "YCORE",
+            "address": "0xb1d7a832d1f66ADa1a16f5499B0F2df367351601",
             "decimals": 18
         }
     ]
