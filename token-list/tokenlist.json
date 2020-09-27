@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:50:44.415Z",
+    "timestamp": "2020-09-27T12:52:39.687Z",
     "version": {
         "major": 1,
-        "minor": 3135,
+        "minor": 3136,
         "patch": 0
     },
     "keywords": [
@@ -20663,6 +20663,13 @@
             "name": "BTCK",
             "symbol": "BTCK",
             "address": "0x4187e8caaf4D5AA19cDA5ADD4B21015F8842d217",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bellevue Network",
+            "symbol": "BLV",
+            "address": "0xcE97c49B81AE10Fc44C071612E2DD354ef8587e4",
             "decimals": 18
         }
     ]
