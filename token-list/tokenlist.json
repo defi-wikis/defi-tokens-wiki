@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T16:21:10.666Z",
+    "timestamp": "2020-09-27T16:33:19.877Z",
     "version": {
         "major": 1,
-        "minor": 3175,
+        "minor": 3176,
         "patch": 0
     },
     "keywords": [
@@ -20943,6 +20943,13 @@
             "name": "GATO",
             "symbol": "GATO",
             "address": "0xbe31e1e1FcAA786020213eA477f528834F30A4fb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FairToken",
+            "symbol": "FAIR",
+            "address": "0x3BBaf639f381B2D75B321903A921850fc2Fe1538",
             "decimals": 18
         }
     ]
