@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:27:25.480Z",
+    "timestamp": "2020-09-27T21:39:44.665Z",
     "version": {
         "major": 1,
-        "minor": 3220,
+        "minor": 3221,
         "patch": 0
     },
     "keywords": [
@@ -21258,6 +21258,13 @@
             "name": "BloodVials",
             "symbol": "Vials",
             "address": "0xffDD4d26C91752d4f7AEfa4d50737212126c04A2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$CLEAN",
+            "symbol": "$CLEAN",
+            "address": "0x50787644f5068f80d6cC6b24a5F287FbfEc386b9",
             "decimals": 18
         }
     ]
