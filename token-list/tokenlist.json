@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T06:53:54.810Z",
+    "timestamp": "2020-09-27T07:09:34.754Z",
     "version": {
         "major": 1,
-        "minor": 3091,
+        "minor": 3092,
         "patch": 0
     },
     "keywords": [
@@ -20356,6 +20356,13 @@
             "symbol": "BTCk",
             "address": "0xBaaeF006A20E7b786C7C5F17e8Ac9a17a0438A6c",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "twitter.com",
+            "symbol": "TWITTER",
+            "address": "0x1a4FD9168B5259E4d78906c62a954166ADD663E8",
+            "decimals": 18
         }
     ]
 }
