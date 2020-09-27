@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T04:28:45.332Z",
+    "timestamp": "2020-09-27T04:40:30.345Z",
     "version": {
         "major": 1,
-        "minor": 3074,
+        "minor": 3075,
         "patch": 0
     },
     "keywords": [
@@ -20237,6 +20237,13 @@
             "symbol": "SPARTA2",
             "address": "0x7C39e227067FA6e33C14F1b98FF862Ef074992F1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fidelity Gold Token",
+            "symbol": "FGT",
+            "address": "0xB0EA97Cc7dAA268FBa2e0392A450e4e6c35c184C",
+            "decimals": 4
         }
     ]
 }
