@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T09:48:07.712Z",
+    "timestamp": "2020-09-27T09:50:07.679Z",
     "version": {
         "major": 1,
-        "minor": 3105,
+        "minor": 3106,
         "patch": 0
     },
     "keywords": [
@@ -20454,6 +20454,13 @@
             "symbol": "BLST",
             "address": "0x221f67c40Cf2e0692A72F498A296C1100b4f753B",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "KardiaChain Token",
+            "symbol": "KAI",
+            "address": "0xD9Ec3ff1f8be459Bb9369b4E79e9Ebcf7141C093",
+            "decimals": 18
         }
     ]
 }
