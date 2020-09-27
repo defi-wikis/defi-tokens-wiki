@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:56:07.500Z",
+    "timestamp": "2020-09-27T14:58:44.525Z",
     "version": {
         "major": 1,
-        "minor": 3159,
+        "minor": 3160,
         "patch": 0
     },
     "keywords": [
@@ -20831,6 +20831,13 @@
             "name": "FutureDefi",
             "symbol": "FDT",
             "address": "0xCD1651390662691564d0847ac344f938fbFEbf36",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cheese",
+            "symbol": "CHEESE",
+            "address": "0xB6Ab412EacEb551d62f8eC63a1d2F30c01e3A2C0",
             "decimals": 18
         }
     ]
