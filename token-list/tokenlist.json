@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:28:49.936Z",
+    "timestamp": "2020-09-27T15:29:20.406Z",
     "version": {
         "major": 1,
-        "minor": 3165,
+        "minor": 3166,
         "patch": 0
     },
     "keywords": [
@@ -20874,6 +20874,13 @@
             "symbol": "JUNK",
             "address": "0xe9554160865134Bd8404243FFD7374F377673293",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digex",
+            "symbol": "DIGEX",
+            "address": "0x763F8B4fB067190e739Ed6ACB12F40f2F3890840",
+            "decimals": 0
         }
     ]
 }
