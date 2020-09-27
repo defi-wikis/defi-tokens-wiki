@@ -1,0 +1,7 @@
+{
+    "name": "Huobi BCH",
+    "symbol": "HBCH",
+    "address": "0x42C184e1152DF45AfE10cD9D8334B71E4705c04c",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
