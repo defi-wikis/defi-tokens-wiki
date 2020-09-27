@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:44:49.452Z",
+    "timestamp": "2020-09-27T14:52:39.755Z",
     "version": {
         "major": 1,
-        "minor": 3157,
+        "minor": 3158,
         "patch": 0
     },
     "keywords": [
@@ -20817,6 +20817,13 @@
             "name": "RankTheTank",
             "symbol": "TANK",
             "address": "0x000a909fb5F90fd6C5406B6Ea68158d1392a69C7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "gains.finance",
+            "symbol": "GAINS",
+            "address": "0xc4bC73C60c38984534758c0B44b3aa3e0592a317",
             "decimals": 18
         }
     ]
