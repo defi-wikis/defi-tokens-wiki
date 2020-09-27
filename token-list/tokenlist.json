@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T16:33:19.877Z",
+    "timestamp": "2020-09-27T16:34:06.023Z",
     "version": {
         "major": 1,
-        "minor": 3176,
+        "minor": 3177,
         "patch": 0
     },
     "keywords": [
@@ -20950,6 +20950,13 @@
             "name": "FairToken",
             "symbol": "FAIR",
             "address": "0x3BBaf639f381B2D75B321903A921850fc2Fe1538",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FomoSwap",
+            "symbol": "FOMO",
+            "address": "0xB14A130e838476296309b3990081829D56cDB35F",
             "decimals": 18
         }
     ]
