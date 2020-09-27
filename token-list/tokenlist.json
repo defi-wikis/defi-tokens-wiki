@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:29:20.406Z",
+    "timestamp": "2020-09-27T15:30:31.062Z",
     "version": {
         "major": 1,
-        "minor": 3166,
+        "minor": 3167,
         "patch": 0
     },
     "keywords": [
@@ -20881,6 +20881,13 @@
             "symbol": "DIGEX",
             "address": "0x763F8B4fB067190e739Ed6ACB12F40f2F3890840",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Lava Finance",
+            "symbol": "Lava",
+            "address": "0xC93D30fC9379B6c25D96a1782a2bACb12D19aDE0",
+            "decimals": 18
         }
     ]
 }
