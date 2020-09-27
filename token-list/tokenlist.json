@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T18:46:21.679Z",
+    "timestamp": "2020-09-27T18:47:24.713Z",
     "version": {
         "major": 1,
-        "minor": 3193,
+        "minor": 3194,
         "patch": 0
     },
     "keywords": [
@@ -21070,6 +21070,13 @@
             "symbol": "$FRAT",
             "address": "0x90e4532B5DBb828B51079eb09a65619b8fA757eA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ProofOfPleb",
+            "symbol": "PLEB",
+            "address": "0x34fcA40cBDfd854656ffd552c62f1d861d46D88C",
+            "decimals": 9
         }
     ]
 }
