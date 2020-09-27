@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T18:22:06.378Z",
+    "timestamp": "2020-09-27T18:46:21.679Z",
     "version": {
         "major": 1,
-        "minor": 3192,
+        "minor": 3193,
         "patch": 0
     },
     "keywords": [
@@ -21062,6 +21062,13 @@
             "name": "Peridot",
             "symbol": "pdt",
             "address": "0x447e443CB632A0a067630ae8b308510c2488fa3E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$FRAT FINANCE",
+            "symbol": "$FRAT",
+            "address": "0x90e4532B5DBb828B51079eb09a65619b8fA757eA",
             "decimals": 18
         }
     ]
