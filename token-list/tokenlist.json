@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:53:10.895Z",
+    "timestamp": "2020-09-27T12:57:55.551Z",
     "version": {
         "major": 1,
-        "minor": 3138,
+        "minor": 3139,
         "patch": 0
     },
     "keywords": [
@@ -20684,6 +20684,13 @@
             "name": "poring.finance",
             "symbol": "PRNG",
             "address": "0x98BC104d2d8a70253652c9184fC6F8FD24c8A53c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ycrab.finance",
+            "symbol": "YCRAB",
+            "address": "0xD019d0319Fb3E0B829fe2f37B1BAcfdf7aDf233F",
             "decimals": 18
         }
     ]
