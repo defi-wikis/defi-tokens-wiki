@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T22:10:40.650Z",
+    "timestamp": "2020-09-27T22:15:40.078Z",
     "version": {
         "major": 1,
-        "minor": 3228,
+        "minor": 3229,
         "patch": 0
     },
     "keywords": [
@@ -21314,6 +21314,13 @@
             "name": "LAYCON",
             "symbol": "LAYCOIN",
             "address": "0xe46B8F3aC59e109345604077f2eB97B153a7828a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfburn.finance",
+            "symbol": "YFBN",
+            "address": "0xb1EacC3090cb8fd2A94dD326704CAe6e0E12c0Aa",
             "decimals": 18
         }
     ]
