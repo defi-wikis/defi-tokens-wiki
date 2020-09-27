@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:32:39.801Z",
+    "timestamp": "2020-09-27T16:01:34.390Z",
     "version": {
         "major": 1,
-        "minor": 3170,
+        "minor": 3171,
         "patch": 0
     },
     "keywords": [
@@ -20908,6 +20908,13 @@
             "name": "Portion.io",
             "symbol": "PRT",
             "address": "0x14cCF0E7C55D657e3707fD6894f52C0C7CE17C29",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Code.finance",
+            "symbol": "CODE",
+            "address": "0xA267c7E9f4894836C5334BdB87487CD31082a8D0",
             "decimals": 18
         }
     ]
