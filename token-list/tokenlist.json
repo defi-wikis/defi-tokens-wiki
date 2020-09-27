@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T22:21:15.331Z",
+    "timestamp": "2020-09-27T22:23:54.541Z",
     "version": {
         "major": 1,
-        "minor": 3230,
+        "minor": 3231,
         "patch": 0
     },
     "keywords": [
@@ -21329,6 +21329,13 @@
             "symbol": "NOVA",
             "address": "0xCB4553bB964192Fa53bBc18AF9322116c5464d38",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "BBNNAIJALOCKDOWN2020",
+            "symbol": "BBN",
+            "address": "0x28121ABc6D61278bc20Da5a6eADCA86246b6a933",
+            "decimals": 18
         }
     ]
 }
