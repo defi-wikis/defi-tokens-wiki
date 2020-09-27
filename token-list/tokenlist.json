@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T22:41:06.977Z",
+    "timestamp": "2020-09-27T23:12:54.705Z",
     "version": {
         "major": 1,
-        "minor": 3232,
+        "minor": 3233,
         "patch": 0
     },
     "keywords": [
@@ -21342,6 +21342,13 @@
             "name": "polkastarter.com [official]",
             "symbol": "POLS",
             "address": "0xC8a5a6dc3eD8Bcd020C3A48aded1480fE564f351",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BreadToken",
+            "symbol": "BRDT",
+            "address": "0xdcfBe6c89492C2B5e6bbd3a6A9eFF7B713e2e761",
             "decimals": 18
         }
     ]
