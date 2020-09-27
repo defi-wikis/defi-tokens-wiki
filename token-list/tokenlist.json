@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T07:48:39.540Z",
+    "timestamp": "2020-09-27T07:56:19.735Z",
     "version": {
         "major": 1,
-        "minor": 3093,
+        "minor": 3094,
         "patch": 0
     },
     "keywords": [
@@ -20369,6 +20369,13 @@
             "name": "Tokenlon Utility Token",
             "symbol": "LON",
             "address": "0x394783cde1eA7D7c3758f23c370274e6DA986Ca7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MONOPOLY",
+            "symbol": "MONO",
+            "address": "0xd48de8c208E9Dbd1B66a0c655a89560Eb42a06C2",
             "decimals": 18
         }
     ]
