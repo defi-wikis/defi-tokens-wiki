@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:08:30.805Z",
+    "timestamp": "2020-09-27T21:09:40.499Z",
     "version": {
         "major": 1,
-        "minor": 3212,
+        "minor": 3213,
         "patch": 0
     },
     "keywords": [
@@ -21202,6 +21202,13 @@
             "name": "NiceCash",
             "symbol": "nCASH",
             "address": "0x4D99C9263c4B5a0B9c0cFC25F76f18bD00117A92",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAYCON",
+            "symbol": "LAYCOIN",
+            "address": "0x8E9DdC9aEF7b79B7f6a9Ea667672fd4395056A3F",
             "decimals": 18
         }
     ]
