@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T18:47:24.713Z",
+    "timestamp": "2020-09-27T19:01:25.180Z",
     "version": {
         "major": 1,
-        "minor": 3194,
+        "minor": 3195,
         "patch": 0
     },
     "keywords": [
@@ -21077,6 +21077,13 @@
             "symbol": "PLEB",
             "address": "0x34fcA40cBDfd854656ffd552c62f1d861d46D88C",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "RIVEX.io",
+            "symbol": "RVX",
+            "address": "0x6C956Efa7094F3CCa8EaA3075E492cF69cf21725",
+            "decimals": 18
         }
     ]
 }
