@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T20:50:11.207Z",
+    "timestamp": "2020-09-27T21:02:07.513Z",
     "version": {
         "major": 1,
-        "minor": 3210,
+        "minor": 3211,
         "patch": 0
     },
     "keywords": [
@@ -21188,6 +21188,13 @@
             "name": "AuregaMoonshot",
             "symbol": "AURE",
             "address": "0x857D10fb42959708C9576551F7Df96479E68e4cE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Bank Token",
+            "symbol": "YFBNK",
+            "address": "0x61C1Cf2a67c80ada89983623667914376924D12E",
             "decimals": 18
         }
     ]
