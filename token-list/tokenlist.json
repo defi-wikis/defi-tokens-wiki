@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:15:13.930Z",
+    "timestamp": "2020-09-27T21:19:45.628Z",
     "version": {
         "major": 1,
-        "minor": 3215,
+        "minor": 3216,
         "patch": 0
     },
     "keywords": [
@@ -21223,6 +21223,13 @@
             "name": "Royal Gold Academy Token",
             "symbol": "RGA",
             "address": "0xA62A3FaB2Dc0359f26410D078e76C7200d91501d",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DeflationarySimpleToken",
+            "symbol": "DST",
+            "address": "0x128bf16edb00C34CC5d62a11E0dB14255CDB1D44",
             "decimals": 8
         }
     ]
