@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:10:50.633Z",
+    "timestamp": "2020-09-27T21:15:13.930Z",
     "version": {
         "major": 1,
-        "minor": 3214,
+        "minor": 3215,
         "patch": 0
     },
     "keywords": [
@@ -21217,6 +21217,13 @@
             "symbol": "LSWP",
             "address": "0xF27950DfD304cAd5bEc22a2403D004943eefd5B3",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Royal Gold Academy Token",
+            "symbol": "RGA",
+            "address": "0xA62A3FaB2Dc0359f26410D078e76C7200d91501d",
+            "decimals": 8
         }
     ]
 }
