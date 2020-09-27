@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:57:30.577Z",
+    "timestamp": "2020-09-27T22:08:40.589Z",
     "version": {
         "major": 1,
-        "minor": 3224,
+        "minor": 3225,
         "patch": 0
     },
     "keywords": [
@@ -21286,6 +21286,13 @@
             "name": "LAYCON",
             "symbol": "LAYCOIN",
             "address": "0xE1ca8EcE87E39E42C67Be973b2a25F9b481F0A85",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xorETH",
+            "symbol": "XORET",
+            "address": "0x5F1d330C16E27bD0e7b4e44BcA2f5493f0F3313d",
             "decimals": 18
         }
     ]
