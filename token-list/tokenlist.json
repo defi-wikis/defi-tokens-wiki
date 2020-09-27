@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T13:28:19.959Z",
+    "timestamp": "2020-09-27T13:47:02.272Z",
     "version": {
         "major": 1,
-        "minor": 3145,
+        "minor": 3146,
         "patch": 0
     },
     "keywords": [
@@ -20733,6 +20733,13 @@
             "name": "SushiCrypt",
             "symbol": "SUSHC",
             "address": "0xac97c7Af5567737f6BAe48d6BC1B44714656ED60",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zzz.finance",
+            "symbol": "zzz",
+            "address": "0x027beC2B1281884E970F1C999680AE90d74cf32b",
             "decimals": 18
         }
     ]
