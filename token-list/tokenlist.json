@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T13:47:02.272Z",
+    "timestamp": "2020-09-27T13:50:45.429Z",
     "version": {
         "major": 1,
-        "minor": 3146,
+        "minor": 3147,
         "patch": 0
     },
     "keywords": [
@@ -20740,6 +20740,13 @@
             "name": "zzz.finance",
             "symbol": "zzz",
             "address": "0x027beC2B1281884E970F1C999680AE90d74cf32b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SONTOKEN",
+            "symbol": "SON",
+            "address": "0x0c17398EbBCB15078F2aD2C67A26d10623957b21",
             "decimals": 18
         }
     ]
