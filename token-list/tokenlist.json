@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:09:40.499Z",
+    "timestamp": "2020-09-27T21:10:50.633Z",
     "version": {
         "major": 1,
-        "minor": 3213,
+        "minor": 3214,
         "patch": 0
     },
     "keywords": [
@@ -21209,6 +21209,13 @@
             "name": "LAYCON",
             "symbol": "LAYCOIN",
             "address": "0x8E9DdC9aEF7b79B7f6a9Ea667672fd4395056A3F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LunaSwap.Finance",
+            "symbol": "LSWP",
+            "address": "0xF27950DfD304cAd5bEc22a2403D004943eefd5B3",
             "decimals": 18
         }
     ]
