@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:36:49.439Z",
+    "timestamp": "2020-09-27T11:38:45.025Z",
     "version": {
         "major": 1,
-        "minor": 3123,
+        "minor": 3124,
         "patch": 0
     },
     "keywords": [
@@ -20579,6 +20579,13 @@
             "name": "yfdot.finance",
             "symbol": "YFDOT",
             "address": "0x2e6539edc3b76f1E21B71d214527FAbA875F70F3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Jerkoff",
+            "symbol": "YFJ",
+            "address": "0xCB2e5e74aef9B2AEB5C96BD012278D1A52EC71b6",
             "decimals": 18
         }
     ]
