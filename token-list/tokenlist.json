@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T02:44:02.343Z",
+    "timestamp": "2020-09-27T02:57:15.213Z",
     "version": {
         "major": 1,
-        "minor": 3059,
+        "minor": 3060,
         "patch": 0
     },
     "keywords": [
@@ -20131,6 +20131,13 @@
             "name": "xKAI Finance",
             "symbol": "XKAI",
             "address": "0xB7608381e5c7B1E7AdA306E77AF74f132a83D564",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFT PROTOCOL",
+            "symbol": "NFT",
+            "address": "0xa9b862b5F7De8146B395d401191462e6574A9265",
             "decimals": 18
         }
     ]
