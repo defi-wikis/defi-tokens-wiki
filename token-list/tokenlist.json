@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T04:52:14.430Z",
+    "timestamp": "2020-09-27T05:02:50.542Z",
     "version": {
         "major": 1,
-        "minor": 3077,
+        "minor": 3078,
         "patch": 0
     },
     "keywords": [
@@ -20258,6 +20258,13 @@
             "symbol": "XingfuCoin",
             "address": "0x13Bd8A15902363bCaF43842C5bF944cF7AD0b77A",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "flamingo.finance",
+            "symbol": "FLM",
+            "address": "0x1fC6Ab5E2b4EBb09C37807F988B22b38f3e1C228",
+            "decimals": 18
         }
     ]
 }
