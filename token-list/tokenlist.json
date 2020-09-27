@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:40:30.986Z",
+    "timestamp": "2020-09-27T11:53:24.488Z",
     "version": {
         "major": 1,
-        "minor": 3125,
+        "minor": 3126,
         "patch": 0
     },
     "keywords": [
@@ -20593,6 +20593,13 @@
             "name": "nftt.finance",
             "symbol": "NFTT",
             "address": "0xd79Ec35D2d9CEc5AbE7EBe0F0621b04eE1e14eFc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CAOSIS DAO",
+            "symbol": "CAOS",
+            "address": "0x0491549BB3bB470624Fdeac2ef2915ea9AF31DF7",
             "decimals": 18
         }
     ]
