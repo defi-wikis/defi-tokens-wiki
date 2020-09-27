@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:30:40.981Z",
+    "timestamp": "2020-09-27T15:32:34.450Z",
     "version": {
         "major": 1,
-        "minor": 3168,
+        "minor": 3169,
         "patch": 0
     },
     "keywords": [
@@ -20894,6 +20894,13 @@
             "name": "UniMex Token @ UniMex.Finance",
             "symbol": "UMEX",
             "address": "0x03F1Fd90F7fDDacCb3CC593A5A35889cccdef777",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "S.Finance",
+            "symbol": "SFG",
+            "address": "0x242AAfDD391D9eDB2cebeCCdA5444D145e97266C",
             "decimals": 18
         }
     ]
