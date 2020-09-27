@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T09:17:39.630Z",
+    "timestamp": "2020-09-27T09:32:29.591Z",
     "version": {
         "major": 1,
-        "minor": 3102,
+        "minor": 3103,
         "patch": 0
     },
     "keywords": [
@@ -20432,6 +20432,13 @@
             "name": "fertile chain",
             "symbol": "FTC",
             "address": "0xA73b98cf5B61647c8299bb54cd35ba6ba011310B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "salad.finance",
+            "symbol": "Salad",
+            "address": "0xCf58Dea5933BD8B25b4E3166709B9998Bae14B83",
             "decimals": 18
         }
     ]
