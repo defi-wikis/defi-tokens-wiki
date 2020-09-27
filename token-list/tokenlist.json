@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:35:24.814Z",
+    "timestamp": "2020-09-27T03:39:15.709Z",
     "version": {
         "major": 1,
-        "minor": 3067,
+        "minor": 3068,
         "patch": 0
     },
     "keywords": [
@@ -20187,6 +20187,13 @@
             "name": "MEME 2.0",
             "symbol": "MEME2",
             "address": "0xAAAcC07F453a7E81Da89fCA702Bec63AC074Ca4f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/poringfinance",
+            "symbol": "TPRNG",
+            "address": "0x1fC58cB9a1665b30819167268FAb01Ce74840811",
             "decimals": 18
         }
     ]
