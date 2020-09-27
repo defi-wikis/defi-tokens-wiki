@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T20:41:06.573Z",
+    "timestamp": "2020-09-27T20:50:11.207Z",
     "version": {
         "major": 1,
-        "minor": 3209,
+        "minor": 3210,
         "patch": 0
     },
     "keywords": [
@@ -21181,6 +21181,13 @@
             "name": "Hire",
             "symbol": "HIRE",
             "address": "0x865e3707a580F9db89304005CddD050Ade8873eB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AuregaMoonshot",
+            "symbol": "AURE",
+            "address": "0x857D10fb42959708C9576551F7Df96479E68e4cE",
             "decimals": 18
         }
     ]
