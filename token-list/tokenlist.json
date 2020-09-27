@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:05:49.855Z",
+    "timestamp": "2020-09-27T17:20:44.722Z",
     "version": {
         "major": 1,
-        "minor": 3183,
+        "minor": 3184,
         "patch": 0
     },
     "keywords": [
@@ -20999,6 +20999,13 @@
             "name": "polkastarter.com",
             "symbol": "POLS",
             "address": "0xE261405dc2a086Da06C77255dE37ECa44C1D30f4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ocean Token",
+            "symbol": "OCEAN",
+            "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
             "decimals": 18
         }
     ]
