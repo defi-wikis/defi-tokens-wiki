@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T16:34:06.023Z",
+    "timestamp": "2020-09-27T16:38:20.472Z",
     "version": {
         "major": 1,
-        "minor": 3177,
+        "minor": 3178,
         "patch": 0
     },
     "keywords": [
@@ -20957,6 +20957,13 @@
             "name": "FomoSwap",
             "symbol": "FOMO",
             "address": "0xB14A130e838476296309b3990081829D56cDB35F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FuDefi",
+            "symbol": "FUTU",
+            "address": "0x8621Ecd3035b739b807Ea7258d2c1fc4dF0270cd",
             "decimals": 18
         }
     ]
