@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:31:14.458Z",
+    "timestamp": "2020-09-27T03:33:19.322Z",
     "version": {
         "major": 1,
-        "minor": 3065,
+        "minor": 3066,
         "patch": 0
     },
     "keywords": [
@@ -20173,6 +20173,13 @@
             "name": "YFI Paprika",
             "symbol": "YFIP",
             "address": "0xB9782532FA7062A6F73df1CE71d75c0E16046ebC",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YeaFinance",
+            "symbol": "YEA",
+            "address": "0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC",
             "decimals": 8
         }
     ]
