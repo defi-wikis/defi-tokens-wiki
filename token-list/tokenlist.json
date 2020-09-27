@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:24:59.547Z",
+    "timestamp": "2020-09-27T12:27:19.930Z",
     "version": {
         "major": 1,
-        "minor": 3132,
+        "minor": 3133,
         "patch": 0
     },
     "keywords": [
@@ -20642,6 +20642,13 @@
             "name": "ZT",
             "symbol": "ZT",
             "address": "0x9d75B92aE4c7A7d3B6611c42EffEC23189517226",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Care.finance",
+            "symbol": "CARE",
+            "address": "0x75F619fC325944Ef496d19840905aA63Eb461D6f",
             "decimals": 18
         }
     ]
