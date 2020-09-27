@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:35:06.691Z",
+    "timestamp": "2020-09-27T14:41:40.112Z",
     "version": {
         "major": 1,
-        "minor": 3155,
+        "minor": 3156,
         "patch": 0
     },
     "keywords": [
@@ -20803,6 +20803,13 @@
             "name": "medicalveda.com1",
             "symbol": "MVEDA",
             "address": "0xf6Ce1770D7A47f98E963CC28F0a278722Dc8FBA6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MAX Finance",
+            "symbol": "MAX",
+            "address": "0xB7A901566AC8182dc53b2dE643013F98712d7342",
             "decimals": 18
         }
     ]
