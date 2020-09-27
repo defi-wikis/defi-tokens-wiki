@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:52:39.687Z",
+    "timestamp": "2020-09-27T12:52:49.342Z",
     "version": {
         "major": 1,
-        "minor": 3136,
+        "minor": 3137,
         "patch": 0
     },
     "keywords": [
@@ -20670,6 +20670,13 @@
             "name": "Bellevue Network",
             "symbol": "BLV",
             "address": "0xcE97c49B81AE10Fc44C071612E2DD354ef8587e4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bibi.finance",
+            "symbol": "BIBI",
+            "address": "0x1e2d3fD9A328f43D5651080c56Df5F19B856bbB1",
             "decimals": 18
         }
     ]
