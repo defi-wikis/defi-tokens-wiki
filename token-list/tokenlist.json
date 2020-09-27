@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:47:44.786Z",
+    "timestamp": "2020-09-27T03:52:29.367Z",
     "version": {
         "major": 1,
-        "minor": 3069,
+        "minor": 3070,
         "patch": 0
     },
     "keywords": [
@@ -20201,6 +20201,13 @@
             "name": "Poring.Finance",
             "symbol": "PRNG",
             "address": "0x8747f72Fd9844D931170B67c1bfA7EAA29643488",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yea.Finance",
+            "symbol": "YEA",
+            "address": "0x4133a9dFb89e1bCee717146cfe7FB0c68aE1930b",
             "decimals": 18
         }
     ]
