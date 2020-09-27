@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T06:34:19.420Z",
+    "timestamp": "2020-09-27T06:47:34.816Z",
     "version": {
         "major": 1,
-        "minor": 3089,
+        "minor": 3090,
         "patch": 0
     },
     "keywords": [
@@ -20341,6 +20341,13 @@
             "name": "Speed Prove Dollar",
             "symbol": "SPD",
             "address": "0x6ba01e14edf40DaA9DCa3864bCda0FEEfaA69d94",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LOTUS Seed  Finance",
+            "symbol": "LOTs",
+            "address": "0x29ec89D316BfC708467d20DaEc45B42D0CA07978",
             "decimals": 18
         }
     ]
