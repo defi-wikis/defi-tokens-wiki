@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:39:15.709Z",
+    "timestamp": "2020-09-27T03:47:44.786Z",
     "version": {
         "major": 1,
-        "minor": 3068,
+        "minor": 3069,
         "patch": 0
     },
     "keywords": [
@@ -20194,6 +20194,13 @@
             "name": "t.me/poringfinance",
             "symbol": "TPRNG",
             "address": "0x1fC58cB9a1665b30819167268FAb01Ce74840811",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Poring.Finance",
+            "symbol": "PRNG",
+            "address": "0x8747f72Fd9844D931170B67c1bfA7EAA29643488",
             "decimals": 18
         }
     ]
