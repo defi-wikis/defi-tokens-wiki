@@ -1,0 +1,7 @@
+{
+    "name": "YFIOProtocol.finance",
+    "symbol": "YFIO",
+    "address": "0x1E1bC6c0b0C2fd8a846fD2593b3Ad058289805Cc",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
