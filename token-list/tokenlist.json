@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:58:44.525Z",
+    "timestamp": "2020-09-27T15:03:55.471Z",
     "version": {
         "major": 1,
-        "minor": 3160,
+        "minor": 3161,
         "patch": 0
     },
     "keywords": [
@@ -20838,6 +20838,13 @@
             "name": "Cheese",
             "symbol": "CHEESE",
             "address": "0xB6Ab412EacEb551d62f8eC63a1d2F30c01e3A2C0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ANT Token",
+            "symbol": "ANT",
+            "address": "0x1Ae567951175744512469d486004251934152668",
             "decimals": 18
         }
     ]
