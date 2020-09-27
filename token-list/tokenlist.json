@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T23:12:54.705Z",
+    "timestamp": "2020-09-27T23:15:50.577Z",
     "version": {
         "major": 1,
-        "minor": 3233,
+        "minor": 3234,
         "patch": 0
     },
     "keywords": [
@@ -21350,6 +21350,13 @@
             "symbol": "BRDT",
             "address": "0xdcfBe6c89492C2B5e6bbd3a6A9eFF7B713e2e761",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SoloCoin",
+            "symbol": "SOLO",
+            "address": "0x03F251DC7F1601e3295B5FcBF910912601509Faf",
+            "decimals": 13
         }
     ]
 }
