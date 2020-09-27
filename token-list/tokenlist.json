@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:33:19.322Z",
+    "timestamp": "2020-09-27T03:35:24.814Z",
     "version": {
         "major": 1,
-        "minor": 3066,
+        "minor": 3067,
         "patch": 0
     },
     "keywords": [
@@ -20181,6 +20181,13 @@
             "symbol": "YEA",
             "address": "0x40b92fCE37CEfA03baf7603e7913C1d34dD1a4EC",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "MEME 2.0",
+            "symbol": "MEME2",
+            "address": "0xAAAcC07F453a7E81Da89fCA702Bec63AC074Ca4f",
+            "decimals": 18
         }
     ]
 }
