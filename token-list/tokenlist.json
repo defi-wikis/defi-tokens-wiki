@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T10:14:59.149Z",
+    "timestamp": "2020-09-27T10:39:20.279Z",
     "version": {
         "major": 1,
-        "minor": 3111,
+        "minor": 3112,
         "patch": 0
     },
     "keywords": [
@@ -20495,6 +20495,13 @@
             "name": "MlErgn.NFT",
             "symbol": "MAL",
             "address": "0xDCBa8c0Be82D9192560c9fDc0a06feCB7d66A488",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pickle Rick",
+            "symbol": "Rick",
+            "address": "0x7281165b1E5B7F0afF6EF21ffA9AA381A4280C2F",
             "decimals": 18
         }
     ]
