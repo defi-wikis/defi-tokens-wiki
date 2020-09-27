@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:23:24.882Z",
+    "timestamp": "2020-09-27T14:35:06.691Z",
     "version": {
         "major": 1,
-        "minor": 3154,
+        "minor": 3155,
         "patch": 0
     },
     "keywords": [
@@ -20796,6 +20796,13 @@
             "name": "firemoon.finance",
             "symbol": "FIRM",
             "address": "0x2B4206ad409627be29c7e3A452E63f6854BD977d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "medicalveda.com1",
+            "symbol": "MVEDA",
+            "address": "0xf6Ce1770D7A47f98E963CC28F0a278722Dc8FBA6",
             "decimals": 18
         }
     ]
