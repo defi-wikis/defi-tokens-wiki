@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T23:24:44.298Z",
+    "timestamp": "2020-09-27T23:47:15.240Z",
     "version": {
         "major": 1,
-        "minor": 3236,
+        "minor": 3237,
         "patch": 0
     },
     "keywords": [
@@ -21370,6 +21370,13 @@
             "name": "Eggroll.Finance",
             "symbol": "Eggroll",
             "address": "0xfADe84f6c007Ee6F288025d59E4aF8Ef4E3cd469",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OneUtility",
+            "symbol": "OUT",
+            "address": "0xD1Fcd9f95965054Fc41405AbC129D9f69Ecb7c63",
             "decimals": 18
         }
     ]
