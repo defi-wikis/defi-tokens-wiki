@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T19:31:39.336Z",
+    "timestamp": "2020-09-27T19:49:36.651Z",
     "version": {
         "major": 1,
-        "minor": 3201,
+        "minor": 3202,
         "patch": 0
     },
     "keywords": [
@@ -21125,6 +21125,13 @@
             "name": "AutoZeroUtilityToken",
             "symbol": "AZUT",
             "address": "0xD31Ab732c054Dd3a75Ca81E1f50D72e4BF46D3A8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OpenWeb Token",
+            "symbol": "OWT",
+            "address": "0xC2494604e9DcEfa2A70dCEbf81e6D7BE064a334e",
             "decimals": 18
         }
     ]
