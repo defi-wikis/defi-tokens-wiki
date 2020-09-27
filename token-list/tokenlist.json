@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T08:42:49.707Z",
+    "timestamp": "2020-09-27T08:43:44.840Z",
     "version": {
         "major": 1,
-        "minor": 3097,
+        "minor": 3098,
         "patch": 0
     },
     "keywords": [
@@ -20397,6 +20397,13 @@
             "name": "FalconSwap",
             "symbol": "FSW",
             "address": "0xb6925f9163d6eB47CB3B0CabF060d651DA5910B6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RioDefi Ethereum",
+            "symbol": "RFuel",
+            "address": "0xeD030532b5DcAD2C08A69fAb3eE40E37E6D7E714",
             "decimals": 18
         }
     ]
