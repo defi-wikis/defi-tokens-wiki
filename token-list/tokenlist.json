@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:20:24.973Z",
+    "timestamp": "2020-09-27T12:24:59.547Z",
     "version": {
         "major": 1,
-        "minor": 3131,
+        "minor": 3132,
         "patch": 0
     },
     "keywords": [
@@ -20636,6 +20636,13 @@
             "symbol": "USDO1",
             "address": "0x88EEC3873ac22DA27a836F7f63883DA4771C96F1",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "ZT",
+            "symbol": "ZT",
+            "address": "0x9d75B92aE4c7A7d3B6611c42EffEC23189517226",
+            "decimals": 18
         }
     ]
 }
