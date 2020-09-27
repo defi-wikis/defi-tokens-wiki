@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:04:02.275Z",
+    "timestamp": "2020-09-27T14:05:29.733Z",
     "version": {
         "major": 1,
-        "minor": 3150,
+        "minor": 3151,
         "patch": 0
     },
     "keywords": [
@@ -20768,6 +20768,13 @@
             "name": "PepeFrog.Finance",
             "symbol": "PFF",
             "address": "0x9475Ef96Ac800e341b208696E6b4a1118f05fE63",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFYY COIN",
+            "symbol": "YFYY",
+            "address": "0x45acfA2aA96F92E93b0dc56AadeF97F5a6b12fD0",
             "decimals": 18
         }
     ]
