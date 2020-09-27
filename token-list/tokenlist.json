@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T00:40:55.238Z",
+    "timestamp": "2020-09-27T00:51:44.589Z",
     "version": {
         "major": 1,
-        "minor": 3050,
+        "minor": 3051,
         "patch": 0
     },
     "keywords": [
@@ -20068,6 +20068,13 @@
             "name": "Yearn Finance Network",
             "symbol": "YFN",
             "address": "0xd228564cb9F7E2A46d95Cda79d2A3BE54897cBc3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Blonde",
+            "symbol": "BLND",
+            "address": "0x963B61e618709c8Fa1356FB57ebB4C1298352f5D",
             "decimals": 18
         }
     ]
