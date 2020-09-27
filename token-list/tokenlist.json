@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:48:40.174Z",
+    "timestamp": "2020-09-27T12:50:44.415Z",
     "version": {
         "major": 1,
-        "minor": 3134,
+        "minor": 3135,
         "patch": 0
     },
     "keywords": [
@@ -20656,6 +20656,13 @@
             "name": "Angry Hippo V2",
             "symbol": "aHippoV2",
             "address": "0x6F5536c8ddB98279a65EF724ab87314a1De3AB73",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTCK",
+            "symbol": "BTCK",
+            "address": "0x4187e8caaf4D5AA19cDA5ADD4B21015F8842d217",
             "decimals": 18
         }
     ]
