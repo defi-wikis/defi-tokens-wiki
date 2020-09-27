@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T09:47:54.757Z",
+    "timestamp": "2020-09-27T09:48:07.712Z",
     "version": {
         "major": 1,
-        "minor": 3104,
+        "minor": 3105,
         "patch": 0
     },
     "keywords": [
@@ -20447,6 +20447,13 @@
             "symbol": "Rick",
             "address": "0x2E0Be2573B8cC4bF8C1D85E6DDC64c1dAc2a283f",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BALST",
+            "symbol": "BLST",
+            "address": "0x221f67c40Cf2e0692A72F498A296C1100b4f753B",
+            "decimals": 8
         }
     ]
 }
