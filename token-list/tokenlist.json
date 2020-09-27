@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T10:07:29.505Z",
+    "timestamp": "2020-09-27T10:14:35.210Z",
     "version": {
         "major": 1,
-        "minor": 3109,
+        "minor": 3110,
         "patch": 0
     },
     "keywords": [
@@ -20481,6 +20481,13 @@
             "name": "ecfi.finance",
             "symbol": "ECFI",
             "address": "0x65c4a9397eB19F101151bE3818e61faF1Dd7cc4a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SharkStake.io",
+            "symbol": "$SHARK",
+            "address": "0x51C8132835ED9809b34F1440764a61bd72293749",
             "decimals": 18
         }
     ]
