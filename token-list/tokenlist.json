@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T20:31:25.361Z",
+    "timestamp": "2020-09-27T20:41:06.573Z",
     "version": {
         "major": 1,
-        "minor": 3208,
+        "minor": 3209,
         "patch": 0
     },
     "keywords": [
@@ -21174,6 +21174,13 @@
             "name": "Yield Lending",
             "symbol": "YLL",
             "address": "0xE3B43b8D9Cb28B704515272A268467247bf26eEb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hire",
+            "symbol": "HIRE",
+            "address": "0x865e3707a580F9db89304005CddD050Ade8873eB",
             "decimals": 18
         }
     ]
