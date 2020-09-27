@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T16:43:30.151Z",
+    "timestamp": "2020-09-27T17:00:25.102Z",
     "version": {
         "major": 1,
-        "minor": 3180,
+        "minor": 3181,
         "patch": 0
     },
     "keywords": [
@@ -20978,6 +20978,13 @@
             "name": "My Precious",
             "symbol": "PRCS",
             "address": "0xdEF6122Cf9e2889d8281408AC3A3B2aE7CF52F36",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crypto Millions Lotto  @ CMLDefi.com",
+            "symbol": "CML",
+            "address": "0xfc0c197d5e8629755501f7CbE4fe6B5D54e832B6",
             "decimals": 18
         }
     ]
