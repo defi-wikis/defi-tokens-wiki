@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:20:44.722Z",
+    "timestamp": "2020-09-27T17:27:14.641Z",
     "version": {
         "major": 1,
-        "minor": 3184,
+        "minor": 3185,
         "patch": 0
     },
     "keywords": [
@@ -21006,6 +21006,13 @@
             "name": "Ocean Token",
             "symbol": "OCEAN",
             "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "noNFT",
+            "symbol": "NNFT",
+            "address": "0xfcdF6f539F9ce57f33b98CC3287C020cC582209E",
             "decimals": 18
         }
     ]
