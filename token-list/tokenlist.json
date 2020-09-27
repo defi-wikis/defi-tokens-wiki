@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T19:49:36.651Z",
+    "timestamp": "2020-09-27T19:50:10.085Z",
     "version": {
         "major": 1,
-        "minor": 3202,
+        "minor": 3203,
         "patch": 0
     },
     "keywords": [
@@ -21132,6 +21132,13 @@
             "name": "OpenWeb Token",
             "symbol": "OWT",
             "address": "0xC2494604e9DcEfa2A70dCEbf81e6D7BE064a334e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Recovery",
+            "symbol": "YFIR",
+            "address": "0xd212E8283df3Dc2b47B49D5E3c1e06047DB3E1Ae",
             "decimals": 18
         }
     ]
