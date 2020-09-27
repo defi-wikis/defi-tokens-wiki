@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T05:10:34.975Z",
+    "timestamp": "2020-09-27T05:30:29.487Z",
     "version": {
         "major": 1,
-        "minor": 3081,
+        "minor": 3082,
         "patch": 0
     },
     "keywords": [
@@ -20285,6 +20285,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yieldbee.finance",
+            "symbol": "YBF",
+            "address": "0x803c7de67CD938F366599FD47Dd47CBfe7d87495",
             "decimals": 18
         }
     ]
