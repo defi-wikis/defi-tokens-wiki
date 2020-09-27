@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T11:53:24.488Z",
+    "timestamp": "2020-09-27T11:56:34.898Z",
     "version": {
         "major": 1,
-        "minor": 3126,
+        "minor": 3127,
         "patch": 0
     },
     "keywords": [
@@ -20600,6 +20600,13 @@
             "name": "CAOSIS DAO",
             "symbol": "CAOS",
             "address": "0x0491549BB3bB470624Fdeac2ef2915ea9AF31DF7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitDNS",
+            "symbol": "DNS",
+            "address": "0x17c090F9a17E4e5a8cEb23bbe7E7e28E3C4Ca196",
             "decimals": 18
         }
     ]
