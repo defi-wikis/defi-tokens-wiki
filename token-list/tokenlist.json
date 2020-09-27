@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T19:50:10.085Z",
+    "timestamp": "2020-09-27T19:52:44.208Z",
     "version": {
         "major": 1,
-        "minor": 3203,
+        "minor": 3204,
         "patch": 0
     },
     "keywords": [
@@ -21139,6 +21139,13 @@
             "name": "Yearn Recovery",
             "symbol": "YFIR",
             "address": "0xd212E8283df3Dc2b47B49D5E3c1e06047DB3E1Ae",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrangeJuice",
+            "symbol": "OJ",
+            "address": "0xf4B0e73ee56Ab24F21e6BE9F7cbb03EAFF80aDcD",
             "decimals": 18
         }
     ]
