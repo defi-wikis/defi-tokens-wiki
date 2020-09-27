@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:04:54.562Z",
+    "timestamp": "2020-09-27T03:18:24.775Z",
     "version": {
         "major": 1,
-        "minor": 3061,
+        "minor": 3062,
         "patch": 0
     },
     "keywords": [
@@ -20145,6 +20145,13 @@
             "name": "GREEN ENERGY COIN",
             "symbol": "GEC",
             "address": "0x3A0ccC7F72Df786B24E054029901AD691597DB6C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bag.Finance",
+            "symbol": "BAG",
+            "address": "0x27d7B827c2EA07357C2b37a4209526DaAf38CB49",
             "decimals": 18
         }
     ]
