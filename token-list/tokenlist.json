@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T01:50:15.020Z",
+    "timestamp": "2020-09-27T01:56:15.317Z",
     "version": {
         "major": 1,
-        "minor": 3052,
+        "minor": 3053,
         "patch": 0
     },
     "keywords": [
@@ -20082,6 +20082,13 @@
             "name": "xKAI Finance",
             "symbol": "XKAI",
             "address": "0xD3093D32016D5C7600B78260DAD294A3Df3E6cdb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNRUGGABLETELEGRAM",
+            "symbol": "URUG",
+            "address": "0xdd371794b0267Fe6dc878F5CcBfDC90dc8f8cb28",
             "decimals": 18
         }
     ]
