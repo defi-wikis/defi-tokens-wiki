@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T03:18:24.775Z",
+    "timestamp": "2020-09-27T03:18:44.736Z",
     "version": {
         "major": 1,
-        "minor": 3062,
+        "minor": 3063,
         "patch": 0
     },
     "keywords": [
@@ -20152,6 +20152,13 @@
             "name": "Bag.Finance",
             "symbol": "BAG",
             "address": "0x27d7B827c2EA07357C2b37a4209526DaAf38CB49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Archangel",
+            "symbol": "ARCH",
+            "address": "0x907188b3E87b5c42F883942f28BfB1BCf9fECE7A",
             "decimals": 18
         }
     ]
