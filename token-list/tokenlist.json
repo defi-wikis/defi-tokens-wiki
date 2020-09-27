@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T22:15:40.078Z",
+    "timestamp": "2020-09-27T22:21:15.331Z",
     "version": {
         "major": 1,
-        "minor": 3229,
+        "minor": 3230,
         "patch": 0
     },
     "keywords": [
@@ -21322,6 +21322,13 @@
             "symbol": "YFBN",
             "address": "0xb1EacC3090cb8fd2A94dD326704CAe6e0E12c0Aa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NOVACHAIN",
+            "symbol": "NOVA",
+            "address": "0xCB4553bB964192Fa53bBc18AF9322116c5464d38",
+            "decimals": 8
         }
     ]
 }
