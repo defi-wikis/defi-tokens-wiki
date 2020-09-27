@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:52:49.342Z",
+    "timestamp": "2020-09-27T12:53:10.895Z",
     "version": {
         "major": 1,
-        "minor": 3137,
+        "minor": 3138,
         "patch": 0
     },
     "keywords": [
@@ -20677,6 +20677,13 @@
             "name": "bibi.finance",
             "symbol": "BIBI",
             "address": "0x1e2d3fD9A328f43D5651080c56Df5F19B856bbB1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "poring.finance",
+            "symbol": "PRNG",
+            "address": "0x98BC104d2d8a70253652c9184fC6F8FD24c8A53c",
             "decimals": 18
         }
     ]
