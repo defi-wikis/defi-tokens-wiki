@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T13:06:59.673Z",
+    "timestamp": "2020-09-27T13:08:30.307Z",
     "version": {
         "major": 1,
-        "minor": 3140,
+        "minor": 3141,
         "patch": 0
     },
     "keywords": [
@@ -20698,6 +20698,13 @@
             "name": "RIYADH.cityswap.io",
             "symbol": "RIYADH",
             "address": "0x8D073134489B2F98fD14e8d7fA6d7050F8d4814C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Huobi BCH",
+            "symbol": "HBCH",
+            "address": "0x42C184e1152DF45AfE10cD9D8334B71E4705c04c",
             "decimals": 18
         }
     ]
