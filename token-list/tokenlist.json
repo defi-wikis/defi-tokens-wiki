@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T14:52:39.755Z",
+    "timestamp": "2020-09-27T14:56:07.500Z",
     "version": {
         "major": 1,
-        "minor": 3158,
+        "minor": 3159,
         "patch": 0
     },
     "keywords": [
@@ -20824,6 +20824,13 @@
             "name": "gains.finance",
             "symbol": "GAINS",
             "address": "0xc4bC73C60c38984534758c0B44b3aa3e0592a317",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FutureDefi",
+            "symbol": "FDT",
+            "address": "0xCD1651390662691564d0847ac344f938fbFEbf36",
             "decimals": 18
         }
     ]
