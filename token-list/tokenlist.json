@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T19:24:14.822Z",
+    "timestamp": "2020-09-27T19:24:20.393Z",
     "version": {
         "major": 1,
-        "minor": 3199,
+        "minor": 3200,
         "patch": 0
     },
     "keywords": [
@@ -21111,6 +21111,13 @@
             "name": "polkastarter.com",
             "symbol": "POLS",
             "address": "0x807A925F4654C8f61572E604BA3Cf6327E6496C5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yvi.finance",
+            "symbol": "YVI",
+            "address": "0xaeE1C14a1746c2c569B1209ee0D5884a4ED7FC2C",
             "decimals": 18
         }
     ]
