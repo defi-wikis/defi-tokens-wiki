@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T05:06:59.315Z",
+    "timestamp": "2020-09-27T05:10:34.975Z",
     "version": {
         "major": 1,
-        "minor": 3080,
+        "minor": 3081,
         "patch": 0
     },
     "keywords": [
@@ -20278,6 +20278,13 @@
             "name": "cDeflation.finance",
             "symbol": "CDRE",
             "address": "0xB2a9e4495215D2B97735134AA04318622d964Ae5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0x0d4a11d5EEaaC28EC3F61d100daF4d40471f1852",
             "decimals": 18
         }
     ]
