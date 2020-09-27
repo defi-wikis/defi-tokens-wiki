@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T06:00:30.591Z",
+    "timestamp": "2020-09-27T06:12:19.323Z",
     "version": {
         "major": 1,
-        "minor": 3086,
+        "minor": 3087,
         "patch": 0
     },
     "keywords": [
@@ -20320,6 +20320,13 @@
             "name": "CORE Token",
             "symbol": "CORE",
             "address": "0x761543cd4164599f237c0a9d750690316817A6e4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "polkastarter.com",
+            "symbol": "POLS",
+            "address": "0x69Ba2b9D6A86B4f2498C48aaa617953a4A9dFfC1",
             "decimals": 18
         }
     ]
