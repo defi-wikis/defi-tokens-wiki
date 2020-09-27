@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T08:26:10.566Z",
+    "timestamp": "2020-09-27T08:42:49.707Z",
     "version": {
         "major": 1,
-        "minor": 3096,
+        "minor": 3097,
         "patch": 0
     },
     "keywords": [
@@ -20390,6 +20390,13 @@
             "name": "YFIOProtocol.finance",
             "symbol": "YFIO",
             "address": "0x44219549E4A72aD0aA108458eDeE02b4e380cf33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FalconSwap",
+            "symbol": "FSW",
+            "address": "0xb6925f9163d6eB47CB3B0CabF060d651DA5910B6",
             "decimals": 18
         }
     ]
