@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T13:54:49.384Z",
+    "timestamp": "2020-09-27T13:55:14.348Z",
     "version": {
         "major": 1,
-        "minor": 3148,
+        "minor": 3149,
         "patch": 0
     },
     "keywords": [
@@ -20754,6 +20754,13 @@
             "name": "Salad.Finance",
             "symbol": "SLD",
             "address": "0x8Ed771286C1DdE7e10Bc661BB8F073a37911A9B9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Omen",
+            "symbol": "OMEN",
+            "address": "0xf2C40D4d170D685735a5c3A7441346AA2bd91f6A",
             "decimals": 18
         }
     ]
