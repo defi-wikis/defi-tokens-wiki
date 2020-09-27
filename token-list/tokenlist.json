@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:39:44.665Z",
+    "timestamp": "2020-09-27T21:39:49.856Z",
     "version": {
         "major": 1,
-        "minor": 3221,
+        "minor": 3222,
         "patch": 0
     },
     "keywords": [
@@ -21265,6 +21265,13 @@
             "name": "$CLEAN",
             "symbol": "$CLEAN",
             "address": "0x50787644f5068f80d6cC6b24a5F287FbfEc386b9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Square Swap Finance",
+            "symbol": "SSF",
+            "address": "0x58F3D1eB46593a987675a945F8d28dE4A52E9B85",
             "decimals": 18
         }
     ]
