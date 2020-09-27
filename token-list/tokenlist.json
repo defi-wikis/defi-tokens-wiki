@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T02:39:25.847Z",
+    "timestamp": "2020-09-27T02:42:07.168Z",
     "version": {
         "major": 1,
-        "minor": 3057,
+        "minor": 3058,
         "patch": 0
     },
     "keywords": [
@@ -20117,6 +20117,13 @@
             "name": "The Nifty ONEz",
             "symbol": "ONEZ",
             "address": "0x12419EEA0B053FfeA92f9afcD7986a495E2CF0Dd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FARM Reward Token V2",
+            "symbol": "FARMS",
+            "address": "0x9fBBe6D9D6c98bfCEfa9c1097eE854b6b01814f4",
             "decimals": 18
         }
     ]
