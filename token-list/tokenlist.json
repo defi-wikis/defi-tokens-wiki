@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:27:19.930Z",
+    "timestamp": "2020-09-27T12:48:40.174Z",
     "version": {
         "major": 1,
-        "minor": 3133,
+        "minor": 3134,
         "patch": 0
     },
     "keywords": [
@@ -20649,6 +20649,13 @@
             "name": "Care.finance",
             "symbol": "CARE",
             "address": "0x75F619fC325944Ef496d19840905aA63Eb461D6f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Angry Hippo V2",
+            "symbol": "aHippoV2",
+            "address": "0x6F5536c8ddB98279a65EF724ab87314a1De3AB73",
             "decimals": 18
         }
     ]
