@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T08:07:10.723Z",
+    "timestamp": "2020-09-27T08:26:10.566Z",
     "version": {
         "major": 1,
-        "minor": 3095,
+        "minor": 3096,
         "patch": 0
     },
     "keywords": [
@@ -20384,6 +20384,13 @@
             "symbol": "PNS",
             "address": "0xce853db3359326dB6D03981C9fb42983BbCdd007",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "YFIOProtocol.finance",
+            "symbol": "YFIO",
+            "address": "0x44219549E4A72aD0aA108458eDeE02b4e380cf33",
+            "decimals": 18
         }
     ]
 }
