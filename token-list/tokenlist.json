@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T15:11:35.083Z",
+    "timestamp": "2020-09-27T15:11:59.943Z",
     "version": {
         "major": 1,
-        "minor": 3162,
+        "minor": 3163,
         "patch": 0
     },
     "keywords": [
@@ -20852,6 +20852,13 @@
             "name": "GATO.Farm",
             "symbol": "GATO",
             "address": "0x5aA119300fddC57E91EAf5bee685A8498Fd13f77",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitcoinSun",
+            "symbol": "BTCSUN",
+            "address": "0x6CE67148227051319D3Cd7CE4187EbAD18ac88ED",
             "decimals": 18
         }
     ]
