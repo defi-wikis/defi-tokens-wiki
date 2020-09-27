@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T09:57:49.515Z",
+    "timestamp": "2020-09-27T09:57:55.005Z",
     "version": {
         "major": 1,
-        "minor": 3107,
+        "minor": 3108,
         "patch": 0
     },
     "keywords": [
@@ -20467,6 +20467,13 @@
             "name": "YFTrade AI",
             "symbol": "YFTR",
             "address": "0xfe45da524e094304e6eb35896C4ecD16DEA03297",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "many.global",
+            "symbol": "MANY",
+            "address": "0x8f811402a04fD9FEcFFf148fefab273D8B54C237",
             "decimals": 18
         }
     ]
