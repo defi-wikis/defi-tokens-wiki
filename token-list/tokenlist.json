@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T12:18:59.565Z",
+    "timestamp": "2020-09-27T12:20:24.973Z",
     "version": {
         "major": 1,
-        "minor": 3130,
+        "minor": 3131,
         "patch": 0
     },
     "keywords": [
@@ -20629,6 +20629,13 @@
             "symbol": "QDD",
             "address": "0x314f0fc514e154ECAaDaEc2A6d1Be96f4CD05adA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "USD Oin one",
+            "symbol": "USDO1",
+            "address": "0x88EEC3873ac22DA27a836F7f63883DA4771C96F1",
+            "decimals": 8
         }
     ]
 }
