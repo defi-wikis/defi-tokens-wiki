@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T13:50:45.429Z",
+    "timestamp": "2020-09-27T13:54:49.384Z",
     "version": {
         "major": 1,
-        "minor": 3147,
+        "minor": 3148,
         "patch": 0
     },
     "keywords": [
@@ -20747,6 +20747,13 @@
             "name": "SONTOKEN",
             "symbol": "SON",
             "address": "0x0c17398EbBCB15078F2aD2C67A26d10623957b21",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Salad.Finance",
+            "symbol": "SLD",
+            "address": "0x8Ed771286C1DdE7e10Bc661BB8F073a37911A9B9",
             "decimals": 18
         }
     ]
