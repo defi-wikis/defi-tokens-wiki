@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T09:32:29.591Z",
+    "timestamp": "2020-09-27T09:47:54.757Z",
     "version": {
         "major": 1,
-        "minor": 3103,
+        "minor": 3104,
         "patch": 0
     },
     "keywords": [
@@ -20439,6 +20439,13 @@
             "name": "salad.finance",
             "symbol": "Salad",
             "address": "0xCf58Dea5933BD8B25b4E3166709B9998Bae14B83",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pickle Rick",
+            "symbol": "Rick",
+            "address": "0x2E0Be2573B8cC4bF8C1D85E6DDC64c1dAc2a283f",
             "decimals": 18
         }
     ]
