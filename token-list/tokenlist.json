@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T19:15:49.700Z",
+    "timestamp": "2020-09-27T19:24:14.822Z",
     "version": {
         "major": 1,
-        "minor": 3198,
+        "minor": 3199,
         "patch": 0
     },
     "keywords": [
@@ -21104,6 +21104,13 @@
             "name": "RocketNUT",
             "symbol": "RNUT",
             "address": "0xE1c63B765EcE9dB905e991595e2009a01354BC91",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "polkastarter.com",
+            "symbol": "POLS",
+            "address": "0x807A925F4654C8f61572E604BA3Cf6327E6496C5",
             "decimals": 18
         }
     ]
