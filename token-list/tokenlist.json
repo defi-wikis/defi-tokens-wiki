@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T06:12:19.323Z",
+    "timestamp": "2020-09-27T06:28:29.466Z",
     "version": {
         "major": 1,
-        "minor": 3087,
+        "minor": 3088,
         "patch": 0
     },
     "keywords": [
@@ -20327,6 +20327,13 @@
             "name": "polkastarter.com",
             "symbol": "POLS",
             "address": "0x69Ba2b9D6A86B4f2498C48aaa617953a4A9dFfC1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GGG Finance",
+            "symbol": "GGG",
+            "address": "0x91ea388F6aAFf44F667587109200cc75377F1234",
             "decimals": 18
         }
     ]
