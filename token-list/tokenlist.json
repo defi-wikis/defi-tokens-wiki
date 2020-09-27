@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T21:49:49.852Z",
+    "timestamp": "2020-09-27T21:57:30.577Z",
     "version": {
         "major": 1,
-        "minor": 3223,
+        "minor": 3224,
         "patch": 0
     },
     "keywords": [
@@ -21279,6 +21279,13 @@
             "name": "Casperlabs",
             "symbol": "clx",
             "address": "0x2Da192bCBB7B2b870eDF65BDF6e31bcB9a61c2b7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAYCON",
+            "symbol": "LAYCOIN",
+            "address": "0xE1ca8EcE87E39E42C67Be973b2a25F9b481F0A85",
             "decimals": 18
         }
     ]
