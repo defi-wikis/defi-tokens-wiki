@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T23:47:15.240Z",
+    "timestamp": "2020-09-27T23:55:35.972Z",
     "version": {
         "major": 1,
-        "minor": 3237,
+        "minor": 3238,
         "patch": 0
     },
     "keywords": [
@@ -21377,6 +21377,13 @@
             "name": "OneUtility",
             "symbol": "OUT",
             "address": "0xD1Fcd9f95965054Fc41405AbC129D9f69Ecb7c63",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "frat.finance",
+            "symbol": "FRAT",
+            "address": "0x558e636d7d3b2697fF0C7FC41A834d0d1be0D382",
             "decimals": 18
         }
     ]
