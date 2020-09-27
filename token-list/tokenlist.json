@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T17:34:34.493Z",
+    "timestamp": "2020-09-27T17:56:50.283Z",
     "version": {
         "major": 1,
-        "minor": 3188,
+        "minor": 3189,
         "patch": 0
     },
     "keywords": [
@@ -21034,6 +21034,13 @@
             "name": "Xerox Finance",
             "symbol": "XRFI",
             "address": "0xB993944776F9518dc7e2d9FC693Fd9de64c644d0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mizx Finance",
+            "symbol": "MXFI",
+            "address": "0x8fb0D39D9810df2969BeA4587eC4f7738185D218",
             "decimals": 18
         }
     ]
