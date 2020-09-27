@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T23:55:35.972Z",
+    "timestamp": "2020-09-27T23:59:29.765Z",
     "version": {
         "major": 1,
-        "minor": 3238,
+        "minor": 3239,
         "patch": 0
     },
     "keywords": [
@@ -21384,6 +21384,13 @@
             "name": "frat.finance",
             "symbol": "FRAT",
             "address": "0x558e636d7d3b2697fF0C7FC41A834d0d1be0D382",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Milky Way protocol @ mwprotocol.space",
+            "symbol": "WAY",
+            "address": "0xD5AE3cF48beB054b61737a9B668F58d316B94174",
             "decimals": 18
         }
     ]
