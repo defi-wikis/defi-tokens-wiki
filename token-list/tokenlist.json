@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:33:50.661Z",
+    "timestamp": "2020-09-28T14:34:40.632Z",
     "version": {
         "major": 1,
-        "minor": 3370,
+        "minor": 3371,
         "patch": 0
     },
     "keywords": [
@@ -22298,6 +22298,13 @@
             "name": "Orb 2.0",
             "symbol": "ORB2",
             "address": "0x8BDC46B2132FDf82bC53B3A36209023969a7Bc97",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Diamond.finance",
+            "symbol": "DDF",
+            "address": "0x6B892d873BCCd9bEd5A012B82f60A9414a7eEaE2",
             "decimals": 18
         }
     ]
