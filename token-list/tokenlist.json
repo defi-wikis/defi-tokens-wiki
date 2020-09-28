@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:53:45.993Z",
+    "timestamp": "2020-09-28T07:54:10.197Z",
     "version": {
         "major": 1,
-        "minor": 3315,
+        "minor": 3316,
         "patch": 0
     },
     "keywords": [
@@ -21923,6 +21923,13 @@
             "name": "PlotX.io",
             "symbol": "PLOT",
             "address": "0xB4FeE7a724b960bc175f48e12725024B8C2D7D87",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEX",
+            "symbol": "MEX",
+            "address": "0x5C81E342a89800563AD3E7Abf20C237DfDAebf29",
             "decimals": 18
         }
     ]
