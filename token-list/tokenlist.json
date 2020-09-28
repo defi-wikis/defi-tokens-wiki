@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T12:43:09.592Z",
+    "timestamp": "2020-09-28T12:49:50.576Z",
     "version": {
         "major": 1,
-        "minor": 3355,
+        "minor": 3356,
         "patch": 0
     },
     "keywords": [
@@ -22204,6 +22204,13 @@
             "symbol": "ANO",
             "address": "0x54c7A5Fd47EB63A715E825bdBA71Bce6f8bFF337",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "UpSwing",
+            "symbol": "UPStkn",
+            "address": "0xC85aEBd0CeE171512910d40f7a7eEa6DE71fcbCd",
+            "decimals": 18
         }
     ]
 }
