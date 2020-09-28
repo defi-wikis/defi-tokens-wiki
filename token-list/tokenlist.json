@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T12:49:50.576Z",
+    "timestamp": "2020-09-28T13:01:25.779Z",
     "version": {
         "major": 1,
-        "minor": 3356,
+        "minor": 3357,
         "patch": 0
     },
     "keywords": [
@@ -22210,6 +22210,13 @@
             "name": "UpSwing",
             "symbol": "UPStkn",
             "address": "0xC85aEBd0CeE171512910d40f7a7eEa6DE71fcbCd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Free wealth coin",
+            "symbol": "FWC",
+            "address": "0xb3e97e4397C97052ABFE9E43C15ba988f9a1aBE8",
             "decimals": 18
         }
     ]
