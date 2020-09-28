@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:26:29.884Z",
+    "timestamp": "2020-09-28T05:26:55.855Z",
     "version": {
         "major": 1,
-        "minor": 3279,
+        "minor": 3280,
         "patch": 0
     },
     "keywords": [
@@ -21671,6 +21671,13 @@
             "name": "dokidoki.finance",
             "symbol": "DOKI",
             "address": "0x7C7E16F0C9816298bD5f4bb414B6f1D7a5284887",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlotX.io",
+            "symbol": "PLOT",
+            "address": "0x30C87bdFa7C825c5C1A5f6618A440f7204B26462",
             "decimals": 18
         }
     ]
