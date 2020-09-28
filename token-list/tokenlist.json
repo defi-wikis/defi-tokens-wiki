@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:33:07.981Z",
+    "timestamp": "2020-09-28T05:34:44.720Z",
     "version": {
         "major": 1,
-        "minor": 3282,
+        "minor": 3283,
         "patch": 0
     },
     "keywords": [
@@ -21692,6 +21692,13 @@
             "name": "bebop.finance",
             "symbol": "BBOP",
             "address": "0x4F2718a3e86a47981fcfEcd3BbFe6f1D204D1768",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuyfox.org",
+            "symbol": "$FOX",
+            "address": "0x08BE0eC6483858e48Cc9f2F7f30C58589e170Db7",
             "decimals": 18
         }
     ]
