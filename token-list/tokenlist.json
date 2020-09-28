@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T16:19:34.849Z",
+    "timestamp": "2020-09-28T16:19:39.968Z",
     "version": {
         "major": 1,
-        "minor": 3390,
+        "minor": 3391,
         "patch": 0
     },
     "keywords": [
@@ -22438,6 +22438,13 @@
             "name": "yLand (Yearn Land)",
             "symbol": "YLAND",
             "address": "0xc7d6194D267edF013Abe8C3bB6A07A16A41D1083",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BetProtocolToken",
+            "symbol": "BEPRO",
+            "address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
             "decimals": 18
         }
     ]
