@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T21:21:30.238Z",
+    "timestamp": "2020-09-28T21:22:20.266Z",
     "version": {
         "major": 1,
-        "minor": 3428,
+        "minor": 3429,
         "patch": 0
     },
     "keywords": [
@@ -22704,6 +22704,13 @@
             "name": "Orb II",
             "symbol": "ORB2",
             "address": "0x89c84104F320cBE18e380b026B461f5eFA763680",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cVaultXP.finance",
+            "symbol": "COREXP",
+            "address": "0xa6E10f467ca603C43BeD7701d06b62C87536dC8E",
             "decimals": 18
         }
     ]
