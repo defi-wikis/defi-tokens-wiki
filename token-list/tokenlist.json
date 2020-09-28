@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:47:06.792Z",
+    "timestamp": "2020-09-28T18:55:14.922Z",
     "version": {
         "major": 1,
-        "minor": 3410,
+        "minor": 3411,
         "patch": 0
     },
     "keywords": [
@@ -22578,6 +22578,13 @@
             "name": "STEAM",
             "symbol": "STEAM",
             "address": "0xC67a3b1587B2421728750294f0A049E98Eb0DA65",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chaos Network",
+            "symbol": "CHAOS",
+            "address": "0xd776bD746029f7A249fA9De475BA348cE7D16AD0",
             "decimals": 18
         }
     ]
