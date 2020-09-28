@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:33:54.532Z",
+    "timestamp": "2020-09-28T06:42:20.769Z",
     "version": {
         "major": 1,
-        "minor": 3297,
+        "minor": 3298,
         "patch": 0
     },
     "keywords": [
@@ -21798,6 +21798,13 @@
             "symbol": "YCORE",
             "address": "0xbB5958767c8286bD1F86030e731549498e5323f7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UKF",
+            "symbol": "UKF",
+            "address": "0x57B177859e78e2f2b963B8FA76E7ce73869f5CA4",
+            "decimals": 8
         }
     ]
 }
