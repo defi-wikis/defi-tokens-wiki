@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T17:17:59.932Z",
+    "timestamp": "2020-09-28T17:22:06.446Z",
     "version": {
         "major": 1,
-        "minor": 3401,
+        "minor": 3402,
         "patch": 0
     },
     "keywords": [
@@ -22515,6 +22515,13 @@
             "name": "ForkFinance",
             "symbol": "FRK",
             "address": "0xEb1E8cED2A20305E5C03E0bD89d9C6135F98EeC3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bellevue Network",
+            "symbol": "BLV",
+            "address": "0x8DA25B8eD753a5910013167945A676921e864436",
             "decimals": 18
         }
     ]
