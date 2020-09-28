@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:54:07.585Z",
+    "timestamp": "2020-09-28T06:11:07.232Z",
     "version": {
         "major": 1,
-        "minor": 3290,
+        "minor": 3291,
         "patch": 0
     },
     "keywords": [
@@ -21748,6 +21748,13 @@
             "name": "FomoSwap.me",
             "symbol": "FOMO",
             "address": "0xB7C27b6C822DD38d740471518bBACF1D79B9844F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dontbuyfox.org",
+            "symbol": "FOX$",
+            "address": "0x280db778B4DbdEa1e8B4703AeE6a29402c1050F4",
             "decimals": 18
         }
     ]
