@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:46:10.282Z",
+    "timestamp": "2020-09-28T10:46:15.670Z",
     "version": {
         "major": 1,
-        "minor": 3337,
+        "minor": 3338,
         "patch": 0
     },
     "keywords": [
@@ -22078,6 +22078,13 @@
             "symbol": "BSVu",
             "address": "0xCa9Ad5f9bb8431c5E9368DbEd915E234fb640574",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QBTC",
+            "symbol": "QBTC",
+            "address": "0x9Eac3Dfa8DcC22eF08c57085C654DC6e21Eb511A",
+            "decimals": 8
         }
     ]
 }
