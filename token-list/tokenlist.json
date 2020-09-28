@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T20:06:39.812Z",
+    "timestamp": "2020-09-28T20:28:09.758Z",
     "version": {
         "major": 1,
-        "minor": 3420,
+        "minor": 3421,
         "patch": 0
     },
     "keywords": [
@@ -22648,6 +22648,13 @@
             "name": "Artchain Global Token",
             "symbol": "ACG",
             "address": "0x984C134A8809571993Fd1573fB99F06Dc61E216f",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Super Trip Chain",
+            "symbol": "SUPT",
+            "address": "0x868ab6C9E560Ff70584b9770d1Bd1b961AD09d82",
             "decimals": 8
         }
     ]
