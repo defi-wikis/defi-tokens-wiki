@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T11:13:39.714Z",
+    "timestamp": "2020-09-28T11:16:15.187Z",
     "version": {
         "major": 1,
-        "minor": 3343,
+        "minor": 3344,
         "patch": 0
     },
     "keywords": [
@@ -22120,6 +22120,13 @@
             "symbol": "QBCH",
             "address": "0xb9DB7A804677F6A0E09e0591d6333048F3dbEf69",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "LuaToken",
+            "symbol": "LUA",
+            "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+            "decimals": 18
         }
     ]
 }
