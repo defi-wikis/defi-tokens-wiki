@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T15:21:35.161Z",
+    "timestamp": "2020-09-28T15:33:39.646Z",
     "version": {
         "major": 1,
-        "minor": 3381,
+        "minor": 3382,
         "patch": 0
     },
     "keywords": [
@@ -22375,6 +22375,13 @@
             "name": "Hali Network",
             "symbol": "HALI",
             "address": "0xb778F202ad2c411102cE92DDD8fE06dF30ea34B3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LEMON",
+            "symbol": "LEM",
+            "address": "0xEe863e0cF0DB51DF7c8CEa98961c8726E3573fbf",
             "decimals": 18
         }
     ]
