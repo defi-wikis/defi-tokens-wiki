@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T11:19:14.868Z",
+    "timestamp": "2020-09-28T11:24:25.107Z",
     "version": {
         "major": 1,
-        "minor": 3345,
+        "minor": 3346,
         "patch": 0
     },
     "keywords": [
@@ -22134,6 +22134,13 @@
             "symbol": "LCTFI",
             "address": "0x7AC58e48eE34D4Dd26A0adF8851423b06F57B19a",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QEOS",
+            "symbol": "QEOS",
+            "address": "0xF0433a80fd99B8da25D473181Cf5bAFef1484EBA",
+            "decimals": 4
         }
     ]
 }
