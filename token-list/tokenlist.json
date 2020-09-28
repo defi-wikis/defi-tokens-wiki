@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T15:38:14.959Z",
+    "timestamp": "2020-09-28T15:38:29.953Z",
     "version": {
         "major": 1,
-        "minor": 3384,
+        "minor": 3385,
         "patch": 0
     },
     "keywords": [
@@ -22396,6 +22396,13 @@
             "name": "Elastic",
             "symbol": "ESC",
             "address": "0xb19e6149494d6b4BE254CFFA073196463c041Bbe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0x9507568a74B0E43456b902AdeA648D3F6954f570",
             "decimals": 18
         }
     ]
