@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:05:25.719Z",
+    "timestamp": "2020-09-28T22:10:50.024Z",
     "version": {
         "major": 1,
-        "minor": 3432,
+        "minor": 3433,
         "patch": 0
     },
     "keywords": [
@@ -22732,6 +22732,13 @@
             "name": "Eminence SNX",
             "symbol": "eSNX",
             "address": "0xd77c2Ab1Cd0fAA4b79E16a0E7472cB222a9eE175",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence LINK",
+            "symbol": "eLINK",
+            "address": "0xE4FfD682380c571a6a07DD8F20B402412E02830E",
             "decimals": 18
         }
     ]
