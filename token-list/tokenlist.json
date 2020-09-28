@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T00:27:10.052Z",
+    "timestamp": "2020-09-28T00:28:07.061Z",
     "version": {
         "major": 1,
-        "minor": 3245,
+        "minor": 3246,
         "patch": 0
     },
     "keywords": [
@@ -21433,6 +21433,13 @@
             "name": "Moons [Official Uniswap]",
             "symbol": "xMOON",
             "address": "0x028Aa75A70ddc7428D9cEF884221879e27916b14",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XCORE",
+            "symbol": "xCORE",
+            "address": "0x50E22F69245A3f233713CB047339d64C3f54e49e",
             "decimals": 18
         }
     ]
