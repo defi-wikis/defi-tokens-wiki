@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T04:45:59.528Z",
+    "timestamp": "2020-09-28T05:00:12.591Z",
     "version": {
         "major": 1,
-        "minor": 3269,
+        "minor": 3270,
         "patch": 0
     },
     "keywords": [
@@ -21601,6 +21601,13 @@
             "name": "Coer.finance",
             "symbol": "COER",
             "address": "0x4375041cD420B6e86fd7Eaf18b2ED8bBCDBF1927",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soft Protocol",
+            "symbol": "SOFT",
+            "address": "0x3639501e534768BEB61026457A7B67CAf1C9257F",
             "decimals": 18
         }
     ]
