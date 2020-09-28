@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T09:19:47.430Z",
+    "timestamp": "2020-09-28T09:59:14.789Z",
     "version": {
         "major": 1,
-        "minor": 3328,
+        "minor": 3329,
         "patch": 0
     },
     "keywords": [
@@ -22014,6 +22014,13 @@
             "name": "RFUEL",
             "symbol": "RFUEL",
             "address": "0x5fF15C203C34D6d68bA6811bF4955e68aCd6Be62",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAYCON",
+            "symbol": "LAYCON",
+            "address": "0x39821653B27712F3ef5f63A1DFD92b3296490aC9",
             "decimals": 18
         }
     ]
