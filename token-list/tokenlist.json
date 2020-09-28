@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T20:28:09.758Z",
+    "timestamp": "2020-09-28T20:34:35.028Z",
     "version": {
         "major": 1,
-        "minor": 3421,
+        "minor": 3422,
         "patch": 0
     },
     "keywords": [
@@ -22656,6 +22656,13 @@
             "symbol": "SUPT",
             "address": "0x868ab6C9E560Ff70584b9770d1Bd1b961AD09d82",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "RIVEX.io",
+            "symbol": "RVX",
+            "address": "0x88d073D8887e534eE870A5D714416D7761B8bdB2",
+            "decimals": 18
         }
     ]
 }
