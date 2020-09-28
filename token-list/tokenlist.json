@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:54:32.314Z",
+    "timestamp": "2020-09-28T23:55:49.888Z",
     "version": {
         "major": 1,
-        "minor": 3447,
+        "minor": 3448,
         "patch": 0
     },
     "keywords": [
@@ -22838,6 +22838,13 @@
             "symbol": "GIVE",
             "address": "0x9D0b27912BC803aE407D4dE5bf84889c4ECDBeE7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Milkyway Protocol",
+            "symbol": "WAY",
+            "address": "0x9F49A6d5e83eC8Bccc1cB14A2B0401CCe0Cd8790",
+            "decimals": 10
         }
     ]
 }
