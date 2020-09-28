@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:03:07.333Z",
+    "timestamp": "2020-09-28T10:05:14.689Z",
     "version": {
         "major": 1,
-        "minor": 3330,
+        "minor": 3331,
         "patch": 0
     },
     "keywords": [
@@ -22028,6 +22028,13 @@
             "name": "Rio Fuel Token",
             "symbol": "RFUEL",
             "address": "0x9f6e37A2F9736456F778EB99D9981B228Bb6345C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rio Fuel Token",
+            "symbol": "RFUEL",
+            "address": "0x13cd90c36881d03f4953f627AbBA20D6aB7fabae",
             "decimals": 18
         }
     ]
