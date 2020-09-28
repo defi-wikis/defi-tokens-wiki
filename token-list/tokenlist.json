@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T21:18:15.038Z",
+    "timestamp": "2020-09-28T21:21:30.238Z",
     "version": {
         "major": 1,
-        "minor": 3427,
+        "minor": 3428,
         "patch": 0
     },
     "keywords": [
@@ -22697,6 +22697,13 @@
             "name": "Y",
             "symbol": "Y",
             "address": "0x5701B54C9E55d8A735B90E4CD637761B8deDFc2e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orb II",
+            "symbol": "ORB2",
+            "address": "0x89c84104F320cBE18e380b026B461f5eFA763680",
             "decimals": 18
         }
     ]
