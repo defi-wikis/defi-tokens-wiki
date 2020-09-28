@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-27T23:59:29.765Z",
+    "timestamp": "2020-09-28T00:02:59.392Z",
     "version": {
         "major": 1,
-        "minor": 3239,
+        "minor": 3240,
         "patch": 0
     },
     "keywords": [
@@ -21391,6 +21391,13 @@
             "name": "Milky Way protocol @ mwprotocol.space",
             "symbol": "WAY",
             "address": "0xD5AE3cF48beB054b61737a9B668F58d316B94174",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GAO",
+            "symbol": "GAO",
+            "address": "0x97Aee1dB450b47a626Be8491A5aC91d06eF62871",
             "decimals": 18
         }
     ]
