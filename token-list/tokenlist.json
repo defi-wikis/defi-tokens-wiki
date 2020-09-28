@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:21:15.518Z",
+    "timestamp": "2020-09-28T22:45:12.697Z",
     "version": {
         "major": 1,
-        "minor": 3435,
+        "minor": 3436,
         "patch": 0
     },
     "keywords": [
@@ -22754,6 +22754,13 @@
             "symbol": "eYFI",
             "address": "0xed35197CAdF01fcBFE6Cfc11081F299CFFb095BF",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoTrustConsulting",
+            "symbol": "CRTRC",
+            "address": "0xE30980CB82aFe59f38935fDd6D3B60E688877677",
+            "decimals": 0
         }
     ]
 }
