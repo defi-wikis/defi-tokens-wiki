@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:26:09.917Z",
+    "timestamp": "2020-09-28T18:29:06.746Z",
     "version": {
         "major": 1,
-        "minor": 3408,
+        "minor": 3409,
         "patch": 0
     },
     "keywords": [
@@ -22565,6 +22565,13 @@
             "symbol": "C0RE",
             "address": "0xf03A05812bD83Cf1457febfb169Ed4820C2245Af",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Amazon Finance",
+            "symbol": "AMAF",
+            "address": "0x9370071768EFAC22A89F1204E5FFc0F55a0a72EC",
+            "decimals": 0
         }
     ]
 }
