@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:20:10.021Z",
+    "timestamp": "2020-09-28T07:41:19.665Z",
     "version": {
         "major": 1,
-        "minor": 3310,
+        "minor": 3311,
         "patch": 0
     },
     "keywords": [
@@ -21888,6 +21888,13 @@
             "name": "HOPe",
             "symbol": "HOPE",
             "address": "0x1023B9e8c7993260e4DdAD0497489bF30dF2CB5c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEME-V2",
+            "symbol": "MEME-V2",
+            "address": "0x041Ada80e705a47FaBf71f22B3fc95821744Bc42",
             "decimals": 18
         }
     ]
