@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:05:24.999Z",
+    "timestamp": "2020-09-28T18:10:59.786Z",
     "version": {
         "major": 1,
-        "minor": 3405,
+        "minor": 3406,
         "patch": 0
     },
     "keywords": [
@@ -22543,6 +22543,13 @@
             "name": "WaffleFarm",
             "symbol": "WFFLE",
             "address": "0x2999d00eF6145a8C342712a1B48096Fa6b1062D3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Oper Network",
+            "symbol": "OPER",
+            "address": "0xd250A5f4309Ef16a6a4304d65160f83c1584081e",
             "decimals": 18
         }
     ]
