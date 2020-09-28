@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:55:09.936Z",
+    "timestamp": "2020-09-28T06:55:19.785Z",
     "version": {
         "major": 1,
-        "minor": 3303,
+        "minor": 3304,
         "patch": 0
     },
     "keywords": [
@@ -21839,6 +21839,13 @@
             "name": "BTswap Token",
             "symbol": "BT",
             "address": "0xCc3f2661a91E0f518928b33a0A7a403E9Ea6404f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlotX",
+            "symbol": "PLOT",
+            "address": "0xf44EfcC68f8694dE84824D66e08f2728Bd4ad9e9",
             "decimals": 18
         }
     ]
