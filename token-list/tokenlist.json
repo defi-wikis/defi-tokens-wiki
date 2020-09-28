@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T00:02:59.392Z",
+    "timestamp": "2020-09-28T00:03:25.275Z",
     "version": {
         "major": 1,
-        "minor": 3240,
+        "minor": 3241,
         "patch": 0
     },
     "keywords": [
@@ -21398,6 +21398,13 @@
             "name": "GAO",
             "symbol": "GAO",
             "address": "0x97Aee1dB450b47a626Be8491A5aC91d06eF62871",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlocBuy",
+            "symbol": "BBY",
+            "address": "0xaf5e6afA14a5DE9a48395869F4f887a63F7f755F",
             "decimals": 18
         }
     ]
