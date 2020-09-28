@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:07:59.656Z",
+    "timestamp": "2020-09-28T05:11:14.291Z",
     "version": {
         "major": 1,
-        "minor": 3271,
+        "minor": 3272,
         "patch": 0
     },
     "keywords": [
@@ -21615,6 +21615,13 @@
             "name": "xbtc.fi",
             "symbol": "XBTC",
             "address": "0x8846c58e33F5723885349C3EaC09729E4736eae0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AM.finance",
+            "symbol": "AMX",
+            "address": "0x25dB62F5d21cD1565dAf8dc51bF2eC33Dc710d6c",
             "decimals": 18
         }
     ]
