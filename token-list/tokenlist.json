@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T15:11:54.911Z",
+    "timestamp": "2020-09-28T15:13:55.649Z",
     "version": {
         "major": 1,
-        "minor": 3378,
+        "minor": 3379,
         "patch": 0
     },
     "keywords": [
@@ -22354,6 +22354,13 @@
             "name": "xeth.finance",
             "symbol": "XETH",
             "address": "0xD61F2EF60C7BFbd30597A5b27840D1E36d319774",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Capitaliz",
+            "symbol": "CAPI",
+            "address": "0xA5b43Ef395479250AA019dd471F33ce2900deF9f",
             "decimals": 18
         }
     ]
