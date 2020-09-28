@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:00:12.591Z",
+    "timestamp": "2020-09-28T05:07:59.656Z",
     "version": {
         "major": 1,
-        "minor": 3270,
+        "minor": 3271,
         "patch": 0
     },
     "keywords": [
@@ -21608,6 +21608,13 @@
             "name": "Soft Protocol",
             "symbol": "SOFT",
             "address": "0x3639501e534768BEB61026457A7B67CAf1C9257F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xbtc.fi",
+            "symbol": "XBTC",
+            "address": "0x8846c58e33F5723885349C3EaC09729E4736eae0",
             "decimals": 18
         }
     ]
