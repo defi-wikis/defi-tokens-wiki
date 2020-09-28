@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:20:10.750Z",
+    "timestamp": "2020-09-28T10:24:39.387Z",
     "version": {
         "major": 1,
-        "minor": 3333,
+        "minor": 3334,
         "patch": 0
     },
     "keywords": [
@@ -22049,6 +22049,13 @@
             "name": "LAYCON",
             "symbol": "LAYCON",
             "address": "0xbB9cB27D1ecb5Aa3f5cf980f9353D6Ff267aEf55",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YLITE STAKE CASH",
+            "symbol": "YCASH",
+            "address": "0x6d125645E0f379D6D12f0a3e798FC368BA6e3a0e",
             "decimals": 18
         }
     ]
