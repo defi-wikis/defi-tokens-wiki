@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:44:10.941Z",
+    "timestamp": "2020-09-28T06:52:14.833Z",
     "version": {
         "major": 1,
-        "minor": 3300,
+        "minor": 3301,
         "patch": 0
     },
     "keywords": [
@@ -21818,6 +21818,13 @@
             "name": "Ejoy Coin",
             "symbol": "EJOY",
             "address": "0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ipfs.finance",
+            "symbol": "IPFS",
+            "address": "0xf9f09BB6053C991987C95029ECfC58E809645b5c",
             "decimals": 18
         }
     ]
