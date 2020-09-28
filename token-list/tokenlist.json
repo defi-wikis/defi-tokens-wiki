@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:58:39.652Z",
+    "timestamp": "2020-09-28T19:01:14.908Z",
     "version": {
         "major": 1,
-        "minor": 3412,
+        "minor": 3413,
         "patch": 0
     },
     "keywords": [
@@ -22593,6 +22593,13 @@
             "symbol": "EMN",
             "address": "0x5ade7aE8660293F2ebfcEfaba91d141d72d221e8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "fewrtfewtgeWWWWwWw",
+            "symbol": "QWEWW",
+            "address": "0xE5C91e1d326Ab1ac2dCc8639316C5D92A4e11bAD",
+            "decimals": 8
         }
     ]
 }
