@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T01:40:39.758Z",
+    "timestamp": "2020-09-28T01:42:40.164Z",
     "version": {
         "major": 1,
-        "minor": 3250,
+        "minor": 3251,
         "patch": 0
     },
     "keywords": [
@@ -21468,6 +21468,13 @@
             "name": "COVID19",
             "symbol": "nCOV19",
             "address": "0xfc25807537bb564eEc11Ac7872262845945483F8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NinjaDao.co",
+            "symbol": "NJD",
+            "address": "0xff21547b25E4D41B622807f8957CCdCE1e2AaB3e",
             "decimals": 18
         }
     ]
