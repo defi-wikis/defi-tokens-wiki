@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:42:55.650Z",
+    "timestamp": "2020-09-28T06:44:10.941Z",
     "version": {
         "major": 1,
-        "minor": 3299,
+        "minor": 3300,
         "patch": 0
     },
     "keywords": [
@@ -21811,6 +21811,13 @@
             "name": "RnG.finance",
             "symbol": "RnG",
             "address": "0xe356e05c44C8DA61462c4c870AbFe7354D6e483C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ejoy Coin",
+            "symbol": "EJOY",
+            "address": "0xaC0741127CAC11E4455C7943b654bcCeD7FDD5A4",
             "decimals": 18
         }
     ]
