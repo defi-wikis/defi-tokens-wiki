@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T12:31:56.098Z",
+    "timestamp": "2020-09-28T12:43:09.592Z",
     "version": {
         "major": 1,
-        "minor": 3354,
+        "minor": 3355,
         "patch": 0
     },
     "keywords": [
@@ -22197,6 +22197,13 @@
             "symbol": "SGF",
             "address": "0xA6Dba9Be2d2faF685a2Ea3686de205ed2A42C298",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AnoborToken",
+            "symbol": "ANO",
+            "address": "0x54c7A5Fd47EB63A715E825bdBA71Bce6f8bFF337",
+            "decimals": 8
         }
     ]
 }
