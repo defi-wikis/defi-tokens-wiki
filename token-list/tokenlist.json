@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:30:59.383Z",
+    "timestamp": "2020-09-28T23:50:15.014Z",
     "version": {
         "major": 1,
-        "minor": 3445,
+        "minor": 3446,
         "patch": 0
     },
     "keywords": [
@@ -22823,6 +22823,13 @@
             "name": "YFMOONBEAM",
             "symbol": "YFMB",
             "address": "0x9C1c80C171c683f83cD960657BE934a6163ba1D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GIL",
+            "symbol": "GP",
+            "address": "0xD9194D9FFc638b4B406D899FE6fFF211E9Ab029d",
             "decimals": 18
         }
     ]
