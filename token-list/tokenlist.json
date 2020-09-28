@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:32:03.230Z",
+    "timestamp": "2020-09-28T14:33:50.661Z",
     "version": {
         "major": 1,
-        "minor": 3369,
+        "minor": 3370,
         "patch": 0
     },
     "keywords": [
@@ -22291,6 +22291,13 @@
             "name": "NovaToken",
             "symbol": "NOVA",
             "address": "0x7053b6e0430D0B475ca90dF1321249BE80B6ca45",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orb 2.0",
+            "symbol": "ORB2",
+            "address": "0x8BDC46B2132FDf82bC53B3A36209023969a7Bc97",
             "decimals": 18
         }
     ]
