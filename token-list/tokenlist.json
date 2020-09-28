@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:11:20.017Z",
+    "timestamp": "2020-09-28T05:13:10.866Z",
     "version": {
         "major": 1,
-        "minor": 3273,
+        "minor": 3274,
         "patch": 0
     },
     "keywords": [
@@ -21629,6 +21629,13 @@
             "name": "eCore.finance",
             "symbol": "eCore",
             "address": "0x6ba185991acF40c42F881F7128d8153F21183E55",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "stormswap.io",
+            "symbol": "STORM",
+            "address": "0x01Afa0ec445508343e64cBD717491eF152Ef823F",
             "decimals": 18
         }
     ]
