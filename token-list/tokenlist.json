@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:50:44.422Z",
+    "timestamp": "2020-09-28T11:04:10.576Z",
     "version": {
         "major": 1,
-        "minor": 3339,
+        "minor": 3340,
         "patch": 0
     },
     "keywords": [
@@ -22091,6 +22091,13 @@
             "name": "Tokenlon Token",
             "symbol": "LON",
             "address": "0x125aFEd1Eb0e75C20D919f875F0C952311a8AF40",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bijiasuo.info Token",
+            "symbol": "BJS",
+            "address": "0xf5f6293646bd4541BEa757f3642b9400C0912438",
             "decimals": 18
         }
     ]
