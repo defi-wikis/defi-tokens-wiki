@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:15:09.045Z",
+    "timestamp": "2020-09-28T14:32:03.230Z",
     "version": {
         "major": 1,
-        "minor": 3368,
+        "minor": 3369,
         "patch": 0
     },
     "keywords": [
@@ -22284,6 +22284,13 @@
             "name": "boosted.finance",
             "symbol": "$BOOST",
             "address": "0x8911949deC2D88122736826799A1185aF7397019",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NovaToken",
+            "symbol": "NOVA",
+            "address": "0x7053b6e0430D0B475ca90dF1321249BE80B6ca45",
             "decimals": 18
         }
     ]
