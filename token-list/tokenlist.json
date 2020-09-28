@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:16:19.735Z",
+    "timestamp": "2020-09-28T23:30:59.383Z",
     "version": {
         "major": 1,
-        "minor": 3444,
+        "minor": 3445,
         "patch": 0
     },
     "keywords": [
@@ -22816,6 +22816,13 @@
             "name": "Eminance",
             "symbol": "EMN",
             "address": "0x91CBA1Ac7a97d5B439Dc394b178CcAFfb3e2E84d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFMOONBEAM",
+            "symbol": "YFMB",
+            "address": "0x9C1c80C171c683f83cD960657BE934a6163ba1D2",
             "decimals": 18
         }
     ]
