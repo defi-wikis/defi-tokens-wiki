@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T17:22:06.446Z",
+    "timestamp": "2020-09-28T17:43:24.617Z",
     "version": {
         "major": 1,
-        "minor": 3402,
+        "minor": 3403,
         "patch": 0
     },
     "keywords": [
@@ -22522,6 +22522,13 @@
             "name": "Bellevue Network",
             "symbol": "BLV",
             "address": "0x8DA25B8eD753a5910013167945A676921e864436",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "fucking.finance",
+            "symbol": "FUCK",
+            "address": "0x0c7735dE538373113D9e10920caAeEF8d8E9258B",
             "decimals": 18
         }
     ]
