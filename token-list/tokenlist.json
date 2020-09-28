@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:10:02.034Z",
+    "timestamp": "2020-09-28T10:20:10.750Z",
     "version": {
         "major": 1,
-        "minor": 3332,
+        "minor": 3333,
         "patch": 0
     },
     "keywords": [
@@ -22042,6 +22042,13 @@
             "name": "Golden Phoenix",
             "symbol": "GPX",
             "address": "0x33b47e0145f7133A3ff30187dF8c73a03Fda110A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAYCON",
+            "symbol": "LAYCON",
+            "address": "0xbB9cB27D1ecb5Aa3f5cf980f9353D6Ff267aEf55",
             "decimals": 18
         }
     ]
