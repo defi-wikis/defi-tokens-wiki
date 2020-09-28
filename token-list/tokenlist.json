@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T13:01:25.779Z",
+    "timestamp": "2020-09-28T13:04:29.776Z",
     "version": {
         "major": 1,
-        "minor": 3357,
+        "minor": 3358,
         "patch": 0
     },
     "keywords": [
@@ -22217,6 +22217,13 @@
             "name": "Free wealth coin",
             "symbol": "FWC",
             "address": "0xb3e97e4397C97052ABFE9E43C15ba988f9a1aBE8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NOIA Token",
+            "symbol": "NOIA",
+            "address": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
             "decimals": 18
         }
     ]
