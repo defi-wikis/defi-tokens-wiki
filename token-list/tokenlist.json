@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T15:13:55.649Z",
+    "timestamp": "2020-09-28T15:17:40.255Z",
     "version": {
         "major": 1,
-        "minor": 3379,
+        "minor": 3380,
         "patch": 0
     },
     "keywords": [
@@ -22361,6 +22361,13 @@
             "name": "Capitaliz",
             "symbol": "CAPI",
             "address": "0xA5b43Ef395479250AA019dd471F33ce2900deF9f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PumpNdump",
+            "symbol": "PnD",
+            "address": "0x6B7855bd4aB9782F438Fc27bC2fa7858c5522c89",
             "decimals": 18
         }
     ]
