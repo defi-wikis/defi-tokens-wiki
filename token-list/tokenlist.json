@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:10:50.024Z",
+    "timestamp": "2020-09-28T22:14:34.840Z",
     "version": {
         "major": 1,
-        "minor": 3433,
+        "minor": 3434,
         "patch": 0
     },
     "keywords": [
@@ -22739,6 +22739,13 @@
             "name": "Eminence LINK",
             "symbol": "eLINK",
             "address": "0xE4FfD682380c571a6a07DD8F20B402412E02830E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Term Finance",
+            "symbol": "YTF",
+            "address": "0x88F5ae63B6adFE2E77667671D9c0A3d94975f2d3",
             "decimals": 18
         }
     ]
