@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:22:10.486Z",
+    "timestamp": "2020-09-28T18:26:09.917Z",
     "version": {
         "major": 1,
-        "minor": 3407,
+        "minor": 3408,
         "patch": 0
     },
     "keywords": [
@@ -22557,6 +22557,13 @@
             "name": "UpSwing",
             "symbol": "UPS",
             "address": "0x35a254223960c18B69C0526c46B013D022E93902",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COREv2",
+            "symbol": "C0RE",
+            "address": "0xf03A05812bD83Cf1457febfb169Ed4820C2245Af",
             "decimals": 18
         }
     ]
