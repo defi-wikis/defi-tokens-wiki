@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:28:55.317Z",
+    "timestamp": "2020-09-28T06:31:35.568Z",
     "version": {
         "major": 1,
-        "minor": 3295,
+        "minor": 3296,
         "patch": 0
     },
     "keywords": [
@@ -21784,6 +21784,13 @@
             "symbol": "Matcha",
             "address": "0x67C8C2F4A36687e33E1FdaDD44FFbAd5bd539FBf",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DeiPool.io",
+            "symbol": "DIP",
+            "address": "0xE07789e2F523FE53b79B22FA65CF4227736F522a",
+            "decimals": 18
         }
     ]
 }
