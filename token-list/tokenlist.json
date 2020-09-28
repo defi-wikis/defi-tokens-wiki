@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:58:49.810Z",
+    "timestamp": "2020-09-28T23:00:59.596Z",
     "version": {
         "major": 1,
-        "minor": 3441,
+        "minor": 3442,
         "patch": 0
     },
     "keywords": [
@@ -22795,6 +22795,13 @@
             "name": "NFTCARD",
             "symbol": "NFTC",
             "address": "0xf24D1f527FF7ce4b3aF7498280ba750a5a1a4C6e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "k.Vault.finance",
+            "symbol": "KERN",
+            "address": "0x60165F4030d4d49201217312febdDA144DA7Eb50",
             "decimals": 18
         }
     ]
