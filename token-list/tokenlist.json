@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T03:33:14.632Z",
+    "timestamp": "2020-09-28T03:54:14.278Z",
     "version": {
         "major": 1,
-        "minor": 3261,
+        "minor": 3262,
         "patch": 0
     },
     "keywords": [
@@ -21545,6 +21545,13 @@
             "name": "Orb 2.0",
             "symbol": "ORB2",
             "address": "0x9C433226b1A5FAf8C8F2Ac01D5283D1A6F94f762",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Solr Network",
+            "symbol": "SOLR",
+            "address": "0xEeBD662701158df5B3601a31aB4d6326c556cdeb",
             "decimals": 18
         }
     ]
