@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:31:35.568Z",
+    "timestamp": "2020-09-28T06:33:54.532Z",
     "version": {
         "major": 1,
-        "minor": 3296,
+        "minor": 3297,
         "patch": 0
     },
     "keywords": [
@@ -21790,6 +21790,13 @@
             "name": "DeiPool.io",
             "symbol": "DIP",
             "address": "0xE07789e2F523FE53b79B22FA65CF4227736F522a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCvault.Finance",
+            "symbol": "YCORE",
+            "address": "0xbB5958767c8286bD1F86030e731549498e5323f7",
             "decimals": 18
         }
     ]
