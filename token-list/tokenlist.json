@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T13:21:24.519Z",
+    "timestamp": "2020-09-28T13:30:30.390Z",
     "version": {
         "major": 1,
-        "minor": 3359,
+        "minor": 3360,
         "patch": 0
     },
     "keywords": [
@@ -22231,6 +22231,13 @@
             "name": "yfiburn.finance",
             "symbol": "YFIBURN",
             "address": "0xa525344015f28C7febF8497Fad149E48e0cb28C3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dCOCK",
+            "symbol": "dCOCK",
+            "address": "0x2e12072886Cea0Ca87aB307E24EC8E990F6fb7e3",
             "decimals": 18
         }
     ]
