@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T16:32:19.495Z",
+    "timestamp": "2020-09-28T16:55:20.577Z",
     "version": {
         "major": 1,
-        "minor": 3393,
+        "minor": 3394,
         "patch": 0
     },
     "keywords": [
@@ -22459,6 +22459,13 @@
             "name": "Hume Network",
             "symbol": "HUME",
             "address": "0x8554899E3eebA5797a98F7cb8223e28f531c7301",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ICETEA.Finance",
+            "symbol": "ICET",
+            "address": "0x8c5E6FdFa54B0027E10d9438E8515b6FA6c38FcC",
             "decimals": 18
         }
     ]
