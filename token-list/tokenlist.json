@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:34:44.720Z",
+    "timestamp": "2020-09-28T05:36:25.105Z",
     "version": {
         "major": 1,
-        "minor": 3283,
+        "minor": 3284,
         "patch": 0
     },
     "keywords": [
@@ -21699,6 +21699,13 @@
             "name": "dontbuyfox.org",
             "symbol": "$FOX",
             "address": "0x08BE0eC6483858e48Cc9f2F7f30C58589e170Db7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped ADK",
+            "symbol": "wADK",
+            "address": "0x8bf2348c091aE0e64f71Bb794C622C9e6Dca119F",
             "decimals": 18
         }
     ]
