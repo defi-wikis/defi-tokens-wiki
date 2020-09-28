@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T19:38:39.731Z",
+    "timestamp": "2020-09-28T19:58:44.558Z",
     "version": {
         "major": 1,
-        "minor": 3418,
+        "minor": 3419,
         "patch": 0
     },
     "keywords": [
@@ -22634,6 +22634,13 @@
             "name": "Bagel.Finance",
             "symbol": "YBGL",
             "address": "0x032c1cfC0C1a6C6960e551e8aAc16C1C973C3572",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnWealth.Finance",
+            "symbol": "YWF",
+            "address": "0x70ADd28509246026F08B7612303019E750b595E3",
             "decimals": 18
         }
     ]
