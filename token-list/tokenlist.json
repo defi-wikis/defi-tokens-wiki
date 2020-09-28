@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:02:39.580Z",
+    "timestamp": "2020-09-28T23:16:19.735Z",
     "version": {
         "major": 1,
-        "minor": 3443,
+        "minor": 3444,
         "patch": 0
     },
     "keywords": [
@@ -22809,6 +22809,13 @@
             "name": "Eminence.BTC",
             "symbol": "eBTC",
             "address": "0x13b5eD001B1d262a69e38f976A3D91D8900eCF39",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminance",
+            "symbol": "EMN",
+            "address": "0x91CBA1Ac7a97d5B439Dc394b178CcAFfb3e2E84d",
             "decimals": 18
         }
     ]
