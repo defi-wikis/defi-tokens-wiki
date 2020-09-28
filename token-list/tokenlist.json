@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:38:29.526Z",
+    "timestamp": "2020-09-28T14:38:35.379Z",
     "version": {
         "major": 1,
-        "minor": 3372,
+        "minor": 3373,
         "patch": 0
     },
     "keywords": [
@@ -22312,6 +22312,13 @@
             "name": "kush.finance",
             "symbol": "KSEED",
             "address": "0xECA1c0153E7a788726E14A0D0CB910a4d00A91FC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MMM Finance",
+            "symbol": "MMM",
+            "address": "0x06d40De491AA5946B7E18dF96c0BdA2a005B0c0f",
             "decimals": 18
         }
     ]
