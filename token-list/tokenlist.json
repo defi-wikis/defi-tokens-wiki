@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T20:34:35.028Z",
+    "timestamp": "2020-09-28T20:37:24.285Z",
     "version": {
         "major": 1,
-        "minor": 3422,
+        "minor": 3423,
         "patch": 0
     },
     "keywords": [
@@ -22662,6 +22662,13 @@
             "name": "RIVEX.io",
             "symbol": "RVX",
             "address": "0x88d073D8887e534eE870A5D714416D7761B8bdB2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFBoom",
+            "symbol": "YFB",
+            "address": "0x529f2866ecdE732F7fDD34aDAc8F3364a166C1d3",
             "decimals": 18
         }
     ]
