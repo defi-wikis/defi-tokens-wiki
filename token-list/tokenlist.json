@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:45:12.697Z",
+    "timestamp": "2020-09-28T22:47:50.214Z",
     "version": {
         "major": 1,
-        "minor": 3436,
+        "minor": 3437,
         "patch": 0
     },
     "keywords": [
@@ -22761,6 +22761,13 @@
             "symbol": "CRTRC",
             "address": "0xE30980CB82aFe59f38935fDd6D3B60E688877677",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "CHONK",
+            "symbol": "CHONK",
+            "address": "0x84679bc467DC6c2c40ab04538813AfF3796351f1",
+            "decimals": 18
         }
     ]
 }
