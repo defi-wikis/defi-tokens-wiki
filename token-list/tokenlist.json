@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T20:38:59.888Z",
+    "timestamp": "2020-09-28T20:45:40.049Z",
     "version": {
         "major": 1,
-        "minor": 3424,
+        "minor": 3425,
         "patch": 0
     },
     "keywords": [
@@ -22676,6 +22676,13 @@
             "name": "Speed Prove Dollar",
             "symbol": "SPD",
             "address": "0xa1763916956477d34836faa82599F9d812a83AED",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFV",
+            "symbol": "NFV",
+            "address": "0x5f0C0f1bb5f80d1778E8f2f811448166F5C00AFb",
             "decimals": 18
         }
     ]
