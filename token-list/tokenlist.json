@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T12:01:29.561Z",
+    "timestamp": "2020-09-28T12:10:39.787Z",
     "version": {
         "major": 1,
-        "minor": 3350,
+        "minor": 3351,
         "patch": 0
     },
     "keywords": [
@@ -22168,6 +22168,13 @@
             "name": "BridgeNode",
             "symbol": "BGN",
             "address": "0xdeDe73D1657648a071dB4e8B8C27E83f8B66323e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ramen.farm",
+            "symbol": "$RAMEN",
+            "address": "0x63abaFC53e70C6ba67768D739Ad23dcfCAA253E5",
             "decimals": 18
         }
     ]
