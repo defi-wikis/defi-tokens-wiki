@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T08:22:20.787Z",
+    "timestamp": "2020-09-28T08:27:25.510Z",
     "version": {
         "major": 1,
-        "minor": 3321,
+        "minor": 3322,
         "patch": 0
     },
     "keywords": [
@@ -21965,6 +21965,13 @@
             "name": "The Youth Consociation",
             "symbol": "TYC",
             "address": "0xB9713F4798EB20858d8544D24d1A63ccEE5e9D17",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AnonymousWhiteHat",
+            "symbol": "AWH",
+            "address": "0x74723cef0dF8a0ba1a3FAc56674ee7aF9055bDD5",
             "decimals": 18
         }
     ]
