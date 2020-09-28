@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:55:14.922Z",
+    "timestamp": "2020-09-28T18:58:39.652Z",
     "version": {
         "major": 1,
-        "minor": 3411,
+        "minor": 3412,
         "patch": 0
     },
     "keywords": [
@@ -22585,6 +22585,13 @@
             "name": "Chaos Network",
             "symbol": "CHAOS",
             "address": "0xd776bD746029f7A249fA9De475BA348cE7D16AD0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence",
+            "symbol": "EMN",
+            "address": "0x5ade7aE8660293F2ebfcEfaba91d141d72d221e8",
             "decimals": 18
         }
     ]
