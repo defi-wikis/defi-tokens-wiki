@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:08:02.177Z",
+    "timestamp": "2020-09-28T07:10:15.406Z",
     "version": {
         "major": 1,
-        "minor": 3307,
+        "minor": 3308,
         "patch": 0
     },
     "keywords": [
@@ -21868,6 +21868,13 @@
             "symbol": "BSC",
             "address": "0xAc1ec3143B89d5b263D9194Db216EA068e0F3DC9",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "DNB",
+            "symbol": "DNB",
+            "address": "0xe7BeDeec6E1338AaEe57E6eeac6b0BA9aD49655f",
+            "decimals": 18
         }
     ]
 }
