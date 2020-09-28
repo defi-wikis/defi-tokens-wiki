@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T00:25:34.487Z",
+    "timestamp": "2020-09-28T00:27:10.052Z",
     "version": {
         "major": 1,
-        "minor": 3244,
+        "minor": 3245,
         "patch": 0
     },
     "keywords": [
@@ -21426,6 +21426,13 @@
             "name": "Yearn Land",
             "symbol": "yLand",
             "address": "0xd0658324074D6249a51876438916f7C423075451",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Moons [Official Uniswap]",
+            "symbol": "xMOON",
+            "address": "0x028Aa75A70ddc7428D9cEF884221879e27916b14",
             "decimals": 18
         }
     ]
