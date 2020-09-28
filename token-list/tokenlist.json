@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T04:11:07.342Z",
+    "timestamp": "2020-09-28T04:23:14.420Z",
     "version": {
         "major": 1,
-        "minor": 3266,
+        "minor": 3267,
         "patch": 0
     },
     "keywords": [
@@ -21580,6 +21580,13 @@
             "name": "dandy.dego",
             "symbol": "DANDY",
             "address": "0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "tokenLON",
+            "symbol": "LON",
+            "address": "0x68157Ef53CB97F5382Dd2c94B9C5E7B08274D387",
             "decimals": 18
         }
     ]
