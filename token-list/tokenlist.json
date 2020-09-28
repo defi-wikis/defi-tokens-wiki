@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T08:28:24.729Z",
+    "timestamp": "2020-09-28T08:31:05.823Z",
     "version": {
         "major": 1,
-        "minor": 3323,
+        "minor": 3324,
         "patch": 0
     },
     "keywords": [
@@ -21979,6 +21979,13 @@
             "name": "MEME",
             "symbol": "MEME",
             "address": "0x9eB09Fe38903436267Baa548889A4D27825933C7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bebop.finance",
+            "symbol": "BBOP",
+            "address": "0x470E8aF7C1597ca66Ea485D5Fd591d4431E776e5",
             "decimals": 18
         }
     ]
