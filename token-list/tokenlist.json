@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T21:51:39.527Z",
+    "timestamp": "2020-09-28T22:05:19.700Z",
     "version": {
         "major": 1,
-        "minor": 3430,
+        "minor": 3431,
         "patch": 0
     },
     "keywords": [
@@ -22719,6 +22719,13 @@
             "symbol": "YVFF",
             "address": "0x0D3032Ec7a00Fd5153c86C9A872aD13561945812",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence CRV",
+            "symbol": "eCRV",
+            "address": "0xB387E90367f1e621E656900Ed2A762dc7D71da8C",
+            "decimals": 18
         }
     ]
 }
