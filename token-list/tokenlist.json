@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T01:26:07.201Z",
+    "timestamp": "2020-09-28T01:33:15.566Z",
     "version": {
         "major": 1,
-        "minor": 3248,
+        "minor": 3249,
         "patch": 0
     },
     "keywords": [
@@ -21454,6 +21454,13 @@
             "name": "Cofe.finance",
             "symbol": "COFE",
             "address": "0x3cab1536AA30a0A5d63CF4D156cEf72623C412F1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "efuel.finance",
+            "symbol": "YFUEL",
+            "address": "0x604C55D6CEe69A67d33881B626e0eCDb9Db35603",
             "decimals": 18
         }
     ]
