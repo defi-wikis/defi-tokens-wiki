@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:24:39.387Z",
+    "timestamp": "2020-09-28T10:32:11.322Z",
     "version": {
         "major": 1,
-        "minor": 3334,
+        "minor": 3335,
         "patch": 0
     },
     "keywords": [
@@ -22056,6 +22056,13 @@
             "name": "YLITE STAKE CASH",
             "symbol": "YCASH",
             "address": "0x6d125645E0f379D6D12f0a3e798FC368BA6e3a0e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iVaultfinance",
+            "symbol": "CORE",
+            "address": "0xC2682f9200bb3EF57157bDcF990fc4c8B2a4f7B1",
             "decimals": 18
         }
     ]
