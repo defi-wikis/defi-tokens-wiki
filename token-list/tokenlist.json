@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T16:19:39.968Z",
+    "timestamp": "2020-09-28T16:31:35.822Z",
     "version": {
         "major": 1,
-        "minor": 3391,
+        "minor": 3392,
         "patch": 0
     },
     "keywords": [
@@ -22445,6 +22445,13 @@
             "name": "BetProtocolToken",
             "symbol": "BEPRO",
             "address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "tentimes.io",
+            "symbol": "TEN",
+            "address": "0x4fC767D323dF43caD4Cb64b7832A5Db9c4e7B2Cf",
             "decimals": 18
         }
     ]
