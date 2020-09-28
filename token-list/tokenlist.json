@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:42:34.362Z",
+    "timestamp": "2020-09-28T07:46:05.857Z",
     "version": {
         "major": 1,
-        "minor": 3313,
+        "minor": 3314,
         "patch": 0
     },
     "keywords": [
@@ -21909,6 +21909,13 @@
             "name": "CSDB",
             "symbol": "CSDB",
             "address": "0x36930089a9bd4Cd9e9a831873546aBd0925D0A09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "https://coming.soon",
+            "symbol": "SOON",
+            "address": "0xbE53Fb7b86a71AD99C626F8F1bAde36e7784423d",
             "decimals": 18
         }
     ]
