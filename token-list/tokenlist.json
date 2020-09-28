@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T11:54:07.405Z",
+    "timestamp": "2020-09-28T11:59:39.795Z",
     "version": {
         "major": 1,
-        "minor": 3348,
+        "minor": 3349,
         "patch": 0
     },
     "keywords": [
@@ -22155,6 +22155,13 @@
             "symbol": "QLTC",
             "address": "0x6489E2bF1706855Bf8f3AA1DBA89a25F5aD49e57",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "TIMERS TOKEN @ TIMERS.NETWORK",
+            "symbol": "IPM",
+            "address": "0x3C8EF342CCE872c8Ee4A41B8539B3ce95E2fE699",
+            "decimals": 18
         }
     ]
 }
