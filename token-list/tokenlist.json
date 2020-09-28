@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:55:19.785Z",
+    "timestamp": "2020-09-28T06:58:09.988Z",
     "version": {
         "major": 1,
-        "minor": 3304,
+        "minor": 3305,
         "patch": 0
     },
     "keywords": [
@@ -21846,6 +21846,13 @@
             "name": "PlotX",
             "symbol": "PLOT",
             "address": "0xf44EfcC68f8694dE84824D66e08f2728Bd4ad9e9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MCC",
+            "symbol": "MCC",
+            "address": "0xf19f3ECc8C1A600eCCCDa6fA76D3F67BE0BC631E",
             "decimals": 18
         }
     ]
