@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T11:16:15.187Z",
+    "timestamp": "2020-09-28T11:19:14.868Z",
     "version": {
         "major": 1,
-        "minor": 3344,
+        "minor": 3345,
         "patch": 0
     },
     "keywords": [
@@ -22126,6 +22126,13 @@
             "name": "LuaToken",
             "symbol": "LUA",
             "address": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Locust.finance",
+            "symbol": "LCTFI",
+            "address": "0x7AC58e48eE34D4Dd26A0adF8851423b06F57B19a",
             "decimals": 18
         }
     ]
