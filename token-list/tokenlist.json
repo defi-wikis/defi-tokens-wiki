@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:11:14.291Z",
+    "timestamp": "2020-09-28T05:11:20.017Z",
     "version": {
         "major": 1,
-        "minor": 3272,
+        "minor": 3273,
         "patch": 0
     },
     "keywords": [
@@ -21622,6 +21622,13 @@
             "name": "AM.finance",
             "symbol": "AMX",
             "address": "0x25dB62F5d21cD1565dAf8dc51bF2eC33Dc710d6c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eCore.finance",
+            "symbol": "eCore",
+            "address": "0x6ba185991acF40c42F881F7128d8153F21183E55",
             "decimals": 18
         }
     ]
