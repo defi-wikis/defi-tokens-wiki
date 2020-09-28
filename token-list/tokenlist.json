@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T16:12:24.755Z",
+    "timestamp": "2020-09-28T16:19:34.849Z",
     "version": {
         "major": 1,
-        "minor": 3389,
+        "minor": 3390,
         "patch": 0
     },
     "keywords": [
@@ -22431,6 +22431,13 @@
             "name": "NToken0005",
             "symbol": "N0005",
             "address": "0xA7cB028F4194EaCE616CE6605387a335Ae95ED7f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yLand (Yearn Land)",
+            "symbol": "YLAND",
+            "address": "0xc7d6194D267edF013Abe8C3bB6A07A16A41D1083",
             "decimals": 18
         }
     ]
