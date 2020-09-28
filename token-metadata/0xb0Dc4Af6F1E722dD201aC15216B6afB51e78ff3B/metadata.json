@@ -1,0 +1,7 @@
+{
+    "name": "Beer Token",
+    "symbol": "BEER",
+    "address": "0xb0Dc4Af6F1E722dD201aC15216B6afB51e78ff3B",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
