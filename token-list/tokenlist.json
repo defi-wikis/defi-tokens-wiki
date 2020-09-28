@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T12:10:39.787Z",
+    "timestamp": "2020-09-28T12:12:39.601Z",
     "version": {
         "major": 1,
-        "minor": 3351,
+        "minor": 3352,
         "patch": 0
     },
     "keywords": [
@@ -22176,6 +22176,13 @@
             "symbol": "$RAMEN",
             "address": "0x63abaFC53e70C6ba67768D739Ad23dcfCAA253E5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DEFI Insurance Protocol",
+            "symbol": "DFIP",
+            "address": "0xd89A909648e28e8352b63b78007f7fF144f434E9",
+            "decimals": 8
         }
     ]
 }
