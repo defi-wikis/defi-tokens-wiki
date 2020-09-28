@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T13:04:29.776Z",
+    "timestamp": "2020-09-28T13:21:24.519Z",
     "version": {
         "major": 1,
-        "minor": 3358,
+        "minor": 3359,
         "patch": 0
     },
     "keywords": [
@@ -22224,6 +22224,13 @@
             "name": "NOIA Token",
             "symbol": "NOIA",
             "address": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfiburn.finance",
+            "symbol": "YFIBURN",
+            "address": "0xa525344015f28C7febF8497Fad149E48e0cb28C3",
             "decimals": 18
         }
     ]
