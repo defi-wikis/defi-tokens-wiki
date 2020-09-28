@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:59:11.123Z",
+    "timestamp": "2020-09-28T23:59:45.282Z",
     "version": {
         "major": 1,
-        "minor": 3449,
+        "minor": 3450,
         "patch": 0
     },
     "keywords": [
@@ -22851,6 +22851,13 @@
             "name": "YFMOONBEAM",
             "symbol": "YFMB",
             "address": "0x57328BFc0ff2787F11bD0cAdE29C2cDD1B44c917",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Milky Way protocol @ mwprotocol.space",
+            "symbol": "WAY",
+            "address": "0x88d38F9B8BbEE25667ab55bA4a8Cb986Ff1260f7",
             "decimals": 18
         }
     ]
