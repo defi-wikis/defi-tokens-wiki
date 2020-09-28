@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T17:54:14.546Z",
+    "timestamp": "2020-09-28T18:05:24.999Z",
     "version": {
         "major": 1,
-        "minor": 3404,
+        "minor": 3405,
         "patch": 0
     },
     "keywords": [
@@ -22536,6 +22536,13 @@
             "name": "GEFY Coin",
             "symbol": "GEFY",
             "address": "0xB31617D043E73E74cFD9245B26BF8525F533C6E7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WaffleFarm",
+            "symbol": "WFFLE",
+            "address": "0x2999d00eF6145a8C342712a1B48096Fa6b1062D3",
             "decimals": 18
         }
     ]
