@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:50:15.014Z",
+    "timestamp": "2020-09-28T23:54:32.314Z",
     "version": {
         "major": 1,
-        "minor": 3446,
+        "minor": 3447,
         "patch": 0
     },
     "keywords": [
@@ -22830,6 +22830,13 @@
             "name": "GIL",
             "symbol": "GP",
             "address": "0xD9194D9FFc638b4B406D899FE6fFF211E9Ab029d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "POOPOO.eth MEME POOL",
+            "symbol": "GIVE",
+            "address": "0x9D0b27912BC803aE407D4dE5bf84889c4ECDBeE7",
             "decimals": 18
         }
     ]
