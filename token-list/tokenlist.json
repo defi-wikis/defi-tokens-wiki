@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:52:21.042Z",
+    "timestamp": "2020-09-28T06:55:09.936Z",
     "version": {
         "major": 1,
-        "minor": 3302,
+        "minor": 3303,
         "patch": 0
     },
     "keywords": [
@@ -21832,6 +21832,13 @@
             "name": "UNIII",
             "symbol": "UNIII",
             "address": "0x586502Ac5Efa4Cc2420D1E90dA8135F52e1238e5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTswap Token",
+            "symbol": "BT",
+            "address": "0xCc3f2661a91E0f518928b33a0A7a403E9Ea6404f",
             "decimals": 18
         }
     ]
