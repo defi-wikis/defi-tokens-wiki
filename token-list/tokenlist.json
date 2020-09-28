@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T01:59:24.386Z",
+    "timestamp": "2020-09-28T02:07:24.822Z",
     "version": {
         "major": 1,
-        "minor": 3254,
+        "minor": 3255,
         "patch": 0
     },
     "keywords": [
@@ -21496,6 +21496,13 @@
             "name": "cVault.finance 2.0",
             "symbol": "CORE2",
             "address": "0x1978059065620458CB5fA6d02e392F7265FF5694",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "gato.farm",
+            "symbol": "GATO",
+            "address": "0x0468BeFb2CBdC1393a9c47d76f29cD5317358319",
             "decimals": 18
         }
     ]
