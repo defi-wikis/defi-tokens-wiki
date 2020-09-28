@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:03:30.554Z",
+    "timestamp": "2020-09-28T07:08:02.177Z",
     "version": {
         "major": 1,
-        "minor": 3306,
+        "minor": 3307,
         "patch": 0
     },
     "keywords": [
@@ -21861,6 +21861,13 @@
             "symbol": "CMN",
             "address": "0x04BDed3911D7F7403e47C4c0b24952BDbB6e6dE8",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcoin Startup Capital",
+            "symbol": "BSC",
+            "address": "0xAc1ec3143B89d5b263D9194Db216EA068e0F3DC9",
+            "decimals": 0
         }
     ]
 }
