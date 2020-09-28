@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:34:40.632Z",
+    "timestamp": "2020-09-28T14:38:29.526Z",
     "version": {
         "major": 1,
-        "minor": 3371,
+        "minor": 3372,
         "patch": 0
     },
     "keywords": [
@@ -22305,6 +22305,13 @@
             "name": "Diamond.finance",
             "symbol": "DDF",
             "address": "0x6B892d873BCCd9bEd5A012B82f60A9414a7eEaE2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "kush.finance",
+            "symbol": "KSEED",
+            "address": "0xECA1c0153E7a788726E14A0D0CB910a4d00A91FC",
             "decimals": 18
         }
     ]
