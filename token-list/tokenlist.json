@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:52:14.833Z",
+    "timestamp": "2020-09-28T06:52:21.042Z",
     "version": {
         "major": 1,
-        "minor": 3301,
+        "minor": 3302,
         "patch": 0
     },
     "keywords": [
@@ -21825,6 +21825,13 @@
             "name": "ipfs.finance",
             "symbol": "IPFS",
             "address": "0xf9f09BB6053C991987C95029ECfC58E809645b5c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIII",
+            "symbol": "UNIII",
+            "address": "0x586502Ac5Efa4Cc2420D1E90dA8135F52e1238e5",
             "decimals": 18
         }
     ]
