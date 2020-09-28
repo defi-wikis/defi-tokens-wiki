@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:44:30.512Z",
+    "timestamp": "2020-09-28T14:51:25.260Z",
     "version": {
         "major": 1,
-        "minor": 3374,
+        "minor": 3375,
         "patch": 0
     },
     "keywords": [
@@ -22326,6 +22326,13 @@
             "name": "Beer Token",
             "symbol": "BEER",
             "address": "0xb0Dc4Af6F1E722dD201aC15216B6afB51e78ff3B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ICETEA.Finance",
+            "symbol": "ICET",
+            "address": "0xa046fB7aEc9BC835b11e7325366C9f67634e44e4",
             "decimals": 18
         }
     ]
