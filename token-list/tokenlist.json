@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T02:20:14.907Z",
+    "timestamp": "2020-09-28T02:21:07.082Z",
     "version": {
         "major": 1,
-        "minor": 3256,
+        "minor": 3257,
         "patch": 0
     },
     "keywords": [
@@ -21510,6 +21510,13 @@
             "name": "cvault.finance",
             "symbol": "CVAULT",
             "address": "0xFeac240b1E354848b7aD6ff90BA2C13E9eBc378f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xunjie APP",
+            "symbol": "XAPP",
+            "address": "0x47b6468bD53831e953441B961401B3Acece369A7",
             "decimals": 18
         }
     ]
