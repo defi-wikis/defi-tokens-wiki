@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T08:48:54.830Z",
+    "timestamp": "2020-09-28T09:07:59.547Z",
     "version": {
         "major": 1,
-        "minor": 3326,
+        "minor": 3327,
         "patch": 0
     },
     "keywords": [
@@ -22000,6 +22000,13 @@
             "name": "Venus Protocol",
             "symbol": "XVS",
             "address": "0x784Ba86FC046D711B20620EFA2b6cAE4B190Ff44",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dokidoki.finance",
+            "symbol": "DOKI",
+            "address": "0x65d0899D85457854e9773AaD8b575e724C6D53de",
             "decimals": 18
         }
     ]
