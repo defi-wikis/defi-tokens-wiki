@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T08:34:07.021Z",
+    "timestamp": "2020-09-28T08:48:54.830Z",
     "version": {
         "major": 1,
-        "minor": 3325,
+        "minor": 3326,
         "patch": 0
     },
     "keywords": [
@@ -21993,6 +21993,13 @@
             "name": "xVault.Finance",
             "symbol": "xCORE",
             "address": "0x1C4DEE65cFa1757CA457D9D8Bf2e04808AF034ef",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Venus Protocol",
+            "symbol": "XVS",
+            "address": "0x784Ba86FC046D711B20620EFA2b6cAE4B190Ff44",
             "decimals": 18
         }
     ]
