@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T03:18:10.392Z",
+    "timestamp": "2020-09-28T03:27:49.770Z",
     "version": {
         "major": 1,
-        "minor": 3259,
+        "minor": 3260,
         "patch": 0
     },
     "keywords": [
@@ -21531,6 +21531,13 @@
             "name": "Flamingo",
             "symbol": "FLM",
             "address": "0x476618aaD252d12B56CA04FaAB6e537c4e8400AA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCvault.Finance",
+            "symbol": "YCORE",
+            "address": "0x10a711D48Fb22422b0b9c6E8ff05325789793f75",
             "decimals": 18
         }
     ]
