@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T08:31:05.823Z",
+    "timestamp": "2020-09-28T08:34:07.021Z",
     "version": {
         "major": 1,
-        "minor": 3324,
+        "minor": 3325,
         "patch": 0
     },
     "keywords": [
@@ -21986,6 +21986,13 @@
             "name": "bebop.finance",
             "symbol": "BBOP",
             "address": "0x470E8aF7C1597ca66Ea485D5Fd591d4431E776e5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xVault.Finance",
+            "symbol": "xCORE",
+            "address": "0x1C4DEE65cFa1757CA457D9D8Bf2e04808AF034ef",
             "decimals": 18
         }
     ]
