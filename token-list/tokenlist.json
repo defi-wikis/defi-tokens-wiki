@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:54:10.197Z",
+    "timestamp": "2020-09-28T07:55:36.722Z",
     "version": {
         "major": 1,
-        "minor": 3316,
+        "minor": 3317,
         "patch": 0
     },
     "keywords": [
@@ -21930,6 +21930,13 @@
             "name": "MEX",
             "symbol": "MEX",
             "address": "0x5C81E342a89800563AD3E7Abf20C237DfDAebf29",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rotten Token v2",
+            "symbol": "ROT2",
+            "address": "0xc64D295eeC139f18D14eBf989EA7E7Ada01c7a31",
             "decimals": 18
         }
     ]
