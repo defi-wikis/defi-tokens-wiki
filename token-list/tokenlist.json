@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:10:59.786Z",
+    "timestamp": "2020-09-28T18:22:10.486Z",
     "version": {
         "major": 1,
-        "minor": 3406,
+        "minor": 3407,
         "patch": 0
     },
     "keywords": [
@@ -22550,6 +22550,13 @@
             "name": "Oper Network",
             "symbol": "OPER",
             "address": "0xd250A5f4309Ef16a6a4304d65160f83c1584081e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UpSwing",
+            "symbol": "UPS",
+            "address": "0x35a254223960c18B69C0526c46B013D022E93902",
             "decimals": 18
         }
     ]
