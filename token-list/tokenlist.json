@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:53:50.096Z",
+    "timestamp": "2020-09-28T05:54:07.585Z",
     "version": {
         "major": 1,
-        "minor": 3289,
+        "minor": 3290,
         "patch": 0
     },
     "keywords": [
@@ -21741,6 +21741,13 @@
             "name": "Open Protocol",
             "symbol": "OPEN",
             "address": "0x523651Bd43190b17Fc14256592Aec393595b449d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FomoSwap.me",
+            "symbol": "FOMO",
+            "address": "0xB7C27b6C822DD38d740471518bBACF1D79B9844F",
             "decimals": 18
         }
     ]
