@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:48:01.906Z",
+    "timestamp": "2020-09-28T22:50:10.279Z",
     "version": {
         "major": 1,
-        "minor": 3438,
+        "minor": 3439,
         "patch": 0
     },
     "keywords": [
@@ -22774,6 +22774,13 @@
             "name": "Eminence Token",
             "symbol": "EMN",
             "address": "0x0EA892b721bf9D5695Ce6f0e8A5Bb386efcDbB7c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x12234E72fe3417d10aCF746aa12aF8ccA34c5faB",
             "decimals": 18
         }
     ]
