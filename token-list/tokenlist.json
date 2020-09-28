@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:27:15.013Z",
+    "timestamp": "2020-09-28T05:33:07.981Z",
     "version": {
         "major": 1,
-        "minor": 3281,
+        "minor": 3282,
         "patch": 0
     },
     "keywords": [
@@ -21685,6 +21685,13 @@
             "name": "CrowdstartCoin",
             "symbol": "XSC",
             "address": "0x0F513fFb4926ff82D7F60A05069047AcA295C413",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bebop.finance",
+            "symbol": "BBOP",
+            "address": "0x4F2718a3e86a47981fcfEcd3BbFe6f1D204D1768",
             "decimals": 18
         }
     ]
