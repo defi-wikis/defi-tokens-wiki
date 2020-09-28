@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:04:07.491Z",
+    "timestamp": "2020-09-28T14:15:09.045Z",
     "version": {
         "major": 1,
-        "minor": 3367,
+        "minor": 3368,
         "patch": 0
     },
     "keywords": [
@@ -22277,6 +22277,13 @@
             "name": "yfbn.finance",
             "symbol": "YFBN",
             "address": "0x3569263a0298ADEC86c13b349138d9efA9f86678",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "boosted.finance",
+            "symbol": "$BOOST",
+            "address": "0x8911949deC2D88122736826799A1185aF7397019",
             "decimals": 18
         }
     ]
