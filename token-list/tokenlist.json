@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T09:07:59.547Z",
+    "timestamp": "2020-09-28T09:19:47.430Z",
     "version": {
         "major": 1,
-        "minor": 3327,
+        "minor": 3328,
         "patch": 0
     },
     "keywords": [
@@ -22007,6 +22007,13 @@
             "name": "dokidoki.finance",
             "symbol": "DOKI",
             "address": "0x65d0899D85457854e9773AaD8b575e724C6D53de",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RFUEL",
+            "symbol": "RFUEL",
+            "address": "0x5fF15C203C34D6d68bA6811bF4955e68aCd6Be62",
             "decimals": 18
         }
     ]
