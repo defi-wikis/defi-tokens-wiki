@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T15:50:34.770Z",
+    "timestamp": "2020-09-28T15:58:29.805Z",
     "version": {
         "major": 1,
-        "minor": 3386,
+        "minor": 3387,
         "patch": 0
     },
     "keywords": [
@@ -22410,6 +22410,13 @@
             "name": "NToken0017",
             "symbol": "N0017",
             "address": "0x10fD3fbE5BE41748be8fd4B514A4219E5F079bbd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIQ.Finance",
+            "symbol": "YFIQ",
+            "address": "0x56709C58e11bE0c7B465A59BaEeeda1a87C88708",
             "decimals": 18
         }
     ]
