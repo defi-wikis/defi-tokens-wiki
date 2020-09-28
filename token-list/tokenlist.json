@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T09:59:14.789Z",
+    "timestamp": "2020-09-28T10:03:07.333Z",
     "version": {
         "major": 1,
-        "minor": 3329,
+        "minor": 3330,
         "patch": 0
     },
     "keywords": [
@@ -22021,6 +22021,13 @@
             "name": "LAYCON",
             "symbol": "LAYCON",
             "address": "0x39821653B27712F3ef5f63A1DFD92b3296490aC9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rio Fuel Token",
+            "symbol": "RFUEL",
+            "address": "0x9f6e37A2F9736456F778EB99D9981B228Bb6345C",
             "decimals": 18
         }
     ]
