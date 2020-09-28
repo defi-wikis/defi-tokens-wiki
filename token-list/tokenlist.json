@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T11:04:10.576Z",
+    "timestamp": "2020-09-28T11:07:44.400Z",
     "version": {
         "major": 1,
-        "minor": 3340,
+        "minor": 3341,
         "patch": 0
     },
     "keywords": [
@@ -22098,6 +22098,13 @@
             "name": "bijiasuo.info Token",
             "symbol": "BJS",
             "address": "0xf5f6293646bd4541BEa757f3642b9400C0912438",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfin.finance",
+            "symbol": "YFIN",
+            "address": "0x00d8308b7aC4Bc8332a7D006eCA41C948DDEBf40",
             "decimals": 18
         }
     ]
