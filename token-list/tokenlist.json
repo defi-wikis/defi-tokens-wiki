@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T21:22:20.266Z",
+    "timestamp": "2020-09-28T21:51:39.527Z",
     "version": {
         "major": 1,
-        "minor": 3429,
+        "minor": 3430,
         "patch": 0
     },
     "keywords": [
@@ -22712,6 +22712,13 @@
             "symbol": "COREXP",
             "address": "0xa6E10f467ca603C43BeD7701d06b62C87536dC8E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnVolt.Finance Fork",
+            "symbol": "YVFF",
+            "address": "0x0D3032Ec7a00Fd5153c86C9A872aD13561945812",
+            "decimals": 8
         }
     ]
 }
