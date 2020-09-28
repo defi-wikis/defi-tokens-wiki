@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T04:10:59.594Z",
+    "timestamp": "2020-09-28T04:11:07.342Z",
     "version": {
         "major": 1,
-        "minor": 3265,
+        "minor": 3266,
         "patch": 0
     },
     "keywords": [
@@ -21573,6 +21573,13 @@
             "name": "NEO Wrapped",
             "symbol": "WNEO",
             "address": "0x6a24F2D1f4e3Ab096c18151522B11e3bFCB6D4C6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dandy.dego",
+            "symbol": "DANDY",
+            "address": "0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82",
             "decimals": 18
         }
     ]
