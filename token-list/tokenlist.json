@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:58:09.988Z",
+    "timestamp": "2020-09-28T07:03:30.554Z",
     "version": {
         "major": 1,
-        "minor": 3305,
+        "minor": 3306,
         "patch": 0
     },
     "keywords": [
@@ -21854,6 +21854,13 @@
             "symbol": "MCC",
             "address": "0xf19f3ECc8C1A600eCCCDa6fA76D3F67BE0BC631E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CMN",
+            "symbol": "CMN",
+            "address": "0x04BDed3911D7F7403e47C4c0b24952BDbB6e6dE8",
+            "decimals": 8
         }
     ]
 }
