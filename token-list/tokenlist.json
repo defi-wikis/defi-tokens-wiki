@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T16:55:20.577Z",
+    "timestamp": "2020-09-28T17:02:29.613Z",
     "version": {
         "major": 1,
-        "minor": 3394,
+        "minor": 3395,
         "patch": 0
     },
     "keywords": [
@@ -22467,6 +22467,13 @@
             "symbol": "ICET",
             "address": "0x8c5E6FdFa54B0027E10d9438E8515b6FA6c38FcC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Golden Coin Token 999",
+            "symbol": "GCT999",
+            "address": "0x8D5EAB43151A98188A87AB37CA4DA2c9aD452798",
+            "decimals": 8
         }
     ]
 }
