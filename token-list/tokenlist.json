@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:53:35.778Z",
+    "timestamp": "2020-09-28T05:53:50.096Z",
     "version": {
         "major": 1,
-        "minor": 3288,
+        "minor": 3289,
         "patch": 0
     },
     "keywords": [
@@ -21735,6 +21735,13 @@
             "symbol": "BITL",
             "address": "0xb89cCF28d113D0104cAc4f1e9B453669c25Ef7c8",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Open Protocol",
+            "symbol": "OPEN",
+            "address": "0x523651Bd43190b17Fc14256592Aec393595b449d",
+            "decimals": 18
         }
     ]
 }
