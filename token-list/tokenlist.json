@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:05:14.689Z",
+    "timestamp": "2020-09-28T10:10:02.034Z",
     "version": {
         "major": 1,
-        "minor": 3331,
+        "minor": 3332,
         "patch": 0
     },
     "keywords": [
@@ -22035,6 +22035,13 @@
             "name": "Rio Fuel Token",
             "symbol": "RFUEL",
             "address": "0x13cd90c36881d03f4953f627AbBA20D6aB7fabae",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Golden Phoenix",
+            "symbol": "GPX",
+            "address": "0x33b47e0145f7133A3ff30187dF8c73a03Fda110A",
             "decimals": 18
         }
     ]
