@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:55:49.888Z",
+    "timestamp": "2020-09-28T23:59:11.123Z",
     "version": {
         "major": 1,
-        "minor": 3448,
+        "minor": 3449,
         "patch": 0
     },
     "keywords": [
@@ -22845,6 +22845,13 @@
             "symbol": "WAY",
             "address": "0x9F49A6d5e83eC8Bccc1cB14A2B0401CCe0Cd8790",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "YFMOONBEAM",
+            "symbol": "YFMB",
+            "address": "0x57328BFc0ff2787F11bD0cAdE29C2cDD1B44c917",
+            "decimals": 18
         }
     ]
 }
