@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T19:28:25.681Z",
+    "timestamp": "2020-09-28T19:38:39.731Z",
     "version": {
         "major": 1,
-        "minor": 3417,
+        "minor": 3418,
         "patch": 0
     },
     "keywords": [
@@ -22628,6 +22628,13 @@
             "symbol": "YOUC",
             "address": "0x3D371413dd5489F3A04C07c0C2CE369c20986ceb",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "Bagel.Finance",
+            "symbol": "YBGL",
+            "address": "0x032c1cfC0C1a6C6960e551e8aAc16C1C973C3572",
+            "decimals": 18
         }
     ]
 }
