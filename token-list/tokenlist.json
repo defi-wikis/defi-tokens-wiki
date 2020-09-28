@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:01:13.615Z",
+    "timestamp": "2020-09-28T14:03:20.385Z",
     "version": {
         "major": 1,
-        "minor": 3364,
+        "minor": 3365,
         "patch": 0
     },
     "keywords": [
@@ -22259,6 +22259,13 @@
             "name": "yfMeta Finance",
             "symbol": "yfMeta",
             "address": "0xAD43BbDe9b4E1A2894984A55a2f490c4ADc1773b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "flamingo.finance",
+            "symbol": "FLM",
+            "address": "0x7a1e0808FFAa82125B1bd57b58A94E560554F034",
             "decimals": 18
         }
     ]
