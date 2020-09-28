@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T03:27:49.770Z",
+    "timestamp": "2020-09-28T03:33:14.632Z",
     "version": {
         "major": 1,
-        "minor": 3260,
+        "minor": 3261,
         "patch": 0
     },
     "keywords": [
@@ -21538,6 +21538,13 @@
             "name": "yCvault.Finance",
             "symbol": "YCORE",
             "address": "0x10a711D48Fb22422b0b9c6E8ff05325789793f75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orb 2.0",
+            "symbol": "ORB2",
+            "address": "0x9C433226b1A5FAf8C8F2Ac01D5283D1A6F94f762",
             "decimals": 18
         }
     ]
