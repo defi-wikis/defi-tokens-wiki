@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T11:59:39.795Z",
+    "timestamp": "2020-09-28T12:01:29.561Z",
     "version": {
         "major": 1,
-        "minor": 3349,
+        "minor": 3350,
         "patch": 0
     },
     "keywords": [
@@ -22161,6 +22161,13 @@
             "name": "TIMERS TOKEN @ TIMERS.NETWORK",
             "symbol": "IPM",
             "address": "0x3C8EF342CCE872c8Ee4A41B8539B3ce95E2fE699",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BridgeNode",
+            "symbol": "BGN",
+            "address": "0xdeDe73D1657648a071dB4e8B8C27E83f8B66323e",
             "decimals": 18
         }
     ]
