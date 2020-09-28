@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T11:09:59.989Z",
+    "timestamp": "2020-09-28T11:13:39.714Z",
     "version": {
         "major": 1,
-        "minor": 3342,
+        "minor": 3343,
         "patch": 0
     },
     "keywords": [
@@ -22113,6 +22113,13 @@
             "symbol": "YCRAB",
             "address": "0x50128196452DB2fc9CaB18a9e1c1E87B20d39AfD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QBCH",
+            "symbol": "QBCH",
+            "address": "0xb9DB7A804677F6A0E09e0591d6333048F3dbEf69",
+            "decimals": 8
         }
     ]
 }
