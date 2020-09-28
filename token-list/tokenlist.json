@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T20:47:44.581Z",
+    "timestamp": "2020-09-28T21:18:15.038Z",
     "version": {
         "major": 1,
-        "minor": 3426,
+        "minor": 3427,
         "patch": 0
     },
     "keywords": [
@@ -22691,6 +22691,13 @@
             "symbol": "WWGR",
             "address": "0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Y",
+            "symbol": "Y",
+            "address": "0x5701B54C9E55d8A735B90E4CD637761B8deDFc2e",
+            "decimals": 18
         }
     ]
 }
