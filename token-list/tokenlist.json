@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T00:03:25.275Z",
+    "timestamp": "2020-09-28T00:14:25.106Z",
     "version": {
         "major": 1,
-        "minor": 3241,
+        "minor": 3242,
         "patch": 0
     },
     "keywords": [
@@ -21405,6 +21405,13 @@
             "name": "BlocBuy",
             "symbol": "BBY",
             "address": "0xaf5e6afA14a5DE9a48395869F4f887a63F7f755F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unicope.app",
+            "symbol": "UNICOPE",
+            "address": "0xc5074D5964De8B8157BF6D4F4846dF9BC415FDdf",
             "decimals": 18
         }
     ]
