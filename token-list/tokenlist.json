@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T02:23:24.718Z",
+    "timestamp": "2020-09-28T03:18:10.392Z",
     "version": {
         "major": 1,
-        "minor": 3258,
+        "minor": 3259,
         "patch": 0
     },
     "keywords": [
@@ -21524,6 +21524,13 @@
             "name": "flamingo.finance",
             "symbol": "FLM",
             "address": "0x0a537895AED2566Cf6bA40d9DdB75252A8F444D3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Flamingo",
+            "symbol": "FLM",
+            "address": "0x476618aaD252d12B56CA04FaAB6e537c4e8400AA",
             "decimals": 18
         }
     ]
