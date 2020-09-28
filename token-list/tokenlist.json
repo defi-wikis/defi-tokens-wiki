@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:38:35.379Z",
+    "timestamp": "2020-09-28T14:44:30.512Z",
     "version": {
         "major": 1,
-        "minor": 3373,
+        "minor": 3374,
         "patch": 0
     },
     "keywords": [
@@ -22319,6 +22319,13 @@
             "name": "MMM Finance",
             "symbol": "MMM",
             "address": "0x06d40De491AA5946B7E18dF96c0BdA2a005B0c0f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Beer Token",
+            "symbol": "BEER",
+            "address": "0xb0Dc4Af6F1E722dD201aC15216B6afB51e78ff3B",
             "decimals": 18
         }
     ]
