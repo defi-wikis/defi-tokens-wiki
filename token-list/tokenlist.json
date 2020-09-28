@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T14:51:25.260Z",
+    "timestamp": "2020-09-28T15:04:59.936Z",
     "version": {
         "major": 1,
-        "minor": 3375,
+        "minor": 3376,
         "patch": 0
     },
     "keywords": [
@@ -22333,6 +22333,13 @@
             "name": "ICETEA.Finance",
             "symbol": "ICET",
             "address": "0xa046fB7aEc9BC835b11e7325366C9f67634e44e4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPG",
+            "symbol": "SPG",
+            "address": "0xDb15386e124974093962458ecC21770E30a19f61",
             "decimals": 18
         }
     ]
