@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T20:37:24.285Z",
+    "timestamp": "2020-09-28T20:38:59.888Z",
     "version": {
         "major": 1,
-        "minor": 3423,
+        "minor": 3424,
         "patch": 0
     },
     "keywords": [
@@ -22669,6 +22669,13 @@
             "name": "YFBoom",
             "symbol": "YFB",
             "address": "0x529f2866ecdE732F7fDD34aDAc8F3364a166C1d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Speed Prove Dollar",
+            "symbol": "SPD",
+            "address": "0xa1763916956477d34836faa82599F9d812a83AED",
             "decimals": 18
         }
     ]
