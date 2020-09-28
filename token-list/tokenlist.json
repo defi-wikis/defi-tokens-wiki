@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:14:26.731Z",
+    "timestamp": "2020-09-28T06:16:34.629Z",
     "version": {
         "major": 1,
-        "minor": 3292,
+        "minor": 3293,
         "patch": 0
     },
     "keywords": [
@@ -21762,6 +21762,13 @@
             "name": "Venus Protocol",
             "symbol": "VAI",
             "address": "0x9973F2798C3a8721AF7F06A685718c93150e013d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORIENT",
+            "symbol": "OFT",
+            "address": "0xB1599A98eeB85f094906d0985Bdd0ab337d2593c",
             "decimals": 18
         }
     ]
