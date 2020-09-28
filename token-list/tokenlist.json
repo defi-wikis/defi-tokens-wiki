@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T01:14:59.377Z",
+    "timestamp": "2020-09-28T01:26:07.201Z",
     "version": {
         "major": 1,
-        "minor": 3247,
+        "minor": 3248,
         "patch": 0
     },
     "keywords": [
@@ -21448,6 +21448,13 @@
             "symbol": "deex",
             "address": "0xc16CF13922C18DE7842374F9Baace4489f1D24AF",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Cofe.finance",
+            "symbol": "COFE",
+            "address": "0x3cab1536AA30a0A5d63CF4D156cEf72623C412F1",
+            "decimals": 18
         }
     ]
 }
