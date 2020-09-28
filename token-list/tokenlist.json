@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T05:53:29.941Z",
+    "timestamp": "2020-09-28T05:53:35.778Z",
     "version": {
         "major": 1,
-        "minor": 3287,
+        "minor": 3288,
         "patch": 0
     },
     "keywords": [
@@ -21728,6 +21728,13 @@
             "symbol": "ZANO",
             "address": "0x6E109c5AA06b25828E1A6520578A27D87df4Ab40",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BITLINK",
+            "symbol": "BITL",
+            "address": "0xb89cCF28d113D0104cAc4f1e9B453669c25Ef7c8",
+            "decimals": 8
         }
     ]
 }
