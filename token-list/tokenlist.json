@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T15:33:39.646Z",
+    "timestamp": "2020-09-28T15:37:40.471Z",
     "version": {
         "major": 1,
-        "minor": 3382,
+        "minor": 3383,
         "patch": 0
     },
     "keywords": [
@@ -22382,6 +22382,13 @@
             "name": "LEMON",
             "symbol": "LEM",
             "address": "0xEe863e0cF0DB51DF7c8CEa98961c8726E3573fbf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yseries Combinator",
+            "symbol": "YFI+YFII+YFV",
+            "address": "0x51a286Ed2A8Fc76E2c89c2d76Ab0A6fBC3659eb7",
             "decimals": 18
         }
     ]
