@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:46:05.857Z",
+    "timestamp": "2020-09-28T07:53:45.993Z",
     "version": {
         "major": 1,
-        "minor": 3314,
+        "minor": 3315,
         "patch": 0
     },
     "keywords": [
@@ -21916,6 +21916,13 @@
             "name": "https://coming.soon",
             "symbol": "SOON",
             "address": "0xbE53Fb7b86a71AD99C626F8F1bAde36e7784423d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlotX.io",
+            "symbol": "PLOT",
+            "address": "0xB4FeE7a724b960bc175f48e12725024B8C2D7D87",
             "decimals": 18
         }
     ]
