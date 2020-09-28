@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T00:17:10.094Z",
+    "timestamp": "2020-09-28T00:25:34.487Z",
     "version": {
         "major": 1,
-        "minor": 3243,
+        "minor": 3244,
         "patch": 0
     },
     "keywords": [
@@ -21419,6 +21419,13 @@
             "name": "Xunjie Token",
             "symbol": "XJS",
             "address": "0xc61733bE1920827C01e535085F792bb32522Bcc8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Land",
+            "symbol": "yLand",
+            "address": "0xd0658324074D6249a51876438916f7C423075451",
             "decimals": 18
         }
     ]
