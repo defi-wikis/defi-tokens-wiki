@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:10:15.406Z",
+    "timestamp": "2020-09-28T07:15:13.534Z",
     "version": {
         "major": 1,
-        "minor": 3308,
+        "minor": 3309,
         "patch": 0
     },
     "keywords": [
@@ -21874,6 +21874,13 @@
             "name": "DNB",
             "symbol": "DNB",
             "address": "0xe7BeDeec6E1338AaEe57E6eeac6b0BA9aD49655f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NToken0031",
+            "symbol": "N0031",
+            "address": "0x9E30B2B800F84104F5a7839C54E714796074b291",
             "decimals": 18
         }
     ]
