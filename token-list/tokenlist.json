@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T10:46:15.670Z",
+    "timestamp": "2020-09-28T10:50:44.422Z",
     "version": {
         "major": 1,
-        "minor": 3338,
+        "minor": 3339,
         "patch": 0
     },
     "keywords": [
@@ -22085,6 +22085,13 @@
             "symbol": "QBTC",
             "address": "0x9Eac3Dfa8DcC22eF08c57085C654DC6e21Eb511A",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Tokenlon Token",
+            "symbol": "LON",
+            "address": "0x125aFEd1Eb0e75C20D919f875F0C952311a8AF40",
+            "decimals": 18
         }
     ]
 }
