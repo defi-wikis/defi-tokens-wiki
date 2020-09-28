@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:00:59.596Z",
+    "timestamp": "2020-09-28T23:02:39.580Z",
     "version": {
         "major": 1,
-        "minor": 3442,
+        "minor": 3443,
         "patch": 0
     },
     "keywords": [
@@ -22802,6 +22802,13 @@
             "name": "k.Vault.finance",
             "symbol": "KERN",
             "address": "0x60165F4030d4d49201217312febdDA144DA7Eb50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence.BTC",
+            "symbol": "eBTC",
+            "address": "0x13b5eD001B1d262a69e38f976A3D91D8900eCF39",
             "decimals": 18
         }
     ]
