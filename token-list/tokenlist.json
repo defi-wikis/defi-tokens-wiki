@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T17:02:29.613Z",
+    "timestamp": "2020-09-28T17:03:54.978Z",
     "version": {
         "major": 1,
-        "minor": 3395,
+        "minor": 3396,
         "patch": 0
     },
     "keywords": [
@@ -22474,6 +22474,13 @@
             "symbol": "GCT999",
             "address": "0x8D5EAB43151A98188A87AB37CA4DA2c9aD452798",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "RIGGN",
+            "symbol": "RIGN",
+            "address": "0x1F2eF7d4C2bc9601189DcAcB16322b1721EcF9c6",
+            "decimals": 18
         }
     ]
 }
