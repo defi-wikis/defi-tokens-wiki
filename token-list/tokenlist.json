@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T15:09:44.909Z",
+    "timestamp": "2020-09-28T15:11:54.911Z",
     "version": {
         "major": 1,
-        "minor": 3377,
+        "minor": 3378,
         "patch": 0
     },
     "keywords": [
@@ -22347,6 +22347,13 @@
             "name": "Space.Gem",
             "symbol": "SG",
             "address": "0x523EEAfdaC23FA2CB0C3873CdA4818cdc80e28E8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xeth.finance",
+            "symbol": "XETH",
+            "address": "0xD61F2EF60C7BFbd30597A5b27840D1E36d319774",
             "decimals": 18
         }
     ]
