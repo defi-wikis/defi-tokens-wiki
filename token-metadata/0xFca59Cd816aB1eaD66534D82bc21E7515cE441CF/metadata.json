@@ -4,5 +4,16 @@
     "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED",
-    "tags": ["nft"]
+    "description": "The first community-owned NFT marketplace to create and sell digital items secured with blockchain.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/rariblecom"
+        },
+        {
+            "type": "website",
+            "value": "https://rarible.com"
+        }
+    ],
+    "tags":[ "defi","nft","payments"]
 }
