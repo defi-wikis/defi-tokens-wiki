@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:57:20.246Z",
+    "timestamp": "2020-09-28T22:58:49.810Z",
     "version": {
         "major": 1,
-        "minor": 3440,
+        "minor": 3441,
         "patch": 0
     },
     "keywords": [
@@ -22788,6 +22788,13 @@
             "name": "CHONK",
             "symbol": "CHONK",
             "address": "0x5D9ecA1652278A78F128bD0e57b84cF3c2280478",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFTCARD",
+            "symbol": "NFTC",
+            "address": "0xf24D1f527FF7ce4b3aF7498280ba750a5a1a4C6e",
             "decimals": 18
         }
     ]
