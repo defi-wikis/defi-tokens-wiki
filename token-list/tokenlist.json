@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:41:25.697Z",
+    "timestamp": "2020-09-28T07:42:34.362Z",
     "version": {
         "major": 1,
-        "minor": 3312,
+        "minor": 3313,
         "patch": 0
     },
     "keywords": [
@@ -21903,6 +21903,13 @@
             "symbol": "RICH",
             "address": "0x96ADEa0b63dEbE4aBAcb862CE9192Ebe75aB38CB",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "CSDB",
+            "symbol": "CSDB",
+            "address": "0x36930089a9bd4Cd9e9a831873546aBd0925D0A09",
+            "decimals": 18
         }
     ]
 }
