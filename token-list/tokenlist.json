@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T01:33:15.566Z",
+    "timestamp": "2020-09-28T01:40:39.758Z",
     "version": {
         "major": 1,
-        "minor": 3249,
+        "minor": 3250,
         "patch": 0
     },
     "keywords": [
@@ -21461,6 +21461,13 @@
             "name": "efuel.finance",
             "symbol": "YFUEL",
             "address": "0x604C55D6CEe69A67d33881B626e0eCDb9Db35603",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COVID19",
+            "symbol": "nCOV19",
+            "address": "0xfc25807537bb564eEc11Ac7872262845945483F8",
             "decimals": 18
         }
     ]
