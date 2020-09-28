@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T12:31:22.317Z",
+    "timestamp": "2020-09-28T12:31:56.098Z",
     "version": {
         "major": 1,
-        "minor": 3353,
+        "minor": 3354,
         "patch": 0
     },
     "keywords": [
@@ -22189,6 +22189,13 @@
             "name": "Holyheld",
             "symbol": "HOLY",
             "address": "0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Seagull Finance",
+            "symbol": "SGF",
+            "address": "0xA6Dba9Be2d2faF685a2Ea3686de205ed2A42C298",
             "decimals": 18
         }
     ]
