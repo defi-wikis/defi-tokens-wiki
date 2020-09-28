@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T12:12:39.601Z",
+    "timestamp": "2020-09-28T12:31:22.317Z",
     "version": {
         "major": 1,
-        "minor": 3352,
+        "minor": 3353,
         "patch": 0
     },
     "keywords": [
@@ -22183,6 +22183,13 @@
             "symbol": "DFIP",
             "address": "0xd89A909648e28e8352b63b78007f7fF144f434E9",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Holyheld",
+            "symbol": "HOLY",
+            "address": "0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
+            "decimals": 18
         }
     ]
 }
