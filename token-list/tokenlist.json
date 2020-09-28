@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T00:14:25.106Z",
+    "timestamp": "2020-09-28T00:17:10.094Z",
     "version": {
         "major": 1,
-        "minor": 3242,
+        "minor": 3243,
         "patch": 0
     },
     "keywords": [
@@ -21412,6 +21412,13 @@
             "name": "Unicope.app",
             "symbol": "UNICOPE",
             "address": "0xc5074D5964De8B8157BF6D4F4846dF9BC415FDdf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xunjie Token",
+            "symbol": "XJS",
+            "address": "0xc61733bE1920827C01e535085F792bb32522Bcc8",
             "decimals": 18
         }
     ]
