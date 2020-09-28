@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:05:19.700Z",
+    "timestamp": "2020-09-28T22:05:25.719Z",
     "version": {
         "major": 1,
-        "minor": 3431,
+        "minor": 3432,
         "patch": 0
     },
     "keywords": [
@@ -22725,6 +22725,13 @@
             "name": "Eminence CRV",
             "symbol": "eCRV",
             "address": "0xB387E90367f1e621E656900Ed2A762dc7D71da8C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence SNX",
+            "symbol": "eSNX",
+            "address": "0xd77c2Ab1Cd0fAA4b79E16a0E7472cB222a9eE175",
             "decimals": 18
         }
     ]
