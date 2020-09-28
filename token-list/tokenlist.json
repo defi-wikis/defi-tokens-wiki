@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T22:50:10.279Z",
+    "timestamp": "2020-09-28T22:57:20.246Z",
     "version": {
         "major": 1,
-        "minor": 3439,
+        "minor": 3440,
         "patch": 0
     },
     "keywords": [
@@ -22781,6 +22781,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x12234E72fe3417d10aCF746aa12aF8ccA34c5faB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CHONK",
+            "symbol": "CHONK",
+            "address": "0x5D9ecA1652278A78F128bD0e57b84cF3c2280478",
             "decimals": 18
         }
     ]
