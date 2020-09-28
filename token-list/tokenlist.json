@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T19:22:19.743Z",
+    "timestamp": "2020-09-28T19:25:20.496Z",
     "version": {
         "major": 1,
-        "minor": 3415,
+        "minor": 3416,
         "patch": 0
     },
     "keywords": [
@@ -22614,6 +22614,13 @@
             "symbol": "KANG",
             "address": "0xb6f9F46fefe21e3B5D7787f078f4114A821Aa19a",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Sera Network",
+            "symbol": "SERA",
+            "address": "0x841A4981FF6792D277EeC029D4A098f801c20a30",
+            "decimals": 18
         }
     ]
 }
