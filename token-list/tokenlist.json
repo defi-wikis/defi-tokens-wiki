@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T08:27:25.510Z",
+    "timestamp": "2020-09-28T08:28:24.729Z",
     "version": {
         "major": 1,
-        "minor": 3322,
+        "minor": 3323,
         "patch": 0
     },
     "keywords": [
@@ -21972,6 +21972,13 @@
             "name": "AnonymousWhiteHat",
             "symbol": "AWH",
             "address": "0x74723cef0dF8a0ba1a3FAc56674ee7aF9055bDD5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEME",
+            "symbol": "MEME",
+            "address": "0x9eB09Fe38903436267Baa548889A4D27825933C7",
             "decimals": 18
         }
     ]
