@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T20:45:40.049Z",
+    "timestamp": "2020-09-28T20:47:44.581Z",
     "version": {
         "major": 1,
-        "minor": 3425,
+        "minor": 3426,
         "patch": 0
     },
     "keywords": [
@@ -22684,6 +22684,13 @@
             "symbol": "NFV",
             "address": "0x5f0C0f1bb5f80d1778E8f2f811448166F5C00AFb",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped Wagerr",
+            "symbol": "WWGR",
+            "address": "0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
+            "decimals": 8
         }
     ]
 }
