@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T07:41:19.665Z",
+    "timestamp": "2020-09-28T07:41:25.697Z",
     "version": {
         "major": 1,
-        "minor": 3311,
+        "minor": 3312,
         "patch": 0
     },
     "keywords": [
@@ -21896,6 +21896,13 @@
             "symbol": "MEME-V2",
             "address": "0x041Ada80e705a47FaBf71f22B3fc95821744Bc42",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RICH",
+            "symbol": "RICH",
+            "address": "0x96ADEa0b63dEbE4aBAcb862CE9192Ebe75aB38CB",
+            "decimals": 8
         }
     ]
 }
