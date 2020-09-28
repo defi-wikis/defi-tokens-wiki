@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T17:03:54.978Z",
+    "timestamp": "2020-09-28T17:05:06.837Z",
     "version": {
         "major": 1,
-        "minor": 3396,
+        "minor": 3397,
         "patch": 0
     },
     "keywords": [
@@ -22480,6 +22480,13 @@
             "name": "RIGGN",
             "symbol": "RIGN",
             "address": "0x1F2eF7d4C2bc9601189DcAcB16322b1721EcF9c6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "duckpool.io",
+            "symbol": "$DUCK",
+            "address": "0xD0667e36f4eb6FD9aC7DC30974b4f38FdFbfDE1f",
             "decimals": 18
         }
     ]
