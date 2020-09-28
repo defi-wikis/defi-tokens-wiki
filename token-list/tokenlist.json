@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T13:53:10.873Z",
+    "timestamp": "2020-09-28T13:56:35.026Z",
     "version": {
         "major": 1,
-        "minor": 3361,
+        "minor": 3362,
         "patch": 0
     },
     "keywords": [
@@ -22245,6 +22245,13 @@
             "name": "EnkronosToken",
             "symbol": "ENK",
             "address": "0x92B914f1DDcBb1D117a718E83C9ED7eB32fc44d1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "flamingo.finance",
+            "symbol": "FFUNI",
+            "address": "0x95021EfFfDC7B33069D421aea5D031739ED29014",
             "decimals": 18
         }
     ]
