@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T03:54:59.664Z",
+    "timestamp": "2020-09-28T04:10:40.242Z",
     "version": {
         "major": 1,
-        "minor": 3263,
+        "minor": 3264,
         "patch": 0
     },
     "keywords": [
@@ -21559,6 +21559,13 @@
             "name": "pumk.finance",
             "symbol": "PUMK",
             "address": "0x3fE975B5005200C09A88E03f47B9908C617e2081",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ice Cream.finance",
+            "symbol": "ICE",
+            "address": "0x3Cb06309C378338cC48166122aD32Da1ba89cfA6",
             "decimals": 18
         }
     ]
