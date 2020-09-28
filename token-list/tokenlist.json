@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T08:05:54.416Z",
+    "timestamp": "2020-09-28T08:22:20.787Z",
     "version": {
         "major": 1,
-        "minor": 3320,
+        "minor": 3321,
         "patch": 0
     },
     "keywords": [
@@ -21958,6 +21958,13 @@
             "name": "Rio DeFi",
             "symbol": "RFUEL",
             "address": "0x7AefceEdBF83E71875a5438173109d5Bfc9FD3FF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "The Youth Consociation",
+            "symbol": "TYC",
+            "address": "0xB9713F4798EB20858d8544D24d1A63ccEE5e9D17",
             "decimals": 18
         }
     ]
