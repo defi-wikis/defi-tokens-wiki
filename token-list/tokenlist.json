@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T18:29:06.746Z",
+    "timestamp": "2020-09-28T18:47:06.792Z",
     "version": {
         "major": 1,
-        "minor": 3409,
+        "minor": 3410,
         "patch": 0
     },
     "keywords": [
@@ -22572,6 +22572,13 @@
             "symbol": "AMAF",
             "address": "0x9370071768EFAC22A89F1204E5FFc0F55a0a72EC",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "STEAM",
+            "symbol": "STEAM",
+            "address": "0xC67a3b1587B2421728750294f0A049E98Eb0DA65",
+            "decimals": 18
         }
     ]
 }
