@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:16:34.629Z",
+    "timestamp": "2020-09-28T06:23:59.493Z",
     "version": {
         "major": 1,
-        "minor": 3293,
+        "minor": 3294,
         "patch": 0
     },
     "keywords": [
@@ -21769,6 +21769,13 @@
             "name": "ORIENT",
             "symbol": "OFT",
             "address": "0xB1599A98eeB85f094906d0985Bdd0ab337d2593c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "No Rug Pulls Fools",
+            "symbol": "NRPF",
+            "address": "0x81218E606DC8927F839B11CDd94E459F018E4CAD",
             "decimals": 18
         }
     ]
