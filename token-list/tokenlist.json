@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T06:23:59.493Z",
+    "timestamp": "2020-09-28T06:28:55.317Z",
     "version": {
         "major": 1,
-        "minor": 3294,
+        "minor": 3295,
         "patch": 0
     },
     "keywords": [
@@ -21777,6 +21777,13 @@
             "symbol": "NRPF",
             "address": "0x81218E606DC8927F839B11CDd94E459F018E4CAD",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Matcha",
+            "symbol": "Matcha",
+            "address": "0x67C8C2F4A36687e33E1FdaDD44FFbAd5bd539FBf",
+            "decimals": 8
         }
     ]
 }
