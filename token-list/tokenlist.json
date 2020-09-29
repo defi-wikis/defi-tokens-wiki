@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T19:25:14.843Z",
+    "timestamp": "2020-09-29T19:34:24.708Z",
     "version": {
         "major": 1,
-        "minor": 3585,
+        "minor": 3586,
         "patch": 0
     },
     "keywords": [
@@ -23803,6 +23803,13 @@
             "name": "CoreV2.Finance",
             "symbol": "COREv2",
             "address": "0xD4168B2a20d9DC180D1739d45b170A7CeE366f95",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Recovery",
+            "symbol": "YFIR",
+            "address": "0x8d81c4b79e36Ed49e8C5F2d568DC1287d045BAD2",
             "decimals": 18
         }
     ]
