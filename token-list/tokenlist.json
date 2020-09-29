@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:42:25.272Z",
+    "timestamp": "2020-09-29T20:55:02.086Z",
     "version": {
         "major": 1,
-        "minor": 3598,
+        "minor": 3599,
         "patch": 0
     },
     "keywords": [
@@ -23895,6 +23895,13 @@
             "symbol": "FIRM",
             "address": "0x790787f03fe0BbC0E54530BA6ef46540ECFee70A",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCPC",
+            "symbol": "yCPC",
+            "address": "0x4DbD26387DB060bDBf8556bd91977fc6b3AB65e0",
+            "decimals": 0
         }
     ]
 }
