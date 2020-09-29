@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T04:02:30.029Z",
+    "timestamp": "2020-09-29T04:19:09.656Z",
     "version": {
         "major": 1,
-        "minor": 3476,
+        "minor": 3477,
         "patch": 0
     },
     "keywords": [
@@ -23040,6 +23040,13 @@
             "name": "BitLand",
             "symbol": "BIL",
             "address": "0xdef058a630354E1081c7F3608F081E951d2A5570",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "venus.io",
+            "symbol": "XVS",
+            "address": "0x20C07586a877b76797e6F63A5A34842bFD78CB7E",
             "decimals": 18
         }
     ]
