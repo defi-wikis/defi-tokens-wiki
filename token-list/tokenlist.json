@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T21:22:45.232Z",
+    "timestamp": "2020-09-29T21:29:44.834Z",
     "version": {
         "major": 1,
-        "minor": 3603,
+        "minor": 3604,
         "patch": 0
     },
     "keywords": [
@@ -23929,6 +23929,13 @@
             "name": "ydelta.finance",
             "symbol": "YFID",
             "address": "0x58B788C58bec3AF906f98e7C0565Fe81674C678F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LGBTQ Foundation",
+            "symbol": "LGBTQ",
+            "address": "0x13275e86633abd8fa871359268147De5859Edc96",
             "decimals": 18
         }
     ]
