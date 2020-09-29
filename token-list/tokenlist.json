@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T15:49:34.553Z",
+    "timestamp": "2020-09-29T15:59:39.664Z",
     "version": {
         "major": 1,
-        "minor": 3554,
+        "minor": 3555,
         "patch": 0
     },
     "keywords": [
@@ -23586,6 +23586,13 @@
             "name": "OKR Finance",
             "symbol": "OKR",
             "address": "0x3a2dA083fe1Da28c41dD0664e5BF0F344fa11f12",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Makery",
+            "symbol": "MKR",
+            "address": "0xb2A9A0F34e3140de9b9A489b33fc049102A1808e",
             "decimals": 18
         }
     ]
