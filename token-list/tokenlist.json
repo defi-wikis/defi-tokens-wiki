@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:31:34.447Z",
+    "timestamp": "2020-09-29T22:35:44.780Z",
     "version": {
         "major": 1,
-        "minor": 3613,
+        "minor": 3614,
         "patch": 0
     },
     "keywords": [
@@ -23999,6 +23999,13 @@
             "name": "LIRA",
             "symbol": "LIRA",
             "address": "0xcf76f32EBE10139E4370127D5789Cdb0750d460D",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Governance.fi",
+            "symbol": "NFT",
+            "address": "0xA148Efab62128E5d02F81E9BF13aEC7736BCE0Bb",
             "decimals": 8
         }
     ]
