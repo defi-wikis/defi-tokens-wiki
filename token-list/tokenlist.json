@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:03:25.329Z",
+    "timestamp": "2020-09-29T22:10:15.253Z",
     "version": {
         "major": 1,
-        "minor": 3607,
+        "minor": 3608,
         "patch": 0
     },
     "keywords": [
@@ -23957,6 +23957,13 @@
             "name": "Yfdot.Finance",
             "symbol": "YFDOT",
             "address": "0x7C1B5a4B2D3ECaA4c8C3fC7fbB3dBe40df789477",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Firemoon",
+            "symbol": "FIRM",
+            "address": "0x80F4d4B61f4aE3B1bC2724aE582516FDDEd5CabE",
             "decimals": 18
         }
     ]
