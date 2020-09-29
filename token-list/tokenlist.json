@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T04:26:35.267Z",
+    "timestamp": "2020-09-29T04:33:39.669Z",
     "version": {
         "major": 1,
-        "minor": 3478,
+        "minor": 3479,
         "patch": 0
     },
     "keywords": [
@@ -23054,6 +23054,13 @@
             "name": "Fairy Finance",
             "symbol": "FRT",
             "address": "0x35DfdAD99DD022adbB63754aEbc9365f66B29807",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PickleToken 2.0",
+            "symbol": "PICKLE2",
+            "address": "0x219a606110fDC174f6Cb21989854d6200f07dA2d",
             "decimals": 18
         }
     ]
