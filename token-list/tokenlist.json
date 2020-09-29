@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:40:14.979Z",
+    "timestamp": "2020-09-29T11:40:54.986Z",
     "version": {
         "major": 1,
-        "minor": 3525,
+        "minor": 3526,
         "patch": 0
     },
     "keywords": [
@@ -23384,6 +23384,13 @@
             "symbol": "XTF.BCCWIN",
             "address": "0x2d498bE1231D635772a02969bcB26D2f66D6EAcE",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Equalizer",
+            "symbol": "EQL",
+            "address": "0x27183f6c44060E5C540d884880A4d29F65164755",
+            "decimals": 8
         }
     ]
 }
