@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T07:44:10.428Z",
+    "timestamp": "2020-09-29T07:54:39.791Z",
     "version": {
         "major": 1,
-        "minor": 3500,
+        "minor": 3501,
         "patch": 0
     },
     "keywords": [
@@ -23208,6 +23208,13 @@
             "name": "Fuck Andre Cronje",
             "symbol": "FAC",
             "address": "0x8B11CFF8F4b1300FFb0cC956ef800A584479304C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFI Group",
+            "symbol": "YFIG",
+            "address": "0x267a73312c38D2bCc69797711bdeeAAb874620f2",
             "decimals": 18
         }
     ]
