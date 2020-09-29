@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T17:59:59.958Z",
+    "timestamp": "2020-09-29T18:04:19.755Z",
     "version": {
         "major": 1,
-        "minor": 3571,
+        "minor": 3572,
         "patch": 0
     },
     "keywords": [
@@ -23705,6 +23705,13 @@
             "name": "Yeled.finance",
             "symbol": "YELED",
             "address": "0x49F4c53D8F62Bcb3ee2296EA1e5497c2257f9744",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFGovernance",
+            "symbol": "YFG",
+            "address": "0x10A9240B31427982573af14dDe0afEd54ac97B12",
             "decimals": 18
         }
     ]
