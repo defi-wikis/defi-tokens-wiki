@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T09:52:10.213Z",
+    "timestamp": "2020-09-29T10:07:15.288Z",
     "version": {
         "major": 1,
-        "minor": 3515,
+        "minor": 3516,
         "patch": 0
     },
     "keywords": [
@@ -23313,6 +23313,13 @@
             "name": "OpenDao",
             "symbol": "OPEN",
             "address": "0x9259893CA0EFc261C24851689f417545770C5f96",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NeuronWorld",
+            "symbol": "NEUW",
+            "address": "0x7A0896f44f84AE7d8e271F5d2e86a401Edb7b571",
             "decimals": 18
         }
     ]
