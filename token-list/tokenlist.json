@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:24:49.731Z",
+    "timestamp": "2020-09-29T12:27:29.536Z",
     "version": {
         "major": 1,
-        "minor": 3533,
+        "minor": 3534,
         "patch": 0
     },
     "keywords": [
@@ -23439,6 +23439,13 @@
             "name": "Dexe",
             "symbol": "DEXE",
             "address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polkastarter",
+            "symbol": "POLS",
+            "address": "0x1a461A36ac195fF2dD31861aAD7222728dA42616",
             "decimals": 18
         }
     ]
