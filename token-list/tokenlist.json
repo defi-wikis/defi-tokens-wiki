@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T18:04:19.755Z",
+    "timestamp": "2020-09-29T18:17:49.848Z",
     "version": {
         "major": 1,
-        "minor": 3572,
+        "minor": 3573,
         "patch": 0
     },
     "keywords": [
@@ -23712,6 +23712,13 @@
             "name": "YFGovernance",
             "symbol": "YFG",
             "address": "0x10A9240B31427982573af14dDe0afEd54ac97B12",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tether Combinator",
+            "symbol": "yUSDT+fUSDT+nUSDT+zUSDT",
+            "address": "0x2Df1Eefc9eb42EA6d22bD6388bC91e880068780E",
             "decimals": 18
         }
     ]
