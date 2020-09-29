@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T16:32:15.575Z",
+    "timestamp": "2020-09-29T16:42:40.103Z",
     "version": {
         "major": 1,
-        "minor": 3561,
+        "minor": 3562,
         "patch": 0
     },
     "keywords": [
@@ -23635,6 +23635,13 @@
             "name": "GorillaVault y",
             "symbol": "YGV",
             "address": "0x2211c03217B6Fe5165260c566B6625245574bF93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EminenceDAI",
+            "symbol": "daiEMN",
+            "address": "0xf82006B0Df80D5Af3857938b811aa194F0715B33",
             "decimals": 18
         }
     ]
