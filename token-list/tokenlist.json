@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T06:40:49.919Z",
+    "timestamp": "2020-09-29T06:55:55.286Z",
     "version": {
         "major": 1,
-        "minor": 3496,
+        "minor": 3497,
         "patch": 0
     },
     "keywords": [
@@ -23180,6 +23180,13 @@
             "name": "OIN.Finance",
             "symbol": "OIN",
             "address": "0x663c7061f0919Ec7B11656665b203c77194A3795",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "fuckYou EMN",
+            "symbol": "yEMN",
+            "address": "0xeB8e4a54848057E0782AD777151A68796B6CF6B7",
             "decimals": 18
         }
     ]
