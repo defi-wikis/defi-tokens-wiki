@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T00:19:34.881Z",
+    "timestamp": "2020-09-29T00:23:15.169Z",
     "version": {
         "major": 1,
-        "minor": 3453,
+        "minor": 3454,
         "patch": 0
     },
     "keywords": [
@@ -22879,6 +22879,13 @@
             "name": "Eminence Token",
             "symbol": "EMN",
             "address": "0x260603D41449974E1DD8D24978053C6aa328C16F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "extraDNA",
+            "symbol": "xDNA",
+            "address": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
             "decimals": 18
         }
     ]
