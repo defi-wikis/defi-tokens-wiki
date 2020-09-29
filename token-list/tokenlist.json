@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T10:43:09.379Z",
+    "timestamp": "2020-09-29T10:59:06.384Z",
     "version": {
         "major": 1,
-        "minor": 3519,
+        "minor": 3520,
         "patch": 0
     },
     "keywords": [
@@ -23341,6 +23341,13 @@
             "name": "Sexillo",
             "symbol": "SEX",
             "address": "0xFD0b54Fa238f950066f06E894C31c5D10397ffb3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEET.ONE",
+            "symbol": "MEFI",
+            "address": "0xEBf919584021075d3f7bf3d6CF1c6dC318221EFf",
             "decimals": 18
         }
     ]
