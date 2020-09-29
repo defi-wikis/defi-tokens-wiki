@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T03:45:59.403Z",
+    "timestamp": "2020-09-29T03:50:55.026Z",
     "version": {
         "major": 1,
-        "minor": 3473,
+        "minor": 3474,
         "patch": 0
     },
     "keywords": [
@@ -23019,6 +23019,13 @@
             "name": "SdexToken",
             "symbol": "SDEX",
             "address": "0xFb727bE201448850aA7c3bf8f1F35a6FBf548AC6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ether Bitcoin",
+            "symbol": "EBTC",
+            "address": "0x7880639759BC93d44F888be1B3D6A833E9E0b1b2",
             "decimals": 18
         }
     ]
