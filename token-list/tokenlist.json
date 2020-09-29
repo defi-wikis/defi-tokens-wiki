@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T16:42:40.103Z",
+    "timestamp": "2020-09-29T17:03:59.323Z",
     "version": {
         "major": 1,
-        "minor": 3562,
+        "minor": 3563,
         "patch": 0
     },
     "keywords": [
@@ -23642,6 +23642,13 @@
             "name": "EminenceDAI",
             "symbol": "daiEMN",
             "address": "0xf82006B0Df80D5Af3857938b811aa194F0715B33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AmazonFinance",
+            "symbol": "AMAZ",
+            "address": "0xF7e1E9abBb1b50BFa4eC2bf000495Fcd3f652c0D",
             "decimals": 18
         }
     ]
