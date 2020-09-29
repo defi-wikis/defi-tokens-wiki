@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T18:47:29.748Z",
+    "timestamp": "2020-09-29T18:48:25.004Z",
     "version": {
         "major": 1,
-        "minor": 3578,
+        "minor": 3579,
         "patch": 0
     },
     "keywords": [
@@ -23754,6 +23754,13 @@
             "name": "Flamingo.finance",
             "symbol": "FLM",
             "address": "0xA07C95d054e3df88D8c1B8fb9fD31256210b9b97",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JuFi Token",
+            "symbol": "JFI",
+            "address": "0x06a997FA916BAD4981dd2C88695F9552FaC6439c",
             "decimals": 18
         }
     ]
