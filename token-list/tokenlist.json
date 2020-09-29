@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T05:19:55.132Z",
+    "timestamp": "2020-09-29T05:31:49.781Z",
     "version": {
         "major": 1,
-        "minor": 3484,
+        "minor": 3485,
         "patch": 0
     },
     "keywords": [
@@ -23096,6 +23096,13 @@
             "name": "Bogart NFT",
             "symbol": "BOG",
             "address": "0xbb5477bCF952862FC5199Db536258f0b1C2F2eb3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Spartan Protocol",
+            "symbol": "SPARTA",
+            "address": "0x856C7d604187E43cbB636A6C4DDEdb69f9ce7693",
             "decimals": 18
         }
     ]
