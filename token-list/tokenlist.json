@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T16:19:07.463Z",
+    "timestamp": "2020-09-29T16:20:35.562Z",
     "version": {
         "major": 1,
-        "minor": 3557,
+        "minor": 3558,
         "patch": 0
     },
     "keywords": [
@@ -23607,6 +23607,13 @@
             "name": "BLM.finance",
             "symbol": "BLM",
             "address": "0x0d63d1aAB6D7Ed3dAbeFC514dB7F00A1f32c3941",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yyCombinator Yearn Finance",
+            "symbol": "yyYFI+yyYFII+yyYFV",
+            "address": "0x6B8194FC1F828F77f586923072Ea799F1b250E42",
             "decimals": 18
         }
     ]
