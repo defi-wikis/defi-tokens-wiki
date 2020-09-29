@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T03:05:20.113Z",
+    "timestamp": "2020-09-29T03:19:49.804Z",
     "version": {
         "major": 1,
-        "minor": 3470,
+        "minor": 3471,
         "patch": 0
     },
     "keywords": [
@@ -22998,6 +22998,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x7361089739160C3FE987a06Bf50283487B671219",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wage",
+            "symbol": "WAGE",
+            "address": "0x9D6df5De56ed924b5e54EBBffD368D89fd134520",
             "decimals": 18
         }
     ]
