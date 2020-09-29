@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:56:39.510Z",
+    "timestamp": "2020-09-29T11:56:49.582Z",
     "version": {
         "major": 1,
-        "minor": 3529,
+        "minor": 3530,
         "patch": 0
     },
     "keywords": [
@@ -23412,6 +23412,13 @@
             "symbol": "APY",
             "address": "0xF00b86cA0bAABb2C1512D7AF94b89E58FcF82E94",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Shield",
+            "symbol": "XSHE",
+            "address": "0xC689BD1eAFB852134af62Ffd86dd4988F7a307bc",
+            "decimals": 18
         }
     ]
 }
