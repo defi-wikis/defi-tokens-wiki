@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T19:55:25.643Z",
+    "timestamp": "2020-09-29T20:04:10.104Z",
     "version": {
         "major": 1,
-        "minor": 3589,
+        "minor": 3590,
         "patch": 0
     },
     "keywords": [
@@ -23831,6 +23831,13 @@
             "name": "VOTE2020.NETWORK",
             "symbol": "TMP20",
             "address": "0x81471747D854Fe46A025576Fd8189141fAf2549B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dVault.finance",
+            "symbol": "COREDOS",
+            "address": "0x70d387BA43D2a553976C925Bc590C81818ACBf16",
             "decimals": 18
         }
     ]
