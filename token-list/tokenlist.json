@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T05:18:50.329Z",
+    "timestamp": "2020-09-29T05:19:55.132Z",
     "version": {
         "major": 1,
-        "minor": 3483,
+        "minor": 3484,
         "patch": 0
     },
     "keywords": [
@@ -23089,6 +23089,13 @@
             "name": "Eminence v2.0",
             "symbol": "EMNv2",
             "address": "0xeb72cDbB0CB419AC4072d685b9b83665659B6Fd6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bogart NFT",
+            "symbol": "BOG",
+            "address": "0xbb5477bCF952862FC5199Db536258f0b1C2F2eb3",
             "decimals": 18
         }
     ]
