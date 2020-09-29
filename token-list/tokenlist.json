@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T15:09:54.787Z",
+    "timestamp": "2020-09-29T15:23:40.691Z",
     "version": {
         "major": 1,
-        "minor": 3552,
+        "minor": 3553,
         "patch": 0
     },
     "keywords": [
@@ -23572,6 +23572,13 @@
             "name": "Litecoin Swap",
             "symbol": "LCS",
             "address": "0xe837503418272cD586bC940Cf566F488770EDfA8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfarm.finance",
+            "symbol": "YFM",
+            "address": "0xa665FED1b0C9dA00e91ca582f77dF36E325048c5",
             "decimals": 18
         }
     ]
