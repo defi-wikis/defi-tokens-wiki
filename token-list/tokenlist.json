@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T14:58:25.535Z",
+    "timestamp": "2020-09-29T15:06:54.748Z",
     "version": {
         "major": 1,
-        "minor": 3550,
+        "minor": 3551,
         "patch": 0
     },
     "keywords": [
@@ -23558,6 +23558,13 @@
             "name": "Ade.Finance",
             "symbol": "ADE",
             "address": "0x6d5017319a76fDfa97703b5F3e96CcF5e1a7B8EA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bidao",
+            "symbol": "BID",
+            "address": "0xD3c288276174691942F1CEB705Eb872B698CA3a7",
             "decimals": 18
         }
     ]
