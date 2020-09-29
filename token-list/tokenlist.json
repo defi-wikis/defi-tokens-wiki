@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T03:26:02.086Z",
+    "timestamp": "2020-09-29T03:45:59.403Z",
     "version": {
         "major": 1,
-        "minor": 3472,
+        "minor": 3473,
         "patch": 0
     },
     "keywords": [
@@ -23012,6 +23012,13 @@
             "name": "Polkastarter",
             "symbol": "POLS",
             "address": "0x61A8CB6deaE0b2e73Ca5f0324Ccf4205e9fbbDCF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SdexToken",
+            "symbol": "SDEX",
+            "address": "0xFb727bE201448850aA7c3bf8f1F35a6FBf548AC6",
             "decimals": 18
         }
     ]
