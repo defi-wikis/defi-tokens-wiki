@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:59:25.712Z",
+    "timestamp": "2020-09-29T13:04:50.326Z",
     "version": {
         "major": 1,
-        "minor": 3540,
+        "minor": 3541,
         "patch": 0
     },
     "keywords": [
@@ -23489,6 +23489,13 @@
             "symbol": "PUMPER",
             "address": "0x55271E81ae6643c31c0c7C7E0e6153d3cdE26724",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YFFY Finance",
+            "symbol": "YFFY",
+            "address": "0xB4BE59CCA51206e3882dc7b68F8CFD2b8fc0CCbE",
+            "decimals": 18
         }
     ]
 }
