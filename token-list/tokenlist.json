@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:03:15.396Z",
+    "timestamp": "2020-09-29T23:11:09.800Z",
     "version": {
         "major": 1,
-        "minor": 3617,
+        "minor": 3618,
         "patch": 0
     },
     "keywords": [
@@ -24027,6 +24027,13 @@
             "name": "United Kingdom",
             "symbol": "UK",
             "address": "0x2b5202bdA1e3f3705FD96a8FbDE602F7B818573c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Gold Finance",
+            "symbol": "YGF",
+            "address": "0xfdd3de8255E42A09320a523A0932Ff126fd492ae",
             "decimals": 18
         }
     ]
