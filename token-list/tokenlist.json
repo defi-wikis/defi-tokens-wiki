@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T07:59:55.024Z",
+    "timestamp": "2020-09-29T08:03:14.904Z",
     "version": {
         "major": 1,
-        "minor": 3503,
+        "minor": 3504,
         "patch": 0
     },
     "keywords": [
@@ -23229,6 +23229,13 @@
             "name": "yfMANTRA",
             "symbol": "YFMANTRA",
             "address": "0x2d10c315553fCFf15b9d3D1EC5690dDcD75D7A25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "uSwap",
+            "symbol": "USP",
+            "address": "0xE5C27f33D068C908F3A5a07EeC194b387Da87356",
             "decimals": 18
         }
     ]
