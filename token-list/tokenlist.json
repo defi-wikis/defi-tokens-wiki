@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T14:43:06.868Z",
+    "timestamp": "2020-09-29T14:58:25.535Z",
     "version": {
         "major": 1,
-        "minor": 3549,
+        "minor": 3550,
         "patch": 0
     },
     "keywords": [
@@ -23552,6 +23552,13 @@
             "symbol": "GIV",
             "address": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Ade.Finance",
+            "symbol": "ADE",
+            "address": "0x6d5017319a76fDfa97703b5F3e96CcF5e1a7B8EA",
+            "decimals": 18
         }
     ]
 }
