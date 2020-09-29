@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:54:10.139Z",
+    "timestamp": "2020-09-29T12:58:30.268Z",
     "version": {
         "major": 1,
-        "minor": 3538,
+        "minor": 3539,
         "patch": 0
     },
     "keywords": [
@@ -23475,6 +23475,13 @@
             "symbol": "UPAY",
             "address": "0x795B74b4F69b8F810CF01db284582F75276f3196",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "PolkastarterToken",
+            "symbol": "POLS",
+            "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+            "decimals": 18
         }
     ]
 }
