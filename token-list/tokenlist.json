@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T10:09:59.433Z",
+    "timestamp": "2020-09-29T10:43:09.379Z",
     "version": {
         "major": 1,
-        "minor": 3518,
+        "minor": 3519,
         "patch": 0
     },
     "keywords": [
@@ -23334,6 +23334,13 @@
             "name": "Grow DAI",
             "symbol": "gDAI",
             "address": "0xaBa53e2D526C2B37EEB97da4e60da82BdcC0a7A7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sexillo",
+            "symbol": "SEX",
+            "address": "0xFD0b54Fa238f950066f06E894C31c5D10397ffb3",
             "decimals": 18
         }
     ]
