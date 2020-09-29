@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T00:14:55.510Z",
+    "timestamp": "2020-09-29T00:19:34.881Z",
     "version": {
         "major": 1,
-        "minor": 3452,
+        "minor": 3453,
         "patch": 0
     },
     "keywords": [
@@ -22873,6 +22873,13 @@
             "symbol": "LMSG",
             "address": "0xaefBE8583ABA88c026A45CdbD04982291CEC7D13",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence Token",
+            "symbol": "EMN",
+            "address": "0x260603D41449974E1DD8D24978053C6aa328C16F",
+            "decimals": 18
         }
     ]
 }
