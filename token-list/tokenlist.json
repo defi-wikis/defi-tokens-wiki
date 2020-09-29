@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T09:08:20.755Z",
+    "timestamp": "2020-09-29T09:13:29.925Z",
     "version": {
         "major": 1,
-        "minor": 3510,
+        "minor": 3511,
         "patch": 0
     },
     "keywords": [
@@ -23278,6 +23278,13 @@
             "name": "RampDefi.com",
             "symbol": "RAMP",
             "address": "0x09980FdF550877313f6f5C8E5c62ceE5A4E8D5f9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NEWFOBO",
+            "symbol": "NEWF",
+            "address": "0x35110eF5eA4c806a9acAA705Bd9eC287496592B6",
             "decimals": 18
         }
     ]
