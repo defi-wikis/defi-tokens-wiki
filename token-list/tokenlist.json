@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T07:59:20.839Z",
+    "timestamp": "2020-09-29T07:59:55.024Z",
     "version": {
         "major": 1,
-        "minor": 3502,
+        "minor": 3503,
         "patch": 0
     },
     "keywords": [
@@ -23222,6 +23222,13 @@
             "name": "HathorNetwork",
             "symbol": "HTR",
             "address": "0x7724a93aC39108BA419BBF4065D3553a41c1fD15",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfMANTRA",
+            "symbol": "YFMANTRA",
+            "address": "0x2d10c315553fCFf15b9d3D1EC5690dDcD75D7A25",
             "decimals": 18
         }
     ]
