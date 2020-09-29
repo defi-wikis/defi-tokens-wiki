@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T07:54:39.791Z",
+    "timestamp": "2020-09-29T07:59:20.839Z",
     "version": {
         "major": 1,
-        "minor": 3501,
+        "minor": 3502,
         "patch": 0
     },
     "keywords": [
@@ -23215,6 +23215,13 @@
             "name": "YFI Group",
             "symbol": "YFIG",
             "address": "0x267a73312c38D2bCc69797711bdeeAAb874620f2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HathorNetwork",
+            "symbol": "HTR",
+            "address": "0x7724a93aC39108BA419BBF4065D3553a41c1fD15",
             "decimals": 18
         }
     ]
