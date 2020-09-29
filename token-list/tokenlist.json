@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T03:53:24.764Z",
+    "timestamp": "2020-09-29T04:02:30.029Z",
     "version": {
         "major": 1,
-        "minor": 3475,
+        "minor": 3476,
         "patch": 0
     },
     "keywords": [
@@ -23033,6 +23033,13 @@
             "name": "pancakeswap.finance",
             "symbol": "CAKE",
             "address": "0xD0a916F7Baa49A54041EE32D147BA26e0C4Bf593",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitLand",
+            "symbol": "BIL",
+            "address": "0xdef058a630354E1081c7F3608F081E951d2A5570",
             "decimals": 18
         }
     ]
