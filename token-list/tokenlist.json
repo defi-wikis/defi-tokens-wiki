@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T04:19:09.656Z",
+    "timestamp": "2020-09-29T04:26:35.267Z",
     "version": {
         "major": 1,
-        "minor": 3477,
+        "minor": 3478,
         "patch": 0
     },
     "keywords": [
@@ -23047,6 +23047,13 @@
             "name": "venus.io",
             "symbol": "XVS",
             "address": "0x20C07586a877b76797e6F63A5A34842bFD78CB7E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fairy Finance",
+            "symbol": "FRT",
+            "address": "0x35DfdAD99DD022adbB63754aEbc9365f66B29807",
             "decimals": 18
         }
     ]
