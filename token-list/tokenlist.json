@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-28T23:59:45.282Z",
+    "timestamp": "2020-09-29T00:12:35.108Z",
     "version": {
         "major": 1,
-        "minor": 3450,
+        "minor": 3451,
         "patch": 0
     },
     "keywords": [
@@ -22858,6 +22858,13 @@
             "name": "Milky Way protocol @ mwprotocol.space",
             "symbol": "WAY",
             "address": "0x88d38F9B8BbEE25667ab55bA4a8Cb986Ff1260f7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Time Travel",
+            "symbol": "TRAVEL",
+            "address": "0x41b9E154b099A3e53b88D44004886B31311ECeb8",
             "decimals": 18
         }
     ]
