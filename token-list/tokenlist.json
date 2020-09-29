@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T13:28:19.514Z",
+    "timestamp": "2020-09-29T13:41:07.176Z",
     "version": {
         "major": 1,
-        "minor": 3543,
+        "minor": 3544,
         "patch": 0
     },
     "keywords": [
@@ -23509,6 +23509,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0xa6400b728f688d0a28854E1BcD5fA18A32B757fE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFGamma",
+            "symbol": "YFG",
+            "address": "0x6C6c37Ada400Ca72e09C26a0b0DFC5C09Bd4B9D2",
             "decimals": 18
         }
     ]
