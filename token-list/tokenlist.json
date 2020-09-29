@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T01:29:20.131Z",
+    "timestamp": "2020-09-29T01:47:06.964Z",
     "version": {
         "major": 1,
-        "minor": 3458,
+        "minor": 3459,
         "patch": 0
     },
     "keywords": [
@@ -22914,6 +22914,13 @@
             "name": "Steaks.finance",
             "symbol": "STEAK",
             "address": "0xeED9e4F2450035D6426276a8aA2084966EE3b1bb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aergo",
+            "symbol": "AERGO",
+            "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
             "decimals": 18
         }
     ]
