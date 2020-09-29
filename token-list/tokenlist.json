@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:46:08.293Z",
+    "timestamp": "2020-09-29T23:47:54.893Z",
     "version": {
         "major": 1,
-        "minor": 3623,
+        "minor": 3624,
         "patch": 0
     },
     "keywords": [
@@ -24069,6 +24069,13 @@
             "name": "alphafinance.io",
             "symbol": "ALPHA",
             "address": "0x1867921982172316fFE8CE083B800Df3C62f6f5F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Firemoon.Finance",
+            "symbol": "FIRM",
+            "address": "0x84Aad0B0f2E9B6CA4a7799EB372Cd0E16D1fa346",
             "decimals": 18
         }
     ]
