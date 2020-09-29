@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:15:59.782Z",
+    "timestamp": "2020-09-29T23:25:44.530Z",
     "version": {
         "major": 1,
-        "minor": 3620,
+        "minor": 3621,
         "patch": 0
     },
     "keywords": [
@@ -24048,6 +24048,13 @@
             "name": "Polkastarter (Official)",
             "symbol": "POLS",
             "address": "0x56DabA163a2AC1c76f5C0c74F4F03817Fdd994e4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Deer Chen",
+            "symbol": "DEER",
+            "address": "0xB3E1Ecf2f31FD7fDBb5bA9e593a6F083Ef9160C6",
             "decimals": 18
         }
     ]
