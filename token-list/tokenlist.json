@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:29:15.272Z",
+    "timestamp": "2020-09-29T22:31:01.935Z",
     "version": {
         "major": 1,
-        "minor": 3611,
+        "minor": 3612,
         "patch": 0
     },
     "keywords": [
@@ -23985,6 +23985,13 @@
             "name": "gotEM",
             "symbol": "GTX",
             "address": "0x2910b9DeA758aAC0E449aF0fB6c4038b8eD86b50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence2",
+            "symbol": "EMN2",
+            "address": "0x5BbA7A79d3e05D73682825Cd1cd067b7168513f6",
             "decimals": 18
         }
     ]
