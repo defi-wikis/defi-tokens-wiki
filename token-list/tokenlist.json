@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:35:44.780Z",
+    "timestamp": "2020-09-29T22:46:54.761Z",
     "version": {
         "major": 1,
-        "minor": 3614,
+        "minor": 3615,
         "patch": 0
     },
     "keywords": [
@@ -24007,6 +24007,13 @@
             "symbol": "NFT",
             "address": "0xA148Efab62128E5d02F81E9BF13aEC7736BCE0Bb",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "EMNr",
+            "symbol": "EMN.refund",
+            "address": "0xaAD291c225f04bEB18e8111576B808D1dCedD717",
+            "decimals": 0
         }
     ]
 }
