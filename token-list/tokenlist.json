@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T13:04:50.326Z",
+    "timestamp": "2020-09-29T13:21:25.276Z",
     "version": {
         "major": 1,
-        "minor": 3541,
+        "minor": 3542,
         "patch": 0
     },
     "keywords": [
@@ -23495,6 +23495,13 @@
             "name": "YFFY Finance",
             "symbol": "YFFY",
             "address": "0xB4BE59CCA51206e3882dc7b68F8CFD2b8fc0CCbE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UnirisToken",
+            "symbol": "UCO",
+            "address": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
             "decimals": 18
         }
     ]
