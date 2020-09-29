@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:10:29.732Z",
+    "timestamp": "2020-09-29T11:30:08.793Z",
     "version": {
         "major": 1,
-        "minor": 3521,
+        "minor": 3522,
         "patch": 0
     },
     "keywords": [
@@ -23355,6 +23355,13 @@
             "name": "NotImportantLottery",
             "symbol": "NIL",
             "address": "0x53f90bc12e2F87d8358D0d822269a2cB879a5770",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "jkl",
+            "symbol": "jkl",
+            "address": "0x66Ae1602F62B0abb63fB0003D3a7f6DE0D38071b",
             "decimals": 18
         }
     ]
