@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T08:06:45.798Z",
+    "timestamp": "2020-09-29T08:23:39.719Z",
     "version": {
         "major": 1,
-        "minor": 3505,
+        "minor": 3506,
         "patch": 0
     },
     "keywords": [
@@ -23243,6 +23243,13 @@
             "name": "fuck YFI",
             "symbol": "fYFI",
             "address": "0x9aEAE8A3F5bDcc11ca3Ae848912843A094726236",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SWIFT PROTOCOL",
+            "symbol": "SWIFT",
+            "address": "0x9E484334CE9a63382d39CF09F6A94456711A4c17",
             "decimals": 18
         }
     ]
