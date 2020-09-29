@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:55:19.790Z",
+    "timestamp": "2020-09-29T23:03:15.396Z",
     "version": {
         "major": 1,
-        "minor": 3616,
+        "minor": 3617,
         "patch": 0
     },
     "keywords": [
@@ -24020,6 +24020,13 @@
             "name": "BBB Finance",
             "symbol": "BBB",
             "address": "0x0651b66d6af12ccf27Ad194170e0dEB5aa5cC454",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "United Kingdom",
+            "symbol": "UK",
+            "address": "0x2b5202bdA1e3f3705FD96a8FbDE602F7B818573c",
             "decimals": 18
         }
     ]
