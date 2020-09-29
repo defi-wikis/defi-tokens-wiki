@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T01:47:06.964Z",
+    "timestamp": "2020-09-29T02:15:11.746Z",
     "version": {
         "major": 1,
-        "minor": 3459,
+        "minor": 3460,
         "patch": 0
     },
     "keywords": [
@@ -22921,6 +22921,13 @@
             "name": "Aergo",
             "symbol": "AERGO",
             "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AlmostOne",
+            "symbol": "AO",
+            "address": "0x022057C3EF9166433750165Bfda21D52988e0756",
             "decimals": 18
         }
     ]
