@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T03:50:55.026Z",
+    "timestamp": "2020-09-29T03:53:24.764Z",
     "version": {
         "major": 1,
-        "minor": 3474,
+        "minor": 3475,
         "patch": 0
     },
     "keywords": [
@@ -23026,6 +23026,13 @@
             "name": "Ether Bitcoin",
             "symbol": "EBTC",
             "address": "0x7880639759BC93d44F888be1B3D6A833E9E0b1b2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pancakeswap.finance",
+            "symbol": "CAKE",
+            "address": "0xD0a916F7Baa49A54041EE32D147BA26e0C4Bf593",
             "decimals": 18
         }
     ]
