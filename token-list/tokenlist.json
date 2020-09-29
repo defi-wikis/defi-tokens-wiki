@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:53:44.953Z",
+    "timestamp": "2020-09-29T11:56:30.346Z",
     "version": {
         "major": 1,
-        "minor": 3527,
+        "minor": 3528,
         "patch": 0
     },
     "keywords": [
@@ -23397,6 +23397,13 @@
             "name": "Yearn Final Finance",
             "symbol": "YFIN",
             "address": "0x57c58F0aB49A6198C2895B13C3E7958c025E4B96",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Boomerang",
+            "symbol": "BOMG",
+            "address": "0x4B03B591b8CD6dc9000AF9E1E350b8B1a3BDb157",
             "decimals": 18
         }
     ]
