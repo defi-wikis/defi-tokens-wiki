@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:56:34.332Z",
+    "timestamp": "2020-09-29T23:57:49.626Z",
     "version": {
         "major": 1,
-        "minor": 3625,
+        "minor": 3626,
         "patch": 0
     },
     "keywords": [
@@ -24083,6 +24083,13 @@
             "name": "LuaSwap",
             "symbol": "LUA",
             "address": "0x7a251ae86c71BAaa14E00C31f656eA073e87c87B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Equalizer.fi",
+            "symbol": "EQL",
+            "address": "0xfD20ad7c7b1Ee297b081fAa07c6a2D6725677630",
             "decimals": 18
         }
     ]
