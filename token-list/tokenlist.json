@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T05:31:49.781Z",
+    "timestamp": "2020-09-29T05:38:40.101Z",
     "version": {
         "major": 1,
-        "minor": 3485,
+        "minor": 3486,
         "patch": 0
     },
     "keywords": [
@@ -23103,6 +23103,13 @@
             "name": "Spartan Protocol",
             "symbol": "SPARTA",
             "address": "0x856C7d604187E43cbB636A6C4DDEdb69f9ce7693",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dontbuywolf.com",
+            "symbol": "$WOLF",
+            "address": "0xf3DDd635936dC41d50E57B381b1d44165deDFB29",
             "decimals": 18
         }
     ]
