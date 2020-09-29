@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T02:23:44.515Z",
+    "timestamp": "2020-09-29T02:25:39.835Z",
     "version": {
         "major": 1,
-        "minor": 3462,
+        "minor": 3463,
         "patch": 0
     },
     "keywords": [
@@ -22942,6 +22942,13 @@
             "name": "Clustersphere",
             "symbol": "CPE",
             "address": "0x28441eD6ebaAD179a2c10A0a5D46BF3f3Ace17dE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GoodFuckingGame",
+            "symbol": "GFG",
+            "address": "0xE306EC4E455cDE6D89Acccc01d209435bEB10aF3",
             "decimals": 18
         }
     ]
