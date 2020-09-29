@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T18:38:02.230Z",
+    "timestamp": "2020-09-29T18:42:06.557Z",
     "version": {
         "major": 1,
-        "minor": 3575,
+        "minor": 3576,
         "patch": 0
     },
     "keywords": [
@@ -23733,6 +23733,13 @@
             "name": "Eminence AAVE",
             "symbol": "eAAVE",
             "address": "0x7FA230A79422AF0A2edb4B7B09154b7C65Dcc743",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tokenlon.im",
+            "symbol": "LON",
+            "address": "0x843afA2Cb784D24fAc772ed0E232856469cCC582",
             "decimals": 18
         }
     ]
