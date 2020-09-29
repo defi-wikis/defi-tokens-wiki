@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T09:13:29.925Z",
+    "timestamp": "2020-09-29T09:22:01.921Z",
     "version": {
         "major": 1,
-        "minor": 3511,
+        "minor": 3512,
         "patch": 0
     },
     "keywords": [
@@ -23285,6 +23285,13 @@
             "name": "NEWFOBO",
             "symbol": "NEWF",
             "address": "0x35110eF5eA4c806a9acAA705Bd9eC287496592B6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Onyx DAO",
+            "symbol": "Onyx",
+            "address": "0xcd86fC73e7C95b72662E4BBA30279758DA5b8674",
             "decimals": 18
         }
     ]
