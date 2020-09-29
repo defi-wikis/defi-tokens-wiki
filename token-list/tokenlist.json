@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T08:40:34.816Z",
+    "timestamp": "2020-09-29T09:04:49.276Z",
     "version": {
         "major": 1,
-        "minor": 3507,
+        "minor": 3508,
         "patch": 0
     },
     "keywords": [
@@ -23257,6 +23257,13 @@
             "name": "Chonker.Finance",
             "symbol": "CHONK",
             "address": "0x073Db0bb9b2CD247592b7388d36b159a6ad9e5fe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfmantra.finance",
+            "symbol": "YFMF",
+            "address": "0x09e3cD2510BC5A0FD5Cb8541E3520c553423d484",
             "decimals": 18
         }
     ]
