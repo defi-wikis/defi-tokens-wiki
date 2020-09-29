@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T21:44:50.032Z",
+    "timestamp": "2020-09-29T21:48:25.090Z",
     "version": {
         "major": 1,
-        "minor": 3605,
+        "minor": 3606,
         "patch": 0
     },
     "keywords": [
@@ -23944,6 +23944,13 @@
             "symbol": "YFMB",
             "address": "0xE1D524F2db810cA86b5007f672c64e2daa9686c8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COVAL",
+            "symbol": "COVAL.finance",
+            "address": "0x097Dc645817021BAB11bb874492038893e04f72B",
+            "decimals": 0
         }
     ]
 }
