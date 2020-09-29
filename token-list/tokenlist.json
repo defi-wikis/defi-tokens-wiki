@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:10:15.253Z",
+    "timestamp": "2020-09-29T22:20:54.983Z",
     "version": {
         "major": 1,
-        "minor": 3608,
+        "minor": 3609,
         "patch": 0
     },
     "keywords": [
@@ -23964,6 +23964,13 @@
             "name": "Firemoon",
             "symbol": "FIRM",
             "address": "0x80F4d4B61f4aE3B1bC2724aE582516FDDEd5CabE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WrappedTRX",
+            "symbol": "WTRX",
+            "address": "0x442D57797BD2AEC17a22b8f8c14D3ac6917dF516",
             "decimals": 18
         }
     ]
