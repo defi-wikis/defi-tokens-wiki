@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:28:07.738Z",
+    "timestamp": "2020-09-29T23:46:08.293Z",
     "version": {
         "major": 1,
-        "minor": 3622,
+        "minor": 3623,
         "patch": 0
     },
     "keywords": [
@@ -24062,6 +24062,13 @@
             "name": "trcash",
             "symbol": "trc",
             "address": "0x5C6D77459f2a282586C1f591a4f2b2E4E14cc8C9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "alphafinance.io",
+            "symbol": "ALPHA",
+            "address": "0x1867921982172316fFE8CE083B800Df3C62f6f5F",
             "decimals": 18
         }
     ]
