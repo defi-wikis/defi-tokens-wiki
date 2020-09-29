@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T05:49:24.577Z",
+    "timestamp": "2020-09-29T05:51:34.603Z",
     "version": {
         "major": 1,
-        "minor": 3488,
+        "minor": 3489,
         "patch": 0
     },
     "keywords": [
@@ -23124,6 +23124,13 @@
             "name": "dodoex.io",
             "symbol": "DODO",
             "address": "0x663503Dc0cF9cb5A834276caece5eAacBA18E3aF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "chonker.finance",
+            "symbol": "CHONK",
+            "address": "0xd3c63D28b724f9E16D2b33E4bc0C9cFc6A110258",
             "decimals": 18
         }
     ]
