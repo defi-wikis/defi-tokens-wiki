@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T21:29:44.834Z",
+    "timestamp": "2020-09-29T21:44:50.032Z",
     "version": {
         "major": 1,
-        "minor": 3604,
+        "minor": 3605,
         "patch": 0
     },
     "keywords": [
@@ -23936,6 +23936,13 @@
             "name": "LGBTQ Foundation",
             "symbol": "LGBTQ",
             "address": "0x13275e86633abd8fa871359268147De5859Edc96",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFMOONBEAM.COM",
+            "symbol": "YFMB",
+            "address": "0xE1D524F2db810cA86b5007f672c64e2daa9686c8",
             "decimals": 18
         }
     ]
