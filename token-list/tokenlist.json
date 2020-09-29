@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:46:54.761Z",
+    "timestamp": "2020-09-29T22:55:19.790Z",
     "version": {
         "major": 1,
-        "minor": 3615,
+        "minor": 3616,
         "patch": 0
     },
     "keywords": [
@@ -24014,6 +24014,13 @@
             "symbol": "EMN.refund",
             "address": "0xaAD291c225f04bEB18e8111576B808D1dCedD717",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "BBB Finance",
+            "symbol": "BBB",
+            "address": "0x0651b66d6af12ccf27Ad194170e0dEB5aa5cC454",
+            "decimals": 18
         }
     ]
 }
