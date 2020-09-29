@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T10:07:15.288Z",
+    "timestamp": "2020-09-29T10:09:39.470Z",
     "version": {
         "major": 1,
-        "minor": 3516,
+        "minor": 3517,
         "patch": 0
     },
     "keywords": [
@@ -23321,6 +23321,13 @@
             "symbol": "NEUW",
             "address": "0x7A0896f44f84AE7d8e271F5d2e86a401Edb7b571",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YeaFinance2",
+            "symbol": "YEA2",
+            "address": "0xF6ad681D9048Efa2E0f6f6b6C3c8D9b9548827b5",
+            "decimals": 8
         }
     ]
 }
