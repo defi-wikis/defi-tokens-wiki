@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T00:57:35.428Z",
+    "timestamp": "2020-09-29T01:06:44.940Z",
     "version": {
         "major": 1,
-        "minor": 3456,
+        "minor": 3457,
         "patch": 0
     },
     "keywords": [
@@ -22900,6 +22900,13 @@
             "name": "Yoda Finance",
             "symbol": "YODA",
             "address": "0xa983ee9D1B513c54022cC214AB9429c7b915793c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cryptolocally.io",
+            "symbol": "GIV",
+            "address": "0x824f6543f801B9CcF1D6462161026a0B9439576d",
             "decimals": 18
         }
     ]
