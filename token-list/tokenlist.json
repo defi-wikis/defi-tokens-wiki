@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T15:59:39.664Z",
+    "timestamp": "2020-09-29T16:13:20.775Z",
     "version": {
         "major": 1,
-        "minor": 3555,
+        "minor": 3556,
         "patch": 0
     },
     "keywords": [
@@ -23593,6 +23593,13 @@
             "name": "Makery",
             "symbol": "MKR",
             "address": "0xb2A9A0F34e3140de9b9A489b33fc049102A1808e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlueStake.Org",
+            "symbol": "$BLUE",
+            "address": "0x9880531938e409ff35CB52De9c1478eFe6c69aA1",
             "decimals": 18
         }
     ]
