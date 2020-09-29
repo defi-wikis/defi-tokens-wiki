@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T18:31:19.653Z",
+    "timestamp": "2020-09-29T18:38:02.230Z",
     "version": {
         "major": 1,
-        "minor": 3574,
+        "minor": 3575,
         "patch": 0
     },
     "keywords": [
@@ -23726,6 +23726,13 @@
             "name": "Yearn Dao Finance",
             "symbol": "YDF",
             "address": "0x8f31614c361Bf815a2D300290d0C32a5A29C3bbc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence AAVE",
+            "symbol": "eAAVE",
+            "address": "0x7FA230A79422AF0A2edb4B7B09154b7C65Dcc743",
             "decimals": 18
         }
     ]
