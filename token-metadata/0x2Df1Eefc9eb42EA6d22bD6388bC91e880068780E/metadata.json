@@ -1,0 +1,7 @@
+{
+    "name": "Tether Combinator",
+    "symbol": "yUSDT+fUSDT+nUSDT+zUSDT",
+    "address": "0x2Df1Eefc9eb42EA6d22bD6388bC91e880068780E",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
