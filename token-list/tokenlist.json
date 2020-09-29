@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:22:59.864Z",
+    "timestamp": "2020-09-29T20:38:20.278Z",
     "version": {
         "major": 1,
-        "minor": 3594,
+        "minor": 3595,
         "patch": 0
     },
     "keywords": [
@@ -23866,6 +23866,13 @@
             "name": "xBTC.fi",
             "symbol": "XBTC",
             "address": "0x329Dc895d215b4c67eF1eC9f3f3396adB3917543",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Galileo",
+            "symbol": "Galileo",
+            "address": "0x3aca398197478e1F911e4eDd8fF7b4d608B98a3a",
             "decimals": 18
         }
     ]
