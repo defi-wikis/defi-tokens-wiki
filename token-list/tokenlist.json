@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:32:01.869Z",
+    "timestamp": "2020-09-29T12:41:59.715Z",
     "version": {
         "major": 1,
-        "minor": 3535,
+        "minor": 3536,
         "patch": 0
     },
     "keywords": [
@@ -23453,6 +23453,13 @@
             "name": "POLS(polkastarter)",
             "symbol": "POLS",
             "address": "0xeB06fDf228E05DA02BC2CB0BD56f6F63781Fb3DF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EMINENCE V2",
+            "symbol": "EMN V2",
+            "address": "0x0E6E0e375542F0E127EC636ECFbCb09547Dd7458",
             "decimals": 18
         }
     ]
