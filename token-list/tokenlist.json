@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:11:09.833Z",
+    "timestamp": "2020-09-29T12:16:35.650Z",
     "version": {
         "major": 1,
-        "minor": 3531,
+        "minor": 3532,
         "patch": 0
     },
     "keywords": [
@@ -23425,6 +23425,13 @@
             "name": "ELK Finance",
             "symbol": "ELK",
             "address": "0xd8BaB53373B732Da40A7239359F141935dC00BfD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EPCHO",
+            "symbol": "EPCHO",
+            "address": "0xaF1556e1458370b90f33CfFB6167D33cF58A9B1E",
             "decimals": 18
         }
     ]
