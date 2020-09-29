@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:39:34.731Z",
+    "timestamp": "2020-09-29T20:40:15.444Z",
     "version": {
         "major": 1,
-        "minor": 3596,
+        "minor": 3597,
         "patch": 0
     },
     "keywords": [
@@ -23880,6 +23880,13 @@
             "name": "REDSWAP",
             "symbol": "REDS",
             "address": "0x4125C93B1400e3c0755Cff8c32D807F5B1e6aE91",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Timo Protocol",
+            "symbol": "TIMO",
+            "address": "0xc7935b0Ff11CEB520480Bc55dC4f30dBbe106af2",
             "decimals": 18
         }
     ]
