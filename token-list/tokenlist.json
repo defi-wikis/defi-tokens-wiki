@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T05:44:25.103Z",
+    "timestamp": "2020-09-29T05:49:24.577Z",
     "version": {
         "major": 1,
-        "minor": 3487,
+        "minor": 3488,
         "patch": 0
     },
     "keywords": [
@@ -23117,6 +23117,13 @@
             "name": "PancakeSwap",
             "symbol": "CAKE",
             "address": "0x3C0fEf5EB0747faAcaF0942ad42182A29F8228E8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dodoex.io",
+            "symbol": "DODO",
+            "address": "0x663503Dc0cF9cb5A834276caece5eAacBA18E3aF",
             "decimals": 18
         }
     ]
