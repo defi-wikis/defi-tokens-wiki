@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:30:08.793Z",
+    "timestamp": "2020-09-29T11:30:54.818Z",
     "version": {
         "major": 1,
-        "minor": 3522,
+        "minor": 3523,
         "patch": 0
     },
     "keywords": [
@@ -23362,6 +23362,13 @@
             "name": "jkl",
             "symbol": "jkl",
             "address": "0x66Ae1602F62B0abb63fB0003D3a7f6DE0D38071b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polkastarter",
+            "symbol": "POLS",
+            "address": "0xd79a2c008330A86230f8942d1b7cD24EBDF387B1",
             "decimals": 18
         }
     ]
