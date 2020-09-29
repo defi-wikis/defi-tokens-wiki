@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T21:15:25.328Z",
+    "timestamp": "2020-09-29T21:18:45.176Z",
     "version": {
         "major": 1,
-        "minor": 3601,
+        "minor": 3602,
         "patch": 0
     },
     "keywords": [
@@ -23916,6 +23916,13 @@
             "symbol": "yFINTECH",
             "address": "0x5631BE2f1f70CEe9f377a45d06b722a85D0027CA",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x12CC82462900138fd55582dE86681dFd7fab29D3",
+            "decimals": 18
         }
     ]
 }
