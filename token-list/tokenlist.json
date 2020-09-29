@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T18:54:06.363Z",
+    "timestamp": "2020-09-29T19:01:40.433Z",
     "version": {
         "major": 1,
-        "minor": 3581,
+        "minor": 3582,
         "patch": 0
     },
     "keywords": [
@@ -23775,6 +23775,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x39a13a5541112D24830BDE4b8CE581b7416c5239",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pure Yearn Finance",
+            "symbol": "PYF",
+            "address": "0xc6Eb811Fb9EE1E19cC8Be319da5428a78a4E8f53",
             "decimals": 18
         }
     ]
