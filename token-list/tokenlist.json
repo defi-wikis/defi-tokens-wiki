@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T19:54:30.547Z",
+    "timestamp": "2020-09-29T19:55:25.643Z",
     "version": {
         "major": 1,
-        "minor": 3588,
+        "minor": 3589,
         "patch": 0
     },
     "keywords": [
@@ -23824,6 +23824,13 @@
             "name": "VOTE2020.NETWORK",
             "symbol": "BDN20",
             "address": "0x2E07199C4aDc94633E83674aeBC08b359d188668",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VOTE2020.NETWORK",
+            "symbol": "TMP20",
+            "address": "0x81471747D854Fe46A025576Fd8189141fAf2549B",
             "decimals": 18
         }
     ]
