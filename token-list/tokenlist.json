@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:16:35.650Z",
+    "timestamp": "2020-09-29T12:24:49.731Z",
     "version": {
         "major": 1,
-        "minor": 3532,
+        "minor": 3533,
         "patch": 0
     },
     "keywords": [
@@ -23432,6 +23432,13 @@
             "name": "EPCHO",
             "symbol": "EPCHO",
             "address": "0xaF1556e1458370b90f33CfFB6167D33cF58A9B1E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dexe",
+            "symbol": "DEXE",
+            "address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
             "decimals": 18
         }
     ]
