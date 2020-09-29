@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:56:30.346Z",
+    "timestamp": "2020-09-29T11:56:39.510Z",
     "version": {
         "major": 1,
-        "minor": 3528,
+        "minor": 3529,
         "patch": 0
     },
     "keywords": [
@@ -23405,6 +23405,13 @@
             "symbol": "BOMG",
             "address": "0x4B03B591b8CD6dc9000AF9E1E350b8B1a3BDb157",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "APY.FINANCE",
+            "symbol": "APY",
+            "address": "0xF00b86cA0bAABb2C1512D7AF94b89E58FcF82E94",
+            "decimals": 6
         }
     ]
 }
