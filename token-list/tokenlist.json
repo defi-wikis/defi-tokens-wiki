@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T09:04:54.578Z",
+    "timestamp": "2020-09-29T09:08:20.755Z",
     "version": {
         "major": 1,
-        "minor": 3509,
+        "minor": 3510,
         "patch": 0
     },
     "keywords": [
@@ -23271,6 +23271,13 @@
             "name": "acdx.io",
             "symbol": "ACDX",
             "address": "0x5611f8B7d72c2531591CCAb86DEBfac0376ca8a2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RampDefi.com",
+            "symbol": "RAMP",
+            "address": "0x09980FdF550877313f6f5C8E5c62ceE5A4E8D5f9",
             "decimals": 18
         }
     ]
