@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:31:01.935Z",
+    "timestamp": "2020-09-29T22:31:34.447Z",
     "version": {
         "major": 1,
-        "minor": 3612,
+        "minor": 3613,
         "patch": 0
     },
     "keywords": [
@@ -23993,6 +23993,13 @@
             "symbol": "EMN2",
             "address": "0x5BbA7A79d3e05D73682825Cd1cd067b7168513f6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LIRA",
+            "symbol": "LIRA",
+            "address": "0xcf76f32EBE10139E4370127D5789Cdb0750d460D",
+            "decimals": 8
         }
     ]
 }
