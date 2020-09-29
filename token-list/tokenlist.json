@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:25:44.530Z",
+    "timestamp": "2020-09-29T23:28:07.738Z",
     "version": {
         "major": 1,
-        "minor": 3621,
+        "minor": 3622,
         "patch": 0
     },
     "keywords": [
@@ -24055,6 +24055,13 @@
             "name": "Deer Chen",
             "symbol": "DEER",
             "address": "0xB3E1Ecf2f31FD7fDBb5bA9e593a6F083Ef9160C6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "trcash",
+            "symbol": "trc",
+            "address": "0x5C6D77459f2a282586C1f591a4f2b2E4E14cc8C9",
             "decimals": 18
         }
     ]
