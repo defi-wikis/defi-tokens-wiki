@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T04:48:30.350Z",
+    "timestamp": "2020-09-29T05:18:25.054Z",
     "version": {
         "major": 1,
-        "minor": 3481,
+        "minor": 3482,
         "patch": 0
     },
     "keywords": [
@@ -23076,6 +23076,13 @@
             "symbol": "WRC",
             "address": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Wind Network",
+            "symbol": "WIND",
+            "address": "0xdC959739962952c811Bd66925c2c0e7B8E1D4E6A",
+            "decimals": 18
         }
     ]
 }
