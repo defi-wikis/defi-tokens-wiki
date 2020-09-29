@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T14:22:06.884Z",
+    "timestamp": "2020-09-29T14:43:06.868Z",
     "version": {
         "major": 1,
-        "minor": 3548,
+        "minor": 3549,
         "patch": 0
     },
     "keywords": [
@@ -23545,6 +23545,13 @@
             "symbol": "MUMU",
             "address": "0x65577180d4a5ECa0F6382d0FC448B69344e04105",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GIVToken",
+            "symbol": "GIV",
+            "address": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
+            "decimals": 8
         }
     ]
 }
