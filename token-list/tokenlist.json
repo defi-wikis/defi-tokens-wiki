@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T01:06:44.940Z",
+    "timestamp": "2020-09-29T01:29:20.131Z",
     "version": {
         "major": 1,
-        "minor": 3457,
+        "minor": 3458,
         "patch": 0
     },
     "keywords": [
@@ -22907,6 +22907,13 @@
             "name": "cryptolocally.io",
             "symbol": "GIV",
             "address": "0x824f6543f801B9CcF1D6462161026a0B9439576d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Steaks.finance",
+            "symbol": "STEAK",
+            "address": "0xeED9e4F2450035D6426276a8aA2084966EE3b1bb",
             "decimals": 18
         }
     ]
