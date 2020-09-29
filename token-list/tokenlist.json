@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T09:22:01.921Z",
+    "timestamp": "2020-09-29T09:37:44.578Z",
     "version": {
         "major": 1,
-        "minor": 3512,
+        "minor": 3513,
         "patch": 0
     },
     "keywords": [
@@ -23292,6 +23292,13 @@
             "name": "Onyx DAO",
             "symbol": "Onyx",
             "address": "0xcd86fC73e7C95b72662E4BBA30279758DA5b8674",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YBross.Finance",
+            "symbol": "YBF",
+            "address": "0xfbCf9a532386d4BeaDCDC3E075dD4fa9E3E42595",
             "decimals": 18
         }
     ]
