@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T21:00:30.325Z",
+    "timestamp": "2020-09-29T21:15:25.328Z",
     "version": {
         "major": 1,
-        "minor": 3600,
+        "minor": 3601,
         "patch": 0
     },
     "keywords": [
@@ -23909,6 +23909,13 @@
             "symbol": "RELAX",
             "address": "0x015d62e1312ff52a2Ad50294f923062Fa03EC484",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yFINTECH",
+            "symbol": "yFINTECH",
+            "address": "0x5631BE2f1f70CEe9f377a45d06b722a85D0027CA",
+            "decimals": 0
         }
     ]
 }
