@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:50:40.120Z",
+    "timestamp": "2020-09-29T12:54:10.139Z",
     "version": {
         "major": 1,
-        "minor": 3537,
+        "minor": 3538,
         "patch": 0
     },
     "keywords": [
@@ -23468,6 +23468,13 @@
             "symbol": "USP",
             "address": "0x5df616484Ec686Fb764C1d26418683898D674186",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UPAY",
+            "symbol": "UPAY",
+            "address": "0x795B74b4F69b8F810CF01db284582F75276f3196",
+            "decimals": 8
         }
     ]
 }
