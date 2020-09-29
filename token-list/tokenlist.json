@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T07:13:35.225Z",
+    "timestamp": "2020-09-29T07:27:06.745Z",
     "version": {
         "major": 1,
-        "minor": 3498,
+        "minor": 3499,
         "patch": 0
     },
     "keywords": [
@@ -23195,6 +23195,13 @@
             "symbol": "ASC",
             "address": "0x5266F9700534ad480F9362A8faB194c7c119DF89",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Corn.BitDNS",
+            "symbol": "CORN",
+            "address": "0xc798cF0F52207bE1d63D81677eF2Feb27486249b",
+            "decimals": 18
         }
     ]
 }
