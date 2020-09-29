@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T16:20:35.562Z",
+    "timestamp": "2020-09-29T16:25:29.601Z",
     "version": {
         "major": 1,
-        "minor": 3558,
+        "minor": 3559,
         "patch": 0
     },
     "keywords": [
@@ -23615,6 +23615,13 @@
             "symbol": "yyYFI+yyYFII+yyYFV",
             "address": "0x6B8194FC1F828F77f586923072Ea799F1b250E42",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DabbyToken",
+            "symbol": "DBBY",
+            "address": "0x69051f5288Bfb98d4471daAcE4c07dedDDEA1Ee5",
+            "decimals": 2
         }
     ]
 }
