@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T13:21:25.276Z",
+    "timestamp": "2020-09-29T13:28:19.514Z",
     "version": {
         "major": 1,
-        "minor": 3542,
+        "minor": 3543,
         "patch": 0
     },
     "keywords": [
@@ -23502,6 +23502,13 @@
             "name": "UnirisToken",
             "symbol": "UCO",
             "address": "0x8a3d77e9d6968b780564936d15B09805827C21fa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0xa6400b728f688d0a28854E1BcD5fA18A32B757fE",
             "decimals": 18
         }
     ]
