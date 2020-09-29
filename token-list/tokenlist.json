@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T15:23:40.691Z",
+    "timestamp": "2020-09-29T15:49:34.553Z",
     "version": {
         "major": 1,
-        "minor": 3553,
+        "minor": 3554,
         "patch": 0
     },
     "keywords": [
@@ -23579,6 +23579,13 @@
             "name": "yfarm.finance",
             "symbol": "YFM",
             "address": "0xa665FED1b0C9dA00e91ca582f77dF36E325048c5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OKR Finance",
+            "symbol": "OKR",
+            "address": "0x3a2dA083fe1Da28c41dD0664e5BF0F344fa11f12",
             "decimals": 18
         }
     ]
