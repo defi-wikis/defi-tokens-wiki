@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T17:38:14.740Z",
+    "timestamp": "2020-09-29T17:38:24.726Z",
     "version": {
         "major": 1,
-        "minor": 3566,
+        "minor": 3567,
         "patch": 0
     },
     "keywords": [
@@ -23670,6 +23670,13 @@
             "name": "Crypto Patrol Coin",
             "symbol": "CPC",
             "address": "0x9dEd9f2bFfFb5864e159F598b0d57Ce1bdAd272C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Three-Body Token",
+            "symbol": "THB",
+            "address": "0x50F8a9853ec175d3b8899ACFDA05aa4101208Ff2",
             "decimals": 18
         }
     ]
