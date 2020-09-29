@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T02:33:24.477Z",
+    "timestamp": "2020-09-29T02:45:24.923Z",
     "version": {
         "major": 1,
-        "minor": 3467,
+        "minor": 3468,
         "patch": 0
     },
     "keywords": [
@@ -22977,6 +22977,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xd3d2E2692501A5c9Ca623199D38826e513033a17",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arweave",
+            "symbol": "AR",
+            "address": "0x19B9A5Dac2C454aD261e4cCD7c220A4e52fC050D",
             "decimals": 18
         }
     ]
