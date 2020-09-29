@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T18:48:25.004Z",
+    "timestamp": "2020-09-29T18:53:49.749Z",
     "version": {
         "major": 1,
-        "minor": 3579,
+        "minor": 3580,
         "patch": 0
     },
     "keywords": [
@@ -23761,6 +23761,13 @@
             "name": "JuFi Token",
             "symbol": "JFI",
             "address": "0x06a997FA916BAD4981dd2C88695F9552FaC6439c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pure Yearn Finance",
+            "symbol": "PYF",
+            "address": "0x68a1D586e1dccA71e95b854E192DAe816C22EBd2",
             "decimals": 18
         }
     ]
