@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T10:09:39.470Z",
+    "timestamp": "2020-09-29T10:09:59.433Z",
     "version": {
         "major": 1,
-        "minor": 3517,
+        "minor": 3518,
         "patch": 0
     },
     "keywords": [
@@ -23328,6 +23328,13 @@
             "symbol": "YEA2",
             "address": "0xF6ad681D9048Efa2E0f6f6b6C3c8D9b9548827b5",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Grow DAI",
+            "symbol": "gDAI",
+            "address": "0xaBa53e2D526C2B37EEB97da4e60da82BdcC0a7A7",
+            "decimals": 18
         }
     ]
 }
