@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T04:33:39.669Z",
+    "timestamp": "2020-09-29T04:48:07.429Z",
     "version": {
         "major": 1,
-        "minor": 3479,
+        "minor": 3480,
         "patch": 0
     },
     "keywords": [
@@ -23061,6 +23061,13 @@
             "name": "PickleToken 2.0",
             "symbol": "PICKLE2",
             "address": "0x219a606110fDC174f6Cb21989854d6200f07dA2d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "clover42",
+            "symbol": "C42",
+            "address": "0x822Bf80eA4ACC1Cd3DA597dD60f89ADE2c8E978E",
             "decimals": 18
         }
     ]
