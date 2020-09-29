@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:09:29.904Z",
+    "timestamp": "2020-09-29T20:20:50.208Z",
     "version": {
         "major": 1,
-        "minor": 3591,
+        "minor": 3592,
         "patch": 0
     },
     "keywords": [
@@ -23846,6 +23846,13 @@
             "symbol": "ORBS",
             "address": "0x34da03D341853bfdD4b269693Bf40f6B52eB579B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yETHMNY",
+            "symbol": "yETHMNY",
+            "address": "0x0Ee7ee94903b46e7860C5011e6c52F535439D2f4",
+            "decimals": 0
         }
     ]
 }
