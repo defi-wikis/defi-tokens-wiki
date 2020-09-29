@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:55:02.086Z",
+    "timestamp": "2020-09-29T21:00:30.325Z",
     "version": {
         "major": 1,
-        "minor": 3599,
+        "minor": 3600,
         "patch": 0
     },
     "keywords": [
@@ -23902,6 +23902,13 @@
             "symbol": "yCPC",
             "address": "0x4DbD26387DB060bDBf8556bd91977fc6b3AB65e0",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Relax.Finance",
+            "symbol": "RELAX",
+            "address": "0x015d62e1312ff52a2Ad50294f923062Fa03EC484",
+            "decimals": 18
         }
     ]
 }
