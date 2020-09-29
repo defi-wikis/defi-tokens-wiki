@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T00:12:35.108Z",
+    "timestamp": "2020-09-29T00:14:55.510Z",
     "version": {
         "major": 1,
-        "minor": 3451,
+        "minor": 3452,
         "patch": 0
     },
     "keywords": [
@@ -22866,6 +22866,13 @@
             "symbol": "TRAVEL",
             "address": "0x41b9E154b099A3e53b88D44004886B31311ECeb8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Last Man Standing Game",
+            "symbol": "LMSG",
+            "address": "0xaefBE8583ABA88c026A45CdbD04982291CEC7D13",
+            "decimals": 0
         }
     ]
 }
