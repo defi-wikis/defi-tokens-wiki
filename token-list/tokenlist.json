@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T06:01:19.945Z",
+    "timestamp": "2020-09-29T06:10:34.943Z",
     "version": {
         "major": 1,
-        "minor": 3490,
+        "minor": 3491,
         "patch": 0
     },
     "keywords": [
@@ -23139,6 +23139,13 @@
             "symbol": "FILE",
             "address": "0x421Bec905240b252EaE78Ebd59484158A3c28B8D",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "HARDCORE",
+            "symbol": "DCORE",
+            "address": "0xD0dee86F367707D76b8682c135f1e32963e278d3",
+            "decimals": 18
         }
     ]
 }
