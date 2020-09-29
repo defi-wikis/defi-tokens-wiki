@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T06:36:06.829Z",
+    "timestamp": "2020-09-29T06:40:49.919Z",
     "version": {
         "major": 1,
-        "minor": 3495,
+        "minor": 3496,
         "patch": 0
     },
     "keywords": [
@@ -23173,6 +23173,13 @@
             "name": "yCvault.Finance",
             "symbol": "yCORE",
             "address": "0x07c6BA61D31Ee3C3C210e49a7dF7d63f9813c2F8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OIN.Finance",
+            "symbol": "OIN",
+            "address": "0x663c7061f0919Ec7B11656665b203c77194A3795",
             "decimals": 18
         }
     ]
