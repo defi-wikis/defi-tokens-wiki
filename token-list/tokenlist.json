@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T09:04:49.276Z",
+    "timestamp": "2020-09-29T09:04:54.578Z",
     "version": {
         "major": 1,
-        "minor": 3508,
+        "minor": 3509,
         "patch": 0
     },
     "keywords": [
@@ -23264,6 +23264,13 @@
             "name": "yfmantra.finance",
             "symbol": "YFMF",
             "address": "0x09e3cD2510BC5A0FD5Cb8541E3520c553423d484",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "acdx.io",
+            "symbol": "ACDX",
+            "address": "0x5611f8B7d72c2531591CCAb86DEBfac0376ca8a2",
             "decimals": 18
         }
     ]
