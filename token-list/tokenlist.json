@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T17:35:59.941Z",
+    "timestamp": "2020-09-29T17:38:14.740Z",
     "version": {
         "major": 1,
-        "minor": 3565,
+        "minor": 3566,
         "patch": 0
     },
     "keywords": [
@@ -23663,6 +23663,13 @@
             "name": "Eminence",
             "symbol": "EMN",
             "address": "0xc674fCE5f253eF52D5A4B5d1700047A684545cF6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crypto Patrol Coin",
+            "symbol": "CPC",
+            "address": "0x9dEd9f2bFfFb5864e159F598b0d57Ce1bdAd272C",
             "decimals": 18
         }
     ]
