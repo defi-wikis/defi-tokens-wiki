@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T06:32:10.980Z",
+    "timestamp": "2020-09-29T06:36:06.829Z",
     "version": {
         "major": 1,
-        "minor": 3494,
+        "minor": 3495,
         "patch": 0
     },
     "keywords": [
@@ -23166,6 +23166,13 @@
             "name": "YLEAP Finance",
             "symbol": "YLEAP",
             "address": "0x51cC577F0B077284805a533c874790158f26D86d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCvault.Finance",
+            "symbol": "yCORE",
+            "address": "0x07c6BA61D31Ee3C3C210e49a7dF7d63f9813c2F8",
             "decimals": 18
         }
     ]
