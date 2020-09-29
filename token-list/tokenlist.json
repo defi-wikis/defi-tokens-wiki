@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T02:45:24.923Z",
+    "timestamp": "2020-09-29T03:00:17.097Z",
     "version": {
         "major": 1,
-        "minor": 3468,
+        "minor": 3469,
         "patch": 0
     },
     "keywords": [
@@ -22985,6 +22985,13 @@
             "symbol": "AR",
             "address": "0x19B9A5Dac2C454aD261e4cCD7c220A4e52fC050D",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VMS chain",
+            "symbol": "VMSC",
+            "address": "0xDDE73732248f4d11A918eAE83cEBB034cC69875e",
+            "decimals": 8
         }
     ]
 }
