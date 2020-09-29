@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T22:24:10.021Z",
+    "timestamp": "2020-09-29T22:29:15.272Z",
     "version": {
         "major": 1,
-        "minor": 3610,
+        "minor": 3611,
         "patch": 0
     },
     "keywords": [
@@ -23978,6 +23978,13 @@
             "name": "Z",
             "symbol": "Z",
             "address": "0xb3317914D93A75bfb4D482442bC34B1809A9C9Ab",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "gotEM",
+            "symbol": "GTX",
+            "address": "0x2910b9DeA758aAC0E449aF0fB6c4038b8eD86b50",
             "decimals": 18
         }
     ]
