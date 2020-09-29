@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T19:24:07.781Z",
+    "timestamp": "2020-09-29T19:25:14.843Z",
     "version": {
         "major": 1,
-        "minor": 3584,
+        "minor": 3585,
         "patch": 0
     },
     "keywords": [
@@ -23796,6 +23796,13 @@
             "name": "Pure Yearn Finance",
             "symbol": "PYFI",
             "address": "0x3B4Bb432F2f21937C7b0E7A2Faa4e2690C8968e9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoreV2.Finance",
+            "symbol": "COREv2",
+            "address": "0xD4168B2a20d9DC180D1739d45b170A7CeE366f95",
             "decimals": 18
         }
     ]
