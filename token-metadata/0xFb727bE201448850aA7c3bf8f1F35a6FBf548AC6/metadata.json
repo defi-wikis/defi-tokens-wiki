@@ -1,0 +1,7 @@
+{
+    "name": "SdexToken",
+    "symbol": "SDEX",
+    "address": "0xFb727bE201448850aA7c3bf8f1F35a6FBf548AC6",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
