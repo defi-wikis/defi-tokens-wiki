@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T06:55:55.286Z",
+    "timestamp": "2020-09-29T07:13:35.225Z",
     "version": {
         "major": 1,
-        "minor": 3497,
+        "minor": 3498,
         "patch": 0
     },
     "keywords": [
@@ -23188,6 +23188,13 @@
             "symbol": "yEMN",
             "address": "0xeB8e4a54848057E0782AD777151A68796B6CF6B7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Assecentro",
+            "symbol": "ASC",
+            "address": "0x5266F9700534ad480F9362A8faB194c7c119DF89",
+            "decimals": 4
         }
     ]
 }
