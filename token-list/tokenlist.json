@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:35:39.633Z",
+    "timestamp": "2020-09-29T11:40:14.979Z",
     "version": {
         "major": 1,
-        "minor": 3524,
+        "minor": 3525,
         "patch": 0
     },
     "keywords": [
@@ -23376,6 +23376,13 @@
             "name": "DODO bird",
             "symbol": "DODO",
             "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DEFI WINNERS",
+            "symbol": "XTF.BCCWIN",
+            "address": "0x2d498bE1231D635772a02969bcB26D2f66D6EAcE",
             "decimals": 18
         }
     ]
