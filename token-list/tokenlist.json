@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T04:48:07.429Z",
+    "timestamp": "2020-09-29T04:48:30.350Z",
     "version": {
         "major": 1,
-        "minor": 3480,
+        "minor": 3481,
         "patch": 0
     },
     "keywords": [
@@ -23069,6 +23069,13 @@
             "symbol": "C42",
             "address": "0x822Bf80eA4ACC1Cd3DA597dD60f89ADE2c8E978E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Worldcore",
+            "symbol": "WRC",
+            "address": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
+            "decimals": 6
         }
     ]
 }
