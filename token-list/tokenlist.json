@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:38:20.278Z",
+    "timestamp": "2020-09-29T20:39:34.731Z",
     "version": {
         "major": 1,
-        "minor": 3595,
+        "minor": 3596,
         "patch": 0
     },
     "keywords": [
@@ -23873,6 +23873,13 @@
             "name": "Galileo",
             "symbol": "Galileo",
             "address": "0x3aca398197478e1F911e4eDd8fF7b4d608B98a3a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "REDSWAP",
+            "symbol": "REDS",
+            "address": "0x4125C93B1400e3c0755Cff8c32D807F5B1e6aE91",
             "decimals": 18
         }
     ]
