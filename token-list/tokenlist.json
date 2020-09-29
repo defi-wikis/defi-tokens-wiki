@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T16:13:20.775Z",
+    "timestamp": "2020-09-29T16:19:07.463Z",
     "version": {
         "major": 1,
-        "minor": 3556,
+        "minor": 3557,
         "patch": 0
     },
     "keywords": [
@@ -23600,6 +23600,13 @@
             "name": "BlueStake.Org",
             "symbol": "$BLUE",
             "address": "0x9880531938e409ff35CB52De9c1478eFe6c69aA1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BLM.finance",
+            "symbol": "BLM",
+            "address": "0x0d63d1aAB6D7Ed3dAbeFC514dB7F00A1f32c3941",
             "decimals": 18
         }
     ]
