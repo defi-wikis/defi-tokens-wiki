@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T21:48:25.090Z",
+    "timestamp": "2020-09-29T22:03:25.329Z",
     "version": {
         "major": 1,
-        "minor": 3606,
+        "minor": 3607,
         "patch": 0
     },
     "keywords": [
@@ -23951,6 +23951,13 @@
             "symbol": "COVAL.finance",
             "address": "0x097Dc645817021BAB11bb874492038893e04f72B",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Yfdot.Finance",
+            "symbol": "YFDOT",
+            "address": "0x7C1B5a4B2D3ECaA4c8C3fC7fbB3dBe40df789477",
+            "decimals": 18
         }
     ]
 }
