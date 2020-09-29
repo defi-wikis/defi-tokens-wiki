@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T02:29:39.679Z",
+    "timestamp": "2020-09-29T02:31:39.790Z",
     "version": {
         "major": 1,
-        "minor": 3464,
+        "minor": 3465,
         "patch": 0
     },
     "keywords": [
@@ -22956,6 +22956,13 @@
             "name": "DeBear.club",
             "symbol": "DEAR",
             "address": "0x3CB0284d25E6Ff6C9Ad6D746F4569dF5cf356dD5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DODO",
+            "symbol": "DODO",
+            "address": "0x6deA5E96BAE6A3E5F800dC5345fc201B1176863e",
             "decimals": 18
         }
     ]
