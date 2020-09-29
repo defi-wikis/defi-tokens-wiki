@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T06:21:50.220Z",
+    "timestamp": "2020-09-29T06:32:10.980Z",
     "version": {
         "major": 1,
-        "minor": 3493,
+        "minor": 3494,
         "patch": 0
     },
     "keywords": [
@@ -23159,6 +23159,13 @@
             "name": "Bebop.Finance",
             "symbol": "BBOP",
             "address": "0x79a34211D9165C48D4Da60c64c3d9E334ba3Dd55",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YLEAP Finance",
+            "symbol": "YLEAP",
+            "address": "0x51cC577F0B077284805a533c874790158f26D86d",
             "decimals": 18
         }
     ]
