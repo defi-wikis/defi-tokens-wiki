@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T10:59:06.384Z",
+    "timestamp": "2020-09-29T11:10:29.732Z",
     "version": {
         "major": 1,
-        "minor": 3520,
+        "minor": 3521,
         "patch": 0
     },
     "keywords": [
@@ -23348,6 +23348,13 @@
             "name": "MEET.ONE",
             "symbol": "MEFI",
             "address": "0xEBf919584021075d3f7bf3d6CF1c6dC318221EFf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NotImportantLottery",
+            "symbol": "NIL",
+            "address": "0x53f90bc12e2F87d8358D0d822269a2cB879a5770",
             "decimals": 18
         }
     ]
