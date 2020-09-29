@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T15:06:54.748Z",
+    "timestamp": "2020-09-29T15:09:54.787Z",
     "version": {
         "major": 1,
-        "minor": 3551,
+        "minor": 3552,
         "patch": 0
     },
     "keywords": [
@@ -23565,6 +23565,13 @@
             "name": "Bidao",
             "symbol": "BID",
             "address": "0xD3c288276174691942F1CEB705Eb872B698CA3a7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Litecoin Swap",
+            "symbol": "LCS",
+            "address": "0xe837503418272cD586bC940Cf566F488770EDfA8",
             "decimals": 18
         }
     ]
