@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T19:34:24.708Z",
+    "timestamp": "2020-09-29T19:48:30.593Z",
     "version": {
         "major": 1,
-        "minor": 3586,
+        "minor": 3587,
         "patch": 0
     },
     "keywords": [
@@ -23810,6 +23810,13 @@
             "name": "Yearn Recovery",
             "symbol": "YFIR",
             "address": "0x8d81c4b79e36Ed49e8C5F2d568DC1287d045BAD2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TacoToken",
+            "symbol": "TACO",
+            "address": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
             "decimals": 18
         }
     ]
