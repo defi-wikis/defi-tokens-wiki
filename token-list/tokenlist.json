@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:40:15.444Z",
+    "timestamp": "2020-09-29T20:42:25.272Z",
     "version": {
         "major": 1,
-        "minor": 3597,
+        "minor": 3598,
         "patch": 0
     },
     "keywords": [
@@ -23887,6 +23887,13 @@
             "name": "Timo Protocol",
             "symbol": "TIMO",
             "address": "0xc7935b0Ff11CEB520480Bc55dC4f30dBbe106af2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bounce.finance",
+            "symbol": "FIRM",
+            "address": "0x790787f03fe0BbC0E54530BA6ef46540ECFee70A",
             "decimals": 18
         }
     ]
