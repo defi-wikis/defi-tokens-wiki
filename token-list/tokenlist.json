@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T08:23:39.719Z",
+    "timestamp": "2020-09-29T08:40:34.816Z",
     "version": {
         "major": 1,
-        "minor": 3506,
+        "minor": 3507,
         "patch": 0
     },
     "keywords": [
@@ -23250,6 +23250,13 @@
             "name": "SWIFT PROTOCOL",
             "symbol": "SWIFT",
             "address": "0x9E484334CE9a63382d39CF09F6A94456711A4c17",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chonker.Finance",
+            "symbol": "CHONK",
+            "address": "0x073Db0bb9b2CD247592b7388d36b159a6ad9e5fe",
             "decimals": 18
         }
     ]
