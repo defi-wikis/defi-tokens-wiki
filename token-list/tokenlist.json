@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T05:38:40.101Z",
+    "timestamp": "2020-09-29T05:44:25.103Z",
     "version": {
         "major": 1,
-        "minor": 3486,
+        "minor": 3487,
         "patch": 0
     },
     "keywords": [
@@ -23110,6 +23110,13 @@
             "name": "dontbuywolf.com",
             "symbol": "$WOLF",
             "address": "0xf3DDd635936dC41d50E57B381b1d44165deDFB29",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PancakeSwap",
+            "symbol": "CAKE",
+            "address": "0x3C0fEf5EB0747faAcaF0942ad42182A29F8228E8",
             "decimals": 18
         }
     ]
