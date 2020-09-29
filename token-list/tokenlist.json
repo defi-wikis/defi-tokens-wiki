@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T19:48:30.593Z",
+    "timestamp": "2020-09-29T19:54:30.547Z",
     "version": {
         "major": 1,
-        "minor": 3587,
+        "minor": 3588,
         "patch": 0
     },
     "keywords": [
@@ -23817,6 +23817,13 @@
             "name": "TacoToken",
             "symbol": "TACO",
             "address": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VOTE2020.NETWORK",
+            "symbol": "BDN20",
+            "address": "0x2E07199C4aDc94633E83674aeBC08b359d188668",
             "decimals": 18
         }
     ]
