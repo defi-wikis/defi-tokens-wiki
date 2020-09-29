@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T20:22:07.441Z",
+    "timestamp": "2020-09-29T20:22:59.864Z",
     "version": {
         "major": 1,
-        "minor": 3593,
+        "minor": 3594,
         "patch": 0
     },
     "keywords": [
@@ -23859,6 +23859,13 @@
             "name": "GoNFT",
             "symbol": "GNFT",
             "address": "0x3d22230E7f1aeB3b06b899c00E02F96BF5D0E617",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xBTC.fi",
+            "symbol": "XBTC",
+            "address": "0x329Dc895d215b4c67eF1eC9f3f3396adB3917543",
             "decimals": 18
         }
     ]
