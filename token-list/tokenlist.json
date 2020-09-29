@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:47:54.893Z",
+    "timestamp": "2020-09-29T23:56:34.332Z",
     "version": {
         "major": 1,
-        "minor": 3624,
+        "minor": 3625,
         "patch": 0
     },
     "keywords": [
@@ -24076,6 +24076,13 @@
             "name": "Firemoon.Finance",
             "symbol": "FIRM",
             "address": "0x84Aad0B0f2E9B6CA4a7799EB372Cd0E16D1fa346",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LuaSwap",
+            "symbol": "LUA",
+            "address": "0x7a251ae86c71BAaa14E00C31f656eA073e87c87B",
             "decimals": 18
         }
     ]
