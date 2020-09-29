@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T02:15:19.770Z",
+    "timestamp": "2020-09-29T02:23:44.515Z",
     "version": {
         "major": 1,
-        "minor": 3461,
+        "minor": 3462,
         "patch": 0
     },
     "keywords": [
@@ -22936,6 +22936,13 @@
             "symbol": "JON",
             "address": "0x6dE6798F727EC67B4584bd6dB9130B8Ae8653d34",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Clustersphere",
+            "symbol": "CPE",
+            "address": "0x28441eD6ebaAD179a2c10A0a5D46BF3f3Ace17dE",
+            "decimals": 18
         }
     ]
 }
