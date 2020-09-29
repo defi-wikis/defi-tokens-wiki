@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T16:30:30.174Z",
+    "timestamp": "2020-09-29T16:32:15.575Z",
     "version": {
         "major": 1,
-        "minor": 3560,
+        "minor": 3561,
         "patch": 0
     },
     "keywords": [
@@ -23628,6 +23628,13 @@
             "name": "YFBinance",
             "symbol": "YFBI",
             "address": "0xA2605E8679d399bb98fA8C2F0b4Ef6D04f3E5c1A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GorillaVault y",
+            "symbol": "YGV",
+            "address": "0x2211c03217B6Fe5165260c566B6625245574bF93",
             "decimals": 18
         }
     ]
