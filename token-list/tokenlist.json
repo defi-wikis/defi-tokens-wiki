@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T17:53:55.036Z",
+    "timestamp": "2020-09-29T17:55:35.704Z",
     "version": {
         "major": 1,
-        "minor": 3569,
+        "minor": 3570,
         "patch": 0
     },
     "keywords": [
@@ -23691,6 +23691,13 @@
             "name": "Yearn Function PlusY",
             "symbol": "YF(+y)",
             "address": "0x66804570aFcD05D27A61D70e404A6662aA828060",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Flicky Minaj Token",
+            "symbol": "MINAJ",
+            "address": "0x1CD2F7f77004296984806504ca6c035f088c2e21",
             "decimals": 18
         }
     ]
