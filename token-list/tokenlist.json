@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T12:58:30.268Z",
+    "timestamp": "2020-09-29T12:59:25.712Z",
     "version": {
         "major": 1,
-        "minor": 3539,
+        "minor": 3540,
         "patch": 0
     },
     "keywords": [
@@ -23482,6 +23482,13 @@
             "symbol": "POLS",
             "address": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pumper",
+            "symbol": "PUMPER",
+            "address": "0x55271E81ae6643c31c0c7C7E0e6153d3cdE26724",
+            "decimals": 8
         }
     ]
 }
