@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T05:18:25.054Z",
+    "timestamp": "2020-09-29T05:18:50.329Z",
     "version": {
         "major": 1,
-        "minor": 3482,
+        "minor": 3483,
         "patch": 0
     },
     "keywords": [
@@ -23082,6 +23082,13 @@
             "name": "Wind Network",
             "symbol": "WIND",
             "address": "0xdC959739962952c811Bd66925c2c0e7B8E1D4E6A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eminence v2.0",
+            "symbol": "EMNv2",
+            "address": "0xeb72cDbB0CB419AC4072d685b9b83665659B6Fd6",
             "decimals": 18
         }
     ]
