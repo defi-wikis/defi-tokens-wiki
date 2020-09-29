@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:11:09.800Z",
+    "timestamp": "2020-09-29T23:15:35.206Z",
     "version": {
         "major": 1,
-        "minor": 3618,
+        "minor": 3619,
         "patch": 0
     },
     "keywords": [
@@ -24034,6 +24034,13 @@
             "name": "Yearn Gold Finance",
             "symbol": "YGF",
             "address": "0xfdd3de8255E42A09320a523A0932Ff126fd492ae",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PADTHAIKING by padthai.finance",
+            "symbol": "PADTHAIKING",
+            "address": "0xa10B49392B347a6e30D84d7a75c4712ed56f4EE7",
             "decimals": 18
         }
     ]
