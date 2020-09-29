@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:56:49.582Z",
+    "timestamp": "2020-09-29T12:11:09.833Z",
     "version": {
         "major": 1,
-        "minor": 3530,
+        "minor": 3531,
         "patch": 0
     },
     "keywords": [
@@ -23418,6 +23418,13 @@
             "name": "Shield",
             "symbol": "XSHE",
             "address": "0xC689BD1eAFB852134af62Ffd86dd4988F7a307bc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ELK Finance",
+            "symbol": "ELK",
+            "address": "0xd8BaB53373B732Da40A7239359F141935dC00BfD",
             "decimals": 18
         }
     ]
