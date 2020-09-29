@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T17:45:14.413Z",
+    "timestamp": "2020-09-29T17:53:55.036Z",
     "version": {
         "major": 1,
-        "minor": 3568,
+        "minor": 3569,
         "patch": 0
     },
     "keywords": [
@@ -23684,6 +23684,13 @@
             "name": "TRASH",
             "symbol": "TRSH",
             "address": "0x0f46eba0Bafe2739d9F3C43A48BB84BEE1f6644f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Function PlusY",
+            "symbol": "YF(+y)",
+            "address": "0x66804570aFcD05D27A61D70e404A6662aA828060",
             "decimals": 18
         }
     ]
