@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T09:47:34.847Z",
+    "timestamp": "2020-09-29T09:52:10.213Z",
     "version": {
         "major": 1,
-        "minor": 3514,
+        "minor": 3515,
         "patch": 0
     },
     "keywords": [
@@ -23307,6 +23307,13 @@
             "symbol": "NOW",
             "address": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "OpenDao",
+            "symbol": "OPEN",
+            "address": "0x9259893CA0EFc261C24851689f417545770C5f96",
+            "decimals": 18
         }
     ]
 }
