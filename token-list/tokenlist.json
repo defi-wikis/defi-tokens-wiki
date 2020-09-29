@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T11:30:54.818Z",
+    "timestamp": "2020-09-29T11:35:39.633Z",
     "version": {
         "major": 1,
-        "minor": 3523,
+        "minor": 3524,
         "patch": 0
     },
     "keywords": [
@@ -23369,6 +23369,13 @@
             "name": "Polkastarter",
             "symbol": "POLS",
             "address": "0xd79a2c008330A86230f8942d1b7cD24EBDF387B1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DODO bird",
+            "symbol": "DODO",
+            "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
             "decimals": 18
         }
     ]
