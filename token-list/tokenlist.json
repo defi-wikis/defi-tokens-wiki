@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T14:18:40.382Z",
+    "timestamp": "2020-09-29T14:22:06.884Z",
     "version": {
         "major": 1,
-        "minor": 3547,
+        "minor": 3548,
         "patch": 0
     },
     "keywords": [
@@ -23537,6 +23537,13 @@
             "name": "YFBinance.Tech",
             "symbol": "YFBI",
             "address": "0xbBBC3c8407d369750c19750c36Ce531c0F34CaE3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mumu",
+            "symbol": "MUMU",
+            "address": "0x65577180d4a5ECa0F6382d0FC448B69344e04105",
             "decimals": 18
         }
     ]
