@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T17:03:59.323Z",
+    "timestamp": "2020-09-29T17:29:10.914Z",
     "version": {
         "major": 1,
-        "minor": 3563,
+        "minor": 3564,
         "patch": 0
     },
     "keywords": [
@@ -23649,6 +23649,13 @@
             "name": "AmazonFinance",
             "symbol": "AMAZ",
             "address": "0xF7e1E9abBb1b50BFa4eC2bf000495Fcd3f652c0D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Equalizer.fi",
+            "symbol": "EQL",
+            "address": "0xDdD6783e2c1652009A66fa261908263611A4F8A3",
             "decimals": 18
         }
     ]
