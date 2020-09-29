@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T00:49:40.309Z",
+    "timestamp": "2020-09-29T00:57:35.428Z",
     "version": {
         "major": 1,
-        "minor": 3455,
+        "minor": 3456,
         "patch": 0
     },
     "keywords": [
@@ -22893,6 +22893,13 @@
             "name": "ZEN Token",
             "symbol": "ZEN",
             "address": "0x1773106Be4DC41F96Ec41D558034cA1EA3825A18",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yoda Finance",
+            "symbol": "YODA",
+            "address": "0xa983ee9D1B513c54022cC214AB9429c7b915793c",
             "decimals": 18
         }
     ]
