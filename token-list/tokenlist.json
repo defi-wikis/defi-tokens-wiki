@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:05:59.870Z",
+    "timestamp": "2020-09-30T19:06:07.636Z",
     "version": {
         "major": 1,
-        "minor": 3772,
+        "minor": 3773,
         "patch": 0
     },
     "keywords": [
@@ -25112,6 +25112,13 @@
             "name": "soviet.finance",
             "symbol": "hSOV",
             "address": "0x2fE34eE1506c37494e98d3bc5245A4167ed4D8bD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Makers DAO",
+            "symbol": "MKD",
+            "address": "0x01d454FFC3f0B77F3f316D4c88230263c2aF7aBA",
             "decimals": 18
         }
     ]
