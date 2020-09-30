@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:24:25.221Z",
+    "timestamp": "2020-09-30T11:54:10.829Z",
     "version": {
         "major": 1,
-        "minor": 3705,
+        "minor": 3706,
         "patch": 0
     },
     "keywords": [
@@ -24643,6 +24643,13 @@
             "name": "Soviet.Finance",
             "symbol": "$SOVIET",
             "address": "0xDF659651A5082065acf219dC2904954aD1eCd16d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Forsage.io",
+            "symbol": "Forsage",
+            "address": "0xB6fff4393a4496FB69387d4ecEE57d07ABE23b81",
             "decimals": 18
         }
     ]
