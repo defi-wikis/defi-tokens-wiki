@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T17:34:20.821Z",
+    "timestamp": "2020-09-30T17:34:49.540Z",
     "version": {
         "major": 1,
-        "minor": 3758,
+        "minor": 3759,
         "patch": 0
     },
     "keywords": [
@@ -25014,6 +25014,13 @@
             "name": "monsterNFT.com",
             "symbol": "monsr",
             "address": "0x5d045b9ece2E8B0F64189A069276CB3705cc9d19",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitSwap",
+            "symbol": "BTCS",
+            "address": "0xbC5E9EDe411C9Ab56CDFB7D641Fc465021882dfc",
             "decimals": 18
         }
     ]
