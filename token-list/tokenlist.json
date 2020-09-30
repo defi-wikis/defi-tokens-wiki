@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T20:12:50.495Z",
+    "timestamp": "2020-09-30T20:13:50.605Z",
     "version": {
         "major": 1,
-        "minor": 3784,
+        "minor": 3785,
         "patch": 0
     },
     "keywords": [
@@ -25196,6 +25196,13 @@
             "name": "SOLE.FINANCE",
             "symbol": "SOLE",
             "address": "0x91691C6976B7C5eFB91d7a946301AD11a5F9C051",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "loyal.finance",
+            "symbol": "LOYAL",
+            "address": "0x2db2E49Df476DF206eDC93B9Be4FA2d8519f897e",
             "decimals": 18
         }
     ]
