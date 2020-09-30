@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:37:59.733Z",
+    "timestamp": "2020-09-30T19:49:19.758Z",
     "version": {
         "major": 1,
-        "minor": 3779,
+        "minor": 3780,
         "patch": 0
     },
     "keywords": [
@@ -25162,6 +25162,13 @@
             "symbol": "PUMPANOMIC",
             "address": "0x15910D6238E437Ea01A2A9D3144678c988B81e58",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "whc.world",
+            "symbol": "WHC",
+            "address": "0x4c5aee52D2b2Dd53e266fA0625664eDaae18Ed5f",
+            "decimals": 18
         }
     ]
 }
