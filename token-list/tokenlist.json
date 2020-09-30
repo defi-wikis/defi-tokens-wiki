@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:31:34.769Z",
+    "timestamp": "2020-09-30T14:32:06.631Z",
     "version": {
         "major": 1,
-        "minor": 3731,
+        "minor": 3732,
         "patch": 0
     },
     "keywords": [
@@ -24825,6 +24825,13 @@
             "name": "Halving",
             "symbol": "HALV",
             "address": "0x9e7cb236e43c4bd042fE463df6a175d4479ee186",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORK Finance",
+            "symbol": "ORK",
+            "address": "0x912bc4E8EE82adA3DBE1A7b4C10d22d696Dff027",
             "decimals": 18
         }
     ]
