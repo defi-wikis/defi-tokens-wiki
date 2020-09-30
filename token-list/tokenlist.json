@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:11:29.453Z",
+    "timestamp": "2020-09-30T05:19:19.985Z",
     "version": {
         "major": 1,
-        "minor": 3660,
+        "minor": 3661,
         "patch": 0
     },
     "keywords": [
@@ -24328,6 +24328,13 @@
             "name": "YF.Finance",
             "symbol": "YFFI",
             "address": "0x9C05d31f290C047Cf26DD742DCcC4E593A84DeCB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "poke.finance",
+            "symbol": "POKE",
+            "address": "0x81519b7c0DA8572973465030B50D440d4dbf2543",
             "decimals": 18
         }
     ]
