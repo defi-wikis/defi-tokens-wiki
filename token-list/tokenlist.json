@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T08:12:09.626Z",
+    "timestamp": "2020-09-30T08:17:59.207Z",
     "version": {
         "major": 1,
-        "minor": 3682,
+        "minor": 3683,
         "patch": 0
     },
     "keywords": [
@@ -24483,6 +24483,13 @@
             "symbol": "hSOV",
             "address": "0x9D83D493688caF9D34f04B3c0d50D197d44aBbCA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Janusz Coin Token",
+            "symbol": "CEBULA",
+            "address": "0x25aD82a28a538f786B68Ace7Bb036Af19422BA65",
+            "decimals": 4
         }
     ]
 }
