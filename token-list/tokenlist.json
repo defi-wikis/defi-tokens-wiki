@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:57:20.779Z",
+    "timestamp": "2020-09-30T13:59:06.354Z",
     "version": {
         "major": 1,
-        "minor": 3725,
+        "minor": 3726,
         "patch": 0
     },
     "keywords": [
@@ -24783,6 +24783,13 @@
             "name": "Poor Man's Coin",
             "symbol": "POOR",
             "address": "0x706F7f6645BCec65763427bcb630f0b47578D71c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BakerySwap",
+            "symbol": "BAKE",
+            "address": "0x116aae16A3a7044afe7063c6F870B119000B5abE",
             "decimals": 18
         }
     ]
