@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T17:27:20.380Z",
+    "timestamp": "2020-09-30T17:34:20.821Z",
     "version": {
         "major": 1,
-        "minor": 3757,
+        "minor": 3758,
         "patch": 0
     },
     "keywords": [
@@ -25007,6 +25007,13 @@
             "name": "YOKO Protocol",
             "symbol": "YOKO",
             "address": "0x185ABd57db3337BCfF00FE27c75f7f8f7d6D30f9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "monsterNFT.com",
+            "symbol": "monsr",
+            "address": "0x5d045b9ece2E8B0F64189A069276CB3705cc9d19",
             "decimals": 18
         }
     ]
