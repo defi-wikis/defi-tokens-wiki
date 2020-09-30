@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T00:55:25.281Z",
+    "timestamp": "2020-09-30T00:58:14.785Z",
     "version": {
         "major": 1,
-        "minor": 3632,
+        "minor": 3633,
         "patch": 0
     },
     "keywords": [
@@ -24133,6 +24133,13 @@
             "symbol": "NAT",
             "address": "0x117d5e17154e71C3342448b3d495230fA4A39275",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bar14",
+            "symbol": "BAR14",
+            "address": "0x9d198D119182Bb6FE67dCccac339299DeE73B42b",
+            "decimals": 8
         }
     ]
 }
