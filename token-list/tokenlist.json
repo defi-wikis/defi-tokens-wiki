@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T18:16:25.344Z",
+    "timestamp": "2020-09-30T18:25:24.775Z",
     "version": {
         "major": 1,
-        "minor": 3764,
+        "minor": 3765,
         "patch": 0
     },
     "keywords": [
@@ -25056,6 +25056,13 @@
             "name": "ROKO Protocol",
             "symbol": "ROKO",
             "address": "0x984442668C31Bda95aDD34BB6037B8Fce3e1BEB3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lucky Moon Token",
+            "symbol": "LMOON",
+            "address": "0xC53eDD64a70E37BB5F95C5902DEFCda859aB115c",
             "decimals": 18
         }
     ]
