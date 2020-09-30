@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T06:58:25.093Z",
+    "timestamp": "2020-09-30T07:17:39.516Z",
     "version": {
         "major": 1,
-        "minor": 3676,
+        "minor": 3677,
         "patch": 0
     },
     "keywords": [
@@ -24440,6 +24440,13 @@
             "name": "GLOT",
             "symbol": "GLT",
             "address": "0x852112D5B2Dd0a9EfC16F82D9d7cD1D3ecCD3cED",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crypto Boss Coin",
+            "symbol": "CBC",
+            "address": "0x790bFaCaE71576107C068f494c8A6302aea640cb",
             "decimals": 18
         }
     ]
