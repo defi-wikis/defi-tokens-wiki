@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:59:31.433Z",
+    "timestamp": "2020-09-30T12:15:13.977Z",
     "version": {
         "major": 1,
-        "minor": 3707,
+        "minor": 3708,
         "patch": 0
     },
     "keywords": [
@@ -24657,6 +24657,13 @@
             "name": "zac.finance",
             "symbol": "ZAC",
             "address": "0xb626032fCAafDB25E26f1497A7d9e56eFfff0829",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Decentralized Vulnerability Platform",
+            "symbol": "DVP",
+            "address": "0x8E30ea2329D95802Fd804f4291220b0e2F579812",
             "decimals": 18
         }
     ]
