@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T16:15:24.786Z",
+    "timestamp": "2020-09-30T16:18:10.621Z",
     "version": {
         "major": 1,
-        "minor": 3748,
+        "minor": 3749,
         "patch": 0
     },
     "keywords": [
@@ -24944,6 +24944,13 @@
             "name": "Flow Blockchain",
             "symbol": "FLOW",
             "address": "0x7e8aA9969cC599F2bc1BFD580F63AF0B91C76b2C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Litecoin",
+            "symbol": "LTC",
+            "address": "0x48794720aB88ef5c41b9049aA17CcBb7e292836b",
             "decimals": 18
         }
     ]
