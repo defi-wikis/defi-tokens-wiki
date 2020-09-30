@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:47:39.574Z",
+    "timestamp": "2020-09-30T05:05:59.311Z",
     "version": {
         "major": 1,
-        "minor": 3657,
+        "minor": 3658,
         "patch": 0
     },
     "keywords": [
@@ -24307,6 +24307,13 @@
             "name": "TOPSWAP",
             "symbol": "TOPS",
             "address": "0xDE8C9dE83ad40BaaEF26fC78C260C04EB6405ff0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NekoToken",
+            "symbol": "NEKO",
+            "address": "0x51b5bb678e594536D394612F464F94dD87B5289F",
             "decimals": 18
         }
     ]
