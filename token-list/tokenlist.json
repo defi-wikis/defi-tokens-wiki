@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T02:50:24.705Z",
+    "timestamp": "2020-09-30T03:14:20.085Z",
     "version": {
         "major": 1,
-        "minor": 3641,
+        "minor": 3642,
         "patch": 0
     },
     "keywords": [
@@ -24195,6 +24195,13 @@
             "name": "NEAR Protocol",
             "symbol": "NEAR",
             "address": "0x7aE8BACE649B9E63193EE1fcfb97e167175765f0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orion Protocol",
+            "symbol": "ORN",
+            "address": "0x1561343c8DCC029665687CF6962777Fa9EC8588c",
             "decimals": 18
         }
     ]
