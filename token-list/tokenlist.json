@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:08:44.891Z",
+    "timestamp": "2020-09-30T13:10:15.567Z",
     "version": {
         "major": 1,
-        "minor": 3718,
+        "minor": 3719,
         "patch": 0
     },
     "keywords": [
@@ -24734,6 +24734,13 @@
             "name": "Neko.Finance",
             "symbol": "NEKO",
             "address": "0x2c28e0DE5d3a9020e60A6E48fDA8096ac18ceDc4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniMex Token @ UniMex.Finance",
+            "symbol": "UMEX",
+            "address": "0xE802e87bFfCC89aC511681FD2EE958Ed8c1c161C",
             "decimals": 18
         }
     ]
