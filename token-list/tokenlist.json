@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T12:15:13.977Z",
+    "timestamp": "2020-09-30T12:40:44.785Z",
     "version": {
         "major": 1,
-        "minor": 3708,
+        "minor": 3709,
         "patch": 0
     },
     "keywords": [
@@ -24664,6 +24664,13 @@
             "name": "Decentralized Vulnerability Platform",
             "symbol": "DVP",
             "address": "0x8E30ea2329D95802Fd804f4291220b0e2F579812",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yoink.rocks",
+            "symbol": "YOINK",
+            "address": "0xCD30ddf7503c97C1d76E4970571959570C7A7989",
             "decimals": 18
         }
     ]
