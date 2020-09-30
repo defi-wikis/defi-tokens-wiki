@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T06:28:49.600Z",
+    "timestamp": "2020-09-30T06:30:15.495Z",
     "version": {
         "major": 1,
-        "minor": 3671,
+        "minor": 3672,
         "patch": 0
     },
     "keywords": [
@@ -24405,6 +24405,13 @@
             "name": "HOMO Network",
             "symbol": "HOMO",
             "address": "0xcDC9dCC7B258Db8E0623E90034453dC0F2f3B7B7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTCv",
+            "symbol": "BTCv",
+            "address": "0xFD672c26BE9be4aecc415FFe20AbD4cbD62931E1",
             "decimals": 18
         }
     ]
