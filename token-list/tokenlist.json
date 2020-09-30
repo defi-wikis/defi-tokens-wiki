@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T23:14:59.693Z",
+    "timestamp": "2020-09-30T23:21:50.571Z",
     "version": {
         "major": 1,
-        "minor": 3798,
+        "minor": 3799,
         "patch": 0
     },
     "keywords": [
@@ -25294,6 +25294,13 @@
             "name": "SmartKey",
             "symbol": "Skey",
             "address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Phantasma Stake",
+            "symbol": "SOUL",
+            "address": "0x79C75E2e8720B39e258F41c37cC4f309E0b0fF80",
             "decimals": 8
         }
     ]
