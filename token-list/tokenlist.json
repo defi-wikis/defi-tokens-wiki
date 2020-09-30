@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T03:44:54.790Z",
+    "timestamp": "2020-09-30T04:02:39.711Z",
     "version": {
         "major": 1,
-        "minor": 3645,
+        "minor": 3646,
         "patch": 0
     },
     "keywords": [
@@ -24223,6 +24223,13 @@
             "name": "RUNE-B1A",
             "symbol": "RUNE",
             "address": "0x4e1caBE460CEBc8A59C4ff85d45Fb6454768B636",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EDMVision",
+            "symbol": "EDM",
+            "address": "0x1Ce37F6582AD1326faba0C679fB74AAaB036D2aB",
             "decimals": 18
         }
     ]
