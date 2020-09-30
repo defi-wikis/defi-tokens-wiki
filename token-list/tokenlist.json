@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T09:14:24.880Z",
+    "timestamp": "2020-09-30T09:16:39.815Z",
     "version": {
         "major": 1,
-        "minor": 3692,
+        "minor": 3693,
         "patch": 0
     },
     "keywords": [
@@ -24552,6 +24552,13 @@
             "name": "Yearn.concubine",
             "symbol": "YFTT",
             "address": "0x70F39CCa06ae0119423e9a1416E35f7A95AF242D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IDMOToken",
+            "symbol": "IDMO",
+            "address": "0x4Ba376dec87EDaa662Cd82278d89406864118EFd",
             "decimals": 18
         }
     ]
