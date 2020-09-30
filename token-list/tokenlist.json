@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T20:13:50.605Z",
+    "timestamp": "2020-09-30T20:27:19.845Z",
     "version": {
         "major": 1,
-        "minor": 3785,
+        "minor": 3786,
         "patch": 0
     },
     "keywords": [
@@ -25204,6 +25204,13 @@
             "symbol": "LOYAL",
             "address": "0x2db2E49Df476DF206eDC93B9Be4FA2d8519f897e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TGOP",
+            "symbol": "TGOP",
+            "address": "0x9F26Fe4D7408534d64Fa3247dd04a1b46268BfEC",
+            "decimals": 8
         }
     ]
 }
