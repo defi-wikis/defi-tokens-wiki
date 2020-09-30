@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T01:08:35.863Z",
+    "timestamp": "2020-09-30T01:11:54.702Z",
     "version": {
         "major": 1,
-        "minor": 3634,
+        "minor": 3635,
         "patch": 0
     },
     "keywords": [
@@ -24147,6 +24147,13 @@
             "symbol": "YFOX",
             "address": "0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "equalizer.fi",
+            "symbol": "EQL",
+            "address": "0x074A4e4808A0757889CD433697c9cceC9855fA2b",
+            "decimals": 18
         }
     ]
 }
