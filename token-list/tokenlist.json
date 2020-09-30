@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:33:30.179Z",
+    "timestamp": "2020-09-30T14:35:20.096Z",
     "version": {
         "major": 1,
-        "minor": 3733,
+        "minor": 3734,
         "patch": 0
     },
     "keywords": [
@@ -24839,6 +24839,13 @@
             "name": "sriracha.finance",
             "symbol": "srir",
             "address": "0x9573aa7d552b455878B1E4e73b52131692044B86",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Medicalx",
+            "symbol": "MDCX",
+            "address": "0xc68Ad05eeB87186b4E7e8F23efCc83E82D0C753f",
             "decimals": 18
         }
     ]
