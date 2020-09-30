@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:10:44.737Z",
+    "timestamp": "2020-09-30T14:23:10.179Z",
     "version": {
         "major": 1,
-        "minor": 3729,
+        "minor": 3730,
         "patch": 0
     },
     "keywords": [
@@ -24811,6 +24811,13 @@
             "name": "yearn apex finance",
             "symbol": "YAF",
             "address": "0xA1E8b4Ba59f1dD3A13e6841373186F720d6bF6Aa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zac.finance",
+            "symbol": "ZAC",
+            "address": "0xdDBb4c7354C5Fa76b65Fa19e5B1c395C8cA8d66E",
             "decimals": 18
         }
     ]
