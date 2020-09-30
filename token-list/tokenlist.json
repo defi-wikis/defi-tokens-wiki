@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T21:34:10.193Z",
+    "timestamp": "2020-09-30T22:01:50.410Z",
     "version": {
         "major": 1,
-        "minor": 3790,
+        "minor": 3791,
         "patch": 0
     },
     "keywords": [
@@ -25238,6 +25238,13 @@
             "name": "Nano Weekly Token",
             "symbol": "NWT",
             "address": "0x62e59947aDC508361799fE5565FF200266508B79",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crazy",
+            "symbol": "$CZY",
+            "address": "0xF14Fa8dB4Af918Abc5fd7a791DD74e5632BfbD42",
             "decimals": 18
         }
     ]
