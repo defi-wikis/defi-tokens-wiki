@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T06:09:59.472Z",
+    "timestamp": "2020-09-30T06:11:49.684Z",
     "version": {
         "major": 1,
-        "minor": 3668,
+        "minor": 3669,
         "patch": 0
     },
     "keywords": [
@@ -24384,6 +24384,13 @@
             "name": "Soviet.Finance",
             "symbol": "hSOV",
             "address": "0x2989bAF2138085c751266D92008B728737f8F59E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ice.Finance",
+            "symbol": "$ICE",
+            "address": "0xa4F37e8e3b45a74C934b73cC57b838150a4F828C",
             "decimals": 18
         }
     ]
