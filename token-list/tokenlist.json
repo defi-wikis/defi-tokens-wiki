@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:25:28.863Z",
+    "timestamp": "2020-09-30T19:27:09.503Z",
     "version": {
         "major": 1,
-        "minor": 3776,
+        "minor": 3777,
         "patch": 0
     },
     "keywords": [
@@ -25140,6 +25140,13 @@
             "name": "XdexToken",
             "symbol": "XDEX",
             "address": "0x17e4C54C20152998A569714fD6eA66A481ae234F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GHC",
+            "symbol": "GHC",
+            "address": "0x60BFE8024EEFc2eCb15CDfd1Ce142c0a6ce40b25",
             "decimals": 18
         }
     ]
