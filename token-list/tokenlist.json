@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T08:50:07.621Z",
+    "timestamp": "2020-09-30T08:50:13.619Z",
     "version": {
         "major": 1,
-        "minor": 3688,
+        "minor": 3689,
         "patch": 0
     },
     "keywords": [
@@ -24525,6 +24525,13 @@
             "symbol": "CHZ",
             "address": "0x5F9D41929AB2B66bEf0078C8F3182C4864375915",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Beowulf",
+            "symbol": "BWF",
+            "address": "0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+            "decimals": 5
         }
     ]
 }
