@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T07:46:30.164Z",
+    "timestamp": "2020-09-30T07:59:01.848Z",
     "version": {
         "major": 1,
-        "minor": 3679,
+        "minor": 3680,
         "patch": 0
     },
     "keywords": [
@@ -24461,6 +24461,13 @@
             "name": "RiveX Token",
             "symbol": "RVX",
             "address": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Venu Network",
+            "symbol": "VENU",
+            "address": "0x14B71c34829d35d1cC4A834E06622C51E1833c6D",
             "decimals": 18
         }
     ]
