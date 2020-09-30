@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T22:31:08.073Z",
+    "timestamp": "2020-09-30T22:58:30.273Z",
     "version": {
         "major": 1,
-        "minor": 3795,
+        "minor": 3796,
         "patch": 0
     },
     "keywords": [
@@ -25273,6 +25273,13 @@
             "name": "THEUSES",
             "symbol": "THEUS",
             "address": "0x11c552E0d391220FD57e6a6A85ee4AefF2325067",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Whisky.Finance",
+            "symbol": "WHF",
+            "address": "0x9b87051d09E44e6E393c8949efE449E8E932dF68",
             "decimals": 18
         }
     ]
