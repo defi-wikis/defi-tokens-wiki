@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:05:59.311Z",
+    "timestamp": "2020-09-30T05:11:06.272Z",
     "version": {
         "major": 1,
-        "minor": 3658,
+        "minor": 3659,
         "patch": 0
     },
     "keywords": [
@@ -24315,6 +24315,13 @@
             "symbol": "NEKO",
             "address": "0x51b5bb678e594536D394612F464F94dD87B5289F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Quras Token",
+            "symbol": "XQC",
+            "address": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
+            "decimals": 8
         }
     ]
 }
