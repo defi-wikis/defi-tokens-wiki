@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:07:19.877Z",
+    "timestamp": "2020-09-30T13:08:44.891Z",
     "version": {
         "major": 1,
-        "minor": 3717,
+        "minor": 3718,
         "patch": 0
     },
     "keywords": [
@@ -24727,6 +24727,13 @@
             "name": "Kuro Network",
             "symbol": "KURO",
             "address": "0xd49f68e105cfa2dB4773C031f29308fDddCc53e0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Neko.Finance",
+            "symbol": "NEKO",
+            "address": "0x2c28e0DE5d3a9020e60A6E48fDA8096ac18ceDc4",
             "decimals": 18
         }
     ]
