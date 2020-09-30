@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T16:00:13.204Z",
+    "timestamp": "2020-09-30T16:01:19.920Z",
     "version": {
         "major": 1,
-        "minor": 3746,
+        "minor": 3747,
         "patch": 0
     },
     "keywords": [
@@ -24931,6 +24931,13 @@
             "symbol": "ORNG",
             "address": "0xCBcaB845b098ae66dCEB8C6E9bbD3239693D9Ec2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped BIND",
+            "symbol": "wBIND",
+            "address": "0x15334DCb171e8b65D6650321581dcA83bE870115",
+            "decimals": 8
         }
     ]
 }
