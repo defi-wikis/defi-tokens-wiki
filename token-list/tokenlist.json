@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T18:57:10.722Z",
+    "timestamp": "2020-09-30T19:04:59.620Z",
     "version": {
         "major": 1,
-        "minor": 3770,
+        "minor": 3771,
         "patch": 0
     },
     "keywords": [
@@ -25098,6 +25098,13 @@
             "name": "CMTrade",
             "symbol": "CMT",
             "address": "0x17258ca8dabbfBdcB969D108A016aB4cb93B74e9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CCC",
+            "symbol": "CCC",
+            "address": "0x9651D2507e8b44FCe748fDAB965b043F2aFF8F7e",
             "decimals": 18
         }
     ]
