@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T18:32:54.897Z",
+    "timestamp": "2020-09-30T18:39:30.272Z",
     "version": {
         "major": 1,
-        "minor": 3767,
+        "minor": 3768,
         "patch": 0
     },
     "keywords": [
@@ -25077,6 +25077,13 @@
             "name": "4X4",
             "symbol": "4X4",
             "address": "0x951A3D201166d0532Cde0c60bd8F8386681fc252",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniMex Token @ UniMex.Finance",
+            "symbol": "UMEX",
+            "address": "0xf7CE9aB8bF98623B49A02B83C082e5C2fA665380",
             "decimals": 18
         }
     ]
