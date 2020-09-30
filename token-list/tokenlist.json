@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:03:59.944Z",
+    "timestamp": "2020-09-30T04:04:59.418Z",
     "version": {
         "major": 1,
-        "minor": 3647,
+        "minor": 3648,
         "patch": 0
     },
     "keywords": [
@@ -24238,6 +24238,13 @@
             "symbol": "ORBV2",
             "address": "0x1b7c4d4F226cCf3211B0F99c4fdfb84A2606bF8e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Last Man Standing",
+            "symbol": "LMS",
+            "address": "0xA699f65Dba8fBA51036138C9B45579C1a7ABdf1e",
+            "decimals": 0
         }
     ]
 }
