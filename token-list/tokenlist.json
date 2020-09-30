@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:09:49.725Z",
+    "timestamp": "2020-09-30T11:16:54.778Z",
     "version": {
         "major": 1,
-        "minor": 3703,
+        "minor": 3704,
         "patch": 0
     },
     "keywords": [
@@ -24629,6 +24629,13 @@
             "name": "Burnable Oraclized Finance",
             "symbol": "BOF",
             "address": "0xeCD911D24e980c426Ae2B9F61154DbD5eE2AE64f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SUSHI V2",
+            "symbol": "SUSHI V2",
+            "address": "0x018c88D554c6DbC20b15AeAaB59F992C323b5918",
             "decimals": 18
         }
     ]
