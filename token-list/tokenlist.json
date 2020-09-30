@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T20:47:07.856Z",
+    "timestamp": "2020-09-30T21:07:10.560Z",
     "version": {
         "major": 1,
-        "minor": 3788,
+        "minor": 3789,
         "patch": 0
     },
     "keywords": [
@@ -25224,6 +25224,13 @@
             "name": "AvalonCoin",
             "symbol": "AVC",
             "address": "0x2469e0433866daf8C9f92f2F68d73985ce4cb635",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x20a72674bf74e7F65474587a264e9a088981F9A9",
             "decimals": 18
         }
     ]
