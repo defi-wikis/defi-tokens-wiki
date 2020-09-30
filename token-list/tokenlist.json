@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T00:49:39.363Z",
+    "timestamp": "2020-09-30T00:55:25.281Z",
     "version": {
         "major": 1,
-        "minor": 3631,
+        "minor": 3632,
         "patch": 0
     },
     "keywords": [
@@ -24125,6 +24125,13 @@
             "name": "PolkastarterToken",
             "symbol": "POLS",
             "address": "0xd86872848C5fCBa92f6A75f0f7219F26a497fCdF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "niceaddress.top",
+            "symbol": "NAT",
+            "address": "0x117d5e17154e71C3342448b3d495230fA4A39275",
             "decimals": 18
         }
     ]
