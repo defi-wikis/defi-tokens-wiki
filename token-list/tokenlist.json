@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T08:50:13.619Z",
+    "timestamp": "2020-09-30T08:58:44.605Z",
     "version": {
         "major": 1,
-        "minor": 3689,
+        "minor": 3690,
         "patch": 0
     },
     "keywords": [
@@ -24532,6 +24532,13 @@
             "symbol": "BWF",
             "address": "0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
             "decimals": 5
+        },
+        {
+            "chainId": 1,
+            "name": "TESTX",
+            "symbol": "TESTX",
+            "address": "0x87F7F2Fc101297E8F6C42AbD821c5E803287D4e1",
+            "decimals": 18
         }
     ]
 }
