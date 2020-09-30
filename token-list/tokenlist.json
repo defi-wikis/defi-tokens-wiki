@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T12:47:49.916Z",
+    "timestamp": "2020-09-30T12:52:54.850Z",
     "version": {
         "major": 1,
-        "minor": 3711,
+        "minor": 3712,
         "patch": 0
     },
     "keywords": [
@@ -24685,6 +24685,13 @@
             "name": "MOMO Token",
             "symbol": "MOMO",
             "address": "0xa78aEBAd85Bc5C44E1127333a9122f893FdFcaF5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LOV Finance",
+            "symbol": "LOV",
+            "address": "0xD55d68A66DE291A1718b0c0cc2dFDC8A5677be81",
             "decimals": 18
         }
     ]
