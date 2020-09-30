@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T20:06:09.959Z",
+    "timestamp": "2020-09-30T20:12:50.495Z",
     "version": {
         "major": 1,
-        "minor": 3783,
+        "minor": 3784,
         "patch": 0
     },
     "keywords": [
@@ -25189,6 +25189,13 @@
             "name": "Yearn Finance Diamond Token",
             "symbol": "YFDT",
             "address": "0x0c33fC5822aD2aB8e0f57eaf4bd618D643Fd7628",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SOLE.FINANCE",
+            "symbol": "SOLE",
+            "address": "0x91691C6976B7C5eFB91d7a946301AD11a5F9C051",
             "decimals": 18
         }
     ]
