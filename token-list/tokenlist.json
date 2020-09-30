@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:19:19.985Z",
+    "timestamp": "2020-09-30T05:24:19.679Z",
     "version": {
         "major": 1,
-        "minor": 3661,
+        "minor": 3662,
         "patch": 0
     },
     "keywords": [
@@ -24335,6 +24335,13 @@
             "name": "poke.finance",
             "symbol": "POKE",
             "address": "0x81519b7c0DA8572973465030B50D440d4dbf2543",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Topswap Exchange ",
+            "symbol": "TOPS",
+            "address": "0x32B09CC7A794e6C5e53C305fDb227754B1185B97",
             "decimals": 18
         }
     ]
