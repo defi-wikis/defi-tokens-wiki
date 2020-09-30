@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T23:26:24.687Z",
+    "timestamp": "2020-09-30T23:32:54.851Z",
     "version": {
         "major": 1,
-        "minor": 3800,
+        "minor": 3801,
         "patch": 0
     },
     "keywords": [
@@ -25309,6 +25309,13 @@
             "symbol": "THEUS",
             "address": "0xB63E8750820260e870C1202671a3DbAefAbC7EE2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Phantasma Energy",
+            "symbol": "KCAL",
+            "address": "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d",
+            "decimals": 10
         }
     ]
 }
