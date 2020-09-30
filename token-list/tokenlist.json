@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T10:32:10.857Z",
+    "timestamp": "2020-09-30T10:36:35.013Z",
     "version": {
         "major": 1,
-        "minor": 3696,
+        "minor": 3697,
         "patch": 0
     },
     "keywords": [
@@ -24580,6 +24580,13 @@
             "name": "MARS",
             "symbol": "MARS",
             "address": "0x98B692408318F7e0A25F8C10Cab4628b2259D704",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Leopard Lending Ecology",
+            "symbol": "LLE",
+            "address": "0x0ed5e215C7Beb052efFb003AC6B1aA87ceF5B7F4",
             "decimals": 18
         }
     ]
