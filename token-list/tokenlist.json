@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T03:17:35.726Z",
+    "timestamp": "2020-09-30T03:44:07.303Z",
     "version": {
         "major": 1,
-        "minor": 3643,
+        "minor": 3644,
         "patch": 0
     },
     "keywords": [
@@ -24209,6 +24209,13 @@
             "name": "balancer.exchange",
             "symbol": "BAL",
             "address": "0x6Df0AB4E19F1B27B028F31E7333d7D9a9AaDc2c8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "tiktok.com",
+            "symbol": "TIKTOK",
+            "address": "0x5Dc8B75dD75aD1f5A7e6896b344609B964834493",
             "decimals": 18
         }
     ]
