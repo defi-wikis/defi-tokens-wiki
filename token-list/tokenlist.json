@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:27:09.503Z",
+    "timestamp": "2020-09-30T19:33:30.150Z",
     "version": {
         "major": 1,
-        "minor": 3777,
+        "minor": 3778,
         "patch": 0
     },
     "keywords": [
@@ -25147,6 +25147,13 @@
             "name": "GHC",
             "symbol": "GHC",
             "address": "0x60BFE8024EEFc2eCb15CDfd1Ce142c0a6ce40b25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Noble Network",
+            "symbol": "NOBLE",
+            "address": "0x516a8c5649aAF19bC7F7D6bB2F7aa46De8dE3501",
             "decimals": 18
         }
     ]
