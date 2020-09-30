@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:47:19.837Z",
+    "timestamp": "2020-09-30T04:47:39.574Z",
     "version": {
         "major": 1,
-        "minor": 3656,
+        "minor": 3657,
         "patch": 0
     },
     "keywords": [
@@ -24300,6 +24300,13 @@
             "name": "heavensgate.finance",
             "symbol": "HATE",
             "address": "0xE75d3B39D017985cAf20Fac7134eD55b8B47cc26",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TOPSWAP",
+            "symbol": "TOPS",
+            "address": "0xDE8C9dE83ad40BaaEF26fC78C260C04EB6405ff0",
             "decimals": 18
         }
     ]
