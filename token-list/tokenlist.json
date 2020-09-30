@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:43:40.664Z",
+    "timestamp": "2020-09-30T14:50:15.030Z",
     "version": {
         "major": 1,
-        "minor": 3738,
+        "minor": 3739,
         "patch": 0
     },
     "keywords": [
@@ -24874,6 +24874,13 @@
             "name": "BETHERO",
             "symbol": "BETHERO",
             "address": "0x904b243918DC46DC96AF926e085205B6Ab7E50d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiner.org",
+            "symbol": "$FIN",
+            "address": "0xEc351C430e29aaf50484a117c4247cE0aC2907F2",
             "decimals": 18
         }
     ]
