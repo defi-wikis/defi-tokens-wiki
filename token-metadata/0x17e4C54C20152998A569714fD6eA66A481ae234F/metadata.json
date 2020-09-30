@@ -1,0 +1,7 @@
+{
+    "name": "XdexToken",
+    "symbol": "XDEX",
+    "address": "0x17e4C54C20152998A569714fD6eA66A481ae234F",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
