@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T18:25:24.775Z",
+    "timestamp": "2020-09-30T18:30:14.258Z",
     "version": {
         "major": 1,
-        "minor": 3765,
+        "minor": 3766,
         "patch": 0
     },
     "keywords": [
@@ -25064,6 +25064,13 @@
             "symbol": "LMOON",
             "address": "0xC53eDD64a70E37BB5F95C5902DEFCda859aB115c",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeVo",
+            "symbol": "DEVOv2",
+            "address": "0x69E2C1a516e1C617d96bB9524d739B30b54568A4",
+            "decimals": 0
         }
     ]
 }
