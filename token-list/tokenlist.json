@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:10:15.567Z",
+    "timestamp": "2020-09-30T13:17:30.044Z",
     "version": {
         "major": 1,
-        "minor": 3719,
+        "minor": 3720,
         "patch": 0
     },
     "keywords": [
@@ -24741,6 +24741,13 @@
             "name": "UniMex Token @ UniMex.Finance",
             "symbol": "UMEX",
             "address": "0xE802e87bFfCC89aC511681FD2EE958Ed8c1c161C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "leopardlend",
+            "symbol": "LLE",
+            "address": "0xF030A2b1CD5626a875d9278ccDd4CBf31BE3F98c",
             "decimals": 18
         }
     ]
