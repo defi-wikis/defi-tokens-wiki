@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T12:42:55.557Z",
+    "timestamp": "2020-09-30T12:47:49.916Z",
     "version": {
         "major": 1,
-        "minor": 3710,
+        "minor": 3711,
         "patch": 0
     },
     "keywords": [
@@ -24678,6 +24678,13 @@
             "name": "USDN",
             "symbol": "USDN",
             "address": "0x1d21d0751B91B8Bb31D8fA36a886ED04342Fc6b7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MOMO Token",
+            "symbol": "MOMO",
+            "address": "0xa78aEBAd85Bc5C44E1127333a9122f893FdFcaF5",
             "decimals": 18
         }
     ]
