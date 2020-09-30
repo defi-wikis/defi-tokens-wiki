@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:02:39.711Z",
+    "timestamp": "2020-09-30T04:03:59.944Z",
     "version": {
         "major": 1,
-        "minor": 3646,
+        "minor": 3647,
         "patch": 0
     },
     "keywords": [
@@ -24230,6 +24230,13 @@
             "name": "EDMVision",
             "symbol": "EDM",
             "address": "0x1Ce37F6582AD1326faba0C679fB74AAaB036D2aB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbV2",
+            "symbol": "ORBV2",
+            "address": "0x1b7c4d4F226cCf3211B0F99c4fdfb84A2606bF8e",
             "decimals": 18
         }
     ]
