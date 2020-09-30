@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T17:50:24.880Z",
+    "timestamp": "2020-09-30T17:57:55.612Z",
     "version": {
         "major": 1,
-        "minor": 3762,
+        "minor": 3763,
         "patch": 0
     },
     "keywords": [
@@ -25042,6 +25042,13 @@
             "name": "CommunityMoonToken",
             "symbol": "CMT",
             "address": "0xc31C6CB370b847c2Ea8ee143923E33b514fb69fD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YF Gamma",
+            "symbol": "YFGM",
+            "address": "0xA09BB90f26EA2E3CaA3C74aeA7b6b5b8A13A23D7",
             "decimals": 18
         }
     ]
