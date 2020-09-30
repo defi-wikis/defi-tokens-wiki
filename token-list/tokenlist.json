@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T01:54:07.268Z",
+    "timestamp": "2020-09-30T02:00:14.791Z",
     "version": {
         "major": 1,
-        "minor": 3638,
+        "minor": 3639,
         "patch": 0
     },
     "keywords": [
@@ -24175,6 +24175,13 @@
             "symbol": "ORBS",
             "address": "0xFfe615163Ef49963F1bc51Ac49ca46120a4B2CeF",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Car",
+            "symbol": "DFC",
+            "address": "0xB7eB3de153e2eEeC6aE2922832444d486c5D73FE",
+            "decimals": 0
         }
     ]
 }
