@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:33:30.150Z",
+    "timestamp": "2020-09-30T19:37:59.733Z",
     "version": {
         "major": 1,
-        "minor": 3778,
+        "minor": 3779,
         "patch": 0
     },
     "keywords": [
@@ -25155,6 +25155,13 @@
             "symbol": "NOBLE",
             "address": "0x516a8c5649aAF19bC7F7D6bB2F7aa46De8dE3501",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PUMPANOMICS",
+            "symbol": "PUMPANOMIC",
+            "address": "0x15910D6238E437Ea01A2A9D3144678c988B81e58",
+            "decimals": 0
         }
     ]
 }
