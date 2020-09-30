@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:54:25.627Z",
+    "timestamp": "2020-09-30T20:06:09.959Z",
     "version": {
         "major": 1,
-        "minor": 3782,
+        "minor": 3783,
         "patch": 0
     },
     "keywords": [
@@ -25182,6 +25182,13 @@
             "name": "NiceCash Token",
             "symbol": "NCT",
             "address": "0x523A7FE78f3b11efF51441E3fCc95CB94A37D25C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Diamond Token",
+            "symbol": "YFDT",
+            "address": "0x0c33fC5822aD2aB8e0f57eaf4bd618D643Fd7628",
             "decimals": 18
         }
     ]
