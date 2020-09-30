@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T03:14:20.085Z",
+    "timestamp": "2020-09-30T03:17:35.726Z",
     "version": {
         "major": 1,
-        "minor": 3642,
+        "minor": 3643,
         "patch": 0
     },
     "keywords": [
@@ -24202,6 +24202,13 @@
             "name": "Orion Protocol",
             "symbol": "ORN",
             "address": "0x1561343c8DCC029665687CF6962777Fa9EC8588c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "balancer.exchange",
+            "symbol": "BAL",
+            "address": "0x6Df0AB4E19F1B27B028F31E7333d7D9a9AaDc2c8",
             "decimals": 18
         }
     ]
