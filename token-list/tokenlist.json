@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:49:19.758Z",
+    "timestamp": "2020-09-30T19:53:14.935Z",
     "version": {
         "major": 1,
-        "minor": 3780,
+        "minor": 3781,
         "patch": 0
     },
     "keywords": [
@@ -25168,6 +25168,13 @@
             "name": "whc.world",
             "symbol": "WHC",
             "address": "0x4c5aee52D2b2Dd53e266fA0625664eDaae18Ed5f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mineshaft.Finance",
+            "symbol": "MINERS",
+            "address": "0x2B98C0E2B5701a9A924ee9bb17400D9b6539Fa7d",
             "decimals": 18
         }
     ]
