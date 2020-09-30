@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T07:44:40.180Z",
+    "timestamp": "2020-09-30T07:46:30.164Z",
     "version": {
         "major": 1,
-        "minor": 3678,
+        "minor": 3679,
         "patch": 0
     },
     "keywords": [
@@ -24454,6 +24454,13 @@
             "name": "EggSwaps",
             "symbol": "EGG",
             "address": "0xd9020b98D8c34007142AD4594d0b54d85E4FAd02",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RiveX Token",
+            "symbol": "RVX",
+            "address": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
             "decimals": 18
         }
     ]
