@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T23:32:54.851Z",
+    "timestamp": "2020-09-30T23:40:24.782Z",
     "version": {
         "major": 1,
-        "minor": 3801,
+        "minor": 3802,
         "patch": 0
     },
     "keywords": [
@@ -25316,6 +25316,13 @@
             "symbol": "KCAL",
             "address": "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "Avocado Finance",
+            "symbol": "Avocado",
+            "address": "0x46748562491a7abD1F43931c51cFD79BeC2290Ca",
+            "decimals": 18
         }
     ]
 }
