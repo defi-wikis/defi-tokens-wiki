@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T22:06:14.377Z",
+    "timestamp": "2020-09-30T22:29:06.824Z",
     "version": {
         "major": 1,
-        "minor": 3793,
+        "minor": 3794,
         "patch": 0
     },
     "keywords": [
@@ -25259,6 +25259,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xdeb706FC00e335092532587f5b8C3829Ebdab303",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ECORE.Finance",
+            "symbol": "ECORE",
+            "address": "0x1638ad5f56918aDD4DE54cAfD07b47b1acFbf547",
             "decimals": 18
         }
     ]
