@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T00:42:30.029Z",
+    "timestamp": "2020-09-30T00:49:39.363Z",
     "version": {
         "major": 1,
-        "minor": 3630,
+        "minor": 3631,
         "patch": 0
     },
     "keywords": [
@@ -24118,6 +24118,13 @@
             "name": "Lina.business",
             "symbol": "Linab",
             "address": "0xe26bEDE090eBa4B652b80640Ff69C49E9E8589a8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PolkastarterToken",
+            "symbol": "POLS",
+            "address": "0xd86872848C5fCBa92f6A75f0f7219F26a497fCdF",
             "decimals": 18
         }
     ]
