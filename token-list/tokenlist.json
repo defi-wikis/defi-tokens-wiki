@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T06:03:09.718Z",
+    "timestamp": "2020-09-30T06:09:59.472Z",
     "version": {
         "major": 1,
-        "minor": 3667,
+        "minor": 3668,
         "patch": 0
     },
     "keywords": [
@@ -24377,6 +24377,13 @@
             "name": "Dart Finance",
             "symbol": "DART",
             "address": "0xcff1b0A3dCbafe5D291E6020722aF3cF64B47a23",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soviet.Finance",
+            "symbol": "hSOV",
+            "address": "0x2989bAF2138085c751266D92008B728737f8F59E",
             "decimals": 18
         }
     ]
