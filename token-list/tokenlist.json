@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:42:39.524Z",
+    "timestamp": "2020-09-30T13:46:09.967Z",
     "version": {
         "major": 1,
-        "minor": 3722,
+        "minor": 3723,
         "patch": 0
     },
     "keywords": [
@@ -24762,6 +24762,13 @@
             "name": "Soviet.Finance",
             "symbol": "hSOV",
             "address": "0x42cbD5EBC546486fF5Ee456990bd07F016c506a7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MOMO YFII",
+            "symbol": "MOMO",
+            "address": "0x36faFDf2F2ae652010Fba902742c1523101120B9",
             "decimals": 18
         }
     ]
