@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T12:40:44.785Z",
+    "timestamp": "2020-09-30T12:42:55.557Z",
     "version": {
         "major": 1,
-        "minor": 3709,
+        "minor": 3710,
         "patch": 0
     },
     "keywords": [
@@ -24671,6 +24671,13 @@
             "name": "yoink.rocks",
             "symbol": "YOINK",
             "address": "0xCD30ddf7503c97C1d76E4970571959570C7A7989",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "USDN",
+            "symbol": "USDN",
+            "address": "0x1d21d0751B91B8Bb31D8fA36a886ED04342Fc6b7",
             "decimals": 18
         }
     ]
