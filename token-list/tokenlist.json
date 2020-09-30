@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:39:29.586Z",
+    "timestamp": "2020-09-30T05:53:24.998Z",
     "version": {
         "major": 1,
-        "minor": 3663,
+        "minor": 3664,
         "patch": 0
     },
     "keywords": [
@@ -24349,6 +24349,13 @@
             "name": "OTT",
             "symbol": "Otter Finance",
             "address": "0x1669D5911C45Ac946a4e8e2686fB7DD92a1F0Dbf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "StormSwap",
+            "symbol": "STORM",
+            "address": "0x1E531f0C2AA00495Cd9649a9F33b1d166F1082CD",
             "decimals": 18
         }
     ]
