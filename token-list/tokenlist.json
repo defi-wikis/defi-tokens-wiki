@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:04:59.620Z",
+    "timestamp": "2020-09-30T19:05:59.870Z",
     "version": {
         "major": 1,
-        "minor": 3771,
+        "minor": 3772,
         "patch": 0
     },
     "keywords": [
@@ -25105,6 +25105,13 @@
             "name": "CCC",
             "symbol": "CCC",
             "address": "0x9651D2507e8b44FCe748fDAB965b043F2aFF8F7e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "soviet.finance",
+            "symbol": "hSOV",
+            "address": "0x2fE34eE1506c37494e98d3bc5245A4167ed4D8bD",
             "decimals": 18
         }
     ]
