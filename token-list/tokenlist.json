@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:09:19.497Z",
+    "timestamp": "2020-09-30T19:25:28.863Z",
     "version": {
         "major": 1,
-        "minor": 3775,
+        "minor": 3776,
         "patch": 0
     },
     "keywords": [
@@ -25133,6 +25133,13 @@
             "name": "PRT portion.io scam token",
             "symbol": "m\u000fQIÅ\u0002úò\u0015È³\u0006ì>P±^(",
             "address": "0xAeAfDF5D8Fd76a01F05426907e444e9381727abe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XdexToken",
+            "symbol": "XDEX",
+            "address": "0x17e4C54C20152998A569714fD6eA66A481ae234F",
             "decimals": 18
         }
     ]
