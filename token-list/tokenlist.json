@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:59:35.505Z",
+    "timestamp": "2020-09-30T14:08:10.207Z",
     "version": {
         "major": 1,
-        "minor": 3727,
+        "minor": 3728,
         "patch": 0
     },
     "keywords": [
@@ -24797,6 +24797,13 @@
             "name": "zac.finance",
             "symbol": "ZAC",
             "address": "0xD89f3d1d30a2D179d81350c2D6e00B31839eDf75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BEESWAP",
+            "symbol": "BEE",
+            "address": "0x1B6A6bE0c882dB3b810fFBa915c3496eaFD9b45A",
             "decimals": 18
         }
     ]
