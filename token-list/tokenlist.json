@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:24:29.698Z",
+    "timestamp": "2020-09-30T04:27:19.944Z",
     "version": {
         "major": 1,
-        "minor": 3651,
+        "minor": 3652,
         "patch": 0
     },
     "keywords": [
@@ -24265,6 +24265,13 @@
             "name": "NekoToken",
             "symbol": "NEKO",
             "address": "0x74635492C1DfAf4D967cE2CDacb7F824085bc1D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CeFi Token",
+            "symbol": "CeFi",
+            "address": "0x53F5448f46d1Ea30C5d457E6B7168abBCB574cB5",
             "decimals": 18
         }
     ]
