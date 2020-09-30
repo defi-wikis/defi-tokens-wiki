@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:32:06.631Z",
+    "timestamp": "2020-09-30T14:33:30.179Z",
     "version": {
         "major": 1,
-        "minor": 3732,
+        "minor": 3733,
         "patch": 0
     },
     "keywords": [
@@ -24832,6 +24832,13 @@
             "name": "ORK Finance",
             "symbol": "ORK",
             "address": "0x912bc4E8EE82adA3DBE1A7b4C10d22d696Dff027",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sriracha.finance",
+            "symbol": "srir",
+            "address": "0x9573aa7d552b455878B1E4e73b52131692044B86",
             "decimals": 18
         }
     ]
