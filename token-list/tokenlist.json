@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T08:58:44.605Z",
+    "timestamp": "2020-09-30T09:04:34.959Z",
     "version": {
         "major": 1,
-        "minor": 3690,
+        "minor": 3691,
         "patch": 0
     },
     "keywords": [
@@ -24538,6 +24538,13 @@
             "name": "TESTX",
             "symbol": "TESTX",
             "address": "0x87F7F2Fc101297E8F6C42AbD821c5E803287D4e1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "0xcert Protocol Token",
+            "symbol": "ZXC",
+            "address": "0x83e2BE8d114F9661221384B3a50d24B96a5653F5",
             "decimals": 18
         }
     ]
