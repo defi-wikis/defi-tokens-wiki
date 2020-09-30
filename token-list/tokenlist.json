@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T17:48:34.869Z",
+    "timestamp": "2020-09-30T17:48:40.192Z",
     "version": {
         "major": 1,
-        "minor": 3760,
+        "minor": 3761,
         "patch": 0
     },
     "keywords": [
@@ -25028,6 +25028,13 @@
             "name": "YFDT.FINANCE",
             "symbol": "YFDT",
             "address": "0x79B9441982ef76677CeC7d5Faa0CE42106943b93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COR Token",
+            "symbol": "COR",
+            "address": "0x9C2dc0c3CC2BADdE84B0025Cf4df1c5aF288D835",
             "decimals": 18
         }
     ]
