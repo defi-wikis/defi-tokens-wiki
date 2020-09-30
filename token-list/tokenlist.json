@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T18:39:30.272Z",
+    "timestamp": "2020-09-30T18:39:34.133Z",
     "version": {
         "major": 1,
-        "minor": 3768,
+        "minor": 3769,
         "patch": 0
     },
     "keywords": [
@@ -25084,6 +25084,13 @@
             "name": "UniMex Token @ UniMex.Finance",
             "symbol": "UMEX",
             "address": "0xf7CE9aB8bF98623B49A02B83C082e5C2fA665380",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Villa",
+            "symbol": "Villa",
+            "address": "0xD3cC7b0A60603c0D6Aad44dFF06fb8135fC150e9",
             "decimals": 18
         }
     ]
