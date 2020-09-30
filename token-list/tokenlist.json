@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:03:30.262Z",
+    "timestamp": "2020-09-30T13:07:14.706Z",
     "version": {
         "major": 1,
-        "minor": 3715,
+        "minor": 3716,
         "patch": 0
     },
     "keywords": [
@@ -24713,6 +24713,13 @@
             "name": "Leopard lending ecology",
             "symbol": "LLE",
             "address": "0xa1521aA6FE752195418ddbADB5A0c331608416B1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Consensus Finance",
+            "symbol": "CF",
+            "address": "0x5287f7F19fd277eb41F2a936F8a5206894fF7bdA",
             "decimals": 18
         }
     ]
