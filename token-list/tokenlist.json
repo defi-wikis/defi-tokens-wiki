@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:08:10.207Z",
+    "timestamp": "2020-09-30T14:10:44.737Z",
     "version": {
         "major": 1,
-        "minor": 3728,
+        "minor": 3729,
         "patch": 0
     },
     "keywords": [
@@ -24804,6 +24804,13 @@
             "name": "BEESWAP",
             "symbol": "BEE",
             "address": "0x1B6A6bE0c882dB3b810fFBa915c3496eaFD9b45A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn apex finance",
+            "symbol": "YAF",
+            "address": "0xA1E8b4Ba59f1dD3A13e6841373186F720d6bF6Aa",
             "decimals": 18
         }
     ]
