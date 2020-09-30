@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:17:30.044Z",
+    "timestamp": "2020-09-30T13:41:45.143Z",
     "version": {
         "major": 1,
-        "minor": 3720,
+        "minor": 3721,
         "patch": 0
     },
     "keywords": [
@@ -24749,6 +24749,13 @@
             "symbol": "LLE",
             "address": "0xF030A2b1CD5626a875d9278ccDd4CBf31BE3F98c",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xPorn",
+            "symbol": "XPO",
+            "address": "0x70c59C5F97e60E89df006aC4B9B8B77cDC8F6245",
+            "decimals": 8
         }
     ]
 }
