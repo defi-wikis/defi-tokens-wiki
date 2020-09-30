@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:01:25.605Z",
+    "timestamp": "2020-09-30T11:03:07.341Z",
     "version": {
         "major": 1,
-        "minor": 3700,
+        "minor": 3701,
         "patch": 0
     },
     "keywords": [
@@ -24608,6 +24608,13 @@
             "name": "lucky.bet",
             "symbol": "LUCKY",
             "address": "0x20f460aB4891E4C8A3FB396312c41A2Ce24d6DCA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BEOWULF",
+            "symbol": "BFW",
+            "address": "0x51C39390B00E3B6A2E867845b29145aa7b0944e1",
             "decimals": 18
         }
     ]
