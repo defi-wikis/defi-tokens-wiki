@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T10:54:40.225Z",
+    "timestamp": "2020-09-30T11:01:25.605Z",
     "version": {
         "major": 1,
-        "minor": 3699,
+        "minor": 3700,
         "patch": 0
     },
     "keywords": [
@@ -24601,6 +24601,13 @@
             "name": "UNIFUND",
             "symbol": "iFUND",
             "address": "0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "lucky.bet",
+            "symbol": "LUCKY",
+            "address": "0x20f460aB4891E4C8A3FB396312c41A2Ce24d6DCA",
             "decimals": 18
         }
     ]
