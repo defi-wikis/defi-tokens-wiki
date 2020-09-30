@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T09:16:39.815Z",
+    "timestamp": "2020-09-30T10:07:39.888Z",
     "version": {
         "major": 1,
-        "minor": 3693,
+        "minor": 3694,
         "patch": 0
     },
     "keywords": [
@@ -24559,6 +24559,13 @@
             "name": "IDMOToken",
             "symbol": "IDMO",
             "address": "0x4Ba376dec87EDaa662Cd82278d89406864118EFd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "POKEDAO.COM",
+            "symbol": "PKD",
+            "address": "0x291e9f7F6728D85E1A3171d15cDd115bec9B9B27",
             "decimals": 18
         }
     ]
