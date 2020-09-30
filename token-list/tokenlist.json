@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:46:09.967Z",
+    "timestamp": "2020-09-30T13:54:30.340Z",
     "version": {
         "major": 1,
-        "minor": 3723,
+        "minor": 3724,
         "patch": 0
     },
     "keywords": [
@@ -24769,6 +24769,13 @@
             "name": "MOMO YFII",
             "symbol": "MOMO",
             "address": "0x36faFDf2F2ae652010Fba902742c1523101120B9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Management2",
+            "symbol": "YFM",
+            "address": "0x62915998EB17e579245e9606cF80630a310ed067",
             "decimals": 18
         }
     ]
