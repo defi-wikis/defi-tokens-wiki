@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T15:14:07.081Z",
+    "timestamp": "2020-09-30T15:29:10.808Z",
     "version": {
         "major": 1,
-        "minor": 3741,
+        "minor": 3742,
         "patch": 0
     },
     "keywords": [
@@ -24896,6 +24896,13 @@
             "symbol": "XPR",
             "address": "0xD13F23BafEfCe65486B04378210a3011C01dd038",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Task Network",
+            "symbol": "TASKN",
+            "address": "0xcD9dD9eF64c18d6d0c5fefB1Dac9DE9EE61e54d4",
+            "decimals": 18
         }
     ]
 }
