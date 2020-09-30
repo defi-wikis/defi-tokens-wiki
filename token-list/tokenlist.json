@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T12:52:54.850Z",
+    "timestamp": "2020-09-30T12:58:10.557Z",
     "version": {
         "major": 1,
-        "minor": 3712,
+        "minor": 3713,
         "patch": 0
     },
     "keywords": [
@@ -24692,6 +24692,13 @@
             "name": "LOV Finance",
             "symbol": "LOV",
             "address": "0xD55d68A66DE291A1718b0c0cc2dFDC8A5677be81",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LuaSwap Token",
+            "symbol": "LUA",
+            "address": "0x1600a8E8c443177E1cA4938b56b801B99189204D",
             "decimals": 18
         }
     ]
