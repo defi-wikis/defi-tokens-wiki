@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T16:52:09.759Z",
+    "timestamp": "2020-09-30T16:56:02.328Z",
     "version": {
         "major": 1,
-        "minor": 3754,
+        "minor": 3755,
         "patch": 0
     },
     "keywords": [
@@ -24986,6 +24986,13 @@
             "name": "bonktoken.com",
             "symbol": "bonk",
             "address": "0xa83482E3f227843B267C5ff666bA3Ff6A1bD2056",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BIDAO",
+            "symbol": "bDAO",
+            "address": "0x99454372b4b4755960c2c6cFa4e26FB2Fe8304DA",
             "decimals": 18
         }
     ]
