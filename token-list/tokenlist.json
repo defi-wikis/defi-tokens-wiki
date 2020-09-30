@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:54:30.340Z",
+    "timestamp": "2020-09-30T13:57:20.779Z",
     "version": {
         "major": 1,
-        "minor": 3724,
+        "minor": 3725,
         "patch": 0
     },
     "keywords": [
@@ -24776,6 +24776,13 @@
             "name": "Yearn Finance Management2",
             "symbol": "YFM",
             "address": "0x62915998EB17e579245e9606cF80630a310ed067",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Poor Man's Coin",
+            "symbol": "POOR",
+            "address": "0x706F7f6645BCec65763427bcb630f0b47578D71c",
             "decimals": 18
         }
     ]
