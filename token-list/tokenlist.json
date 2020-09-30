@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T09:04:34.959Z",
+    "timestamp": "2020-09-30T09:14:24.880Z",
     "version": {
         "major": 1,
-        "minor": 3691,
+        "minor": 3692,
         "patch": 0
     },
     "keywords": [
@@ -24545,6 +24545,13 @@
             "name": "0xcert Protocol Token",
             "symbol": "ZXC",
             "address": "0x83e2BE8d114F9661221384B3a50d24B96a5653F5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.concubine",
+            "symbol": "YFTT",
+            "address": "0x70F39CCa06ae0119423e9a1416E35f7A95AF242D",
             "decimals": 18
         }
     ]
