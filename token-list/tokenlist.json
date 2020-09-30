@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:34:34.893Z",
+    "timestamp": "2020-09-30T04:42:49.757Z",
     "version": {
         "major": 1,
-        "minor": 3654,
+        "minor": 3655,
         "patch": 0
     },
     "keywords": [
@@ -24286,6 +24286,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xFAC2C93fb88A1536578E1a44936191d24Effc681",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Linear Earn Token",
+            "symbol": "LET",
+            "address": "0x7F790079635d07c9963a4094Ef0e988354eDDBFD",
             "decimals": 18
         }
     ]
