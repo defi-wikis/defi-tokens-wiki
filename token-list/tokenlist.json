@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:42:49.757Z",
+    "timestamp": "2020-09-30T04:47:19.837Z",
     "version": {
         "major": 1,
-        "minor": 3655,
+        "minor": 3656,
         "patch": 0
     },
     "keywords": [
@@ -24293,6 +24293,13 @@
             "name": "Linear Earn Token",
             "symbol": "LET",
             "address": "0x7F790079635d07c9963a4094Ef0e988354eDDBFD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "heavensgate.finance",
+            "symbol": "HATE",
+            "address": "0xE75d3B39D017985cAf20Fac7134eD55b8B47cc26",
             "decimals": 18
         }
     ]
