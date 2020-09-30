@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T23:40:24.782Z",
+    "timestamp": "2020-09-30T23:55:01.847Z",
     "version": {
         "major": 1,
-        "minor": 3802,
+        "minor": 3803,
         "patch": 0
     },
     "keywords": [
@@ -25322,6 +25322,13 @@
             "name": "Avocado Finance",
             "symbol": "Avocado",
             "address": "0x46748562491a7abD1F43931c51cFD79BeC2290Ca",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniStake Token @ UniStake.Finance",
+            "symbol": "UNISTAKE",
+            "address": "0x7260d340f22520619B3C1840E74Fac39A7E7525F",
             "decimals": 18
         }
     ]
