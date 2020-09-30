@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-29T23:59:54.575Z",
+    "timestamp": "2020-09-30T00:21:09.917Z",
     "version": {
         "major": 1,
-        "minor": 3627,
+        "minor": 3628,
         "patch": 0
     },
     "keywords": [
@@ -24097,6 +24097,13 @@
             "name": "ALPHA Token @ alphafinance.io",
             "symbol": "ALPHA",
             "address": "0x1C2898B39F38cA0F465D5FaCBb4E831e776A66f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Alpha Finance Lab",
+            "symbol": "ALPHA",
+            "address": "0x07ae2Ef14108453bFa8b8301eF2E86A7D82753c7",
             "decimals": 18
         }
     ]
