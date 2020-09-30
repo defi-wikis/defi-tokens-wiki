@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:03:19.904Z",
+    "timestamp": "2020-09-30T11:09:49.725Z",
     "version": {
         "major": 1,
-        "minor": 3702,
+        "minor": 3703,
         "patch": 0
     },
     "keywords": [
@@ -24622,6 +24622,13 @@
             "name": "PAYEER",
             "symbol": "PAY",
             "address": "0x7308AcD05AddF3e45D170A901D6dc1E46AbE64F8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Burnable Oraclized Finance",
+            "symbol": "BOF",
+            "address": "0xeCD911D24e980c426Ae2B9F61154DbD5eE2AE64f",
             "decimals": 18
         }
     ]
