@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T15:46:11.811Z",
+    "timestamp": "2020-09-30T15:54:30.142Z",
     "version": {
         "major": 1,
-        "minor": 3744,
+        "minor": 3745,
         "patch": 0
     },
     "keywords": [
@@ -24917,6 +24917,13 @@
             "symbol": "EURT",
             "address": "0xD450f07B2d54032d2C8Df0534255593a47f43281",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "BTF.fi",
+            "symbol": "BTF",
+            "address": "0xb5EF0aA5c8d425a71c2e184ba0Bc6F616CfFEaB5",
+            "decimals": 8
         }
     ]
 }
