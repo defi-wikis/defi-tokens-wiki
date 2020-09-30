@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:07:11.445Z",
+    "timestamp": "2020-09-30T19:09:19.497Z",
     "version": {
         "major": 1,
-        "minor": 3774,
+        "minor": 3775,
         "patch": 0
     },
     "keywords": [
@@ -25126,6 +25126,13 @@
             "name": "Utrust Token",
             "symbol": "UTK",
             "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PRT portion.io scam token",
+            "symbol": "m\u000fQIÅ\u0002úò\u0015È³\u0006ì>P±^(",
+            "address": "0xAeAfDF5D8Fd76a01F05426907e444e9381727abe",
             "decimals": 18
         }
     ]
