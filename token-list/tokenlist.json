@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T00:21:09.917Z",
+    "timestamp": "2020-09-30T00:25:40.961Z",
     "version": {
         "major": 1,
-        "minor": 3628,
+        "minor": 3629,
         "patch": 0
     },
     "keywords": [
@@ -24104,6 +24104,13 @@
             "name": "Alpha Finance Lab",
             "symbol": "ALPHA",
             "address": "0x07ae2Ef14108453bFa8b8301eF2E86A7D82753c7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bondly.finance",
+            "symbol": "BOND",
+            "address": "0x56c3CEa400481089947335B37E16f6ebDC71bC45",
             "decimals": 18
         }
     ]
