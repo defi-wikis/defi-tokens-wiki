@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T10:36:35.013Z",
+    "timestamp": "2020-09-30T10:51:30.361Z",
     "version": {
         "major": 1,
-        "minor": 3697,
+        "minor": 3698,
         "patch": 0
     },
     "keywords": [
@@ -24587,6 +24587,13 @@
             "name": "Leopard Lending Ecology",
             "symbol": "LLE",
             "address": "0x0ed5e215C7Beb052efFb003AC6B1aA87ceF5B7F4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RIVEX.io",
+            "symbol": "RVX",
+            "address": "0xa410dDEdF6349FF782d268988908720Dfb0d3E80",
             "decimals": 18
         }
     ]
