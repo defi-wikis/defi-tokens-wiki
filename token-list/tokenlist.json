@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T10:51:30.361Z",
+    "timestamp": "2020-09-30T10:54:40.225Z",
     "version": {
         "major": 1,
-        "minor": 3698,
+        "minor": 3699,
         "patch": 0
     },
     "keywords": [
@@ -24594,6 +24594,13 @@
             "name": "RIVEX.io",
             "symbol": "RVX",
             "address": "0xa410dDEdF6349FF782d268988908720Dfb0d3E80",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIFUND",
+            "symbol": "iFUND",
+            "address": "0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
             "decimals": 18
         }
     ]
