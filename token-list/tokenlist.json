@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T07:59:01.848Z",
+    "timestamp": "2020-09-30T07:59:29.675Z",
     "version": {
         "major": 1,
-        "minor": 3680,
+        "minor": 3681,
         "patch": 0
     },
     "keywords": [
@@ -24468,6 +24468,13 @@
             "name": "Venu Network",
             "symbol": "VENU",
             "address": "0x14B71c34829d35d1cC4A834E06622C51E1833c6D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETHUSD Long-Only Alpha",
+            "symbol": "XTF.SWCEUS",
+            "address": "0x175EAcf0169c89cc96Dbb8146D8dc7c9013E6784",
             "decimals": 18
         }
     ]
