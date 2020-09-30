@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:24:24.750Z",
+    "timestamp": "2020-09-30T04:24:29.698Z",
     "version": {
         "major": 1,
-        "minor": 3650,
+        "minor": 3651,
         "patch": 0
     },
     "keywords": [
@@ -24258,6 +24258,13 @@
             "name": "Buy-Sell",
             "symbol": "BSE",
             "address": "0xA30189d8255322A2F8B2a77906B000aeB005570c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NekoToken",
+            "symbol": "NEKO",
+            "address": "0x74635492C1DfAf4D967cE2CDacb7F824085bc1D8",
             "decimals": 18
         }
     ]
