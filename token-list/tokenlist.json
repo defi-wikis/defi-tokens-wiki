@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T08:26:50.112Z",
+    "timestamp": "2020-09-30T08:31:20.720Z",
     "version": {
         "major": 1,
-        "minor": 3684,
+        "minor": 3685,
         "patch": 0
     },
     "keywords": [
@@ -24496,6 +24496,13 @@
             "name": "Espresso Finance",
             "symbol": "ESP",
             "address": "0x81510a393d366db279FD7569fA74b753B53eF9F1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Remitano",
+            "symbol": "REMITANO",
+            "address": "0x75f05cF93e502A30D0aB31D0903B2D3491A807C5",
             "decimals": 18
         }
     ]
