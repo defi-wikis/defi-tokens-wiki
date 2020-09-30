@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:50:15.030Z",
+    "timestamp": "2020-09-30T14:55:50.210Z",
     "version": {
         "major": 1,
-        "minor": 3739,
+        "minor": 3740,
         "patch": 0
     },
     "keywords": [
@@ -24881,6 +24881,13 @@
             "name": "DeFiner.org",
             "symbol": "$FIN",
             "address": "0xEc351C430e29aaf50484a117c4247cE0aC2907F2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kuro Network",
+            "symbol": "KRUO",
+            "address": "0x1ecf7a8BA14AAB621ff2F01eC695615992B3F335",
             "decimals": 18
         }
     ]
