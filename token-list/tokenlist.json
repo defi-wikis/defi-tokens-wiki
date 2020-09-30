@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T00:58:14.785Z",
+    "timestamp": "2020-09-30T01:08:35.863Z",
     "version": {
         "major": 1,
-        "minor": 3633,
+        "minor": 3634,
         "patch": 0
     },
     "keywords": [
@@ -24140,6 +24140,13 @@
             "symbol": "BAR14",
             "address": "0x9d198D119182Bb6FE67dCccac339299DeE73B42b",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YFOX.FINANCE",
+            "symbol": "YFOX",
+            "address": "0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74",
+            "decimals": 6
         }
     ]
 }
