@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:53:24.998Z",
+    "timestamp": "2020-09-30T05:54:35.426Z",
     "version": {
         "major": 1,
-        "minor": 3664,
+        "minor": 3665,
         "patch": 0
     },
     "keywords": [
@@ -24356,6 +24356,13 @@
             "name": "StormSwap",
             "symbol": "STORM",
             "address": "0x1E531f0C2AA00495Cd9649a9F33b1d166F1082CD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SwapX Token",
+            "symbol": "SWA",
+            "address": "0xFc6214D39eB191eb6e35A1e4DFc21fEC9e4203AE",
             "decimals": 18
         }
     ]
