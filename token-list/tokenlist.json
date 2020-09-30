@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:03:07.341Z",
+    "timestamp": "2020-09-30T11:03:19.904Z",
     "version": {
         "major": 1,
-        "minor": 3701,
+        "minor": 3702,
         "patch": 0
     },
     "keywords": [
@@ -24615,6 +24615,13 @@
             "name": "BEOWULF",
             "symbol": "BFW",
             "address": "0x51C39390B00E3B6A2E867845b29145aa7b0944e1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PAYEER",
+            "symbol": "PAY",
+            "address": "0x7308AcD05AddF3e45D170A901D6dc1E46AbE64F8",
             "decimals": 18
         }
     ]
