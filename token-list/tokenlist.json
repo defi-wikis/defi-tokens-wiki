@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:07:14.706Z",
+    "timestamp": "2020-09-30T13:07:19.877Z",
     "version": {
         "major": 1,
-        "minor": 3716,
+        "minor": 3717,
         "patch": 0
     },
     "keywords": [
@@ -24720,6 +24720,13 @@
             "name": "Consensus Finance",
             "symbol": "CF",
             "address": "0x5287f7F19fd277eb41F2a936F8a5206894fF7bdA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kuro Network",
+            "symbol": "KURO",
+            "address": "0xd49f68e105cfa2dB4773C031f29308fDddCc53e0",
             "decimals": 18
         }
     ]
