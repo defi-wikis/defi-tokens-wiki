@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:00:13.686Z",
+    "timestamp": "2020-09-30T13:03:30.262Z",
     "version": {
         "major": 1,
-        "minor": 3714,
+        "minor": 3715,
         "patch": 0
     },
     "keywords": [
@@ -24706,6 +24706,13 @@
             "name": "ChainLink",
             "symbol": "LINK",
             "address": "0xC830Ec6591F39bA9FAb0381c1f25c444A1C3BEf6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Leopard lending ecology",
+            "symbol": "LLE",
+            "address": "0xa1521aA6FE752195418ddbADB5A0c331608416B1",
             "decimals": 18
         }
     ]
