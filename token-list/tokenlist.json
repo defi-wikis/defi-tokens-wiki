@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:14:39.678Z",
+    "timestamp": "2020-09-30T04:24:24.750Z",
     "version": {
         "major": 1,
-        "minor": 3649,
+        "minor": 3650,
         "patch": 0
     },
     "keywords": [
@@ -24251,6 +24251,13 @@
             "name": "Orbs.v2",
             "symbol": "ORBS",
             "address": "0x898Ba2E0c910B7909643c2416CDc30Cd244aBaEa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Buy-Sell",
+            "symbol": "BSE",
+            "address": "0xA30189d8255322A2F8B2a77906B000aeB005570c",
             "decimals": 18
         }
     ]
