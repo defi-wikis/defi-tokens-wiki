@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T20:30:15.462Z",
+    "timestamp": "2020-09-30T20:47:07.856Z",
     "version": {
         "major": 1,
-        "minor": 3787,
+        "minor": 3788,
         "patch": 0
     },
     "keywords": [
@@ -25217,6 +25217,13 @@
             "name": "eVault finance",
             "symbol": "VAT",
             "address": "0x7D0E2D93c7585E5B74F2aEE2be89CA8A1C0700D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AvalonCoin",
+            "symbol": "AVC",
+            "address": "0x2469e0433866daf8C9f92f2F68d73985ce4cb635",
             "decimals": 18
         }
     ]
