@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T02:46:44.523Z",
+    "timestamp": "2020-09-30T02:50:24.705Z",
     "version": {
         "major": 1,
-        "minor": 3640,
+        "minor": 3641,
         "patch": 0
     },
     "keywords": [
@@ -24189,6 +24189,13 @@
             "symbol": "CFARMING",
             "address": "0x670217506fafE36Ca1f35B886f49cE50F2998189",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "NEAR Protocol",
+            "symbol": "NEAR",
+            "address": "0x7aE8BACE649B9E63193EE1fcfb97e167175765f0",
+            "decimals": 18
         }
     ]
 }
