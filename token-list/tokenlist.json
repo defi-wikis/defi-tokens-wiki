@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:11:06.272Z",
+    "timestamp": "2020-09-30T05:11:29.453Z",
     "version": {
         "major": 1,
-        "minor": 3659,
+        "minor": 3660,
         "patch": 0
     },
     "keywords": [
@@ -24322,6 +24322,13 @@
             "symbol": "XQC",
             "address": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YF.Finance",
+            "symbol": "YFFI",
+            "address": "0x9C05d31f290C047Cf26DD742DCcC4E593A84DeCB",
+            "decimals": 18
         }
     ]
 }
