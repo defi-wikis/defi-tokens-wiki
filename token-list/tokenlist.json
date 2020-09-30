@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:16:54.778Z",
+    "timestamp": "2020-09-30T11:24:25.221Z",
     "version": {
         "major": 1,
-        "minor": 3704,
+        "minor": 3705,
         "patch": 0
     },
     "keywords": [
@@ -24636,6 +24636,13 @@
             "name": "SUSHI V2",
             "symbol": "SUSHI V2",
             "address": "0x018c88D554c6DbC20b15AeAaB59F992C323b5918",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Soviet.Finance",
+            "symbol": "$SOVIET",
+            "address": "0xDF659651A5082065acf219dC2904954aD1eCd16d",
             "decimals": 18
         }
     ]
