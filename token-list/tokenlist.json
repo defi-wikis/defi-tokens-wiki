@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:23:10.179Z",
+    "timestamp": "2020-09-30T14:31:34.769Z",
     "version": {
         "major": 1,
-        "minor": 3730,
+        "minor": 3731,
         "patch": 0
     },
     "keywords": [
@@ -24818,6 +24818,13 @@
             "name": "zac.finance",
             "symbol": "ZAC",
             "address": "0xdDBb4c7354C5Fa76b65Fa19e5B1c395C8cA8d66E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Halving",
+            "symbol": "HALV",
+            "address": "0x9e7cb236e43c4bd042fE463df6a175d4479ee186",
             "decimals": 18
         }
     ]
