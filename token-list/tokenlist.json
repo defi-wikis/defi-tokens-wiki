@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:53:14.935Z",
+    "timestamp": "2020-09-30T19:54:25.627Z",
     "version": {
         "major": 1,
-        "minor": 3781,
+        "minor": 3782,
         "patch": 0
     },
     "keywords": [
@@ -25175,6 +25175,13 @@
             "name": "Mineshaft.Finance",
             "symbol": "MINERS",
             "address": "0x2B98C0E2B5701a9A924ee9bb17400D9b6539Fa7d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NiceCash Token",
+            "symbol": "NCT",
+            "address": "0x523A7FE78f3b11efF51441E3fCc95CB94A37D25C",
             "decimals": 18
         }
     ]
