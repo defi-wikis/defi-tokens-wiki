@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T22:59:25.158Z",
+    "timestamp": "2020-09-30T23:14:59.693Z",
     "version": {
         "major": 1,
-        "minor": 3797,
+        "minor": 3798,
         "patch": 0
     },
     "keywords": [
@@ -25288,6 +25288,13 @@
             "symbol": "UPPP",
             "address": "0xe634b795998bD8F5b9177263229E31C79357C3b9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SmartKey",
+            "symbol": "Skey",
+            "address": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
+            "decimals": 8
         }
     ]
 }
