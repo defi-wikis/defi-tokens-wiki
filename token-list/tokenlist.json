@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T04:04:59.418Z",
+    "timestamp": "2020-09-30T04:14:39.678Z",
     "version": {
         "major": 1,
-        "minor": 3648,
+        "minor": 3649,
         "patch": 0
     },
     "keywords": [
@@ -24245,6 +24245,13 @@
             "symbol": "LMS",
             "address": "0xA699f65Dba8fBA51036138C9B45579C1a7ABdf1e",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Orbs.v2",
+            "symbol": "ORBS",
+            "address": "0x898Ba2E0c910B7909643c2416CDc30Cd244aBaEa",
+            "decimals": 18
         }
     ]
 }
