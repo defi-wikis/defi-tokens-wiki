@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T18:30:14.258Z",
+    "timestamp": "2020-09-30T18:32:54.897Z",
     "version": {
         "major": 1,
-        "minor": 3766,
+        "minor": 3767,
         "patch": 0
     },
     "keywords": [
@@ -25071,6 +25071,13 @@
             "symbol": "DEVOv2",
             "address": "0x69E2C1a516e1C617d96bB9524d739B30b54568A4",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "4X4",
+            "symbol": "4X4",
+            "address": "0x951A3D201166d0532Cde0c60bd8F8386681fc252",
+            "decimals": 18
         }
     ]
 }
