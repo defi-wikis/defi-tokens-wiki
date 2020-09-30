@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T13:41:45.143Z",
+    "timestamp": "2020-09-30T13:42:39.524Z",
     "version": {
         "major": 1,
-        "minor": 3721,
+        "minor": 3722,
         "patch": 0
     },
     "keywords": [
@@ -24756,6 +24756,13 @@
             "symbol": "XPO",
             "address": "0x70c59C5F97e60E89df006aC4B9B8B77cDC8F6245",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Soviet.Finance",
+            "symbol": "hSOV",
+            "address": "0x42cbD5EBC546486fF5Ee456990bd07F016c506a7",
+            "decimals": 18
         }
     ]
 }
