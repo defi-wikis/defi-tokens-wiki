@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T10:07:39.888Z",
+    "timestamp": "2020-09-30T10:18:50.127Z",
     "version": {
         "major": 1,
-        "minor": 3694,
+        "minor": 3695,
         "patch": 0
     },
     "keywords": [
@@ -24567,6 +24567,13 @@
             "symbol": "PKD",
             "address": "0x291e9f7F6728D85E1A3171d15cDd115bec9B9B27",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vether Pre Token",
+            "symbol": "VTT",
+            "address": "0xcE2810acf72a3Ef57cB60436fA66E729Bf65845f",
+            "decimals": 10
         }
     ]
 }
