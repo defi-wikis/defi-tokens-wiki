@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T06:39:01.910Z",
+    "timestamp": "2020-09-30T06:53:09.550Z",
     "version": {
         "major": 1,
-        "minor": 3674,
+        "minor": 3675,
         "patch": 0
     },
     "keywords": [
@@ -24426,6 +24426,13 @@
             "name": "Kira Network",
             "symbol": "KIRA",
             "address": "0xCE18903D52e5CDA52e0eAF05E239962E05f5ee43",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AnyTrade",
+            "symbol": "ATD",
+            "address": "0xe8E9d7AF466544b0D2bDD28cd0c0f1BbF14e71f1",
             "decimals": 18
         }
     ]
