@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:24:19.679Z",
+    "timestamp": "2020-09-30T05:39:29.586Z",
     "version": {
         "major": 1,
-        "minor": 3662,
+        "minor": 3663,
         "patch": 0
     },
     "keywords": [
@@ -24342,6 +24342,13 @@
             "name": "Topswap Exchange ",
             "symbol": "TOPS",
             "address": "0x32B09CC7A794e6C5e53C305fDb227754B1185B97",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OTT",
+            "symbol": "Otter Finance",
+            "address": "0x1669D5911C45Ac946a4e8e2686fB7DD92a1F0Dbf",
             "decimals": 18
         }
     ]
