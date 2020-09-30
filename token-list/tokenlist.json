@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T15:37:09.857Z",
+    "timestamp": "2020-09-30T15:46:11.811Z",
     "version": {
         "major": 1,
-        "minor": 3743,
+        "minor": 3744,
         "patch": 0
     },
     "keywords": [
@@ -24910,6 +24910,13 @@
             "symbol": "HODLd",
             "address": "0xD9602C5cDedc536f96c3a3f3Ff8C9367080a9dc2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TEMPO EURT",
+            "symbol": "EURT",
+            "address": "0xD450f07B2d54032d2C8Df0534255593a47f43281",
+            "decimals": 2
         }
     ]
 }
