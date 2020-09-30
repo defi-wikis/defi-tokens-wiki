@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T16:18:10.621Z",
+    "timestamp": "2020-09-30T16:34:10.911Z",
     "version": {
         "major": 1,
-        "minor": 3749,
+        "minor": 3750,
         "patch": 0
     },
     "keywords": [
@@ -24951,6 +24951,13 @@
             "name": "Litecoin",
             "symbol": "LTC",
             "address": "0x48794720aB88ef5c41b9049aA17CcBb7e292836b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NToken0027",
+            "symbol": "N0027",
+            "address": "0xa1a8aC9E3BfE5E45EF88b09AC6f8694859A0fe9f",
             "decimals": 18
         }
     ]
