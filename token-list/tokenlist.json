@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T12:58:10.557Z",
+    "timestamp": "2020-09-30T13:00:13.686Z",
     "version": {
         "major": 1,
-        "minor": 3713,
+        "minor": 3714,
         "patch": 0
     },
     "keywords": [
@@ -24699,6 +24699,13 @@
             "name": "LuaSwap Token",
             "symbol": "LUA",
             "address": "0x1600a8E8c443177E1cA4938b56b801B99189204D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ChainLink",
+            "symbol": "LINK",
+            "address": "0xC830Ec6591F39bA9FAb0381c1f25c444A1C3BEf6",
             "decimals": 18
         }
     ]
