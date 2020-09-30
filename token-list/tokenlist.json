@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T22:06:07.842Z",
+    "timestamp": "2020-09-30T22:06:14.377Z",
     "version": {
         "major": 1,
-        "minor": 3792,
+        "minor": 3793,
         "patch": 0
     },
     "keywords": [
@@ -25252,6 +25252,13 @@
             "name": "ChannelToken",
             "symbol": "Channel",
             "address": "0x6f8a577ff490a86B1b798807bb82B961BAccC837",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0xdeb706FC00e335092532587f5b8C3829Ebdab303",
             "decimals": 18
         }
     ]
