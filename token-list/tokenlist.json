@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T05:54:35.426Z",
+    "timestamp": "2020-09-30T05:55:06.984Z",
     "version": {
         "major": 1,
-        "minor": 3665,
+        "minor": 3666,
         "patch": 0
     },
     "keywords": [
@@ -24363,6 +24363,13 @@
             "name": "SwapX Token",
             "symbol": "SWA",
             "address": "0xFc6214D39eB191eb6e35A1e4DFc21fEC9e4203AE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Andromeda Network",
+            "symbol": "AND",
+            "address": "0x307C1818e03EB7C66d34097aa908562b5a3235d9",
             "decimals": 18
         }
     ]
