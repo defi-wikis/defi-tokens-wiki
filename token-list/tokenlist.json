@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T01:32:35.162Z",
+    "timestamp": "2020-09-30T01:54:07.268Z",
     "version": {
         "major": 1,
-        "minor": 3637,
+        "minor": 3638,
         "patch": 0
     },
     "keywords": [
@@ -24167,6 +24167,13 @@
             "name": "MOON BABY MOON",
             "symbol": "MOON",
             "address": "0xFCb1a8DA386848743F557EB102707743D0a0CEEF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbS",
+            "symbol": "ORBS",
+            "address": "0xFfe615163Ef49963F1bc51Ac49ca46120a4B2CeF",
             "decimals": 18
         }
     ]
