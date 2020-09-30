@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T00:25:40.961Z",
+    "timestamp": "2020-09-30T00:42:30.029Z",
     "version": {
         "major": 1,
-        "minor": 3629,
+        "minor": 3630,
         "patch": 0
     },
     "keywords": [
@@ -24111,6 +24111,13 @@
             "name": "bondly.finance",
             "symbol": "BOND",
             "address": "0x56c3CEa400481089947335B37E16f6ebDC71bC45",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lina.business",
+            "symbol": "Linab",
+            "address": "0xe26bEDE090eBa4B652b80640Ff69C49E9E8589a8",
             "decimals": 18
         }
     ]
