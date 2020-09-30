@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T16:58:02.325Z",
+    "timestamp": "2020-09-30T17:27:20.380Z",
     "version": {
         "major": 1,
-        "minor": 3756,
+        "minor": 3757,
         "patch": 0
     },
     "keywords": [
@@ -25000,6 +25000,13 @@
             "name": "TakoSwap.org",
             "symbol": "TAKO",
             "address": "0x088aA74B73AA14630dE7eA64385C5724CD1ff7F7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOKO Protocol",
+            "symbol": "YOKO",
+            "address": "0x185ABd57db3337BCfF00FE27c75f7f8f7d6D30f9",
             "decimals": 18
         }
     ]
