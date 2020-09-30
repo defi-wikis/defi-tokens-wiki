@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T06:23:54.543Z",
+    "timestamp": "2020-09-30T06:28:49.600Z",
     "version": {
         "major": 1,
-        "minor": 3670,
+        "minor": 3671,
         "patch": 0
     },
     "keywords": [
@@ -24398,6 +24398,13 @@
             "name": "Balanced long-term crypto fund",
             "symbol": "XTF.BCC1",
             "address": "0x3D25b1cF64B1198BB7705Da7f0a72aDde4f81AfC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOMO Network",
+            "symbol": "HOMO",
+            "address": "0xcDC9dCC7B258Db8E0623E90034453dC0F2f3B7B7",
             "decimals": 18
         }
     ]
