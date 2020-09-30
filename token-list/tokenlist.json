@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T19:06:07.636Z",
+    "timestamp": "2020-09-30T19:07:11.445Z",
     "version": {
         "major": 1,
-        "minor": 3773,
+        "minor": 3774,
         "patch": 0
     },
     "keywords": [
@@ -25119,6 +25119,13 @@
             "name": "Makers DAO",
             "symbol": "MKD",
             "address": "0x01d454FFC3f0B77F3f316D4c88230263c2aF7aBA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Utrust Token",
+            "symbol": "UTK",
+            "address": "0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
             "decimals": 18
         }
     ]
