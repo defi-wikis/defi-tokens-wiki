@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T15:54:30.142Z",
+    "timestamp": "2020-09-30T16:00:13.204Z",
     "version": {
         "major": 1,
-        "minor": 3745,
+        "minor": 3746,
         "patch": 0
     },
     "keywords": [
@@ -24924,6 +24924,13 @@
             "symbol": "BTF",
             "address": "0xb5EF0aA5c8d425a71c2e184ba0Bc6F616CfFEaB5",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Orange Protocol",
+            "symbol": "ORNG",
+            "address": "0xCBcaB845b098ae66dCEB8C6E9bbD3239693D9Ec2",
+            "decimals": 18
         }
     ]
 }
