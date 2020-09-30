@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T11:54:10.829Z",
+    "timestamp": "2020-09-30T11:59:31.433Z",
     "version": {
         "major": 1,
-        "minor": 3706,
+        "minor": 3707,
         "patch": 0
     },
     "keywords": [
@@ -24650,6 +24650,13 @@
             "name": "Forsage.io",
             "symbol": "Forsage",
             "address": "0xB6fff4393a4496FB69387d4ecEE57d07ABE23b81",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zac.finance",
+            "symbol": "ZAC",
+            "address": "0xb626032fCAafDB25E26f1497A7d9e56eFfff0829",
             "decimals": 18
         }
     ]
