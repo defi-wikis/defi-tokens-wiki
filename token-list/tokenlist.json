@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T08:43:29.995Z",
+    "timestamp": "2020-09-30T08:44:59.631Z",
     "version": {
         "major": 1,
-        "minor": 3686,
+        "minor": 3687,
         "patch": 0
     },
     "keywords": [
@@ -24510,6 +24510,13 @@
             "name": "Cheese",
             "symbol": "CHSTEST",
             "address": "0x995475c9A46e1595962c389a51804FD198A9AE27",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KHOAI",
+            "symbol": "KHOAI",
+            "address": "0xc0a757fD2f49fa5eaC6072b0aC05D1134D51F3b0",
             "decimals": 18
         }
     ]
