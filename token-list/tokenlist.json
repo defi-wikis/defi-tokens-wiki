@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T14:35:29.671Z",
+    "timestamp": "2020-09-30T14:39:55.799Z",
     "version": {
         "major": 1,
-        "minor": 3735,
+        "minor": 3736,
         "patch": 0
     },
     "keywords": [
@@ -24853,6 +24853,13 @@
             "name": "Yearn Finance Network",
             "symbol": "YFN",
             "address": "0x21C0CD8fC9380A0f0c66f9f42A6c34fE0D6eA223",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnGold.Finance",
+            "symbol": "YGFI",
+            "address": "0x3D4BdcAaA4df24aa3d1449460515b10E2d99cFF3",
             "decimals": 18
         }
     ]
