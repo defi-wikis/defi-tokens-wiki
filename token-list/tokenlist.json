@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T07:17:39.516Z",
+    "timestamp": "2020-09-30T07:44:40.180Z",
     "version": {
         "major": 1,
-        "minor": 3677,
+        "minor": 3678,
         "patch": 0
     },
     "keywords": [
@@ -24447,6 +24447,13 @@
             "name": "Crypto Boss Coin",
             "symbol": "CBC",
             "address": "0x790bFaCaE71576107C068f494c8A6302aea640cb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EggSwaps",
+            "symbol": "EGG",
+            "address": "0xd9020b98D8c34007142AD4594d0b54d85E4FAd02",
             "decimals": 18
         }
     ]
