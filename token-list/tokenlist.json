@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T20:27:19.845Z",
+    "timestamp": "2020-09-30T20:30:15.462Z",
     "version": {
         "major": 1,
-        "minor": 3786,
+        "minor": 3787,
         "patch": 0
     },
     "keywords": [
@@ -25211,6 +25211,13 @@
             "symbol": "TGOP",
             "address": "0x9F26Fe4D7408534d64Fa3247dd04a1b46268BfEC",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "eVault finance",
+            "symbol": "VAT",
+            "address": "0x7D0E2D93c7585E5B74F2aEE2be89CA8A1C0700D8",
+            "decimals": 18
         }
     ]
 }
