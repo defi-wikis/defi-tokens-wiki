@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T08:44:59.631Z",
+    "timestamp": "2020-09-30T08:50:07.621Z",
     "version": {
         "major": 1,
-        "minor": 3687,
+        "minor": 3688,
         "patch": 0
     },
     "keywords": [
@@ -24517,6 +24517,13 @@
             "name": "KHOAI",
             "symbol": "KHOAI",
             "address": "0xc0a757fD2f49fa5eaC6072b0aC05D1134D51F3b0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chiliz",
+            "symbol": "CHZ",
+            "address": "0x5F9D41929AB2B66bEf0078C8F3182C4864375915",
             "decimals": 18
         }
     ]
