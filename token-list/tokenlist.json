@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-09-30T15:29:10.808Z",
+    "timestamp": "2020-09-30T15:37:09.857Z",
     "version": {
         "major": 1,
-        "minor": 3742,
+        "minor": 3743,
         "patch": 0
     },
     "keywords": [
@@ -24902,6 +24902,13 @@
             "name": "Task Network",
             "symbol": "TASKN",
             "address": "0xcD9dD9eF64c18d6d0c5fefB1Dac9DE9EE61e54d4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HodlOrDIE",
+            "symbol": "HODLd",
+            "address": "0xD9602C5cDedc536f96c3a3f3Ff8C9367080a9dc2",
             "decimals": 18
         }
     ]
