@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T02:47:06.823Z",
+    "timestamp": "2020-10-01T03:21:24.450Z",
     "version": {
         "major": 1,
-        "minor": 3817,
+        "minor": 3818,
         "patch": 0
     },
     "keywords": [
@@ -25427,6 +25427,13 @@
             "name": "BambooSwap",
             "symbol": "BAMBOO",
             "address": "0xB1C50a3948e263Fc4034b7Ec4Ee7De71c600BE43",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BUILD DeFi Token",
+            "symbol": "BUILD",
+            "address": "0xd9211D8A2aE0cAFc1376762Eb56711CfF3Ebb79b",
             "decimals": 18
         }
     ]
