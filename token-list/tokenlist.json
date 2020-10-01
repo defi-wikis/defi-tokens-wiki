@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:10:25.303Z",
+    "timestamp": "2020-10-01T20:11:55.116Z",
     "version": {
         "major": 1,
-        "minor": 3948,
+        "minor": 3949,
         "patch": 0
     },
     "keywords": [
@@ -26344,6 +26344,13 @@
             "name": "Proxy",
             "symbol": "Proxy",
             "address": "0xcDa3F5a28B8f16F973Df150Da25Be10460FAeEEe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Noble Network",
+            "symbol": "NOBLE",
+            "address": "0x597e8df83e61432586B544a0e8B57a4706372606",
             "decimals": 18
         }
     ]
