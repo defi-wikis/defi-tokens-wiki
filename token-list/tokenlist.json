@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:10:55.272Z",
+    "timestamp": "2020-10-01T11:15:15.873Z",
     "version": {
         "major": 1,
-        "minor": 3874,
+        "minor": 3875,
         "patch": 0
     },
     "keywords": [
@@ -25826,6 +25826,13 @@
             "name": "UNIDEFI",
             "symbol": "UNIDEFI",
             "address": "0x30A58dD18AfbcDDb7E8BDF668FDEDbe3d1FB4260",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dungeon Iron",
+            "symbol": "IRON",
+            "address": "0xA88d2CbeAa282431516D5A10F4527C279bA45988",
             "decimals": 18
         }
     ]
