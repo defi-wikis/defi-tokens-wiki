@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:31:01.980Z",
+    "timestamp": "2020-10-01T11:38:25.278Z",
     "version": {
         "major": 1,
-        "minor": 3878,
+        "minor": 3879,
         "patch": 0
     },
     "keywords": [
@@ -25854,6 +25854,13 @@
             "name": "Apyc",
             "symbol": "APYC",
             "address": "0xee7A2BE6bD6fe2ED84614b7B8a279350C434ada5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OnigiriToken",
+            "symbol": "ONIGIRI",
+            "address": "0xcf9c692F7e62Af3c571D4173fd4ABf9A3E5330D0",
             "decimals": 18
         }
     ]
