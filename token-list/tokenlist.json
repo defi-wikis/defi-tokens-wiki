@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T16:36:20.706Z",
+    "timestamp": "2020-10-01T16:41:50.000Z",
     "version": {
         "major": 1,
-        "minor": 3924,
+        "minor": 3925,
         "patch": 0
     },
     "keywords": [
@@ -26176,6 +26176,13 @@
             "name": "Buy-Sell.io",
             "symbol": "BSE",
             "address": "0x103fd056c79669e6b2cC87811D15961ceebfFBd5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniMex.Finance",
+            "symbol": "UMEX",
+            "address": "0x8f6C55459651fcf17bC202ED968A1109Ad6b5De0",
             "decimals": 18
         }
     ]
