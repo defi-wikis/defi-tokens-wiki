@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T02:39:44.909Z",
+    "timestamp": "2020-10-01T02:47:06.823Z",
     "version": {
         "major": 1,
-        "minor": 3816,
+        "minor": 3817,
         "patch": 0
     },
     "keywords": [
@@ -25420,6 +25420,13 @@
             "name": "ATTRACTIVE",
             "symbol": "AT",
             "address": "0xedfA48c44F007c4f67C1f1552b5ACFC8e194B169",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BambooSwap",
+            "symbol": "BAMBOO",
+            "address": "0xB1C50a3948e263Fc4034b7Ec4Ee7De71c600BE43",
             "decimals": 18
         }
     ]
