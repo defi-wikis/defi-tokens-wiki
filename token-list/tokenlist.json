@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T15:14:20.722Z",
+    "timestamp": "2020-10-01T15:16:49.640Z",
     "version": {
         "major": 1,
-        "minor": 3915,
+        "minor": 3916,
         "patch": 0
     },
     "keywords": [
@@ -26113,6 +26113,13 @@
             "name": "Qantum Yearn Finance",
             "symbol": "QYFI",
             "address": "0x0d40952385a2571eA074Bafb7962BbfBF59Aa285",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZilchValueToken",
+            "symbol": "ZVT",
+            "address": "0xA5B72eCEcc25b03565590779Dcc438896eb1cd31",
             "decimals": 18
         }
     ]
