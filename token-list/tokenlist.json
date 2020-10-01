@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:21:30.400Z",
+    "timestamp": "2020-10-01T11:31:01.980Z",
     "version": {
         "major": 1,
-        "minor": 3877,
+        "minor": 3878,
         "patch": 0
     },
     "keywords": [
@@ -25847,6 +25847,13 @@
             "name": "yfALPHA",
             "symbol": "YFALPHA",
             "address": "0x5ef4Df48C095644B2D05571E187a77CD03ECF2a0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Apyc",
+            "symbol": "APYC",
+            "address": "0xee7A2BE6bD6fe2ED84614b7B8a279350C434ada5",
             "decimals": 18
         }
     ]
