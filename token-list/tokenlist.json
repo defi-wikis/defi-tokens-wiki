@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:51:25.182Z",
+    "timestamp": "2020-10-01T11:54:09.972Z",
     "version": {
         "major": 1,
-        "minor": 3880,
+        "minor": 3881,
         "patch": 0
     },
     "keywords": [
@@ -25868,6 +25868,13 @@
             "name": "AAVE",
             "symbol": "AAVE",
             "address": "0x9A9Fa3Bc8DAB638303720B6c5dA44808E80fCd50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORBZ",
+            "symbol": "ORBZ",
+            "address": "0x8B9C740bA181C136468c88BF782f85bbecF9c721",
             "decimals": 18
         }
     ]
