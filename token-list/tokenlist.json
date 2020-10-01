@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T07:02:06.682Z",
+    "timestamp": "2020-10-01T07:05:40.090Z",
     "version": {
         "major": 1,
-        "minor": 3848,
+        "minor": 3849,
         "patch": 0
     },
     "keywords": [
@@ -25645,6 +25645,13 @@
             "symbol": "COI",
             "address": "0xDdb839EF77DBc6D8c44F1d40f981454a053282eC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped LOKI",
+            "symbol": "wLOKI",
+            "address": "0x5ff668ddfDcBB7505f41ED56e626E4D4719DcB26",
+            "decimals": 9
         }
     ]
 }
