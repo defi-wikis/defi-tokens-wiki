@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T02:39:29.914Z",
+    "timestamp": "2020-10-01T02:39:44.909Z",
     "version": {
         "major": 1,
-        "minor": 3815,
+        "minor": 3816,
         "patch": 0
     },
     "keywords": [
@@ -25413,6 +25413,13 @@
             "name": "YDEX.Finance",
             "symbol": "YDEX",
             "address": "0x7489c3dC7B9b8d41964C6c565Ec19B257fD30024",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ATTRACTIVE",
+            "symbol": "AT",
+            "address": "0xedfA48c44F007c4f67C1f1552b5ACFC8e194B169",
             "decimals": 18
         }
     ]
