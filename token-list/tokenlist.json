@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:50:20.839Z",
+    "timestamp": "2020-10-01T14:51:45.114Z",
     "version": {
         "major": 1,
-        "minor": 3911,
+        "minor": 3912,
         "patch": 0
     },
     "keywords": [
@@ -26085,6 +26085,13 @@
             "name": "Wrapped Anatha",
             "symbol": "WANAT",
             "address": "0x04f941382D5bA59478675964AD9fe883f2908456",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Syntax Finance",
+            "symbol": "SYF",
+            "address": "0xcCF463A28529Dacba0f1Cb51A14588aa6f6aCd59",
             "decimals": 18
         }
     ]
