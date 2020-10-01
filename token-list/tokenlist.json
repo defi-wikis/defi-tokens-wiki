@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:54:09.972Z",
+    "timestamp": "2020-10-01T11:55:30.361Z",
     "version": {
         "major": 1,
-        "minor": 3881,
+        "minor": 3882,
         "patch": 0
     },
     "keywords": [
@@ -25875,6 +25875,13 @@
             "name": "ORBZ",
             "symbol": "ORBZ",
             "address": "0x8B9C740bA181C136468c88BF782f85bbecF9c721",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfALPHA",
+            "symbol": "YFALPHA",
+            "address": "0xe009A54aE15EA6c7acC32c72f08a36389B492E06",
             "decimals": 18
         }
     ]
