@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T23:41:24.570Z",
+    "timestamp": "2020-10-01T23:41:30.614Z",
     "version": {
         "major": 1,
-        "minor": 3980,
+        "minor": 3981,
         "patch": 0
     },
     "keywords": [
@@ -26568,6 +26568,13 @@
             "name": "ETrading EDGE",
             "symbol": "EDGE",
             "address": "0x9533ea190c28EFaF29a32350aCAe2621f61c944d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETrading EXPO",
+            "symbol": "EXPO",
+            "address": "0xB688A1F1e985ed6EC3668f513AD9b3984b5b8aB4",
             "decimals": 18
         }
     ]
