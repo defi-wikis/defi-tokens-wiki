@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T15:41:29.635Z",
+    "timestamp": "2020-10-01T15:49:39.752Z",
     "version": {
         "major": 1,
-        "minor": 3918,
+        "minor": 3919,
         "patch": 0
     },
     "keywords": [
@@ -26134,6 +26134,13 @@
             "name": "yfpi.finance",
             "symbol": "YFPI",
             "address": "0x955f11b004c02c3c439a4A46FC49eFaC2072f386",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZilchValueToken",
+            "symbol": "ZVT",
+            "address": "0x67BDe71E98d69ba89A8F2e8df3D1AEEA5A436137",
             "decimals": 18
         }
     ]
