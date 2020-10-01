@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T05:23:45.213Z",
+    "timestamp": "2020-10-01T05:29:29.792Z",
     "version": {
         "major": 1,
-        "minor": 3837,
+        "minor": 3838,
         "patch": 0
     },
     "keywords": [
@@ -25567,6 +25567,13 @@
             "name": "Bela",
             "symbol": "BELA",
             "address": "0x2e98A6804E4b6c832ED0ca876a943abD3400b224",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LONK",
+            "symbol": "LONK",
+            "address": "0x7c8F6D8A03a82d55E3CfAa0B527771F95B091168",
             "decimals": 18
         }
     ]
