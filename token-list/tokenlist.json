@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T10:59:59.714Z",
+    "timestamp": "2020-10-01T11:00:19.548Z",
     "version": {
         "major": 1,
-        "minor": 3870,
+        "minor": 3871,
         "patch": 0
     },
     "keywords": [
@@ -25799,6 +25799,13 @@
             "symbol": "ORBS2",
             "address": "0x25D55136efc0f53eEfC9B2892066E3f6CE32D00B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAND",
+            "symbol": "PSM",
+            "address": "0x533a3382bCe2dbb922363011803C50d6Be13ED14",
+            "decimals": 6
         }
     ]
 }
