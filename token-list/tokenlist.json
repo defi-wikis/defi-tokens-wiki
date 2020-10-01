@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T04:01:50.039Z",
+    "timestamp": "2020-10-01T04:06:54.816Z",
     "version": {
         "major": 1,
-        "minor": 3828,
+        "minor": 3829,
         "patch": 0
     },
     "keywords": [
@@ -25505,6 +25505,13 @@
             "symbol": "LOVE",
             "address": "0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yAERO",
+            "symbol": "yAERO",
+            "address": "0x4359E76802EC5f3AaB564Be2DA31f403e181b437",
+            "decimals": 6
         }
     ]
 }
