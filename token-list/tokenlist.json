@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T03:31:34.957Z",
+    "timestamp": "2020-10-01T03:33:02.113Z",
     "version": {
         "major": 1,
-        "minor": 3821,
+        "minor": 3822,
         "patch": 0
     },
     "keywords": [
@@ -25455,6 +25455,13 @@
             "name": "Veella Token",
             "symbol": "VEELLA",
             "address": "0xD7A09F6058fd842Bb83948103396459614cb967a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WAL",
+            "symbol": "WAL",
+            "address": "0x555B572c63Fe4F6cEc08E7D6633756A7470faC27",
             "decimals": 18
         }
     ]
