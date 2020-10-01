@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:13:44.753Z",
+    "timestamp": "2020-10-01T22:37:59.804Z",
     "version": {
         "major": 1,
-        "minor": 3969,
+        "minor": 3970,
         "patch": 0
     },
     "keywords": [
@@ -26491,6 +26491,13 @@
             "name": "Orb Finance V3",
             "symbol": "ORB3",
             "address": "0x89b51360dbB970D34059d27Ed438d0C06CFaa5CB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PumpIt.Finance",
+            "symbol": "PUMPIT",
+            "address": "0x60196494989999937800617Dccec07f7A7F7F7F9",
             "decimals": 18
         }
     ]
