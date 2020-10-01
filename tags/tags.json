@@ -81,5 +81,9 @@
     "zora": {
         "name": "Zora",
         "description": "Tokens created on the Zora platform"
+    },
+     "creator": {
+        "name": "Creator",
+        "description": "Tokens by creators"
     }
 }
