@@ -1,0 +1,7 @@
+{
+    "name": "Yearn Finance Diamond Token",
+    "symbol": "YFDT",
+    "address": "0x1378eC93Ab2B07ba5A0eAEf19Cf354A33f64B9FD",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
