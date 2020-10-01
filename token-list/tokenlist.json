@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T21:14:14.519Z",
+    "timestamp": "2020-10-01T21:38:29.618Z",
     "version": {
         "major": 1,
-        "minor": 3959,
+        "minor": 3960,
         "patch": 0
     },
     "keywords": [
@@ -26422,6 +26422,13 @@
             "symbol": "MOMO",
             "address": "0x2B1DD74C21D10CC5702d7A44b7D100d2F3ce43F9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Freedom",
+            "symbol": "FREEdom",
+            "address": "0x4bD61e5127BFDFdD3EB2C6d69C5c03bD867d12fa",
+            "decimals": 6
         }
     ]
 }
