@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T12:32:39.587Z",
+    "timestamp": "2020-10-01T12:43:44.863Z",
     "version": {
         "major": 1,
-        "minor": 3887,
+        "minor": 3888,
         "patch": 0
     },
     "keywords": [
@@ -25917,6 +25917,13 @@
             "name": "HOLOFI",
             "symbol": "HOLOFI",
             "address": "0xc0Be71CA0cDB0DBcC003a3ea0D1Cc61aB96a98c9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nuVault.finance",
+            "symbol": "nuCORE",
+            "address": "0xf66f0D6999246906c5025900E0756a71078fCaDe",
             "decimals": 18
         }
     ]
