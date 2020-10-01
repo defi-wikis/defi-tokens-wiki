@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:08:44.373Z",
+    "timestamp": "2020-10-01T14:18:35.292Z",
     "version": {
         "major": 1,
-        "minor": 3898,
+        "minor": 3899,
         "patch": 0
     },
     "keywords": [
@@ -25994,6 +25994,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x72dcBF85A5286619Ec46b2f02eCA2Ea66BfEE0b8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "THETA  network",
+            "symbol": "THETA",
+            "address": "0x7dfF9A7542b836A507922FC76B28CDF72afA46f6",
             "decimals": 18
         }
     ]
