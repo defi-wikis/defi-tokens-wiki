@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T05:58:50.105Z",
+    "timestamp": "2020-10-01T06:04:19.799Z",
     "version": {
         "major": 1,
-        "minor": 3842,
+        "minor": 3843,
         "patch": 0
     },
     "keywords": [
@@ -25602,6 +25602,13 @@
             "name": "bootycoin",
             "symbol": "$BOOTY",
             "address": "0x1d773Dd8A1614c39F4a558008C0E62323563285C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbsV2",
+            "symbol": "OrbsV2",
+            "address": "0x584934B757d73b3b7baD51E12Abf8E5c07dDDd69",
             "decimals": 18
         }
     ]
