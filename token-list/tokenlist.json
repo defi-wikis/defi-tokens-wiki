@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T12:43:44.863Z",
+    "timestamp": "2020-10-01T12:59:34.987Z",
     "version": {
         "major": 1,
-        "minor": 3888,
+        "minor": 3889,
         "patch": 0
     },
     "keywords": [
@@ -25924,6 +25924,13 @@
             "name": "nuVault.finance",
             "symbol": "nuCORE",
             "address": "0xf66f0D6999246906c5025900E0756a71078fCaDe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ArK",
+            "symbol": "ArK",
+            "address": "0x7487d5fE6d5238fcCD013D89C38a13c900dd625B",
             "decimals": 18
         }
     ]
