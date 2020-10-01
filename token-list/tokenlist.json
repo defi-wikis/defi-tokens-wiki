@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T07:05:40.090Z",
+    "timestamp": "2020-10-01T07:38:09.943Z",
     "version": {
         "major": 1,
-        "minor": 3849,
+        "minor": 3850,
         "patch": 0
     },
     "keywords": [
@@ -25652,6 +25652,13 @@
             "symbol": "wLOKI",
             "address": "0x5ff668ddfDcBB7505f41ED56e626E4D4719DcB26",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "DNA Token",
+            "symbol": "DNA",
+            "address": "0x82b0E50478eeaFde392D45D1259Ed1071B6fDa81",
+            "decimals": 18
         }
     ]
 }
