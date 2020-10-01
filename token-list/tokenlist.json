@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T13:22:59.927Z",
+    "timestamp": "2020-10-01T13:26:09.934Z",
     "version": {
         "major": 1,
-        "minor": 3893,
+        "minor": 3894,
         "patch": 0
     },
     "keywords": [
@@ -25959,6 +25959,13 @@
             "name": "SPA",
             "symbol": "SPA",
             "address": "0x97be63faEd7F97E07058eAaE87BF7fC438E2440D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XORA Finance",
+            "symbol": "XORA",
+            "address": "0xfC18bB4ae95CbcDfeDD60EFf1bAA0e89eFC4F2b2",
             "decimals": 18
         }
     ]
