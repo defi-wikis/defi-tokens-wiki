@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T06:04:19.799Z",
+    "timestamp": "2020-10-01T06:12:25.425Z",
     "version": {
         "major": 1,
-        "minor": 3843,
+        "minor": 3844,
         "patch": 0
     },
     "keywords": [
@@ -25609,6 +25609,13 @@
             "name": "OrbsV2",
             "symbol": "OrbsV2",
             "address": "0x584934B757d73b3b7baD51E12Abf8E5c07dDDd69",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/SOCHAD69 V2",
+            "symbol": "SOCHAD69V2",
+            "address": "0x64afa0C2b3FEF02DD6251Ef13A2DDbed309b167E",
             "decimals": 18
         }
     ]
