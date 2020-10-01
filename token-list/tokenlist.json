@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T04:43:39.723Z",
+    "timestamp": "2020-10-01T04:43:59.538Z",
     "version": {
         "major": 1,
-        "minor": 3831,
+        "minor": 3832,
         "patch": 0
     },
     "keywords": [
@@ -25525,6 +25525,13 @@
             "name": "t.me/SOCHAD69",
             "symbol": "SOCHAD69",
             "address": "0xd58051b4b91e94D62C45464148658b467f1Fb72F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Huobi DOT",
+            "symbol": "HDOT",
+            "address": "0x6f0Cd0541d84F28947196598165A6D4b1539e51E",
             "decimals": 18
         }
     ]
