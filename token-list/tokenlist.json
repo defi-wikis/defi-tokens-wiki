@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T23:13:15.486Z",
+    "timestamp": "2020-10-01T23:41:24.570Z",
     "version": {
         "major": 1,
-        "minor": 3979,
+        "minor": 3980,
         "patch": 0
     },
     "keywords": [
@@ -26561,6 +26561,13 @@
             "name": "desire.finance",
             "symbol": "DESIRE",
             "address": "0x03C50991829f6920A12FAC8fe79d934cc544eE99",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETrading EDGE",
+            "symbol": "EDGE",
+            "address": "0x9533ea190c28EFaF29a32350aCAe2621f61c944d",
             "decimals": 18
         }
     ]
