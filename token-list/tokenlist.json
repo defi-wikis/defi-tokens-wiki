@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:13:39.951Z",
+    "timestamp": "2020-10-01T18:14:10.054Z",
     "version": {
         "major": 1,
-        "minor": 3933,
+        "minor": 3934,
         "patch": 0
     },
     "keywords": [
@@ -26239,6 +26239,13 @@
             "name": "applew",
             "symbol": "applew",
             "address": "0xc84Dc61A0db757E9888b18A7E3e0fA63948e088d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ART Token",
+            "symbol": "ART",
+            "address": "0xE51f24B251430A6e615f66e0d3c3A97c442aB38C",
             "decimals": 18
         }
     ]
