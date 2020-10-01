@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T07:53:55.096Z",
+    "timestamp": "2020-10-01T07:58:15.207Z",
     "version": {
         "major": 1,
-        "minor": 3852,
+        "minor": 3853,
         "patch": 0
     },
     "keywords": [
@@ -25672,6 +25672,13 @@
             "name": "Digital Twin Agrement",
             "symbol": "DTA",
             "address": "0x6426d7ed390f70412152FCa042B476f1c76E1A84",
+            "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Tavittcoin",
+            "symbol": "TAVITT",
+            "address": "0xdd690D8824c00C84d64606FFb12640e932C1AF56",
             "decimals": 8
         }
     ]
