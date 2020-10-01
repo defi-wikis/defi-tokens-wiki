@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T21:59:59.903Z",
+    "timestamp": "2020-10-01T22:00:09.471Z",
     "version": {
         "major": 1,
-        "minor": 3966,
+        "minor": 3967,
         "patch": 0
     },
     "keywords": [
@@ -26470,6 +26470,13 @@
             "name": "Azizos",
             "symbol": "AZIZ",
             "address": "0x207aA72ee60C867E89268ECeb4C0A0C50788F652",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arsu",
+            "symbol": "ARSU",
+            "address": "0xf6b76aa49F8535238F06850fd93e5Ea27a378751",
             "decimals": 18
         }
     ]
