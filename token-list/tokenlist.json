@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T07:39:34.479Z",
+    "timestamp": "2020-10-01T07:53:55.096Z",
     "version": {
         "major": 1,
-        "minor": 3851,
+        "minor": 3852,
         "patch": 0
     },
     "keywords": [
@@ -25666,6 +25666,13 @@
             "symbol": "TOMO",
             "address": "0xA3Aab5E29d4A2a68A0f053AD27881fb8E4cC1737",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Twin Agrement",
+            "symbol": "DTA",
+            "address": "0x6426d7ed390f70412152FCa042B476f1c76E1A84",
+            "decimals": 8
         }
     ]
 }
