@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T15:11:50.560Z",
+    "timestamp": "2020-10-01T15:14:20.722Z",
     "version": {
         "major": 1,
-        "minor": 3914,
+        "minor": 3915,
         "patch": 0
     },
     "keywords": [
@@ -26106,6 +26106,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x8Db8FfBE9b633CcA2f14b2F8d16b6BA61C0fd4da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Qantum Yearn Finance",
+            "symbol": "QYFI",
+            "address": "0x0d40952385a2571eA074Bafb7962BbfBF59Aa285",
             "decimals": 18
         }
     ]
