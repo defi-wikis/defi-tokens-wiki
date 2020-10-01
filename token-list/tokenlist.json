@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T13:05:29.589Z",
+    "timestamp": "2020-10-01T13:11:39.841Z",
     "version": {
         "major": 1,
-        "minor": 3890,
+        "minor": 3891,
         "patch": 0
     },
     "keywords": [
@@ -25938,6 +25938,13 @@
             "name": "Heritage Fi",
             "symbol": "HFI",
             "address": "0xE4f6Da994a9694aE64DE34858f19440B4Ff32ac6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "minion.farm",
+            "symbol": "MNNF",
+            "address": "0x8313f647C775664c2A2d381353Ea3b94dEF5465D",
             "decimals": 18
         }
     ]
