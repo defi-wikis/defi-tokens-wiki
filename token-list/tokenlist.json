@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:32:10.704Z",
+    "timestamp": "2020-10-01T14:32:29.692Z",
     "version": {
         "major": 1,
-        "minor": 3906,
+        "minor": 3907,
         "patch": 0
     },
     "keywords": [
@@ -26050,6 +26050,13 @@
             "name": "ZURICH.cityswap.io",
             "symbol": "ZURICH",
             "address": "0x1dc3A21686530Da3453b3EFb9DB0c5a4a96B5837",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JUNGLE",
+            "symbol": "JNGL",
+            "address": "0x185202FFD43FB27A6bba31f7944eF46aaCC717d9",
             "decimals": 18
         }
     ]
