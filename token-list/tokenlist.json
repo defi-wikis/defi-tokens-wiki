@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:05:29.549Z",
+    "timestamp": "2020-10-01T11:10:39.718Z",
     "version": {
         "major": 1,
-        "minor": 3872,
+        "minor": 3873,
         "patch": 0
     },
     "keywords": [
@@ -25812,6 +25812,13 @@
             "name": "DeFiCoin",
             "symbol": "DFC",
             "address": "0xD770bCe5b3B00D8ED7aAECD616B4eFd4A9A7928f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rufinex",
+            "symbol": "RFX",
+            "address": "0x82E3224C6Ff120a8ab149b859A8318547e21660F",
             "decimals": 18
         }
     ]
