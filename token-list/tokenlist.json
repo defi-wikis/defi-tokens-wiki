@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T10:33:44.923Z",
+    "timestamp": "2020-10-01T10:39:24.772Z",
     "version": {
         "major": 1,
-        "minor": 3867,
+        "minor": 3868,
         "patch": 0
     },
     "keywords": [
@@ -25777,6 +25777,13 @@
             "name": "APM",
             "symbol": "APM",
             "address": "0x124768263eDdCF88adE0E7f6D49c2317671cb381",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xenas.finance",
+            "symbol": "YFX",
+            "address": "0x39f93Fe9b95F23794a195cC95bC53000C6140085",
             "decimals": 18
         }
     ]
