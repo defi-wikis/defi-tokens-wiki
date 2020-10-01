@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:58:50.741Z",
+    "timestamp": "2020-10-01T21:09:59.905Z",
     "version": {
         "major": 1,
-        "minor": 3957,
+        "minor": 3958,
         "patch": 0
     },
     "keywords": [
@@ -26407,6 +26407,13 @@
             "name": "PWA",
             "symbol": "PWA",
             "address": "0xB50ba7bb838E68DD50f6aE631fD6cbD43A1F0368",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MiniWeeklyToken",
+            "symbol": "MWT",
+            "address": "0x0238EF2deC28ce4F532dDD3b05a252f86B046550",
             "decimals": 18
         }
     ]
