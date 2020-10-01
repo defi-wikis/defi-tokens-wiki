@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T01:48:29.858Z",
+    "timestamp": "2020-10-01T01:54:39.512Z",
     "version": {
         "major": 1,
-        "minor": 3811,
+        "minor": 3812,
         "patch": 0
     },
     "keywords": [
@@ -25385,6 +25385,13 @@
             "name": "PTKToken",
             "symbol": "PTK",
             "address": "0x5d2Cf315861aD7951Cb6A215bc1eEd6ABc345bba",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NIGGA DeFi Token",
+            "symbol": "NIGGA",
+            "address": "0x4690EB613F6CE73f628C00D65c9D710DEE205c91",
             "decimals": 18
         }
     ]
