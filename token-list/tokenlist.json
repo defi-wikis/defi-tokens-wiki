@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:25:14.867Z",
+    "timestamp": "2020-10-01T14:26:14.765Z",
     "version": {
         "major": 1,
-        "minor": 3903,
+        "minor": 3904,
         "patch": 0
     },
     "keywords": [
@@ -26029,6 +26029,13 @@
             "name": "Vitalik Token",
             "symbol": "VITA",
             "address": "0x47bF6b3765DC756C0E06595E1Adc24b808076AC4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Poseidon Network",
+            "symbol": "PSD",
+            "address": "0xeE2cDDA3EDd33478a5f7424B2eD190312A34293d",
             "decimals": 18
         }
     ]
