@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:45:15.891Z",
+    "timestamp": "2020-10-01T22:46:25.839Z",
     "version": {
         "major": 1,
-        "minor": 3971,
+        "minor": 3972,
         "patch": 0
     },
     "keywords": [
@@ -26506,6 +26506,13 @@
             "symbol": "tlpCORE",
             "address": "0x014c88aAB660916f4eABc63C6B9231094E9Fa782",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Real Finance",
+            "symbol": "YrF",
+            "address": "0x09b2811D19108b28375Ec9591968f12c0776d6F5",
+            "decimals": 18
         }
     ]
 }
