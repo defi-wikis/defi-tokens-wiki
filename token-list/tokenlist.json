@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T15:37:45.227Z",
+    "timestamp": "2020-10-01T15:41:29.635Z",
     "version": {
         "major": 1,
-        "minor": 3917,
+        "minor": 3918,
         "patch": 0
     },
     "keywords": [
@@ -26127,6 +26127,13 @@
             "name": "VODKA.NETWORK",
             "symbol": "$VODKA",
             "address": "0x51E50e243B382d618A93A231f470192AE24a1872",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfpi.finance",
+            "symbol": "YFPI",
+            "address": "0x955f11b004c02c3c439a4A46FC49eFaC2072f386",
             "decimals": 18
         }
     ]
