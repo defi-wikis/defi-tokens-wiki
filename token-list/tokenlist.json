@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T01:26:34.000Z",
+    "timestamp": "2020-10-01T01:28:14.623Z",
     "version": {
         "major": 1,
-        "minor": 3807,
+        "minor": 3808,
         "patch": 0
     },
     "keywords": [
@@ -25357,6 +25357,13 @@
             "name": "Honey Finance",
             "symbol": "HONEY",
             "address": "0x37C9EB4CeF7571f27136145C82c37a01F2a8Aa16",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SmartKey smartkeyplatform.io",
+            "symbol": "SKEY",
+            "address": "0x5FBc51E4Fc58AEF0558c636F12279708402663Ed",
             "decimals": 18
         }
     ]
