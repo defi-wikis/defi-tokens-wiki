@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:19:39.513Z",
+    "timestamp": "2020-10-01T14:22:19.662Z",
     "version": {
         "major": 1,
-        "minor": 3901,
+        "minor": 3902,
         "patch": 0
     },
     "keywords": [
@@ -26015,6 +26015,13 @@
             "name": "YFI CREDITS GROUP",
             "symbol": "YFICG",
             "address": "0x9080e92296a176883aAB1d7d1B7e50BC055B0cAa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COSMO Network",
+            "symbol": "COSMO",
+            "address": "0x887D5494333a66bF9D2B29dd1e8863ef7F5480FF",
             "decimals": 18
         }
     ]
