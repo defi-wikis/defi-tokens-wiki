@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:11:55.116Z",
+    "timestamp": "2020-10-01T20:30:10.060Z",
     "version": {
         "major": 1,
-        "minor": 3949,
+        "minor": 3950,
         "patch": 0
     },
     "keywords": [
@@ -26351,6 +26351,13 @@
             "name": "Noble Network",
             "symbol": "NOBLE",
             "address": "0x597e8df83e61432586B544a0e8B57a4706372606",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn ultra finance",
+            "symbol": "YuF",
+            "address": "0xb55b1d8E900EC369c7a72863763C98FCadDd8E6d",
             "decimals": 18
         }
     ]
