@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T07:38:09.943Z",
+    "timestamp": "2020-10-01T07:39:34.479Z",
     "version": {
         "major": 1,
-        "minor": 3850,
+        "minor": 3851,
         "patch": 0
     },
     "keywords": [
@@ -25658,6 +25658,13 @@
             "name": "DNA Token",
             "symbol": "DNA",
             "address": "0x82b0E50478eeaFde392D45D1259Ed1071B6fDa81",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tomochain",
+            "symbol": "TOMO",
+            "address": "0xA3Aab5E29d4A2a68A0f053AD27881fb8E4cC1737",
             "decimals": 18
         }
     ]
