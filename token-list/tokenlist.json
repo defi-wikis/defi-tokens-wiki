@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:00:19.548Z",
+    "timestamp": "2020-10-01T11:05:29.549Z",
     "version": {
         "major": 1,
-        "minor": 3871,
+        "minor": 3872,
         "patch": 0
     },
     "keywords": [
@@ -25806,6 +25806,13 @@
             "symbol": "PSM",
             "address": "0x533a3382bCe2dbb922363011803C50d6Be13ED14",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiCoin",
+            "symbol": "DFC",
+            "address": "0xD770bCe5b3B00D8ED7aAECD616B4eFd4A9A7928f",
+            "decimals": 18
         }
     ]
 }
