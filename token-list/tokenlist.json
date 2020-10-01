@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T21:59:25.090Z",
+    "timestamp": "2020-10-01T21:59:59.903Z",
     "version": {
         "major": 1,
-        "minor": 3965,
+        "minor": 3966,
         "patch": 0
     },
     "keywords": [
@@ -26463,6 +26463,13 @@
             "name": "pulltherug.finance",
             "symbol": "RUGZ",
             "address": "0x4c7310ec7552D25c86eb22eb4707DdCDbAf4957c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Azizos",
+            "symbol": "AZIZ",
+            "address": "0x207aA72ee60C867E89268ECeb4C0A0C50788F652",
             "decimals": 18
         }
     ]
