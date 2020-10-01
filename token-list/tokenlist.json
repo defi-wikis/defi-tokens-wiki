@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:28:08.163Z",
+    "timestamp": "2020-10-01T14:32:10.704Z",
     "version": {
         "major": 1,
-        "minor": 3905,
+        "minor": 3906,
         "patch": 0
     },
     "keywords": [
@@ -26043,6 +26043,13 @@
             "name": "BerrySwap",
             "symbol": "Berry",
             "address": "0xe54CCbc4FF48BbD3C2f5909AE86cF7f93eFDED2D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZURICH.cityswap.io",
+            "symbol": "ZURICH",
+            "address": "0x1dc3A21686530Da3453b3EFb9DB0c5a4a96B5837",
             "decimals": 18
         }
     ]
