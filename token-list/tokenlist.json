@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T16:41:50.000Z",
+    "timestamp": "2020-10-01T17:00:45.192Z",
     "version": {
         "major": 1,
-        "minor": 3925,
+        "minor": 3926,
         "patch": 0
     },
     "keywords": [
@@ -26183,6 +26183,13 @@
             "name": "UniMex.Finance",
             "symbol": "UMEX",
             "address": "0x8f6C55459651fcf17bC202ED968A1109Ad6b5De0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbDEGEN",
+            "symbol": "ORBDEG",
+            "address": "0xfd1e77a4E83b896aBc55AD11f337e71AcdEa19bf",
             "decimals": 18
         }
     ]
