@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:58:44.689Z",
+    "timestamp": "2020-10-01T15:11:50.560Z",
     "version": {
         "major": 1,
-        "minor": 3913,
+        "minor": 3914,
         "patch": 0
     },
     "keywords": [
@@ -26100,6 +26100,13 @@
             "symbol": "DEC",
             "address": "0x9393fdc77090F31c7db989390D43F454B1A6E7F3",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "test",
+            "symbol": "test",
+            "address": "0x8Db8FfBE9b633CcA2f14b2F8d16b6BA61C0fd4da",
+            "decimals": 18
         }
     ]
 }
