@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T03:21:24.450Z",
+    "timestamp": "2020-10-01T03:26:29.967Z",
     "version": {
         "major": 1,
-        "minor": 3818,
+        "minor": 3819,
         "patch": 0
     },
     "keywords": [
@@ -25434,6 +25434,13 @@
             "name": "BUILD DeFi Token",
             "symbol": "BUILD",
             "address": "0xd9211D8A2aE0cAFc1376762Eb56711CfF3Ebb79b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bullet.finance",
+            "symbol": "BULLET",
+            "address": "0x4E03765EBC8c10BCDe965A48Cb4b17a097369F9D",
             "decimals": 18
         }
     ]
