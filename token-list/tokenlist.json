@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T19:38:20.248Z",
+    "timestamp": "2020-10-01T19:53:14.702Z",
     "version": {
         "major": 1,
-        "minor": 3945,
+        "minor": 3946,
         "patch": 0
     },
     "keywords": [
@@ -26323,6 +26323,13 @@
             "name": "Robin Hood",
             "symbol": "RBN",
             "address": "0x2E39A37507026d9aa0fC5A8752b4b199784981B7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LAMBO.DELIVERY",
+            "symbol": "LMBO",
+            "address": "0x28caBE76D0BA317d0D583ef076B51558e875643e",
             "decimals": 18
         }
     ]
