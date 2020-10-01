@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:54:34.821Z",
+    "timestamp": "2020-10-01T23:08:49.824Z",
     "version": {
         "major": 1,
-        "minor": 3976,
+        "minor": 3977,
         "patch": 0
     },
     "keywords": [
@@ -26540,6 +26540,13 @@
             "name": "cap.finance",
             "symbol": "CAP",
             "address": "0x91B7217A43649444f02cf310202C74720A2Ec53f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance v2 AI",
+            "symbol": "YFIAI",
+            "address": "0x780e9588fcd610D79eDC9CF48CC6ab9dFAD0d6Ff",
             "decimals": 18
         }
     ]
