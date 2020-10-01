@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T19:23:44.871Z",
+    "timestamp": "2020-10-01T19:27:09.668Z",
     "version": {
         "major": 1,
-        "minor": 3943,
+        "minor": 3944,
         "patch": 0
     },
     "keywords": [
@@ -26309,6 +26309,13 @@
             "name": "NDCOIN",
             "symbol": "NDC",
             "address": "0xEf6435bE174050bdd046d646f51AaA4543787aa3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn.Space",
+            "symbol": "YFS",
+            "address": "0xcD679e4204a5F68a507Aae4a44012167129C3dd3",
             "decimals": 18
         }
     ]
