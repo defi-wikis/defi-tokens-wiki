@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:44:25.673Z",
+    "timestamp": "2020-10-01T14:48:35.092Z",
     "version": {
         "major": 1,
-        "minor": 3909,
+        "minor": 3910,
         "patch": 0
     },
     "keywords": [
@@ -26072,6 +26072,13 @@
             "symbol": "yHEXT",
             "address": "0x892079F9E462eb5fA1a9505CD1E9EF25D7Fb9915",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "SEOUL.cityswap.io",
+            "symbol": "SEOUL",
+            "address": "0x73Da99602949C1e333B536889f925e7f4460deA7",
+            "decimals": 18
         }
     ]
 }
