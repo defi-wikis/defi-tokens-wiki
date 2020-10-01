@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T10:49:29.895Z",
+    "timestamp": "2020-10-01T10:59:59.714Z",
     "version": {
         "major": 1,
-        "minor": 3869,
+        "minor": 3870,
         "patch": 0
     },
     "keywords": [
@@ -25791,6 +25791,13 @@
             "name": "pYFI",
             "symbol": "PYFI",
             "address": "0x72a964acBe4DF66A1740729d64D134dAc1beAC0A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbS2",
+            "symbol": "ORBS2",
+            "address": "0x25D55136efc0f53eEfC9B2892066E3f6CE32D00B",
             "decimals": 18
         }
     ]
