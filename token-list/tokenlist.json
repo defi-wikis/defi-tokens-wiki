@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T17:00:45.192Z",
+    "timestamp": "2020-10-01T17:15:30.132Z",
     "version": {
         "major": 1,
-        "minor": 3926,
+        "minor": 3927,
         "patch": 0
     },
     "keywords": [
@@ -26190,6 +26190,13 @@
             "name": "OrbDEGEN",
             "symbol": "ORBDEG",
             "address": "0xfd1e77a4E83b896aBc55AD11f337e71AcdEa19bf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DFYFINANCE",
+            "symbol": "DFY",
+            "address": "0x8BB93eCcFbBeA366061bF4996c718d149a059D39",
             "decimals": 18
         }
     ]
