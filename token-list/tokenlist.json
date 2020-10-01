@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:09:44.852Z",
+    "timestamp": "2020-10-01T18:12:44.912Z",
     "version": {
         "major": 1,
-        "minor": 3931,
+        "minor": 3932,
         "patch": 0
     },
     "keywords": [
@@ -26225,6 +26225,13 @@
             "name": "Grass Finance DeFi",
             "symbol": "Grass (DeFi)",
             "address": "0x1b53E938c7Aa9Ba85400DfE97b5FB6Dde9cDa1Eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YeaFinance2 (YEA2)",
+            "symbol": "YEA2",
+            "address": "0x6B70F0C9DB4a350a5f827fa0C62a7FbAA1c6944b",
             "decimals": 18
         }
     ]
