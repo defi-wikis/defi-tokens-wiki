@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T09:18:14.298Z",
+    "timestamp": "2020-10-01T09:18:19.790Z",
     "version": {
         "major": 1,
-        "minor": 3860,
+        "minor": 3861,
         "patch": 0
     },
     "keywords": [
@@ -25728,6 +25728,13 @@
             "name": "Magik.Finance",
             "symbol": "MAGE",
             "address": "0xaa6a95F65C261E9BA13a64eCf99BFE175A4C18be",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Coconut Finance",
+            "symbol": "COCO",
+            "address": "0x6e42303a38191a1C86292eC5CDDa169F6f720dD9",
             "decimals": 18
         }
     ]
