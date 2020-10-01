@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:40:54.803Z",
+    "timestamp": "2020-10-01T20:48:40.018Z",
     "version": {
         "major": 1,
-        "minor": 3954,
+        "minor": 3955,
         "patch": 0
     },
     "keywords": [
@@ -26386,6 +26386,13 @@
             "name": "Disaster Relief",
             "symbol": "DIRE",
             "address": "0xae78c9e7aEdff6b57000eBd827041e033D4aEB66",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbMAX",
+            "symbol": "OrbM",
+            "address": "0x0AB062deF36c5294E77B90a4F05ba557A5c3F010",
             "decimals": 18
         }
     ]
