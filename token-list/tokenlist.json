@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T01:29:54.538Z",
+    "timestamp": "2020-10-01T01:31:30.525Z",
     "version": {
         "major": 1,
-        "minor": 3809,
+        "minor": 3810,
         "patch": 0
     },
     "keywords": [
@@ -25372,6 +25372,13 @@
             "symbol": "KIBAP",
             "address": "0xBEA352eaDbC55df0B1C015D3247359708Cf591A4",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DenexFinance",
+            "symbol": "DENX",
+            "address": "0x4084Ac87F80483190FBa152F783715B06CE20884",
+            "decimals": 0
         }
     ]
 }
