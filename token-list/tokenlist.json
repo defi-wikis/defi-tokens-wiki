@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T09:37:29.953Z",
+    "timestamp": "2020-10-01T09:46:59.997Z",
     "version": {
         "major": 1,
-        "minor": 3863,
+        "minor": 3864,
         "patch": 0
     },
     "keywords": [
@@ -25749,6 +25749,13 @@
             "name": "NFT Insurance",
             "symbol": "NFTI",
             "address": "0x6eCfB347B293C91Ec22A38E749Ab0E7284A54FeF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polkastarter",
+            "symbol": "POLS",
+            "address": "0xfEd5CB58AF24552B143C921c06a71014Aa4e73A1",
             "decimals": 18
         }
     ]
