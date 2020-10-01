@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T10:39:24.772Z",
+    "timestamp": "2020-10-01T10:49:29.895Z",
     "version": {
         "major": 1,
-        "minor": 3868,
+        "minor": 3869,
         "patch": 0
     },
     "keywords": [
@@ -25784,6 +25784,13 @@
             "name": "xenas.finance",
             "symbol": "YFX",
             "address": "0x39f93Fe9b95F23794a195cC95bC53000C6140085",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pYFI",
+            "symbol": "PYFI",
+            "address": "0x72a964acBe4DF66A1740729d64D134dAc1beAC0A",
             "decimals": 18
         }
     ]
