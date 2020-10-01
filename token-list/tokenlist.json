@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T04:17:59.740Z",
+    "timestamp": "2020-10-01T04:43:39.723Z",
     "version": {
         "major": 1,
-        "minor": 3830,
+        "minor": 3831,
         "patch": 0
     },
     "keywords": [
@@ -25518,6 +25518,13 @@
             "name": "plouto.finance",
             "symbol": "PLU",
             "address": "0xb69735Ee6f3E87277b022137C344Cc10C2706376",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/SOCHAD69",
+            "symbol": "SOCHAD69",
+            "address": "0xd58051b4b91e94D62C45464148658b467f1Fb72F",
             "decimals": 18
         }
     ]
