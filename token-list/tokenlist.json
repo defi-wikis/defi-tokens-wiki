@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T16:11:29.867Z",
+    "timestamp": "2020-10-01T16:36:20.706Z",
     "version": {
         "major": 1,
-        "minor": 3923,
+        "minor": 3924,
         "patch": 0
     },
     "keywords": [
@@ -26169,6 +26169,13 @@
             "name": "Safe Fund",
             "symbol": "XTF.XXXBTC",
             "address": "0xC6bF64e0652dA122007F95CdbFf38046A88f9D0d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Buy-Sell.io",
+            "symbol": "BSE",
+            "address": "0x103fd056c79669e6b2cC87811D15961ceebfFBd5",
             "decimals": 18
         }
     ]
