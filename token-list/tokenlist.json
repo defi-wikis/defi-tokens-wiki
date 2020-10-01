@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:18:35.292Z",
+    "timestamp": "2020-10-01T14:19:08.254Z",
     "version": {
         "major": 1,
-        "minor": 3899,
+        "minor": 3900,
         "patch": 0
     },
     "keywords": [
@@ -26001,6 +26001,13 @@
             "name": "THETA  network",
             "symbol": "THETA",
             "address": "0x7dfF9A7542b836A507922FC76B28CDF72afA46f6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "1st DEXTF Fund",
+            "symbol": "XTF.BCCBED",
+            "address": "0x3ca2cEe5aEAE41fE32Be500aD39443b3B571Bdd6",
             "decimals": 18
         }
     ]
