@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:22:19.662Z",
+    "timestamp": "2020-10-01T14:25:14.867Z",
     "version": {
         "major": 1,
-        "minor": 3902,
+        "minor": 3903,
         "patch": 0
     },
     "keywords": [
@@ -26022,6 +26022,13 @@
             "name": "COSMO Network",
             "symbol": "COSMO",
             "address": "0x887D5494333a66bF9D2B29dd1e8863ef7F5480FF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vitalik Token",
+            "symbol": "VITA",
+            "address": "0x47bF6b3765DC756C0E06595E1Adc24b808076AC4",
             "decimals": 18
         }
     ]
