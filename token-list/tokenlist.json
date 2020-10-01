@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T15:49:39.752Z",
+    "timestamp": "2020-10-01T15:52:45.034Z",
     "version": {
         "major": 1,
-        "minor": 3919,
+        "minor": 3920,
         "patch": 0
     },
     "keywords": [
@@ -26141,6 +26141,13 @@
             "name": "ZilchValueToken",
             "symbol": "ZVT",
             "address": "0x67BDe71E98d69ba89A8F2e8df3D1AEEA5A436137",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wish Network",
+            "symbol": "WISH",
+            "address": "0x2e5107F86d053E1EAb32BA26521da60F58615C35",
             "decimals": 18
         }
     ]
