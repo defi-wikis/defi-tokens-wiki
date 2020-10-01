@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:12:44.912Z",
+    "timestamp": "2020-10-01T18:13:39.951Z",
     "version": {
         "major": 1,
-        "minor": 3932,
+        "minor": 3933,
         "patch": 0
     },
     "keywords": [
@@ -26232,6 +26232,13 @@
             "name": "YeaFinance2 (YEA2)",
             "symbol": "YEA2",
             "address": "0x6B70F0C9DB4a350a5f827fa0C62a7FbAA1c6944b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "applew",
+            "symbol": "applew",
+            "address": "0xc84Dc61A0db757E9888b18A7E3e0fA63948e088d",
             "decimals": 18
         }
     ]
