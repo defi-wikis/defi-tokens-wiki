@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T12:04:10.482Z",
+    "timestamp": "2020-10-01T12:05:49.842Z",
     "version": {
         "major": 1,
-        "minor": 3883,
+        "minor": 3884,
         "patch": 0
     },
     "keywords": [
@@ -25889,6 +25889,13 @@
             "name": "APY.Finance",
             "symbol": "APY",
             "address": "0x2846c8ed8820991D0cA38e354505855a26256525",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jungle Token",
+            "symbol": "JNGL",
+            "address": "0x6Ff27829c2030D1f0180718a5FaD31970Bd5f330",
             "decimals": 18
         }
     ]
