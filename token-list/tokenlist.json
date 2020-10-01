@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T03:42:09.504Z",
+    "timestamp": "2020-10-01T03:47:21.086Z",
     "version": {
         "major": 1,
-        "minor": 3823,
+        "minor": 3824,
         "patch": 0
     },
     "keywords": [
@@ -25469,6 +25469,13 @@
             "name": "CryptoPoo",
             "symbol": "POO",
             "address": "0xdB29B6B988cbDDEc9F81187d4F643c2B4613a633",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORBV2",
+            "symbol": "ORBV2",
+            "address": "0x6267E61b15d09fff90777d9b73f971B59Deb36aA",
             "decimals": 18
         }
     ]
