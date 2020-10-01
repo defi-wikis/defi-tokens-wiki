@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T04:06:54.816Z",
+    "timestamp": "2020-10-01T04:17:59.740Z",
     "version": {
         "major": 1,
-        "minor": 3829,
+        "minor": 3830,
         "patch": 0
     },
     "keywords": [
@@ -25512,6 +25512,13 @@
             "symbol": "yAERO",
             "address": "0x4359E76802EC5f3AaB564Be2DA31f403e181b437",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "plouto.finance",
+            "symbol": "PLU",
+            "address": "0xb69735Ee6f3E87277b022137C344Cc10C2706376",
+            "decimals": 18
         }
     ]
 }
