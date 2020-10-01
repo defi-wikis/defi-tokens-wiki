@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:37:59.804Z",
+    "timestamp": "2020-10-01T22:45:15.891Z",
     "version": {
         "major": 1,
-        "minor": 3970,
+        "minor": 3971,
         "patch": 0
     },
     "keywords": [
@@ -26499,6 +26499,13 @@
             "symbol": "PUMPIT",
             "address": "0x60196494989999937800617Dccec07f7A7F7F7F9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "tlpCORE",
+            "symbol": "tlpCORE",
+            "address": "0x014c88aAB660916f4eABc63C6B9231094E9Fa782",
+            "decimals": 0
         }
     ]
 }
