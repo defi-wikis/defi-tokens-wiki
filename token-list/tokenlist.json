@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:00:09.471Z",
+    "timestamp": "2020-10-01T22:06:50.638Z",
     "version": {
         "major": 1,
-        "minor": 3967,
+        "minor": 3968,
         "patch": 0
     },
     "keywords": [
@@ -26477,6 +26477,13 @@
             "name": "Arsu",
             "symbol": "ARSU",
             "address": "0xf6b76aa49F8535238F06850fd93e5Ea27a378751",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Syield.finance",
+            "symbol": "SYIELD",
+            "address": "0xe655631d3C341BF09CBC54C987d16797A27a1858",
             "decimals": 18
         }
     ]
