@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T05:06:24.574Z",
+    "timestamp": "2020-10-01T05:23:39.732Z",
     "version": {
         "major": 1,
-        "minor": 3835,
+        "minor": 3836,
         "patch": 0
     },
     "keywords": [
@@ -25553,6 +25553,13 @@
             "name": "RING X PLATFORM",
             "symbol": "RINGX",
             "address": "0x7F86C782EC802ac402e0369d2E6d500256F7abC5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Viva Network",
+            "symbol": "VIVA",
+            "address": "0x9D83cb44be11566272FbfE1eC5681bDC7982a07d",
             "decimals": 18
         }
     ]
