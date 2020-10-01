@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T10:01:10.890Z",
+    "timestamp": "2020-10-01T10:15:15.285Z",
     "version": {
         "major": 1,
-        "minor": 3865,
+        "minor": 3866,
         "patch": 0
     },
     "keywords": [
@@ -25763,6 +25763,13 @@
             "name": "Dont Sell MEME",
             "symbol": "$dMEME",
             "address": "0x0a7B5f8492dFed8EC17a112c4f7F53612669e319",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORB v3",
+            "symbol": "ORBv3",
+            "address": "0xcCd35E0b65C4a7d89cc3a8BA6EA71D3DE520d33b",
             "decimals": 18
         }
     ]
