@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T00:08:30.430Z",
+    "timestamp": "2020-10-01T00:28:15.622Z",
     "version": {
         "major": 1,
-        "minor": 3805,
+        "minor": 3806,
         "patch": 0
     },
     "keywords": [
@@ -25344,6 +25344,13 @@
             "symbol": "B99",
             "address": "0xFC868712c5C3CD93745923E3e2326A42420ad509",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Fairy Finance",
+            "symbol": "FAIRY",
+            "address": "0xA9E36a459a48CC3FCc68bcE72fEceb15489D89cb",
+            "decimals": 18
         }
     ]
 }
