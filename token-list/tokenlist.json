@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:26:14.765Z",
+    "timestamp": "2020-10-01T14:28:08.163Z",
     "version": {
         "major": 1,
-        "minor": 3904,
+        "minor": 3905,
         "patch": 0
     },
     "keywords": [
@@ -26036,6 +26036,13 @@
             "name": "Poseidon Network",
             "symbol": "PSD",
             "address": "0xeE2cDDA3EDd33478a5f7424B2eD190312A34293d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BerrySwap",
+            "symbol": "Berry",
+            "address": "0xe54CCbc4FF48BbD3C2f5909AE86cF7f93eFDED2D",
             "decimals": 18
         }
     ]
