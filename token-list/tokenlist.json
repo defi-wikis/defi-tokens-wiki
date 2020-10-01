@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T06:12:25.425Z",
+    "timestamp": "2020-10-01T06:25:29.654Z",
     "version": {
         "major": 1,
-        "minor": 3844,
+        "minor": 3845,
         "patch": 0
     },
     "keywords": [
@@ -25616,6 +25616,13 @@
             "name": "t.me/SOCHAD69 V2",
             "symbol": "SOCHAD69V2",
             "address": "0x64afa0C2b3FEF02DD6251Ef13A2DDbed309b167E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Flamingo",
+            "symbol": "FLM",
+            "address": "0xeCf0EC511CEF4484e599da61Ae4cE1029858AC54",
             "decimals": 18
         }
     ]
