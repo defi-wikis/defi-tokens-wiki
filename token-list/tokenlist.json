@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T04:54:29.619Z",
+    "timestamp": "2020-10-01T04:59:06.832Z",
     "version": {
         "major": 1,
-        "minor": 3833,
+        "minor": 3834,
         "patch": 0
     },
     "keywords": [
@@ -25539,6 +25539,13 @@
             "name": "Tako",
             "symbol": "TAKO",
             "address": "0x531C3A8926e4c4b4cC50DC1De83E1E7fa0B2738E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum 2.0",
+            "symbol": "ETH2",
+            "address": "0x6cCda5664cbA9E85a9a5130978D96c365370fb15",
             "decimals": 18
         }
     ]
