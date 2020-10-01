@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T23:41:30.614Z",
+    "timestamp": "2020-10-01T23:58:50.176Z",
     "version": {
         "major": 1,
-        "minor": 3981,
+        "minor": 3982,
         "patch": 0
     },
     "keywords": [
@@ -26575,6 +26575,13 @@
             "name": "ETrading EXPO",
             "symbol": "EXPO",
             "address": "0xB688A1F1e985ed6EC3668f513AD9b3984b5b8aB4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "APY.Finance",
+            "symbol": "APY",
+            "address": "0xB3d0335FF65b6Ce11287FbbF17ecd8c5b30fF54d",
             "decimals": 18
         }
     ]
