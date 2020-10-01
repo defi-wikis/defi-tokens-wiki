@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:14:10.054Z",
+    "timestamp": "2020-10-01T18:17:34.911Z",
     "version": {
         "major": 1,
-        "minor": 3934,
+        "minor": 3935,
         "patch": 0
     },
     "keywords": [
@@ -26246,6 +26246,13 @@
             "name": "ART Token",
             "symbol": "ART",
             "address": "0xE51f24B251430A6e615f66e0d3c3A97c442aB38C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance V2",
+            "symbol": "CORE2",
+            "address": "0x46a32B0A61220e49C42bC7a4E336F2fc28D1AF6A",
             "decimals": 18
         }
     ]
