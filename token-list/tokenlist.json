@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T04:43:59.538Z",
+    "timestamp": "2020-10-01T04:54:29.619Z",
     "version": {
         "major": 1,
-        "minor": 3832,
+        "minor": 3833,
         "patch": 0
     },
     "keywords": [
@@ -25532,6 +25532,13 @@
             "name": "Huobi DOT",
             "symbol": "HDOT",
             "address": "0x6f0Cd0541d84F28947196598165A6D4b1539e51E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tako",
+            "symbol": "TAKO",
+            "address": "0x531C3A8926e4c4b4cC50DC1De83E1E7fa0B2738E",
             "decimals": 18
         }
     ]
