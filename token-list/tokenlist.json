@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:30:10.060Z",
+    "timestamp": "2020-10-01T20:32:15.148Z",
     "version": {
         "major": 1,
-        "minor": 3950,
+        "minor": 3951,
         "patch": 0
     },
     "keywords": [
@@ -26359,6 +26359,13 @@
             "symbol": "YuF",
             "address": "0xb55b1d8E900EC369c7a72863763C98FCadDd8E6d",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Galore",
+            "symbol": "GAL",
+            "address": "0x62F02281252417AAaE11FAfC4b986d42071d1662",
+            "decimals": 6
         }
     ]
 }
