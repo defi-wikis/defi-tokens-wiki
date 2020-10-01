@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T03:47:21.086Z",
+    "timestamp": "2020-10-01T03:50:24.613Z",
     "version": {
         "major": 1,
-        "minor": 3824,
+        "minor": 3825,
         "patch": 0
     },
     "keywords": [
@@ -25476,6 +25476,13 @@
             "name": "ORBV2",
             "symbol": "ORBV2",
             "address": "0x6267E61b15d09fff90777d9b73f971B59Deb36aA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cryptosolartech",
+            "symbol": "CST",
+            "address": "0xBB49A51Ee5a66ca3a8CbE529379bA44Ba67E6771",
             "decimals": 18
         }
     ]
