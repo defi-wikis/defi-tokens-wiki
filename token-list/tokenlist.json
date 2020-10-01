@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T05:29:29.792Z",
+    "timestamp": "2020-10-01T05:31:10.236Z",
     "version": {
         "major": 1,
-        "minor": 3838,
+        "minor": 3839,
         "patch": 0
     },
     "keywords": [
@@ -25574,6 +25574,13 @@
             "name": "LONK",
             "symbol": "LONK",
             "address": "0x7c8F6D8A03a82d55E3CfAa0B527771F95B091168",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BMW",
+            "symbol": "BMW",
+            "address": "0x220C9795545768DEcC4056C66841E837f17063ba",
             "decimals": 18
         }
     ]
