@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:48:40.018Z",
+    "timestamp": "2020-10-01T20:57:10.078Z",
     "version": {
         "major": 1,
-        "minor": 3955,
+        "minor": 3956,
         "patch": 0
     },
     "keywords": [
@@ -26393,6 +26393,13 @@
             "name": "OrbMAX",
             "symbol": "OrbM",
             "address": "0x0AB062deF36c5294E77B90a4F05ba557A5c3F010",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "onflow.org",
+            "symbol": "FLOW",
+            "address": "0x7d9307b2a3D658Db4bb169F0660F45825AD5992D",
             "decimals": 18
         }
     ]
