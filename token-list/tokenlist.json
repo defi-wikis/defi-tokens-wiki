@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T03:26:59.764Z",
+    "timestamp": "2020-10-01T03:31:34.957Z",
     "version": {
         "major": 1,
-        "minor": 3820,
+        "minor": 3821,
         "patch": 0
     },
     "keywords": [
@@ -25449,6 +25449,13 @@
             "symbol": "biden.finance",
             "address": "0x3fba87Fb199eF5e12514472C32c07e38924695C2",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Veella Token",
+            "symbol": "VEELLA",
+            "address": "0xD7A09F6058fd842Bb83948103396459614cb967a",
+            "decimals": 18
         }
     ]
 }
