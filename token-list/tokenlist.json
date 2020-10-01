@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T21:38:29.618Z",
+    "timestamp": "2020-10-01T21:45:15.506Z",
     "version": {
         "major": 1,
-        "minor": 3960,
+        "minor": 3961,
         "patch": 0
     },
     "keywords": [
@@ -26429,6 +26429,13 @@
             "symbol": "FREEdom",
             "address": "0x4bD61e5127BFDFdD3EB2C6d69C5c03bD867d12fa",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Arsu",
+            "symbol": "ARSU",
+            "address": "0x5a23d90cdEB30De09FaB5eD159Ec4B73FB475A61",
+            "decimals": 9
         }
     ]
 }
