@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T09:22:44.699Z",
+    "timestamp": "2020-10-01T09:37:29.953Z",
     "version": {
         "major": 1,
-        "minor": 3862,
+        "minor": 3863,
         "patch": 0
     },
     "keywords": [
@@ -25742,6 +25742,13 @@
             "name": "KAVA",
             "symbol": "KAVA",
             "address": "0x79A356510b5b7097C0c414908b94D30bFb168242",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFT Insurance",
+            "symbol": "NFTI",
+            "address": "0x6eCfB347B293C91Ec22A38E749Ab0E7284A54FeF",
             "decimals": 18
         }
     ]
