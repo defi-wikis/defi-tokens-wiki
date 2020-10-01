@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T08:06:21.021Z",
+    "timestamp": "2020-10-01T08:20:02.276Z",
     "version": {
         "major": 1,
-        "minor": 3854,
+        "minor": 3855,
         "patch": 0
     },
     "keywords": [
@@ -25686,6 +25686,13 @@
             "name": "Orb$",
             "symbol": "ORB$",
             "address": "0x04e3EEddb1DfbFbcD668dD10318d290a6f2d00bf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lora Protocol",
+            "symbol": "LORA",
+            "address": "0x8e59B4047240C22074D23F575f1632E077D0cD84",
             "decimals": 18
         }
     ]
