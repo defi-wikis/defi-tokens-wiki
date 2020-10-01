@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:20:15.153Z",
+    "timestamp": "2020-10-01T18:26:10.048Z",
     "version": {
         "major": 1,
-        "minor": 3936,
+        "minor": 3937,
         "patch": 0
     },
     "keywords": [
@@ -26261,6 +26261,13 @@
             "symbol": "ECB",
             "address": "0x1Df5bD7a89DA0495eb5d69C694Ec8E9B9be7693B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DCAP",
+            "symbol": "DCAP",
+            "address": "0xC553664B555E23034B9E06f34028BA4B3eb3dCc6",
+            "decimals": 8
         }
     ]
 }
