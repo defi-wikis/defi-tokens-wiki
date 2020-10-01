@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:48:35.092Z",
+    "timestamp": "2020-10-01T14:50:20.839Z",
     "version": {
         "major": 1,
-        "minor": 3910,
+        "minor": 3911,
         "patch": 0
     },
     "keywords": [
@@ -26078,6 +26078,13 @@
             "name": "SEOUL.cityswap.io",
             "symbol": "SEOUL",
             "address": "0x73Da99602949C1e333B536889f925e7f4460deA7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped Anatha",
+            "symbol": "WANAT",
+            "address": "0x04f941382D5bA59478675964AD9fe883f2908456",
             "decimals": 18
         }
     ]
