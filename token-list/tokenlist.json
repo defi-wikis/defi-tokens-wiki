@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:32:35.395Z",
+    "timestamp": "2020-10-01T20:33:24.963Z",
     "version": {
         "major": 1,
-        "minor": 3952,
+        "minor": 3953,
         "patch": 0
     },
     "keywords": [
@@ -26372,6 +26372,13 @@
             "name": "UniDefi.finance",
             "symbol": "UNIDEFI",
             "address": "0xC406FCb49A763375E5EFF33af748302e29A94D5E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yftheta",
+            "symbol": "YFØ",
+            "address": "0x0664b1ACc80605977B55c665967C1a2Ad0a23Fdf",
             "decimals": 18
         }
     ]
