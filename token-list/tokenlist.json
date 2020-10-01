@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:10:39.718Z",
+    "timestamp": "2020-10-01T11:10:55.272Z",
     "version": {
         "major": 1,
-        "minor": 3873,
+        "minor": 3874,
         "patch": 0
     },
     "keywords": [
@@ -25819,6 +25819,13 @@
             "name": "Rufinex",
             "symbol": "RFX",
             "address": "0x82E3224C6Ff120a8ab149b859A8318547e21660F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIDEFI",
+            "symbol": "UNIDEFI",
+            "address": "0x30A58dD18AfbcDDb7E8BDF668FDEDbe3d1FB4260",
             "decimals": 18
         }
     ]
