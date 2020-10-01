@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T08:53:14.586Z",
+    "timestamp": "2020-10-01T09:18:14.298Z",
     "version": {
         "major": 1,
-        "minor": 3859,
+        "minor": 3860,
         "patch": 0
     },
     "keywords": [
@@ -25721,6 +25721,13 @@
             "name": "Adamant X",
             "symbol": "ADX",
             "address": "0xcd31795D0b132f3B796f794500386250d53FD967",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Magik.Finance",
+            "symbol": "MAGE",
+            "address": "0xaa6a95F65C261E9BA13a64eCf99BFE175A4C18be",
             "decimals": 18
         }
     ]
