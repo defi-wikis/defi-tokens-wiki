@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T09:18:19.790Z",
+    "timestamp": "2020-10-01T09:22:44.699Z",
     "version": {
         "major": 1,
-        "minor": 3861,
+        "minor": 3862,
         "patch": 0
     },
     "keywords": [
@@ -25735,6 +25735,13 @@
             "name": "Coconut Finance",
             "symbol": "COCO",
             "address": "0x6e42303a38191a1C86292eC5CDDa169F6f720dD9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KAVA",
+            "symbol": "KAVA",
+            "address": "0x79A356510b5b7097C0c414908b94D30bFb168242",
             "decimals": 18
         }
     ]
