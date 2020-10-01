@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:32:29.692Z",
+    "timestamp": "2020-10-01T14:38:45.588Z",
     "version": {
         "major": 1,
-        "minor": 3907,
+        "minor": 3908,
         "patch": 0
     },
     "keywords": [
@@ -26057,6 +26057,13 @@
             "name": "JUNGLE",
             "symbol": "JNGL",
             "address": "0x185202FFD43FB27A6bba31f7944eF46aaCC717d9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Minion.Farm",
+            "symbol": "MNNF",
+            "address": "0x38F3c3D13743A4a25B41174c99522F32cdF5be88",
             "decimals": 18
         }
     ]
