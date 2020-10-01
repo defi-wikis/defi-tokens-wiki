@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:33:24.963Z",
+    "timestamp": "2020-10-01T20:40:54.803Z",
     "version": {
         "major": 1,
-        "minor": 3953,
+        "minor": 3954,
         "patch": 0
     },
     "keywords": [
@@ -26379,6 +26379,13 @@
             "name": "Yftheta",
             "symbol": "YFØ",
             "address": "0x0664b1ACc80605977B55c665967C1a2Ad0a23Fdf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Disaster Relief",
+            "symbol": "DIRE",
+            "address": "0xae78c9e7aEdff6b57000eBd827041e033D4aEB66",
             "decimals": 18
         }
     ]
