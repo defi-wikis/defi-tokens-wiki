@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T12:07:55.118Z",
+    "timestamp": "2020-10-01T12:32:39.587Z",
     "version": {
         "major": 1,
-        "minor": 3886,
+        "minor": 3887,
         "patch": 0
     },
     "keywords": [
@@ -25910,6 +25910,13 @@
             "name": "BrapperToken",
             "symbol": "BRAP",
             "address": "0x12458B1E74dECecAEdC28fA939BC6928E8cfDC99",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOLOFI",
+            "symbol": "HOLOFI",
+            "address": "0xc0Be71CA0cDB0DBcC003a3ea0D1Cc61aB96a98c9",
             "decimals": 18
         }
     ]
