@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T19:27:09.668Z",
+    "timestamp": "2020-10-01T19:38:20.248Z",
     "version": {
         "major": 1,
-        "minor": 3944,
+        "minor": 3945,
         "patch": 0
     },
     "keywords": [
@@ -26316,6 +26316,13 @@
             "name": "Yearn.Space",
             "symbol": "YFS",
             "address": "0xcD679e4204a5F68a507Aae4a44012167129C3dd3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Robin Hood",
+            "symbol": "RBN",
+            "address": "0x2E39A37507026d9aa0fC5A8752b4b199784981B7",
             "decimals": 18
         }
     ]
