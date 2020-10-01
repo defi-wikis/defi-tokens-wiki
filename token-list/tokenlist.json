@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:16:15.991Z",
+    "timestamp": "2020-10-01T11:21:30.400Z",
     "version": {
         "major": 1,
-        "minor": 3876,
+        "minor": 3877,
         "patch": 0
     },
     "keywords": [
@@ -25840,6 +25840,13 @@
             "name": "OrobFinance",
             "symbol": "OROB",
             "address": "0x5767356Db707CeF42199eD73250627A37c3aDF00",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfALPHA",
+            "symbol": "YFALPHA",
+            "address": "0x5ef4Df48C095644B2D05571E187a77CD03ECF2a0",
             "decimals": 18
         }
     ]
