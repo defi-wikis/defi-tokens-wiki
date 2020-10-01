@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T08:26:25.064Z",
+    "timestamp": "2020-10-01T08:38:30.163Z",
     "version": {
         "major": 1,
-        "minor": 3857,
+        "minor": 3858,
         "patch": 0
     },
     "keywords": [
@@ -25707,6 +25707,13 @@
             "name": "Polkastarter",
             "symbol": "POLS",
             "address": "0x3E8c0BF1d1adDE57bfF1870D4795d377a3b38f06",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unimex",
+            "symbol": "UMEX",
+            "address": "0x849Df489eF0C4155747d6036F05e8Db245Fa1acE",
             "decimals": 18
         }
     ]
