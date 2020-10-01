@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T20:04:24.354Z",
+    "timestamp": "2020-10-01T20:10:25.303Z",
     "version": {
         "major": 1,
-        "minor": 3947,
+        "minor": 3948,
         "patch": 0
     },
     "keywords": [
@@ -26337,6 +26337,13 @@
             "name": "Secret Coin",
             "symbol": "SHH",
             "address": "0x51Fc1E083F2bC035f08C15FEB5638875884269FE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Proxy",
+            "symbol": "Proxy",
+            "address": "0xcDa3F5a28B8f16F973Df150Da25Be10460FAeEEe",
             "decimals": 18
         }
     ]
