@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:17:34.911Z",
+    "timestamp": "2020-10-01T18:20:15.153Z",
     "version": {
         "major": 1,
-        "minor": 3935,
+        "minor": 3936,
         "patch": 0
     },
     "keywords": [
@@ -26253,6 +26253,13 @@
             "name": "Core Finance V2",
             "symbol": "CORE2",
             "address": "0x46a32B0A61220e49C42bC7a4E336F2fc28D1AF6A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ECB",
+            "symbol": "ECB",
+            "address": "0x1Df5bD7a89DA0495eb5d69C694Ec8E9B9be7693B",
             "decimals": 18
         }
     ]
