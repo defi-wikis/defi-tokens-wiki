@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T04:59:06.832Z",
+    "timestamp": "2020-10-01T05:06:24.574Z",
     "version": {
         "major": 1,
-        "minor": 3834,
+        "minor": 3835,
         "patch": 0
     },
     "keywords": [
@@ -25546,6 +25546,13 @@
             "name": "Ethereum 2.0",
             "symbol": "ETH2",
             "address": "0x6cCda5664cbA9E85a9a5130978D96c365370fb15",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RING X PLATFORM",
+            "symbol": "RINGX",
+            "address": "0x7F86C782EC802ac402e0369d2E6d500256F7abC5",
             "decimals": 18
         }
     ]
