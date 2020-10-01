@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T08:24:14.685Z",
+    "timestamp": "2020-10-01T08:26:25.064Z",
     "version": {
         "major": 1,
-        "minor": 3856,
+        "minor": 3857,
         "patch": 0
     },
     "keywords": [
@@ -25700,6 +25700,13 @@
             "name": "plouto.finance",
             "symbol": "PLU",
             "address": "0x5d0E2b600eb8e08aB5bbb5Cc8fB93490395D40A8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polkastarter",
+            "symbol": "POLS",
+            "address": "0x3E8c0BF1d1adDE57bfF1870D4795d377a3b38f06",
             "decimals": 18
         }
     ]
