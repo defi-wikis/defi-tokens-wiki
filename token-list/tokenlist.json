@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:47:09.482Z",
+    "timestamp": "2020-10-01T22:51:54.885Z",
     "version": {
         "major": 1,
-        "minor": 3974,
+        "minor": 3975,
         "patch": 0
     },
     "keywords": [
@@ -26526,6 +26526,13 @@
             "name": "taco.finance",
             "symbol": "YTAC",
             "address": "0x9D86Dc128A4b3Ef845cd3a2CC3e5356373da4453",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dex Stack Finance",
+            "symbol": "STACK",
+            "address": "0xdFbcaCF4D31DA9089dC6d1Ee32CE4CCF4Ef0ac50",
             "decimals": 18
         }
     ]
