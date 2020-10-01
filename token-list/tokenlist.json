@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:46:25.839Z",
+    "timestamp": "2020-10-01T22:46:39.708Z",
     "version": {
         "major": 1,
-        "minor": 3972,
+        "minor": 3973,
         "patch": 0
     },
     "keywords": [
@@ -26512,6 +26512,13 @@
             "name": "Yearn Real Finance",
             "symbol": "YrF",
             "address": "0x09b2811D19108b28375Ec9591968f12c0776d6F5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bullet",
+            "symbol": "BULL",
+            "address": "0x589379Efc68532FbC64e6805b6F3cf3A93c7bBfA",
             "decimals": 18
         }
     ]
