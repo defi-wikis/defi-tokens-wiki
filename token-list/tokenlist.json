@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T00:01:15.386Z",
+    "timestamp": "2020-10-01T00:08:30.430Z",
     "version": {
         "major": 1,
-        "minor": 3804,
+        "minor": 3805,
         "patch": 0
     },
     "keywords": [
@@ -25337,6 +25337,13 @@
             "symbol": "EQL",
             "address": "0x81428A8047Cca11177A4E15789e368D6806da376",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BURN99",
+            "symbol": "B99",
+            "address": "0xFC868712c5C3CD93745923E3e2326A42420ad509",
+            "decimals": 6
         }
     ]
 }
