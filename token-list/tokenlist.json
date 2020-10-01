@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T09:46:59.997Z",
+    "timestamp": "2020-10-01T10:01:10.890Z",
     "version": {
         "major": 1,
-        "minor": 3864,
+        "minor": 3865,
         "patch": 0
     },
     "keywords": [
@@ -25756,6 +25756,13 @@
             "name": "Polkastarter",
             "symbol": "POLS",
             "address": "0xfEd5CB58AF24552B143C921c06a71014Aa4e73A1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dont Sell MEME",
+            "symbol": "$dMEME",
+            "address": "0x0a7B5f8492dFed8EC17a112c4f7F53612669e319",
             "decimals": 18
         }
     ]
