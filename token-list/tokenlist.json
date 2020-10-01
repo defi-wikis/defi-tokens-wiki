@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:19:08.254Z",
+    "timestamp": "2020-10-01T14:19:39.513Z",
     "version": {
         "major": 1,
-        "minor": 3900,
+        "minor": 3901,
         "patch": 0
     },
     "keywords": [
@@ -26008,6 +26008,13 @@
             "name": "1st DEXTF Fund",
             "symbol": "XTF.BCCBED",
             "address": "0x3ca2cEe5aEAE41fE32Be500aD39443b3B571Bdd6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFI CREDITS GROUP",
+            "symbol": "YFICG",
+            "address": "0x9080e92296a176883aAB1d7d1B7e50BC055B0cAa",
             "decimals": 18
         }
     ]
