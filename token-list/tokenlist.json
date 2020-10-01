@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T19:53:14.702Z",
+    "timestamp": "2020-10-01T20:04:24.354Z",
     "version": {
         "major": 1,
-        "minor": 3946,
+        "minor": 3947,
         "patch": 0
     },
     "keywords": [
@@ -26330,6 +26330,13 @@
             "name": "LAMBO.DELIVERY",
             "symbol": "LMBO",
             "address": "0x28caBE76D0BA317d0D583ef076B51558e875643e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Secret Coin",
+            "symbol": "SHH",
+            "address": "0x51Fc1E083F2bC035f08C15FEB5638875884269FE",
             "decimals": 18
         }
     ]
