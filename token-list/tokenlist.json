@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T05:56:55.817Z",
+    "timestamp": "2020-10-01T05:58:50.105Z",
     "version": {
         "major": 1,
-        "minor": 3841,
+        "minor": 3842,
         "patch": 0
     },
     "keywords": [
@@ -25595,6 +25595,13 @@
             "name": "Yearn Finance DAO Token",
             "symbol": "YF-DAO",
             "address": "0x5b1a10732213b402C45D441ffEad40B730da7312",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bootycoin",
+            "symbol": "$BOOTY",
+            "address": "0x1d773Dd8A1614c39F4a558008C0E62323563285C",
             "decimals": 18
         }
     ]
