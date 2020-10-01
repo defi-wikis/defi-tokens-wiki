@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T19:19:55.218Z",
+    "timestamp": "2020-10-01T19:23:44.871Z",
     "version": {
         "major": 1,
-        "minor": 3942,
+        "minor": 3943,
         "patch": 0
     },
     "keywords": [
@@ -26302,6 +26302,13 @@
             "name": "ZLW @ zelwin.com",
             "symbol": "ZLW",
             "address": "0x16b9aA9f721BB0969e205a1D726E72F65b41C5a2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NDCOIN",
+            "symbol": "NDC",
+            "address": "0xEf6435bE174050bdd046d646f51AaA4543787aa3",
             "decimals": 18
         }
     ]
