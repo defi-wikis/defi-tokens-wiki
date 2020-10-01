@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T08:20:02.276Z",
+    "timestamp": "2020-10-01T08:24:14.685Z",
     "version": {
         "major": 1,
-        "minor": 3855,
+        "minor": 3856,
         "patch": 0
     },
     "keywords": [
@@ -25693,6 +25693,13 @@
             "name": "Lora Protocol",
             "symbol": "LORA",
             "address": "0x8e59B4047240C22074D23F575f1632E077D0cD84",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "plouto.finance",
+            "symbol": "PLU",
+            "address": "0x5d0E2b600eb8e08aB5bbb5Cc8fB93490395D40A8",
             "decimals": 18
         }
     ]
