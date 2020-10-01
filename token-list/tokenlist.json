@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T21:48:50.222Z",
+    "timestamp": "2020-10-01T21:59:02.195Z",
     "version": {
         "major": 1,
-        "minor": 3963,
+        "minor": 3964,
         "patch": 0
     },
     "keywords": [
@@ -26450,6 +26450,13 @@
             "symbol": "FRUIT",
             "address": "0xe829b31B690C5A04091BefdeDf42eBde1Ac6ad81",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ySwap",
+            "symbol": "ySWAP",
+            "address": "0x1214Ee2dB17e73C510fda77bc96E5f5Ea5B1fC84",
+            "decimals": 0
         }
     ]
 }
