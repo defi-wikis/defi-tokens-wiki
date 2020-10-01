@@ -80,7 +80,8 @@
     },
     "zora": {
         "name": "Zora",
-        "description": "Tokens created on the Zora platform"
+        "description": "Tokens created on the Zora platform",
+        "emoji": "🌜🌞🌛"
     },
      "creator": {
         "name": "Creator",
