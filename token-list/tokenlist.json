@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:38:25.278Z",
+    "timestamp": "2020-10-01T11:51:25.182Z",
     "version": {
         "major": 1,
-        "minor": 3879,
+        "minor": 3880,
         "patch": 0
     },
     "keywords": [
@@ -25861,6 +25861,13 @@
             "name": "OnigiriToken",
             "symbol": "ONIGIRI",
             "address": "0xcf9c692F7e62Af3c571D4173fd4ABf9A3E5330D0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AAVE",
+            "symbol": "AAVE",
+            "address": "0x9A9Fa3Bc8DAB638303720B6c5dA44808E80fCd50",
             "decimals": 18
         }
     ]
