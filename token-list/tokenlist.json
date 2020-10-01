@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T17:22:39.619Z",
+    "timestamp": "2020-10-01T18:00:45.137Z",
     "version": {
         "major": 1,
-        "minor": 3929,
+        "minor": 3930,
         "patch": 0
     },
     "keywords": [
@@ -26211,6 +26211,13 @@
             "name": "Copenco",
             "symbol": "CNX",
             "address": "0x0E94C0164a2B9877A30A7B40092FC22E2Aee8FD1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SwapDex",
+            "symbol": "SDX",
+            "address": "0xEFD3975a9aF7a5ED18bdcf4fE6758D22c22C3fD4",
             "decimals": 18
         }
     ]
