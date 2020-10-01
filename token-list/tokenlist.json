@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T11:15:15.873Z",
+    "timestamp": "2020-10-01T11:16:15.991Z",
     "version": {
         "major": 1,
-        "minor": 3875,
+        "minor": 3876,
         "patch": 0
     },
     "keywords": [
@@ -25833,6 +25833,13 @@
             "name": "Dungeon Iron",
             "symbol": "IRON",
             "address": "0xA88d2CbeAa282431516D5A10F4527C279bA45988",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrobFinance",
+            "symbol": "OROB",
+            "address": "0x5767356Db707CeF42199eD73250627A37c3aDF00",
             "decimals": 18
         }
     ]
