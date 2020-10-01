@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T00:28:15.622Z",
+    "timestamp": "2020-10-01T01:26:34.000Z",
     "version": {
         "major": 1,
-        "minor": 3806,
+        "minor": 3807,
         "patch": 0
     },
     "keywords": [
@@ -25350,6 +25350,13 @@
             "name": "Fairy Finance",
             "symbol": "FAIRY",
             "address": "0xA9E36a459a48CC3FCc68bcE72fEceb15489D89cb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Honey Finance",
+            "symbol": "HONEY",
+            "address": "0x37C9EB4CeF7571f27136145C82c37a01F2a8Aa16",
             "decimals": 18
         }
     ]
