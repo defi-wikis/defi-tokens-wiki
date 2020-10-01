@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T12:06:20.836Z",
+    "timestamp": "2020-10-01T12:07:55.118Z",
     "version": {
         "major": 1,
-        "minor": 3885,
+        "minor": 3886,
         "patch": 0
     },
     "keywords": [
@@ -25903,6 +25903,13 @@
             "name": "OrbV",
             "symbol": "OrbV",
             "address": "0x7B959686997704528d6074cb6c5f624F3CA561a8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BrapperToken",
+            "symbol": "BRAP",
+            "address": "0x12458B1E74dECecAEdC28fA939BC6928E8cfDC99",
             "decimals": 18
         }
     ]
