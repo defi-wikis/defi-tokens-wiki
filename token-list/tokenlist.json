@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T13:40:11.056Z",
+    "timestamp": "2020-10-01T13:46:25.120Z",
     "version": {
         "major": 1,
-        "minor": 3896,
+        "minor": 3897,
         "patch": 0
     },
     "keywords": [
@@ -25980,6 +25980,13 @@
             "name": "FairSwap.Farm",
             "symbol": "FAIR",
             "address": "0x5D6a95288d4D4c96ceBB7CCf59504d5B291eac00",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Colin",
+            "symbol": "COLIN",
+            "address": "0xE8915A6D16e9371EE0A26311A61AD1FC8513727F",
             "decimals": 18
         }
     ]
