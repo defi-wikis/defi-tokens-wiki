@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T13:46:25.120Z",
+    "timestamp": "2020-10-01T14:08:44.373Z",
     "version": {
         "major": 1,
-        "minor": 3897,
+        "minor": 3898,
         "patch": 0
     },
     "keywords": [
@@ -25987,6 +25987,13 @@
             "name": "Colin",
             "symbol": "COLIN",
             "address": "0xE8915A6D16e9371EE0A26311A61AD1FC8513727F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "test",
+            "symbol": "test",
+            "address": "0x72dcBF85A5286619Ec46b2f02eCA2Ea66BfEE0b8",
             "decimals": 18
         }
     ]
