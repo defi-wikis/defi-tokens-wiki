@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T03:26:29.967Z",
+    "timestamp": "2020-10-01T03:26:59.764Z",
     "version": {
         "major": 1,
-        "minor": 3819,
+        "minor": 3820,
         "patch": 0
     },
     "keywords": [
@@ -25442,6 +25442,13 @@
             "symbol": "BULLET",
             "address": "0x4E03765EBC8c10BCDe965A48Cb4b17a097369F9D",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Biden.Finance",
+            "symbol": "biden.finance",
+            "address": "0x3fba87Fb199eF5e12514472C32c07e38924695C2",
+            "decimals": 6
         }
     ]
 }
