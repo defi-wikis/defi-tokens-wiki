@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T15:52:45.034Z",
+    "timestamp": "2020-10-01T16:01:50.111Z",
     "version": {
         "major": 1,
-        "minor": 3920,
+        "minor": 3921,
         "patch": 0
     },
     "keywords": [
@@ -26148,6 +26148,13 @@
             "name": "Wish Network",
             "symbol": "WISH",
             "address": "0x2e5107F86d053E1EAb32BA26521da60F58615C35",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BULLTOKEN",
+            "symbol": "BULL",
+            "address": "0xa8d0F2cd10ee81378872ab0D22D42be986881d90",
             "decimals": 18
         }
     ]
