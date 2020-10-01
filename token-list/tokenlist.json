@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T23:08:49.824Z",
+    "timestamp": "2020-10-01T23:10:29.650Z",
     "version": {
         "major": 1,
-        "minor": 3977,
+        "minor": 3978,
         "patch": 0
     },
     "keywords": [
@@ -26548,6 +26548,13 @@
             "symbol": "YFIAI",
             "address": "0x780e9588fcd610D79eDC9CF48CC6ab9dFAD0d6Ff",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FullDex",
+            "symbol": "FLDX",
+            "address": "0x6a30ef92f921836F3743a4A9d27e6CF2C8670b9B",
+            "decimals": 16
         }
     ]
 }
