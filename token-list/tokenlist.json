@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T12:59:34.987Z",
+    "timestamp": "2020-10-01T13:05:29.589Z",
     "version": {
         "major": 1,
-        "minor": 3889,
+        "minor": 3890,
         "patch": 0
     },
     "keywords": [
@@ -25931,6 +25931,13 @@
             "name": "ArK",
             "symbol": "ArK",
             "address": "0x7487d5fE6d5238fcCD013D89C38a13c900dd625B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Heritage Fi",
+            "symbol": "HFI",
+            "address": "0xE4f6Da994a9694aE64DE34858f19440B4Ff32ac6",
             "decimals": 18
         }
     ]
