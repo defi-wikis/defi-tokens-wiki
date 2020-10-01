@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T01:54:39.512Z",
+    "timestamp": "2020-10-01T01:56:20.450Z",
     "version": {
         "major": 1,
-        "minor": 3812,
+        "minor": 3813,
         "patch": 0
     },
     "keywords": [
@@ -25392,6 +25392,13 @@
             "name": "NIGGA DeFi Token",
             "symbol": "NIGGA",
             "address": "0x4690EB613F6CE73f628C00D65c9D710DEE205c91",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Diamond Token",
+            "symbol": "YFDT",
+            "address": "0x1378eC93Ab2B07ba5A0eAEf19Cf354A33f64B9FD",
             "decimals": 18
         }
     ]
