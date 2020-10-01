@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T23:10:29.650Z",
+    "timestamp": "2020-10-01T23:13:15.486Z",
     "version": {
         "major": 1,
-        "minor": 3978,
+        "minor": 3979,
         "patch": 0
     },
     "keywords": [
@@ -26555,6 +26555,13 @@
             "symbol": "FLDX",
             "address": "0x6a30ef92f921836F3743a4A9d27e6CF2C8670b9B",
             "decimals": 16
+        },
+        {
+            "chainId": 1,
+            "name": "desire.finance",
+            "symbol": "DESIRE",
+            "address": "0x03C50991829f6920A12FAC8fe79d934cc544eE99",
+            "decimals": 18
         }
     ]
 }
