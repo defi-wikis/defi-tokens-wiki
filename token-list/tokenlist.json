@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:26:10.048Z",
+    "timestamp": "2020-10-01T18:37:39.837Z",
     "version": {
         "major": 1,
-        "minor": 3937,
+        "minor": 3938,
         "patch": 0
     },
     "keywords": [
@@ -26268,6 +26268,13 @@
             "symbol": "DCAP",
             "address": "0xC553664B555E23034B9E06f34028BA4B3eb3dCc6",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Cola.finance",
+            "symbol": "COLA",
+            "address": "0x5CCA607062BA94D94071b1e701023B31787d5CE5",
+            "decimals": 18
         }
     ]
 }
