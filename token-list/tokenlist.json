@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T12:05:49.842Z",
+    "timestamp": "2020-10-01T12:06:20.836Z",
     "version": {
         "major": 1,
-        "minor": 3884,
+        "minor": 3885,
         "patch": 0
     },
     "keywords": [
@@ -25896,6 +25896,13 @@
             "name": "Jungle Token",
             "symbol": "JNGL",
             "address": "0x6Ff27829c2030D1f0180718a5FaD31970Bd5f330",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbV",
+            "symbol": "OrbV",
+            "address": "0x7B959686997704528d6074cb6c5f624F3CA561a8",
             "decimals": 18
         }
     ]
