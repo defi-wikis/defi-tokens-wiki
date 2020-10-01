@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T01:28:14.623Z",
+    "timestamp": "2020-10-01T01:29:54.538Z",
     "version": {
         "major": 1,
-        "minor": 3808,
+        "minor": 3809,
         "patch": 0
     },
     "keywords": [
@@ -25364,6 +25364,13 @@
             "name": "SmartKey smartkeyplatform.io",
             "symbol": "SKEY",
             "address": "0x5FBc51E4Fc58AEF0558c636F12279708402663Ed",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KimbapSwap",
+            "symbol": "KIBAP",
+            "address": "0xBEA352eaDbC55df0B1C015D3247359708Cf591A4",
             "decimals": 18
         }
     ]
