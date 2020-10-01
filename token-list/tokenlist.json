@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T06:54:54.568Z",
+    "timestamp": "2020-10-01T06:56:39.562Z",
     "version": {
         "major": 1,
-        "minor": 3846,
+        "minor": 3847,
         "patch": 0
     },
     "keywords": [
@@ -25630,6 +25630,13 @@
             "name": "AMM",
             "symbol": "AMM",
             "address": "0x7FddD0B394B9Cefc7F05e466a020a8DEf4875354",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TradeTestToken",
+            "symbol": "TRADETEST",
+            "address": "0x89F75103AbDb817a79213B4e72B181Eb62Db82a9",
             "decimals": 18
         }
     ]
