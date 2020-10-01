@@ -1,0 +1,7 @@
+{
+    "name": "TradeTestToken",
+    "symbol": "TRADETEST",
+    "address": "0x89F75103AbDb817a79213B4e72B181Eb62Db82a9",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
