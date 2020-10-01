@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T22:51:54.885Z",
+    "timestamp": "2020-10-01T22:54:34.821Z",
     "version": {
         "major": 1,
-        "minor": 3975,
+        "minor": 3976,
         "patch": 0
     },
     "keywords": [
@@ -26533,6 +26533,13 @@
             "name": "Dex Stack Finance",
             "symbol": "STACK",
             "address": "0xdFbcaCF4D31DA9089dC6d1Ee32CE4CCF4Ef0ac50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cap.finance",
+            "symbol": "CAP",
+            "address": "0x91B7217A43649444f02cf310202C74720A2Ec53f",
             "decimals": 18
         }
     ]
