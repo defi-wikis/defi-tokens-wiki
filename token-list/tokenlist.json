@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T01:56:20.450Z",
+    "timestamp": "2020-10-01T02:26:29.733Z",
     "version": {
         "major": 1,
-        "minor": 3813,
+        "minor": 3814,
         "patch": 0
     },
     "keywords": [
@@ -25399,6 +25399,13 @@
             "name": "Yearn Finance Diamond Token",
             "symbol": "YFDT",
             "address": "0x1378eC93Ab2B07ba5A0eAEf19Cf354A33f64B9FD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGY.Finance",
+            "symbol": "YGY",
+            "address": "0x35Ac65c0405d5b9C813E8fE1040567521569A3D5",
             "decimals": 18
         }
     ]
