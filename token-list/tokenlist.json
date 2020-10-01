@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T07:58:15.207Z",
+    "timestamp": "2020-10-01T08:06:21.021Z",
     "version": {
         "major": 1,
-        "minor": 3853,
+        "minor": 3854,
         "patch": 0
     },
     "keywords": [
@@ -25680,6 +25680,13 @@
             "symbol": "TAVITT",
             "address": "0xdd690D8824c00C84d64606FFb12640e932C1AF56",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Orb$",
+            "symbol": "ORB$",
+            "address": "0x04e3EEddb1DfbFbcD668dD10318d290a6f2d00bf",
+            "decimals": 18
         }
     ]
 }
