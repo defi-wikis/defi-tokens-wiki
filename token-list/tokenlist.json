@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T16:03:45.373Z",
+    "timestamp": "2020-10-01T16:11:29.867Z",
     "version": {
         "major": 1,
-        "minor": 3922,
+        "minor": 3923,
         "patch": 0
     },
     "keywords": [
@@ -26162,6 +26162,13 @@
             "name": "Neutrino USD",
             "symbol": "USDN",
             "address": "0xF9176D370f998D111227bbC311ce40990BE8B2D0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Safe Fund",
+            "symbol": "XTF.XXXBTC",
+            "address": "0xC6bF64e0652dA122007F95CdbFf38046A88f9D0d",
             "decimals": 18
         }
     ]
