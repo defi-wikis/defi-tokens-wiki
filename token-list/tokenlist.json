@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T13:14:49.595Z",
+    "timestamp": "2020-10-01T13:22:59.927Z",
     "version": {
         "major": 1,
-        "minor": 3892,
+        "minor": 3893,
         "patch": 0
     },
     "keywords": [
@@ -25952,6 +25952,13 @@
             "name": "HarmonyDAG",
             "symbol": "HDAG",
             "address": "0x03e29982450015f6FF7CC20F111461fFF574F5DD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPA",
+            "symbol": "SPA",
+            "address": "0x97be63faEd7F97E07058eAaE87BF7fC438E2440D",
             "decimals": 18
         }
     ]
