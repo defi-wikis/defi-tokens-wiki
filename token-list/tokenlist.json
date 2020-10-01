@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T21:45:25.133Z",
+    "timestamp": "2020-10-01T21:48:50.222Z",
     "version": {
         "major": 1,
-        "minor": 3962,
+        "minor": 3963,
         "patch": 0
     },
     "keywords": [
@@ -26443,6 +26443,13 @@
             "symbol": "AZIZ",
             "address": "0xb637e3BD588871A98a212671bf2d4ba4A2f5183B",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Fruit V4",
+            "symbol": "FRUIT",
+            "address": "0xe829b31B690C5A04091BefdeDf42eBde1Ac6ad81",
+            "decimals": 18
         }
     ]
 }
