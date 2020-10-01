@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T14:38:45.588Z",
+    "timestamp": "2020-10-01T14:44:25.673Z",
     "version": {
         "major": 1,
-        "minor": 3908,
+        "minor": 3909,
         "patch": 0
     },
     "keywords": [
@@ -26065,6 +26065,13 @@
             "symbol": "MNNF",
             "address": "0x38F3c3D13743A4a25B41174c99522F32cdF5be88",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yHEXT",
+            "symbol": "yHEXT",
+            "address": "0x892079F9E462eb5fA1a9505CD1E9EF25D7Fb9915",
+            "decimals": 6
         }
     ]
 }
