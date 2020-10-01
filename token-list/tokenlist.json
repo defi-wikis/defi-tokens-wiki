@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T03:33:02.113Z",
+    "timestamp": "2020-10-01T03:42:09.504Z",
     "version": {
         "major": 1,
-        "minor": 3822,
+        "minor": 3823,
         "patch": 0
     },
     "keywords": [
@@ -25462,6 +25462,13 @@
             "name": "WAL",
             "symbol": "WAL",
             "address": "0x555B572c63Fe4F6cEc08E7D6633756A7470faC27",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoPoo",
+            "symbol": "POO",
+            "address": "0xdB29B6B988cbDDEc9F81187d4F643c2B4613a633",
             "decimals": 18
         }
     ]
