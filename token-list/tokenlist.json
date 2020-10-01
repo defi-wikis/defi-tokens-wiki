@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T13:34:25.123Z",
+    "timestamp": "2020-10-01T13:40:11.056Z",
     "version": {
         "major": 1,
-        "minor": 3895,
+        "minor": 3896,
         "patch": 0
     },
     "keywords": [
@@ -25973,6 +25973,13 @@
             "name": "Fompound",
             "symbol": "FOMP",
             "address": "0xA6dCe904ED85A6a7080CC14A210Acf1BC8B07Eb5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FairSwap.Farm",
+            "symbol": "FAIR",
+            "address": "0x5D6a95288d4D4c96ceBB7CCf59504d5B291eac00",
             "decimals": 18
         }
     ]
