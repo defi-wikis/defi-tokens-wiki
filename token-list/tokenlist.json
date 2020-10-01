@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T01:31:30.525Z",
+    "timestamp": "2020-10-01T01:48:29.858Z",
     "version": {
         "major": 1,
-        "minor": 3810,
+        "minor": 3811,
         "patch": 0
     },
     "keywords": [
@@ -25379,6 +25379,13 @@
             "symbol": "DENX",
             "address": "0x4084Ac87F80483190FBa152F783715B06CE20884",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "PTKToken",
+            "symbol": "PTK",
+            "address": "0x5d2Cf315861aD7951Cb6A215bc1eEd6ABc345bba",
+            "decimals": 18
         }
     ]
 }
