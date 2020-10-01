@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:00:45.137Z",
+    "timestamp": "2020-10-01T18:09:44.852Z",
     "version": {
         "major": 1,
-        "minor": 3930,
+        "minor": 3931,
         "patch": 0
     },
     "keywords": [
@@ -26218,6 +26218,13 @@
             "name": "SwapDex",
             "symbol": "SDX",
             "address": "0xEFD3975a9aF7a5ED18bdcf4fE6758D22c22C3fD4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Grass Finance DeFi",
+            "symbol": "Grass (DeFi)",
+            "address": "0x1b53E938c7Aa9Ba85400DfE97b5FB6Dde9cDa1Eb",
             "decimals": 18
         }
     ]
