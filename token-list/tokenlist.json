@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T18:37:39.837Z",
+    "timestamp": "2020-10-01T19:05:25.445Z",
     "version": {
         "major": 1,
-        "minor": 3938,
+        "minor": 3939,
         "patch": 0
     },
     "keywords": [
@@ -26274,6 +26274,13 @@
             "name": "Cola.finance",
             "symbol": "COLA",
             "address": "0x5CCA607062BA94D94071b1e701023B31787d5CE5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EnCore",
+            "symbol": "ENCORE",
+            "address": "0xe0E4839E0c7b2773c58764F9Ec3B9622d01A0428",
             "decimals": 18
         }
     ]
