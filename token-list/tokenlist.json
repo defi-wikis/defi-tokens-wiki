@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T09:08:10.275Z",
+    "timestamp": "2020-10-02T09:12:10.318Z",
     "version": {
         "major": 1,
-        "minor": 4026,
+        "minor": 4027,
         "patch": 0
     },
     "keywords": [
@@ -26890,6 +26890,13 @@
             "name": "Pic.finance",
             "symbol": "PIC",
             "address": "0xbF9Fc1181b65542a552dA563Ae87A797Eae208c0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YLAB.Network",
+            "symbol": "YLAB",
+            "address": "0x9c03aa1Fb64e2349cb90558d0FC34654A190c420",
             "decimals": 18
         }
     ]
