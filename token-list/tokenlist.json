@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:06:55.115Z",
+    "timestamp": "2020-10-02T14:07:02.145Z",
     "version": {
         "major": 1,
-        "minor": 4070,
+        "minor": 4071,
         "patch": 0
     },
     "keywords": [
@@ -27193,6 +27193,13 @@
             "symbol": "USDN",
             "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Neutrino System Base Token",
+            "symbol": "NSBT",
+            "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
+            "decimals": 6
         }
     ]
 }
