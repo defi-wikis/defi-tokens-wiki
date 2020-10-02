@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:07:24.685Z",
+    "timestamp": "2020-10-02T20:10:15.956Z",
     "version": {
         "major": 1,
-        "minor": 4146,
+        "minor": 4147,
         "patch": 0
     },
     "keywords": [
@@ -27724,6 +27724,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0xc7b788F24B5c8d69263Ee3A4bC2D14f7FCc3B64E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Slonigiraf Token",
+            "symbol": "SLON",
+            "address": "0x35242Ed010d80F39643982d0216D7CA7AD1FA841",
             "decimals": 18
         }
     ]
