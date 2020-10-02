@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T10:17:44.424Z",
+    "timestamp": "2020-10-02T10:30:10.609Z",
     "version": {
         "major": 1,
-        "minor": 4036,
+        "minor": 4037,
         "patch": 0
     },
     "keywords": [
@@ -26960,6 +26960,13 @@
             "name": "Dragon Network",
             "symbol": "DGNN",
             "address": "0xEe87b220d9b0e762f0643C501fADeFd6d9cc5B7E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pulltherug.finance",
+            "symbol": "RUGZ",
+            "address": "0xa00ACAE6E2a76659Ce99736DE81f0440355930EE",
             "decimals": 18
         }
     ]
