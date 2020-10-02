@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:19:44.789Z",
+    "timestamp": "2020-10-02T18:25:51.035Z",
     "version": {
         "major": 1,
-        "minor": 4125,
+        "minor": 4126,
         "patch": 0
     },
     "keywords": [
@@ -27577,6 +27577,13 @@
             "name": "xNFT",
             "symbol": "xNFT",
             "address": "0x5fA0D528fe26eB079419aDAC550b0492859f2053",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "APY.Finance",
+            "symbol": "APY",
+            "address": "0x289C46317a7D69749A88Fa3F5595E0A85ad68Fe5",
             "decimals": 18
         }
     ]
