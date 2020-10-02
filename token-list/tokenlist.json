@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:09:30.135Z",
+    "timestamp": "2020-10-02T16:09:35.229Z",
     "version": {
         "major": 1,
-        "minor": 4098,
+        "minor": 4099,
         "patch": 0
     },
     "keywords": [
@@ -27388,6 +27388,13 @@
             "name": "DontBuyWolf.org",
             "symbol": "WOLF",
             "address": "0x8D4Bd24D094e40bDE823cb34e24Fd46FABAa5b01",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETrading ENFT",
+            "symbol": "ENFT",
+            "address": "0x1DAAa369dC59Fb021C147C2A191e6d180e981cDF",
             "decimals": 18
         }
     ]
