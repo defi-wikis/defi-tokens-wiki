@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:59:33.935Z",
+    "timestamp": "2020-10-02T14:03:15.353Z",
     "version": {
         "major": 1,
-        "minor": 4065,
+        "minor": 4066,
         "patch": 0
     },
     "keywords": [
@@ -27157,6 +27157,13 @@
             "name": "BTswap Token",
             "symbol": "BT",
             "address": "0x841B79c8eb8c7094347D5402E620c5b48B6F0165",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BJD ",
+            "symbol": "BJD",
+            "address": "0x69546F2f43433b59f3Bf68EA69490618Cb3A2AD7",
             "decimals": 18
         }
     ]
