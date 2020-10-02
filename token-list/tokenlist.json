@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T01:43:39.438Z",
+    "timestamp": "2020-10-02T01:45:44.904Z",
     "version": {
         "major": 1,
-        "minor": 3991,
+        "minor": 3992,
         "patch": 0
     },
     "keywords": [
@@ -26645,6 +26645,13 @@
             "name": "Yoju Finance",
             "symbol": "YJF",
             "address": "0x145698e7fb7B01E8277D58BdD9714AAdf4E0c299",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TOKPIE",
+            "symbol": "TKP",
+            "address": "0xd31695a1d35E489252CE57b129FD4b1B05E6AcaC",
             "decimals": 18
         }
     ]
