@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:07:45.143Z",
+    "timestamp": "2020-10-02T13:07:59.848Z",
     "version": {
         "major": 1,
-        "minor": 4051,
+        "minor": 4052,
         "patch": 0
     },
     "keywords": [
@@ -27065,6 +27065,13 @@
             "name": "P2PCASH",
             "symbol": "P2PCASH",
             "address": "0x51363622628666B11C197b3450a23fe7C37a175D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "forsage.io",
+            "symbol": "forsage",
+            "address": "0xd3B25BD322329Edd1579fE9de192e6A412Fbd5BD",
             "decimals": 18
         }
     ]
