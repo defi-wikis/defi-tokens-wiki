@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:08:54.706Z",
+    "timestamp": "2020-10-02T19:13:49.912Z",
     "version": {
         "major": 1,
-        "minor": 4136,
+        "minor": 4137,
         "patch": 0
     },
     "keywords": [
@@ -27655,6 +27655,13 @@
             "symbol": "BSW",
             "address": "0x544f41b3F1632CDA95903511b0658B04Ee2bAcE6",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "ADMA.finance",
+            "symbol": "ADMA",
+            "address": "0x581a762cA8432268040f8288bc6aBB9D30687087",
+            "decimals": 18
         }
     ]
 }
