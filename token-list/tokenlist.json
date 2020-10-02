@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T10:30:10.609Z",
+    "timestamp": "2020-10-02T10:33:15.411Z",
     "version": {
         "major": 1,
-        "minor": 4037,
+        "minor": 4038,
         "patch": 0
     },
     "keywords": [
@@ -26967,6 +26967,13 @@
             "name": "pulltherug.finance",
             "symbol": "RUGZ",
             "address": "0xa00ACAE6E2a76659Ce99736DE81f0440355930EE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pulltherug.finance",
+            "symbol": "RUGZ",
+            "address": "0xEdFBd6c48c3dDfF5612Ade14B45bb19F916809ba",
             "decimals": 18
         }
     ]
