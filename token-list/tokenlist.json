@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:54:25.181Z",
+    "timestamp": "2020-10-02T02:57:14.808Z",
     "version": {
         "major": 1,
-        "minor": 4003,
+        "minor": 4004,
         "patch": 0
     },
     "keywords": [
@@ -26729,6 +26729,13 @@
             "name": "Toast.Finance",
             "symbol": "FLAT",
             "address": "0x5eF21554B474Ea98BAE5D4FAA5076d9d3f2a2120",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Game Coin",
+            "symbol": "GAME",
+            "address": "0xb528576aAfCa1742f08a49b1C78AD356e94ad1cB",
             "decimals": 18
         }
     ]
