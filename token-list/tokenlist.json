@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:55:49.870Z",
+    "timestamp": "2020-10-02T16:58:59.611Z",
     "version": {
         "major": 1,
-        "minor": 4104,
+        "minor": 4105,
         "patch": 0
     },
     "keywords": [
@@ -27430,6 +27430,13 @@
             "name": "yfiLabs",
             "symbol": "YLAB",
             "address": "0x454CB9D0845bB4a28462F98C21a4fAFD16ceb25f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FFND.finance",
+            "symbol": "FFND",
+            "address": "0x9ba615E4A5DC4C4FE0695C9Bd579C5a8FC4DEA4D",
             "decimals": 18
         }
     ]
