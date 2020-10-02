@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:59:10.935Z",
+    "timestamp": "2020-10-02T21:00:18.251Z",
     "version": {
         "major": 1,
-        "minor": 4158,
+        "minor": 4159,
         "patch": 0
     },
     "keywords": [
@@ -27808,6 +27808,13 @@
             "name": "DDXBX.finance",
             "symbol": "DDXBX",
             "address": "0xA87c948f26003831AcdA0b82703Ca69134f215d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Rebase",
+            "symbol": "CORER",
+            "address": "0xF6AcD203e28Bf759bd06D9A67f0AC65B746eCf6E",
             "decimals": 18
         }
     ]
