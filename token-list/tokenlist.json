@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T22:03:50.070Z",
+    "timestamp": "2020-10-02T22:11:49.857Z",
     "version": {
         "major": 1,
-        "minor": 4171,
+        "minor": 4172,
         "patch": 0
     },
     "keywords": [
@@ -27899,6 +27899,13 @@
             "name": "THR",
             "symbol": "THOR",
             "address": "0xb733Df680A1203960ea18eecbb5567f050F679AD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mario BROS Finance",
+            "symbol": "BROS",
+            "address": "0x0f557313C6a6a778c9986CF1033F79560b633c9d",
             "decimals": 18
         }
     ]
