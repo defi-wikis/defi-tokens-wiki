@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:55:25.850Z",
+    "timestamp": "2020-10-02T13:59:33.935Z",
     "version": {
         "major": 1,
-        "minor": 4064,
+        "minor": 4065,
         "patch": 0
     },
     "keywords": [
@@ -7122,7 +7122,8 @@
             "symbol": "TAPE",
             "address": "0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c",
             "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x9bfb088c9f311415e3f9b507da73081c52a49d8c/icon.png"
+            "logoURI": "https://tokens.dharma.io/assets/0x9bfb088c9f311415e3f9b507da73081c52a49d8c/icon.png",
+            "tags": {}
         },
         {
             "chainId": 1,
