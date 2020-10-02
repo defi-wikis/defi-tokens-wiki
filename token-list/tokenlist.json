@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:12:35.345Z",
+    "timestamp": "2020-10-02T18:12:41.431Z",
     "version": {
         "major": 1,
-        "minor": 4122,
+        "minor": 4123,
         "patch": 0
     },
     "keywords": [
@@ -27556,6 +27556,13 @@
             "name": "ZTMSB.finance",
             "symbol": "ZTMSB",
             "address": "0xC2289E0DB3fA9E7aefcD2e99e29dEE83Fd12720b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MILL Finance",
+            "symbol": "MILL",
+            "address": "0x4c7cB8a50F4cB33Aeacd1dDF47f197e9aB21D9Eb",
             "decimals": 18
         }
     ]
