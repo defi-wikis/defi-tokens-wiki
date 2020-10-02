@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:37:35.786Z",
+    "timestamp": "2020-10-02T19:38:29.346Z",
     "version": {
         "major": 1,
-        "minor": 4140,
+        "minor": 4141,
         "patch": 0
     },
     "keywords": [
@@ -27682,6 +27682,13 @@
             "name": "JYJC.finance",
             "symbol": "JYJC",
             "address": "0x7E364d7F81431e52f4dB44Ae0D7CE2542a8f18Ce",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "soviet.finance",
+            "symbol": "hSOV",
+            "address": "0x2583b94211A26e432b0b6C0774D1DD9Cf87E4eBb",
             "decimals": 18
         }
     ]
