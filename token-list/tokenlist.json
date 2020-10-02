@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T12:24:54.601Z",
+    "timestamp": "2020-10-02T12:44:10.270Z",
     "version": {
         "major": 1,
-        "minor": 4048,
+        "minor": 4049,
         "patch": 0
     },
     "keywords": [
@@ -27044,6 +27044,13 @@
             "name": "Dont Buy it",
             "symbol": "DBI",
             "address": "0x2C10736706D42b95416c598aAB2DD8bCEEaf8D09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AlbioHoldings",
+            "symbol": "XTF.ALB1",
+            "address": "0xc008207bB32d9470a69e3CB1443193690a067F64",
             "decimals": 18
         }
     ]
