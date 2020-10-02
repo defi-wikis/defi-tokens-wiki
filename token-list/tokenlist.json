@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T06:15:07.998Z",
+    "timestamp": "2020-10-02T06:28:07.777Z",
     "version": {
         "major": 1,
-        "minor": 4015,
+        "minor": 4016,
         "patch": 0
     },
     "keywords": [
@@ -26813,6 +26813,13 @@
             "name": "COSMIA",
             "symbol": "COSX",
             "address": "0x4706Ca16858A86426420D04b62e12c406F519979",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped ANATHA",
+            "symbol": "wANATHA",
+            "address": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
             "decimals": 18
         }
     ]
