@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T21:04:50.336Z",
+    "timestamp": "2020-10-02T21:07:10.393Z",
     "version": {
         "major": 1,
-        "minor": 4160,
+        "minor": 4161,
         "patch": 0
     },
     "keywords": [
@@ -27822,6 +27822,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xb1A6876ad98FBA649a66BE916559039ABdD3DBbe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COREII",
+            "symbol": "COREII",
+            "address": "0xd3b604Ce88D9D9973cf1d608E6aD1e69Dd74EaAF",
             "decimals": 18
         }
     ]
