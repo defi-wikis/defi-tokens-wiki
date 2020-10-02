@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T23:25:59.736Z",
+    "timestamp": "2020-10-02T23:36:59.990Z",
     "version": {
         "major": 1,
-        "minor": 4182,
+        "minor": 4183,
         "patch": 0
     },
     "keywords": [
@@ -27976,6 +27976,13 @@
             "name": "Yolk Finance",
             "symbol": "YOLK",
             "address": "0x421Dbf2b8FA0Ca1dc67dF5F4A2B15aF0C2fBAB51",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AAVE Token",
+            "symbol": "AAVE",
+            "address": "0xc418C5E417eC2109Aaf3Fd4DE6D9c94bf7D35854",
             "decimals": 18
         }
     ]
