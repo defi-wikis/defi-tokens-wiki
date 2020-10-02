@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T03:12:20.306Z",
+    "timestamp": "2020-10-02T03:41:09.828Z",
     "version": {
         "major": 1,
-        "minor": 4006,
+        "minor": 4007,
         "patch": 0
     },
     "keywords": [
@@ -26750,6 +26750,13 @@
             "name": "Utrust",
             "symbol": "UTK",
             "address": "0x96D32A2035ea5491017543D4E55C17F58fBf1C57",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NOTE Finance",
+            "symbol": "NOTE",
+            "address": "0x2420bbD6eb9d5576B542DE5d5d3D66b1ce5A5c43",
             "decimals": 18
         }
     ]
