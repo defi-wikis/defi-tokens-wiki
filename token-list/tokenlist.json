@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:19:15.113Z",
+    "timestamp": "2020-10-02T20:19:57.373Z",
     "version": {
         "major": 1,
-        "minor": 4149,
+        "minor": 4150,
         "patch": 0
     },
     "keywords": [
@@ -27745,6 +27745,13 @@
             "name": "ComicsClubToken",
             "symbol": "CSC",
             "address": "0x87319bC6EDe6cdC4b36E7DE8310d0db947825C7E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0xC7ba6cb64F452a579c11d9E744341122Fd93B4C5",
             "decimals": 18
         }
     ]
