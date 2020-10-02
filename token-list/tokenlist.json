@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T06:57:49.811Z",
+    "timestamp": "2020-10-02T07:35:20.245Z",
     "version": {
         "major": 1,
-        "minor": 4018,
+        "minor": 4019,
         "patch": 0
     },
     "keywords": [
@@ -26834,6 +26834,13 @@
             "name": "OrbV3",
             "symbol": "ORBV3",
             "address": "0xF536f782481DF0f9c0A1FD44Fe97F528d2Fe8466",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Trumph Got COVID-19",
+            "symbol": "COVID-19",
+            "address": "0x56a08dfFf9274cb89Cc854d4b1ca24Dc4F21aB0d",
             "decimals": 18
         }
     ]
