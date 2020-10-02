@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:17:06.487Z",
+    "timestamp": "2020-10-02T15:20:56.022Z",
     "version": {
         "major": 1,
-        "minor": 4085,
+        "minor": 4086,
         "patch": 0
     },
     "keywords": [
@@ -27297,6 +27297,13 @@
             "name": "PentaCore Vault",
             "symbol": "PCORE",
             "address": "0x2E0698d9E1D2bd628F233816545f71F7858d77AA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CNM.finance",
+            "symbol": "CNM",
+            "address": "0x496c2E8c65f67C241452d396424Cd05A43f4a03B",
             "decimals": 18
         }
     ]
