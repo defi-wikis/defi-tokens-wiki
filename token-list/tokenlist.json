@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T22:17:39.621Z",
+    "timestamp": "2020-10-02T22:44:25.635Z",
     "version": {
         "major": 1,
-        "minor": 4173,
+        "minor": 4174,
         "patch": 0
     },
     "keywords": [
@@ -27913,6 +27913,13 @@
             "name": "DFITraining.com",
             "symbol": "DFIT",
             "address": "0x2D984C14B8802aeCa13b58A55D6Ee33847Ef5bF6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MasterFarmer Token",
+            "symbol": "MFT",
+            "address": "0x7DCfD702ea4f4760BcC98383CAF50011f38afcE6",
             "decimals": 18
         }
     ]
