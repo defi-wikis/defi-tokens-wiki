@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:07:40.483Z",
+    "timestamp": "2020-10-02T16:09:30.135Z",
     "version": {
         "major": 1,
-        "minor": 4097,
+        "minor": 4098,
         "patch": 0
     },
     "keywords": [
@@ -27381,6 +27381,13 @@
             "name": "Core Finance 2",
             "symbol": "2CORE",
             "address": "0x5052a70535760c462F811054cd7CF0cDE6e4E323",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyWolf.org",
+            "symbol": "WOLF",
+            "address": "0x8D4Bd24D094e40bDE823cb34e24Fd46FABAa5b01",
             "decimals": 18
         }
     ]
