@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T04:52:19.566Z",
+    "timestamp": "2020-10-02T05:18:07.892Z",
     "version": {
         "major": 1,
-        "minor": 4012,
+        "minor": 4013,
         "patch": 0
     },
     "keywords": [
@@ -26792,6 +26792,13 @@
             "name": "Digital Credits",
             "symbol": "DIGI",
             "address": "0xa348a31277F6AC22829F1c2d773B8B083E12D3C2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Generation of Yield Finance",
+            "symbol": "YGY",
+            "address": "0xf41755eeDD5eDf09B1c02E6d319Da92b3dd208AF",
             "decimals": 18
         }
     ]
