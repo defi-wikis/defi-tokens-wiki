@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T05:53:14.747Z",
+    "timestamp": "2020-10-02T06:15:07.998Z",
     "version": {
         "major": 1,
-        "minor": 4014,
+        "minor": 4015,
         "patch": 0
     },
     "keywords": [
@@ -26807,6 +26807,13 @@
             "symbol": "BIT",
             "address": "0x7B3D5a1dC55A4565623116B1e58c1Af1D500e6f3",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "COSMIA",
+            "symbol": "COSX",
+            "address": "0x4706Ca16858A86426420D04b62e12c406F519979",
+            "decimals": 18
         }
     ]
 }
