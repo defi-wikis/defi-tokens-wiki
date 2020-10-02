@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:28:20.471Z",
+    "timestamp": "2020-10-02T02:40:10.871Z",
     "version": {
         "major": 1,
-        "minor": 3997,
+        "minor": 3998,
         "patch": 0
     },
     "keywords": [
@@ -26688,6 +26688,13 @@
             "symbol": "PMA",
             "address": "0x4bd4c66f89b0D2cF689dD328AE41116C11f0e989",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Shark",
+            "symbol": "$SHARK",
+            "address": "0x94F23Ea57bEc257b317ca40e3e793c5aE4875983",
+            "decimals": 18
         }
     ]
 }
