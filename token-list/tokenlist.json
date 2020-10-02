@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T21:53:30.454Z",
+    "timestamp": "2020-10-02T21:57:07.264Z",
     "version": {
         "major": 1,
-        "minor": 4167,
+        "minor": 4168,
         "patch": 0
     },
     "keywords": [
@@ -27872,6 +27872,13 @@
             "symbol": "EUROSHARE",
             "address": "0xB009F46793526fFf707BB994b8685fF08Ba34F5C",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "",
+            "symbol": "TEST1",
+            "address": "0x7af91C398b3AFd07978579A9fF93899F2c3b1D78",
+            "decimals": 18
         }
     ]
 }
