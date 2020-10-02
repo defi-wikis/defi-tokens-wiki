@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:03:15.353Z",
+    "timestamp": "2020-10-02T14:03:34.637Z",
     "version": {
         "major": 1,
-        "minor": 4066,
+        "minor": 4067,
         "patch": 0
     },
     "keywords": [
@@ -27164,6 +27164,13 @@
             "name": "BJD ",
             "symbol": "BJD",
             "address": "0x69546F2f43433b59f3Bf68EA69490618Cb3A2AD7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFMantra.Finance",
+            "symbol": "YFMANTRA",
+            "address": "0xCE9482A5E40c50f12FF0B0f331bbF65747544bEB",
             "decimals": 18
         }
     ]
