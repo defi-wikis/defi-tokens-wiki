@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:37:40.728Z",
+    "timestamp": "2020-10-02T16:55:30.697Z",
     "version": {
         "major": 1,
-        "minor": 4102,
+        "minor": 4103,
         "patch": 0
     },
     "keywords": [
@@ -27416,6 +27416,13 @@
             "name": "Mao.Finance",
             "symbol": "MAO",
             "address": "0x579DD79941bde797a89D2761F3E2593AfD13365d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dynamic Network",
+            "symbol": "DYN",
+            "address": "0x7da71805dA1031a4B304caefC7bD527Ce61254cA",
             "decimals": 18
         }
     ]
