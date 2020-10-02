@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:44:02.520Z",
+    "timestamp": "2020-10-02T17:44:11.892Z",
     "version": {
         "major": 1,
-        "minor": 4113,
+        "minor": 4114,
         "patch": 0
     },
     "keywords": [
@@ -27493,6 +27493,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0x76361518d574421A9fc25c86c41D286b069dADf6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KHB.finance",
+            "symbol": "KHBC",
+            "address": "0x804c6D42D075A5d49Ec23f786BCf26173F2CccA6",
             "decimals": 18
         }
     ]
