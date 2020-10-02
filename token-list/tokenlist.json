@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:49:55.024Z",
+    "timestamp": "2020-10-02T18:51:40.982Z",
     "version": {
         "major": 1,
-        "minor": 4131,
+        "minor": 4132,
         "patch": 0
     },
     "keywords": [
@@ -27620,6 +27620,13 @@
             "symbol": "",
             "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "LON",
+            "symbol": "LON",
+            "address": "0x67e7F0aC022294dAaE2C16c24Db56fae96DD8757",
+            "decimals": 18
         }
     ]
 }
