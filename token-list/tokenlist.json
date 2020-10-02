@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:35:50.477Z",
+    "timestamp": "2020-10-02T14:38:24.625Z",
     "version": {
         "major": 1,
-        "minor": 4074,
+        "minor": 4075,
         "patch": 0
     },
     "keywords": [
@@ -27220,6 +27220,13 @@
             "name": "Pi Coin",
             "symbol": "Π",
             "address": "0xbe83ff608EED66aAb108607cB87d399416A100c7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TTT Finance",
+            "symbol": "TTT",
+            "address": "0xBF9DCBe9341B576FD6E5768aFA99A9b4CAC85ac2",
             "decimals": 18
         }
     ]
