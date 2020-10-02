@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T22:11:49.857Z",
+    "timestamp": "2020-10-02T22:17:39.621Z",
     "version": {
         "major": 1,
-        "minor": 4172,
+        "minor": 4173,
         "patch": 0
     },
     "keywords": [
@@ -27906,6 +27906,13 @@
             "name": "Mario BROS Finance",
             "symbol": "BROS",
             "address": "0x0f557313C6a6a778c9986CF1033F79560b633c9d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DFITraining.com",
+            "symbol": "DFIT",
+            "address": "0x2D984C14B8802aeCa13b58A55D6Ee33847Ef5bF6",
             "decimals": 18
         }
     ]
