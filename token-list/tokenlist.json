@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:06:24.811Z",
+    "timestamp": "2020-10-02T16:07:40.483Z",
     "version": {
         "major": 1,
-        "minor": 4096,
+        "minor": 4097,
         "patch": 0
     },
     "keywords": [
@@ -27374,6 +27374,13 @@
             "name": "ETrading EDEN",
             "symbol": "EDEN",
             "address": "0x0268f0dd879cEa41210B8191149D06Bd318a56E7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance 2",
+            "symbol": "2CORE",
+            "address": "0x5052a70535760c462F811054cd7CF0cDE6e4E323",
             "decimals": 18
         }
     ]
