@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:47:14.451Z",
+    "timestamp": "2020-10-02T15:49:34.552Z",
     "version": {
         "major": 1,
-        "minor": 4090,
+        "minor": 4091,
         "patch": 0
     },
     "keywords": [
@@ -27332,6 +27332,13 @@
             "name": "dCOCK",
             "symbol": "dCOCK",
             "address": "0x889874a602b092AD52ae54F47d7664d5c9F7425c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnToken",
+            "symbol": "EARN",
+            "address": "0x9470a37D562d6A4052f1c633848C2648460D688e",
             "decimals": 18
         }
     ]
