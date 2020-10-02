@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:46:20.591Z",
+    "timestamp": "2020-10-02T20:46:27.197Z",
     "version": {
         "major": 1,
-        "minor": 4155,
+        "minor": 4156,
         "patch": 0
     },
     "keywords": [
@@ -27787,6 +27787,13 @@
             "name": "forsage.io",
             "symbol": "forsage",
             "address": "0x82c5626A8F5B8e90D830AeDA2a2571c414e111B3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZTLL.finance",
+            "symbol": "ZTLL",
+            "address": "0x86A197bDF1D6c55AAbF7AF2630D3F8350d6249F3",
             "decimals": 18
         }
     ]
