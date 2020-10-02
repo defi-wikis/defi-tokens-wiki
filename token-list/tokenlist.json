@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:44:11.892Z",
+    "timestamp": "2020-10-02T17:55:07.498Z",
     "version": {
         "major": 1,
-        "minor": 4114,
+        "minor": 4115,
         "patch": 0
     },
     "keywords": [
@@ -27500,6 +27500,13 @@
             "name": "KHB.finance",
             "symbol": "KHBC",
             "address": "0x804c6D42D075A5d49Ec23f786BCf26173F2CccA6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cake Token",
+            "symbol": "CAKE",
+            "address": "0xdD111A6c040B56bcf54d3c778a452Bc30700aE3A",
             "decimals": 18
         }
     ]
