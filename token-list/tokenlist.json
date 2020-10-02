@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:34:29.935Z",
+    "timestamp": "2020-10-02T14:35:50.477Z",
     "version": {
         "major": 1,
-        "minor": 4073,
+        "minor": 4074,
         "patch": 0
     },
     "keywords": [
@@ -27214,6 +27214,13 @@
             "symbol": "AMIS",
             "address": "0x949bEd886c739f1A3273629b3320db0C5024c719",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Pi Coin",
+            "symbol": "Π",
+            "address": "0xbe83ff608EED66aAb108607cB87d399416A100c7",
+            "decimals": 18
         }
     ]
 }
