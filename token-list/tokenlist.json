@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:52:30.798Z",
+    "timestamp": "2020-10-02T13:53:29.498Z",
     "version": {
         "major": 1,
-        "minor": 4062,
+        "minor": 4063,
         "patch": 0
     },
     "keywords": [
@@ -27142,6 +27142,13 @@
             "name": "ycvault.finance vault",
             "symbol": "YCORE",
             "address": "0x03c20fA7763BC616BFd1097D78ceE8386BDf94d1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aster3H",
+            "symbol": "AST3",
+            "address": "0x61736C98EBf820dBBB1F69D2f8D39afB864EE84E",
             "decimals": 18
         }
     ]
