@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T08:46:49.928Z",
+    "timestamp": "2020-10-02T09:03:20.172Z",
     "version": {
         "major": 1,
-        "minor": 4023,
+        "minor": 4024,
         "patch": 0
     },
     "keywords": [
@@ -26869,6 +26869,13 @@
             "name": "Rira Protocol",
             "symbol": "RIRA",
             "address": "0x7050E3a18cd11Ca2bD3AE66527B0218271f4Dc93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bububu.finance",
+            "symbol": "BUBUBU",
+            "address": "0x36bed4e6d8ac53E3F2771E410a6f004F23a81105",
             "decimals": 18
         }
     ]
