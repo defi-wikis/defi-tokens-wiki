@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:19:34.458Z",
+    "timestamp": "2020-10-02T13:21:59.399Z",
     "version": {
         "major": 1,
-        "minor": 4053,
+        "minor": 4054,
         "patch": 0
     },
     "keywords": [
@@ -27079,6 +27079,13 @@
             "name": "DDbie.Finance",
             "symbol": "DDbie",
             "address": "0x6a161730e976b88Fda30AcF3e0974cDB38659B01",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Neek.Finance",
+            "symbol": "NEEK",
+            "address": "0x7De54fb5a009EEb58839C723a7E7107Fd0431788",
             "decimals": 18
         }
     ]
