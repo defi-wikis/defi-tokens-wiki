@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T23:08:20.189Z",
+    "timestamp": "2020-10-02T23:17:06.154Z",
     "version": {
         "major": 1,
-        "minor": 4179,
+        "minor": 4180,
         "patch": 0
     },
     "keywords": [
@@ -27956,6 +27956,13 @@
             "symbol": "YTHO",
             "address": "0x48cf0E2eCA22EAe0AD33feE16A5CB6E62207A8Ab",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FC Bitcoin",
+            "symbol": "FCBTC",
+            "address": "0x4c6e796Bbfe5EB37F9E3E0f66C009C8Bf2A5f428",
+            "decimals": 8
         }
     ]
 }
