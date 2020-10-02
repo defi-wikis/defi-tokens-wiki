@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:44:02.771Z",
+    "timestamp": "2020-10-02T19:47:10.296Z",
     "version": {
         "major": 1,
-        "minor": 4143,
+        "minor": 4144,
         "patch": 0
     },
     "keywords": [
@@ -27703,6 +27703,13 @@
             "name": "BALLSDEEP.FUND",
             "symbol": "BALLS",
             "address": "0x5Eaa464BB129e8dB5970009C04129B892F9DEbAC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YTMSL.finance",
+            "symbol": "YTMSL",
+            "address": "0xc64a0eA2cA06277c57032Ad628A57544C78B20b2",
             "decimals": 18
         }
     ]
