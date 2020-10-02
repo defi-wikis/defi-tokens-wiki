@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:00:16.615Z",
+    "timestamp": "2020-10-02T15:02:55.335Z",
     "version": {
         "major": 1,
-        "minor": 4079,
+        "minor": 4080,
         "patch": 0
     },
     "keywords": [
@@ -27255,6 +27255,13 @@
             "name": "CJ.finance",
             "symbol": "CJF",
             "address": "0x90ba65ABee21512De8ACc7A60192333836Bc6a33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Emperor Network",
+            "symbol": "EN",
+            "address": "0x790FA73Ecfde98CA1A9D2d25765ae2c73484b41E",
             "decimals": 18
         }
     ]
