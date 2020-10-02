@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T00:09:24.855Z",
+    "timestamp": "2020-10-02T00:12:20.282Z",
     "version": {
         "major": 1,
-        "minor": 3983,
+        "minor": 3984,
         "patch": 0
     },
     "keywords": [
@@ -26589,6 +26589,13 @@
             "name": "THESHITCOINFRENZY",
             "symbol": "TSF",
             "address": "0x721A0Ca9132e6351722f2A85D9769E793cB29088",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cVault.finance",
+            "symbol": "CORE",
+            "address": "0x806D8A19F19D953756A3CFFAbc9FA1cA4d7dB4a3",
             "decimals": 18
         }
     ]
