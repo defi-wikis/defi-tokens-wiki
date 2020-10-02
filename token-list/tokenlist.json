@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:50:15.644Z",
+    "timestamp": "2020-10-02T14:52:29.852Z",
     "version": {
         "major": 1,
-        "minor": 4077,
+        "minor": 4078,
         "patch": 0
     },
     "keywords": [
@@ -27242,6 +27242,13 @@
             "symbol": "AST1",
             "address": "0x2b6E03f3137b41D30d54E87517c053A1F2D96390",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Milano",
+            "symbol": "MILANO",
+            "address": "0x0af5ae6b1ADFd5bb2bf498046D8f3A188609064E",
+            "decimals": 4
         }
     ]
 }
