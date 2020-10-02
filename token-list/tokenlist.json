@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:40:50.104Z",
+    "timestamp": "2020-10-02T18:49:30.269Z",
     "version": {
         "major": 1,
-        "minor": 4129,
+        "minor": 4130,
         "patch": 0
     },
     "keywords": [
@@ -27605,6 +27605,13 @@
             "name": "cf.im",
             "symbol": "CF",
             "address": "0xBA0926c0B33Ff5D24b9732c6721E7a6093d09da3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HKYB.finance",
+            "symbol": "HKYB",
+            "address": "0x1dFe0D458b6E1FBe9A71241C238697A70642ca53",
             "decimals": 18
         }
     ]
