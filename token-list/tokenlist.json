@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:47:10.296Z",
+    "timestamp": "2020-10-02T20:02:39.890Z",
     "version": {
         "major": 1,
-        "minor": 4144,
+        "minor": 4145,
         "patch": 0
     },
     "keywords": [
@@ -27710,6 +27710,13 @@
             "name": "YTMSL.finance",
             "symbol": "YTMSL",
             "address": "0xc64a0eA2cA06277c57032Ad628A57544C78B20b2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.finance",
+            "symbol": "YGY",
+            "address": "0x7F2dAba33681ccfee16BAf86B9F294cE5f16163D",
             "decimals": 18
         }
     ]
