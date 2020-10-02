@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:25:24.794Z",
+    "timestamp": "2020-10-02T14:34:29.935Z",
     "version": {
         "major": 1,
-        "minor": 4072,
+        "minor": 4073,
         "patch": 0
     },
     "keywords": [
@@ -27207,6 +27207,13 @@
             "symbol": "LUA",
             "address": "0x85A79A1a7107B8F52211Aae5e35191817073C8BE",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AMIS",
+            "symbol": "AMIS",
+            "address": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+            "decimals": 9
         }
     ]
 }
