@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T09:53:59.629Z",
+    "timestamp": "2020-10-02T10:01:10.108Z",
     "version": {
         "major": 1,
-        "minor": 4032,
+        "minor": 4033,
         "patch": 0
     },
     "keywords": [
@@ -26932,6 +26932,13 @@
             "name": "1000ETH.finance",
             "symbol": "ETH1K",
             "address": "0x87450f53BD4b1A0E8A9ea11134Fc379B14813C92",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xyearn.finance",
+            "symbol": "XYFI",
+            "address": "0x3844c64D523eB7db3DD03F504dACCDE79EE26Df8",
             "decimals": 18
         }
     ]
