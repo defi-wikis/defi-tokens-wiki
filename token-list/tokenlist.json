@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:11:01.942Z",
+    "timestamp": "2020-10-02T18:12:35.345Z",
     "version": {
         "major": 1,
-        "minor": 4121,
+        "minor": 4122,
         "patch": 0
     },
     "keywords": [
@@ -27549,6 +27549,13 @@
             "name": "plouto.finance",
             "symbol": "PLU",
             "address": "0x2a0Cf74966A4aa8Bcd11d21FD29BA74fC9c17096",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZTMSB.finance",
+            "symbol": "ZTMSB",
+            "address": "0xC2289E0DB3fA9E7aefcD2e99e29dEE83Fd12720b",
             "decimals": 18
         }
     ]
