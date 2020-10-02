@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:39:39.917Z",
+    "timestamp": "2020-10-02T17:44:02.520Z",
     "version": {
         "major": 1,
-        "minor": 4112,
+        "minor": 4113,
         "patch": 0
     },
     "keywords": [
@@ -27486,6 +27486,13 @@
             "name": "mooon.cash",
             "symbol": "mooon",
             "address": "0xE86f0d2CD56412F38F745795Aa29470BB323B63E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0x76361518d574421A9fc25c86c41D286b069dADf6",
             "decimals": 18
         }
     ]
