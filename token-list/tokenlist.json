@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T01:45:44.904Z",
+    "timestamp": "2020-10-02T01:55:20.695Z",
     "version": {
         "major": 1,
-        "minor": 3992,
+        "minor": 3993,
         "patch": 0
     },
     "keywords": [
@@ -26653,6 +26653,13 @@
             "symbol": "TKP",
             "address": "0xd31695a1d35E489252CE57b129FD4b1B05E6AcaC",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Poobcoin",
+            "symbol": "PBC",
+            "address": "0xC08713c04760C4931Dec33805962B96Fc48A2371",
+            "decimals": 0
         }
     ]
 }
