@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:22:45.014Z",
+    "timestamp": "2020-10-02T17:27:49.794Z",
     "version": {
         "major": 1,
-        "minor": 4108,
+        "minor": 4109,
         "patch": 0
     },
     "keywords": [
@@ -27458,6 +27458,13 @@
             "name": "BMT.finance",
             "symbol": "BMT",
             "address": "0x37c56b0CdF6EF8f997cA56057DaB0a56228d3fc2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "The Whale of Blockchain",
+            "symbol": "TWOB",
+            "address": "0x975CE667d59318e13Da8acD3D2f534BE5a64087B",
             "decimals": 18
         }
     ]
