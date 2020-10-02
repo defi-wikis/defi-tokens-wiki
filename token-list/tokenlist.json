@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:53:29.498Z",
+    "timestamp": "2020-10-02T13:55:25.850Z",
     "version": {
         "major": 1,
-        "minor": 4063,
+        "minor": 4064,
         "patch": 0
     },
     "keywords": [
@@ -27149,6 +27149,13 @@
             "name": "Aster3H",
             "symbol": "AST3",
             "address": "0x61736C98EBf820dBBB1F69D2f8D39afB864EE84E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTswap Token",
+            "symbol": "BT",
+            "address": "0x841B79c8eb8c7094347D5402E620c5b48B6F0165",
             "decimals": 18
         }
     ]
