@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:59:59.612Z",
+    "timestamp": "2020-10-02T18:10:02.951Z",
     "version": {
         "major": 1,
-        "minor": 4119,
+        "minor": 4120,
         "patch": 0
     },
     "keywords": [
@@ -27535,6 +27535,13 @@
             "name": "HHWDL.finance",
             "symbol": "HHWDL",
             "address": "0xE533F4626fa2E6cB4D7bdE05921bEeBfDa4479DB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YUGE.WORKS",
+            "symbol": "$YUGE",
+            "address": "0xb177Bd7919c399dDe531744a20d5078baA1eCff2",
             "decimals": 18
         }
     ]
