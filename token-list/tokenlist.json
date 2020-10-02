@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:36:19.671Z",
+    "timestamp": "2020-10-02T15:40:15.293Z",
     "version": {
         "major": 1,
-        "minor": 4088,
+        "minor": 4089,
         "patch": 0
     },
     "keywords": [
@@ -27318,6 +27318,13 @@
             "name": "jackpotz.finance",
             "symbol": "JACKZ",
             "address": "0xC31D37bDaF63aB79fc2c08ad16fdF7Dd86478Afd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MGB.finance",
+            "symbol": "MGB",
+            "address": "0x724F2322a889A3Aaff4AfAAA50c478E7bDd89A71",
             "decimals": 18
         }
     ]
