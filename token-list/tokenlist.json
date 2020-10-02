@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:58:59.611Z",
+    "timestamp": "2020-10-02T17:04:39.995Z",
     "version": {
         "major": 1,
-        "minor": 4105,
+        "minor": 4106,
         "patch": 0
     },
     "keywords": [
@@ -27437,6 +27437,13 @@
             "name": "FFND.finance",
             "symbol": "FFND",
             "address": "0x9ba615E4A5DC4C4FE0695C9Bd579C5a8FC4DEA4D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SALTY",
+            "symbol": "SALTY",
+            "address": "0x851CaB856A91dd24d5503B74e28E77e3C144ff23",
             "decimals": 18
         }
     ]
