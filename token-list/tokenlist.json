@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:04:39.995Z",
+    "timestamp": "2020-10-02T17:22:08.366Z",
     "version": {
         "major": 1,
-        "minor": 4106,
+        "minor": 4107,
         "patch": 0
     },
     "keywords": [
@@ -27444,6 +27444,13 @@
             "name": "SALTY",
             "symbol": "SALTY",
             "address": "0x851CaB856A91dd24d5503B74e28E77e3C144ff23",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arweave",
+            "symbol": "AR",
+            "address": "0x0F04676403A51412B53FD264fF48a3F70A348391",
             "decimals": 18
         }
     ]
