@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T23:06:30.225Z",
+    "timestamp": "2020-10-02T23:08:20.189Z",
     "version": {
         "major": 1,
-        "minor": 4178,
+        "minor": 4179,
         "patch": 0
     },
     "keywords": [
@@ -27948,6 +27948,13 @@
             "name": "Cherry Finance",
             "symbol": "CHERRY",
             "address": "0xB6699E285A4d011195A680236427C3d2B7a185DA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YTHO",
+            "symbol": "YTHO",
+            "address": "0x48cf0E2eCA22EAe0AD33feE16A5CB6E62207A8Ab",
             "decimals": 18
         }
     ]
