@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T09:48:50.504Z",
+    "timestamp": "2020-10-02T09:53:59.629Z",
     "version": {
         "major": 1,
-        "minor": 4031,
+        "minor": 4032,
         "patch": 0
     },
     "keywords": [
@@ -26925,6 +26925,13 @@
             "name": "QUICKflip.app",
             "symbol": "QUICK",
             "address": "0x4aA22A08E475a68Eb827F4eb267B4C67478AE929",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "1000ETH.finance",
+            "symbol": "ETH1K",
+            "address": "0x87450f53BD4b1A0E8A9ea11134Fc379B14813C92",
             "decimals": 18
         }
     ]
