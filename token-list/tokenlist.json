@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:39:20.005Z",
+    "timestamp": "2020-10-02T20:46:20.591Z",
     "version": {
         "major": 1,
-        "minor": 4154,
+        "minor": 4155,
         "patch": 0
     },
     "keywords": [
@@ -27780,6 +27780,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0xaCd17A6736388b59BddB493F3695fA2a79ddAA7e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "forsage.io",
+            "symbol": "forsage",
+            "address": "0x82c5626A8F5B8e90D830AeDA2a2571c414e111B3",
             "decimals": 18
         }
     ]
