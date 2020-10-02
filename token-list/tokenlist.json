@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T01:25:44.626Z",
+    "timestamp": "2020-10-02T01:33:15.411Z",
     "version": {
         "major": 1,
-        "minor": 3989,
+        "minor": 3990,
         "patch": 0
     },
     "keywords": [
@@ -26631,6 +26631,13 @@
             "name": "Chainhammer",
             "symbol": "CH",
             "address": "0xbDdcbE78eEC5195728101415d183909113731379",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "test",
+            "symbol": "test",
+            "address": "0x93530c659f10A5897425EbB4A2FCF3dADb9FA33B",
             "decimals": 18
         }
     ]
