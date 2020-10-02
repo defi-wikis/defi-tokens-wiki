@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:05:59.766Z",
+    "timestamp": "2020-10-02T14:06:31.723Z",
     "version": {
         "major": 1,
-        "minor": 4068,
+        "minor": 4069,
         "patch": 0
     },
     "keywords": [
@@ -27178,6 +27178,13 @@
             "name": "Dsal",
             "symbol": "DSAL",
             "address": "0x5DF664c22cD9B95fC2687B2028180Bcd37dFA089",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Salty Finance",
+            "symbol": "SALTY",
+            "address": "0x7605ecddb9cA03467802B343D52025b348f7619d",
             "decimals": 18
         }
     ]
