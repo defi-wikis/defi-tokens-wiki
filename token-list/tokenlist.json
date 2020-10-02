@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:07:59.848Z",
+    "timestamp": "2020-10-02T13:19:34.458Z",
     "version": {
         "major": 1,
-        "minor": 4052,
+        "minor": 4053,
         "patch": 0
     },
     "keywords": [
@@ -27072,6 +27072,13 @@
             "name": "forsage.io",
             "symbol": "forsage",
             "address": "0xd3B25BD322329Edd1579fE9de192e6A412Fbd5BD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DDbie.Finance",
+            "symbol": "DDbie",
+            "address": "0x6a161730e976b88Fda30AcF3e0974cDB38659B01",
             "decimals": 18
         }
     ]
