@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:12:41.431Z",
+    "timestamp": "2020-10-02T18:15:15.882Z",
     "version": {
         "major": 1,
-        "minor": 4123,
+        "minor": 4124,
         "patch": 0
     },
     "keywords": [
@@ -27563,6 +27563,13 @@
             "name": "MILL Finance",
             "symbol": "MILL",
             "address": "0x4c7cB8a50F4cB33Aeacd1dDF47f197e9aB21D9Eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WarLordToken",
+            "symbol": "WLT",
+            "address": "0xB7BC7B0A32455F7e7A924f832ca4F0a0ac3b6B88",
             "decimals": 18
         }
     ]
