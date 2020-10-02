@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:02:55.335Z",
+    "timestamp": "2020-10-02T15:03:49.694Z",
     "version": {
         "major": 1,
-        "minor": 4080,
+        "minor": 4081,
         "patch": 0
     },
     "keywords": [
@@ -27262,6 +27262,13 @@
             "name": "Emperor Network",
             "symbol": "EN",
             "address": "0x790FA73Ecfde98CA1A9D2d25765ae2c73484b41E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mulan.Finance",
+            "symbol": "$MULAN",
+            "address": "0x7dFB72A2AAd08C937706f21421B15bFC34Cba9ca",
             "decimals": 18
         }
     ]
