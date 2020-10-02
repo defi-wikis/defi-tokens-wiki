@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:30:25.226Z",
+    "timestamp": "2020-10-02T17:33:26.419Z",
     "version": {
         "major": 1,
-        "minor": 4110,
+        "minor": 4111,
         "patch": 0
     },
     "keywords": [
@@ -27472,6 +27472,13 @@
             "name": "KLM",
             "symbol": "KLM",
             "address": "0x3Bf9C258b9A3cD734B67f31D5b847da777407545",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$HONK",
+            "symbol": "$HONK",
+            "address": "0x43B1243E9045cDa9cFDC3d3BF191bB88e3fc34d9",
             "decimals": 18
         }
     ]
