@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T10:44:45.146Z",
+    "timestamp": "2020-10-02T10:46:35.306Z",
     "version": {
         "major": 1,
-        "minor": 4039,
+        "minor": 4040,
         "patch": 0
     },
     "keywords": [
@@ -26981,6 +26981,13 @@
             "name": "Kappi Network Finance",
             "symbol": "KANF",
             "address": "0x20Ff4Ab0Cb5De8727a35Ec173825f8acfd1963F9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Bross Finance",
+            "symbol": "YBF",
+            "address": "0x1A90F0eBAe806470A427999E48C433571DA218fA",
             "decimals": 18
         }
     ]
