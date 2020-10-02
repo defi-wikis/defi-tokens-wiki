@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T09:05:19.957Z",
+    "timestamp": "2020-10-02T09:08:10.275Z",
     "version": {
         "major": 1,
-        "minor": 4025,
+        "minor": 4026,
         "patch": 0
     },
     "keywords": [
@@ -26883,6 +26883,13 @@
             "name": "Capy",
             "symbol": "CAPY",
             "address": "0x367B072D50ac465bA47Ab474c6d381BfC0e45F86",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pic.finance",
+            "symbol": "PIC",
+            "address": "0xbF9Fc1181b65542a552dA563Ae87A797Eae208c0",
             "decimals": 18
         }
     ]
