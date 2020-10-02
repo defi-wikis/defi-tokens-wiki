@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:29:36.284Z",
+    "timestamp": "2020-10-02T18:29:49.770Z",
     "version": {
         "major": 1,
-        "minor": 4127,
+        "minor": 4128,
         "patch": 0
     },
     "keywords": [
@@ -27591,6 +27591,13 @@
             "name": "Fompound",
             "symbol": "FOMP",
             "address": "0xa91D18E93cadB5E61204b98266046d3e7db2E8a2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZBXBGL.finance",
+            "symbol": "ZBXBGL",
+            "address": "0xF2402a8c955a8dc321985117d7CD66afDbA2De5C",
             "decimals": 18
         }
     ]
