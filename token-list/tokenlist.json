@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:59:55.226Z",
+    "timestamp": "2020-10-02T16:06:24.811Z",
     "version": {
         "major": 1,
-        "minor": 4095,
+        "minor": 4096,
         "patch": 0
     },
     "keywords": [
@@ -27367,6 +27367,13 @@
             "name": "qnml.finance",
             "symbol": "qnml",
             "address": "0x4E8e4460F841B6ea175ee348008ec6AdCD454eb0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETrading EDEN",
+            "symbol": "EDEN",
+            "address": "0x0268f0dd879cEa41210B8191149D06Bd318a56E7",
             "decimals": 18
         }
     ]
