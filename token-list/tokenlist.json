@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T11:29:29.834Z",
+    "timestamp": "2020-10-02T11:40:07.558Z",
     "version": {
         "major": 1,
-        "minor": 4042,
+        "minor": 4043,
         "patch": 0
     },
     "keywords": [
@@ -27002,6 +27002,13 @@
             "name": "KRWQ Stablecoin by Q DAO v1.0",
             "symbol": "KRWQ",
             "address": "0x3c6cFBDAF0A04fc257B185BF98934a12124FE8D0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aster-6H",
+            "symbol": "AST6",
+            "address": "0x38A38F1e50450998d824332ac73998456D493d43",
             "decimals": 18
         }
     ]
