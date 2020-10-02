@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:38:29.346Z",
+    "timestamp": "2020-10-02T19:39:02.100Z",
     "version": {
         "major": 1,
-        "minor": 4141,
+        "minor": 4142,
         "patch": 0
     },
     "keywords": [
@@ -27689,6 +27689,13 @@
             "name": "soviet.finance",
             "symbol": "hSOV",
             "address": "0x2583b94211A26e432b0b6C0774D1DD9Cf87E4eBb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Trumph Got COVID-19",
+            "symbol": "COVID-19",
+            "address": "0x6e06f58a0a4C0d52779ED04CdDCCD99a4E8E0572",
             "decimals": 18
         }
     ]
