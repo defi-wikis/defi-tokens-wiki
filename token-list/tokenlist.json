@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:10:15.956Z",
+    "timestamp": "2020-10-02T20:12:19.892Z",
     "version": {
         "major": 1,
-        "minor": 4147,
+        "minor": 4148,
         "patch": 0
     },
     "keywords": [
@@ -27731,6 +27731,13 @@
             "name": "Slonigiraf Token",
             "symbol": "SLON",
             "address": "0x35242Ed010d80F39643982d0216D7CA7AD1FA841",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XXYD.finance",
+            "symbol": "XXYD",
+            "address": "0x84B5d13101691786e31215034c4Bc1d698E07fd0",
             "decimals": 18
         }
     ]
