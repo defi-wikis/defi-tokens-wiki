@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:00:26.050Z",
+    "timestamp": "2020-10-02T19:00:55.438Z",
     "version": {
         "major": 1,
-        "minor": 4133,
+        "minor": 4134,
         "patch": 0
     },
     "keywords": [
@@ -27634,6 +27634,13 @@
             "symbol": "TOLOR",
             "address": "0x7D20406f47592BC9E836BD92EBC8e0e8a41e164C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eBIT",
+            "symbol": "EBIT",
+            "address": "0xdb45FAeCa61C70E271BFfeAf66162Fa68a1c4def",
+            "decimals": 0
         }
     ]
 }
