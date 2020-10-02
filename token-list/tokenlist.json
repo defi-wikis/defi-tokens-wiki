@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T01:33:15.411Z",
+    "timestamp": "2020-10-02T01:43:39.438Z",
     "version": {
         "major": 1,
-        "minor": 3990,
+        "minor": 3991,
         "patch": 0
     },
     "keywords": [
@@ -26638,6 +26638,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x93530c659f10A5897425EbB4A2FCF3dADb9FA33B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yoju Finance",
+            "symbol": "YJF",
+            "address": "0x145698e7fb7B01E8277D58BdD9714AAdf4E0c299",
             "decimals": 18
         }
     ]
