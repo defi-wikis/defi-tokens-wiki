@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T00:39:47.610Z",
+    "timestamp": "2020-10-02T01:07:49.617Z",
     "version": {
         "major": 1,
-        "minor": 3986,
+        "minor": 3987,
         "patch": 0
     },
     "keywords": [
@@ -26610,6 +26610,13 @@
             "name": "APY.Finance",
             "symbol": "APY",
             "address": "0x8193B13af5Dfc37c904e8A06b71B3D821aC60498",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "unidefi.finance",
+            "symbol": "UNIDEFI",
+            "address": "0x5ddB0c9D2B67B56330Ad9133109fb5f0C85c3E0F",
             "decimals": 18
         }
     ]
