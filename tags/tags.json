@@ -77,5 +77,14 @@
     "defi": {
         "name": "Defi",
         "description": null
+    },
+    "zora": {
+        "name": "Zora",
+        "description": "Tokens created on the Zora platform",
+        "emoji": "🌜🌞🌛"
+    },
+     "creator": {
+        "name": "Creator",
+        "description": "Tokens by creators"
     }
 }
