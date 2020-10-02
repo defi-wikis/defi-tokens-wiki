@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T11:25:02.439Z",
+    "timestamp": "2020-10-02T11:29:29.834Z",
     "version": {
         "major": 1,
-        "minor": 4041,
+        "minor": 4042,
         "patch": 0
     },
     "keywords": [
@@ -26995,6 +26995,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x5EC82B12b9cA8567757e9F0E9442D0134ce43Eb4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KRWQ Stablecoin by Q DAO v1.0",
+            "symbol": "KRWQ",
+            "address": "0x3c6cFBDAF0A04fc257B185BF98934a12124FE8D0",
             "decimals": 18
         }
     ]
