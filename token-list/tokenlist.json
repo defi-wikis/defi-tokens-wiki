@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T10:33:15.411Z",
+    "timestamp": "2020-10-02T10:44:45.146Z",
     "version": {
         "major": 1,
-        "minor": 4038,
+        "minor": 4039,
         "patch": 0
     },
     "keywords": [
@@ -26974,6 +26974,13 @@
             "name": "pulltherug.finance",
             "symbol": "RUGZ",
             "address": "0xEdFBd6c48c3dDfF5612Ade14B45bb19F916809ba",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kappi Network Finance",
+            "symbol": "KANF",
+            "address": "0x20Ff4Ab0Cb5De8727a35Ec173825f8acfd1963F9",
             "decimals": 18
         }
     ]
