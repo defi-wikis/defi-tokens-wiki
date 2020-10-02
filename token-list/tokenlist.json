@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:11:00.041Z",
+    "timestamp": "2020-10-02T02:28:20.471Z",
     "version": {
         "major": 1,
-        "minor": 3996,
+        "minor": 3997,
         "patch": 0
     },
     "keywords": [
@@ -26681,6 +26681,13 @@
             "symbol": "P2PL",
             "address": "0x37f73FF156cFFDf28c4c3bcd3ceD4c579802A574",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PMA",
+            "symbol": "PMA",
+            "address": "0x4bd4c66f89b0D2cF689dD328AE41116C11f0e989",
+            "decimals": 0
         }
     ]
 }
