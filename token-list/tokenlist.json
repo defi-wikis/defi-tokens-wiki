@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T09:24:54.852Z",
+    "timestamp": "2020-10-02T09:26:19.920Z",
     "version": {
         "major": 1,
-        "minor": 4029,
+        "minor": 4030,
         "patch": 0
     },
     "keywords": [
@@ -26911,6 +26911,13 @@
             "name": "Core Finance",
             "symbol": "$CORE",
             "address": "0xAB022252B028f7405ac0148bDD4Fbd42eF80ea52",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JPYQ Stablecoin by Q DAO v1.0",
+            "symbol": "JPYQ",
+            "address": "0x558A069a3A1a1e72398607b9E3577fCe1C67EA63",
             "decimals": 18
         }
     ]
