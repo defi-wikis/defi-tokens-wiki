@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:38:24.625Z",
+    "timestamp": "2020-10-02T14:46:30.469Z",
     "version": {
         "major": 1,
-        "minor": 4075,
+        "minor": 4076,
         "patch": 0
     },
     "keywords": [
@@ -27227,6 +27227,13 @@
             "name": "TTT Finance",
             "symbol": "TTT",
             "address": "0xBF9DCBe9341B576FD6E5768aFA99A9b4CAC85ac2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Consensus Finance",
+            "symbol": "CF",
+            "address": "0x343A1CAE36B1ca047B24fc2780869Dc2C1B84137",
             "decimals": 18
         }
     ]
