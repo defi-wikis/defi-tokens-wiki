@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:20:25.341Z",
+    "timestamp": "2020-10-02T19:31:44.914Z",
     "version": {
         "major": 1,
-        "minor": 4138,
+        "minor": 4139,
         "patch": 0
     },
     "keywords": [
@@ -27669,6 +27669,13 @@
             "symbol": "GMT",
             "address": "0xF5f8472045c9177B545Ea05fdA73848291a3f8B8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Biance Swap",
+            "symbol": "BSWAP",
+            "address": "0x36d07d2C061a018A0ED409FBe7A185Bd90413F58",
+            "decimals": 8
         }
     ]
 }
