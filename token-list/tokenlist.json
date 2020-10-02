@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:27:49.794Z",
+    "timestamp": "2020-10-02T17:30:25.226Z",
     "version": {
         "major": 1,
-        "minor": 4109,
+        "minor": 4110,
         "patch": 0
     },
     "keywords": [
@@ -27465,6 +27465,13 @@
             "name": "The Whale of Blockchain",
             "symbol": "TWOB",
             "address": "0x975CE667d59318e13Da8acD3D2f534BE5a64087B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KLM",
+            "symbol": "KLM",
+            "address": "0x3Bf9C258b9A3cD734B67f31D5b847da777407545",
             "decimals": 18
         }
     ]
