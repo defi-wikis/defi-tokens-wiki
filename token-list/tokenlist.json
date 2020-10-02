@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:27:11.592Z",
+    "timestamp": "2020-10-02T13:37:25.411Z",
     "version": {
         "major": 1,
-        "minor": 4057,
+        "minor": 4058,
         "patch": 0
     },
     "keywords": [
@@ -27107,6 +27107,13 @@
             "name": "yCOREv2 finance",
             "symbol": "YCORE",
             "address": "0xc85503dea249014c54FC7D547603Bda2f2F3BEBc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Youearn.Finance",
+            "symbol": "YEF",
+            "address": "0x5B5cFdEba75B9B1b4b78b41B4F6317c9188c2007",
             "decimals": 18
         }
     ]
