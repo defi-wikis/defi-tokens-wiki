@@ -1,7 +1,18 @@
 {
-    "name": "BOY Cassette Tape b",
-    "symbol": "TAPE",
-    "address": "0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c",
-    "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+  "name": "BOY Cassette Tape b",
+  "symbol": "TAPE",
+  "address": "0x9Bfb088C9f311415E3F9B507DA73081c52a49d8c",
+  "decimals": 18,
+  "dharmaVerificationStatus": "VERIFIED",
+  "description": "A limited-edition cassette tape of RAC’s album BOY. Like the BOY album, This cassette tape is a celebration of RAC’s childhood and creative journey.",
+  "socialLinks": [
+    {
+      "type": "Website",
+      "value": "https://ourzora.com/rac/tape"
+    }
+  ],
+  "tags": [
+    "zora",
+    "creator"
+  ]
 }
