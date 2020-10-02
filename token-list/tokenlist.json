@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:52:29.852Z",
+    "timestamp": "2020-10-02T15:00:16.615Z",
     "version": {
         "major": 1,
-        "minor": 4078,
+        "minor": 4079,
         "patch": 0
     },
     "keywords": [
@@ -27249,6 +27249,13 @@
             "symbol": "MILANO",
             "address": "0x0af5ae6b1ADFd5bb2bf498046D8f3A188609064E",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "CJ.finance",
+            "symbol": "CJF",
+            "address": "0x90ba65ABee21512De8ACc7A60192333836Bc6a33",
+            "decimals": 18
         }
     ]
 }
