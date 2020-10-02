@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:05:20.238Z",
+    "timestamp": "2020-10-02T13:07:45.143Z",
     "version": {
         "major": 1,
-        "minor": 4050,
+        "minor": 4051,
         "patch": 0
     },
     "keywords": [
@@ -27058,6 +27058,13 @@
             "name": "t.me/boogajoey",
             "symbol": "BOOGA",
             "address": "0x5A46516D0E9242Fa7750140f5b937A17f9A0D1B3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "P2PCASH",
+            "symbol": "P2PCASH",
+            "address": "0x51363622628666B11C197b3450a23fe7C37a175D",
             "decimals": 18
         }
     ]
