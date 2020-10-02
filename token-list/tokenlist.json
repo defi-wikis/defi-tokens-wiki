@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:21:59.399Z",
+    "timestamp": "2020-10-02T13:24:55.871Z",
     "version": {
         "major": 1,
-        "minor": 4054,
+        "minor": 4055,
         "patch": 0
     },
     "keywords": [
@@ -27086,6 +27086,13 @@
             "name": "Neek.Finance",
             "symbol": "NEEK",
             "address": "0x7De54fb5a009EEb58839C723a7E7107Fd0431788",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Siro Protocol",
+            "symbol": "SIRO",
+            "address": "0x6009c6e8CcaFF4a4d97d6ddaa7982d1c1c4eFBdB",
             "decimals": 18
         }
     ]
