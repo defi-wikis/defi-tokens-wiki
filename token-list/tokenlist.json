@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:10:02.951Z",
+    "timestamp": "2020-10-02T18:11:01.942Z",
     "version": {
         "major": 1,
-        "minor": 4120,
+        "minor": 4121,
         "patch": 0
     },
     "keywords": [
@@ -27542,6 +27542,13 @@
             "name": "YUGE.WORKS",
             "symbol": "$YUGE",
             "address": "0xb177Bd7919c399dDe531744a20d5078baA1eCff2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "plouto.finance",
+            "symbol": "PLU",
+            "address": "0x2a0Cf74966A4aa8Bcd11d21FD29BA74fC9c17096",
             "decimals": 18
         }
     ]
