@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:21:10.736Z",
+    "timestamp": "2020-10-02T16:28:35.111Z",
     "version": {
         "major": 1,
-        "minor": 4100,
+        "minor": 4101,
         "patch": 0
     },
     "keywords": [
@@ -27402,6 +27402,13 @@
             "name": "TestCoin5",
             "symbol": "TEST5",
             "address": "0xb2F2C705aAa54A52037AC0264B4811c20B48FA51",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crypto Millions Lotto @ CMLDefi.com",
+            "symbol": "CML",
+            "address": "0xAD59f05f600eC44BED8952986219246E571472C5",
             "decimals": 18
         }
     ]
