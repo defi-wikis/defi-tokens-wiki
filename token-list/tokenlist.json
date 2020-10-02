@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:03:49.694Z",
+    "timestamp": "2020-10-02T15:06:07.266Z",
     "version": {
         "major": 1,
-        "minor": 4081,
+        "minor": 4082,
         "patch": 0
     },
     "keywords": [
@@ -27269,6 +27269,13 @@
             "name": "Mulan.Finance",
             "symbol": "$MULAN",
             "address": "0x7dFB72A2AAd08C937706f21421B15bFC34Cba9ca",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Darico Ecosystem Coin",
+            "symbol": "DEC",
+            "address": "0x89c6c856a6db3e46107163D0cDa7A7FF211BD655",
             "decimals": 18
         }
     ]
