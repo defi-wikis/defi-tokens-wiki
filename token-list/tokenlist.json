@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:37:25.411Z",
+    "timestamp": "2020-10-02T13:38:30.175Z",
     "version": {
         "major": 1,
-        "minor": 4058,
+        "minor": 4059,
         "patch": 0
     },
     "keywords": [
@@ -27114,6 +27114,13 @@
             "name": "Youearn.Finance",
             "symbol": "YEF",
             "address": "0x5B5cFdEba75B9B1b4b78b41B4F6317c9188c2007",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RocketNUT",
+            "symbol": "RNUTV2",
+            "address": "0x78A268464a5F705791deFac3690D8525F4B212a3",
             "decimals": 18
         }
     ]
