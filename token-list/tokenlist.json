@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:38:30.175Z",
+    "timestamp": "2020-10-02T13:41:10.020Z",
     "version": {
         "major": 1,
-        "minor": 4059,
+        "minor": 4060,
         "patch": 0
     },
     "keywords": [
@@ -27121,6 +27121,13 @@
             "name": "RocketNUT",
             "symbol": "RNUTV2",
             "address": "0x78A268464a5F705791deFac3690D8525F4B212a3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dungeon Knight",
+            "symbol": "KNIGHT",
+            "address": "0xf168FAdC164949282FDe1a8cE036a212f4312536",
             "decimals": 18
         }
     ]
