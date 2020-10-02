@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T00:35:54.858Z",
+    "timestamp": "2020-10-02T00:39:47.610Z",
     "version": {
         "major": 1,
-        "minor": 3985,
+        "minor": 3986,
         "patch": 0
     },
     "keywords": [
@@ -26603,6 +26603,13 @@
             "name": "Core Finance V2",
             "symbol": "CORE2",
             "address": "0x0C2a44e9d4909ac8D066690f434689cc4F4ba5C5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "APY.Finance",
+            "symbol": "APY",
+            "address": "0x8193B13af5Dfc37c904e8A06b71B3D821aC60498",
             "decimals": 18
         }
     ]
