@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:49:34.552Z",
+    "timestamp": "2020-10-02T15:49:40.092Z",
     "version": {
         "major": 1,
-        "minor": 4091,
+        "minor": 4092,
         "patch": 0
     },
     "keywords": [
@@ -27339,6 +27339,13 @@
             "name": "EarnToken",
             "symbol": "EARN",
             "address": "0x9470a37D562d6A4052f1c633848C2648460D688e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETradingStakeToken",
+            "symbol": "ETRD",
+            "address": "0xe1f238374943bB9A2d254dfB713B3B2fF8efdb87",
             "decimals": 18
         }
     ]
