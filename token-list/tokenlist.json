@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:13:49.912Z",
+    "timestamp": "2020-10-02T19:20:25.341Z",
     "version": {
         "major": 1,
-        "minor": 4137,
+        "minor": 4138,
         "patch": 0
     },
     "keywords": [
@@ -27661,6 +27661,13 @@
             "name": "ADMA.finance",
             "symbol": "ADMA",
             "address": "0x581a762cA8432268040f8288bc6aBB9D30687087",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GoldMining Token",
+            "symbol": "GMT",
+            "address": "0xF5f8472045c9177B545Ea05fdA73848291a3f8B8",
             "decimals": 18
         }
     ]
