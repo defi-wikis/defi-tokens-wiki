@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-01T23:58:50.176Z",
+    "timestamp": "2020-10-02T00:09:24.855Z",
     "version": {
         "major": 1,
-        "minor": 3982,
+        "minor": 3983,
         "patch": 0
     },
     "keywords": [
@@ -26582,6 +26582,13 @@
             "name": "APY.Finance",
             "symbol": "APY",
             "address": "0xB3d0335FF65b6Ce11287FbbF17ecd8c5b30fF54d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "THESHITCOINFRENZY",
+            "symbol": "TSF",
+            "address": "0x721A0Ca9132e6351722f2A85D9769E793cB29088",
             "decimals": 18
         }
     ]
