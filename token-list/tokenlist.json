@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:08:39.647Z",
+    "timestamp": "2020-10-02T15:10:40.746Z",
     "version": {
         "major": 1,
-        "minor": 4083,
+        "minor": 4084,
         "patch": 0
     },
     "keywords": [
@@ -27283,6 +27283,13 @@
             "name": "RadixDLT.com",
             "symbol": "RADIX",
             "address": "0x4B7266Fa8fFDa838C64c4B93A7092Afe4bd68Ed4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETHEREUM FINANCE",
+            "symbol": "ETF",
+            "address": "0x40BBd0257Dc059c19bE4b9685c5106cF9E017993",
             "decimals": 18
         }
     ]
