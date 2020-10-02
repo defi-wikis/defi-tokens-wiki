@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T19:31:44.914Z",
+    "timestamp": "2020-10-02T19:37:35.786Z",
     "version": {
         "major": 1,
-        "minor": 4139,
+        "minor": 4140,
         "patch": 0
     },
     "keywords": [
@@ -27676,6 +27676,13 @@
             "symbol": "BSWAP",
             "address": "0x36d07d2C061a018A0ED409FBe7A185Bd90413F58",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "JYJC.finance",
+            "symbol": "JYJC",
+            "address": "0x7E364d7F81431e52f4dB44Ae0D7CE2542a8f18Ce",
+            "decimals": 18
         }
     ]
 }
