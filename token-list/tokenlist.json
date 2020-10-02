@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:55:54.487Z",
+    "timestamp": "2020-10-02T17:58:49.855Z",
     "version": {
         "major": 1,
-        "minor": 4116,
+        "minor": 4117,
         "patch": 0
     },
     "keywords": [
@@ -27514,6 +27514,13 @@
             "name": "LinkChain",
             "symbol": "LINKC",
             "address": "0x8692438a5Fa5E00E03B36636c38F5ED83b6DC709",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LLE",
+            "symbol": "LLE",
+            "address": "0x94a31F4D52a8f5f3D01F3841D84EdDc347C98C8F",
             "decimals": 18
         }
     ]
