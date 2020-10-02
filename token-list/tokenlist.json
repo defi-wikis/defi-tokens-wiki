@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:57:14.808Z",
+    "timestamp": "2020-10-02T03:03:49.887Z",
     "version": {
         "major": 1,
-        "minor": 4004,
+        "minor": 4005,
         "patch": 0
     },
     "keywords": [
@@ -26736,6 +26736,13 @@
             "name": "Game Coin",
             "symbol": "GAME",
             "address": "0xb528576aAfCa1742f08a49b1C78AD356e94ad1cB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfi.mobi",
+            "symbol": "YFIM",
+            "address": "0x270F8c4106FC02f8328b272CcF10BCA269404493",
             "decimals": 18
         }
     ]
