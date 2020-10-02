@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:22:08.366Z",
+    "timestamp": "2020-10-02T17:22:45.014Z",
     "version": {
         "major": 1,
-        "minor": 4107,
+        "minor": 4108,
         "patch": 0
     },
     "keywords": [
@@ -27451,6 +27451,13 @@
             "name": "Arweave",
             "symbol": "AR",
             "address": "0x0F04676403A51412B53FD264fF48a3F70A348391",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BMT.finance",
+            "symbol": "BMT",
+            "address": "0x37c56b0CdF6EF8f997cA56057DaB0a56228d3fc2",
             "decimals": 18
         }
     ]
