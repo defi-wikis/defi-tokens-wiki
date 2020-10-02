@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T11:46:49.571Z",
+    "timestamp": "2020-10-02T12:24:54.601Z",
     "version": {
         "major": 1,
-        "minor": 4047,
+        "minor": 4048,
         "patch": 0
     },
     "keywords": [
@@ -27037,6 +27037,13 @@
             "name": "Rockstar Games",
             "symbol": "RCC",
             "address": "0xA1296F845D9822a43117F6aB5Cb81C439b753ebd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dont Buy it",
+            "symbol": "DBI",
+            "address": "0x2C10736706D42b95416c598aAB2DD8bCEEaf8D09",
             "decimals": 18
         }
     ]
