@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:29:35.195Z",
+    "timestamp": "2020-10-02T20:36:10.856Z",
     "version": {
         "major": 1,
-        "minor": 4152,
+        "minor": 4153,
         "patch": 0
     },
     "keywords": [
@@ -27766,6 +27766,13 @@
             "name": "ZDSJ.finance",
             "symbol": "ZDSJ",
             "address": "0x236DeA78Cd38E3BBaFbB04D3aa915B041380Bd06",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STONKS",
+            "symbol": "STONK",
+            "address": "0x3e738904Cf94bb4F16404Ba38A6b48e544406337",
             "decimals": 18
         }
     ]
