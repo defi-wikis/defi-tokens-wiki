@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T07:35:20.245Z",
+    "timestamp": "2020-10-02T07:46:59.664Z",
     "version": {
         "major": 1,
-        "minor": 4019,
+        "minor": 4020,
         "patch": 0
     },
     "keywords": [
@@ -26841,6 +26841,13 @@
             "name": "Trumph Got COVID-19",
             "symbol": "COVID-19",
             "address": "0x56a08dfFf9274cb89Cc854d4b1ca24Dc4F21aB0d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QUICKflip.app",
+            "symbol": "QUICK",
+            "address": "0x68A0c321A982a99B9C4317493b2650C361d0dC1D",
             "decimals": 18
         }
     ]
