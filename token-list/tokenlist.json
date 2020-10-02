@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T08:41:06.794Z",
+    "timestamp": "2020-10-02T08:46:49.928Z",
     "version": {
         "major": 1,
-        "minor": 4022,
+        "minor": 4023,
         "patch": 0
     },
     "keywords": [
@@ -26862,6 +26862,13 @@
             "name": "ETHYFI",
             "symbol": "EFI",
             "address": "0x1CfF5c211F0F129B6ECDC6aa95308b6b6b20F093",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rira Protocol",
+            "symbol": "RIRA",
+            "address": "0x7050E3a18cd11Ca2bD3AE66527B0218271f4Dc93",
             "decimals": 18
         }
     ]
