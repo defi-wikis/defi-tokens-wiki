@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:25:51.035Z",
+    "timestamp": "2020-10-02T18:29:36.284Z",
     "version": {
         "major": 1,
-        "minor": 4126,
+        "minor": 4127,
         "patch": 0
     },
     "keywords": [
@@ -27584,6 +27584,13 @@
             "name": "APY.Finance",
             "symbol": "APY",
             "address": "0x289C46317a7D69749A88Fa3F5595E0A85ad68Fe5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fompound",
+            "symbol": "FOMP",
+            "address": "0xa91D18E93cadB5E61204b98266046d3e7db2E8a2",
             "decimals": 18
         }
     ]
