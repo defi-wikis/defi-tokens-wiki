@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T13:26:10.725Z",
+    "timestamp": "2020-10-02T13:27:11.592Z",
     "version": {
         "major": 1,
-        "minor": 4056,
+        "minor": 4057,
         "patch": 0
     },
     "keywords": [
@@ -27100,6 +27100,13 @@
             "name": "$HONK",
             "symbol": "$HONK",
             "address": "0x17e97A2921b3eda3927b29749f44b2bfeEeEbFF3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCOREv2 finance",
+            "symbol": "YCORE",
+            "address": "0xc85503dea249014c54FC7D547603Bda2f2F3BEBc",
             "decimals": 18
         }
     ]
