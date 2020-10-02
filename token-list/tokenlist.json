@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T23:17:06.154Z",
+    "timestamp": "2020-10-02T23:23:54.953Z",
     "version": {
         "major": 1,
-        "minor": 4180,
+        "minor": 4181,
         "patch": 0
     },
     "keywords": [
@@ -27963,6 +27963,13 @@
             "symbol": "FCBTC",
             "address": "0x4c6e796Bbfe5EB37F9E3E0f66C009C8Bf2A5f428",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "#halfrekt",
+            "symbol": "NME",
+            "address": "0xAA51a8AEB12e8f1bAbd3bEA36679261CE9F6cAA9",
+            "decimals": 18
         }
     ]
 }
