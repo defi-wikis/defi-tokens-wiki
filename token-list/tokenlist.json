@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:36:10.856Z",
+    "timestamp": "2020-10-02T20:39:20.005Z",
     "version": {
         "major": 1,
-        "minor": 4153,
+        "minor": 4154,
         "patch": 0
     },
     "keywords": [
@@ -27773,6 +27773,13 @@
             "name": "STONKS",
             "symbol": "STONK",
             "address": "0x3e738904Cf94bb4F16404Ba38A6b48e544406337",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0xaCd17A6736388b59BddB493F3695fA2a79ddAA7e",
             "decimals": 18
         }
     ]
