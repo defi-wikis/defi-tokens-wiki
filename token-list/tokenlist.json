@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T18:15:15.882Z",
+    "timestamp": "2020-10-02T18:19:44.789Z",
     "version": {
         "major": 1,
-        "minor": 4124,
+        "minor": 4125,
         "patch": 0
     },
     "keywords": [
@@ -27570,6 +27570,13 @@
             "name": "WarLordToken",
             "symbol": "WLT",
             "address": "0xB7BC7B0A32455F7e7A924f832ca4F0a0ac3b6B88",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xNFT",
+            "symbol": "xNFT",
+            "address": "0x5fA0D528fe26eB079419aDAC550b0492859f2053",
             "decimals": 18
         }
     ]
