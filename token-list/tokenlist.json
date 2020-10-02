@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T21:07:10.393Z",
+    "timestamp": "2020-10-02T21:15:20.104Z",
     "version": {
         "major": 1,
-        "minor": 4161,
+        "minor": 4162,
         "patch": 0
     },
     "keywords": [
@@ -27829,6 +27829,13 @@
             "name": "COREII",
             "symbol": "COREII",
             "address": "0xd3b604Ce88D9D9973cf1d608E6aD1e69Dd74EaAF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Frogger",
+            "symbol": "FROG",
+            "address": "0x4FD5E5ea2fed1462db048feEc68a8D049030F651",
             "decimals": 18
         }
     ]
