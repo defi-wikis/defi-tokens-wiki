@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T00:12:20.282Z",
+    "timestamp": "2020-10-02T00:35:54.858Z",
     "version": {
         "major": 1,
-        "minor": 3984,
+        "minor": 3985,
         "patch": 0
     },
     "keywords": [
@@ -26596,6 +26596,13 @@
             "name": "cVault.finance",
             "symbol": "CORE",
             "address": "0x806D8A19F19D953756A3CFFAbc9FA1cA4d7dB4a3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance V2",
+            "symbol": "CORE2",
+            "address": "0x0C2a44e9d4909ac8D066690f434689cc4F4ba5C5",
             "decimals": 18
         }
     ]
