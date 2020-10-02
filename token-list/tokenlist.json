@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:40:15.293Z",
+    "timestamp": "2020-10-02T15:47:14.451Z",
     "version": {
         "major": 1,
-        "minor": 4089,
+        "minor": 4090,
         "patch": 0
     },
     "keywords": [
@@ -27325,6 +27325,13 @@
             "name": "MGB.finance",
             "symbol": "MGB",
             "address": "0x724F2322a889A3Aaff4AfAAA50c478E7bDd89A71",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dCOCK",
+            "symbol": "dCOCK",
+            "address": "0x889874a602b092AD52ae54F47d7664d5c9F7425c",
             "decimals": 18
         }
     ]
