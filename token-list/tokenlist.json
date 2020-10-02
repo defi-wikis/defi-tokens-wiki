@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:49:49.748Z",
+    "timestamp": "2020-10-02T02:54:25.181Z",
     "version": {
         "major": 1,
-        "minor": 4002,
+        "minor": 4003,
         "patch": 0
     },
     "keywords": [
@@ -26722,6 +26722,13 @@
             "name": "yfi.mobi",
             "symbol": "YFIM",
             "address": "0x3F53A2F6c5A0C34C70856B529D0a0A10cd6bF407",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Toast.Finance",
+            "symbol": "FLAT",
+            "address": "0x5eF21554B474Ea98BAE5D4FAA5076d9d3f2a2120",
             "decimals": 18
         }
     ]
