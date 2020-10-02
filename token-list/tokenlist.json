@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T03:48:50.315Z",
+    "timestamp": "2020-10-02T03:59:09.674Z",
     "version": {
         "major": 1,
-        "minor": 4008,
+        "minor": 4009,
         "patch": 0
     },
     "keywords": [
@@ -26765,6 +26765,13 @@
             "symbol": "BETTER",
             "address": "0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Harvest",
+            "symbol": "HARD",
+            "address": "0x0c0593A919588FaEc631feD5003F0369994e7797",
+            "decimals": 18
         }
     ]
 }
