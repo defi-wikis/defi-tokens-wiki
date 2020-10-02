@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T17:59:10.167Z",
+    "timestamp": "2020-10-02T17:59:59.612Z",
     "version": {
         "major": 1,
-        "minor": 4118,
+        "minor": 4119,
         "patch": 0
     },
     "keywords": [
@@ -27528,6 +27528,13 @@
             "name": "Manta",
             "symbol": "$MANTA",
             "address": "0xB157dF9C202CC64B1dC70EB9e4E979D5aF4D54aA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HHWDL.finance",
+            "symbol": "HHWDL",
+            "address": "0xE533F4626fa2E6cB4D7bdE05921bEeBfDa4479DB",
             "decimals": 18
         }
     ]
