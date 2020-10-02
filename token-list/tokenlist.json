@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:20:56.022Z",
+    "timestamp": "2020-10-02T15:32:15.972Z",
     "version": {
         "major": 1,
-        "minor": 4086,
+        "minor": 4087,
         "patch": 0
     },
     "keywords": [
@@ -27304,6 +27304,13 @@
             "name": "CNM.finance",
             "symbol": "CNM",
             "address": "0x496c2E8c65f67C241452d396424Cd05A43f4a03B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sevenfinance",
+            "symbol": "SEVEN",
+            "address": "0xaaD76a037173bbc7D8B68C39081923d25a7C7BA0",
             "decimals": 18
         }
     ]
