@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:07:02.145Z",
+    "timestamp": "2020-10-02T14:25:24.794Z",
     "version": {
         "major": 1,
-        "minor": 4071,
+        "minor": 4072,
         "patch": 0
     },
     "keywords": [
@@ -27200,6 +27200,13 @@
             "symbol": "NSBT",
             "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "LuaSwap",
+            "symbol": "LUA",
+            "address": "0x85A79A1a7107B8F52211Aae5e35191817073C8BE",
+            "decimals": 18
         }
     ]
 }
