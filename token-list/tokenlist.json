@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T01:55:20.695Z",
+    "timestamp": "2020-10-02T01:58:06.452Z",
     "version": {
         "major": 1,
-        "minor": 3993,
+        "minor": 3994,
         "patch": 0
     },
     "keywords": [
@@ -26660,6 +26660,13 @@
             "symbol": "PBC",
             "address": "0xC08713c04760C4931Dec33805962B96Fc48A2371",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "YeaBit.Finance",
+            "symbol": "YEA",
+            "address": "0x23Dd4a83D118F208FDC623540ec3DC0C6e2d109D",
+            "decimals": 18
         }
     ]
 }
