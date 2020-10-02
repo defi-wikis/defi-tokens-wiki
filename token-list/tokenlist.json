@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T22:44:25.635Z",
+    "timestamp": "2020-10-02T22:46:34.689Z",
     "version": {
         "major": 1,
-        "minor": 4174,
+        "minor": 4175,
         "patch": 0
     },
     "keywords": [
@@ -27920,6 +27920,13 @@
             "name": "MasterFarmer Token",
             "symbol": "MFT",
             "address": "0x7DCfD702ea4f4760BcC98383CAF50011f38afcE6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core 2.0",
+            "symbol": "CORE20",
+            "address": "0x0393774a6016069c2884b4E592b0104D3a185BA7",
             "decimals": 18
         }
     ]
