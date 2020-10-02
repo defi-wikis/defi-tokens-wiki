@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T16:09:35.229Z",
+    "timestamp": "2020-10-02T16:21:10.736Z",
     "version": {
         "major": 1,
-        "minor": 4099,
+        "minor": 4100,
         "patch": 0
     },
     "keywords": [
@@ -27395,6 +27395,13 @@
             "name": "ETrading ENFT",
             "symbol": "ENFT",
             "address": "0x1DAAa369dC59Fb021C147C2A191e6d180e981cDF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TestCoin5",
+            "symbol": "TEST5",
+            "address": "0xb2F2C705aAa54A52037AC0264B4811c20B48FA51",
             "decimals": 18
         }
     ]
