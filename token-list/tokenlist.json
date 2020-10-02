@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T10:01:10.108Z",
+    "timestamp": "2020-10-02T10:02:49.558Z",
     "version": {
         "major": 1,
-        "minor": 4033,
+        "minor": 4034,
         "patch": 0
     },
     "keywords": [
@@ -26939,6 +26939,13 @@
             "name": "xyearn.finance",
             "symbol": "XYFI",
             "address": "0x3844c64D523eB7db3DD03F504dACCDE79EE26Df8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn finance fair value",
+            "symbol": "YFFP",
+            "address": "0x1Baa767c18eb9397AAa0D51F754e2BE8427a1e3f",
             "decimals": 18
         }
     ]
