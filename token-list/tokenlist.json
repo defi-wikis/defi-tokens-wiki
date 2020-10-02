@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:56:49.741Z",
+    "timestamp": "2020-10-02T15:59:49.557Z",
     "version": {
         "major": 1,
-        "minor": 4093,
+        "minor": 4094,
         "patch": 0
     },
     "keywords": [
@@ -27353,6 +27353,13 @@
             "name": "URSA Governance Token",
             "symbol": "URSA",
             "address": "0x69d6Cfa7DB3EBae9F31C7D444a2dab8283aab5d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DronX",
+            "symbol": "DRX",
+            "address": "0xC9BEF8E71C23C40D31a3f81f991C80388530bBDB",
             "decimals": 18
         }
     ]
