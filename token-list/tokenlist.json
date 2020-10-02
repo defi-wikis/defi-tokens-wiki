@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T23:23:54.953Z",
+    "timestamp": "2020-10-02T23:25:59.736Z",
     "version": {
         "major": 1,
-        "minor": 4181,
+        "minor": 4182,
         "patch": 0
     },
     "keywords": [
@@ -27969,6 +27969,13 @@
             "name": "#halfrekt",
             "symbol": "NME",
             "address": "0xAA51a8AEB12e8f1bAbd3bEA36679261CE9F6cAA9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yolk Finance",
+            "symbol": "YOLK",
+            "address": "0x421Dbf2b8FA0Ca1dc67dF5F4A2B15aF0C2fBAB51",
             "decimals": 18
         }
     ]
