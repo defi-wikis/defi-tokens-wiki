@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:49:39.593Z",
+    "timestamp": "2020-10-02T02:49:44.431Z",
     "version": {
         "major": 1,
-        "minor": 4000,
+        "minor": 4001,
         "patch": 0
     },
     "keywords": [
@@ -26708,6 +26708,13 @@
             "name": "reef.finance",
             "symbol": "reef",
             "address": "0x1524F4eB46eB38aF20212B1ac89Ab4Cd52b4317f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "P2PLoan.Finance",
+            "symbol": "P2PL",
+            "address": "0xc897Db1eF8257Aa0FF4746326577B66654E859cf",
             "decimals": 18
         }
     ]
