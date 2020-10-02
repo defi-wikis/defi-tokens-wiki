@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:40:59.755Z",
+    "timestamp": "2020-10-02T02:49:39.593Z",
     "version": {
         "major": 1,
-        "minor": 3999,
+        "minor": 4000,
         "patch": 0
     },
     "keywords": [
@@ -26701,6 +26701,13 @@
             "name": "Good Luck Ypken",
             "symbol": "GLY",
             "address": "0x05c5D655FC301F906bb4e316C8Fe5C39e32bA495",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "reef.finance",
+            "symbol": "reef",
+            "address": "0x1524F4eB46eB38aF20212B1ac89Ab4Cd52b4317f",
             "decimals": 18
         }
     ]
