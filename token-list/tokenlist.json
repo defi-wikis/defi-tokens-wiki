@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T23:03:29.525Z",
+    "timestamp": "2020-10-02T23:06:30.225Z",
     "version": {
         "major": 1,
-        "minor": 4177,
+        "minor": 4178,
         "patch": 0
     },
     "keywords": [
@@ -27941,6 +27941,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x24D8a996D0CC31b015f6a4ffb462fAc2E03ffB23",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cherry Finance",
+            "symbol": "CHERRY",
+            "address": "0xB6699E285A4d011195A680236427C3d2B7a185DA",
             "decimals": 18
         }
     ]
