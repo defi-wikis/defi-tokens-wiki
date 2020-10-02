@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:05:07.162Z",
+    "timestamp": "2020-10-02T02:11:00.041Z",
     "version": {
         "major": 1,
-        "minor": 3995,
+        "minor": 3996,
         "patch": 0
     },
     "keywords": [
@@ -26673,6 +26673,13 @@
             "name": "orepool",
             "symbol": "ORE",
             "address": "0xae1232A953119844758f316019631ea0befE8770",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "P2PLOAN.FINANCE",
+            "symbol": "P2PL",
+            "address": "0x37f73FF156cFFDf28c4c3bcd3ceD4c579802A574",
             "decimals": 18
         }
     ]
