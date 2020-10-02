@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T05:18:07.892Z",
+    "timestamp": "2020-10-02T05:53:14.747Z",
     "version": {
         "major": 1,
-        "minor": 4013,
+        "minor": 4014,
         "patch": 0
     },
     "keywords": [
@@ -26800,6 +26800,13 @@
             "symbol": "YGY",
             "address": "0xf41755eeDD5eDf09B1c02E6d319Da92b3dd208AF",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcrypt",
+            "symbol": "BIT",
+            "address": "0x7B3D5a1dC55A4565623116B1e58c1Af1D500e6f3",
+            "decimals": 8
         }
     ]
 }
