@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:49:40.092Z",
+    "timestamp": "2020-10-02T15:56:49.741Z",
     "version": {
         "major": 1,
-        "minor": 4092,
+        "minor": 4093,
         "patch": 0
     },
     "keywords": [
@@ -27346,6 +27346,13 @@
             "name": "ETradingStakeToken",
             "symbol": "ETRD",
             "address": "0xe1f238374943bB9A2d254dfB713B3B2fF8efdb87",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "URSA Governance Token",
+            "symbol": "URSA",
+            "address": "0x69d6Cfa7DB3EBae9F31C7D444a2dab8283aab5d3",
             "decimals": 18
         }
     ]
