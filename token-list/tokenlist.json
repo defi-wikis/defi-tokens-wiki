@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T15:06:07.266Z",
+    "timestamp": "2020-10-02T15:08:39.647Z",
     "version": {
         "major": 1,
-        "minor": 4082,
+        "minor": 4083,
         "patch": 0
     },
     "keywords": [
@@ -27276,6 +27276,13 @@
             "name": "Darico Ecosystem Coin",
             "symbol": "DEC",
             "address": "0x89c6c856a6db3e46107163D0cDa7A7FF211BD655",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RadixDLT.com",
+            "symbol": "RADIX",
+            "address": "0x4B7266Fa8fFDa838C64c4B93A7092Afe4bd68Ed4",
             "decimals": 18
         }
     ]
