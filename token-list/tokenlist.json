@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T21:53:24.810Z",
+    "timestamp": "2020-10-02T21:53:30.454Z",
     "version": {
         "major": 1,
-        "minor": 4166,
+        "minor": 4167,
         "patch": 0
     },
     "keywords": [
@@ -27864,6 +27864,13 @@
             "name": "Euros",
             "symbol": "EUR",
             "address": "0x9F378BD16932CE3388CC237133fd7a3eA13F0C81",
+            "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Seigniorage Euro-Shares",
+            "symbol": "EUROSHARE",
+            "address": "0xB009F46793526fFf707BB994b8685fF08Ba34F5C",
             "decimals": 9
         }
     ]
