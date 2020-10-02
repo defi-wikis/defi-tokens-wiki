@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T22:46:34.689Z",
+    "timestamp": "2020-10-02T23:00:59.667Z",
     "version": {
         "major": 1,
-        "minor": 4175,
+        "minor": 4176,
         "patch": 0
     },
     "keywords": [
@@ -27927,6 +27927,13 @@
             "name": "Core 2.0",
             "symbol": "CORE20",
             "address": "0x0393774a6016069c2884b4E592b0104D3a185BA7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ymax.finance",
+            "symbol": "YMAX",
+            "address": "0xAbC51bEeC32433fe3bBdFc59efBbf2505fe405B8",
             "decimals": 18
         }
     ]
