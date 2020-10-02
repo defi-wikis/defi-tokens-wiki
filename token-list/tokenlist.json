@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T01:20:19.892Z",
+    "timestamp": "2020-10-02T01:25:44.626Z",
     "version": {
         "major": 1,
-        "minor": 3988,
+        "minor": 3989,
         "patch": 0
     },
     "keywords": [
@@ -26624,6 +26624,13 @@
             "name": "BOBO.finance Token",
             "symbol": "BOBO",
             "address": "0xEC8998B8A13C4BaaF759E8A35B9B2beEbC00820B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chainhammer",
+            "symbol": "CH",
+            "address": "0xbDdcbE78eEC5195728101415d183909113731379",
             "decimals": 18
         }
     ]
