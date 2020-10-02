@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T21:57:14.486Z",
+    "timestamp": "2020-10-02T22:03:44.780Z",
     "version": {
         "major": 1,
-        "minor": 4169,
+        "minor": 4170,
         "patch": 0
     },
     "keywords": [
@@ -27886,6 +27886,13 @@
             "symbol": "TEST2",
             "address": "0xCC0ebBD08A54cd7C7F4FF755c0F68b7F2e527617",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cryptonex (CNX) - Global Blockchain Acquiring",
+            "symbol": "CNX",
+            "address": "0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079",
+            "decimals": 8
         }
     ]
 }
