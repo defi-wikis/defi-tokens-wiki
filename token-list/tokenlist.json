@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T01:07:49.617Z",
+    "timestamp": "2020-10-02T01:20:19.892Z",
     "version": {
         "major": 1,
-        "minor": 3987,
+        "minor": 3988,
         "patch": 0
     },
     "keywords": [
@@ -26617,6 +26617,13 @@
             "name": "unidefi.finance",
             "symbol": "UNIDEFI",
             "address": "0x5ddB0c9D2B67B56330Ad9133109fb5f0C85c3E0F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BOBO.finance Token",
+            "symbol": "BOBO",
+            "address": "0xEC8998B8A13C4BaaF759E8A35B9B2beEbC00820B",
             "decimals": 18
         }
     ]
