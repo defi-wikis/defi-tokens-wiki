@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T14:03:34.637Z",
+    "timestamp": "2020-10-02T14:05:59.766Z",
     "version": {
         "major": 1,
-        "minor": 4067,
+        "minor": 4068,
         "patch": 0
     },
     "keywords": [
@@ -27171,6 +27171,13 @@
             "name": "YFMantra.Finance",
             "symbol": "YFMANTRA",
             "address": "0xCE9482A5E40c50f12FF0B0f331bbF65747544bEB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dsal",
+            "symbol": "DSAL",
+            "address": "0x5DF664c22cD9B95fC2687B2028180Bcd37dFA089",
             "decimals": 18
         }
     ]
