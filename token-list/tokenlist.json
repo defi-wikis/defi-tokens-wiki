@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T21:38:39.721Z",
+    "timestamp": "2020-10-02T21:41:02.170Z",
     "version": {
         "major": 1,
-        "minor": 4164,
+        "minor": 4165,
         "patch": 0
     },
     "keywords": [
@@ -27850,6 +27850,13 @@
             "name": "ztxsl.finance",
             "symbol": "ztxsl",
             "address": "0x444583640d2B4D430f567cbC224842CB3C26070a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pokemon Finance",
+            "symbol": "POK",
+            "address": "0x25f31E1BF972420c22810Dd5c02a0c5F711967Aa",
             "decimals": 18
         }
     ]
