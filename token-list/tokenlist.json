@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T20:19:57.373Z",
+    "timestamp": "2020-10-02T20:26:09.746Z",
     "version": {
         "major": 1,
-        "minor": 4150,
+        "minor": 4151,
         "patch": 0
     },
     "keywords": [
@@ -27752,6 +27752,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0xC7ba6cb64F452a579c11d9E744341122Fd93B4C5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KOLLECTOR",
+            "symbol": "KLTR",
+            "address": "0xa92c49C403386111C1629AEe00936eED2A9E74a6",
             "decimals": 18
         }
     ]
