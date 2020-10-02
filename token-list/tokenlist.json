@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T10:46:35.306Z",
+    "timestamp": "2020-10-02T11:25:02.439Z",
     "version": {
         "major": 1,
-        "minor": 4040,
+        "minor": 4041,
         "patch": 0
     },
     "keywords": [
@@ -26988,6 +26988,13 @@
             "name": "Yearn Bross Finance",
             "symbol": "YBF",
             "address": "0x1A90F0eBAe806470A427999E48C433571DA218fA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x5EC82B12b9cA8567757e9F0E9442D0134ce43Eb4",
             "decimals": 18
         }
     ]
