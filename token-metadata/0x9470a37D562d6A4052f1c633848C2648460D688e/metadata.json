@@ -1,0 +1,7 @@
+{
+    "name": "EarnToken",
+    "symbol": "EARN",
+    "address": "0x9470a37D562d6A4052f1c633848C2648460D688e",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
