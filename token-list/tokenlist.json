@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T02:40:10.871Z",
+    "timestamp": "2020-10-02T02:40:59.755Z",
     "version": {
         "major": 1,
-        "minor": 3998,
+        "minor": 3999,
         "patch": 0
     },
     "keywords": [
@@ -26694,6 +26694,13 @@
             "name": "Shark",
             "symbol": "$SHARK",
             "address": "0x94F23Ea57bEc257b317ca40e3e793c5aE4875983",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Good Luck Ypken",
+            "symbol": "GLY",
+            "address": "0x05c5D655FC301F906bb4e316C8Fe5C39e32bA495",
             "decimals": 18
         }
     ]
