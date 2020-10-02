@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T21:00:18.251Z",
+    "timestamp": "2020-10-02T21:04:50.336Z",
     "version": {
         "major": 1,
-        "minor": 4159,
+        "minor": 4160,
         "patch": 0
     },
     "keywords": [
@@ -27815,6 +27815,13 @@
             "name": "Core Rebase",
             "symbol": "CORER",
             "address": "0xF6AcD203e28Bf759bd06D9A67f0AC65B746eCf6E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0xb1A6876ad98FBA649a66BE916559039ABdD3DBbe",
             "decimals": 18
         }
     ]
