@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T09:24:44.427Z",
+    "timestamp": "2020-10-02T09:24:54.852Z",
     "version": {
         "major": 1,
-        "minor": 4028,
+        "minor": 4029,
         "patch": 0
     },
     "keywords": [
@@ -26904,6 +26904,13 @@
             "name": "Yearn Finance World Group",
             "symbol": "YFWG",
             "address": "0x1520fCcAa312cA037d55FfD6d78A1d7e17D1DB07",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance",
+            "symbol": "$CORE",
+            "address": "0xAB022252B028f7405ac0148bDD4Fbd42eF80ea52",
             "decimals": 18
         }
     ]
