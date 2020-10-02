@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T03:41:09.828Z",
+    "timestamp": "2020-10-02T03:48:50.315Z",
     "version": {
         "major": 1,
-        "minor": 4007,
+        "minor": 4008,
         "patch": 0
     },
     "keywords": [
@@ -26758,6 +26758,13 @@
             "symbol": "NOTE",
             "address": "0x2420bbD6eb9d5576B542DE5d5d3D66b1ce5A5c43",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Better Money",
+            "symbol": "BETTER",
+            "address": "0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A",
+            "decimals": 4
         }
     ]
 }
