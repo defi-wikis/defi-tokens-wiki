@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-02T11:42:25.494Z",
+    "timestamp": "2020-10-02T11:43:34.605Z",
     "version": {
         "major": 1,
-        "minor": 4045,
+        "minor": 4046,
         "patch": 0
     },
     "keywords": [
@@ -27023,6 +27023,13 @@
             "name": "Yearn Future Exchange Token",
             "symbol": "YF-XT",
             "address": "0x8a0037A475228189c78e17b3d5F5DBC8E435CD9A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EGG swaps",
+            "symbol": "EGG",
+            "address": "0x0F901ec81d977A9b12DB1FE43CD91f8bdf9C9eF8",
             "decimals": 18
         }
     ]
