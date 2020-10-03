@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T06:41:24.486Z",
+    "timestamp": "2020-10-03T07:02:02.376Z",
     "version": {
         "major": 1,
-        "minor": 4242,
+        "minor": 4243,
         "patch": 0
     },
     "keywords": [
@@ -28397,6 +28397,13 @@
             "symbol": "GSWAP",
             "address": "0xd807A761A2bB66a46d536116c317F4aACa10C145",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "YFMARS",
+            "symbol": "YFMR",
+            "address": "0xc9e61c89f6e5F39beB147fA5398570C679B01864",
+            "decimals": 18
         }
     ]
 }
