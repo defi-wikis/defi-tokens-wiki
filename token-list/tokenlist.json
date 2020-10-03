@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:39:07.524Z",
+    "timestamp": "2020-10-03T07:40:15.027Z",
     "version": {
         "major": 1,
-        "minor": 4248,
+        "minor": 4249,
         "patch": 0
     },
     "keywords": [
@@ -28438,6 +28438,13 @@
             "name": "Yearn Dao Finance",
             "symbol": "YDF",
             "address": "0xc600f28fAa378d1831Eb8B42353d48993055473f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$ENCORE",
+            "symbol": "$ENCORE",
+            "address": "0x8688ec367144a97A940683BeFD8063F8C227D83e",
             "decimals": 18
         }
     ]
