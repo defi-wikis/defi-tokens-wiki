@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:31:19.874Z",
+    "timestamp": "2020-10-03T22:31:34.547Z",
     "version": {
         "major": 1,
-        "minor": 4385,
+        "minor": 4386,
         "patch": 0
     },
     "keywords": [
@@ -29397,6 +29397,13 @@
             "name": "JCXL.Finance",
             "symbol": "JCXL",
             "address": "0x8812D153F6504A57fAD520e61d6543Dab8330280",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZAC.Finance",
+            "symbol": "ZAC",
+            "address": "0xC5ECCC5612176E6d717ebC394100BF0d7eaFbd38",
             "decimals": 18
         }
     ]
