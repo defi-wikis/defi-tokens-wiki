@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T13:02:02.118Z",
+    "timestamp": "2020-10-03T13:09:44.586Z",
     "version": {
         "major": 1,
-        "minor": 4307,
+        "minor": 4308,
         "patch": 0
     },
     "keywords": [
@@ -28851,6 +28851,13 @@
             "name": "piedao.org",
             "symbol": "DOUGH",
             "address": "0xF2987889469E121c9E2776B48b0C935c7e4ab88C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UnitedSolidToken",
+            "symbol": "UST",
+            "address": "0x80847d7F66316F7B18Cf9a0B1cb78487B172E588",
             "decimals": 18
         }
     ]
