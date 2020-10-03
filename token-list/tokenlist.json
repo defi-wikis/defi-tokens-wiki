@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:25:39.329Z",
+    "timestamp": "2020-10-03T09:33:29.638Z",
     "version": {
         "major": 1,
-        "minor": 4266,
+        "minor": 4267,
         "patch": 0
     },
     "keywords": [
@@ -28565,6 +28565,13 @@
             "symbol": "ETH9K",
             "address": "0x99b04dA910C7ab0FCbf9Ad28cEeB0e5238163EC5",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Nitro DAO",
+            "symbol": "NITRO",
+            "address": "0x2B7Ccf113F3fF69707D4dE1771a16a3057967186",
+            "decimals": 18
         }
     ]
 }
