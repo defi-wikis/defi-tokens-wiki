@@ -87,4 +87,13 @@
         "name": "Creator",
         "description": "Tokens by creators"
     }
+    "oracles": {
+        "name": "Oracles",
+        "description": null
+    }
+    "storage": {
+        "name": "Storage",
+        "description": null
+        "emoji": "💾"
+    }
 }
