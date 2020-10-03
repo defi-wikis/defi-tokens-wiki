@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:07:40.939Z",
+    "timestamp": "2020-10-03T20:12:09.861Z",
     "version": {
         "major": 1,
-        "minor": 4356,
+        "minor": 4357,
         "patch": 0
     },
     "keywords": [
@@ -29194,6 +29194,13 @@
             "name": "Geomart",
             "symbol": "GEOM",
             "address": "0x3f76352D0Fc7B584B258B5434000Ea68F2735a55",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGBSB.Finance",
+            "symbol": "YGBSB",
+            "address": "0xA7d79aAcE4E074C42F08de0f265Cb16136A8DaDA",
             "decimals": 18
         }
     ]
