@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T17:24:45.064Z",
+    "timestamp": "2020-10-03T17:45:31.464Z",
     "version": {
         "major": 1,
-        "minor": 4337,
+        "minor": 4338,
         "patch": 0
     },
     "keywords": [
@@ -29061,6 +29061,13 @@
             "name": "eMONERO",
             "symbol": "MNRO",
             "address": "0x086E7Db0d2ef979d57c92eF1450BE9539Aa082aa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jazz Pool",
+            "symbol": "JAZZ",
+            "address": "0xe56dB8382beb35Ce5928513f93194E59a6eeEd29",
             "decimals": 18
         }
     ]
