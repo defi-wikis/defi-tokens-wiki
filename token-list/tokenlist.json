@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T13:32:50.606Z",
+    "timestamp": "2020-10-03T14:03:55.025Z",
     "version": {
         "major": 1,
-        "minor": 4313,
+        "minor": 4314,
         "patch": 0
     },
     "keywords": [
@@ -28894,6 +28894,13 @@
             "symbol": "JIV",
             "address": "0xAA1A039450123f8d55eDEa10E48bc8D44c87edDe",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Nsure.network",
+            "symbol": "NSURE",
+            "address": "0x80476581d49De8dFd187d13656D29399353dE8b9",
+            "decimals": 18
         }
     ]
 }
