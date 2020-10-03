@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:31:25.310Z",
+    "timestamp": "2020-10-03T01:59:39.964Z",
     "version": {
         "major": 1,
-        "minor": 4200,
+        "minor": 4201,
         "patch": 0
     },
     "keywords": [
@@ -28102,6 +28102,13 @@
             "name": "Tater",
             "symbol": "$TATR",
             "address": "0x072A1BA9fa10DEA38ad2F4043A8385FBBf108cb2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "InvisionCapital.com",
+            "symbol": "INVCA",
+            "address": "0x8bE02aFB6C552D5805A27Da65Ca0106A2BeCeF46",
             "decimals": 18
         }
     ]
