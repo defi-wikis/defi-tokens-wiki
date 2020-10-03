@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T17:21:25.248Z",
+    "timestamp": "2020-10-03T17:23:02.002Z",
     "version": {
         "major": 1,
-        "minor": 4335,
+        "minor": 4336,
         "patch": 0
     },
     "keywords": [
@@ -29047,6 +29047,13 @@
             "name": "Core Finance 2.0",
             "symbol": "CF",
             "address": "0xdd31360133849F93D885a6406A2280Fb1690779b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "A.top",
+            "symbol": "AT",
+            "address": "0xEFED317f03C45b708a9f58d9d00d33f2A731478C",
             "decimals": 18
         }
     ]
