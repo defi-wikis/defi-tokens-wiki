@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:04:34.601Z",
+    "timestamp": "2020-10-03T07:16:54.657Z",
     "version": {
         "major": 1,
-        "minor": 4245,
+        "minor": 4246,
         "patch": 0
     },
     "keywords": [
@@ -28417,6 +28417,13 @@
             "name": "Yield Finance Value",
             "symbol": "YFIV",
             "address": "0xa0B6AdD2eb71b418a18A456CCD7788ccf0E1b970",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje",
+            "symbol": "IAC",
+            "address": "0x527Fae0ce95428a0330B459a6F9460649313F757",
             "decimals": 18
         }
     ]
