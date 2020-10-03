@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T06:18:06.933Z",
+    "timestamp": "2020-10-03T06:18:54.948Z",
     "version": {
         "major": 1,
-        "minor": 4237,
+        "minor": 4238,
         "patch": 0
     },
     "keywords": [
@@ -28361,6 +28361,13 @@
             "name": "bonded.finance",
             "symbol": "BOND",
             "address": "0x690894B6a2a30AAa061a55BB14157868498B0c25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iYearn Finance",
+            "symbol": "IYFI",
+            "address": "0x251B5C9eFf2d9F04DC525f601E13293bfE40E4f5",
             "decimals": 18
         }
     ]
