@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T00:10:59.936Z",
+    "timestamp": "2020-10-03T00:12:07.625Z",
     "version": {
         "major": 1,
-        "minor": 4186,
+        "minor": 4187,
         "patch": 0
     },
     "keywords": [
@@ -28004,6 +28004,13 @@
             "name": "PlasmaPay",
             "symbol": "PPAY",
             "address": "0x4326cDB743e01875C0017cc1B867fea42c034Ac9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GOKU",
+            "symbol": "GOKU",
+            "address": "0x4E44FE174e934ff78A77BEe3C2b752fD1BEeFDEf",
             "decimals": 18
         }
     ]
