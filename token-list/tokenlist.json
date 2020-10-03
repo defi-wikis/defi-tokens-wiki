@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:44:15.438Z",
+    "timestamp": "2020-10-03T20:51:45.298Z",
     "version": {
         "major": 1,
-        "minor": 4363,
+        "minor": 4364,
         "patch": 0
     },
     "keywords": [
@@ -29244,6 +29244,13 @@
             "symbol": "DYNXB",
             "address": "0xC75aA73510f6a849563b1025A39a5aFa48993E65",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "New Kangen Finance",
+            "symbol": "NEWG",
+            "address": "0x33c2f93783aACf2459DE750f6a90d756ae3C9041",
+            "decimals": 8
         }
     ]
 }
