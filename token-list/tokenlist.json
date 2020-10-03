@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T12:07:39.946Z",
+    "timestamp": "2020-10-03T12:10:39.725Z",
     "version": {
         "major": 1,
-        "minor": 4300,
+        "minor": 4301,
         "patch": 0
     },
     "keywords": [
@@ -28802,6 +28802,13 @@
             "name": "BXDXX.Finance",
             "symbol": "BXDXX",
             "address": "0x65210bc247263a5C8fEb6C3003E061397909D8A8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IceTea.Network",
+            "symbol": "ITN",
+            "address": "0xd7060e1d083f1886d365794Ae89c172E6cd0DC32",
             "decimals": 18
         }
     ]
