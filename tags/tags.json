@@ -93,7 +93,7 @@
     }
     "storage": {
         "name": "Storage",
-        "description": null
+        "description": null,
         "emoji": "💾"
     }
 }
