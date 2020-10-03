@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:57:44.650Z",
+    "timestamp": "2020-10-03T15:13:30.016Z",
     "version": {
         "major": 1,
-        "minor": 4322,
+        "minor": 4323,
         "patch": 0
     },
     "keywords": [
@@ -28956,6 +28956,13 @@
             "name": "OctoFi V2",
             "symbol": "OCTO2",
             "address": "0x40Fe45D6E41f97260B5021b7761aC167B1933438",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/charizardfarm",
+            "symbol": "TCRZF",
+            "address": "0xD743596254e384f13832C85995fc9e73f7e91f7a",
             "decimals": 18
         }
     ]
