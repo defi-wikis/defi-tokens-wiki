@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:22:54.804Z",
+    "timestamp": "2020-10-03T03:27:44.616Z",
     "version": {
         "major": 1,
-        "minor": 4217,
+        "minor": 4218,
         "patch": 0
     },
     "keywords": [
@@ -28221,6 +28221,13 @@
             "name": "vaultsfinance.com",
             "symbol": "DCORE",
             "address": "0xEF78C5A3dB21A1f4a181A2855FB92f97Fa65524a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mao.finance",
+            "symbol": "MAO",
+            "address": "0xBDDC40924ED5354eDCdb3b959FEFC26056879c52",
             "decimals": 18
         }
     ]
