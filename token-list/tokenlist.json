@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:13:10.343Z",
+    "timestamp": "2020-10-03T02:17:35.038Z",
     "version": {
         "major": 1,
-        "minor": 4203,
+        "minor": 4204,
         "patch": 0
     },
     "keywords": [
@@ -28124,6 +28124,13 @@
             "symbol": "FTW",
             "address": "0x80e0Ba37CdCe44C520C760997a6653A7e3Be59f7",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0x0bA4d8d080979C1742833D3398fA8230d9D6F146",
+            "decimals": 18
         }
     ]
 }
