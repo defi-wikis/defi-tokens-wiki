@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:40:10.818Z",
+    "timestamp": "2020-10-03T03:43:34.671Z",
     "version": {
         "major": 1,
-        "minor": 4220,
+        "minor": 4221,
         "patch": 0
     },
     "keywords": [
@@ -28242,6 +28242,13 @@
             "name": "sriracha.finance",
             "symbol": "srir",
             "address": "0x765256d90D42a38Adf9aEb16F5Bd1872F13e9633",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FuruCombo",
+            "symbol": "FURU",
+            "address": "0xa9198e12E5494ed6ac0CB7a5900E7eaf846E513E",
             "decimals": 18
         }
     ]
