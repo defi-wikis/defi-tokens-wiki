@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T08:05:54.348Z",
+    "timestamp": "2020-10-03T08:07:49.372Z",
     "version": {
         "major": 1,
-        "minor": 4255,
+        "minor": 4256,
         "patch": 0
     },
     "keywords": [
@@ -28487,6 +28487,13 @@
             "name": "corctoken",
             "symbol": "CORC",
             "address": "0x83B4BE12E93d7D53A92508Ac39149051e53D6190",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CAKE",
+            "symbol": "CAKE",
+            "address": "0x4C5aE012a5B1892607687A813109f0725B8354f7",
             "decimals": 18
         }
     ]
