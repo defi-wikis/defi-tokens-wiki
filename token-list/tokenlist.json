@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T05:51:50.305Z",
+    "timestamp": "2020-10-03T05:52:50.386Z",
     "version": {
         "major": 1,
-        "minor": 4233,
+        "minor": 4234,
         "patch": 0
     },
     "keywords": [
@@ -28333,6 +28333,13 @@
             "name": "Yearn CORE",
             "symbol": "yCORE",
             "address": "0x9c7f42Cd0CB03CDA6F1e0c6abdf1651a405f6F3B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "monkeyswap",
+            "symbol": "MONKE",
+            "address": "0x8912Db7d4C302C543EB8c0F97a90d705932E384B",
             "decimals": 18
         }
     ]
