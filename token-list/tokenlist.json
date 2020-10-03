@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T16:04:07.240Z",
+    "timestamp": "2020-10-03T16:09:07.282Z",
     "version": {
         "major": 1,
-        "minor": 4330,
+        "minor": 4331,
         "patch": 0
     },
     "keywords": [
@@ -29012,6 +29012,13 @@
             "name": "Arweave",
             "symbol": "AR",
             "address": "0x3C5F0E340A8015525cE4Ab7c13c83172eF720bA5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "United Yield Yearn Combinator",
+            "symbol": "yyYFI+yyYFII+yyYFV",
+            "address": "0xD8de5b10AA8Ddf5FDc5bb2e8c5B2E7D444681c3d",
             "decimals": 18
         }
     ]
