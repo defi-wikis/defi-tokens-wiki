@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:32:50.335Z",
+    "timestamp": "2020-10-03T20:41:20.008Z",
     "version": {
         "major": 1,
-        "minor": 4361,
+        "minor": 4362,
         "patch": 0
     },
     "keywords": [
@@ -29229,6 +29229,13 @@
             "name": "Yearn Stable Banking Investments",
             "symbol": "YSBI",
             "address": "0x358305d85389618c9b72F439c4879e4F8096cbD8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Watermelon Finance",
+            "symbol": "WF",
+            "address": "0x360140d87B98f4d431F0f2DaF0CD0161e49e21c8",
             "decimals": 18
         }
     ]
