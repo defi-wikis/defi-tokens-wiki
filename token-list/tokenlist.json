@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T08:38:14.533Z",
+    "timestamp": "2020-10-03T09:01:35.213Z",
     "version": {
         "major": 1,
-        "minor": 4260,
+        "minor": 4261,
         "patch": 0
     },
     "keywords": [
@@ -28522,6 +28522,13 @@
             "name": "Crystal.finance",
             "symbol": "CRT",
             "address": "0x7870941E8Cf707000D257E97FdD308c4548911C6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "www.yfacoin.com",
+            "symbol": "YFA",
+            "address": "0xdAa765F866ed245bbb86377e55E6338b61464950",
             "decimals": 18
         }
     ]
