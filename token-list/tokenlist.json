@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:58:20.226Z",
+    "timestamp": "2020-10-03T03:04:54.631Z",
     "version": {
         "major": 1,
-        "minor": 4212,
+        "minor": 4213,
         "patch": 0
     },
     "keywords": [
@@ -28186,6 +28186,13 @@
             "name": "YearnFinanceNetwork",
             "symbol": "YFN",
             "address": "0x35D47b34B5bceC7400aE30976F8476683ca4f8B3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFDot.Finance",
+            "symbol": "YFDOT",
+            "address": "0x834095476e9e8C21e13faC2fc4a649c20Ebec368",
             "decimals": 18
         }
     ]
