@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T16:19:15.308Z",
+    "timestamp": "2020-10-03T16:33:10.565Z",
     "version": {
         "major": 1,
-        "minor": 4332,
+        "minor": 4333,
         "patch": 0
     },
     "keywords": [
@@ -29026,6 +29026,13 @@
             "name": "bobo.finance",
             "symbol": "BOBO",
             "address": "0x2a8035a3A404803E47e4139940764D1CDBd990a7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0x1d3878ac859aEa6003Bbe56c2F4c585bC8F3549C",
             "decimals": 18
         }
     ]
