@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:00:56.024Z",
+    "timestamp": "2020-10-03T23:04:15.562Z",
     "version": {
         "major": 1,
-        "minor": 4391,
+        "minor": 4392,
         "patch": 0
     },
     "keywords": [
@@ -29439,6 +29439,13 @@
             "name": "KYKYD.Finance",
             "symbol": "KYKYD",
             "address": "0xae15EF17A54945C26edcb51C031493714cC5c61A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dapcredit",
+            "symbol": "Nkap",
+            "address": "0x26D19CDa7dF0885b7Ffd0e7834309113fF93F285",
             "decimals": 18
         }
     ]
