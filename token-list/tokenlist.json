@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:57:54.965Z",
+    "timestamp": "2020-10-03T21:03:46.286Z",
     "version": {
         "major": 1,
-        "minor": 4365,
+        "minor": 4366,
         "patch": 0
     },
     "keywords": [
@@ -29257,6 +29257,13 @@
             "name": "DGNX.Finance",
             "symbol": "DGNX",
             "address": "0xea6C7b24d1Cb28B05F1C68C5e54014FdD0c0CC10",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wojak.farm",
+            "symbol": "WOJAK",
+            "address": "0x4fd2EC9bDd398f8e522d76eA3704F8dBdc1f23f4",
             "decimals": 18
         }
     ]
