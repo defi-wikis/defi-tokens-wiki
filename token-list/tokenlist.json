@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:16:54.367Z",
+    "timestamp": "2020-10-03T11:21:45.005Z",
     "version": {
         "major": 1,
-        "minor": 4287,
+        "minor": 4288,
         "patch": 0
     },
     "keywords": [
@@ -28711,6 +28711,13 @@
             "name": "VIRtual United Serum",
             "symbol": "VIRUS",
             "address": "0x53E3B52AD9903f1F0B97B031603fF0b00c171446",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vaxx",
+            "symbol": "Vaxx",
+            "address": "0x282764371CDD6d6cad7e840f17013283878986b3",
             "decimals": 18
         }
     ]
