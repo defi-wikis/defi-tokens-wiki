@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:14:16.128Z",
+    "timestamp": "2020-10-03T21:17:29.917Z",
     "version": {
         "major": 1,
-        "minor": 4368,
+        "minor": 4369,
         "patch": 0
     },
     "keywords": [
@@ -29278,6 +29278,13 @@
             "name": "Ataxy Coin",
             "symbol": "AYC",
             "address": "0xb2840DfC364Fbe44Ce5022168521f9745285e5a3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fusion Token",
+            "symbol": "FST",
+            "address": "0x5be67Fe4c400bEE67E269f87941814EF68F482A0",
             "decimals": 18
         }
     ]
