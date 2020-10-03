@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:41:20.008Z",
+    "timestamp": "2020-10-03T20:44:15.438Z",
     "version": {
         "major": 1,
-        "minor": 4362,
+        "minor": 4363,
         "patch": 0
     },
     "keywords": [
@@ -29236,6 +29236,13 @@
             "name": "Watermelon Finance",
             "symbol": "WF",
             "address": "0x360140d87B98f4d431F0f2DaF0CD0161e49e21c8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DYNXB.Finance",
+            "symbol": "DYNXB",
+            "address": "0xC75aA73510f6a849563b1025A39a5aFa48993E65",
             "decimals": 18
         }
     ]
