@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:27:44.616Z",
+    "timestamp": "2020-10-03T03:33:54.386Z",
     "version": {
         "major": 1,
-        "minor": 4218,
+        "minor": 4219,
         "patch": 0
     },
     "keywords": [
@@ -28228,6 +28228,13 @@
             "name": "mao.finance",
             "symbol": "MAO",
             "address": "0xBDDC40924ED5354eDCdb3b959FEFC26056879c52",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tater (Official)",
+            "symbol": "$TATR",
+            "address": "0x4cba0676975A29462B46F0d07727ecC261c1e6E8",
             "decimals": 18
         }
     ]
