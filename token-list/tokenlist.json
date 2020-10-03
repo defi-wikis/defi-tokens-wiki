@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T17:23:02.002Z",
+    "timestamp": "2020-10-03T17:24:45.064Z",
     "version": {
         "major": 1,
-        "minor": 4336,
+        "minor": 4337,
         "patch": 0
     },
     "keywords": [
@@ -29054,6 +29054,13 @@
             "name": "A.top",
             "symbol": "AT",
             "address": "0xEFED317f03C45b708a9f58d9d00d33f2A731478C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eMONERO",
+            "symbol": "MNRO",
+            "address": "0x086E7Db0d2ef979d57c92eF1450BE9539Aa082aa",
             "decimals": 18
         }
     ]
