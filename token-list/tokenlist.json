@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T18:26:10.774Z",
+    "timestamp": "2020-10-03T18:26:30.970Z",
     "version": {
         "major": 1,
-        "minor": 4346,
+        "minor": 4347,
         "patch": 0
     },
     "keywords": [
@@ -29124,6 +29124,13 @@
             "name": "Noob Fairgame",
             "symbol": "NFair",
             "address": "0x65C767BA7c7fF02663EDF4F17Ee730dcE4F75a76",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Elronds @ Elrond.com",
+            "symbol": "ERD",
+            "address": "0x650B99C4499FF73AE46aE94d004DCf63849Cd34C",
             "decimals": 18
         }
     ]
