@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:25:02.019Z",
+    "timestamp": "2020-10-03T22:31:19.874Z",
     "version": {
         "major": 1,
-        "minor": 4384,
+        "minor": 4385,
         "patch": 0
     },
     "keywords": [
@@ -29390,6 +29390,13 @@
             "name": "YGY Finance (Official)",
             "symbol": "YGY",
             "address": "0xD5a844D9E975B286dfD084D98222AeECA6613144",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JCXL.Finance",
+            "symbol": "JCXL",
+            "address": "0x8812D153F6504A57fAD520e61d6543Dab8330280",
             "decimals": 18
         }
     ]
