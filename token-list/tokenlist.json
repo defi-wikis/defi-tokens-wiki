@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:45:25.889Z",
+    "timestamp": "2020-10-03T03:56:29.633Z",
     "version": {
         "major": 1,
-        "minor": 4222,
+        "minor": 4223,
         "patch": 0
     },
     "keywords": [
@@ -28257,6 +28257,13 @@
             "symbol": "HOO",
             "address": "0xaEA99e285A186F2836dd9E0fd28372822715a565",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Silicon",
+            "symbol": "SCN",
+            "address": "0xD4dF434344dc302D24e2dcBaBeBCaA707E68fE33",
+            "decimals": 6
         }
     ]
 }
