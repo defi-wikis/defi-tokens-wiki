@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:40:19.993Z",
+    "timestamp": "2020-10-03T02:44:49.632Z",
     "version": {
         "major": 1,
-        "minor": 4209,
+        "minor": 4210,
         "patch": 0
     },
     "keywords": [
@@ -28166,6 +28166,13 @@
             "symbol": "DVIF",
             "address": "0x1C8298bAC9f63a973fFC83B9BD475A420E913a42",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "MMT",
+            "symbol": "MMT",
+            "address": "0x0f9F66f6b801040328Bf1392Ec4c030AebA39EC2",
+            "decimals": 18
         }
     ]
 }
