@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:33:54.386Z",
+    "timestamp": "2020-10-03T03:40:10.818Z",
     "version": {
         "major": 1,
-        "minor": 4219,
+        "minor": 4220,
         "patch": 0
     },
     "keywords": [
@@ -28235,6 +28235,13 @@
             "name": "Tater (Official)",
             "symbol": "$TATR",
             "address": "0x4cba0676975A29462B46F0d07727ecC261c1e6E8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sriracha.finance",
+            "symbol": "srir",
+            "address": "0x765256d90D42a38Adf9aEb16F5Bd1872F13e9633",
             "decimals": 18
         }
     ]
