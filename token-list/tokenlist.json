@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:09:59.761Z",
+    "timestamp": "2020-10-03T21:14:16.128Z",
     "version": {
         "major": 1,
-        "minor": 4367,
+        "minor": 4368,
         "patch": 0
     },
     "keywords": [
@@ -29271,6 +29271,13 @@
             "name": "DGNSK.Finance",
             "symbol": "DGNSK",
             "address": "0x07A85A232fF72d3a66f258Dc7aB6f3fe81185855",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ataxy Coin",
+            "symbol": "AYC",
+            "address": "0xb2840DfC364Fbe44Ce5022168521f9745285e5a3",
             "decimals": 18
         }
     ]
