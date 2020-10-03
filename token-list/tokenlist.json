@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:56:55.345Z",
+    "timestamp": "2020-10-03T08:05:30.201Z",
     "version": {
         "major": 1,
-        "minor": 4253,
+        "minor": 4254,
         "patch": 0
     },
     "keywords": [
@@ -28473,6 +28473,13 @@
             "name": "Investigate Andre Cronje",
             "symbol": "IAC",
             "address": "0x15E411b37b403D2765b5F6136433DAE479DB616D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ontology",
+            "symbol": "ONT",
+            "address": "0x373C4B74523C895408C27363E294FefFF370E9a4",
             "decimals": 18
         }
     ]
