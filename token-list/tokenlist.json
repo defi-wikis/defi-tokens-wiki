@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:31:59.660Z",
+    "timestamp": "2020-10-03T14:32:39.638Z",
     "version": {
         "major": 1,
-        "minor": 4318,
+        "minor": 4319,
         "patch": 0
     },
     "keywords": [
@@ -28928,6 +28928,13 @@
             "name": "SecureFinance DEX",
             "symbol": "SXF",
             "address": "0xFD459410B631EE58f7f631472382d6ce334E66F8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pump Dump",
+            "symbol": "PUDU",
+            "address": "0x830dEF377ff3631B41C4d8E0AB18459c81540922",
             "decimals": 18
         }
     ]
