@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:08:40.350Z",
+    "timestamp": "2020-10-03T11:16:54.367Z",
     "version": {
         "major": 1,
-        "minor": 4286,
+        "minor": 4287,
         "patch": 0
     },
     "keywords": [
@@ -28704,6 +28704,13 @@
             "name": "Toast.finance",
             "symbol": "TOAST",
             "address": "0xf7021d106307b632bB03BE54c94203B7dD97C9c9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VIRtual United Serum",
+            "symbol": "VIRUS",
+            "address": "0x53E3B52AD9903f1F0B97B031603fF0b00c171446",
             "decimals": 18
         }
     ]
