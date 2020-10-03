@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T08:13:29.253Z",
+    "timestamp": "2020-10-03T08:14:44.550Z",
     "version": {
         "major": 1,
-        "minor": 4257,
+        "minor": 4258,
         "patch": 0
     },
     "keywords": [
@@ -28501,6 +28501,13 @@
             "name": "DragonFruit",
             "symbol": "DFU",
             "address": "0xDA917bA10A9d3E008Ef17460DfEDc8345d949f95",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tokensets.com",
+            "symbol": "KEN",
+            "address": "0x6aE9C41237E45357c220dc59c9d3eF070A5e7974",
             "decimals": 18
         }
     ]
