@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:10:35.257Z",
+    "timestamp": "2020-10-03T03:18:14.900Z",
     "version": {
         "major": 1,
-        "minor": 4214,
+        "minor": 4215,
         "patch": 0
     },
     "keywords": [
@@ -28200,6 +28200,13 @@
             "name": "coaValue.finance",
             "symbol": "COAE",
             "address": "0x9f091C7FA4e9aC0d19d9E26c714C9c7493F59056",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PHEEZEZ Token",
+            "symbol": "PHZT",
+            "address": "0x15793315642E91479cE0D5C0e9d2Cc6A79Dbc1B0",
             "decimals": 18
         }
     ]
