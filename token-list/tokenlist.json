@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:10:30.272Z",
+    "timestamp": "2020-10-03T01:18:24.722Z",
     "version": {
         "major": 1,
-        "minor": 4196,
+        "minor": 4197,
         "patch": 0
     },
     "keywords": [
@@ -28075,6 +28075,13 @@
             "symbol": "CLV",
             "address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Cthulhu Coin",
+            "symbol": "CTHU",
+            "address": "0xEAE0b10B2cc955563ff99374c2Beb726aC4407CE",
+            "decimals": 18
         }
     ]
 }
