@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:47:30.021Z",
+    "timestamp": "2020-10-03T02:58:20.226Z",
     "version": {
         "major": 1,
-        "minor": 4211,
+        "minor": 4212,
         "patch": 0
     },
     "keywords": [
@@ -28179,6 +28179,13 @@
             "name": "#halfrekt",
             "symbol": "NME",
             "address": "0x404A03728Afd06fB934e4b6f0EaF67796912733A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFinanceNetwork",
+            "symbol": "YFN",
+            "address": "0x35D47b34B5bceC7400aE30976F8476683ca4f8B3",
             "decimals": 18
         }
     ]
