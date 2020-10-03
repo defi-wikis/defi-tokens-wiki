@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:51:24.856Z",
+    "timestamp": "2020-10-03T23:52:16.204Z",
     "version": {
         "major": 1,
-        "minor": 4400,
+        "minor": 4401,
         "patch": 0
     },
     "keywords": [
@@ -29502,6 +29502,13 @@
             "name": "ZAC.Finance",
             "symbol": "ZAC",
             "address": "0x1D24131C4eD351f48FE7B223E7D55Ee10eBCF4D3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WSSGZ.Finance",
+            "symbol": "WSSGZ",
+            "address": "0x1855b844AB65745B14C8073a3678Dc93C67b326E",
             "decimals": 18
         }
     ]
