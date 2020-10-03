@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T04:41:30.166Z",
+    "timestamp": "2020-10-03T04:50:40.169Z",
     "version": {
         "major": 1,
-        "minor": 4231,
+        "minor": 4232,
         "patch": 0
     },
     "keywords": [
@@ -28319,6 +28319,13 @@
             "name": "nsure.network",
             "symbol": "NSURE",
             "address": "0x7B4A3B41ED9BDDCb0ae68a7f44145576c9F34669",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mango Finance",
+            "symbol": "MANGO",
+            "address": "0x9Ae52C76Eb940E2b051633960b0b0B6Aae946F74",
             "decimals": 18
         }
     ]
