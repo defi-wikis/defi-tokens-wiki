@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T19:18:06.890Z",
+    "timestamp": "2020-10-03T19:46:50.002Z",
     "version": {
         "major": 1,
-        "minor": 4352,
+        "minor": 4353,
         "patch": 0
     },
     "keywords": [
@@ -29166,6 +29166,13 @@
             "name": "SPAM",
             "symbol": "SPAM",
             "address": "0xdb960Fb0825c344DAd75D1Fa2e469eABBfB676f1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SJS.Finance",
+            "symbol": "SJS",
+            "address": "0x1d900717403DcD252CD3fb1Aa1ad6F6C3485A642",
             "decimals": 18
         }
     ]
