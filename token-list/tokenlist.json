@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T10:25:02.169Z",
+    "timestamp": "2020-10-03T10:33:09.829Z",
     "version": {
         "major": 1,
-        "minor": 4280,
+        "minor": 4281,
         "patch": 0
     },
     "keywords": [
@@ -28662,6 +28662,13 @@
             "name": "iYearn.Finance",
             "symbol": "IYFI",
             "address": "0x98e338706B46ae4c3827A4E2aA461d4EF62230e3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DEFIS",
+            "symbol": "DEFS",
+            "address": "0x3Bf74D8A017574145CB8193aC77f0949558D24aC",
             "decimals": 18
         }
     ]
