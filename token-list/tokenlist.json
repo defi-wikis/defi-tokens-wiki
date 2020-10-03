@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:10:25.383Z",
+    "timestamp": "2020-10-03T01:10:30.272Z",
     "version": {
         "major": 1,
-        "minor": 4195,
+        "minor": 4196,
         "patch": 0
     },
     "keywords": [
@@ -28068,6 +28068,13 @@
             "symbol": "MBX",
             "address": "0x7936B0084e9A16B71dE03CFE3Da14e4C8A89a64B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Clover",
+            "symbol": "CLV",
+            "address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+            "decimals": 6
         }
     ]
 }
