@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:52:59.974Z",
+    "timestamp": "2020-10-03T23:00:56.024Z",
     "version": {
         "major": 1,
-        "minor": 4390,
+        "minor": 4391,
         "patch": 0
     },
     "keywords": [
@@ -29432,6 +29432,13 @@
             "name": "SBHF.Finance",
             "symbol": "SBHF",
             "address": "0x7ef9CD3669fC2Ea688f027e0DFb9a2FAE0fe2629",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KYKYD.Finance",
+            "symbol": "KYKYD",
+            "address": "0xae15EF17A54945C26edcb51C031493714cC5c61A",
             "decimals": 18
         }
     ]
