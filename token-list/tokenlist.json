@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:02:10.386Z",
+    "timestamp": "2020-10-03T07:04:34.601Z",
     "version": {
         "major": 1,
-        "minor": 4244,
+        "minor": 4245,
         "patch": 0
     },
     "keywords": [
@@ -28410,6 +28410,13 @@
             "name": "Mano Finance",
             "symbol": "MANO",
             "address": "0xb33D892B0d9e8ffd118267e54cD62b232678185B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance Value",
+            "symbol": "YFIV",
+            "address": "0xa0B6AdD2eb71b418a18A456CCD7788ccf0E1b970",
             "decimals": 18
         }
     ]
