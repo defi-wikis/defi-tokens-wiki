@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T08:26:35.117Z",
+    "timestamp": "2020-10-03T08:38:14.533Z",
     "version": {
         "major": 1,
-        "minor": 4259,
+        "minor": 4260,
         "patch": 0
     },
     "keywords": [
@@ -28515,6 +28515,13 @@
             "name": "firestorm.finance",
             "symbol": "sFire",
             "address": "0x0c2E13CdD89683cE163d22f019D65D5A6A4e6c90",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crystal.finance",
+            "symbol": "CRT",
+            "address": "0x7870941E8Cf707000D257E97FdD308c4548911C6",
             "decimals": 18
         }
     ]
