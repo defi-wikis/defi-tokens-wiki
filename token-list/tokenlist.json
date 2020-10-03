@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T04:32:25.243Z",
+    "timestamp": "2020-10-03T04:38:44.728Z",
     "version": {
         "major": 1,
-        "minor": 4228,
+        "minor": 4229,
         "patch": 0
     },
     "keywords": [
@@ -28298,6 +28298,13 @@
             "name": "zbgpro.net",
             "symbol": "ZBG",
             "address": "0x9c66b8e808Be4Ad77Dc4148357EC9838a4741e1e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje",
+            "symbol": "IAC",
+            "address": "0xF6dA4C0Ba3f6E3C9f19696c9031C1726E6a13170",
             "decimals": 18
         }
     ]
