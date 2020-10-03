@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T08:07:49.372Z",
+    "timestamp": "2020-10-03T08:13:29.253Z",
     "version": {
         "major": 1,
-        "minor": 4256,
+        "minor": 4257,
         "patch": 0
     },
     "keywords": [
@@ -28494,6 +28494,13 @@
             "name": "CAKE",
             "symbol": "CAKE",
             "address": "0x4C5aE012a5B1892607687A813109f0725B8354f7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DragonFruit",
+            "symbol": "DFU",
+            "address": "0xDA917bA10A9d3E008Ef17460DfEDc8345d949f95",
             "decimals": 18
         }
     ]
