@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T17:52:44.798Z",
+    "timestamp": "2020-10-03T18:16:39.619Z",
     "version": {
         "major": 1,
-        "minor": 4342,
+        "minor": 4343,
         "patch": 0
     },
     "keywords": [
@@ -29096,6 +29096,13 @@
             "name": "Fans.finance",
             "symbol": "FANS",
             "address": "0xa76dd6CA9eda2c73143E78e9DdECe40bB2bE6b01",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "unilend.finance",
+            "symbol": "UFT",
+            "address": "0xe441E7a1EC1856F26c25bda08EBBB63D7ccEeCD1",
             "decimals": 18
         }
     ]
