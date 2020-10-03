@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:44:30.300Z",
+    "timestamp": "2020-10-03T22:48:03.223Z",
     "version": {
         "major": 1,
-        "minor": 4388,
+        "minor": 4389,
         "patch": 0
     },
     "keywords": [
@@ -29418,6 +29418,13 @@
             "name": "NBLN.Finance",
             "symbol": "NBLN",
             "address": "0xf439eE5D6b56a17F0e1a4d8e60AB4ffBD0aCDc9E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniMex.Finance",
+            "symbol": "UMEX",
+            "address": "0x4F0cdd4c19c1BD9B7ac173DCc171882533839427",
             "decimals": 18
         }
     ]
