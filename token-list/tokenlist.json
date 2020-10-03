@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:19:44.586Z",
+    "timestamp": "2020-10-03T07:39:07.524Z",
     "version": {
         "major": 1,
-        "minor": 4247,
+        "minor": 4248,
         "patch": 0
     },
     "keywords": [
@@ -28431,6 +28431,13 @@
             "name": "Horizon.Finance",
             "symbol": "HRZ",
             "address": "0x6599FdBE245538cCBD9b39e569dCd93d2c8Eb921",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Dao Finance",
+            "symbol": "YDF",
+            "address": "0xc600f28fAa378d1831Eb8B42353d48993055473f",
             "decimals": 18
         }
     ]
