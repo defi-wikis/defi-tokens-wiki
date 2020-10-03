@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:38:59.423Z",
+    "timestamp": "2020-10-03T09:39:15.417Z",
     "version": {
         "major": 1,
-        "minor": 4269,
+        "minor": 4270,
         "patch": 0
     },
     "keywords": [
@@ -28585,6 +28585,13 @@
             "name": "ZBXLWHL.Finance",
             "symbol": "ZBXLWHL",
             "address": "0x7Ea2326bf13929E4b00eC4ae6150f577F88bEBEb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NEW-I-S",
+            "symbol": "ISN",
+            "address": "0x276C158d49C303dCbA90a5E2708aaaBDB8f60419",
             "decimals": 18
         }
     ]
