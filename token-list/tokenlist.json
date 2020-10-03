@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:48:49.507Z",
+    "timestamp": "2020-10-03T07:56:55.345Z",
     "version": {
         "major": 1,
-        "minor": 4252,
+        "minor": 4253,
         "patch": 0
     },
     "keywords": [
@@ -28466,6 +28466,13 @@
             "name": "yearn Finance gold",
             "symbol": "YFGD",
             "address": "0x5cc43a691d583d84Ec5EA18ffd8d6b2c825354df",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje",
+            "symbol": "IAC",
+            "address": "0x15E411b37b403D2765b5F6136433DAE479DB616D",
             "decimals": 18
         }
     ]
