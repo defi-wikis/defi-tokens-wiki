@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:22:30.004Z",
+    "timestamp": "2020-10-03T02:30:40.712Z",
     "version": {
         "major": 1,
-        "minor": 4205,
+        "minor": 4206,
         "patch": 0
     },
     "keywords": [
@@ -28138,6 +28138,13 @@
             "symbol": "CLV",
             "address": "0xcDF9479Df1df083a2C4E1F5708C62671c4f08f1B",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FB0",
+            "symbol": "FB0",
+            "address": "0x3AAD19ed44bBF97d570314e37FB6aA81848630c1",
+            "decimals": 0
         }
     ]
 }
