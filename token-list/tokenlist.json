@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T00:52:16.073Z",
+    "timestamp": "2020-10-03T01:07:25.073Z",
     "version": {
         "major": 1,
-        "minor": 4192,
+        "minor": 4193,
         "patch": 0
     },
     "keywords": [
@@ -28046,6 +28046,13 @@
             "name": "Yeled.finance",
             "symbol": "YELED",
             "address": "0x86c5A5dF22Aa85983697d93026B4231bD964e997",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORBv3",
+            "symbol": "ORBv3",
+            "address": "0x10E4638BD51b37b3B9aD35ABf3CC9160930EaD75",
             "decimals": 18
         }
     ]
