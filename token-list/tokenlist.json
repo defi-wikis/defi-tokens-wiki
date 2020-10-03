@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T00:01:15.570Z",
+    "timestamp": "2020-10-03T00:10:59.936Z",
     "version": {
         "major": 1,
-        "minor": 4185,
+        "minor": 4186,
         "patch": 0
     },
     "keywords": [
@@ -27997,6 +27997,13 @@
             "name": "Weekend",
             "symbol": "WKND",
             "address": "0x0f621b5b0D1b26904B17F3a8d307d95e11Fa7aA0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlasmaPay",
+            "symbol": "PPAY",
+            "address": "0x4326cDB743e01875C0017cc1B867fea42c034Ac9",
             "decimals": 18
         }
     ]
