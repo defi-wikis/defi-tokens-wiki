@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T19:54:11.078Z",
+    "timestamp": "2020-10-03T20:07:40.939Z",
     "version": {
         "major": 1,
-        "minor": 4355,
+        "minor": 4356,
         "patch": 0
     },
     "keywords": [
@@ -29187,6 +29187,13 @@
             "name": "Shroom V2",
             "symbol": "SHROOOM",
             "address": "0x633F17363B847Cb249a5f0853e60Ed0a501636b7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Geomart",
+            "symbol": "GEOM",
+            "address": "0x3f76352D0Fc7B584B258B5434000Ea68F2735a55",
             "decimals": 18
         }
     ]
