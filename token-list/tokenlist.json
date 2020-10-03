@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:24:30.678Z",
+    "timestamp": "2020-10-03T14:28:31.021Z",
     "version": {
         "major": 1,
-        "minor": 4316,
+        "minor": 4317,
         "patch": 0
     },
     "keywords": [
@@ -28914,6 +28914,13 @@
             "name": "Rot v2",
             "symbol": "ROT2",
             "address": "0x35159269ad3a34eB061aB7d2b143213A56AA0CaF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unilend Finance",
+            "symbol": "UFT",
+            "address": "0xf16bCf80A3DD0e0E923B0B41e87f7522B2142369",
             "decimals": 18
         }
     ]
