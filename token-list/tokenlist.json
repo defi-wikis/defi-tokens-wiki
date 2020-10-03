@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:17:20.343Z",
+    "timestamp": "2020-10-03T23:21:08.053Z",
     "version": {
         "major": 1,
-        "minor": 4394,
+        "minor": 4395,
         "patch": 0
     },
     "keywords": [
@@ -29460,6 +29460,13 @@
             "name": "ykz.network",
             "symbol": "YKZ",
             "address": "0xbDeB789386E55E66609Fb529C90e8e75A0C679db",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KYLBY.Finance",
+            "symbol": "KYLBY",
+            "address": "0x2d010dbF4C0f78213c5a582B1514aa76754BB490",
             "decimals": 18
         }
     ]
