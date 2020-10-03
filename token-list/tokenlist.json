@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T18:26:30.970Z",
+    "timestamp": "2020-10-03T18:38:45.444Z",
     "version": {
         "major": 1,
-        "minor": 4347,
+        "minor": 4348,
         "patch": 0
     },
     "keywords": [
@@ -29131,6 +29131,13 @@
             "name": "Elronds @ Elrond.com",
             "symbol": "ERD",
             "address": "0x650B99C4499FF73AE46aE94d004DCf63849Cd34C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zin.Network",
+            "symbol": "ZIN",
+            "address": "0x1173ADEaaEB0d23d6abcBF4f6119D3418156Bd62",
             "decimals": 18
         }
     ]
