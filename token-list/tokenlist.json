@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T00:42:24.552Z",
+    "timestamp": "2020-10-03T00:52:10.280Z",
     "version": {
         "major": 1,
-        "minor": 4190,
+        "minor": 4191,
         "patch": 0
     },
     "keywords": [
@@ -28032,6 +28032,13 @@
             "name": "Cyclops Finance",
             "symbol": "CYC",
             "address": "0xFEB01Cb1c170F8610513f859A37c0a77A979Cf03",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COREI",
+            "symbol": "COREI",
+            "address": "0x4eef93401d241316862EFF0aB3e9a2206C5273f2",
             "decimals": 18
         }
     ]
