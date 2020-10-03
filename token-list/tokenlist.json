@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T16:49:19.894Z",
+    "timestamp": "2020-10-03T17:21:25.248Z",
     "version": {
         "major": 1,
-        "minor": 4334,
+        "minor": 4335,
         "patch": 0
     },
     "keywords": [
@@ -29040,6 +29040,13 @@
             "name": "TencentCoin",
             "symbol": "TCNT",
             "address": "0x0671eE24f9931f4D76c13081c622196b39D81c37",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance 2.0",
+            "symbol": "CF",
+            "address": "0xdd31360133849F93D885a6406A2280Fb1690779b",
             "decimals": 18
         }
     ]
