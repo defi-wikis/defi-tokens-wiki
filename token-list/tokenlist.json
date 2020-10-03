@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:39:15.417Z",
+    "timestamp": "2020-10-03T09:42:24.374Z",
     "version": {
         "major": 1,
-        "minor": 4270,
+        "minor": 4271,
         "patch": 0
     },
     "keywords": [
@@ -28592,6 +28592,13 @@
             "name": "NEW-I-S",
             "symbol": "ISN",
             "address": "0x276C158d49C303dCbA90a5E2708aaaBDB8f60419",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EDM.finance",
+            "symbol": "EDM",
+            "address": "0x22B53383e61D3bBDB1070985F80ca10EB38AeCd7",
             "decimals": 18
         }
     ]
