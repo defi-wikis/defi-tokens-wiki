@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:25:44.939Z",
+    "timestamp": "2020-10-03T20:32:50.335Z",
     "version": {
         "major": 1,
-        "minor": 4360,
+        "minor": 4361,
         "patch": 0
     },
     "keywords": [
@@ -29222,6 +29222,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x670D35af18502E1Dbf12956A0268e28E3781cf0D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Stable Banking Investments",
+            "symbol": "YSBI",
+            "address": "0x358305d85389618c9b72F439c4879e4F8096cbD8",
             "decimals": 18
         }
     ]
