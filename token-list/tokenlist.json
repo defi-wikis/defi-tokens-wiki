@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:56:29.633Z",
+    "timestamp": "2020-10-03T03:58:09.631Z",
     "version": {
         "major": 1,
-        "minor": 4223,
+        "minor": 4224,
         "patch": 0
     },
     "keywords": [
@@ -28264,6 +28264,13 @@
             "symbol": "SCN",
             "address": "0xD4dF434344dc302D24e2dcBaBeBCaA707E68fE33",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "OurBloc Governance Token",
+            "symbol": "OGT",
+            "address": "0x671d131d72a0fEcbd1a5Ca9b024A5a150876bA70",
+            "decimals": 18
         }
     ]
 }
