@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T10:08:24.659Z",
+    "timestamp": "2020-10-03T10:15:55.505Z",
     "version": {
         "major": 1,
-        "minor": 4276,
+        "minor": 4277,
         "patch": 0
     },
     "keywords": [
@@ -28634,6 +28634,13 @@
             "name": "yearn.finance",
             "symbol": "YFIIIIII",
             "address": "0x1fda6c235B1664C411494982e7F9613079A1335D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RAKSUR",
+            "symbol": "RAS",
+            "address": "0x393fAC0773C765c80dc887451377d553C46F83b1",
             "decimals": 18
         }
     ]
