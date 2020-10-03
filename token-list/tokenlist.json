@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T19:51:35.443Z",
+    "timestamp": "2020-10-03T19:54:11.078Z",
     "version": {
         "major": 1,
-        "minor": 4354,
+        "minor": 4355,
         "patch": 0
     },
     "keywords": [
@@ -29180,6 +29180,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x00C90165Db6ebc006b2DDb695E8C0E28506ADC28",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shroom V2",
+            "symbol": "SHROOOM",
+            "address": "0x633F17363B847Cb249a5f0853e60Ed0a501636b7",
             "decimals": 18
         }
     ]
