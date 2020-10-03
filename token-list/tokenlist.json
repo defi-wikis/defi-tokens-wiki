@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T06:18:54.948Z",
+    "timestamp": "2020-10-03T06:27:59.872Z",
     "version": {
         "major": 1,
-        "minor": 4238,
+        "minor": 4239,
         "patch": 0
     },
     "keywords": [
@@ -28368,6 +28368,13 @@
             "name": "iYearn Finance",
             "symbol": "IYFI",
             "address": "0x251B5C9eFf2d9F04DC525f601E13293bfE40E4f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlotX.io",
+            "symbol": "PLOT",
+            "address": "0xDE6FE9979FB269661226399ae8a613E0C05AA93e",
             "decimals": 18
         }
     ]
