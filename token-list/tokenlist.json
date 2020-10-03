@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:10:56.806Z",
+    "timestamp": "2020-10-03T23:17:20.343Z",
     "version": {
         "major": 1,
-        "minor": 4393,
+        "minor": 4394,
         "patch": 0
     },
     "keywords": [
@@ -29453,6 +29453,13 @@
             "name": "ZCYDL.Finance",
             "symbol": "ZCYDL",
             "address": "0xD34a2EA3570Ec58c79a81dF25F8Ff5F90d18f5Ac",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ykz.network",
+            "symbol": "YKZ",
+            "address": "0xbDeB789386E55E66609Fb529C90e8e75A0C679db",
             "decimals": 18
         }
     ]
