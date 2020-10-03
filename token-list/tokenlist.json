@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T18:16:39.619Z",
+    "timestamp": "2020-10-03T18:19:08.195Z",
     "version": {
         "major": 1,
-        "minor": 4343,
+        "minor": 4344,
         "patch": 0
     },
     "keywords": [
@@ -29103,6 +29103,13 @@
             "name": "unilend.finance",
             "symbol": "UFT",
             "address": "0xe441E7a1EC1856F26c25bda08EBBB63D7ccEeCD1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOLDMYBEER ",
+            "symbol": "HMBE",
+            "address": "0xF9f858aD526f24445c7417D496aF73f4D79c219d",
             "decimals": 18
         }
     ]
