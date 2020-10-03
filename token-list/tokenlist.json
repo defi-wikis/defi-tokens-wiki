@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:44:49.632Z",
+    "timestamp": "2020-10-03T02:47:30.021Z",
     "version": {
         "major": 1,
-        "minor": 4210,
+        "minor": 4211,
         "patch": 0
     },
     "keywords": [
@@ -28172,6 +28172,13 @@
             "name": "MMT",
             "symbol": "MMT",
             "address": "0x0f9F66f6b801040328Bf1392Ec4c030AebA39EC2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "#halfrekt",
+            "symbol": "NME",
+            "address": "0x404A03728Afd06fB934e4b6f0EaF67796912733A",
             "decimals": 18
         }
     ]
