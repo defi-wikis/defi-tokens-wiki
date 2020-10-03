@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:49:51.019Z",
+    "timestamp": "2020-10-03T23:51:24.856Z",
     "version": {
         "major": 1,
-        "minor": 4399,
+        "minor": 4400,
         "patch": 0
     },
     "keywords": [
@@ -29495,6 +29495,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x5A9443a8a570A668222757E3933d76C2Fa59b00A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZAC.Finance",
+            "symbol": "ZAC",
+            "address": "0x1D24131C4eD351f48FE7B223E7D55Ee10eBCF4D3",
             "decimals": 18
         }
     ]
