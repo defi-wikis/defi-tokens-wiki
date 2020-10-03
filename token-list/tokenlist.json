@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T10:20:20.227Z",
+    "timestamp": "2020-10-03T10:22:29.415Z",
     "version": {
         "major": 1,
-        "minor": 4278,
+        "minor": 4279,
         "patch": 0
     },
     "keywords": [
@@ -28648,6 +28648,13 @@
             "name": "WHXDL.Finance",
             "symbol": "WHXDL",
             "address": "0x9F2f77F6fb7cB7de351C4442b8Ac945Ec8F1Fe11",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "uniswap.bet",
+            "symbol": "UNIB",
+            "address": "0x2418136C04873e05d7eA37E4ACA467064e99328D",
             "decimals": 18
         }
     ]
