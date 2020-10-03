@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:02:02.376Z",
+    "timestamp": "2020-10-03T07:02:10.386Z",
     "version": {
         "major": 1,
-        "minor": 4243,
+        "minor": 4244,
         "patch": 0
     },
     "keywords": [
@@ -28403,6 +28403,13 @@
             "name": "YFMARS",
             "symbol": "YFMR",
             "address": "0xc9e61c89f6e5F39beB147fA5398570C679B01864",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mano Finance",
+            "symbol": "MANO",
+            "address": "0xb33D892B0d9e8ffd118267e54cD62b232678185B",
             "decimals": 18
         }
     ]
