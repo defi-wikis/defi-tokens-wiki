@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T10:57:45.430Z",
+    "timestamp": "2020-10-03T11:08:40.350Z",
     "version": {
         "major": 1,
-        "minor": 4285,
+        "minor": 4286,
         "patch": 0
     },
     "keywords": [
@@ -28697,6 +28697,13 @@
             "name": "Kiss",
             "symbol": "KISS",
             "address": "0xf27979fB0b2e5dFA0f118745822809383396d27f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Toast.finance",
+            "symbol": "TOAST",
+            "address": "0xf7021d106307b632bB03BE54c94203B7dD97C9c9",
             "decimals": 18
         }
     ]
