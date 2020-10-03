@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:17:35.038Z",
+    "timestamp": "2020-10-03T02:22:30.004Z",
     "version": {
         "major": 1,
-        "minor": 4204,
+        "minor": 4205,
         "patch": 0
     },
     "keywords": [
@@ -28130,6 +28130,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0x0bA4d8d080979C1742833D3398fA8230d9D6F146",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Clover",
+            "symbol": "CLV",
+            "address": "0xcDF9479Df1df083a2C4E1F5708C62671c4f08f1B",
             "decimals": 18
         }
     ]
