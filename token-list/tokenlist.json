@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:50:11.422Z",
+    "timestamp": "2020-10-03T21:53:11.517Z",
     "version": {
         "major": 1,
-        "minor": 4376,
+        "minor": 4377,
         "patch": 0
     },
     "keywords": [
@@ -29334,6 +29334,13 @@
             "name": "Cap v3.0",
             "symbol": "CAP3",
             "address": "0x5f6b875F77f23748dC85DC4ED8382aB0809D9779",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JZZYL.Finance",
+            "symbol": "JZZYL",
+            "address": "0xc79eaD26c06Cb1811856bee5Ad0791688b7a5aE2",
             "decimals": 18
         }
     ]
