@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:18:24.722Z",
+    "timestamp": "2020-10-03T01:24:19.885Z",
     "version": {
         "major": 1,
-        "minor": 4197,
+        "minor": 4198,
         "patch": 0
     },
     "keywords": [
@@ -28082,6 +28082,13 @@
             "symbol": "CTHU",
             "address": "0xEAE0b10B2cc955563ff99374c2Beb726aC4407CE",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PATA Finance",
+            "symbol": "PATA",
+            "address": "0x41343dFff9649f2D164980E3aA007d56d5e1f91B",
+            "decimals": 6
         }
     ]
 }
