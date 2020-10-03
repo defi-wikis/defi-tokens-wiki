@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:48:55.534Z",
+    "timestamp": "2020-10-03T11:55:40.449Z",
     "version": {
         "major": 1,
-        "minor": 4297,
+        "minor": 4298,
         "patch": 0
     },
     "keywords": [
@@ -28781,6 +28781,13 @@
             "name": "YUGE.WORKS",
             "symbol": "YUGE",
             "address": "0x0729e2431558a317d79F83D28C1139ce05590AAC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fire Andre Cronje",
+            "symbol": "FAC",
+            "address": "0x1D200BEa0aA6c30931006B64B4eA66e55a77948e",
             "decimals": 18
         }
     ]
