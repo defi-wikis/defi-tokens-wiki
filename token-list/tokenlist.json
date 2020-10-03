@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:09:14.610Z",
+    "timestamp": "2020-10-03T01:10:25.383Z",
     "version": {
         "major": 1,
-        "minor": 4194,
+        "minor": 4195,
         "patch": 0
     },
     "keywords": [
@@ -28060,6 +28060,13 @@
             "name": "pigeon",
             "symbol": "PGN",
             "address": "0xD459Eb5c1004EE544adE9C1a9f6C34C87cf0B6a5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mobilepay.io",
+            "symbol": "MBX",
+            "address": "0x7936B0084e9A16B71dE03CFE3Da14e4C8A89a64B",
             "decimals": 18
         }
     ]
