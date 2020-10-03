@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T10:15:55.505Z",
+    "timestamp": "2020-10-03T10:20:20.227Z",
     "version": {
         "major": 1,
-        "minor": 4277,
+        "minor": 4278,
         "patch": 0
     },
     "keywords": [
@@ -28641,6 +28641,13 @@
             "name": "RAKSUR",
             "symbol": "RAS",
             "address": "0x393fAC0773C765c80dc887451377d553C46F83b1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WHXDL.Finance",
+            "symbol": "WHXDL",
+            "address": "0x9F2f77F6fb7cB7de351C4442b8Ac945Ec8F1Fe11",
             "decimals": 18
         }
     ]
