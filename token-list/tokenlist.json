@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:07:25.073Z",
+    "timestamp": "2020-10-03T01:09:14.610Z",
     "version": {
         "major": 1,
-        "minor": 4193,
+        "minor": 4194,
         "patch": 0
     },
     "keywords": [
@@ -28053,6 +28053,13 @@
             "name": "ORBv3",
             "symbol": "ORBv3",
             "address": "0x10E4638BD51b37b3B9aD35ABf3CC9160930EaD75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pigeon",
+            "symbol": "PGN",
+            "address": "0xD459Eb5c1004EE544adE9C1a9f6C34C87cf0B6a5",
             "decimals": 18
         }
     ]
