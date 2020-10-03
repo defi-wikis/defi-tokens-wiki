@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:03:55.025Z",
+    "timestamp": "2020-10-03T14:19:25.671Z",
     "version": {
         "major": 1,
-        "minor": 4314,
+        "minor": 4315,
         "patch": 0
     },
     "keywords": [
@@ -28900,6 +28900,13 @@
             "name": "Nsure.network",
             "symbol": "NSURE",
             "address": "0x80476581d49De8dFd187d13656D29399353dE8b9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dont Buy YFI",
+            "symbol": "DBY",
+            "address": "0x416F95b2F7932220751e7B8a7656Ad0693D672BA",
             "decimals": 18
         }
     ]
