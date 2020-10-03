@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:01:35.213Z",
+    "timestamp": "2020-10-03T09:01:54.789Z",
     "version": {
         "major": 1,
-        "minor": 4261,
+        "minor": 4262,
         "patch": 0
     },
     "keywords": [
@@ -28529,6 +28529,13 @@
             "name": "www.yfacoin.com",
             "symbol": "YFA",
             "address": "0xdAa765F866ed245bbb86377e55E6338b61464950",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ManitoSuperToken",
+            "symbol": "ManitoS",
+            "address": "0xFaFaE755cBaF09Cff8f5B0a0f1E0A4A719a9C32a",
             "decimals": 18
         }
     ]
