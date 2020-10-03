@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:48:19.447Z",
+    "timestamp": "2020-10-03T07:48:49.507Z",
     "version": {
         "major": 1,
-        "minor": 4251,
+        "minor": 4252,
         "patch": 0
     },
     "keywords": [
@@ -28459,6 +28459,13 @@
             "name": "BT.Finance",
             "symbol": "BTF",
             "address": "0xeb33078570118348Fa72A189E3040aaAEA326C54",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn Finance gold",
+            "symbol": "YFGD",
+            "address": "0x5cc43a691d583d84Ec5EA18ffd8d6b2c825354df",
             "decimals": 18
         }
     ]
