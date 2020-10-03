@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:40:15.027Z",
+    "timestamp": "2020-10-03T07:44:14.725Z",
     "version": {
         "major": 1,
-        "minor": 4249,
+        "minor": 4250,
         "patch": 0
     },
     "keywords": [
@@ -28445,6 +28445,13 @@
             "name": "$ENCORE",
             "symbol": "$ENCORE",
             "address": "0x8688ec367144a97A940683BeFD8063F8C227D83e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bdve.io",
+            "symbol": "BDVE",
+            "address": "0x638d8d22458ADAd94dFad3641945e771D8AAb1B9",
             "decimals": 18
         }
     ]
