@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:10:19.840Z",
+    "timestamp": "2020-10-03T02:13:10.343Z",
     "version": {
         "major": 1,
-        "minor": 4202,
+        "minor": 4203,
         "patch": 0
     },
     "keywords": [
@@ -28117,6 +28117,13 @@
             "symbol": "ZBTC",
             "address": "0x6fEacAbD0e53443A85c7AbAf73C1eEB2A200A312",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FTW.finance",
+            "symbol": "FTW",
+            "address": "0x80e0Ba37CdCe44C520C760997a6653A7e3Be59f7",
+            "decimals": 0
         }
     ]
 }
