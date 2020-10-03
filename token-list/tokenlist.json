@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:12:09.861Z",
+    "timestamp": "2020-10-03T20:17:49.693Z",
     "version": {
         "major": 1,
-        "minor": 4357,
+        "minor": 4358,
         "patch": 0
     },
     "keywords": [
@@ -29201,6 +29201,13 @@
             "name": "YGBSB.Finance",
             "symbol": "YGBSB",
             "address": "0xA7d79aAcE4E074C42F08de0f265Cb16136A8DaDA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ydex.finance",
+            "symbol": "YDEX",
+            "address": "0x4383EFd57C5F41Fd9B7f7d40335fFA1ffa125e4A",
             "decimals": 18
         }
     ]
