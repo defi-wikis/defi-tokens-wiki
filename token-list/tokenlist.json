@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T20:51:45.298Z",
+    "timestamp": "2020-10-03T20:57:54.965Z",
     "version": {
         "major": 1,
-        "minor": 4364,
+        "minor": 4365,
         "patch": 0
     },
     "keywords": [
@@ -29251,6 +29251,13 @@
             "symbol": "NEWG",
             "address": "0x33c2f93783aACf2459DE750f6a90d756ae3C9041",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DGNX.Finance",
+            "symbol": "DGNX",
+            "address": "0xea6C7b24d1Cb28B05F1C68C5e54014FdD0c0CC10",
+            "decimals": 18
         }
     ]
 }
