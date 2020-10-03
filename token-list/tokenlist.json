@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:39:25.981Z",
+    "timestamp": "2020-10-03T22:44:30.300Z",
     "version": {
         "major": 1,
-        "minor": 4387,
+        "minor": 4388,
         "patch": 0
     },
     "keywords": [
@@ -29411,6 +29411,13 @@
             "name": "NFT Mint Lottery",
             "symbol": "INFT",
             "address": "0x08A13263cE0848811Fed4dFC32162C0fa3585C70",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NBLN.Finance",
+            "symbol": "NBLN",
+            "address": "0xf439eE5D6b56a17F0e1a4d8e60AB4ffBD0aCDc9E",
             "decimals": 18
         }
     ]
