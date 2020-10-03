@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:45:50.021Z",
+    "timestamp": "2020-10-03T21:50:11.422Z",
     "version": {
         "major": 1,
-        "minor": 4375,
+        "minor": 4376,
         "patch": 0
     },
     "keywords": [
@@ -29327,6 +29327,13 @@
             "name": "Investigate Andre Cronje",
             "symbol": "IAC",
             "address": "0x459DDa1063a981C30AA74b04397BEFB5470a3fBB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cap v3.0",
+            "symbol": "CAP3",
+            "address": "0x5f6b875F77f23748dC85DC4ED8382aB0809D9779",
             "decimals": 18
         }
     ]
