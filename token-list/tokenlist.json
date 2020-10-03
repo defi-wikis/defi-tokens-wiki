@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:31:34.547Z",
+    "timestamp": "2020-10-03T22:39:25.981Z",
     "version": {
         "major": 1,
-        "minor": 4386,
+        "minor": 4387,
         "patch": 0
     },
     "keywords": [
@@ -29404,6 +29404,13 @@
             "name": "ZAC.Finance",
             "symbol": "ZAC",
             "address": "0xC5ECCC5612176E6d717ebC394100BF0d7eaFbd38",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFT Mint Lottery",
+            "symbol": "INFT",
+            "address": "0x08A13263cE0848811Fed4dFC32162C0fa3585C70",
             "decimals": 18
         }
     ]
