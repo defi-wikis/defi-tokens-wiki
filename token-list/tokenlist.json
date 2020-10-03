@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:16:20.317Z",
+    "timestamp": "2020-10-03T22:17:51.142Z",
     "version": {
         "major": 1,
-        "minor": 4381,
+        "minor": 4382,
         "patch": 0
     },
     "keywords": [
@@ -29369,6 +29369,13 @@
             "name": "Anatha",
             "symbol": "ANATHA",
             "address": "0x1270E2A2C14Ba8F29B1B3aF2d2c4e6fD9679f718",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGNG.Finance",
+            "symbol": "YGNG",
+            "address": "0x4628aC11A28c86152b9A8F35b12ba75663560256",
             "decimals": 18
         }
     ]
