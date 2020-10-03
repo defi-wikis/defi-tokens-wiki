@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:42:24.374Z",
+    "timestamp": "2020-10-03T09:45:39.497Z",
     "version": {
         "major": 1,
-        "minor": 4271,
+        "minor": 4272,
         "patch": 0
     },
     "keywords": [
@@ -28599,6 +28599,13 @@
             "name": "EDM.finance",
             "symbol": "EDM",
             "address": "0x22B53383e61D3bBDB1070985F80ca10EB38AeCd7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Omega.Farm",
+            "symbol": "OMEGA",
+            "address": "0x5Df34Aec4c9220a1aeb11b52b6bc5f8303Ce43f5",
             "decimals": 18
         }
     ]
