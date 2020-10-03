@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T18:21:06.493Z",
+    "timestamp": "2020-10-03T18:26:10.774Z",
     "version": {
         "major": 1,
-        "minor": 4345,
+        "minor": 4346,
         "patch": 0
     },
     "keywords": [
@@ -29117,6 +29117,13 @@
             "name": "YUYICOIN",
             "symbol": "YUYI",
             "address": "0x97f160c220E121EC5496db17965cD63e4a9202C9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Noob Fairgame",
+            "symbol": "NFair",
+            "address": "0x65C767BA7c7fF02663EDF4F17Ee730dcE4F75a76",
             "decimals": 18
         }
     ]
