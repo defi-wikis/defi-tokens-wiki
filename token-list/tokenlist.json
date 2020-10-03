@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:17:29.917Z",
+    "timestamp": "2020-10-03T21:20:49.585Z",
     "version": {
         "major": 1,
-        "minor": 4369,
+        "minor": 4370,
         "patch": 0
     },
     "keywords": [
@@ -29285,6 +29285,13 @@
             "name": "Fusion Token",
             "symbol": "FST",
             "address": "0x5be67Fe4c400bEE67E269f87941814EF68F482A0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZYSGL.Finance",
+            "symbol": "ZYSGL",
+            "address": "0x28D22B4c3260b936BE8360742BD7069d971069cF",
             "decimals": 18
         }
     ]
