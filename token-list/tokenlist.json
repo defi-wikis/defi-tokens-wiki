@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T10:39:20.599Z",
+    "timestamp": "2020-10-03T10:41:29.498Z",
     "version": {
         "major": 1,
-        "minor": 4282,
+        "minor": 4283,
         "patch": 0
     },
     "keywords": [
@@ -28676,6 +28676,13 @@
             "name": "YGKYL.Finance",
             "symbol": "YGKYL",
             "address": "0x03BE9D7bb2aAAa0A310E97e7Ad64b2DF27d27cEA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OriginChainToken",
+            "symbol": "OGT",
+            "address": "0xB81aaBd91528a02136F194be78F93E640B2BE5c3",
             "decimals": 18
         }
     ]
