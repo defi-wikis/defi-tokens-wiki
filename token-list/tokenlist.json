@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T10:22:29.415Z",
+    "timestamp": "2020-10-03T10:25:02.169Z",
     "version": {
         "major": 1,
-        "minor": 4279,
+        "minor": 4280,
         "patch": 0
     },
     "keywords": [
@@ -28655,6 +28655,13 @@
             "name": "uniswap.bet",
             "symbol": "UNIB",
             "address": "0x2418136C04873e05d7eA37E4ACA467064e99328D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iYearn.Finance",
+            "symbol": "IYFI",
+            "address": "0x98e338706B46ae4c3827A4E2aA461d4EF62230e3",
             "decimals": 18
         }
     ]
