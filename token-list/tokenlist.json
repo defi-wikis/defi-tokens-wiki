@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:59:39.964Z",
+    "timestamp": "2020-10-03T02:10:19.840Z",
     "version": {
         "major": 1,
-        "minor": 4201,
+        "minor": 4202,
         "patch": 0
     },
     "keywords": [
@@ -28109,6 +28109,13 @@
             "name": "InvisionCapital.com",
             "symbol": "INVCA",
             "address": "0x8bE02aFB6C552D5805A27Da65Ca0106A2BeCeF46",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Z Bitcoin",
+            "symbol": "ZBTC",
+            "address": "0x6fEacAbD0e53443A85c7AbAf73C1eEB2A200A312",
             "decimals": 18
         }
     ]
