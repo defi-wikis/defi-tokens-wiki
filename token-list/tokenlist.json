@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T16:09:07.282Z",
+    "timestamp": "2020-10-03T16:19:15.308Z",
     "version": {
         "major": 1,
-        "minor": 4331,
+        "minor": 4332,
         "patch": 0
     },
     "keywords": [
@@ -29019,6 +29019,13 @@
             "name": "United Yield Yearn Combinator",
             "symbol": "yyYFI+yyYFII+yyYFV",
             "address": "0xD8de5b10AA8Ddf5FDc5bb2e8c5B2E7D444681c3d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bobo.finance",
+            "symbol": "BOBO",
+            "address": "0x2a8035a3A404803E47e4139940764D1CDBd990a7",
             "decimals": 18
         }
     ]
