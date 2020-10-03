@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:19:25.671Z",
+    "timestamp": "2020-10-03T14:24:30.678Z",
     "version": {
         "major": 1,
-        "minor": 4315,
+        "minor": 4316,
         "patch": 0
     },
     "keywords": [
@@ -28907,6 +28907,13 @@
             "name": "Dont Buy YFI",
             "symbol": "DBY",
             "address": "0x416F95b2F7932220751e7B8a7656Ad0693D672BA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rot v2",
+            "symbol": "ROT2",
+            "address": "0x35159269ad3a34eB061aB7d2b143213A56AA0CaF",
             "decimals": 18
         }
     ]
