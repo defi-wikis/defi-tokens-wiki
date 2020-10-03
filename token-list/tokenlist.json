@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:26:15.171Z",
+    "timestamp": "2020-10-03T11:30:25.564Z",
     "version": {
         "major": 1,
-        "minor": 4290,
+        "minor": 4291,
         "patch": 0
     },
     "keywords": [
@@ -28732,6 +28732,13 @@
             "name": "Sushi V2",
             "symbol": "SUSHI2",
             "address": "0x7e8Ed37Cd9751BaFebab89a5b0d6392FFe64bF21",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HellFire.finance",
+            "symbol": "hFIRE",
+            "address": "0x08d0091096a3c8d914e6a239a007d98FA9773d29",
             "decimals": 18
         }
     ]
