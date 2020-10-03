@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T08:14:44.550Z",
+    "timestamp": "2020-10-03T08:26:35.117Z",
     "version": {
         "major": 1,
-        "minor": 4258,
+        "minor": 4259,
         "patch": 0
     },
     "keywords": [
@@ -28508,6 +28508,13 @@
             "name": "Tokensets.com",
             "symbol": "KEN",
             "address": "0x6aE9C41237E45357c220dc59c9d3eF070A5e7974",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "firestorm.finance",
+            "symbol": "sFire",
+            "address": "0x0c2E13CdD89683cE163d22f019D65D5A6A4e6c90",
             "decimals": 18
         }
     ]
