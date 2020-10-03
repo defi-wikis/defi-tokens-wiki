@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:58:09.631Z",
+    "timestamp": "2020-10-03T04:03:10.200Z",
     "version": {
         "major": 1,
-        "minor": 4224,
+        "minor": 4225,
         "patch": 0
     },
     "keywords": [
@@ -28270,6 +28270,13 @@
             "name": "OurBloc Governance Token",
             "symbol": "OGT",
             "address": "0x671d131d72a0fEcbd1a5Ca9b024A5a150876bA70",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DontBuyWolf.org",
+            "symbol": "WOLF",
+            "address": "0x98F1F3a07e36F97F64486cC9B286Cb7Dac301240",
             "decimals": 18
         }
     ]
