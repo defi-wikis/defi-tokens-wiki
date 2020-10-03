@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:32:39.638Z",
+    "timestamp": "2020-10-03T14:36:20.528Z",
     "version": {
         "major": 1,
-        "minor": 4319,
+        "minor": 4320,
         "patch": 0
     },
     "keywords": [
@@ -28935,6 +28935,13 @@
             "name": "Pump Dump",
             "symbol": "PUDU",
             "address": "0x830dEF377ff3631B41C4d8E0AB18459c81540922",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PIE Dough DAO Y3",
+            "symbol": "PDOU",
+            "address": "0x41e09a37De852DD90709D5E561A5D55fC1e2aDC9",
             "decimals": 18
         }
     ]
