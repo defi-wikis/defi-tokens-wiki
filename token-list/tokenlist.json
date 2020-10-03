@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T04:39:29.987Z",
+    "timestamp": "2020-10-03T04:41:30.166Z",
     "version": {
         "major": 1,
-        "minor": 4230,
+        "minor": 4231,
         "patch": 0
     },
     "keywords": [
@@ -28312,6 +28312,13 @@
             "name": "Investigate Andre Cronje",
             "symbol": "IAC",
             "address": "0x1117DaA9e43aFd7B8FA6B3e02ded4c7A1A695Ead",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nsure.network",
+            "symbol": "NSURE",
+            "address": "0x7B4A3B41ED9BDDCb0ae68a7f44145576c9F34669",
             "decimals": 18
         }
     ]
