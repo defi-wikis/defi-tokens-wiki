@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:29:54.771Z",
+    "timestamp": "2020-10-03T23:38:03.012Z",
     "version": {
         "major": 1,
-        "minor": 4396,
+        "minor": 4397,
         "patch": 0
     },
     "keywords": [
@@ -29474,6 +29474,13 @@
             "name": "Zelda the Adventure of Finance",
             "symbol": "ZELDA",
             "address": "0x59B6D64AB6e63537Ae096968DA0539Fe196A59e6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BXQSJ.Finance",
+            "symbol": "BXQSJ",
+            "address": "0x6ACb07C97e11B8C18FF8ea1D5Df1F33B54b607da",
             "decimals": 18
         }
     ]
