@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T00:12:07.625Z",
+    "timestamp": "2020-10-03T00:22:44.370Z",
     "version": {
         "major": 1,
-        "minor": 4187,
+        "minor": 4188,
         "patch": 0
     },
     "keywords": [
@@ -28011,6 +28011,13 @@
             "name": "GOKU",
             "symbol": "GOKU",
             "address": "0x4E44FE174e934ff78A77BEe3C2b752fD1BEeFDEf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlueSoft.org",
+            "symbol": "BSFT",
+            "address": "0xE4Ba6EbEEeF23d71a725E1AC2BC01A78f3d8A89d",
             "decimals": 18
         }
     ]
