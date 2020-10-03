@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T15:55:59.814Z",
+    "timestamp": "2020-10-03T16:04:07.240Z",
     "version": {
         "major": 1,
-        "minor": 4329,
+        "minor": 4330,
         "patch": 0
     },
     "keywords": [
@@ -29005,6 +29005,13 @@
             "name": "Charizard.Farm",
             "symbol": "CRZF",
             "address": "0x76D5Fe6d9FD9e65536d4eEAb009543f40Bf4E552",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arweave",
+            "symbol": "AR",
+            "address": "0x3C5F0E340A8015525cE4Ab7c13c83172eF720bA5",
             "decimals": 18
         }
     ]
