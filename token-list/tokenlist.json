@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T17:45:31.464Z",
+    "timestamp": "2020-10-03T17:46:10.286Z",
     "version": {
         "major": 1,
-        "minor": 4338,
+        "minor": 4339,
         "patch": 0
     },
     "keywords": [
@@ -29068,6 +29068,13 @@
             "name": "Jazz Pool",
             "symbol": "JAZZ",
             "address": "0xe56dB8382beb35Ce5928513f93194E59a6eeEd29",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pjmi.finance",
+            "symbol": "PJMI",
+            "address": "0x4e135AFb5Cc9B9be850bb264492D3f37fC397152",
             "decimals": 18
         }
     ]
