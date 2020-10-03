@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:30:55.255Z",
+    "timestamp": "2020-10-03T21:32:35.061Z",
     "version": {
         "major": 1,
-        "minor": 4372,
+        "minor": 4373,
         "patch": 0
     },
     "keywords": [
@@ -29306,6 +29306,13 @@
             "name": "UFO Token",
             "symbol": "UFO",
             "address": "0x20E4cA84d4AB633cf962c364e24c010fBb4126f8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cap v2.0",
+            "symbol": "CAP2",
+            "address": "0x908D341ACe7De2A2c8D9c4412B1514E471DCd202",
             "decimals": 18
         }
     ]
