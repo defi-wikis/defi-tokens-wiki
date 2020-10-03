@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T02:34:25.183Z",
+    "timestamp": "2020-10-03T02:38:29.687Z",
     "version": {
         "major": 1,
-        "minor": 4207,
+        "minor": 4208,
         "patch": 0
     },
     "keywords": [
@@ -28151,6 +28151,13 @@
             "name": "theyfiv.finance",
             "symbol": "YFIV",
             "address": "0x7dE2A9871026Fbca8Cfba695a8cCBF8620B293cD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "APY.Center",
+            "symbol": "CAPY",
+            "address": "0x055060E6dfe33A7307f5711797699A443A11ef9b",
             "decimals": 18
         }
     ]
