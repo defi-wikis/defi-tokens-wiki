@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:21:45.005Z",
+    "timestamp": "2020-10-03T11:26:07.877Z",
     "version": {
         "major": 1,
-        "minor": 4288,
+        "minor": 4289,
         "patch": 0
     },
     "keywords": [
@@ -28718,6 +28718,13 @@
             "name": "Vaxx",
             "symbol": "Vaxx",
             "address": "0x282764371CDD6d6cad7e840f17013283878986b3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RNNNNM.Finance",
+            "symbol": "RNNNNM",
+            "address": "0x546a897F10C3997fDDe1bCB9443C06494885672B",
             "decimals": 18
         }
     ]
