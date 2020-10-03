@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:06:20.318Z",
+    "timestamp": "2020-10-03T22:16:20.317Z",
     "version": {
         "major": 1,
-        "minor": 4380,
+        "minor": 4381,
         "patch": 0
     },
     "keywords": [
@@ -29362,6 +29362,13 @@
             "name": "bebop.finance",
             "symbol": "BBOP",
             "address": "0x120DA9208e715E4c71Cf40F351478dD48a2fC9B4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Anatha",
+            "symbol": "ANATHA",
+            "address": "0x1270E2A2C14Ba8F29B1B3aF2d2c4e6fD9679f718",
             "decimals": 18
         }
     ]
