@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:44:14.725Z",
+    "timestamp": "2020-10-03T07:48:19.447Z",
     "version": {
         "major": 1,
-        "minor": 4250,
+        "minor": 4251,
         "patch": 0
     },
     "keywords": [
@@ -28452,6 +28452,13 @@
             "name": "Bdve.io",
             "symbol": "BDVE",
             "address": "0x638d8d22458ADAd94dFad3641945e771D8AAb1B9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BT.Finance",
+            "symbol": "BTF",
+            "address": "0xeb33078570118348Fa72A189E3040aaAEA326C54",
             "decimals": 18
         }
     ]
