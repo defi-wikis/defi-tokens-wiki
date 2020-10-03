@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:53:11.517Z",
+    "timestamp": "2020-10-03T21:58:44.634Z",
     "version": {
         "major": 1,
-        "minor": 4377,
+        "minor": 4378,
         "patch": 0
     },
     "keywords": [
@@ -29341,6 +29341,13 @@
             "name": "JZZYL.Finance",
             "symbol": "JZZYL",
             "address": "0xc79eaD26c06Cb1811856bee5Ad0791688b7a5aE2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YamBurn",
+            "symbol": "YBURN",
+            "address": "0x724565B61c5b20045E2145fc6594264c442C02b6",
             "decimals": 18
         }
     ]
