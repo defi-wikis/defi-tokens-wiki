@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T04:30:12.773Z",
+    "timestamp": "2020-10-03T04:32:25.243Z",
     "version": {
         "major": 1,
-        "minor": 4227,
+        "minor": 4228,
         "patch": 0
     },
     "keywords": [
@@ -28291,6 +28291,13 @@
             "name": "BitSwap",
             "symbol": "BTCS",
             "address": "0x06E17E8212259B706d0c4C5ad435Cd4e6f53D3bD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zbgpro.net",
+            "symbol": "ZBG",
+            "address": "0x9c66b8e808Be4Ad77Dc4148357EC9838a4741e1e",
             "decimals": 18
         }
     ]
