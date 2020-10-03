@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T01:24:19.885Z",
+    "timestamp": "2020-10-03T01:24:59.413Z",
     "version": {
         "major": 1,
-        "minor": 4198,
+        "minor": 4199,
         "patch": 0
     },
     "keywords": [
@@ -28089,6 +28089,13 @@
             "symbol": "PATA",
             "address": "0x41343dFff9649f2D164980E3aA007d56d5e1f91B",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "YIELDefi @ yieldfarmingdefi.org",
+            "symbol": "YFD",
+            "address": "0x3c0089136610e3115c6874357a929038b5F63511",
+            "decimals": 18
         }
     ]
 }
