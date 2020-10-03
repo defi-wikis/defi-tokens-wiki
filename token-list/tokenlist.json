@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:43:34.671Z",
+    "timestamp": "2020-10-03T03:45:25.889Z",
     "version": {
         "major": 1,
-        "minor": 4221,
+        "minor": 4222,
         "patch": 0
     },
     "keywords": [
@@ -28249,6 +28249,13 @@
             "name": "FuruCombo",
             "symbol": "FURU",
             "address": "0xa9198e12E5494ed6ac0CB7a5900E7eaf846E513E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0xaEA99e285A186F2836dd9E0fd28372822715a565",
             "decimals": 18
         }
     ]
