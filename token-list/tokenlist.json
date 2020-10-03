@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T12:10:39.725Z",
+    "timestamp": "2020-10-03T12:14:07.071Z",
     "version": {
         "major": 1,
-        "minor": 4301,
+        "minor": 4302,
         "patch": 0
     },
     "keywords": [
@@ -28809,6 +28809,13 @@
             "name": "IceTea.Network",
             "symbol": "ITN",
             "address": "0xd7060e1d083f1886d365794Ae89c172E6cd0DC32",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AlmostOne.Finance",
+            "symbol": "AO",
+            "address": "0x0D75a2973f63F798a991a573641f7035162cf8cc",
             "decimals": 18
         }
     ]
