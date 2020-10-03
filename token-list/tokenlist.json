@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:38:41.314Z",
+    "timestamp": "2020-10-03T14:57:44.650Z",
     "version": {
         "major": 1,
-        "minor": 4321,
+        "minor": 4322,
         "patch": 0
     },
     "keywords": [
@@ -28949,6 +28949,13 @@
             "name": "Funo Network",
             "symbol": "FUNO",
             "address": "0x1cB457edf888a7C7eD023A327BD150a6D306eA33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OctoFi V2",
+            "symbol": "OCTO2",
+            "address": "0x40Fe45D6E41f97260B5021b7761aC167B1933438",
             "decimals": 18
         }
     ]
