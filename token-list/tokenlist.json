@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T07:16:54.657Z",
+    "timestamp": "2020-10-03T07:19:44.586Z",
     "version": {
         "major": 1,
-        "minor": 4246,
+        "minor": 4247,
         "patch": 0
     },
     "keywords": [
@@ -28424,6 +28424,13 @@
             "name": "Investigate Andre Cronje",
             "symbol": "IAC",
             "address": "0x527Fae0ce95428a0330B459a6F9460649313F757",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Horizon.Finance",
+            "symbol": "HRZ",
+            "address": "0x6599FdBE245538cCBD9b39e569dCd93d2c8Eb921",
             "decimals": 18
         }
     ]
