@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:21:15.855Z",
+    "timestamp": "2020-10-03T22:25:02.019Z",
     "version": {
         "major": 1,
-        "minor": 4383,
+        "minor": 4384,
         "patch": 0
     },
     "keywords": [
@@ -29384,6 +29384,13 @@
             "symbol": "HIMC",
             "address": "0x52F8c0a620AF06cd956BD1f40B82CB389827fA02",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "YGY Finance (Official)",
+            "symbol": "YGY",
+            "address": "0xD5a844D9E975B286dfD084D98222AeECA6613144",
+            "decimals": 18
         }
     ]
 }
