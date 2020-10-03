@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:32:35.061Z",
+    "timestamp": "2020-10-03T21:40:55.695Z",
     "version": {
         "major": 1,
-        "minor": 4373,
+        "minor": 4374,
         "patch": 0
     },
     "keywords": [
@@ -29313,6 +29313,13 @@
             "name": "Cap v2.0",
             "symbol": "CAP2",
             "address": "0x908D341ACe7De2A2c8D9c4412B1514E471DCd202",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HXCGL.Finance",
+            "symbol": "HXCGL",
+            "address": "0x2Cb747eEB8605a80f68686441Cd391c163A58d31",
             "decimals": 18
         }
     ]
