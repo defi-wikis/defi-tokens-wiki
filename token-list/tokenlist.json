@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:18:14.900Z",
+    "timestamp": "2020-10-03T03:21:54.842Z",
     "version": {
         "major": 1,
-        "minor": 4215,
+        "minor": 4216,
         "patch": 0
     },
     "keywords": [
@@ -28207,6 +28207,13 @@
             "name": "PHEEZEZ Token",
             "symbol": "PHZT",
             "address": "0x15793315642E91479cE0D5C0e9d2Cc6A79Dbc1B0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFTI",
+            "symbol": "NFTI",
+            "address": "0x6e5753FDE6E7639074E9C4795A3Db8F8b81d8bf8",
             "decimals": 18
         }
     ]
