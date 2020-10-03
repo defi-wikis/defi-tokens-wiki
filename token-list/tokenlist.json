@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:01:54.789Z",
+    "timestamp": "2020-10-03T09:06:07.345Z",
     "version": {
         "major": 1,
-        "minor": 4262,
+        "minor": 4263,
         "patch": 0
     },
     "keywords": [
@@ -28536,6 +28536,13 @@
             "name": "ManitoSuperToken",
             "symbol": "ManitoS",
             "address": "0xFaFaE755cBaF09Cff8f5B0a0f1E0A4A719a9C32a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "I-S-N",
+            "symbol": "ISN",
+            "address": "0xe793e7CA71747AF4F6a1e8af84eBF0055fBca997",
             "decimals": 18
         }
     ]
