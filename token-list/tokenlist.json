@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T15:48:46.159Z",
+    "timestamp": "2020-10-03T15:55:59.814Z",
     "version": {
         "major": 1,
-        "minor": 4328,
+        "minor": 4329,
         "patch": 0
     },
     "keywords": [
@@ -28999,6 +28999,13 @@
             "symbol": "TKX",
             "address": "0x667102BD3413bFEaa3Dffb48fa8288819E480a88",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Charizard.Farm",
+            "symbol": "CRZF",
+            "address": "0x76D5Fe6d9FD9e65536d4eEAb009543f40Bf4E552",
+            "decimals": 18
         }
     ]
 }
