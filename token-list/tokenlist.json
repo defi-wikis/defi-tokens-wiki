@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T12:35:30.222Z",
+    "timestamp": "2020-10-03T12:38:07.215Z",
     "version": {
         "major": 1,
-        "minor": 4305,
+        "minor": 4306,
         "patch": 0
     },
     "keywords": [
@@ -28837,6 +28837,13 @@
             "name": "TIMERS",
             "symbol": "IPM",
             "address": "0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswapcap.com",
+            "symbol": "UNCA",
+            "address": "0xd2a69A1350b54c6745e770F990D2a8Aa2C4c8E4E",
             "decimals": 18
         }
     ]
