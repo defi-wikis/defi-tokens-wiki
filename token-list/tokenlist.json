@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:45:39.497Z",
+    "timestamp": "2020-10-03T09:48:01.885Z",
     "version": {
         "major": 1,
-        "minor": 4272,
+        "minor": 4273,
         "patch": 0
     },
     "keywords": [
@@ -28606,6 +28606,13 @@
             "name": "Omega.Farm",
             "symbol": "OMEGA",
             "address": "0x5Df34Aec4c9220a1aeb11b52b6bc5f8303Ce43f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GASTNL.Finance",
+            "symbol": "GASTNL",
+            "address": "0xF151a9F9e4F8c84625428330A30A39452a536bdA",
             "decimals": 18
         }
     ]
