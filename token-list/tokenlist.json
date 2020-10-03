@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T03:21:54.842Z",
+    "timestamp": "2020-10-03T03:22:54.804Z",
     "version": {
         "major": 1,
-        "minor": 4216,
+        "minor": 4217,
         "patch": 0
     },
     "keywords": [
@@ -28214,6 +28214,13 @@
             "name": "NFTI",
             "symbol": "NFTI",
             "address": "0x6e5753FDE6E7639074E9C4795A3Db8F8b81d8bf8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "vaultsfinance.com",
+            "symbol": "DCORE",
+            "address": "0xEF78C5A3dB21A1f4a181A2855FB92f97Fa65524a",
             "decimals": 18
         }
     ]
