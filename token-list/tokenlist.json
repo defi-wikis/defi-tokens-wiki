@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T15:13:50.244Z",
+    "timestamp": "2020-10-03T15:26:10.554Z",
     "version": {
         "major": 1,
-        "minor": 4324,
+        "minor": 4325,
         "patch": 0
     },
     "keywords": [
@@ -28970,6 +28970,13 @@
             "name": "Yukon Finance",
             "symbol": "YUF",
             "address": "0x9F79Af1cfBeE1170A7c41658561Ea4c25f73De8F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0x5B9B839dCEA8EAeB978698e8f606519265682cD7",
             "decimals": 18
         }
     ]
