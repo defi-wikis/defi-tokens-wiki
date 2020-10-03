@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:38:03.012Z",
+    "timestamp": "2020-10-03T23:45:36.002Z",
     "version": {
         "major": 1,
-        "minor": 4397,
+        "minor": 4398,
         "patch": 0
     },
     "keywords": [
@@ -29481,6 +29481,13 @@
             "name": "BXQSJ.Finance",
             "symbol": "BXQSJ",
             "address": "0x6ACb07C97e11B8C18FF8ea1D5Df1F33B54b607da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sandwich",
+            "symbol": "SAND",
+            "address": "0x5781C107121bBD1c2F459335940A50ABC22b681d",
             "decimals": 18
         }
     ]
