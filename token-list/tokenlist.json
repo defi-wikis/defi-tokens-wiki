@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T19:03:07.175Z",
+    "timestamp": "2020-10-03T19:15:36.075Z",
     "version": {
         "major": 1,
-        "minor": 4350,
+        "minor": 4351,
         "patch": 0
     },
     "keywords": [
@@ -29153,6 +29153,13 @@
             "symbol": "EUR",
             "address": "0xFF440aE0Bb96ee0C6a024E9D9BDb9face23ceC6b",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Alco.Network",
+            "symbol": "ALCO",
+            "address": "0x9fFAfF48Fd0Be16Ff2De986870F9c459B719b807",
+            "decimals": 18
         }
     ]
 }
