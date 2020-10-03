@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:58:44.634Z",
+    "timestamp": "2020-10-03T22:01:07.837Z",
     "version": {
         "major": 1,
-        "minor": 4378,
+        "minor": 4379,
         "patch": 0
     },
     "keywords": [
@@ -29348,6 +29348,13 @@
             "name": "YamBurn",
             "symbol": "YBURN",
             "address": "0x724565B61c5b20045E2145fc6594264c442C02b6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zwe.Finance",
+            "symbol": "zwe",
+            "address": "0x4A56d7889A00F08E839CACA47c30FD2883b4d4F0",
             "decimals": 18
         }
     ]
