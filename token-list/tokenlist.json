@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T08:05:30.201Z",
+    "timestamp": "2020-10-03T08:05:54.348Z",
     "version": {
         "major": 1,
-        "minor": 4254,
+        "minor": 4255,
         "patch": 0
     },
     "keywords": [
@@ -28480,6 +28480,13 @@
             "name": "ontology",
             "symbol": "ONT",
             "address": "0x373C4B74523C895408C27363E294FefFF370E9a4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "corctoken",
+            "symbol": "CORC",
+            "address": "0x83B4BE12E93d7D53A92508Ac39149051e53D6190",
             "decimals": 18
         }
     ]
