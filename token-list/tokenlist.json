@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T22:01:07.837Z",
+    "timestamp": "2020-10-03T22:06:20.318Z",
     "version": {
         "major": 1,
-        "minor": 4379,
+        "minor": 4380,
         "patch": 0
     },
     "keywords": [
@@ -29355,6 +29355,13 @@
             "name": "zwe.Finance",
             "symbol": "zwe",
             "address": "0x4A56d7889A00F08E839CACA47c30FD2883b4d4F0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bebop.finance",
+            "symbol": "BBOP",
+            "address": "0x120DA9208e715E4c71Cf40F351478dD48a2fC9B4",
             "decimals": 18
         }
     ]
