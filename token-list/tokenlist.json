@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:31:50.401Z",
+    "timestamp": "2020-10-03T11:32:55.144Z",
     "version": {
         "major": 1,
-        "minor": 4292,
+        "minor": 4293,
         "patch": 0
     },
     "keywords": [
@@ -28746,6 +28746,13 @@
             "name": "Time Locked YFIR",
             "symbol": "tlYFIR",
             "address": "0xDe87999a283a489b33D20E2AFcfeBdaDB8e37e5C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance Lending",
+            "symbol": "YFIL",
+            "address": "0x46d3fB3d8AED52e98a3144FAe7CE9bEC896b64D0",
             "decimals": 18
         }
     ]
