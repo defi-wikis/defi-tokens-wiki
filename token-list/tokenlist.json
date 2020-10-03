@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T13:28:44.827Z",
+    "timestamp": "2020-10-03T13:29:45.244Z",
     "version": {
         "major": 1,
-        "minor": 4311,
+        "minor": 4312,
         "patch": 0
     },
     "keywords": [
@@ -28879,6 +28879,13 @@
             "name": "XYfinance",
             "symbol": "XYFI",
             "address": "0x738e0C78E759611956894edca8A41955F2701Ac5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Finance",
+            "symbol": "YDGF",
+            "address": "0x248e3Ef9309fBC149bb6239E1967C8Bf995148E9",
             "decimals": 18
         }
     ]
