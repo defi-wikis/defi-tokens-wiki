@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T21:40:55.695Z",
+    "timestamp": "2020-10-03T21:45:50.021Z",
     "version": {
         "major": 1,
-        "minor": 4374,
+        "minor": 4375,
         "patch": 0
     },
     "keywords": [
@@ -29320,6 +29320,13 @@
             "name": "HXCGL.Finance",
             "symbol": "HXCGL",
             "address": "0x2Cb747eEB8605a80f68686441Cd391c163A58d31",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje",
+            "symbol": "IAC",
+            "address": "0x459DDa1063a981C30AA74b04397BEFB5470a3fBB",
             "decimals": 18
         }
     ]
