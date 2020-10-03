@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:35:39.402Z",
+    "timestamp": "2020-10-03T11:47:19.600Z",
     "version": {
         "major": 1,
-        "minor": 4294,
+        "minor": 4295,
         "patch": 0
     },
     "keywords": [
@@ -28760,6 +28760,13 @@
             "name": "YBross.Finance",
             "symbol": "YBF",
             "address": "0x5c467489fbF92Da6E9036eC72164F89ECA35e82c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dfiyield.finance",
+            "symbol": "DFF",
+            "address": "0x9c4CB1CB35C77D01a588Ac4b80Da6E2C148a6fa4",
             "decimals": 18
         }
     ]
