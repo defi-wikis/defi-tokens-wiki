@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:04:15.562Z",
+    "timestamp": "2020-10-03T23:10:56.806Z",
     "version": {
         "major": 1,
-        "minor": 4392,
+        "minor": 4393,
         "patch": 0
     },
     "keywords": [
@@ -29446,6 +29446,13 @@
             "name": "Dapcredit",
             "symbol": "Nkap",
             "address": "0x26D19CDa7dF0885b7Ffd0e7834309113fF93F285",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZCYDL.Finance",
+            "symbol": "ZCYDL",
+            "address": "0xD34a2EA3570Ec58c79a81dF25F8Ff5F90d18f5Ac",
             "decimals": 18
         }
     ]
