@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T11:30:25.564Z",
+    "timestamp": "2020-10-03T11:31:50.401Z",
     "version": {
         "major": 1,
-        "minor": 4291,
+        "minor": 4292,
         "patch": 0
     },
     "keywords": [
@@ -28739,6 +28739,13 @@
             "name": "HellFire.finance",
             "symbol": "hFIRE",
             "address": "0x08d0091096a3c8d914e6a239a007d98FA9773d29",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Time Locked YFIR",
+            "symbol": "tlYFIR",
+            "address": "0xDe87999a283a489b33D20E2AFcfeBdaDB8e37e5C",
             "decimals": 18
         }
     ]
