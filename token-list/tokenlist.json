@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:06:07.345Z",
+    "timestamp": "2020-10-03T09:19:25.003Z",
     "version": {
         "major": 1,
-        "minor": 4263,
+        "minor": 4264,
         "patch": 0
     },
     "keywords": [
@@ -28543,6 +28543,13 @@
             "name": "I-S-N",
             "symbol": "ISN",
             "address": "0xe793e7CA71747AF4F6a1e8af84eBF0055fBca997",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BXBGL.Finance",
+            "symbol": "BXBGL",
+            "address": "0xEF7857f880FF6C99C1282Dc4EBc266279cBED88A",
             "decimals": 18
         }
     ]
