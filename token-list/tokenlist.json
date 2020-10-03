@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T13:29:45.244Z",
+    "timestamp": "2020-10-03T13:32:50.606Z",
     "version": {
         "major": 1,
-        "minor": 4312,
+        "minor": 4313,
         "patch": 0
     },
     "keywords": [
@@ -28887,6 +28887,13 @@
             "symbol": "YDGF",
             "address": "0x248e3Ef9309fBC149bb6239E1967C8Bf995148E9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jivinci",
+            "symbol": "JIV",
+            "address": "0xAA1A039450123f8d55eDEa10E48bc8D44c87edDe",
+            "decimals": 4
         }
     ]
 }
