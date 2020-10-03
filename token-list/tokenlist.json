@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T05:57:00.674Z",
+    "timestamp": "2020-10-03T05:59:35.300Z",
     "version": {
         "major": 1,
-        "minor": 4235,
+        "minor": 4236,
         "patch": 0
     },
     "keywords": [
@@ -28347,6 +28347,13 @@
             "name": "harddrive.finance",
             "symbol": "HDF",
             "address": "0xCA1c630Af14bbc59fBe938EA21ebD161b0791f8b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje",
+            "symbol": "IAC",
+            "address": "0x5cFA43B3381d82230e27DF0B7957f0F2628426c1",
             "decimals": 18
         }
     ]
