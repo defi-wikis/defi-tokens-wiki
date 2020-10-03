@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T09:59:24.744Z",
+    "timestamp": "2020-10-03T10:08:24.659Z",
     "version": {
         "major": 1,
-        "minor": 4275,
+        "minor": 4276,
         "patch": 0
     },
     "keywords": [
@@ -28627,6 +28627,13 @@
             "name": "ZHNYC.Finance",
             "symbol": "ZHNYC",
             "address": "0xF0b9151463C916Bab860a9000Ca58048aE09Ca2b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.finance",
+            "symbol": "YFIIIIII",
+            "address": "0x1fda6c235B1664C411494982e7F9613079A1335D",
             "decimals": 18
         }
     ]
