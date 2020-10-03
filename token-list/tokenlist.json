@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T05:52:50.386Z",
+    "timestamp": "2020-10-03T05:57:00.674Z",
     "version": {
         "major": 1,
-        "minor": 4234,
+        "minor": 4235,
         "patch": 0
     },
     "keywords": [
@@ -28340,6 +28340,13 @@
             "name": "monkeyswap",
             "symbol": "MONKE",
             "address": "0x8912Db7d4C302C543EB8c0F97a90d705932E384B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "harddrive.finance",
+            "symbol": "HDF",
+            "address": "0xCA1c630Af14bbc59fBe938EA21ebD161b0791f8b",
             "decimals": 18
         }
     ]
