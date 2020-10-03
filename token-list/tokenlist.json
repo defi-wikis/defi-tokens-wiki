@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T12:38:07.215Z",
+    "timestamp": "2020-10-03T13:02:02.118Z",
     "version": {
         "major": 1,
-        "minor": 4306,
+        "minor": 4307,
         "patch": 0
     },
     "keywords": [
@@ -28844,6 +28844,13 @@
             "name": "Uniswapcap.com",
             "symbol": "UNCA",
             "address": "0xd2a69A1350b54c6745e770F990D2a8Aa2C4c8E4E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "piedao.org",
+            "symbol": "DOUGH",
+            "address": "0xF2987889469E121c9E2776B48b0C935c7e4ab88C",
             "decimals": 18
         }
     ]
