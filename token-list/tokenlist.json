@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T15:32:35.100Z",
+    "timestamp": "2020-10-03T15:36:14.389Z",
     "version": {
         "major": 1,
-        "minor": 4326,
+        "minor": 4327,
         "patch": 0
     },
     "keywords": [
@@ -28984,6 +28984,13 @@
             "name": "Charizard.farm",
             "symbol": "CRZF",
             "address": "0xB23b0EF01235fAEE77110e96854ca937f09442C6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HADES",
+            "symbol": "HADE",
+            "address": "0x5900e9C1299851C9dEDe85eA95ed2B33d31c6B48",
             "decimals": 18
         }
     ]
