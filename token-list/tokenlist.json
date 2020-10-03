@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T12:27:19.659Z",
+    "timestamp": "2020-10-03T12:35:30.222Z",
     "version": {
         "major": 1,
-        "minor": 4304,
+        "minor": 4305,
         "patch": 0
     },
     "keywords": [
@@ -28830,6 +28830,13 @@
             "name": "OCTO.fi",
             "symbol": "OCTO",
             "address": "0xF3e8e015047a4858cB07Ea3be991B84886A8ed9A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TIMERS",
+            "symbol": "IPM",
+            "address": "0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
             "decimals": 18
         }
     ]
