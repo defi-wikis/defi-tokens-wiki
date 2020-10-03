@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T04:06:54.813Z",
+    "timestamp": "2020-10-03T04:30:12.773Z",
     "version": {
         "major": 1,
-        "minor": 4226,
+        "minor": 4227,
         "patch": 0
     },
     "keywords": [
@@ -28284,6 +28284,13 @@
             "name": "Ring",
             "symbol": "RING",
             "address": "0x8B8357d7473D769b009aE093e2cbc82079174918",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitSwap",
+            "symbol": "BTCS",
+            "address": "0x06E17E8212259B706d0c4C5ad435Cd4e6f53D3bD",
             "decimals": 18
         }
     ]
