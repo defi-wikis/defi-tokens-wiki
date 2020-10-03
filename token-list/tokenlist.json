@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T14:28:31.021Z",
+    "timestamp": "2020-10-03T14:31:59.660Z",
     "version": {
         "major": 1,
-        "minor": 4317,
+        "minor": 4318,
         "patch": 0
     },
     "keywords": [
@@ -28921,6 +28921,13 @@
             "name": "Unilend Finance",
             "symbol": "UFT",
             "address": "0xf16bCf80A3DD0e0E923B0B41e87f7522B2142369",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SecureFinance DEX",
+            "symbol": "SXF",
+            "address": "0xFD459410B631EE58f7f631472382d6ce334E66F8",
             "decimals": 18
         }
     ]
