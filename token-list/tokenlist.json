@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:29:45.191Z",
+    "timestamp": "2020-10-04T12:32:54.844Z",
     "version": {
         "major": 1,
-        "minor": 4494,
+        "minor": 4495,
         "patch": 0
     },
     "keywords": [
@@ -30160,6 +30160,13 @@
             "name": "BNYD.Finance",
             "symbol": "BNYD",
             "address": "0xb0680F501BFC8Cc8666F342c03d3f662C2B3634B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nobrainer.finance",
+            "symbol": "BRAIN",
+            "address": "0xe8D6331e40511F206f9266DF1b43ED9cED2f256b",
             "decimals": 18
         }
     ]
