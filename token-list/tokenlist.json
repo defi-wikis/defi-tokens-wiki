@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T00:49:03.100Z",
+    "timestamp": "2020-10-04T00:58:59.853Z",
     "version": {
         "major": 1,
-        "minor": 4407,
+        "minor": 4408,
         "patch": 0
     },
     "keywords": [
@@ -29551,6 +29551,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x8a65Bc85dAEA90EE90F18c82f57c38CBbb2cE3C2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "uniswapv",
+            "symbol": "UNS",
+            "address": "0x63188ff05f02AaFcc7ffDcF8DE9E4DbB22C1e8bF",
             "decimals": 18
         }
     ]
