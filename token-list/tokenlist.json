@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T04:33:54.753Z",
+    "timestamp": "2020-10-04T04:34:51.413Z",
     "version": {
         "major": 1,
-        "minor": 4438,
+        "minor": 4439,
         "patch": 0
     },
     "keywords": [
@@ -29768,6 +29768,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x8CAb3E311702aCB64e250926D77134fDe604BD4D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zin.network",
+            "symbol": "ZIN",
+            "address": "0x5805B6bC542C860BE8cc2111c1b60c6C17F88b56",
             "decimals": 18
         }
     ]
