@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T06:07:16.668Z",
+    "timestamp": "2020-10-04T06:21:54.505Z",
     "version": {
         "major": 1,
-        "minor": 4450,
+        "minor": 4451,
         "patch": 0
     },
     "keywords": [
@@ -29852,6 +29852,13 @@
             "name": "Unipig",
             "symbol": "PIGI",
             "address": "0x761137Dd355d2C86633f954FeB0567AF4D556dd1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nyan.finance",
+            "symbol": "NYAN",
+            "address": "0x86621aa98225506d66528Ff1Aaa44f653Ae9a554",
             "decimals": 18
         }
     ]
