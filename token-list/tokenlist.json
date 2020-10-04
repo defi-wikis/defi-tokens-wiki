@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:18:40.257Z",
+    "timestamp": "2020-10-04T09:23:14.854Z",
     "version": {
         "major": 1,
-        "minor": 4472,
+        "minor": 4473,
         "patch": 0
     },
     "keywords": [
@@ -30006,6 +30006,13 @@
             "name": "yplutus.finance",
             "symbol": "YPLT",
             "address": "0x003dAa5B2DabD7F4512f1855DfFBB0080682102C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MZMBH.Finance",
+            "symbol": "MZMBH",
+            "address": "0x544451f4626Ef4EE220e16930596Fb5DeAEB7FC2",
             "decimals": 18
         }
     ]
