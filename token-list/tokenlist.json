@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:42:59.474Z",
+    "timestamp": "2020-10-04T22:09:34.967Z",
     "version": {
         "major": 1,
-        "minor": 4582,
+        "minor": 4583,
         "patch": 0
     },
     "keywords": [
@@ -30777,6 +30777,13 @@
             "symbol": "TFN",
             "address": "0x3554dfb77e657D36708070124Cf42B1f5528C9B9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NORI finance",
+            "symbol": "NORI",
+            "address": "0xC50572d1bAEeD790f894304d4520BD5B5519238C",
+            "decimals": 0
         }
     ]
 }
