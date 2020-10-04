@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:31:20.506Z",
+    "timestamp": "2020-10-04T21:31:26.166Z",
     "version": {
         "major": 1,
-        "minor": 4577,
+        "minor": 4578,
         "patch": 0
     },
     "keywords": [
@@ -30742,6 +30742,13 @@
             "symbol": "PPAY",
             "address": "0xBd70C462e376d7b45C69c7cB80795B0db356F31E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ketamine finance",
+            "symbol": "KET",
+            "address": "0x40938949687e76f6C7CD4d3E8C081b0FC4Aa9851",
+            "decimals": 0
         }
     ]
 }
