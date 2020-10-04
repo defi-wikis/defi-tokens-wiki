@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T22:51:44.727Z",
+    "timestamp": "2020-10-04T22:56:02.028Z",
     "version": {
         "major": 1,
-        "minor": 4588,
+        "minor": 4589,
         "patch": 0
     },
     "keywords": [
@@ -30818,6 +30818,13 @@
             "name": "Core Chain Token",
             "symbol": "COREC",
             "address": "0xFeFb98ba022803eb0AFA1088A1339FD213e26bA3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$SEND",
+            "symbol": "SEND",
+            "address": "0x14c4d8E57751E083bcD1EdCCA5B435720166f5E9",
             "decimals": 18
         }
     ]
