@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T22:44:30.769Z",
+    "timestamp": "2020-10-04T22:51:44.727Z",
     "version": {
         "major": 1,
-        "minor": 4587,
+        "minor": 4588,
         "patch": 0
     },
     "keywords": [
@@ -30811,6 +30811,13 @@
             "name": "GAMESHOT",
             "symbol": "GST",
             "address": "0x7bd630983148e781c332b2DfA3eAC0df7417DEF7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Chain Token",
+            "symbol": "COREC",
+            "address": "0xFeFb98ba022803eb0AFA1088A1339FD213e26bA3",
             "decimals": 18
         }
     ]
