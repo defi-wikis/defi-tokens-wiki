@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T07:09:10.677Z",
+    "timestamp": "2020-10-04T07:17:20.451Z",
     "version": {
         "major": 1,
-        "minor": 4455,
+        "minor": 4456,
         "patch": 0
     },
     "keywords": [
@@ -29887,6 +29887,13 @@
             "name": "Cheese",
             "symbol": "CHEESE",
             "address": "0xA04bDB1f11413a84D1F6C1d4d4FeD0208F2e68bF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FOMO.World",
+            "symbol": "FOMO",
+            "address": "0x88b98eBebE03F11998C5A02faa2b64e97e3A42fC",
             "decimals": 18
         }
     ]
