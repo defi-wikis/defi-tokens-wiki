@@ -1,0 +1,7 @@
+{
+    "name": "PlasmaPay",
+    "symbol": "PPAY",
+    "address": "0x98F0A77af0d678aa4376cEa5D4427bb1A8902ef5",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
