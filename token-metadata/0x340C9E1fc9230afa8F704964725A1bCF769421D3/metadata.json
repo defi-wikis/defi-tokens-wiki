@@ -1,0 +1,7 @@
+{
+    "name": "New Fund",
+    "symbol": "XTF.XXX1",
+    "address": "0x340C9E1fc9230afa8F704964725A1bCF769421D3",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
