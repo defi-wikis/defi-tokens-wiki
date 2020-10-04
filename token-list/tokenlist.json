@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T04:34:51.413Z",
+    "timestamp": "2020-10-04T04:52:27.436Z",
     "version": {
         "major": 1,
-        "minor": 4439,
+        "minor": 4440,
         "patch": 0
     },
     "keywords": [
@@ -29775,6 +29775,13 @@
             "name": "zin.network",
             "symbol": "ZIN",
             "address": "0x5805B6bC542C860BE8cc2111c1b60c6C17F88b56",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ramen farm",
+            "symbol": "RAMEN",
+            "address": "0x6003f3145f342b6e5E27148F2457fD8Be2D6FD86",
             "decimals": 18
         }
     ]
