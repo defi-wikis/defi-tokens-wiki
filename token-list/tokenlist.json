@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T15:47:31.219Z",
+    "timestamp": "2020-10-04T15:55:30.317Z",
     "version": {
         "major": 1,
-        "minor": 4527,
+        "minor": 4528,
         "patch": 0
     },
     "keywords": [
@@ -30391,6 +30391,13 @@
             "name": "PEV finance",
             "symbol": "PEV",
             "address": "0x1f9b064d868e67BAC65B04798C37E088057508c3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aave Finance",
+            "symbol": "LEND2",
+            "address": "0x3ea14bFD930c2421f5a97061b5798801caC65999",
             "decimals": 18
         }
     ]
