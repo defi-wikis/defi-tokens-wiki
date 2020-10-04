@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T15:33:16.738Z",
+    "timestamp": "2020-10-04T15:47:31.219Z",
     "version": {
         "major": 1,
-        "minor": 4526,
+        "minor": 4527,
         "patch": 0
     },
     "keywords": [
@@ -30384,6 +30384,13 @@
             "name": "$THAT",
             "symbol": "$THAT",
             "address": "0x7327890865c9eaCdA33f70267af5C4b9B820e26a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PEV finance",
+            "symbol": "PEV",
+            "address": "0x1f9b064d868e67BAC65B04798C37E088057508c3",
             "decimals": 18
         }
     ]
