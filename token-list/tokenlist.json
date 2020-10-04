@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T10:54:37.043Z",
+    "timestamp": "2020-10-04T11:05:56.264Z",
     "version": {
         "major": 1,
-        "minor": 4483,
+        "minor": 4484,
         "patch": 0
     },
     "keywords": [
@@ -30083,6 +30083,13 @@
             "name": "ZUSE finance",
             "symbol": "ZUSE",
             "address": "0xcd7f99e9Beb8f8704e7df93cf592C912C0d35ff1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "satoshi",
+            "symbol": "SAT",
+            "address": "0xEb1046FE6b05A24F373A123DB281a405F1917a7a",
             "decimals": 18
         }
     ]
