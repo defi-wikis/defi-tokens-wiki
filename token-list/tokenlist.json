@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:15:45.826Z",
+    "timestamp": "2020-10-04T03:19:14.735Z",
     "version": {
         "major": 1,
-        "minor": 4426,
+        "minor": 4427,
         "patch": 0
     },
     "keywords": [
@@ -29684,6 +29684,13 @@
             "name": "yearn finance wealth",
             "symbol": "YFW",
             "address": "0x1B40AE317FF3B0734Bac3c9e19d999570B1faA7c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje V2",
+            "symbol": "IACV2",
+            "address": "0x21c1d1D73F7dCf03F5816eccb96A7B90a150b428",
             "decimals": 18
         }
     ]
