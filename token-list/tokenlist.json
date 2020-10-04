@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T07:51:26.418Z",
+    "timestamp": "2020-10-04T07:51:54.516Z",
     "version": {
         "major": 1,
-        "minor": 4459,
+        "minor": 4460,
         "patch": 0
     },
     "keywords": [
@@ -29915,6 +29915,13 @@
             "name": "PEOPLES TEMPLE",
             "symbol": "KOOL",
             "address": "0xa3604b62e72c6B02d845A305cc3E9F3beEC3bAC6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MASSAGE",
+            "symbol": "MSG",
+            "address": "0xCD1Dd3472A07e5c1b0c042288F4d0D191073789d",
             "decimals": 18
         }
     ]
