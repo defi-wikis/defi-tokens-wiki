@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T00:40:39.881Z",
+    "timestamp": "2020-10-04T00:49:03.100Z",
     "version": {
         "major": 1,
-        "minor": 4406,
+        "minor": 4407,
         "patch": 0
     },
     "keywords": [
@@ -29544,6 +29544,13 @@
             "name": "PlasmaPay",
             "symbol": "PPAY",
             "address": "0x98F0A77af0d678aa4376cEa5D4427bb1A8902ef5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "test",
+            "symbol": "test",
+            "address": "0x8a65Bc85dAEA90EE90F18c82f57c38CBbb2cE3C2",
             "decimals": 18
         }
     ]
