@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T17:29:42.629Z",
+    "timestamp": "2020-10-04T17:32:46.502Z",
     "version": {
         "major": 1,
-        "minor": 4549,
+        "minor": 4550,
         "patch": 0
     },
     "keywords": [
@@ -30546,6 +30546,13 @@
             "symbol": "yYKZ",
             "address": "0x24e0c0180fe330efD8fA9e965439dFAC0fF932b3",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Luigi Finance",
+            "symbol": "LUIGI",
+            "address": "0x75BB2AD1A41d285aE72Ba6Ffa500C3f0F1a863DF",
+            "decimals": 18
         }
     ]
 }
