@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:19:04.023Z",
+    "timestamp": "2020-10-04T16:24:36.813Z",
     "version": {
         "major": 1,
-        "minor": 4536,
+        "minor": 4537,
         "patch": 0
     },
     "keywords": [
@@ -30455,6 +30455,13 @@
             "symbol": "BTCH",
             "address": "0x3dE954AB51e30DF718EA3bB161734ceF9a4fC7A2",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "PHEEZEZ Token",
+            "symbol": "PHZT",
+            "address": "0x8296BcEd40BA067a1de30aEB5a294258c16a0473",
+            "decimals": 18
         }
     ]
 }
