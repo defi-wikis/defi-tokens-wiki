@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T14:18:40.393Z",
+    "timestamp": "2020-10-04T14:19:35.206Z",
     "version": {
         "major": 1,
-        "minor": 4512,
+        "minor": 4513,
         "patch": 0
     },
     "keywords": [
@@ -30286,6 +30286,13 @@
             "name": "YFED.Finance",
             "symbol": "YFED",
             "address": "0x1708061f3bad409B34106b1891d7b6Bce762eFB8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SGBB.FARM",
+            "symbol": "$SGBB",
+            "address": "0xbD3aC4013575FEe1BeCc2bAF5Aace97Fc815Fea2",
             "decimals": 18
         }
     ]
