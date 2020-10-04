@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:07:16.769Z",
+    "timestamp": "2020-10-04T16:07:27.018Z",
     "version": {
         "major": 1,
-        "minor": 4532,
+        "minor": 4533,
         "patch": 0
     },
     "keywords": [
@@ -30426,6 +30426,13 @@
             "name": "AGENTRED.finance",
             "symbol": "AGENT",
             "address": "0x9198A3EEae38b095d6Ed819d5645b90568DbAd89",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xVault.finance",
+            "symbol": "XCORE",
+            "address": "0x6d6e70410275f34865f1e33Ef7F2891ebDa254d5",
             "decimals": 18
         }
     ]
