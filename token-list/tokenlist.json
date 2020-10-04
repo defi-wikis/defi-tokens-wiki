@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:07:27.018Z",
+    "timestamp": "2020-10-04T16:16:22.039Z",
     "version": {
         "major": 1,
-        "minor": 4533,
+        "minor": 4534,
         "patch": 0
     },
     "keywords": [
@@ -30433,6 +30433,13 @@
             "name": "xVault.finance",
             "symbol": "XCORE",
             "address": "0x6d6e70410275f34865f1e33Ef7F2891ebDa254d5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Selected Coin",
+            "symbol": "SDN",
+            "address": "0x958D960A34d4B49733dBF115388d6222097CFDD9",
             "decimals": 18
         }
     ]
