@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T23:40:44.691Z",
+    "timestamp": "2020-10-04T23:53:34.663Z",
     "version": {
         "major": 1,
-        "minor": 4596,
+        "minor": 4597,
         "patch": 0
     },
     "keywords": [
@@ -30874,6 +30874,13 @@
             "name": "Orbate",
             "symbol": "Orb8",
             "address": "0xe3Bfb29F090ddE434De52ED99BEDd3F1f5BD1b31",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bonded.finance",
+            "symbol": "BOND",
+            "address": "0xEBFb28a3495516f1932BBF1F7f50350B582Cfc29",
             "decimals": 18
         }
     ]
