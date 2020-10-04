@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:11:54.921Z",
+    "timestamp": "2020-10-04T12:17:37.641Z",
     "version": {
         "major": 1,
-        "minor": 4489,
+        "minor": 4490,
         "patch": 0
     },
     "keywords": [
@@ -30125,6 +30125,13 @@
             "name": "HSBX.Finance",
             "symbol": "HSBX",
             "address": "0x2dD40570eC20dDe4C449a2387858b8AE2Ad823dd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "You need coin",
+            "symbol": "YNC",
+            "address": "0x90A21D67fB371bB1f471787D77e643233DFd71b7",
             "decimals": 18
         }
     ]
