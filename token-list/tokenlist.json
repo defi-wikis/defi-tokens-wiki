@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T11:39:11.939Z",
+    "timestamp": "2020-10-04T11:48:19.959Z",
     "version": {
         "major": 1,
-        "minor": 4486,
+        "minor": 4487,
         "patch": 0
     },
     "keywords": [
@@ -30104,6 +30104,13 @@
             "name": "PLUS",
             "symbol": "PLUS",
             "address": "0xdef2aE162F11184C2BEC0FDF671366016F3E415d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ricer.Finance",
+            "symbol": "MOONC",
+            "address": "0x0C7BE37b00C1D3127c09da66fADF3d6EB600dEcE",
             "decimals": 18
         }
     ]
