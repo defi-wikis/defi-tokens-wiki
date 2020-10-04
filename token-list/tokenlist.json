@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T18:04:22.616Z",
+    "timestamp": "2020-10-04T18:17:30.359Z",
     "version": {
         "major": 1,
-        "minor": 4553,
+        "minor": 4554,
         "patch": 0
     },
     "keywords": [
@@ -30573,6 +30573,13 @@
             "name": "MoonFuel",
             "symbol": "MOONFUEL",
             "address": "0x4689020104eDEE22454E0f76d3fF682b48806850",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance 2nd Generation",
+            "symbol": "CFG",
+            "address": "0x3ef3CDba40A731094AB985084cFB1732635febbf",
             "decimals": 18
         }
     ]
