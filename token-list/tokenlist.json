@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:20:20.002Z",
+    "timestamp": "2020-10-04T13:31:20.201Z",
     "version": {
         "major": 1,
-        "minor": 4499,
+        "minor": 4500,
         "patch": 0
     },
     "keywords": [
@@ -30195,6 +30195,13 @@
             "name": "ZCYDLA.Finance",
             "symbol": "ZCYDLA",
             "address": "0xb803762a8A33c46525Ce6a030DE85B16AF493Df5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dottery.org",
+            "symbol": "DOTY",
+            "address": "0xcdCb00f46C717b8D3668aB6AD6bE51638962b1a6",
             "decimals": 18
         }
     ]
