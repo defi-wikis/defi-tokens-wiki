@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:26:45.166Z",
+    "timestamp": "2020-10-04T01:36:07.817Z",
     "version": {
         "major": 1,
-        "minor": 4415,
+        "minor": 4416,
         "patch": 0
     },
     "keywords": [
@@ -29607,6 +29607,13 @@
             "name": "GIVToken @ cryptolocally.com",
             "symbol": "GIV",
             "address": "0x70f2ef6874655bD49c458Ab3937661DD401c054d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNS Finance",
+            "symbol": "UNS",
+            "address": "0x5Fd9E36b6E97B1A791a8611e45C5Acf647909A2C",
             "decimals": 18
         }
     ]
