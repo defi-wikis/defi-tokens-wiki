@@ -1,0 +1,7 @@
+{
+    "name": "Aave Finance",
+    "symbol": "LEND2",
+    "address": "0x3ea14bFD930c2421f5a97061b5798801caC65999",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
