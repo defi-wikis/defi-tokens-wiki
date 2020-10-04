@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T14:35:50.296Z",
+    "timestamp": "2020-10-04T14:44:15.088Z",
     "version": {
         "major": 1,
-        "minor": 4516,
+        "minor": 4517,
         "patch": 0
     },
     "keywords": [
@@ -30314,6 +30314,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0x896C942FFfABc40674d73612bF3B98b7F6d6aF00",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AlbioFund",
+            "symbol": "XTF.ALB2",
+            "address": "0x76284774FB6c93fc28f4d7DAab6F2089edb6bEea",
             "decimals": 18
         }
     ]
