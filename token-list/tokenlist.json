@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:29:59.193Z",
+    "timestamp": "2020-10-04T21:31:09.897Z",
     "version": {
         "major": 1,
-        "minor": 4575,
+        "minor": 4576,
         "patch": 0
     },
     "keywords": [
@@ -30727,6 +30727,13 @@
             "name": "Bitcoin Rebase Token",
             "symbol": "BRT",
             "address": "0x71a4CAA05D7319EE40b49201fb992Aa12A4550da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Black.Finance",
+            "symbol": "BYFI",
+            "address": "0x9c39C8163693DB6FA45F6955BCCFAd4ba7888b22",
             "decimals": 18
         }
     ]
