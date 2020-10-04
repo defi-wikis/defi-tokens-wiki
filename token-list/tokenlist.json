@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T18:35:59.844Z",
+    "timestamp": "2020-10-04T18:42:10.110Z",
     "version": {
         "major": 1,
-        "minor": 4555,
+        "minor": 4556,
         "patch": 0
     },
     "keywords": [
@@ -30588,6 +30588,13 @@
             "symbol": "NIC",
             "address": "0xDB45154573c0c2e8b5D0ad95583d81e0ceb0aabd",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wise Man Token",
+            "symbol": "WMT",
+            "address": "0xab818c0EB7b1F799C38e4A656fb3FFad53Eb2Fb5",
+            "decimals": 4
         }
     ]
 }
