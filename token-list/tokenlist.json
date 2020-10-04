@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T17:32:46.502Z",
+    "timestamp": "2020-10-04T17:34:20.362Z",
     "version": {
         "major": 1,
-        "minor": 4550,
+        "minor": 4551,
         "patch": 0
     },
     "keywords": [
@@ -30552,6 +30552,13 @@
             "name": "Luigi Finance",
             "symbol": "LUIGI",
             "address": "0x75BB2AD1A41d285aE72Ba6Ffa500C3f0F1a863DF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Test Token",
+            "symbol": "TST",
+            "address": "0x0f0271F4B8195bd33a909c2C05D007b9C3083C47",
             "decimals": 18
         }
     ]
