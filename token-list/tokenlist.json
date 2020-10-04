@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:25:07.071Z",
+    "timestamp": "2020-10-04T01:26:35.272Z",
     "version": {
         "major": 1,
-        "minor": 4413,
+        "minor": 4414,
         "patch": 0
     },
     "keywords": [
@@ -29593,6 +29593,13 @@
             "name": "curveI.fi",
             "symbol": "CurveI",
             "address": "0x0D7778241D2fcAAFc5fAb40C3F3aDb49a4E5B231",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje v2",
+            "symbol": "IACv2",
+            "address": "0x82427DB2A4a08f0414e735054219EA226735B4B3",
             "decimals": 18
         }
     ]
