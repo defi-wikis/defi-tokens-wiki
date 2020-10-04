@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T20:39:44.709Z",
+    "timestamp": "2020-10-04T20:44:15.172Z",
     "version": {
         "major": 1,
-        "minor": 4565,
+        "minor": 4566,
         "patch": 0
     },
     "keywords": [
@@ -30657,6 +30657,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x6d4c6f396C045dA7c91545e5b7bf1c88cE8d6D8f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TenCore Protocol",
+            "symbol": "TCP",
+            "address": "0xf4D43AfC947D09f5c1c7C9b84EF4FB715c3909a9",
             "decimals": 18
         }
     ]
