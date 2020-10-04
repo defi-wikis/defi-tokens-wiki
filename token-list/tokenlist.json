@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:32:07.017Z",
+    "timestamp": "2020-10-04T21:34:55.340Z",
     "version": {
         "major": 1,
-        "minor": 4579,
+        "minor": 4580,
         "patch": 0
     },
     "keywords": [
@@ -30755,6 +30755,13 @@
             "name": "PUMP",
             "symbol": "PUMP",
             "address": "0x05C02fa48907C2814128e2d013b8EfAba2E250d7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LunaCore",
+            "symbol": "LUCR",
+            "address": "0x547d61182B7a5c43D4e4F93A01628e6c5634B9C9",
             "decimals": 18
         }
     ]
