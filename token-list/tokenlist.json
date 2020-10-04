@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:39:41.376Z",
+    "timestamp": "2020-10-04T09:41:54.866Z",
     "version": {
         "major": 1,
-        "minor": 4476,
+        "minor": 4477,
         "patch": 0
     },
     "keywords": [
@@ -30034,6 +30034,13 @@
             "name": "Strawberries Finance",
             "symbol": "SBR",
             "address": "0xb44EC098d469CdAE0ACcA94cc30Beb1e4263aB4b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zeta Finance",
+            "symbol": "ZFI",
+            "address": "0xDBEb0dBCD280611413f85C30aE59ac56eBb57406",
             "decimals": 18
         }
     ]
