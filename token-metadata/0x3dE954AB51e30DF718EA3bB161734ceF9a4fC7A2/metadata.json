@@ -1,0 +1,7 @@
+{
+    "name": "Bitcoin hash",
+    "symbol": "BTCH",
+    "address": "0x3dE954AB51e30DF718EA3bB161734ceF9a4fC7A2",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
