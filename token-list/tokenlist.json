@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T23:36:34.655Z",
+    "timestamp": "2020-10-04T23:36:44.688Z",
     "version": {
         "major": 1,
-        "minor": 4594,
+        "minor": 4595,
         "patch": 0
     },
     "keywords": [
@@ -30860,6 +30860,13 @@
             "name": "Boom Finance",
             "symbol": "BOOMF",
             "address": "0xe0d8c1408763691055EB3ac17916a8bfcA788B5b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "conceal.network",
+            "symbol": "CCX",
+            "address": "0x2275Ae7699a056464979b7c8E703dFa1872C264A",
             "decimals": 18
         }
     ]
