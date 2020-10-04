@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T07:17:20.451Z",
+    "timestamp": "2020-10-04T07:28:25.435Z",
     "version": {
         "major": 1,
-        "minor": 4456,
+        "minor": 4457,
         "patch": 0
     },
     "keywords": [
@@ -29894,6 +29894,13 @@
             "name": "FOMO.World",
             "symbol": "FOMO",
             "address": "0x88b98eBebE03F11998C5A02faa2b64e97e3A42fC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "stabilize.finance",
+            "symbol": "STBZ",
+            "address": "0xA3684F584431fa689A44C753F55920516E8b8F78",
             "decimals": 18
         }
     ]
