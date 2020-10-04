@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:06:10.612Z",
+    "timestamp": "2020-10-04T16:07:16.769Z",
     "version": {
         "major": 1,
-        "minor": 4531,
+        "minor": 4532,
         "patch": 0
     },
     "keywords": [
@@ -30419,6 +30419,13 @@
             "name": "grey.holdings1",
             "symbol": "GREY",
             "address": "0x5984CC00B02658FE7E2Cd7EC62BD93fC6846cd61",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AGENTRED.finance",
+            "symbol": "AGENT",
+            "address": "0x9198A3EEae38b095d6Ed819d5645b90568DbAd89",
             "decimals": 18
         }
     ]
