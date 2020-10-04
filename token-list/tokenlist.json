@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T15:55:30.317Z",
+    "timestamp": "2020-10-04T15:56:10.769Z",
     "version": {
         "major": 1,
-        "minor": 4528,
+        "minor": 4529,
         "patch": 0
     },
     "keywords": [
@@ -30398,6 +30398,13 @@
             "name": "Aave Finance",
             "symbol": "LEND2",
             "address": "0x3ea14bFD930c2421f5a97061b5798801caC65999",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TrumpSwap.ORG",
+            "symbol": "Trump",
+            "address": "0x0B5eFc5bA98f2D535916647Bbef990CF0354AeFA",
             "decimals": 18
         }
     ]
