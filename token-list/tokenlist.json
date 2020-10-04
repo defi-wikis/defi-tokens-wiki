@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:03:15.313Z",
+    "timestamp": "2020-10-04T16:06:10.612Z",
     "version": {
         "major": 1,
-        "minor": 4530,
+        "minor": 4531,
         "patch": 0
     },
     "keywords": [
@@ -30412,6 +30412,13 @@
             "name": "Yearn Finance Ecosystem",
             "symbol": "YFIEC",
             "address": "0x35Bec6549FEc50B70486ab30459bfF322c2Fb953",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "grey.holdings1",
+            "symbol": "GREY",
+            "address": "0x5984CC00B02658FE7E2Cd7EC62BD93fC6846cd61",
             "decimals": 18
         }
     ]
