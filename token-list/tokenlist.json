@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:29:39.891Z",
+    "timestamp": "2020-10-04T12:29:45.191Z",
     "version": {
         "major": 1,
-        "minor": 4493,
+        "minor": 4494,
         "patch": 0
     },
     "keywords": [
@@ -30153,6 +30153,13 @@
             "name": "YXfinance",
             "symbol": "YXFI",
             "address": "0x7F016b52331d01C73Fdb55a1B64618f409CB2940",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BNYD.Finance",
+            "symbol": "BNYD",
+            "address": "0xb0680F501BFC8Cc8666F342c03d3f662C2B3634B",
             "decimals": 18
         }
     ]
