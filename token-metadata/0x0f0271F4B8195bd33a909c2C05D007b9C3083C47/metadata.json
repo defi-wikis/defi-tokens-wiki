@@ -1,0 +1,7 @@
+{
+    "name": "Test Token",
+    "symbol": "TST",
+    "address": "0x0f0271F4B8195bd33a909c2C05D007b9C3083C47",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
