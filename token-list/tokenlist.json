@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T17:23:22.336Z",
+    "timestamp": "2020-10-04T17:29:42.629Z",
     "version": {
         "major": 1,
-        "minor": 4548,
+        "minor": 4549,
         "patch": 0
     },
     "keywords": [
@@ -30539,6 +30539,13 @@
             "symbol": "CXP",
             "address": "0x7C4A8A449a9B1548b06946D2Fe41c66E5b9D2fd1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yYKZ",
+            "symbol": "yYKZ",
+            "address": "0x24e0c0180fe330efD8fA9e965439dFAC0fF932b3",
+            "decimals": 0
         }
     ]
 }
