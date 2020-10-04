@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T05:04:14.738Z",
+    "timestamp": "2020-10-04T05:04:59.324Z",
     "version": {
         "major": 1,
-        "minor": 4442,
+        "minor": 4443,
         "patch": 0
     },
     "keywords": [
@@ -29796,6 +29796,13 @@
             "name": "AXIE",
             "symbol": "AXIE",
             "address": "0x3a6e9461aB9dB541E3509E9cE3295cCff93b8f92",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mint Finance",
+            "symbol": "MINTF",
+            "address": "0x899057B4e67B668604e7AfDAaA1522B649b61a1a",
             "decimals": 18
         }
     ]
