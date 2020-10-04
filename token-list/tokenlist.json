@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:41:59.656Z",
+    "timestamp": "2020-10-04T13:43:36.202Z",
     "version": {
         "major": 1,
-        "minor": 4504,
+        "minor": 4505,
         "patch": 0
     },
     "keywords": [
@@ -30230,6 +30230,13 @@
             "name": "Cockroach.Finance",
             "symbol": "COCK",
             "address": "0xD1b54D12a445960adbfa80edB2Ca109B9C1A074b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JCXLA.Finance",
+            "symbol": "JCXLA",
+            "address": "0x313798643eE0959B38A797C853e5dbF360984421",
             "decimals": 18
         }
     ]
