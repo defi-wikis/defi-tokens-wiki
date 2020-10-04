@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:34:55.340Z",
+    "timestamp": "2020-10-04T21:36:54.813Z",
     "version": {
         "major": 1,
-        "minor": 4580,
+        "minor": 4581,
         "patch": 0
     },
     "keywords": [
@@ -30763,6 +30763,13 @@
             "symbol": "LUCR",
             "address": "0x547d61182B7a5c43D4e4F93A01628e6c5634B9C9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ysfi Token",
+            "symbol": "ysfi",
+            "address": "0xaeF3Ff1d315E29d64f3C08D1692E0Aa02A180E19",
+            "decimals": 8
         }
     ]
 }
