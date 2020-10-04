@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:52:54.813Z",
+    "timestamp": "2020-10-04T10:03:35.175Z",
     "version": {
         "major": 1,
-        "minor": 4480,
+        "minor": 4481,
         "patch": 0
     },
     "keywords": [
@@ -30062,6 +30062,13 @@
             "name": "YDKYD.Finance",
             "symbol": "YDKYD",
             "address": "0x49FA7c0541b6F3A049d50C3c8b88a0e68C25891A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZooToken",
+            "symbol": "Zoo",
+            "address": "0x8143331CA5Ac97c39e9E82b1D8A8369CA50cF25D",
             "decimals": 18
         }
     ]
