@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T14:45:23.684Z",
+    "timestamp": "2020-10-04T14:47:37.845Z",
     "version": {
         "major": 1,
-        "minor": 4518,
+        "minor": 4519,
         "patch": 0
     },
     "keywords": [
@@ -30328,6 +30328,13 @@
             "name": "Near Protocol",
             "symbol": "NEAR",
             "address": "0x5328A64f55eE110B4f1a492E6b97ff00b6d1e2B0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dottery.org",
+            "symbol": "DOTY",
+            "address": "0x3D27D59865c3A201E226DA070E7abCd6967b6e08",
             "decimals": 18
         }
     ]
