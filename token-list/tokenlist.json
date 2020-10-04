@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:41:34.701Z",
+    "timestamp": "2020-10-04T13:41:44.623Z",
     "version": {
         "major": 1,
-        "minor": 4502,
+        "minor": 4503,
         "patch": 0
     },
     "keywords": [
@@ -30216,6 +30216,13 @@
             "name": "doritos.finance",
             "symbol": "CHIPS",
             "address": "0x4aF0E48940fE71f08b4071E0515e9C695c358455",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Snapbots",
+            "symbol": "SNAP",
+            "address": "0x16d85679DeFA6A120a6691bD575ba60F4E76BA69",
             "decimals": 18
         }
     ]
