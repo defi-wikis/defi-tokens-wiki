@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T02:31:35.017Z",
+    "timestamp": "2020-10-04T02:50:24.979Z",
     "version": {
         "major": 1,
-        "minor": 4422,
+        "minor": 4423,
         "patch": 0
     },
     "keywords": [
@@ -29656,6 +29656,13 @@
             "name": "Core Finance 2",
             "symbol": "CF2",
             "address": "0xBa9532f85A0e3d6C86d2112cFCA513FbD6E83A4E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HOO.com",
+            "symbol": "HOO",
+            "address": "0xB7d743122DeE3711D8e82230638fFac22d924Cb3",
             "decimals": 18
         }
     ]
