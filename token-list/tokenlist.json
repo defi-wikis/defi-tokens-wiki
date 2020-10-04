@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T07:57:59.549Z",
+    "timestamp": "2020-10-04T08:19:22.012Z",
     "version": {
         "major": 1,
-        "minor": 4461,
+        "minor": 4462,
         "patch": 0
     },
     "keywords": [
@@ -29929,6 +29929,13 @@
             "name": "ZJZL.Finance",
             "symbol": "ZJZL",
             "address": "0x98d9DeB09F12EE5F0C1bD687f7bc1F4557f9FED3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance Trading",
+            "symbol": "YFIT",
+            "address": "0x8AE54e167a51d1eA3254B9B58373627D845E87b6",
             "decimals": 18
         }
     ]
