@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T08:19:22.012Z",
+    "timestamp": "2020-10-04T08:19:34.612Z",
     "version": {
         "major": 1,
-        "minor": 4462,
+        "minor": 4463,
         "patch": 0
     },
     "keywords": [
@@ -29936,6 +29936,13 @@
             "name": "Yield Finance Trading",
             "symbol": "YFIT",
             "address": "0x8AE54e167a51d1eA3254B9B58373627D845E87b6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZDHLA.Finance",
+            "symbol": "ZDHLA",
+            "address": "0x66a8cAB76307E9c2524048461F9C0103D6330B94",
             "decimals": 18
         }
     ]
