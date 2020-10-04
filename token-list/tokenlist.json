@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T08:51:30.363Z",
+    "timestamp": "2020-10-04T08:58:20.334Z",
     "version": {
         "major": 1,
-        "minor": 4467,
+        "minor": 4468,
         "patch": 0
     },
     "keywords": [
@@ -29971,6 +29971,13 @@
             "name": "ect.finance",
             "symbol": "ECT",
             "address": "0xf3B4867651aBa83F3965ec0EcfF7977C0a14c5be",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SJS.Finance",
+            "symbol": "SJS",
+            "address": "0x5A3B6503E714020D6837301abe8B1bf4C3Ab4D53",
             "decimals": 18
         }
     ]
