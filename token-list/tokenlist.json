@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:18:31.472Z",
+    "timestamp": "2020-10-04T13:20:20.002Z",
     "version": {
         "major": 1,
-        "minor": 4498,
+        "minor": 4499,
         "patch": 0
     },
     "keywords": [
@@ -30188,6 +30188,13 @@
             "name": "Siva Network",
             "symbol": "SIVA",
             "address": "0x3010f986fD6CaD83ef7398E864f82156Ca094c48",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZCYDLA.Finance",
+            "symbol": "ZCYDLA",
+            "address": "0xb803762a8A33c46525Ce6a030DE85B16AF493Df5",
             "decimals": 18
         }
     ]
