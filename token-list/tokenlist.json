@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:36:07.817Z",
+    "timestamp": "2020-10-04T01:38:22.088Z",
     "version": {
         "major": 1,
-        "minor": 4416,
+        "minor": 4417,
         "patch": 0
     },
     "keywords": [
@@ -29614,6 +29614,13 @@
             "name": "UNS Finance",
             "symbol": "UNS",
             "address": "0x5Fd9E36b6E97B1A791a8611e45C5Acf647909A2C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje",
+            "symbol": "IAC",
+            "address": "0x525526AF12e7a334fc9E27bfCfeE3D6Ed9E42a3c",
             "decimals": 18
         }
     ]
