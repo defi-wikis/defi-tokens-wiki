@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T17:19:10.323Z",
+    "timestamp": "2020-10-04T17:23:22.336Z",
     "version": {
         "major": 1,
-        "minor": 4547,
+        "minor": 4548,
         "patch": 0
     },
     "keywords": [
@@ -30531,6 +30531,13 @@
             "name": "WhaleFinance",
             "symbol": "WHFI",
             "address": "0xc51cbC75169c8941058297C4ea625D5638CfF77B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CXPcoin",
+            "symbol": "CXP",
+            "address": "0x7C4A8A449a9B1548b06946D2Fe41c66E5b9D2fd1",
             "decimals": 18
         }
     ]
