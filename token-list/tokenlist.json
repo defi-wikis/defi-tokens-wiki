@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:43:34.581Z",
+    "timestamp": "2020-10-04T09:49:49.669Z",
     "version": {
         "major": 1,
-        "minor": 4478,
+        "minor": 4479,
         "patch": 0
     },
     "keywords": [
@@ -30048,6 +30048,13 @@
             "name": "eVault.finance",
             "symbol": "ENCORE",
             "address": "0x9AC9636a84FfDe16611b4366f6A78EB09a4316f2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XFinancePRO",
+            "symbol": "XFIPro",
+            "address": "0xC86CF271de390F913e88143f3e53C0745a46F27c",
             "decimals": 18
         }
     ]
