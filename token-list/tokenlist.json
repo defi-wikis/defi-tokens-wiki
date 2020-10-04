@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T14:19:35.206Z",
+    "timestamp": "2020-10-04T14:23:59.538Z",
     "version": {
         "major": 1,
-        "minor": 4513,
+        "minor": 4514,
         "patch": 0
     },
     "keywords": [
@@ -30293,6 +30293,13 @@
             "name": "SGBB.FARM",
             "symbol": "$SGBB",
             "address": "0xbD3aC4013575FEe1BeCc2bAF5Aace97Fc815Fea2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "T Staking",
+            "symbol": "TFI",
+            "address": "0xfAB099950b484d8A4a34bA01B0f53C6b614d5742",
             "decimals": 18
         }
     ]
