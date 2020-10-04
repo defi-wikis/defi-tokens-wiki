@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T06:21:54.505Z",
+    "timestamp": "2020-10-04T06:36:16.063Z",
     "version": {
         "major": 1,
-        "minor": 4451,
+        "minor": 4452,
         "patch": 0
     },
     "keywords": [
@@ -29859,6 +29859,13 @@
             "name": "nyan.finance",
             "symbol": "NYAN",
             "address": "0x86621aa98225506d66528Ff1Aaa44f653Ae9a554",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance NFT Token",
+            "symbol": "yf-NFT",
+            "address": "0x7359EA6aF994BEF790CaeB8ae31619Ea20a8f7f3",
             "decimals": 18
         }
     ]
