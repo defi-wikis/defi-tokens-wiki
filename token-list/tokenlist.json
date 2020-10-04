@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T05:04:59.324Z",
+    "timestamp": "2020-10-04T05:10:30.388Z",
     "version": {
         "major": 1,
-        "minor": 4443,
+        "minor": 4444,
         "patch": 0
     },
     "keywords": [
@@ -29803,6 +29803,13 @@
             "name": "Mint Finance",
             "symbol": "MINTF",
             "address": "0x899057B4e67B668604e7AfDAaA1522B649b61a1a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "USDK",
+            "symbol": "USDK",
+            "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
             "decimals": 18
         }
     ]
