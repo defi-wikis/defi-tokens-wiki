@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:16:56.749Z",
+    "timestamp": "2020-10-04T16:19:04.023Z",
     "version": {
         "major": 1,
-        "minor": 4535,
+        "minor": 4536,
         "patch": 0
     },
     "keywords": [
@@ -30448,6 +30448,13 @@
             "symbol": "XTF.XXX1",
             "address": "0x340C9E1fc9230afa8F704964725A1bCF769421D3",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcoin hash",
+            "symbol": "BTCH",
+            "address": "0x3dE954AB51e30DF718EA3bB161734ceF9a4fC7A2",
+            "decimals": 8
         }
     ]
 }
