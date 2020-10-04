@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T10:03:35.175Z",
+    "timestamp": "2020-10-04T10:37:14.770Z",
     "version": {
         "major": 1,
-        "minor": 4481,
+        "minor": 4482,
         "patch": 0
     },
     "keywords": [
@@ -30069,6 +30069,13 @@
             "name": "ZooToken",
             "symbol": "Zoo",
             "address": "0x8143331CA5Ac97c39e9E82b1D8A8369CA50cF25D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nobrainer.Finance",
+            "symbol": "BRAIN",
+            "address": "0xEA3cB156745a8d281A5fC174186C976F2dD04c2E",
             "decimals": 18
         }
     ]
