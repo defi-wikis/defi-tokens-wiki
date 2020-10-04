@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:43:36.202Z",
+    "timestamp": "2020-10-04T13:43:51.398Z",
     "version": {
         "major": 1,
-        "minor": 4505,
+        "minor": 4506,
         "patch": 0
     },
     "keywords": [
@@ -30237,6 +30237,13 @@
             "name": "JCXLA.Finance",
             "symbol": "JCXLA",
             "address": "0x313798643eE0959B38A797C853e5dbF360984421",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ChadsUSD",
+            "symbol": "USDCH",
+            "address": "0x4ce6596703053280C24c011f677AcB349DE4050f",
             "decimals": 18
         }
     ]
