@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:23:14.854Z",
+    "timestamp": "2020-10-04T09:25:32.378Z",
     "version": {
         "major": 1,
-        "minor": 4473,
+        "minor": 4474,
         "patch": 0
     },
     "keywords": [
@@ -30013,6 +30013,13 @@
             "name": "MZMBH.Finance",
             "symbol": "MZMBH",
             "address": "0x544451f4626Ef4EE220e16930596Fb5DeAEB7FC2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Trump Health Index",
+            "symbol": "THI",
+            "address": "0x3A0210877A5a5D1A3CE4E57C53DC8e88A9D40674",
             "decimals": 18
         }
     ]
