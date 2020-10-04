@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:41:44.623Z",
+    "timestamp": "2020-10-04T13:41:59.656Z",
     "version": {
         "major": 1,
-        "minor": 4503,
+        "minor": 4504,
         "patch": 0
     },
     "keywords": [
@@ -30223,6 +30223,13 @@
             "name": "Snapbots",
             "symbol": "SNAP",
             "address": "0x16d85679DeFA6A120a6691bD575ba60F4E76BA69",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cockroach.Finance",
+            "symbol": "COCK",
+            "address": "0xD1b54D12a445960adbfa80edB2Ca109B9C1A074b",
             "decimals": 18
         }
     ]
