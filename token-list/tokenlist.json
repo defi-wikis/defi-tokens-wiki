@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:15:13.859Z",
+    "timestamp": "2020-10-04T01:19:40.775Z",
     "version": {
         "major": 1,
-        "minor": 4410,
+        "minor": 4411,
         "patch": 0
     },
     "keywords": [
@@ -29572,6 +29572,13 @@
             "name": "Socks for High Rollers",
             "symbol": "SOCKS",
             "address": "0x879aCeE6B42D0F93327b38daFB460AF20A4b0e10",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xfinance.io",
+            "symbol": "XFI",
+            "address": "0x280FA1ebfd09ac2F8dC0C3fE0fe9A8A0d7A77A3c",
             "decimals": 18
         }
     ]
