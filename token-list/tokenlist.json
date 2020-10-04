@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:54:35.411Z",
+    "timestamp": "2020-10-04T02:10:25.132Z",
     "version": {
         "major": 1,
-        "minor": 4419,
+        "minor": 4420,
         "patch": 0
     },
     "keywords": [
@@ -29635,6 +29635,13 @@
             "name": "cave.com",
             "symbol": "CAVE",
             "address": "0x7af98cF0C55f6E33c189E16C2a665ba26294Ea8a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje v2",
+            "symbol": "IACv2",
+            "address": "0x93fa85554a42b2c8DCeA35740C64bC20b7234f05",
             "decimals": 18
         }
     ]
