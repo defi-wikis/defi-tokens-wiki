@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T14:23:59.538Z",
+    "timestamp": "2020-10-04T14:24:36.551Z",
     "version": {
         "major": 1,
-        "minor": 4514,
+        "minor": 4515,
         "patch": 0
     },
     "keywords": [
@@ -30300,6 +30300,13 @@
             "name": "T Staking",
             "symbol": "TFI",
             "address": "0xfAB099950b484d8A4a34bA01B0f53C6b614d5742",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NSDL.Finance",
+            "symbol": "NSDL",
+            "address": "0xF5C5c5E9eA75Bfb916dE1084eb7F7728ACC38f86",
             "decimals": 18
         }
     ]
