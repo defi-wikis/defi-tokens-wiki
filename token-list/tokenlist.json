@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:44:24.948Z",
+    "timestamp": "2020-10-04T03:44:29.992Z",
     "version": {
         "major": 1,
-        "minor": 4431,
+        "minor": 4432,
         "patch": 0
     },
     "keywords": [
@@ -29719,6 +29719,13 @@
             "name": "得富",
             "symbol": "df",
             "address": "0x6C91F96a3318360B76Fa1E52e1dbFA371d7C5cd2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGY Finance",
+            "symbol": "YGY",
+            "address": "0x3D4A325b1794D9A68886FcaC00c549bDb4e8052F",
             "decimals": 18
         }
     ]
