@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:44:29.992Z",
+    "timestamp": "2020-10-04T03:46:54.692Z",
     "version": {
         "major": 1,
-        "minor": 4432,
+        "minor": 4433,
         "patch": 0
     },
     "keywords": [
@@ -29726,6 +29726,13 @@
             "name": "YGY Finance",
             "symbol": "YGY",
             "address": "0x3D4A325b1794D9A68886FcaC00c549bDb4e8052F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lit Finance",
+            "symbol": "LIT",
+            "address": "0xE9f6D57dD05636Be67Ab4510Ff8525d321CACF9c",
             "decimals": 18
         }
     ]
