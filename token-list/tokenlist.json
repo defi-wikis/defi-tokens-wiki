@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T08:58:20.334Z",
+    "timestamp": "2020-10-04T09:03:10.735Z",
     "version": {
         "major": 1,
-        "minor": 4468,
+        "minor": 4469,
         "patch": 0
     },
     "keywords": [
@@ -29978,6 +29978,13 @@
             "name": "SJS.Finance",
             "symbol": "SJS",
             "address": "0x5A3B6503E714020D6837301abe8B1bf4C3Ab4D53",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FuckDeFi",
+            "symbol": "FUCK",
+            "address": "0xCC402514816513236e1Cc7d8566F35aa2eE2e4CA",
             "decimals": 18
         }
     ]
