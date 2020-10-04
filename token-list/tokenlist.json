@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:46:54.692Z",
+    "timestamp": "2020-10-04T04:01:19.684Z",
     "version": {
         "major": 1,
-        "minor": 4433,
+        "minor": 4434,
         "patch": 0
     },
     "keywords": [
@@ -29733,6 +29733,13 @@
             "name": "Lit Finance",
             "symbol": "LIT",
             "address": "0xE9f6D57dD05636Be67Ab4510Ff8525d321CACF9c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rarible",
+            "symbol": "RARI",
+            "address": "0x59D4954424c98E5c60708c1A5532D06e35cd81Ae",
             "decimals": 18
         }
     ]
