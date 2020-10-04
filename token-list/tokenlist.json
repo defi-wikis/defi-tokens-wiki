@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T23:02:10.299Z",
+    "timestamp": "2020-10-04T23:18:19.738Z",
     "version": {
         "major": 1,
-        "minor": 4590,
+        "minor": 4591,
         "patch": 0
     },
     "keywords": [
@@ -30832,6 +30832,13 @@
             "name": "test",
             "symbol": "test",
             "address": "0x320BC7dB7d8C6cF6C0C42F86135B27d5847D984F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoonFuel",
+            "symbol": "MOONFUEL",
+            "address": "0x97E280AC0f50C61DfC2CD65b37137Aa1467b4be0",
             "decimals": 18
         }
     ]
