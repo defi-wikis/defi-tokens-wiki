@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:31:26.166Z",
+    "timestamp": "2020-10-04T21:32:07.017Z",
     "version": {
         "major": 1,
-        "minor": 4578,
+        "minor": 4579,
         "patch": 0
     },
     "keywords": [
@@ -30749,6 +30749,13 @@
             "symbol": "KET",
             "address": "0x40938949687e76f6C7CD4d3E8C081b0FC4Aa9851",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "PUMP",
+            "symbol": "PUMP",
+            "address": "0x05C02fa48907C2814128e2d013b8EfAba2E250d7",
+            "decimals": 18
         }
     ]
 }
