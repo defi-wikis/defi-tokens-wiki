@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T05:10:30.388Z",
+    "timestamp": "2020-10-04T05:30:19.718Z",
     "version": {
         "major": 1,
-        "minor": 4444,
+        "minor": 4445,
         "patch": 0
     },
     "keywords": [
@@ -29810,6 +29810,13 @@
             "name": "USDK",
             "symbol": "USDK",
             "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AMA",
+            "symbol": "AMA",
+            "address": "0x3b7330B7cA4ff8fEbCF015AD80e24B3DAA5CddEb",
             "decimals": 18
         }
     ]
