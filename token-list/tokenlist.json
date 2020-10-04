@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T07:51:54.516Z",
+    "timestamp": "2020-10-04T07:57:59.549Z",
     "version": {
         "major": 1,
-        "minor": 4460,
+        "minor": 4461,
         "patch": 0
     },
     "keywords": [
@@ -29922,6 +29922,13 @@
             "name": "MASSAGE",
             "symbol": "MSG",
             "address": "0xCD1Dd3472A07e5c1b0c042288F4d0D191073789d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZJZL.Finance",
+            "symbol": "ZJZL",
+            "address": "0x98d9DeB09F12EE5F0C1bD687f7bc1F4557f9FED3",
             "decimals": 18
         }
     ]
