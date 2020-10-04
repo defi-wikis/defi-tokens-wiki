@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:07:59.954Z",
+    "timestamp": "2020-10-04T09:12:11.125Z",
     "version": {
         "major": 1,
-        "minor": 4470,
+        "minor": 4471,
         "patch": 0
     },
     "keywords": [
@@ -29992,6 +29992,13 @@
             "name": "yfi.mobi",
             "symbol": "YFIM",
             "address": "0x2e2f3246b6c65CCc4239c9Ee556EC143a7E5DE2c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZBOM",
+            "symbol": "ZBOM",
+            "address": "0x6984Eb6341840de4Ce91a1D2E6bfb330F3BE37f5",
             "decimals": 18
         }
     ]
