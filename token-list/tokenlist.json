@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:38:46.372Z",
+    "timestamp": "2020-10-04T16:39:47.006Z",
     "version": {
         "major": 1,
-        "minor": 4539,
+        "minor": 4540,
         "patch": 0
     },
     "keywords": [
@@ -30475,6 +30475,13 @@
             "name": "PolkaSwap.io",
             "symbol": "PSWAP",
             "address": "0x27d164d6C24EfD80802aEF204469A8b24B76eBDf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ricer.Finance (Official)",
+            "symbol": "MOONC",
+            "address": "0xA0DA0E3ED2082E7dA1B58dF4d402DD2228D58B30",
             "decimals": 18
         }
     ]
