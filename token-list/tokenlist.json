@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T08:39:40.810Z",
+    "timestamp": "2020-10-04T08:43:50.046Z",
     "version": {
         "major": 1,
-        "minor": 4465,
+        "minor": 4466,
         "patch": 0
     },
     "keywords": [
@@ -29957,6 +29957,13 @@
             "name": "Don't Buy MEME",
             "symbol": "Don't Buy MEME",
             "address": "0x10D90E070CdA4C9AB8B79B6430Ecd15352364bdB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Predicting Filter",
+            "symbol": "PF",
+            "address": "0xAC596CAf434A9c71FD563c0FDfdEbeba660B903e",
             "decimals": 18
         }
     ]
