@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T00:34:49.656Z",
+    "timestamp": "2020-10-04T00:40:39.881Z",
     "version": {
         "major": 1,
-        "minor": 4405,
+        "minor": 4406,
         "patch": 0
     },
     "keywords": [
@@ -29537,6 +29537,13 @@
             "name": "iNFINiTY FiNANCe",
             "symbol": "INFF",
             "address": "0x94b7724eF12Cb441ce1CB7f4535bf9438144A794",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlasmaPay",
+            "symbol": "PPAY",
+            "address": "0x98F0A77af0d678aa4376cEa5D4427bb1A8902ef5",
             "decimals": 18
         }
     ]
