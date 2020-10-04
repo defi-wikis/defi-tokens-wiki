@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T17:12:22.518Z",
+    "timestamp": "2020-10-04T17:12:42.213Z",
     "version": {
         "major": 1,
-        "minor": 4544,
+        "minor": 4545,
         "patch": 0
     },
     "keywords": [
@@ -30510,6 +30510,13 @@
             "name": "MEXICO.cityswap.io",
             "symbol": "MEXICO",
             "address": "0xAe5DBF4dBF5f550AC1795bbaAE6D44033C7c2617",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RFB-meme",
+            "symbol": "RFB",
+            "address": "0xdaeCA4Af70D2c5f5EcfB27e1812CfBE4b94b1375",
             "decimals": 18
         }
     ]
