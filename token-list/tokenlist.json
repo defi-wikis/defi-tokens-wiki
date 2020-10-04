@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T11:05:56.264Z",
+    "timestamp": "2020-10-04T11:06:25.165Z",
     "version": {
         "major": 1,
-        "minor": 4484,
+        "minor": 4485,
         "patch": 0
     },
     "keywords": [
@@ -30091,6 +30091,13 @@
             "symbol": "SAT",
             "address": "0xEb1046FE6b05A24F373A123DB281a405F1917a7a",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bet Chips",
+            "symbol": "BetC",
+            "address": "0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0",
+            "decimals": 4
         }
     ]
 }
