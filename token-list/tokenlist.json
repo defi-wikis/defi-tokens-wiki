@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T10:37:14.770Z",
+    "timestamp": "2020-10-04T10:54:37.043Z",
     "version": {
         "major": 1,
-        "minor": 4482,
+        "minor": 4483,
         "patch": 0
     },
     "keywords": [
@@ -30076,6 +30076,13 @@
             "name": "Nobrainer.Finance",
             "symbol": "BRAIN",
             "address": "0xEA3cB156745a8d281A5fC174186C976F2dD04c2E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZUSE finance",
+            "symbol": "ZUSE",
+            "address": "0xcd7f99e9Beb8f8704e7df93cf592C912C0d35ff1",
             "decimals": 18
         }
     ]
