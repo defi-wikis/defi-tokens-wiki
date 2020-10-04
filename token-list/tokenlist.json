@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T22:12:44.855Z",
+    "timestamp": "2020-10-04T22:35:31.116Z",
     "version": {
         "major": 1,
-        "minor": 4584,
+        "minor": 4585,
         "patch": 0
     },
     "keywords": [
@@ -30790,6 +30790,13 @@
             "name": "Hapy",
             "symbol": "HAPY",
             "address": "0x79a511D08fd49710d92bFb0bF9f3e8cF229Af344",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance Trading",
+            "symbol": "YFIT",
+            "address": "0xe51237De3fc15e05091b49a3E13A75321f417D1a",
             "decimals": 18
         }
     ]
