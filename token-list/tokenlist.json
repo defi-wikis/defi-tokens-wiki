@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-03T23:52:16.204Z",
+    "timestamp": "2020-10-04T00:09:25.633Z",
     "version": {
         "major": 1,
-        "minor": 4401,
+        "minor": 4402,
         "patch": 0
     },
     "keywords": [
@@ -29510,6 +29510,13 @@
             "symbol": "WSSGZ",
             "address": "0x1855b844AB65745B14C8073a3678Dc93C67b326E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORIOX",
+            "symbol": "ORXN",
+            "address": "0xa1B601D0fbaB2327a6C506029C6cd0FE73035673",
+            "decimals": 8
         }
     ]
 }
