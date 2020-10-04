@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:39:16.031Z",
+    "timestamp": "2020-10-04T09:39:41.376Z",
     "version": {
         "major": 1,
-        "minor": 4475,
+        "minor": 4476,
         "patch": 0
     },
     "keywords": [
@@ -30027,6 +30027,13 @@
             "name": "MJF.Finance",
             "symbol": "MJF",
             "address": "0x2f40Ef237c51cD1E7e3378867721f5bBcaAE143d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Strawberries Finance",
+            "symbol": "SBR",
+            "address": "0xb44EC098d469CdAE0ACcA94cc30Beb1e4263aB4b",
             "decimals": 18
         }
     ]
