@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T02:10:25.132Z",
+    "timestamp": "2020-10-04T02:10:44.808Z",
     "version": {
         "major": 1,
-        "minor": 4420,
+        "minor": 4421,
         "patch": 0
     },
     "keywords": [
@@ -29642,6 +29642,13 @@
             "name": "Investigate Andre Cronje v2",
             "symbol": "IACv2",
             "address": "0x93fa85554a42b2c8DCeA35740C64bC20b7234f05",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dough Liquidity",
+            "symbol": "DLY",
+            "address": "0xfD0E79857139b0779c4700CAA1169027dA2000c1",
             "decimals": 18
         }
     ]
