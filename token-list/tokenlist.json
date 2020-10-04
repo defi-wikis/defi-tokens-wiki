@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:11:10.226Z",
+    "timestamp": "2020-10-04T21:13:19.730Z",
     "version": {
         "major": 1,
-        "minor": 4572,
+        "minor": 4573,
         "patch": 0
     },
     "keywords": [
@@ -30706,6 +30706,13 @@
             "name": "Suki Network",
             "symbol": "SUKI",
             "address": "0x56DA30d33D9b728e76E94D30a90B995Bcd3b7818",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FoxYFI",
+            "symbol": "FOXY",
+            "address": "0xBBc5df77fa1551F83360EFD86bb21A597392b619",
             "decimals": 18
         }
     ]
