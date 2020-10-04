@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:37:21.210Z",
+    "timestamp": "2020-10-04T16:38:46.372Z",
     "version": {
         "major": 1,
-        "minor": 4538,
+        "minor": 4539,
         "patch": 0
     },
     "keywords": [
@@ -30468,6 +30468,13 @@
             "name": "decraft.finance",
             "symbol": "CRAFT",
             "address": "0xA09ff006C652496E72d648cef2f4Ee6777efdF6F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PolkaSwap.io",
+            "symbol": "PSWAP",
+            "address": "0x27d164d6C24EfD80802aEF204469A8b24B76eBDf",
             "decimals": 18
         }
     ]
