@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T22:35:31.116Z",
+    "timestamp": "2020-10-04T22:42:11.093Z",
     "version": {
         "major": 1,
-        "minor": 4585,
+        "minor": 4586,
         "patch": 0
     },
     "keywords": [
@@ -30797,6 +30797,13 @@
             "name": "Yield Finance Trading",
             "symbol": "YFIT",
             "address": "0xe51237De3fc15e05091b49a3E13A75321f417D1a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FLY",
+            "symbol": "FLY",
+            "address": "0x4C3A648A500FFF91436e1622caa0734dA6226E1B",
             "decimals": 18
         }
     ]
