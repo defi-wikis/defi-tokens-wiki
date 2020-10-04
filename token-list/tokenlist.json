@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:09:10.114Z",
+    "timestamp": "2020-10-04T13:18:31.472Z",
     "version": {
         "major": 1,
-        "minor": 4497,
+        "minor": 4498,
         "patch": 0
     },
     "keywords": [
@@ -30181,6 +30181,13 @@
             "name": "UniMex.Finance",
             "symbol": "UMEX",
             "address": "0xDE23267e69BB67FFe057a48AF2dE82f973EE0BEC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Siva Network",
+            "symbol": "SIVA",
+            "address": "0x3010f986fD6CaD83ef7398E864f82156Ca094c48",
             "decimals": 18
         }
     ]
