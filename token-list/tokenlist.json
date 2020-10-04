@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T22:42:11.093Z",
+    "timestamp": "2020-10-04T22:44:30.769Z",
     "version": {
         "major": 1,
-        "minor": 4586,
+        "minor": 4587,
         "patch": 0
     },
     "keywords": [
@@ -30804,6 +30804,13 @@
             "name": "FLY",
             "symbol": "FLY",
             "address": "0x4C3A648A500FFF91436e1622caa0734dA6226E1B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GAMESHOT",
+            "symbol": "GST",
+            "address": "0x7bd630983148e781c332b2DfA3eAC0df7417DEF7",
             "decimals": 18
         }
     ]
