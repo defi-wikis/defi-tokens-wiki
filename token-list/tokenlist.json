@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T19:40:40.325Z",
+    "timestamp": "2020-10-04T19:54:35.159Z",
     "version": {
         "major": 1,
-        "minor": 4560,
+        "minor": 4561,
         "patch": 0
     },
     "keywords": [
@@ -30623,6 +30623,13 @@
             "symbol": "yZyx",
             "address": "0x37b9C078c248F76B1e9e41319a29381ad7907479",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yXTZ",
+            "symbol": "yXTZ",
+            "address": "0x9c1db1cB2Ca21B7b6b74a54E1585c99dB1797479",
+            "decimals": 0
         }
     ]
 }
