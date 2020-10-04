@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T23:25:30.676Z",
+    "timestamp": "2020-10-04T23:26:39.899Z",
     "version": {
         "major": 1,
-        "minor": 4592,
+        "minor": 4593,
         "patch": 0
     },
     "keywords": [
@@ -30846,6 +30846,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x4455Cb71a4C80536dB0Fd27a42C84462ACcDA149",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EpoxyDAO.com",
+            "symbol": "EPX",
+            "address": "0x820c83f612f6411f8abC24B653a9cB46351E6dD9",
             "decimals": 18
         }
     ]
