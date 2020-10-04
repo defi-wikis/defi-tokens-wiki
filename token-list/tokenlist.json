@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T19:28:49.625Z",
+    "timestamp": "2020-10-04T19:40:40.325Z",
     "version": {
         "major": 1,
-        "minor": 4559,
+        "minor": 4560,
         "patch": 0
     },
     "keywords": [
@@ -30615,6 +30615,13 @@
             "name": "yakifinance",
             "symbol": "YAKI",
             "address": "0xe2C40cF4fC31531369fDDf2881F6CCE1D80dC7f7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yZyxToken",
+            "symbol": "yZyx",
+            "address": "0x37b9C078c248F76B1e9e41319a29381ad7907479",
             "decimals": 18
         }
     ]
