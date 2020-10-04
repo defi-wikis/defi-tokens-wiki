@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T20:33:59.588Z",
+    "timestamp": "2020-10-04T20:39:44.709Z",
     "version": {
         "major": 1,
-        "minor": 4564,
+        "minor": 4565,
         "patch": 0
     },
     "keywords": [
@@ -30650,6 +30650,13 @@
             "name": "YFI Core Finance",
             "symbol": "YFIIC",
             "address": "0x6e850b1590197c3ff88fEe3328E8EEc2E5CA17C2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "test",
+            "symbol": "test",
+            "address": "0x6d4c6f396C045dA7c91545e5b7bf1c88cE8d6D8f",
             "decimals": 18
         }
     ]
