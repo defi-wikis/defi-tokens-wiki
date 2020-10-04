@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:31:20.201Z",
+    "timestamp": "2020-10-04T13:38:11.553Z",
     "version": {
         "major": 1,
-        "minor": 4500,
+        "minor": 4501,
         "patch": 0
     },
     "keywords": [
@@ -30202,6 +30202,13 @@
             "name": "Dottery.org",
             "symbol": "DOTY",
             "address": "0xcdCb00f46C717b8D3668aB6AD6bE51638962b1a6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ARAB finance",
+            "symbol": "ARAB",
+            "address": "0x35574654024241bD43C805B97B62BC82099582d8",
             "decimals": 18
         }
     ]
