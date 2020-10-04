@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:27:44.869Z",
+    "timestamp": "2020-10-04T03:31:25.286Z",
     "version": {
         "major": 1,
-        "minor": 4429,
+        "minor": 4430,
         "patch": 0
     },
     "keywords": [
@@ -29705,6 +29705,13 @@
             "name": "lbank.me",
             "symbol": "LBANK",
             "address": "0x6c71f14Cf78e180f4bE52B5052049256b7f59fBC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Shook Finance",
+            "symbol": "SHOOK",
+            "address": "0x259CD02cAbba813c72Bf3A915731Df50fbb0EC54",
             "decimals": 18
         }
     ]
