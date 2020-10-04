@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:59:21.154Z",
+    "timestamp": "2020-10-04T14:04:47.129Z",
     "version": {
         "major": 1,
-        "minor": 4509,
+        "minor": 4510,
         "patch": 0
     },
     "keywords": [
@@ -30266,6 +30266,13 @@
             "symbol": "XFII",
             "address": "0x7A43d13E00150Bb2a6Ca088cC1B7D75A9990FC3b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFED.FINANCE",
+            "symbol": "YFED",
+            "address": "0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
+            "decimals": 8
         }
     ]
 }
