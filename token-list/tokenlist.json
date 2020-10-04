@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T19:01:19.993Z",
+    "timestamp": "2020-10-04T19:28:49.625Z",
     "version": {
         "major": 1,
-        "minor": 4558,
+        "minor": 4559,
         "patch": 0
     },
     "keywords": [
@@ -30608,6 +30608,13 @@
             "name": "Yield Finance Trading",
             "symbol": "YFIT",
             "address": "0xFCAeD20EBcD6bcfc6555E4505b386693522d7E4F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yakifinance",
+            "symbol": "YAKI",
+            "address": "0xe2C40cF4fC31531369fDDf2881F6CCE1D80dC7f7",
             "decimals": 18
         }
     ]
