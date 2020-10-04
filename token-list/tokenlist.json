@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T02:10:44.808Z",
+    "timestamp": "2020-10-04T02:31:35.017Z",
     "version": {
         "major": 1,
-        "minor": 4421,
+        "minor": 4422,
         "patch": 0
     },
     "keywords": [
@@ -29649,6 +29649,13 @@
             "name": "Dough Liquidity",
             "symbol": "DLY",
             "address": "0xfD0E79857139b0779c4700CAA1169027dA2000c1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance 2",
+            "symbol": "CF2",
+            "address": "0xBa9532f85A0e3d6C86d2112cFCA513FbD6E83A4E",
             "decimals": 18
         }
     ]
