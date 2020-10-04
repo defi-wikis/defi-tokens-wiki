@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T20:20:30.400Z",
+    "timestamp": "2020-10-04T20:33:59.588Z",
     "version": {
         "major": 1,
-        "minor": 4563,
+        "minor": 4564,
         "patch": 0
     },
     "keywords": [
@@ -30643,6 +30643,13 @@
             "name": "Vision Protocol",
             "symbol": "VN",
             "address": "0x6b0E079126C25d81ED49C6e9B62E89045DC1188f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFI Core Finance",
+            "symbol": "YFIIC",
+            "address": "0x6e850b1590197c3ff88fEe3328E8EEc2E5CA17C2",
             "decimals": 18
         }
     ]
