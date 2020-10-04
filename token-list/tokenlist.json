@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:13:19.730Z",
+    "timestamp": "2020-10-04T21:29:06.438Z",
     "version": {
         "major": 1,
-        "minor": 4573,
+        "minor": 4574,
         "patch": 0
     },
     "keywords": [
@@ -30714,6 +30714,13 @@
             "symbol": "FOXY",
             "address": "0xBBc5df77fa1551F83360EFD86bb21A597392b619",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YETH MONEY",
+            "symbol": "YETH",
+            "address": "0x914A3c0b6DD6ec022D4FA0DB75ce82314b153A31",
+            "decimals": 6
         }
     ]
 }
