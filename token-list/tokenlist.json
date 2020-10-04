@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T15:13:46.599Z",
+    "timestamp": "2020-10-04T15:14:36.243Z",
     "version": {
         "major": 1,
-        "minor": 4521,
+        "minor": 4522,
         "patch": 0
     },
     "keywords": [
@@ -30349,6 +30349,13 @@
             "name": "ACoconut",
             "symbol": "AC",
             "address": "0x9A0aBA393aac4dFbFf4333B06c407458002C6183",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIII Token",
+            "symbol": "YFIII",
+            "address": "0xa8cDf9fc4Fa3b7Af31aF08FEDF579A8221B1d068",
             "decimals": 18
         }
     ]
