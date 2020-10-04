@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:45:35.429Z",
+    "timestamp": "2020-10-04T13:58:17.842Z",
     "version": {
         "major": 1,
-        "minor": 4507,
+        "minor": 4508,
         "patch": 0
     },
     "keywords": [
@@ -30251,6 +30251,13 @@
             "name": "KLV.finance",
             "symbol": "KLV",
             "address": "0x81020Bd2B2C2e88Cf15430c9072cF0BfbcF713Aa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WKBP.Finance",
+            "symbol": "WKBP",
+            "address": "0x762B87fb09B5AafDF8eb2aFd4f54a04CC882648f",
             "decimals": 18
         }
     ]
