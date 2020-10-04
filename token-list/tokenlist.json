@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T20:55:25.142Z",
+    "timestamp": "2020-10-04T20:56:14.985Z",
     "version": {
         "major": 1,
-        "minor": 4568,
+        "minor": 4569,
         "patch": 0
     },
     "keywords": [
@@ -30679,6 +30679,13 @@
             "symbol": "YDOT",
             "address": "0xA19996144287c86998e2b705903943ae6cfd9C27",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crust Network",
+            "symbol": "CRU",
+            "address": "0xcE284452cE42a8c74cCBaD448EA76D342CFd01FC",
+            "decimals": 0
         }
     ]
 }
