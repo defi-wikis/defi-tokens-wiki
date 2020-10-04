@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T22:09:34.967Z",
+    "timestamp": "2020-10-04T22:12:44.855Z",
     "version": {
         "major": 1,
-        "minor": 4583,
+        "minor": 4584,
         "patch": 0
     },
     "keywords": [
@@ -30784,6 +30784,13 @@
             "symbol": "NORI",
             "address": "0xC50572d1bAEeD790f894304d4520BD5B5519238C",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Hapy",
+            "symbol": "HAPY",
+            "address": "0x79a511D08fd49710d92bFb0bF9f3e8cF229Af344",
+            "decimals": 18
         }
     ]
 }
