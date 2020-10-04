@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T14:47:37.845Z",
+    "timestamp": "2020-10-04T15:07:46.429Z",
     "version": {
         "major": 1,
-        "minor": 4519,
+        "minor": 4520,
         "patch": 0
     },
     "keywords": [
@@ -30335,6 +30335,13 @@
             "name": "Dottery.org",
             "symbol": "DOTY",
             "address": "0x3D27D59865c3A201E226DA070E7abCd6967b6e08",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Amplyfi.Money",
+            "symbol": "AYFI",
+            "address": "0x2bE803A8136eEB0dDcFEDF0d168e45bF7e3f12B1",
             "decimals": 18
         }
     ]
