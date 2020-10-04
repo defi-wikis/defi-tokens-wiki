@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T08:43:50.046Z",
+    "timestamp": "2020-10-04T08:51:30.363Z",
     "version": {
         "major": 1,
-        "minor": 4466,
+        "minor": 4467,
         "patch": 0
     },
     "keywords": [
@@ -29964,6 +29964,13 @@
             "name": "Predicting Filter",
             "symbol": "PF",
             "address": "0xAC596CAf434A9c71FD563c0FDfdEbeba660B903e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ect.finance",
+            "symbol": "ECT",
+            "address": "0xf3B4867651aBa83F3965ec0EcfF7977C0a14c5be",
             "decimals": 18
         }
     ]
