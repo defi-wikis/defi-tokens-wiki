@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T13:58:17.842Z",
+    "timestamp": "2020-10-04T13:59:21.154Z",
     "version": {
         "major": 1,
-        "minor": 4508,
+        "minor": 4509,
         "patch": 0
     },
     "keywords": [
@@ -30258,6 +30258,13 @@
             "name": "WKBP.Finance",
             "symbol": "WKBP",
             "address": "0x762B87fb09B5AafDF8eb2aFd4f54a04CC882648f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XFII",
+            "symbol": "XFII",
+            "address": "0x7A43d13E00150Bb2a6Ca088cC1B7D75A9990FC3b",
             "decimals": 18
         }
     ]
