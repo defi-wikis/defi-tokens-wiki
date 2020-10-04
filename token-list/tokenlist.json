@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T23:36:44.688Z",
+    "timestamp": "2020-10-04T23:40:44.691Z",
     "version": {
         "major": 1,
-        "minor": 4595,
+        "minor": 4596,
         "patch": 0
     },
     "keywords": [
@@ -30867,6 +30867,13 @@
             "name": "conceal.network",
             "symbol": "CCX",
             "address": "0x2275Ae7699a056464979b7c8E703dFa1872C264A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orbate",
+            "symbol": "Orb8",
+            "address": "0xe3Bfb29F090ddE434De52ED99BEDd3F1f5BD1b31",
             "decimals": 18
         }
     ]
