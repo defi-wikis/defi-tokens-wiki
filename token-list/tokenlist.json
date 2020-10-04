@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T22:56:02.028Z",
+    "timestamp": "2020-10-04T23:02:10.299Z",
     "version": {
         "major": 1,
-        "minor": 4589,
+        "minor": 4590,
         "patch": 0
     },
     "keywords": [
@@ -30825,6 +30825,13 @@
             "name": "$SEND",
             "symbol": "SEND",
             "address": "0x14c4d8E57751E083bcD1EdCCA5B435720166f5E9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "test",
+            "symbol": "test",
+            "address": "0x320BC7dB7d8C6cF6C0C42F86135B27d5847D984F",
             "decimals": 18
         }
     ]
