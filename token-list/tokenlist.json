@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:19:14.735Z",
+    "timestamp": "2020-10-04T03:23:26.367Z",
     "version": {
         "major": 1,
-        "minor": 4427,
+        "minor": 4428,
         "patch": 0
     },
     "keywords": [
@@ -29691,6 +29691,13 @@
             "name": "Investigate Andre Cronje V2",
             "symbol": "IACV2",
             "address": "0x21c1d1D73F7dCf03F5816eccb96A7B90a150b428",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitcoinDEFI",
+            "symbol": "BTCYFI",
+            "address": "0x3aDC22Ca05061BDCFf7df1f7f6B16b1296911Ea7",
             "decimals": 18
         }
     ]
