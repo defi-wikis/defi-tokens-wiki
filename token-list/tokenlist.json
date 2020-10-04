@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:49:39.739Z",
+    "timestamp": "2020-10-04T01:54:35.411Z",
     "version": {
         "major": 1,
-        "minor": 4418,
+        "minor": 4419,
         "patch": 0
     },
     "keywords": [
@@ -29628,6 +29628,13 @@
             "name": "Rock Finance",
             "symbol": "ROCKS",
             "address": "0x65847c1BD7B0561A210CA1a00F681d912d2C7C05",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cave.com",
+            "symbol": "CAVE",
+            "address": "0x7af98cF0C55f6E33c189E16C2a665ba26294Ea8a",
             "decimals": 18
         }
     ]
