@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T04:01:19.684Z",
+    "timestamp": "2020-10-04T04:16:12.317Z",
     "version": {
         "major": 1,
-        "minor": 4434,
+        "minor": 4435,
         "patch": 0
     },
     "keywords": [
@@ -29740,6 +29740,13 @@
             "name": "Rarible",
             "symbol": "RARI",
             "address": "0x59D4954424c98E5c60708c1A5532D06e35cd81Ae",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Investigate Andre Cronje V2",
+            "symbol": "IACV2",
+            "address": "0x57af17F0b4336125FaD6151C5B3944D93a4b91Ec",
             "decimals": 18
         }
     ]
