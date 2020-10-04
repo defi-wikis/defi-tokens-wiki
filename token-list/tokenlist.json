@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:15:35.071Z",
+    "timestamp": "2020-10-04T03:15:45.826Z",
     "version": {
         "major": 1,
-        "minor": 4425,
+        "minor": 4426,
         "patch": 0
     },
     "keywords": [
@@ -29677,6 +29677,13 @@
             "name": "LARP",
             "symbol": "LARP",
             "address": "0x422252B656Bcb93F2C3823737Bf0BeA0dA5b02AB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn finance wealth",
+            "symbol": "YFW",
+            "address": "0x1B40AE317FF3B0734Bac3c9e19d999570B1faA7c",
             "decimals": 18
         }
     ]
