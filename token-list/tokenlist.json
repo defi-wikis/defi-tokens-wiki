@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:27:45.153Z",
+    "timestamp": "2020-10-04T12:29:39.891Z",
     "version": {
         "major": 1,
-        "minor": 4492,
+        "minor": 4493,
         "patch": 0
     },
     "keywords": [
@@ -30146,6 +30146,13 @@
             "name": "ect.finance",
             "symbol": "ECT",
             "address": "0x0885D60a4e50C7f177c76cF1Eb1C48f92A02Cae4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YXfinance",
+            "symbol": "YXFI",
+            "address": "0x7F016b52331d01C73Fdb55a1B64618f409CB2940",
             "decimals": 18
         }
     ]
