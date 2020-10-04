@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T02:50:24.979Z",
+    "timestamp": "2020-10-04T02:51:49.913Z",
     "version": {
         "major": 1,
-        "minor": 4423,
+        "minor": 4424,
         "patch": 0
     },
     "keywords": [
@@ -29663,6 +29663,13 @@
             "name": "HOO.com",
             "symbol": "HOO",
             "address": "0xB7d743122DeE3711D8e82230638fFac22d924Cb3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YZY.Finance",
+            "symbol": "YZY",
+            "address": "0x6fDf1F6bf1ae7128CD70D09d446A0De729fFAA6f",
             "decimals": 18
         }
     ]
