@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T21:02:07.682Z",
+    "timestamp": "2020-10-04T21:11:10.226Z",
     "version": {
         "major": 1,
-        "minor": 4571,
+        "minor": 4572,
         "patch": 0
     },
     "keywords": [
@@ -30700,6 +30700,13 @@
             "symbol": "NBTC",
             "address": "0xCa1212450630A982Cd5b67912fb431944fd71783",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Suki Network",
+            "symbol": "SUKI",
+            "address": "0x56DA30d33D9b728e76E94D30a90B995Bcd3b7818",
+            "decimals": 18
         }
     ]
 }
