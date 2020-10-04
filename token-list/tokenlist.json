@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:38:22.088Z",
+    "timestamp": "2020-10-04T01:49:39.739Z",
     "version": {
         "major": 1,
-        "minor": 4417,
+        "minor": 4418,
         "patch": 0
     },
     "keywords": [
@@ -29621,6 +29621,13 @@
             "name": "Investigate Andre Cronje",
             "symbol": "IAC",
             "address": "0x525526AF12e7a334fc9E27bfCfeE3D6Ed9E42a3c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rock Finance",
+            "symbol": "ROCKS",
+            "address": "0x65847c1BD7B0561A210CA1a00F681d912d2C7C05",
             "decimals": 18
         }
     ]
