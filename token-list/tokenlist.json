@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T15:56:10.769Z",
+    "timestamp": "2020-10-04T16:03:15.313Z",
     "version": {
         "major": 1,
-        "minor": 4529,
+        "minor": 4530,
         "patch": 0
     },
     "keywords": [
@@ -30405,6 +30405,13 @@
             "name": "TrumpSwap.ORG",
             "symbol": "Trump",
             "address": "0x0B5eFc5bA98f2D535916647Bbef990CF0354AeFA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Ecosystem",
+            "symbol": "YFIEC",
+            "address": "0x35Bec6549FEc50B70486ab30459bfF322c2Fb953",
             "decimals": 18
         }
     ]
