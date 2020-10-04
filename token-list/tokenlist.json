@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:24:36.813Z",
+    "timestamp": "2020-10-04T16:37:21.210Z",
     "version": {
         "major": 1,
-        "minor": 4537,
+        "minor": 4538,
         "patch": 0
     },
     "keywords": [
@@ -30461,6 +30461,13 @@
             "name": "PHEEZEZ Token",
             "symbol": "PHZT",
             "address": "0x8296BcEd40BA067a1de30aEB5a294258c16a0473",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "decraft.finance",
+            "symbol": "CRAFT",
+            "address": "0xA09ff006C652496E72d648cef2f4Ee6777efdF6F",
             "decimals": 18
         }
     ]
