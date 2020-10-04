@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T09:41:54.866Z",
+    "timestamp": "2020-10-04T09:43:34.581Z",
     "version": {
         "major": 1,
-        "minor": 4477,
+        "minor": 4478,
         "patch": 0
     },
     "keywords": [
@@ -30041,6 +30041,13 @@
             "name": "Zeta Finance",
             "symbol": "ZFI",
             "address": "0xDBEb0dBCD280611413f85C30aE59ac56eBb57406",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eVault.finance",
+            "symbol": "ENCORE",
+            "address": "0x9AC9636a84FfDe16611b4366f6A78EB09a4316f2",
             "decimals": 18
         }
     ]
