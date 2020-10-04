@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T18:46:54.652Z",
+    "timestamp": "2020-10-04T19:01:19.993Z",
     "version": {
         "major": 1,
-        "minor": 4557,
+        "minor": 4558,
         "patch": 0
     },
     "keywords": [
@@ -30601,6 +30601,13 @@
             "name": "Buff Protocol",
             "symbol": "BUFF",
             "address": "0x4b0F3d2E41994e715cD5587c349c753C10c06AE0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance Trading",
+            "symbol": "YFIT",
+            "address": "0xFCAeD20EBcD6bcfc6555E4505b386693522d7E4F",
             "decimals": 18
         }
     ]
