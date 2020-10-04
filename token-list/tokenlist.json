@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T11:06:25.165Z",
+    "timestamp": "2020-10-04T11:39:11.939Z",
     "version": {
         "major": 1,
-        "minor": 4485,
+        "minor": 4486,
         "patch": 0
     },
     "keywords": [
@@ -30098,6 +30098,13 @@
             "symbol": "BetC",
             "address": "0x83D6a2171F78e8fFE4dfE7680983efFC49cff7a0",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "PLUS",
+            "symbol": "PLUS",
+            "address": "0xdef2aE162F11184C2BEC0FDF671366016F3E415d",
+            "decimals": 18
         }
     ]
 }
