@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T01:26:35.272Z",
+    "timestamp": "2020-10-04T01:26:45.166Z",
     "version": {
         "major": 1,
-        "minor": 4414,
+        "minor": 4415,
         "patch": 0
     },
     "keywords": [
@@ -29600,6 +29600,13 @@
             "name": "Investigate Andre Cronje v2",
             "symbol": "IACv2",
             "address": "0x82427DB2A4a08f0414e735054219EA226735B4B3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GIVToken @ cryptolocally.com",
+            "symbol": "GIV",
+            "address": "0x70f2ef6874655bD49c458Ab3937661DD401c054d",
             "decimals": 18
         }
     ]
