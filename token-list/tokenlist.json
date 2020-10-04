@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T08:19:34.612Z",
+    "timestamp": "2020-10-04T08:28:44.786Z",
     "version": {
         "major": 1,
-        "minor": 4463,
+        "minor": 4464,
         "patch": 0
     },
     "keywords": [
@@ -29943,6 +29943,13 @@
             "name": "ZDHLA.Finance",
             "symbol": "ZDHLA",
             "address": "0x66a8cAB76307E9c2524048461F9C0103D6330B94",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGGMZ.Finance",
+            "symbol": "YGGMZ",
+            "address": "0x8BCB166dF2aE0A872d0e4d50cC1149716FB9b53F",
             "decimals": 18
         }
     ]
