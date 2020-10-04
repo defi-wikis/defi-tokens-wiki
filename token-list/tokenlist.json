@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T03:31:25.286Z",
+    "timestamp": "2020-10-04T03:44:24.948Z",
     "version": {
         "major": 1,
-        "minor": 4430,
+        "minor": 4431,
         "patch": 0
     },
     "keywords": [
@@ -29712,6 +29712,13 @@
             "name": "Shook Finance",
             "symbol": "SHOOK",
             "address": "0x259CD02cAbba813c72Bf3A915731Df50fbb0EC54",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "得富",
+            "symbol": "df",
+            "address": "0x6C91F96a3318360B76Fa1E52e1dbFA371d7C5cd2",
             "decimals": 18
         }
     ]
