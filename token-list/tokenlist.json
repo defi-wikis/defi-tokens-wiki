@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:03:41.366Z",
+    "timestamp": "2020-10-04T12:11:54.921Z",
     "version": {
         "major": 1,
-        "minor": 4488,
+        "minor": 4489,
         "patch": 0
     },
     "keywords": [
@@ -30118,6 +30118,13 @@
             "name": "yeld.finance",
             "symbol": "YELD",
             "address": "0xf972d3df3d7a94Eac52926E081677b073948E1B2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HSBX.Finance",
+            "symbol": "HSBX",
+            "address": "0x2dD40570eC20dDe4C449a2387858b8AE2Ad823dd",
             "decimals": 18
         }
     ]
