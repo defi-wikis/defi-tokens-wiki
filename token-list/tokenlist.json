@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T00:58:59.853Z",
+    "timestamp": "2020-10-04T00:59:54.596Z",
     "version": {
         "major": 1,
-        "minor": 4408,
+        "minor": 4409,
         "patch": 0
     },
     "keywords": [
@@ -29558,6 +29558,13 @@
             "name": "uniswapv",
             "symbol": "UNS",
             "address": "0x63188ff05f02AaFcc7ffDcF8DE9E4DbB22C1e8bF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HARDCORE",
+            "symbol": "HORE",
+            "address": "0x5152e1cb69A2FfA3997E89CbB4aBA76A01D82141",
             "decimals": 18
         }
     ]
