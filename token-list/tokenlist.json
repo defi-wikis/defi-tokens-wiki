@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T15:22:22.142Z",
+    "timestamp": "2020-10-04T15:26:18.965Z",
     "version": {
         "major": 1,
-        "minor": 4524,
+        "minor": 4525,
         "patch": 0
     },
     "keywords": [
@@ -30370,6 +30370,13 @@
             "name": "Next Network",
             "symbol": "NEXT",
             "address": "0x15DFf94Bea97819E37455B002AbB64869AF9f466",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x58Fd3Fcf444647E645033597ea99e27b74253e6f",
             "decimals": 18
         }
     ]
