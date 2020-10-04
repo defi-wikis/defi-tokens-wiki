@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T00:09:25.633Z",
+    "timestamp": "2020-10-04T00:11:45.035Z",
     "version": {
         "major": 1,
-        "minor": 4402,
+        "minor": 4403,
         "patch": 0
     },
     "keywords": [
@@ -29517,6 +29517,13 @@
             "symbol": "ORXN",
             "address": "0xa1B601D0fbaB2327a6C506029C6cd0FE73035673",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "SGJSJ.Finance",
+            "symbol": "SGJSJ",
+            "address": "0xE3D638e039f97866F6b5cA0Fa92CA3bC262b4D36",
+            "decimals": 18
         }
     ]
 }
