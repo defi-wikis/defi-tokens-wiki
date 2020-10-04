@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:33:40.019Z",
+    "timestamp": "2020-10-04T13:09:10.114Z",
     "version": {
         "major": 1,
-        "minor": 4496,
+        "minor": 4497,
         "patch": 0
     },
     "keywords": [
@@ -30174,6 +30174,13 @@
             "name": "TrumpSwap.org",
             "symbol": "TRUMP",
             "address": "0x5fe0d0Cff0d1029683Afba5affb22b3FAc61dE84",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniMex.Finance",
+            "symbol": "UMEX",
+            "address": "0xDE23267e69BB67FFe057a48AF2dE82f973EE0BEC",
             "decimals": 18
         }
     ]
