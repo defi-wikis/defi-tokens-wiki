@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:17:37.641Z",
+    "timestamp": "2020-10-04T12:23:10.197Z",
     "version": {
         "major": 1,
-        "minor": 4490,
+        "minor": 4491,
         "patch": 0
     },
     "keywords": [
@@ -30132,6 +30132,13 @@
             "name": "You need coin",
             "symbol": "YNC",
             "address": "0x90A21D67fB371bB1f471787D77e643233DFd71b7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnDefiCoin",
+            "symbol": "EDC",
+            "address": "0x9feF105b8843E324D3a93F808825e6A07F8a19C9",
             "decimals": 18
         }
     ]
