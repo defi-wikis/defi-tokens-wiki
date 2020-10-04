@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T06:36:16.063Z",
+    "timestamp": "2020-10-04T06:52:59.656Z",
     "version": {
         "major": 1,
-        "minor": 4452,
+        "minor": 4453,
         "patch": 0
     },
     "keywords": [
@@ -29866,6 +29866,13 @@
             "name": "Yearn Finance NFT Token",
             "symbol": "yf-NFT",
             "address": "0x7359EA6aF994BEF790CaeB8ae31619Ea20a8f7f3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZIN.Network",
+            "symbol": "ZIN",
+            "address": "0x3e48F3513e6416Df787F6978545D2f2F902D39fd",
             "decimals": 18
         }
     ]
