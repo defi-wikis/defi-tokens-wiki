@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T23:26:39.899Z",
+    "timestamp": "2020-10-04T23:36:34.655Z",
     "version": {
         "major": 1,
-        "minor": 4593,
+        "minor": 4594,
         "patch": 0
     },
     "keywords": [
@@ -30853,6 +30853,13 @@
             "name": "EpoxyDAO.com",
             "symbol": "EPX",
             "address": "0x820c83f612f6411f8abC24B653a9cB46351E6dD9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Boom Finance",
+            "symbol": "BOOMF",
+            "address": "0xe0d8c1408763691055EB3ac17916a8bfcA788B5b",
             "decimals": 18
         }
     ]
