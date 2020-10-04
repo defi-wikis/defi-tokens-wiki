@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T11:48:19.959Z",
+    "timestamp": "2020-10-04T12:03:41.366Z",
     "version": {
         "major": 1,
-        "minor": 4487,
+        "minor": 4488,
         "patch": 0
     },
     "keywords": [
@@ -30111,6 +30111,13 @@
             "name": "Ricer.Finance",
             "symbol": "MOONC",
             "address": "0x0C7BE37b00C1D3127c09da66fADF3d6EB600dEcE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yeld.finance",
+            "symbol": "YELD",
+            "address": "0xf972d3df3d7a94Eac52926E081677b073948E1B2",
             "decimals": 18
         }
     ]
