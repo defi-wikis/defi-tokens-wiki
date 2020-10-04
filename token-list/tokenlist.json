@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T12:32:54.844Z",
+    "timestamp": "2020-10-04T12:33:40.019Z",
     "version": {
         "major": 1,
-        "minor": 4495,
+        "minor": 4496,
         "patch": 0
     },
     "keywords": [
@@ -30167,6 +30167,13 @@
             "name": "nobrainer.finance",
             "symbol": "BRAIN",
             "address": "0xe8D6331e40511F206f9266DF1b43ED9cED2f256b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TrumpSwap.org",
+            "symbol": "TRUMP",
+            "address": "0x5fe0d0Cff0d1029683Afba5affb22b3FAc61dE84",
             "decimals": 18
         }
     ]
