@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T17:06:39.654Z",
+    "timestamp": "2020-10-04T17:07:51.531Z",
     "version": {
         "major": 1,
-        "minor": 4542,
+        "minor": 4543,
         "patch": 0
     },
     "keywords": [
@@ -30496,6 +30496,13 @@
             "name": "VIRGIN TOKEN",
             "symbol": "VRGN",
             "address": "0x1381F369D9D5df87a1A04Ed856C9dbc90f5DB2fA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ManGas",
+            "symbol": "MGAS",
+            "address": "0x46d5FD4A711B905ea0aaA10db31801efc75dEa56",
             "decimals": 18
         }
     ]
