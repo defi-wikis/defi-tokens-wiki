@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T20:51:20.011Z",
+    "timestamp": "2020-10-04T20:55:25.142Z",
     "version": {
         "major": 1,
-        "minor": 4567,
+        "minor": 4568,
         "patch": 0
     },
     "keywords": [
@@ -30672,6 +30672,13 @@
             "symbol": "CHR",
             "address": "0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Y.Financial",
+            "symbol": "YDOT",
+            "address": "0xA19996144287c86998e2b705903943ae6cfd9C27",
+            "decimals": 18
         }
     ]
 }
