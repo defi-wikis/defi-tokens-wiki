@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T16:16:22.039Z",
+    "timestamp": "2020-10-04T16:16:56.749Z",
     "version": {
         "major": 1,
-        "minor": 4534,
+        "minor": 4535,
         "patch": 0
     },
     "keywords": [
@@ -30440,6 +30440,13 @@
             "name": "Selected Coin",
             "symbol": "SDN",
             "address": "0x958D960A34d4B49733dBF115388d6222097CFDD9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "New Fund",
+            "symbol": "XTF.XXX1",
+            "address": "0x340C9E1fc9230afa8F704964725A1bCF769421D3",
             "decimals": 18
         }
     ]
