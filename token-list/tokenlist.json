@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T14:04:47.129Z",
+    "timestamp": "2020-10-04T14:10:08.535Z",
     "version": {
         "major": 1,
-        "minor": 4510,
+        "minor": 4511,
         "patch": 0
     },
     "keywords": [
@@ -30273,6 +30273,13 @@
             "symbol": "YFED",
             "address": "0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "snakz.finance",
+            "symbol": "SNAKz",
+            "address": "0x4974ade7F4cc280505F82144822c5A1E434bBCf4",
+            "decimals": 18
         }
     ]
 }
