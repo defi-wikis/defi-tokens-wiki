@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T18:42:10.110Z",
+    "timestamp": "2020-10-04T18:46:54.652Z",
     "version": {
         "major": 1,
-        "minor": 4556,
+        "minor": 4557,
         "patch": 0
     },
     "keywords": [
@@ -30595,6 +30595,13 @@
             "symbol": "WMT",
             "address": "0xab818c0EB7b1F799C38e4A656fb3FFad53Eb2Fb5",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Buff Protocol",
+            "symbol": "BUFF",
+            "address": "0x4b0F3d2E41994e715cD5587c349c753C10c06AE0",
+            "decimals": 18
         }
     ]
 }
