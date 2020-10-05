@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T01:02:20.321Z",
+    "timestamp": "2020-10-05T01:13:06.953Z",
     "version": {
         "major": 1,
-        "minor": 4603,
+        "minor": 4604,
         "patch": 0
     },
     "keywords": [
@@ -30923,6 +30923,13 @@
             "name": "Airdropper",
             "symbol": "AIR",
             "address": "0xb98C7a2D01D520E7FBe791e4fd44514DecEF67D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rotten v2",
+            "symbol": "ROTS",
+            "address": "0xc570CC9B55Ca7C1Fc0CC7dc7D2BfBA2810de3bfF",
             "decimals": 18
         }
     ]
