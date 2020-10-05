@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:28:15.589Z",
+    "timestamp": "2020-10-05T18:28:39.876Z",
     "version": {
         "major": 1,
-        "minor": 4739,
+        "minor": 4740,
         "patch": 0
     },
     "keywords": [
@@ -31875,6 +31875,13 @@
             "name": "DraculaToken",
             "symbol": "DRC",
             "address": "0x1005d1B99cf0C0d6381578cF434EEe107D5Ed4fc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PeopleUtilityToken",
+            "symbol": "PUT",
+            "address": "0xB3F740DB181D6e405B1c912bcF605c9a2177807E",
             "decimals": 18
         }
     ]
