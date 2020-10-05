@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-04T23:55:15.244Z",
+    "timestamp": "2020-10-05T00:05:40.399Z",
     "version": {
         "major": 1,
-        "minor": 4598,
+        "minor": 4599,
         "patch": 0
     },
     "keywords": [
@@ -30888,6 +30888,13 @@
             "name": "Dagama Distributed Inclusive Finance",
             "symbol": "DIF",
             "address": "0x68069d563120D1759EB828f8e0b1B366AfE9E16B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NORI",
+            "symbol": "NORI",
+            "address": "0x79aDD5ef078345f52e156aD8337A8441E0229BfC",
             "decimals": 18
         }
     ]
