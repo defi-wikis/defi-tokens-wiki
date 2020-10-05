@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T23:21:55.257Z",
+    "timestamp": "2020-10-05T23:23:45.159Z",
     "version": {
         "major": 1,
-        "minor": 4791,
+        "minor": 4792,
         "patch": 0
     },
     "keywords": [
@@ -32239,6 +32239,13 @@
             "name": "ydex.finance",
             "symbol": "YDEX",
             "address": "0xfDd79DaDF7C8a1B8E00FA7BB55411bFCEf714860",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniStake",
+            "symbol": "UNISTAKE",
+            "address": "0xaA8AAe537A40a37ec73c250A0C2983E66c20A9de",
             "decimals": 18
         }
     ]
