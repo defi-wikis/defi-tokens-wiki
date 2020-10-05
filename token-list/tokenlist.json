@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T17:07:50.324Z",
+    "timestamp": "2020-10-05T17:09:25.845Z",
     "version": {
         "major": 1,
-        "minor": 4724,
+        "minor": 4725,
         "patch": 0
     },
     "keywords": [
@@ -31770,6 +31770,13 @@
             "name": "Orbate",
             "symbol": "ORB8",
             "address": "0xBeBB5c96ba1F205129d7949a91685156a1435c43",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0xa986F2A12d85c44429f574BA50C0e21052B18BA1",
             "decimals": 18
         }
     ]
