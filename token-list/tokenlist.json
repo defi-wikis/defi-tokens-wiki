@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T01:13:06.953Z",
+    "timestamp": "2020-10-05T01:15:24.975Z",
     "version": {
         "major": 1,
-        "minor": 4604,
+        "minor": 4605,
         "patch": 0
     },
     "keywords": [
@@ -30930,6 +30930,13 @@
             "name": "Rotten v2",
             "symbol": "ROTS",
             "address": "0xc570CC9B55Ca7C1Fc0CC7dc7D2BfBA2810de3bfF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yakuza",
+            "symbol": "YKZ",
+            "address": "0xc2431D72a276795Db42Ff661709a0D2Cc71225BC",
             "decimals": 18
         }
     ]
