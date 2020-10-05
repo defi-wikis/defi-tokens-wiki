@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:48:11.022Z",
+    "timestamp": "2020-10-05T22:14:15.293Z",
     "version": {
         "major": 1,
-        "minor": 4782,
+        "minor": 4783,
         "patch": 0
     },
     "keywords": [
@@ -32177,6 +32177,13 @@
             "symbol": "YPRF",
             "address": "0x23535B72b242eF445F8B91748fa3eA0049B5BA0A",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DGEN",
+            "symbol": "DGEN",
+            "address": "0x4c7d9bF429bE8378EF5d584c9Db55765D2C6e1eC",
+            "decimals": 0
         }
     ]
 }
