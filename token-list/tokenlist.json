@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T13:27:15.471Z",
+    "timestamp": "2020-10-05T13:34:40.922Z",
     "version": {
         "major": 1,
-        "minor": 4678,
+        "minor": 4679,
         "patch": 0
     },
     "keywords": [
@@ -31449,6 +31449,13 @@
             "symbol": "CORF",
             "address": "0x766A6494612400cEfD0622C8CBf572FE8c4e875e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eclipcity",
+            "symbol": "EFT",
+            "address": "0x63F28268c2AeF510695f272954192e447Dc332df",
+            "decimals": 8
         }
     ]
 }
