@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T09:34:08.645Z",
+    "timestamp": "2020-10-05T09:38:11.024Z",
     "version": {
         "major": 1,
-        "minor": 4653,
+        "minor": 4654,
         "patch": 0
     },
     "keywords": [
@@ -31273,6 +31273,13 @@
             "name": "ZUSD",
             "symbol": "ZUSD",
             "address": "0x577e56C834998f8Fa7eaCA666582691AD4Fd9de4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BurnVault.Finance",
+            "symbol": "BVF",
+            "address": "0xfdD24e6EaA5eb72F42f4BaAe42177eD2082948C1",
             "decimals": 18
         }
     ]
