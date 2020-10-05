@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T12:59:25.113Z",
+    "timestamp": "2020-10-05T12:59:49.728Z",
     "version": {
         "major": 1,
-        "minor": 4673,
+        "minor": 4674,
         "patch": 0
     },
     "keywords": [
@@ -31414,6 +31414,13 @@
             "symbol": "AVN",
             "address": "0x9c70D078A46F7E8779a324690c4BbA367aDe9044",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Centaur Finance",
+            "symbol": "CNTR",
+            "address": "0x3339B6Fb3a75381F1b677075B8CbA55F69651d8a",
+            "decimals": 18
         }
     ]
 }
