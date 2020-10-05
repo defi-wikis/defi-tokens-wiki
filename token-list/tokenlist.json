@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T20:50:49.875Z",
+    "timestamp": "2020-10-05T20:57:16.597Z",
     "version": {
         "major": 1,
-        "minor": 4770,
+        "minor": 4771,
         "patch": 0
     },
     "keywords": [
@@ -32092,6 +32092,13 @@
             "name": "EarnToken",
             "symbol": "EARN",
             "address": "0x47331c546C77997669ea7C9FeFB0C649bE8644FD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BarcoCoin",
+            "symbol": "BRC",
+            "address": "0x541dF505189195883fD7647D18134380B90fE384",
             "decimals": 18
         }
     ]
