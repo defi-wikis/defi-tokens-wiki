@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T17:13:29.866Z",
+    "timestamp": "2020-10-05T17:17:34.907Z",
     "version": {
         "major": 1,
-        "minor": 4726,
+        "minor": 4727,
         "patch": 0
     },
     "keywords": [
@@ -31784,6 +31784,13 @@
             "name": "uniswapcap",
             "symbol": "UNCA",
             "address": "0xC61B548502F88aAE9705f2E65B0f23E46D47C929",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vegetables Finance",
+            "symbol": "VEGE",
+            "address": "0x3d92941F6eBB2E131c2aF6F7725494aEd8763c5B",
             "decimals": 18
         }
     ]
