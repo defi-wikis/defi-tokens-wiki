@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:22:25.376Z",
+    "timestamp": "2020-10-05T19:24:08.402Z",
     "version": {
         "major": 1,
-        "minor": 4749,
+        "minor": 4750,
         "patch": 0
     },
     "keywords": [
@@ -31945,6 +31945,13 @@
             "name": "FAP Factory",
             "symbol": "FAP",
             "address": "0xf76fC31F81C810db65b3A451980F4E9Da165230a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ytifinance",
+            "symbol": "YTI",
+            "address": "0xddee01f214ed721d2ca1a90E8E74eA6176d68e1F",
             "decimals": 18
         }
     ]
