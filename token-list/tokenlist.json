@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:53:54.713Z",
+    "timestamp": "2020-10-05T15:54:59.881Z",
     "version": {
         "major": 1,
-        "minor": 4706,
+        "minor": 4707,
         "patch": 0
     },
     "keywords": [
@@ -31645,6 +31645,13 @@
             "symbol": "GLF",
             "address": "0x26D2BcE0874A18C74E3Bbd817D51eb704E6CFD52",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Internet Identity Card",
+            "symbol": "IIC",
+            "address": "0xf47aBAed335226d0EdFCF458e6948311574a77cc",
+            "decimals": 0
         }
     ]
 }
