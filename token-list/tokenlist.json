@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:36:50.359Z",
+    "timestamp": "2020-10-05T21:48:11.022Z",
     "version": {
         "major": 1,
-        "minor": 4781,
+        "minor": 4782,
         "patch": 0
     },
     "keywords": [
@@ -32169,6 +32169,13 @@
             "name": "Cheer",
             "symbol": "CHEER",
             "address": "0xdFCBB34cda9592b2138f700601A86C70d5E72a60",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "party.finance",
+            "symbol": "YPRF",
+            "address": "0x23535B72b242eF445F8B91748fa3eA0049B5BA0A",
             "decimals": 18
         }
     ]
