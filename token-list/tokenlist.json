@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T20:14:54.771Z",
+    "timestamp": "2020-10-05T20:15:45.018Z",
     "version": {
         "major": 1,
-        "minor": 4764,
+        "minor": 4765,
         "patch": 0
     },
     "keywords": [
@@ -32050,6 +32050,13 @@
             "name": "Lambodegens",
             "symbol": "LAMBO",
             "address": "0xAB180023bEC29386eB22fF7D41869E03ecDF9Fff",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZioToken",
+            "symbol": "ZTK",
+            "address": "0x00C952823eF755CC6c9611Aff0548605C8cDE649",
             "decimals": 18
         }
     ]
