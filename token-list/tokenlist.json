@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T10:44:39.755Z",
+    "timestamp": "2020-10-05T10:46:14.930Z",
     "version": {
         "major": 1,
-        "minor": 4661,
+        "minor": 4662,
         "patch": 0
     },
     "keywords": [
@@ -31329,6 +31329,13 @@
             "name": "Bon.Finance",
             "symbol": "BNF",
             "address": "0xdC71fDb7614834dfB15A4b6C711D6cbceB20654F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bellevuenetwork.io",
+            "symbol": "BLV",
+            "address": "0x8944F367D8e867038a75151d23825ebA084dC17A",
             "decimals": 18
         }
     ]
