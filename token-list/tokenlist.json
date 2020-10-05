@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:21:21.140Z",
+    "timestamp": "2020-10-05T21:31:39.993Z",
     "version": {
         "major": 1,
-        "minor": 4778,
+        "minor": 4779,
         "patch": 0
     },
     "keywords": [
@@ -32148,6 +32148,13 @@
             "name": "2local.io",
             "symbol": "L2L",
             "address": "0x8391E349Cde0e163698CB2a1FF5cfA288153550e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "God Finance",
+            "symbol": "GOD",
+            "address": "0x423476dDc07af3D282C7D4fEee1433FCBF462EC0",
             "decimals": 18
         }
     ]
