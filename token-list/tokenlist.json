@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T03:06:02.376Z",
+    "timestamp": "2020-10-05T03:09:20.909Z",
     "version": {
         "major": 1,
-        "minor": 4613,
+        "minor": 4614,
         "patch": 0
     },
     "keywords": [
@@ -30993,6 +30993,13 @@
             "name": "Xfinance v2",
             "symbol": "XFII",
             "address": "0xD8492057E04F3318632C16511F99Cf7E54d16Dea",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Oracle",
+            "symbol": "Oracle",
+            "address": "0x0e8c9A479e2e6354061721218fC689f362b5b141",
             "decimals": 18
         }
     ]
