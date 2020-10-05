@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T10:56:55.419Z",
+    "timestamp": "2020-10-05T11:11:24.918Z",
     "version": {
         "major": 1,
-        "minor": 4664,
+        "minor": 4665,
         "patch": 0
     },
     "keywords": [
@@ -31350,6 +31350,13 @@
             "name": "Polyient Games Governance Token",
             "symbol": "PGT",
             "address": "0xeaccb6E0f24d66cF4Aa6cBDa33971b9231d332a1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polyient Games Governance Token",
+            "symbol": "PGT",
+            "address": "0x715F0f29E357945a5B81FC92960E39615FDEc97E",
             "decimals": 18
         }
     ]
