@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:06:50.063Z",
+    "timestamp": "2020-10-05T15:16:44.681Z",
     "version": {
         "major": 1,
-        "minor": 4696,
+        "minor": 4697,
         "patch": 0
     },
     "keywords": [
@@ -31574,6 +31574,13 @@
             "name": "PointPay.io",
             "symbol": "PXP",
             "address": "0xE0C6E0B0e9027c6C8406Cc4A9Ca036a21662d8b8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "chonker.finance",
+            "symbol": "CHONK",
+            "address": "0xf82a6EE7246fDec0c3B257eFaB9833883122Be84",
             "decimals": 18
         }
     ]
