@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:17:10.678Z",
+    "timestamp": "2020-10-05T21:20:19.877Z",
     "version": {
         "major": 1,
-        "minor": 4776,
+        "minor": 4777,
         "patch": 0
     },
     "keywords": [
@@ -32135,6 +32135,13 @@
             "symbol": "SHN",
             "address": "0xAB4C2B5680bd141Fc61240828505b9aa8c8F462F",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "UNI Token",
+            "symbol": "UXT",
+            "address": "0x27824111DD062Ca9062067B493Fbf512328928BA",
+            "decimals": 8
         }
     ]
 }
