@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:51:02.016Z",
+    "timestamp": "2020-10-05T18:52:07.989Z",
     "version": {
         "major": 1,
-        "minor": 4746,
+        "minor": 4747,
         "patch": 0
     },
     "keywords": [
@@ -31924,6 +31924,13 @@
             "name": "YGY.finance",
             "symbol": "YGY",
             "address": "0x0B883F5dE7914602ee8edc3dbBD4cfDcc428f5F1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mobius.finance",
+            "symbol": "MOBF",
+            "address": "0x636e249b45D6A0d2b6230b0B36056743aA47F2B8",
             "decimals": 18
         }
     ]
