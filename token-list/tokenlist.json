@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:37:20.737Z",
+    "timestamp": "2020-10-05T16:40:10.531Z",
     "version": {
         "major": 1,
-        "minor": 4715,
+        "minor": 4716,
         "patch": 0
     },
     "keywords": [
@@ -31707,6 +31707,13 @@
             "name": "DODO",
             "symbol": "DODO",
             "address": "0xeA97b1F8F69817200c0CD7Acd0fF39fbB1040BAA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Spera Network",
+            "symbol": "SPERA",
+            "address": "0xb826e76C0AE5c56524D7E3164F994806A6DCfF0B",
             "decimals": 18
         }
     ]
