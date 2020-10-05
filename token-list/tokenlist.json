@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:51:06.691Z",
+    "timestamp": "2020-10-05T14:54:14.957Z",
     "version": {
         "major": 1,
-        "minor": 4691,
+        "minor": 4692,
         "patch": 0
     },
     "keywords": [
@@ -31539,6 +31539,13 @@
             "name": "Coconuts",
             "symbol": "CNUTS",
             "address": "0x933a4d17F13dc4f9f30ea87A3E840b1269E0c12c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Centaur Token",
+            "symbol": "CNTR",
+            "address": "0x0Fed9612cD1110f01C887ac7477a7e3e5D7776E8",
             "decimals": 18
         }
     ]
