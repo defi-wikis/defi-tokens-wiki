@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:11:59.932Z",
+    "timestamp": "2020-10-05T14:14:02.821Z",
     "version": {
         "major": 1,
-        "minor": 4685,
+        "minor": 4686,
         "patch": 0
     },
     "keywords": [
@@ -31497,6 +31497,13 @@
             "name": "Polyient Games Governance Token",
             "symbol": "PGT",
             "address": "0xCe6927568BC737061F170AAECdb33CBc93346AA5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CentFi",
+            "symbol": "CFIX",
+            "address": "0x71f2365f135E6070989f1658aABeD13d70950F15",
             "decimals": 18
         }
     ]
