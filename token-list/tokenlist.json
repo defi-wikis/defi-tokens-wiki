@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T08:48:11.769Z",
+    "timestamp": "2020-10-05T08:48:20.036Z",
     "version": {
         "major": 1,
-        "minor": 4647,
+        "minor": 4648,
         "patch": 0
     },
     "keywords": [
@@ -31231,6 +31231,13 @@
             "name": "YFDAO.FINANCE",
             "symbol": "YFDAO",
             "address": "0x8893f4BF75A38D22271b68B38EE07B43F84dEE4d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LLT",
+            "symbol": "LLT",
+            "address": "0x7111890Ec91B656D5773054EDF29d40e81a47204",
             "decimals": 18
         }
     ]
