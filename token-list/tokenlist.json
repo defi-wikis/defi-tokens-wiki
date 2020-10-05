@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:39:10.293Z",
+    "timestamp": "2020-10-05T15:48:24.917Z",
     "version": {
         "major": 1,
-        "minor": 4702,
+        "minor": 4703,
         "patch": 0
     },
     "keywords": [
@@ -31616,6 +31616,13 @@
             "name": "VIDT Datalink",
             "symbol": "VIDT",
             "address": "0xfeF4185594457050cC9c23980d301908FE057Bb1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unicorn",
+            "symbol": "UNIC",
+            "address": "0x7333aF83B0AA7e56951A12fC1359Fe56B87103c4",
             "decimals": 18
         }
     ]
