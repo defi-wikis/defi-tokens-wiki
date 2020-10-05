@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:30:26.603Z",
+    "timestamp": "2020-10-05T16:37:20.737Z",
     "version": {
         "major": 1,
-        "minor": 4714,
+        "minor": 4715,
         "patch": 0
     },
     "keywords": [
@@ -31700,6 +31700,13 @@
             "name": "YearnXFI.Finance",
             "symbol": "YXFII",
             "address": "0x9D517725C5c2a2b860453Fbd319a421a259a206f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DODO",
+            "symbol": "DODO",
+            "address": "0xeA97b1F8F69817200c0CD7Acd0fF39fbB1040BAA",
             "decimals": 18
         }
     ]
