@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T07:41:19.766Z",
+    "timestamp": "2020-10-05T07:55:08.044Z",
     "version": {
         "major": 1,
-        "minor": 4640,
+        "minor": 4641,
         "patch": 0
     },
     "keywords": [
@@ -31182,6 +31182,13 @@
             "name": "Ain Network",
             "symbol": "AIN",
             "address": "0x63581BA566e9c598015d65a5cbC9F8Bae3A996c2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nori.finance",
+            "symbol": "NORI",
+            "address": "0x341DC505B1885ADADB65d8D7A396195DdC7B2f15",
             "decimals": 18
         }
     ]
