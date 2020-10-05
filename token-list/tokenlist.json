@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:28:39.876Z",
+    "timestamp": "2020-10-05T18:31:08.142Z",
     "version": {
         "major": 1,
-        "minor": 4740,
+        "minor": 4741,
         "patch": 0
     },
     "keywords": [
@@ -31882,6 +31882,13 @@
             "name": "PeopleUtilityToken",
             "symbol": "PUT",
             "address": "0xB3F740DB181D6e405B1c912bcF605c9a2177807E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kimchi.farm",
+            "symbol": "KMCH",
+            "address": "0x760De1FF5CF48d8DD89e0fcCda62822b61069DC6",
             "decimals": 18
         }
     ]
