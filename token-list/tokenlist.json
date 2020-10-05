@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:24:35.660Z",
+    "timestamp": "2020-10-05T16:30:26.603Z",
     "version": {
         "major": 1,
-        "minor": 4713,
+        "minor": 4714,
         "patch": 0
     },
     "keywords": [
@@ -31693,6 +31693,13 @@
             "name": "BRK",
             "symbol": "BRK",
             "address": "0xA5cFDc341Be4fB95a143a0603457D151482db075",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnXFI.Finance",
+            "symbol": "YXFII",
+            "address": "0x9D517725C5c2a2b860453Fbd319a421a259a206f",
             "decimals": 18
         }
     ]
