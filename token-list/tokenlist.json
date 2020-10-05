@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:31:08.142Z",
+    "timestamp": "2020-10-05T18:31:54.394Z",
     "version": {
         "major": 1,
-        "minor": 4741,
+        "minor": 4742,
         "patch": 0
     },
     "keywords": [
@@ -31889,6 +31889,13 @@
             "name": "Kimchi.farm",
             "symbol": "KMCH",
             "address": "0x760De1FF5CF48d8DD89e0fcCda62822b61069DC6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dcore",
+            "symbol": "DCORE",
+            "address": "0xb944B46Bbd4ccca90c962EF225e2804E46691cCF",
             "decimals": 18
         }
     ]
