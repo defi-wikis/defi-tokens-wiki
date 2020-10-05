@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:24:08.402Z",
+    "timestamp": "2020-10-05T19:24:40.137Z",
     "version": {
         "major": 1,
-        "minor": 4750,
+        "minor": 4751,
         "patch": 0
     },
     "keywords": [
@@ -31953,6 +31953,13 @@
             "symbol": "YTI",
             "address": "0xddee01f214ed721d2ca1a90E8E74eA6176d68e1F",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "p2pl.finance",
+            "symbol": "P2PL",
+            "address": "0x078DbEab281bEfe80fFF6EA151355ef5c9DFc1dC",
+            "decimals": 6
         }
     ]
 }
