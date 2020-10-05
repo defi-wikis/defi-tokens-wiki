@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T06:02:08.151Z",
+    "timestamp": "2020-10-05T06:03:34.586Z",
     "version": {
         "major": 1,
-        "minor": 4633,
+        "minor": 4634,
         "patch": 0
     },
     "keywords": [
@@ -31133,6 +31133,13 @@
             "name": "WhiteRock.Finance",
             "symbol": "WRF",
             "address": "0x0a52578F2b4Ee0D3d8b9e31A1D8b88F84f15385b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cVault.finance v2.0",
+            "symbol": "CVF",
+            "address": "0xED643487779043743D282Efa9e59DaeF01BcA38B",
             "decimals": 18
         }
     ]
