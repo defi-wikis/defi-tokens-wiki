@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:02:14.787Z",
+    "timestamp": "2020-10-05T21:06:50.003Z",
     "version": {
         "major": 1,
-        "minor": 4773,
+        "minor": 4774,
         "patch": 0
     },
     "keywords": [
@@ -32113,6 +32113,13 @@
             "name": "SEA INNOVATION",
             "symbol": "XTF.YYYSEA",
             "address": "0xb79b79970d87eB7f43f261f0A31D5408483DCaEa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "THERMAL",
+            "symbol": "THERM",
+            "address": "0x0877b40767E322c2c70aEb03FDbBdeAC2609715F",
             "decimals": 18
         }
     ]
