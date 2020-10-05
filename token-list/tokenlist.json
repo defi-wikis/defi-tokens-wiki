@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T23:31:20.331Z",
+    "timestamp": "2020-10-05T23:45:20.952Z",
     "version": {
         "major": 1,
-        "minor": 4794,
+        "minor": 4795,
         "patch": 0
     },
     "keywords": [
@@ -32260,6 +32260,13 @@
             "name": "Syield.finance",
             "symbol": "SYLD",
             "address": "0x350c6f4161dd40075f936F81817BDa121A20f55e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WebStock",
+            "symbol": "Webs",
+            "address": "0xe2432C9D8D668A5B1Eeb1d7e75D6e49D3952980D",
             "decimals": 18
         }
     ]
