@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:16:44.681Z",
+    "timestamp": "2020-10-05T15:18:25.203Z",
     "version": {
         "major": 1,
-        "minor": 4697,
+        "minor": 4698,
         "patch": 0
     },
     "keywords": [
@@ -31581,6 +31581,13 @@
             "name": "chonker.finance",
             "symbol": "CHONK",
             "address": "0xf82a6EE7246fDec0c3B257eFaB9833883122Be84",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoneroGOLD",
+            "symbol": "XMRG",
+            "address": "0x484A4522fb29F0114DFC775fa87979B277F01b66",
             "decimals": 18
         }
     ]
