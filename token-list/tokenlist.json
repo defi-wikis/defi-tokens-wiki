@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T06:07:59.563Z",
+    "timestamp": "2020-10-05T06:20:50.789Z",
     "version": {
         "major": 1,
-        "minor": 4635,
+        "minor": 4636,
         "patch": 0
     },
     "keywords": [
@@ -31147,6 +31147,13 @@
             "name": "FOXSTAKE.COM",
             "symbol": "FST",
             "address": "0xd68aA9748757abD95d871DE4572B3Ee7F60Eb1C1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "solidity.finance",
+            "symbol": "HIPPO",
+            "address": "0xf0978746e656001f424FEaCBEFd1E108408B79Ff",
             "decimals": 18
         }
     ]
