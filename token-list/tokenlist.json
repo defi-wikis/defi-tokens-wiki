@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T20:38:15.818Z",
+    "timestamp": "2020-10-05T20:50:49.875Z",
     "version": {
         "major": 1,
-        "minor": 4769,
+        "minor": 4770,
         "patch": 0
     },
     "keywords": [
@@ -32085,6 +32085,13 @@
             "name": "Tokens for future",
             "symbol": "TFF",
             "address": "0x2d65aAAAaa439EAaE8B6F73233eC37bf91c5B0A3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnToken",
+            "symbol": "EARN",
+            "address": "0x47331c546C77997669ea7C9FeFB0C649bE8644FD",
             "decimals": 18
         }
     ]
