@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T20:57:16.597Z",
+    "timestamp": "2020-10-05T21:00:20.155Z",
     "version": {
         "major": 1,
-        "minor": 4771,
+        "minor": 4772,
         "patch": 0
     },
     "keywords": [
@@ -32099,6 +32099,13 @@
             "name": "BarcoCoin",
             "symbol": "BRC",
             "address": "0x541dF505189195883fD7647D18134380B90fE384",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LYNC Network",
+            "symbol": "LYNC",
+            "address": "0x8f87Ec6aAd3B2A8C44f1298A1af56169B8e574cf",
             "decimals": 18
         }
     ]
