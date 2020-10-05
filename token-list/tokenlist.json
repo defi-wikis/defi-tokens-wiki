@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T08:25:54.845Z",
+    "timestamp": "2020-10-05T08:48:11.769Z",
     "version": {
         "major": 1,
-        "minor": 4646,
+        "minor": 4647,
         "patch": 0
     },
     "keywords": [
@@ -31224,6 +31224,13 @@
             "name": "YFDAO.FINANCE",
             "symbol": "YF-DAO",
             "address": "0xF063eAc2C0201d4aEce8E4F50Fd574331cb2594A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFDAO.FINANCE",
+            "symbol": "YFDAO",
+            "address": "0x8893f4BF75A38D22271b68B38EE07B43F84dEE4d",
             "decimals": 18
         }
     ]
