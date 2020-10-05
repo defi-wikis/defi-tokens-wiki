@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T00:05:40.399Z",
+    "timestamp": "2020-10-05T00:14:50.189Z",
     "version": {
         "major": 1,
-        "minor": 4599,
+        "minor": 4600,
         "patch": 0
     },
     "keywords": [
@@ -30895,6 +30895,13 @@
             "name": "NORI",
             "symbol": "NORI",
             "address": "0x79aDD5ef078345f52e156aD8337A8441E0229BfC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HashFi",
+            "symbol": "HASH",
+            "address": "0x2bB3bF444A00574d095247386196bE58235A57bb",
             "decimals": 18
         }
     ]
