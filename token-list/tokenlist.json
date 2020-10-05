@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:40:15.928Z",
+    "timestamp": "2020-10-05T18:47:15.541Z",
     "version": {
         "major": 1,
-        "minor": 4744,
+        "minor": 4745,
         "patch": 0
     },
     "keywords": [
@@ -31910,6 +31910,13 @@
             "name": "Nerve Protocol",
             "symbol": "NRP",
             "address": "0xF1D2af7Dd76DC8af5650A974B939b79D924F084F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ylion.finance",
+            "symbol": "YLION",
+            "address": "0xD99794699933DaFA1c003899D90Bd588E67492FA",
             "decimals": 18
         }
     ]
