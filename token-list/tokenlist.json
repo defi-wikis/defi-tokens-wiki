@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:18:25.203Z",
+    "timestamp": "2020-10-05T15:18:39.709Z",
     "version": {
         "major": 1,
-        "minor": 4698,
+        "minor": 4699,
         "patch": 0
     },
     "keywords": [
@@ -31588,6 +31588,13 @@
             "name": "MoneroGOLD",
             "symbol": "XMRG",
             "address": "0x484A4522fb29F0114DFC775fa87979B277F01b66",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vivid Finance",
+            "symbol": "vBRIGHT",
+            "address": "0x3E88f8C31E1F9D26c1904584EFbCA58b75F53568",
             "decimals": 18
         }
     ]
