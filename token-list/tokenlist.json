@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T12:10:50.397Z",
+    "timestamp": "2020-10-05T12:18:34.946Z",
     "version": {
         "major": 1,
-        "minor": 4669,
+        "minor": 4670,
         "patch": 0
     },
     "keywords": [
@@ -31385,6 +31385,13 @@
             "name": "Yield Finance",
             "symbol": "YFIN",
             "address": "0x53e006660E9e79a3096fe675b048e9445c90290c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YLab Network",
+            "symbol": "YLAB",
+            "address": "0x58b1D5809C669E38188221461a7501F05c3eeB43",
             "decimals": 18
         }
     ]
