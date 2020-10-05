@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:48:51.361Z",
+    "timestamp": "2020-10-05T19:52:25.221Z",
     "version": {
         "major": 1,
-        "minor": 4760,
+        "minor": 4761,
         "patch": 0
     },
     "keywords": [
@@ -32023,6 +32023,13 @@
             "symbol": "fDEVO",
             "address": "0x4B69615Dd8B7A08c1780F2D62c37f5b55EC6ae3b",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "FLARE FINANCE",
+            "symbol": "FLARE",
+            "address": "0x8DF6faA98b25907BaD99Bc255d8eEe6fe0c5a8F9",
+            "decimals": 18
         }
     ]
 }
