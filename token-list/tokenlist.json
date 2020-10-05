@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T10:36:30.340Z",
+    "timestamp": "2020-10-05T10:44:39.755Z",
     "version": {
         "major": 1,
-        "minor": 4660,
+        "minor": 4661,
         "patch": 0
     },
     "keywords": [
@@ -31322,6 +31322,13 @@
             "name": "YOLK Finance",
             "symbol": "YOLK",
             "address": "0xc29D3eAa5Bc667d4ac8D9BD8242D0E5255A15cCF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bon.Finance",
+            "symbol": "BNF",
+            "address": "0xdC71fDb7614834dfB15A4b6C711D6cbceB20654F",
             "decimals": 18
         }
     ]
