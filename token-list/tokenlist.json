@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:21:25.667Z",
+    "timestamp": "2020-10-05T18:28:15.589Z",
     "version": {
         "major": 1,
-        "minor": 4738,
+        "minor": 4739,
         "patch": 0
     },
     "keywords": [
@@ -31868,6 +31868,13 @@
             "name": "YAM V3",
             "symbol": "YAM3",
             "address": "0x7e5cDcA1262A7f65E087FA053E23A5e950DFc834",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DraculaToken",
+            "symbol": "DRC",
+            "address": "0x1005d1B99cf0C0d6381578cF434EEe107D5Ed4fc",
             "decimals": 18
         }
     ]
