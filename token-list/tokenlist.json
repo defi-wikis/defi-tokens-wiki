@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T05:17:07.171Z",
+    "timestamp": "2020-10-05T05:17:19.990Z",
     "version": {
         "major": 1,
-        "minor": 4627,
+        "minor": 4628,
         "patch": 0
     },
     "keywords": [
@@ -31091,6 +31091,13 @@
             "name": "XCSTAOT",
             "symbol": "AOT",
             "address": "0xd214EeEa00A8C8D0b876b2095DCAd6308e0ffEdF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Junecoin",
+            "symbol": "JUNE",
+            "address": "0x8362afAABb1DEaE2A8055F9ea92e4C3C7B218e3E",
             "decimals": 18
         }
     ]
