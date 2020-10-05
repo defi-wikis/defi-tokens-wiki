@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T08:05:34.845Z",
+    "timestamp": "2020-10-05T08:05:40.668Z",
     "version": {
         "major": 1,
-        "minor": 4643,
+        "minor": 4644,
         "patch": 0
     },
     "keywords": [
@@ -31204,6 +31204,13 @@
             "symbol": "EPX",
             "address": "0x5729b237D016EC3C24e5C926D9884d8a77Bc3781",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "IBM Finance",
+            "symbol": "YFIBM",
+            "address": "0x31C18Cb846EDeFB6f7038823D357Cdc081652F8C",
+            "decimals": 18
         }
     ]
 }
