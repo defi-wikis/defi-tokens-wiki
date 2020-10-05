@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T03:30:35.136Z",
+    "timestamp": "2020-10-05T03:34:59.733Z",
     "version": {
         "major": 1,
-        "minor": 4616,
+        "minor": 4617,
         "patch": 0
     },
     "keywords": [
@@ -31014,6 +31014,13 @@
             "name": "piedao.org",
             "symbol": "PieDAO ",
             "address": "0xb076FC4CcEAa7960bE6359D94658D0357C0591f1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZooToken",
+            "symbol": "ZOO",
+            "address": "0xA8741C2A46ecb602904bFAda537EA12e29FE6686",
             "decimals": 18
         }
     ]
