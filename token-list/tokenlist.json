@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T01:15:24.975Z",
+    "timestamp": "2020-10-05T02:05:30.242Z",
     "version": {
         "major": 1,
-        "minor": 4605,
+        "minor": 4606,
         "patch": 0
     },
     "keywords": [
@@ -30937,6 +30937,13 @@
             "name": "Yakuza",
             "symbol": "YKZ",
             "address": "0xc2431D72a276795Db42Ff661709a0D2Cc71225BC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniswaqFinance",
+            "symbol": "XFIPro",
+            "address": "0x677905F7Cb272E6f0fc748db2Cd206A4dbEE3842",
             "decimals": 18
         }
     ]
