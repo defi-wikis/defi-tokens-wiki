@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T04:29:01.855Z",
+    "timestamp": "2020-10-05T04:30:30.892Z",
     "version": {
         "major": 1,
-        "minor": 4621,
+        "minor": 4622,
         "patch": 0
     },
     "keywords": [
@@ -31049,6 +31049,13 @@
             "name": "NOTE Finance",
             "symbol": "NOTE",
             "address": "0xe3D23780718567AC62E8089dE297487Ce0780080",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "wANATHA v2",
+            "symbol": "wANATHAN",
+            "address": "0x6A8E6AbBDAdecF0dA5c0053951e3742807a8a3E1",
             "decimals": 18
         }
     ]
