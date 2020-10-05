@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T11:41:40.402Z",
+    "timestamp": "2020-10-05T12:10:50.397Z",
     "version": {
         "major": 1,
-        "minor": 4668,
+        "minor": 4669,
         "patch": 0
     },
     "keywords": [
@@ -31378,6 +31378,13 @@
             "name": "SIMP",
             "symbol": "SIMP",
             "address": "0xe966e1E37336439E9Ae76EB982e4b9b994985C40",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance",
+            "symbol": "YFIN",
+            "address": "0x53e006660E9e79a3096fe675b048e9445c90290c",
             "decimals": 18
         }
     ]
