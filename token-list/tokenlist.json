@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:24:40.137Z",
+    "timestamp": "2020-10-05T19:26:30.437Z",
     "version": {
         "major": 1,
-        "minor": 4751,
+        "minor": 4752,
         "patch": 0
     },
     "keywords": [
@@ -31960,6 +31960,13 @@
             "symbol": "P2PL",
             "address": "0x078DbEab281bEfe80fFF6EA151355ef5c9DFc1dC",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "FutureVault Token",
+            "symbol": "FTT",
+            "address": "0x90083891b2a66105e12D097B280750fDd9e5f6Df",
+            "decimals": 18
         }
     ]
 }
