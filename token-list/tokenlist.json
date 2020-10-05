@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T12:48:59.696Z",
+    "timestamp": "2020-10-05T12:59:25.113Z",
     "version": {
         "major": 1,
-        "minor": 4672,
+        "minor": 4673,
         "patch": 0
     },
     "keywords": [
@@ -31407,6 +31407,13 @@
             "symbol": "LYNC",
             "address": "0x476defBb90b9A6C10922056f4D3923Cd72bC14Bf",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Avnrich ",
+            "symbol": "AVN",
+            "address": "0x9c70D078A46F7E8779a324690c4BbA367aDe9044",
+            "decimals": 6
         }
     ]
 }
