@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T17:40:10.947Z",
+    "timestamp": "2020-10-05T17:40:59.791Z",
     "version": {
         "major": 1,
-        "minor": 4732,
+        "minor": 4733,
         "patch": 0
     },
     "keywords": [
@@ -31826,6 +31826,13 @@
             "name": "almostone.finance",
             "symbol": "AO",
             "address": "0xd2cCf7BD730d10Ec871EAc2918788446Fb6DE2a7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pumpkin Finance",
+            "symbol": "PUMPKIN",
+            "address": "0xa6c94F87418C82d6dF5a65c10cBb0e24ff77ef39",
             "decimals": 18
         }
     ]
