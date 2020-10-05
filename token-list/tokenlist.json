@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T09:21:20.163Z",
+    "timestamp": "2020-10-05T09:34:08.645Z",
     "version": {
         "major": 1,
-        "minor": 4652,
+        "minor": 4653,
         "patch": 0
     },
     "keywords": [
@@ -31267,6 +31267,13 @@
             "symbol": "AWIN",
             "address": "0x9Cd44A26158cCf4bd2fB15bd3edF1B3F0dAaDD9D",
             "decimals": 10
+        },
+        {
+            "chainId": 1,
+            "name": "ZUSD",
+            "symbol": "ZUSD",
+            "address": "0x577e56C834998f8Fa7eaCA666582691AD4Fd9de4",
+            "decimals": 18
         }
     ]
 }
