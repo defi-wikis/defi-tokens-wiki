@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:41:45.150Z",
+    "timestamp": "2020-10-05T16:41:50.052Z",
     "version": {
         "major": 1,
-        "minor": 4717,
+        "minor": 4718,
         "patch": 0
     },
     "keywords": [
@@ -31722,6 +31722,13 @@
             "symbol": "TLT",
             "address": "0x438029B6b8152E1179B30da1778E94298768f9e5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Roganzola",
+            "symbol": "ROGUE",
+            "address": "0xAA34bF1fD22a8537eCF3dec57C8a63B1E7385e82",
+            "decimals": 4
         }
     ]
 }
