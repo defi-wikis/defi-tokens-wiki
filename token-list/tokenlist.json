@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:48:40.033Z",
+    "timestamp": "2020-10-05T15:53:54.713Z",
     "version": {
         "major": 1,
-        "minor": 4705,
+        "minor": 4706,
         "patch": 0
     },
     "keywords": [
@@ -31637,6 +31637,13 @@
             "name": "Kambria",
             "symbol": "KAT",
             "address": "0x2d31db42Cb100cc1aA1446a1cFB35C657821Cfc5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GlobeFinance",
+            "symbol": "GLF",
+            "address": "0x26D2BcE0874A18C74E3Bbd817D51eb704E6CFD52",
             "decimals": 18
         }
     ]
