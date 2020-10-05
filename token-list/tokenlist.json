@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:49:09.815Z",
+    "timestamp": "2020-10-05T16:52:40.301Z",
     "version": {
         "major": 1,
-        "minor": 4720,
+        "minor": 4721,
         "patch": 0
     },
     "keywords": [
@@ -31742,6 +31742,13 @@
             "name": "PiedPiperCoin",
             "symbol": "PPI",
             "address": "0x5a3c9A1725AA82690ee0959c89abE96fD1b527ee",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nino.Finance",
+            "symbol": "NINO",
+            "address": "0x28B75a0a9641F3C3747cec2B5D4A1F72140F9A04",
             "decimals": 18
         }
     ]
