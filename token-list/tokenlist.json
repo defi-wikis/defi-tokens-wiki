@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:33:30.745Z",
+    "timestamp": "2020-10-05T21:36:50.359Z",
     "version": {
         "major": 1,
-        "minor": 4780,
+        "minor": 4781,
         "patch": 0
     },
     "keywords": [
@@ -32162,6 +32162,13 @@
             "name": "pokemon farm",
             "symbol": "PKFM",
             "address": "0x1C823892850a9d49D016AdCB7C234Bdb3CFC5436",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cheer",
+            "symbol": "CHEER",
+            "address": "0xdFCBB34cda9592b2138f700601A86C70d5E72a60",
             "decimals": 18
         }
     ]
