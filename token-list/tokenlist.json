@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T17:18:25.589Z",
+    "timestamp": "2020-10-05T17:22:25.460Z",
     "version": {
         "major": 1,
-        "minor": 4728,
+        "minor": 4729,
         "patch": 0
     },
     "keywords": [
@@ -31798,6 +31798,13 @@
             "name": "poo.finance",
             "symbol": "POO",
             "address": "0x291a256521fb97008Ae239547e2de57FCF34C3F0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Books Edition 0",
+            "symbol": "BOOKS",
+            "address": "0xD684fe3d138089d80C85e2457c65C4dcC2205641",
             "decimals": 18
         }
     ]
