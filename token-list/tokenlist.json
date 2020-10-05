@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:40:55.524Z",
+    "timestamp": "2020-10-05T19:44:10.293Z",
     "version": {
         "major": 1,
-        "minor": 4756,
+        "minor": 4757,
         "patch": 0
     },
     "keywords": [
@@ -31994,6 +31994,13 @@
             "name": "SATOPAY YIELD",
             "symbol": "SPY",
             "address": "0xe4883Bcb919386Bb5f48EF59B7C31C1D93A51A57",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DogeCore.finance",
+            "symbol": "DOGECORE",
+            "address": "0xf76ed8B4995DCc6D035d3f8CDFfDF111CdC9F146",
             "decimals": 18
         }
     ]
