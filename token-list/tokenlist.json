@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T06:32:34.820Z",
+    "timestamp": "2020-10-05T06:57:44.864Z",
     "version": {
         "major": 1,
-        "minor": 4637,
+        "minor": 4638,
         "patch": 0
     },
     "keywords": [
@@ -31161,6 +31161,13 @@
             "name": "Bitcratic Revenue",
             "symbol": "BCTR",
             "address": "0x579353231F3540B218239774422962C64a3693e7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nori.finance",
+            "symbol": "NORI",
+            "address": "0x24Ab6f4a91F546695e30d5e9E6710a5B3C9A8283",
             "decimals": 18
         }
     ]
