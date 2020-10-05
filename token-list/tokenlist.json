@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T06:03:34.586Z",
+    "timestamp": "2020-10-05T06:07:59.563Z",
     "version": {
         "major": 1,
-        "minor": 4634,
+        "minor": 4635,
         "patch": 0
     },
     "keywords": [
@@ -31140,6 +31140,13 @@
             "name": "cVault.finance v2.0",
             "symbol": "CVF",
             "address": "0xED643487779043743D282Efa9e59DaeF01BcA38B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FOXSTAKE.COM",
+            "symbol": "FST",
+            "address": "0xd68aA9748757abD95d871DE4572B3Ee7F60Eb1C1",
             "decimals": 18
         }
     ]
