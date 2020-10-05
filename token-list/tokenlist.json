@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:47:15.541Z",
+    "timestamp": "2020-10-05T18:51:02.016Z",
     "version": {
         "major": 1,
-        "minor": 4745,
+        "minor": 4746,
         "patch": 0
     },
     "keywords": [
@@ -31917,6 +31917,13 @@
             "name": "ylion.finance",
             "symbol": "YLION",
             "address": "0xD99794699933DaFA1c003899D90Bd588E67492FA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGY.finance",
+            "symbol": "YGY",
+            "address": "0x0B883F5dE7914602ee8edc3dbBD4cfDcc428f5F1",
             "decimals": 18
         }
     ]
