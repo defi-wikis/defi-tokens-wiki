@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T22:14:15.293Z",
+    "timestamp": "2020-10-05T22:29:10.872Z",
     "version": {
         "major": 1,
-        "minor": 4783,
+        "minor": 4784,
         "patch": 0
     },
     "keywords": [
@@ -32184,6 +32184,13 @@
             "symbol": "DGEN",
             "address": "0x4c7d9bF429bE8378EF5d584c9Db55765D2C6e1eC",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "almostone.finance",
+            "symbol": "AO",
+            "address": "0xD8581C63a3C8edF15c5191bc5e09218793D272eb",
+            "decimals": 18
         }
     ]
 }
