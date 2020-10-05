@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T04:55:59.618Z",
+    "timestamp": "2020-10-05T05:01:54.663Z",
     "version": {
         "major": 1,
-        "minor": 4624,
+        "minor": 4625,
         "patch": 0
     },
     "keywords": [
@@ -31070,6 +31070,13 @@
             "name": "LARP",
             "symbol": "LARP",
             "address": "0x4021C3B1F29AdE0174Cc21B0eEb5C3b20C61F0BF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnDefiCoin",
+            "symbol": "EDC",
+            "address": "0xa2236388c796638202eD73Ca3BEb0ae0545c185e",
             "decimals": 18
         }
     ]
