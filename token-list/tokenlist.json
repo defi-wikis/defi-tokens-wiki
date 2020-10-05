@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T12:18:34.946Z",
+    "timestamp": "2020-10-05T12:37:25.202Z",
     "version": {
         "major": 1,
-        "minor": 4670,
+        "minor": 4671,
         "patch": 0
     },
     "keywords": [
@@ -31392,6 +31392,13 @@
             "name": "YLab Network",
             "symbol": "YLAB",
             "address": "0x58b1D5809C669E38188221461a7501F05c3eeB43",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SnowSwap",
+            "symbol": "SNOW",
+            "address": "0x2E459407Da71dF11F40B96c5719C5c1c4cf41e16",
             "decimals": 18
         }
     ]
