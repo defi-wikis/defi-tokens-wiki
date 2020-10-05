@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:57:40.016Z",
+    "timestamp": "2020-10-05T15:58:08.574Z",
     "version": {
         "major": 1,
-        "minor": 4708,
+        "minor": 4709,
         "patch": 0
     },
     "keywords": [
@@ -31658,6 +31658,13 @@
             "name": "UNCA",
             "symbol": "UNCA",
             "address": "0x7097F74ade7095c899498A26a8aeAdb1e23E9D79",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orbate",
+            "symbol": "Orb8",
+            "address": "0xBEF9fB5bEa7c6b6670567334192a58e4B6524914",
             "decimals": 18
         }
     ]
