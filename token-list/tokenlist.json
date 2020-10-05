@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T11:11:24.918Z",
+    "timestamp": "2020-10-05T11:18:25.469Z",
     "version": {
         "major": 1,
-        "minor": 4665,
+        "minor": 4666,
         "patch": 0
     },
     "keywords": [
@@ -31357,6 +31357,13 @@
             "name": "Polyient Games Governance Token",
             "symbol": "PGT",
             "address": "0x715F0f29E357945a5B81FC92960E39615FDEc97E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STVKE.Network",
+            "symbol": "STVKE",
+            "address": "0x064626b334AF693c63E6C0400e6F7cF6fc6BaaFB",
             "decimals": 18
         }
     ]
