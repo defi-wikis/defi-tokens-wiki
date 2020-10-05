@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T04:01:25.077Z",
+    "timestamp": "2020-10-05T04:17:39.848Z",
     "version": {
         "major": 1,
-        "minor": 4618,
+        "minor": 4619,
         "patch": 0
     },
     "keywords": [
@@ -31028,6 +31028,13 @@
             "name": "MIK TOKEN",
             "symbol": "MIK",
             "address": "0xC862f7E80bdf6e8D1a1C8639037810d77D9f7e52",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RZOR",
+            "symbol": "RZOR",
+            "address": "0x25a50F49c86d4E0Eccdfd69FDcA630868E4FE3c3",
             "decimals": 18
         }
     ]
