@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T13:15:25.320Z",
+    "timestamp": "2020-10-05T13:27:15.471Z",
     "version": {
         "major": 1,
-        "minor": 4677,
+        "minor": 4678,
         "patch": 0
     },
     "keywords": [
@@ -31441,6 +31441,13 @@
             "name": "Oracle",
             "symbol": "Oracle",
             "address": "0xec6797db5025f51f4439629BE326fAc355E25e2A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CORE Finance 1.2",
+            "symbol": "CORF",
+            "address": "0x766A6494612400cEfD0622C8CBf572FE8c4e875e",
             "decimals": 18
         }
     ]
