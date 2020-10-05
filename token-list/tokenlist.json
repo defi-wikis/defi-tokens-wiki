@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:01:45.572Z",
+    "timestamp": "2020-10-05T18:11:14.825Z",
     "version": {
         "major": 1,
-        "minor": 4734,
+        "minor": 4735,
         "patch": 0
     },
     "keywords": [
@@ -31840,6 +31840,13 @@
             "name": "UniStake",
             "symbol": "UNISTAKE",
             "address": "0xB8D9059ce0bFAA6d9E823383067a526434B2059B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jackson",
+            "symbol": "JKS",
+            "address": "0xE0388A7d2303B6F2BA6204312F682766Bb1A42e2",
             "decimals": 18
         }
     ]
