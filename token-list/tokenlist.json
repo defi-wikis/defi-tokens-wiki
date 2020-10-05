@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:39:39.791Z",
+    "timestamp": "2020-10-05T19:39:45.351Z",
     "version": {
         "major": 1,
-        "minor": 4754,
+        "minor": 4755,
         "patch": 0
     },
     "keywords": [
@@ -31981,6 +31981,13 @@
             "symbol": "NMBL",
             "address": "0xB6A53b84e5744bBd5858a8653C0967c924A67827",
             "decimals": 7
+        },
+        {
+            "chainId": 1,
+            "name": "IBM Finance",
+            "symbol": "YFIBM",
+            "address": "0xD265EB9d910573b195BF0fD4C789Fc80D3630D71",
+            "decimals": 18
         }
     ]
 }
