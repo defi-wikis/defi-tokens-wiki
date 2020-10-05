@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T09:09:45.137Z",
+    "timestamp": "2020-10-05T09:21:20.163Z",
     "version": {
         "major": 1,
-        "minor": 4651,
+        "minor": 4652,
         "patch": 0
     },
     "keywords": [
@@ -31260,6 +31260,13 @@
             "symbol": "empt",
             "address": "0xc87aad6DCCd9b543b7131c93560Df48d0Ea86E8A",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Awin",
+            "symbol": "AWIN",
+            "address": "0x9Cd44A26158cCf4bd2fB15bd3edF1B3F0dAaDD9D",
+            "decimals": 10
         }
     ]
 }
