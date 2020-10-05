@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T09:38:11.024Z",
+    "timestamp": "2020-10-05T09:46:55.128Z",
     "version": {
         "major": 1,
-        "minor": 4654,
+        "minor": 4655,
         "patch": 0
     },
     "keywords": [
@@ -31280,6 +31280,13 @@
             "name": "BurnVault.Finance",
             "symbol": "BVF",
             "address": "0xfdD24e6EaA5eb72F42f4BaAe42177eD2082948C1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mars",
+            "symbol": "Mars",
+            "address": "0x45813F03202FF1C16A420C14a241A63572ce4613",
             "decimals": 18
         }
     ]
