@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:46:35.186Z",
+    "timestamp": "2020-10-05T19:47:40.033Z",
     "version": {
         "major": 1,
-        "minor": 4758,
+        "minor": 4759,
         "patch": 0
     },
     "keywords": [
@@ -32008,6 +32008,13 @@
             "name": "Zipper Network",
             "symbol": "ZIP",
             "address": "0xe1723C10f99FE510cfc62D72d5401b614Ce9569a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bitsten Token",
+            "symbol": "BST",
+            "address": "0xD4f6f9Ae14399fD5Eb8DFc7725F0094a1A7F5d80",
             "decimals": 18
         }
     ]
