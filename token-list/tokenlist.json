@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:21:20.226Z",
+    "timestamp": "2020-10-05T18:21:25.667Z",
     "version": {
         "major": 1,
-        "minor": 4737,
+        "minor": 4738,
         "patch": 0
     },
     "keywords": [
@@ -31861,6 +31861,13 @@
             "name": "decore",
             "symbol": "decore",
             "address": "0x75869eC90BEe4e4E6F842777b28113C0C872257A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YAM V3",
+            "symbol": "YAM3",
+            "address": "0x7e5cDcA1262A7f65E087FA053E23A5e950DFc834",
             "decimals": 18
         }
     ]
