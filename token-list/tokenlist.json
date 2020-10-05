@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:48:24.917Z",
+    "timestamp": "2020-10-05T15:48:29.975Z",
     "version": {
         "major": 1,
-        "minor": 4703,
+        "minor": 4704,
         "patch": 0
     },
     "keywords": [
@@ -31623,6 +31623,13 @@
             "name": "Unicorn",
             "symbol": "UNIC",
             "address": "0x7333aF83B0AA7e56951A12fC1359Fe56B87103c4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OnigiriSwap.finance",
+            "symbol": "ONIGIRI",
+            "address": "0x35591c6CFA3A0BEf181dF97e0554e26cfb05d306",
             "decimals": 18
         }
     ]
