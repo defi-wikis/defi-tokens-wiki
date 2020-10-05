@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T23:28:29.865Z",
+    "timestamp": "2020-10-05T23:31:20.331Z",
     "version": {
         "major": 1,
-        "minor": 4793,
+        "minor": 4794,
         "patch": 0
     },
     "keywords": [
@@ -32253,6 +32253,13 @@
             "name": "YDEX",
             "symbol": "YDEX",
             "address": "0x456B9a5c56534A95A203be504f90C058066eD4fA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Syield.finance",
+            "symbol": "SYLD",
+            "address": "0x350c6f4161dd40075f936F81817BDa121A20f55e",
             "decimals": 18
         }
     ]
