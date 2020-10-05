@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T22:29:10.872Z",
+    "timestamp": "2020-10-05T22:33:49.905Z",
     "version": {
         "major": 1,
-        "minor": 4784,
+        "minor": 4785,
         "patch": 0
     },
     "keywords": [
@@ -32190,6 +32190,13 @@
             "name": "almostone.finance",
             "symbol": "AO",
             "address": "0xD8581C63a3C8edF15c5191bc5e09218793D272eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Astrophysic Finance",
+            "symbol": "ASTROPHYSIC",
+            "address": "0x1103349A49990728A909bA9e045C6D5C725f70F9",
             "decimals": 18
         }
     ]
