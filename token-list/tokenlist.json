@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T17:40:59.791Z",
+    "timestamp": "2020-10-05T18:01:45.572Z",
     "version": {
         "major": 1,
-        "minor": 4733,
+        "minor": 4734,
         "patch": 0
     },
     "keywords": [
@@ -31833,6 +31833,13 @@
             "name": "Pumpkin Finance",
             "symbol": "PUMPKIN",
             "address": "0xa6c94F87418C82d6dF5a65c10cBb0e24ff77ef39",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniStake",
+            "symbol": "UNISTAKE",
+            "address": "0xB8D9059ce0bFAA6d9E823383067a526434B2059B",
             "decimals": 18
         }
     ]
