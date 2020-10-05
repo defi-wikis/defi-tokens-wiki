@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:18:39.709Z",
+    "timestamp": "2020-10-05T15:21:44.849Z",
     "version": {
         "major": 1,
-        "minor": 4699,
+        "minor": 4700,
         "patch": 0
     },
     "keywords": [
@@ -31595,6 +31595,13 @@
             "name": "Vivid Finance",
             "symbol": "vBRIGHT",
             "address": "0x3E88f8C31E1F9D26c1904584EFbCA58b75F53568",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PornHub",
+            "symbol": "PORNHUB",
+            "address": "0x74D9e3A8aA3e8c2099f59E4d36B7078a529d2761",
             "decimals": 18
         }
     ]
