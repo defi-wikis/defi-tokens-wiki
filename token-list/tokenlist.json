@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T06:20:50.789Z",
+    "timestamp": "2020-10-05T06:32:34.820Z",
     "version": {
         "major": 1,
-        "minor": 4636,
+        "minor": 4637,
         "patch": 0
     },
     "keywords": [
@@ -31154,6 +31154,13 @@
             "name": "solidity.finance",
             "symbol": "HIPPO",
             "address": "0xf0978746e656001f424FEaCBEFd1E108408B79Ff",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcratic Revenue",
+            "symbol": "BCTR",
+            "address": "0x579353231F3540B218239774422962C64a3693e7",
             "decimals": 18
         }
     ]
