@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T02:26:00.001Z",
+    "timestamp": "2020-10-05T02:42:50.389Z",
     "version": {
         "major": 1,
-        "minor": 4609,
+        "minor": 4610,
         "patch": 0
     },
     "keywords": [
@@ -30965,6 +30965,13 @@
             "name": "OnigiriToken",
             "symbol": "ONIGIRI",
             "address": "0x0F14F88c2D0206db4a857A843789A0966d69aFC5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nori.finance",
+            "symbol": "NORI",
+            "address": "0xa0FCD6319AbFCE41723c4C6D1c45De27F1d5c162",
             "decimals": 18
         }
     ]
