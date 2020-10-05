@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T00:59:20.641Z",
+    "timestamp": "2020-10-05T01:02:20.321Z",
     "version": {
         "major": 1,
-        "minor": 4602,
+        "minor": 4603,
         "patch": 0
     },
     "keywords": [
@@ -30916,6 +30916,13 @@
             "name": "nori.finance",
             "symbol": "NORI",
             "address": "0x4dF6426A0BbBaF0a50315873b388801C70982604",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Airdropper",
+            "symbol": "AIR",
+            "address": "0xb98C7a2D01D520E7FBe791e4fd44514DecEF67D8",
             "decimals": 18
         }
     ]
