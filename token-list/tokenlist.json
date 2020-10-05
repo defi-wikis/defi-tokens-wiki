@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T07:55:08.044Z",
+    "timestamp": "2020-10-05T08:03:06.526Z",
     "version": {
         "major": 1,
-        "minor": 4641,
+        "minor": 4642,
         "patch": 0
     },
     "keywords": [
@@ -31189,6 +31189,13 @@
             "name": "nori.finance",
             "symbol": "NORI",
             "address": "0x341DC505B1885ADADB65d8D7A396195DdC7B2f15",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ChadToken",
+            "symbol": "CHAD",
+            "address": "0x747f695dff866B7cec2C8B592596fc81Ea211890",
             "decimals": 18
         }
     ]
