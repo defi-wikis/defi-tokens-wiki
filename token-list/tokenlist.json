@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T13:34:40.922Z",
+    "timestamp": "2020-10-05T13:44:25.566Z",
     "version": {
         "major": 1,
-        "minor": 4679,
+        "minor": 4680,
         "patch": 0
     },
     "keywords": [
@@ -31456,6 +31456,13 @@
             "symbol": "EFT",
             "address": "0x63F28268c2AeF510695f272954192e447Dc332df",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "UniMex.Finance",
+            "symbol": "UMEX",
+            "address": "0x65485f8FF670f12829402C55A109c1f446A170fE",
+            "decimals": 18
         }
     ]
 }
