@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T08:03:06.526Z",
+    "timestamp": "2020-10-05T08:05:34.845Z",
     "version": {
         "major": 1,
-        "minor": 4642,
+        "minor": 4643,
         "patch": 0
     },
     "keywords": [
@@ -31197,6 +31197,13 @@
             "symbol": "CHAD",
             "address": "0x747f695dff866B7cec2C8B592596fc81Ea211890",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EPOXY",
+            "symbol": "EPX",
+            "address": "0x5729b237D016EC3C24e5C926D9884d8a77Bc3781",
+            "decimals": 4
         }
     ]
 }
