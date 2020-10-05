@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T02:47:50.470Z",
+    "timestamp": "2020-10-05T02:57:10.135Z",
     "version": {
         "major": 1,
-        "minor": 4611,
+        "minor": 4612,
         "patch": 0
     },
     "keywords": [
@@ -30979,6 +30979,13 @@
             "name": "EarnDefiCoin",
             "symbol": "EDC",
             "address": "0xc0Ac312879E7359660d21474d609f96Fe97CD8f2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZooToken",
+            "symbol": "Zoo",
+            "address": "0xe023208c34faF57FF6a5BC1900CDF2F7c1A5d7A3",
             "decimals": 18
         }
     ]
