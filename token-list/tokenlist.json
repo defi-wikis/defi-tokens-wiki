@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T08:48:20.036Z",
+    "timestamp": "2020-10-05T08:50:56.514Z",
     "version": {
         "major": 1,
-        "minor": 4648,
+        "minor": 4649,
         "patch": 0
     },
     "keywords": [
@@ -31238,6 +31238,13 @@
             "name": "LLT",
             "symbol": "LLT",
             "address": "0x7111890Ec91B656D5773054EDF29d40e81a47204",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BurnVault.Finance",
+            "symbol": "BVF",
+            "address": "0xd7ec352607ef069e50043291f47198F805E43F49",
             "decimals": 18
         }
     ]
