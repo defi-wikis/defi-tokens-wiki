@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:34:45.301Z",
+    "timestamp": "2020-10-05T19:39:39.791Z",
     "version": {
         "major": 1,
-        "minor": 4753,
+        "minor": 4754,
         "patch": 0
     },
     "keywords": [
@@ -31974,6 +31974,13 @@
             "symbol": "SAND2",
             "address": "0x3861f3E5002D4701066a88C84e1DcA38b8f072Aa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nimble",
+            "symbol": "NMBL",
+            "address": "0xB6A53b84e5744bBd5858a8653C0967c924A67827",
+            "decimals": 7
         }
     ]
 }
