@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T03:23:15.922Z",
+    "timestamp": "2020-10-05T03:30:35.136Z",
     "version": {
         "major": 1,
-        "minor": 4615,
+        "minor": 4616,
         "patch": 0
     },
     "keywords": [
@@ -31007,6 +31007,13 @@
             "name": "CYCLOPS Liquidity",
             "symbol": "CYTL",
             "address": "0xfDc9bD9087e5a0b2c3A161BdEF1485D147e5465b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "piedao.org",
+            "symbol": "PieDAO ",
+            "address": "0xb076FC4CcEAa7960bE6359D94658D0357C0591f1",
             "decimals": 18
         }
     ]
