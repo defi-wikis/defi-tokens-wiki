@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T20:15:45.018Z",
+    "timestamp": "2020-10-05T20:27:15.976Z",
     "version": {
         "major": 1,
-        "minor": 4765,
+        "minor": 4766,
         "patch": 0
     },
     "keywords": [
@@ -32057,6 +32057,13 @@
             "name": "ZioToken",
             "symbol": "ZTK",
             "address": "0x00C952823eF755CC6c9611Aff0548605C8cDE649",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Food Fight Finance",
+            "symbol": "FFF",
+            "address": "0xEd2A38Dfcc4958109206410Ed0f08488873974dc",
             "decimals": 18
         }
     ]
