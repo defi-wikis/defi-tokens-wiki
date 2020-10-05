@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:56:35.375Z",
+    "timestamp": "2020-10-05T14:59:11.725Z",
     "version": {
         "major": 1,
-        "minor": 4693,
+        "minor": 4694,
         "patch": 0
     },
     "keywords": [
@@ -31553,6 +31553,13 @@
             "name": "SIBOS",
             "symbol": "SIBOS",
             "address": "0xB41933A20A724cb84A96eE0bE1b92ab00ec10FD5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CARE.FI",
+            "symbol": "CAREFI",
+            "address": "0x5Ce0b7D7a669C77A36049D34A2DF28a157C80745",
             "decimals": 18
         }
     ]
