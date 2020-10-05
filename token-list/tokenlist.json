@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T10:26:39.397Z",
+    "timestamp": "2020-10-05T10:36:30.340Z",
     "version": {
         "major": 1,
-        "minor": 4659,
+        "minor": 4660,
         "patch": 0
     },
     "keywords": [
@@ -31315,6 +31315,13 @@
             "name": "Crunk",
             "symbol": "CRNK",
             "address": "0x13D4f0a345e97bc4AA99068332DC44afb05634d8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOLK Finance",
+            "symbol": "YOLK",
+            "address": "0xc29D3eAa5Bc667d4ac8D9BD8242D0E5255A15cCF",
             "decimals": 18
         }
     ]
