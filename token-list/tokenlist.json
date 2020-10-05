@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:00:20.155Z",
+    "timestamp": "2020-10-05T21:02:14.787Z",
     "version": {
         "major": 1,
-        "minor": 4772,
+        "minor": 4773,
         "patch": 0
     },
     "keywords": [
@@ -32106,6 +32106,13 @@
             "name": "LYNC Network",
             "symbol": "LYNC",
             "address": "0x8f87Ec6aAd3B2A8C44f1298A1af56169B8e574cf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SEA INNOVATION",
+            "symbol": "XTF.YYYSEA",
+            "address": "0xb79b79970d87eB7f43f261f0A31D5408483DCaEa",
             "decimals": 18
         }
     ]
