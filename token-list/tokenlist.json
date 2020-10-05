@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T04:25:25.962Z",
+    "timestamp": "2020-10-05T04:29:01.855Z",
     "version": {
         "major": 1,
-        "minor": 4620,
+        "minor": 4621,
         "patch": 0
     },
     "keywords": [
@@ -31042,6 +31042,13 @@
             "name": "Crit",
             "symbol": "CRIT",
             "address": "0xf00eA2f3761a730f414aeE6DfDC7857b6a3Ef086",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NOTE Finance",
+            "symbol": "NOTE",
+            "address": "0xe3D23780718567AC62E8089dE297487Ce0780080",
             "decimals": 18
         }
     ]
