@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:14:02.821Z",
+    "timestamp": "2020-10-05T14:18:09.288Z",
     "version": {
         "major": 1,
-        "minor": 4686,
+        "minor": 4687,
         "patch": 0
     },
     "keywords": [
@@ -31504,6 +31504,13 @@
             "name": "CentFi",
             "symbol": "CFIX",
             "address": "0x71f2365f135E6070989f1658aABeD13d70950F15",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearn.finance 2.1",
+            "symbol": "YFII",
+            "address": "0x5816B0d64c95C679C7E06F5A0264e8cDB03Db59b",
             "decimals": 18
         }
     ]
