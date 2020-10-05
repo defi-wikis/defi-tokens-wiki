@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:48:29.975Z",
+    "timestamp": "2020-10-05T15:48:40.033Z",
     "version": {
         "major": 1,
-        "minor": 4704,
+        "minor": 4705,
         "patch": 0
     },
     "keywords": [
@@ -31630,6 +31630,13 @@
             "name": "OnigiriSwap.finance",
             "symbol": "ONIGIRI",
             "address": "0x35591c6CFA3A0BEf181dF97e0554e26cfb05d306",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kambria",
+            "symbol": "KAT",
+            "address": "0x2d31db42Cb100cc1aA1446a1cFB35C657821Cfc5",
             "decimals": 18
         }
     ]
