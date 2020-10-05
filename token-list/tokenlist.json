@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:31:54.394Z",
+    "timestamp": "2020-10-05T18:35:39.980Z",
     "version": {
         "major": 1,
-        "minor": 4742,
+        "minor": 4743,
         "patch": 0
     },
     "keywords": [
@@ -31896,6 +31896,13 @@
             "name": "Dcore",
             "symbol": "DCORE",
             "address": "0xb944B46Bbd4ccca90c962EF225e2804E46691cCF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MushieV2",
+            "symbol": "MUSHV2",
+            "address": "0x05C77eaE36BB6178fAdDB958B51Bc37cC025AB82",
             "decimals": 18
         }
     ]
