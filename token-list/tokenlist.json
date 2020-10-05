@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:26:30.437Z",
+    "timestamp": "2020-10-05T19:34:45.301Z",
     "version": {
         "major": 1,
-        "minor": 4752,
+        "minor": 4753,
         "patch": 0
     },
     "keywords": [
@@ -31966,6 +31966,13 @@
             "name": "FutureVault Token",
             "symbol": "FTT",
             "address": "0x90083891b2a66105e12D097B280750fDd9e5f6Df",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "sandwich-v2",
+            "symbol": "SAND2",
+            "address": "0x3861f3E5002D4701066a88C84e1DcA38b8f072Aa",
             "decimals": 18
         }
     ]
