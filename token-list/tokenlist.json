@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:31:39.993Z",
+    "timestamp": "2020-10-05T21:33:30.745Z",
     "version": {
         "major": 1,
-        "minor": 4779,
+        "minor": 4780,
         "patch": 0
     },
     "keywords": [
@@ -32155,6 +32155,13 @@
             "name": "God Finance",
             "symbol": "GOD",
             "address": "0x423476dDc07af3D282C7D4fEee1433FCBF462EC0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pokemon farm",
+            "symbol": "PKFM",
+            "address": "0x1C823892850a9d49D016AdCB7C234Bdb3CFC5436",
             "decimals": 18
         }
     ]
