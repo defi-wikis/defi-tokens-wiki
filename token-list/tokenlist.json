@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T22:50:45.062Z",
+    "timestamp": "2020-10-05T22:58:25.804Z",
     "version": {
         "major": 1,
-        "minor": 4788,
+        "minor": 4789,
         "patch": 0
     },
     "keywords": [
@@ -32218,6 +32218,13 @@
             "name": "DEFI GOLD",
             "symbol": "DFGL",
             "address": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ydex.finance",
+            "symbol": "YDEX",
+            "address": "0x6065651E64e94e3148490ab56027034AebB3FE86",
             "decimals": 18
         }
     ]
