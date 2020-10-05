@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:59:11.725Z",
+    "timestamp": "2020-10-05T15:04:50.042Z",
     "version": {
         "major": 1,
-        "minor": 4694,
+        "minor": 4695,
         "patch": 0
     },
     "keywords": [
@@ -31561,6 +31561,13 @@
             "symbol": "CAREFI",
             "address": "0x5Ce0b7D7a669C77A36049D34A2DF28a157C80745",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WSD",
+            "symbol": "WSD",
+            "address": "0xbCfe931333122dD6140A8Fb31a85E39C97b9EebA",
+            "decimals": 8
         }
     ]
 }
