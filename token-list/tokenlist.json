@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T10:46:14.930Z",
+    "timestamp": "2020-10-05T10:54:11.205Z",
     "version": {
         "major": 1,
-        "minor": 4662,
+        "minor": 4663,
         "patch": 0
     },
     "keywords": [
@@ -31336,6 +31336,13 @@
             "name": "bellevuenetwork.io",
             "symbol": "BLV",
             "address": "0x8944F367D8e867038a75151d23825ebA084dC17A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HONK",
+            "symbol": "HONK",
+            "address": "0x3d5ceb885Cf86FBB60136883211358e48722eF36",
             "decimals": 18
         }
     ]
