@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T20:37:20.312Z",
+    "timestamp": "2020-10-05T20:38:15.818Z",
     "version": {
         "major": 1,
-        "minor": 4768,
+        "minor": 4769,
         "patch": 0
     },
     "keywords": [
@@ -32079,6 +32079,13 @@
             "symbol": "KAWI",
             "address": "0xaDe89c3D55fA6cD1925D6A97a58c0C9324cDfc1F",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Tokens for future",
+            "symbol": "TFF",
+            "address": "0x2d65aAAAaa439EAaE8B6F73233eC37bf91c5B0A3",
+            "decimals": 18
         }
     ]
 }
