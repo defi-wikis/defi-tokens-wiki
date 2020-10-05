@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:58:29.801Z",
+    "timestamp": "2020-10-05T17:05:15.154Z",
     "version": {
         "major": 1,
-        "minor": 4722,
+        "minor": 4723,
         "patch": 0
     },
     "keywords": [
@@ -31756,6 +31756,13 @@
             "name": "Hooli Coin Blockchain",
             "symbol": "HLI",
             "address": "0x6baf7FcEA90B0968dc5eD7B8dCB76C986637Ff55",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance vZ",
+            "symbol": "COREZ",
+            "address": "0xaf845DA0F48612AAd04D35560dfc5D1540C3A873",
             "decimals": 18
         }
     ]
