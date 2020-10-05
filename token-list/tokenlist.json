@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T18:35:39.980Z",
+    "timestamp": "2020-10-05T18:40:15.928Z",
     "version": {
         "major": 1,
-        "minor": 4743,
+        "minor": 4744,
         "patch": 0
     },
     "keywords": [
@@ -31903,6 +31903,13 @@
             "name": "MushieV2",
             "symbol": "MUSHV2",
             "address": "0x05C77eaE36BB6178fAdDB958B51Bc37cC025AB82",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nerve Protocol",
+            "symbol": "NRP",
+            "address": "0xF1D2af7Dd76DC8af5650A974B939b79D924F084F",
             "decimals": 18
         }
     ]
