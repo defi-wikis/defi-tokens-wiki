@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T05:40:49.964Z",
+    "timestamp": "2020-10-05T05:46:07.076Z",
     "version": {
         "major": 1,
-        "minor": 4631,
+        "minor": 4632,
         "patch": 0
     },
     "keywords": [
@@ -31120,6 +31120,13 @@
             "symbol": "BVF",
             "address": "0x8255eA34244cca2EC793f3cE7095c05A75F47Efd",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bitcoinrand",
+            "symbol": "BZAR",
+            "address": "0x7cEEC2D664eB1c712E5c6c580A26fB367237E53B",
+            "decimals": 8
         }
     ]
 }
