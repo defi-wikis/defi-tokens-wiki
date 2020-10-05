@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T05:34:40.597Z",
+    "timestamp": "2020-10-05T05:40:49.964Z",
     "version": {
         "major": 1,
-        "minor": 4630,
+        "minor": 4631,
         "patch": 0
     },
     "keywords": [
@@ -31112,6 +31112,13 @@
             "name": "CorbV1",
             "symbol": "CORBV1",
             "address": "0xbb92a53F1A4dfD300a27662B2054BDc17348B534",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BurnVault.Finance",
+            "symbol": "BVF",
+            "address": "0x8255eA34244cca2EC793f3cE7095c05A75F47Efd",
             "decimals": 18
         }
     ]
