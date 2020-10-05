@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T05:46:07.076Z",
+    "timestamp": "2020-10-05T06:02:08.151Z",
     "version": {
         "major": 1,
-        "minor": 4632,
+        "minor": 4633,
         "patch": 0
     },
     "keywords": [
@@ -31127,6 +31127,13 @@
             "symbol": "BZAR",
             "address": "0x7cEEC2D664eB1c712E5c6c580A26fB367237E53B",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "WhiteRock.Finance",
+            "symbol": "WRF",
+            "address": "0x0a52578F2b4Ee0D3d8b9e31A1D8b88F84f15385b",
+            "decimals": 18
         }
     ]
 }
