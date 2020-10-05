@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:35:51.110Z",
+    "timestamp": "2020-10-05T14:47:30.293Z",
     "version": {
         "major": 1,
-        "minor": 4689,
+        "minor": 4690,
         "patch": 0
     },
     "keywords": [
@@ -31525,6 +31525,13 @@
             "name": "Mass Vehicle Ledger Token",
             "symbol": "MVL",
             "address": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cap.finance 1.5",
+            "symbol": "CAPF",
+            "address": "0x933c95396C88FBE86f1caD60dF643C2007B13754",
             "decimals": 18
         }
     ]
