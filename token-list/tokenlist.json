@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:39:45.351Z",
+    "timestamp": "2020-10-05T19:40:55.524Z",
     "version": {
         "major": 1,
-        "minor": 4755,
+        "minor": 4756,
         "patch": 0
     },
     "keywords": [
@@ -31987,6 +31987,13 @@
             "name": "IBM Finance",
             "symbol": "YFIBM",
             "address": "0xD265EB9d910573b195BF0fD4C789Fc80D3630D71",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SATOPAY YIELD",
+            "symbol": "SPY",
+            "address": "0xe4883Bcb919386Bb5f48EF59B7C31C1D93A51A57",
             "decimals": 18
         }
     ]
