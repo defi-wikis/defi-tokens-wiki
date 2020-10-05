@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:58:10.331Z",
+    "timestamp": "2020-10-05T20:14:54.771Z",
     "version": {
         "major": 1,
-        "minor": 4763,
+        "minor": 4764,
         "patch": 0
     },
     "keywords": [
@@ -32043,6 +32043,13 @@
             "name": "MEME CASH Token",
             "symbol": "MCH",
             "address": "0xA4e7414FCba1AF15203030C6daAC630df8F16AEa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lambodegens",
+            "symbol": "LAMBO",
+            "address": "0xAB180023bEC29386eB22fF7D41869E03ecDF9Fff",
             "decimals": 18
         }
     ]
