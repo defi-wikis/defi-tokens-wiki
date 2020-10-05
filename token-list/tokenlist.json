@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T06:57:44.864Z",
+    "timestamp": "2020-10-05T07:08:45.597Z",
     "version": {
         "major": 1,
-        "minor": 4638,
+        "minor": 4639,
         "patch": 0
     },
     "keywords": [
@@ -31168,6 +31168,13 @@
             "name": "nori.finance",
             "symbol": "NORI",
             "address": "0x24Ab6f4a91F546695e30d5e9E6710a5B3C9A8283",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Burn Vault",
+            "symbol": "BVF",
+            "address": "0x81834710F33421C98d719268B3c511370A9563a6",
             "decimals": 18
         }
     ]
