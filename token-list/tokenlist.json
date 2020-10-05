@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:18:09.288Z",
+    "timestamp": "2020-10-05T14:23:59.894Z",
     "version": {
         "major": 1,
-        "minor": 4687,
+        "minor": 4688,
         "patch": 0
     },
     "keywords": [
@@ -31511,6 +31511,13 @@
             "name": "yearn.finance 2.1",
             "symbol": "YFII",
             "address": "0x5816B0d64c95C679C7E06F5A0264e8cDB03Db59b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTCGOLD",
+            "symbol": "BTCGOLD",
+            "address": "0x138c278298D750A7eA96D733ADae59E9CE74e827",
             "decimals": 18
         }
     ]
