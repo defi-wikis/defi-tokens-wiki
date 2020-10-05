@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T13:53:08.124Z",
+    "timestamp": "2020-10-05T14:09:25.453Z",
     "version": {
         "major": 1,
-        "minor": 4683,
+        "minor": 4684,
         "patch": 0
     },
     "keywords": [
@@ -31483,6 +31483,13 @@
             "name": "TitanDEX.Finance",
             "symbol": "TITAN",
             "address": "0x47dDfd98Ec3fDe52ff610E3D974e569AA1dD81Bc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nino.Finance",
+            "symbol": "NINO",
+            "address": "0x3516D4Ad89f0c3a135DB87288aE36b48baB9a457",
             "decimals": 18
         }
     ]
