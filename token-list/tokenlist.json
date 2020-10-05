@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T09:46:55.128Z",
+    "timestamp": "2020-10-05T09:49:14.659Z",
     "version": {
         "major": 1,
-        "minor": 4655,
+        "minor": 4656,
         "patch": 0
     },
     "keywords": [
@@ -31287,6 +31287,13 @@
             "name": "Mars",
             "symbol": "Mars",
             "address": "0x45813F03202FF1C16A420C14a241A63572ce4613",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SIMP",
+            "symbol": "SIMP",
+            "address": "0xdFcb3fE1C69bf561a920f623FD152e8630674d0d",
             "decimals": 18
         }
     ]
