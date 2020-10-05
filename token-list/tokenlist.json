@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T13:46:15.337Z",
+    "timestamp": "2020-10-05T13:50:50.651Z",
     "version": {
         "major": 1,
-        "minor": 4681,
+        "minor": 4682,
         "patch": 0
     },
     "keywords": [
@@ -31470,6 +31470,13 @@
             "symbol": "YFCORE",
             "address": "0xC1d8a061cEc467404DBd5fDB50594a084655a9BF",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Ketamine",
+            "symbol": "KET",
+            "address": "0x8865eDa955Db0c53FE908510fd6CB728493Ad7AB",
+            "decimals": 18
         }
     ]
 }
