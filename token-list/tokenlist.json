@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:45:36.099Z",
+    "timestamp": "2020-10-05T16:49:09.815Z",
     "version": {
         "major": 1,
-        "minor": 4719,
+        "minor": 4720,
         "patch": 0
     },
     "keywords": [
@@ -31735,6 +31735,13 @@
             "name": "Corb.Finance",
             "symbol": "CORB",
             "address": "0xF965AaEF9A597230A8011ba738B81ce059F5f14d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PiedPiperCoin",
+            "symbol": "PPI",
+            "address": "0x5a3c9A1725AA82690ee0959c89abE96fD1b527ee",
             "decimals": 18
         }
     ]
