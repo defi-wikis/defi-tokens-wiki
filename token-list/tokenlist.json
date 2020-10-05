@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T02:57:10.135Z",
+    "timestamp": "2020-10-05T03:06:02.376Z",
     "version": {
         "major": 1,
-        "minor": 4612,
+        "minor": 4613,
         "patch": 0
     },
     "keywords": [
@@ -30986,6 +30986,13 @@
             "name": "ZooToken",
             "symbol": "Zoo",
             "address": "0xe023208c34faF57FF6a5BC1900CDF2F7c1A5d7A3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xfinance v2",
+            "symbol": "XFII",
+            "address": "0xD8492057E04F3318632C16511F99Cf7E54d16Dea",
             "decimals": 18
         }
     ]
