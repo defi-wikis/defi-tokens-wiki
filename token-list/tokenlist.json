@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T09:49:14.659Z",
+    "timestamp": "2020-10-05T09:51:45.194Z",
     "version": {
         "major": 1,
-        "minor": 4656,
+        "minor": 4657,
         "patch": 0
     },
     "keywords": [
@@ -31294,6 +31294,13 @@
             "name": "SIMP",
             "symbol": "SIMP",
             "address": "0xdFcb3fE1C69bf561a920f623FD152e8630674d0d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nerve Network",
+            "symbol": "NN",
+            "address": "0xC05900CC3850E769051f8547eC94CBe188b203aa",
             "decimals": 18
         }
     ]
