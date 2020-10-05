@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T14:47:30.293Z",
+    "timestamp": "2020-10-05T14:51:06.691Z",
     "version": {
         "major": 1,
-        "minor": 4690,
+        "minor": 4691,
         "patch": 0
     },
     "keywords": [
@@ -31532,6 +31532,13 @@
             "name": "cap.finance 1.5",
             "symbol": "CAPF",
             "address": "0x933c95396C88FBE86f1caD60dF643C2007B13754",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Coconuts",
+            "symbol": "CNUTS",
+            "address": "0x933a4d17F13dc4f9f30ea87A3E840b1269E0c12c",
             "decimals": 18
         }
     ]
