@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:52:40.301Z",
+    "timestamp": "2020-10-05T16:58:29.801Z",
     "version": {
         "major": 1,
-        "minor": 4721,
+        "minor": 4722,
         "patch": 0
     },
     "keywords": [
@@ -31749,6 +31749,13 @@
             "name": "Nino.Finance",
             "symbol": "NINO",
             "address": "0x28B75a0a9641F3C3747cec2B5D4A1F72140F9A04",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hooli Coin Blockchain",
+            "symbol": "HLI",
+            "address": "0x6baf7FcEA90B0968dc5eD7B8dCB76C986637Ff55",
             "decimals": 18
         }
     ]
