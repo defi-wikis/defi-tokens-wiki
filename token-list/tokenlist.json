@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T02:25:25.250Z",
+    "timestamp": "2020-10-05T02:26:00.001Z",
     "version": {
         "major": 1,
-        "minor": 4608,
+        "minor": 4609,
         "patch": 0
     },
     "keywords": [
@@ -30958,6 +30958,13 @@
             "name": "A.top",
             "symbol": "AT",
             "address": "0x0b971799f23477086951B29Ee7329c04D910a51f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OnigiriToken",
+            "symbol": "ONIGIRI",
+            "address": "0x0F14F88c2D0206db4a857A843789A0966d69aFC5",
             "decimals": 18
         }
     ]
