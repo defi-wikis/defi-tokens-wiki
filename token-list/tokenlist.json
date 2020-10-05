@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T22:50:40.941Z",
+    "timestamp": "2020-10-05T22:50:45.062Z",
     "version": {
         "major": 1,
-        "minor": 4787,
+        "minor": 4788,
         "patch": 0
     },
     "keywords": [
@@ -32212,6 +32212,13 @@
             "symbol": "KUR",
             "address": "0x804417C8E186218aB62019B9F300872a403A7B18",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DEFI GOLD",
+            "symbol": "DFGL",
+            "address": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
+            "decimals": 18
         }
     ]
 }
