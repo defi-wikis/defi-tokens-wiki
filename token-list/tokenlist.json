@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T13:13:50.362Z",
+    "timestamp": "2020-10-05T13:15:25.320Z",
     "version": {
         "major": 1,
-        "minor": 4676,
+        "minor": 4677,
         "patch": 0
     },
     "keywords": [
@@ -31435,6 +31435,13 @@
             "symbol": "CFIX",
             "address": "0x4ae63e92ddA9072Fc47bfffD623737Fc736533F9",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Oracle",
+            "symbol": "Oracle",
+            "address": "0xec6797db5025f51f4439629BE326fAc355E25e2A",
+            "decimals": 18
         }
     ]
 }
