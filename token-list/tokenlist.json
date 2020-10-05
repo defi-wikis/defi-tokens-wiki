@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T02:05:30.242Z",
+    "timestamp": "2020-10-05T02:09:54.836Z",
     "version": {
         "major": 1,
-        "minor": 4606,
+        "minor": 4607,
         "patch": 0
     },
     "keywords": [
@@ -30944,6 +30944,13 @@
             "name": "UniswaqFinance",
             "symbol": "XFIPro",
             "address": "0x677905F7Cb272E6f0fc748db2Cd206A4dbEE3842",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "btcu",
+            "symbol": "btcu",
+            "address": "0x936475bf647412A11e1993243f7e84a23311E13f",
             "decimals": 18
         }
     ]
