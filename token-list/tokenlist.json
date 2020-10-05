@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T03:09:20.909Z",
+    "timestamp": "2020-10-05T03:23:15.922Z",
     "version": {
         "major": 1,
-        "minor": 4614,
+        "minor": 4615,
         "patch": 0
     },
     "keywords": [
@@ -31000,6 +31000,13 @@
             "name": "Oracle",
             "symbol": "Oracle",
             "address": "0x0e8c9A479e2e6354061721218fC689f362b5b141",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CYCLOPS Liquidity",
+            "symbol": "CYTL",
+            "address": "0xfDc9bD9087e5a0b2c3A161BdEF1485D147e5465b",
             "decimals": 18
         }
     ]
