@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:58:08.574Z",
+    "timestamp": "2020-10-05T16:01:40.292Z",
     "version": {
         "major": 1,
-        "minor": 4709,
+        "minor": 4710,
         "patch": 0
     },
     "keywords": [
@@ -31665,6 +31665,13 @@
             "name": "Orbate",
             "symbol": "Orb8",
             "address": "0xBEF9fB5bEa7c6b6670567334192a58e4B6524914",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fortunefinance",
+            "symbol": "FORT",
+            "address": "0x3dB86f43c7e3fa0f244Fcb945A71a8fE3C9E22A5",
             "decimals": 18
         }
     ]
