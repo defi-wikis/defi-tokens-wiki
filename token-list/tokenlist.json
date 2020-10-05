@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T12:59:49.728Z",
+    "timestamp": "2020-10-05T13:11:08.375Z",
     "version": {
         "major": 1,
-        "minor": 4674,
+        "minor": 4675,
         "patch": 0
     },
     "keywords": [
@@ -31420,6 +31420,13 @@
             "name": "Centaur Finance",
             "symbol": "CNTR",
             "address": "0x3339B6Fb3a75381F1b677075B8CbA55F69651d8a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polyient Games Governance Token",
+            "symbol": "PGT",
+            "address": "0xC468E5CD1cde5d1935e822C703eE5757dCb5B167",
             "decimals": 18
         }
     ]
