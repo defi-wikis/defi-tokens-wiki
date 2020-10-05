@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T17:22:25.460Z",
+    "timestamp": "2020-10-05T17:24:19.866Z",
     "version": {
         "major": 1,
-        "minor": 4729,
+        "minor": 4730,
         "patch": 0
     },
     "keywords": [
@@ -31805,6 +31805,13 @@
             "name": "Books Edition 0",
             "symbol": "BOOKS",
             "address": "0xD684fe3d138089d80C85e2457c65C4dcC2205641",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xprestige",
+            "symbol": "XPG",
+            "address": "0xE571A78422abA47A0ad76C397eD4b84e51d89850",
             "decimals": 18
         }
     ]
