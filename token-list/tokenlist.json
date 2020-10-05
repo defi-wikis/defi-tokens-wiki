@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T02:42:50.389Z",
+    "timestamp": "2020-10-05T02:47:50.470Z",
     "version": {
         "major": 1,
-        "minor": 4610,
+        "minor": 4611,
         "patch": 0
     },
     "keywords": [
@@ -30972,6 +30972,13 @@
             "name": "nori.finance",
             "symbol": "NORI",
             "address": "0xa0FCD6319AbFCE41723c4C6D1c45De27F1d5c162",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnDefiCoin",
+            "symbol": "EDC",
+            "address": "0xc0Ac312879E7359660d21474d609f96Fe97CD8f2",
             "decimals": 18
         }
     ]
