@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T04:47:49.758Z",
+    "timestamp": "2020-10-05T04:55:59.618Z",
     "version": {
         "major": 1,
-        "minor": 4623,
+        "minor": 4624,
         "patch": 0
     },
     "keywords": [
@@ -31063,6 +31063,13 @@
             "name": "ATARI",
             "symbol": "ART",
             "address": "0xb5837599B65DE61f8F422c0F23E3858322aE243A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LARP",
+            "symbol": "LARP",
+            "address": "0x4021C3B1F29AdE0174Cc21B0eEb5C3b20C61F0BF",
             "decimals": 18
         }
     ]
