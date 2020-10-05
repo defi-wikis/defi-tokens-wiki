@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:56:55.027Z",
+    "timestamp": "2020-10-05T19:58:10.331Z",
     "version": {
         "major": 1,
-        "minor": 4762,
+        "minor": 4763,
         "patch": 0
     },
     "keywords": [
@@ -32036,6 +32036,13 @@
             "name": "Defined.YieldFinance",
             "symbol": "DYF",
             "address": "0xA212f91bb2126AEdbEcA580A53B42D68C5C1883D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEME CASH Token",
+            "symbol": "MCH",
+            "address": "0xA4e7414FCba1AF15203030C6daAC630df8F16AEa",
             "decimals": 18
         }
     ]
