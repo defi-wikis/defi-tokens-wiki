@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T23:49:10.506Z",
+    "timestamp": "2020-10-05T23:49:25.520Z",
     "version": {
         "major": 1,
-        "minor": 4797,
+        "minor": 4798,
         "patch": 0
     },
     "keywords": [
@@ -32281,6 +32281,13 @@
             "name": "OWL Token",
             "symbol": "OWL",
             "address": "0x2a7f709eE001069771ceB6D42e85035f7D18E736",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ydex.finance",
+            "symbol": "YDEX",
+            "address": "0x19eb53045Ae7a9765dBcF3417d8974f37e07A5E1",
             "decimals": 18
         }
     ]
