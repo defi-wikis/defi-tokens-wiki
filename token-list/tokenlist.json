@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T02:09:54.836Z",
+    "timestamp": "2020-10-05T02:25:25.250Z",
     "version": {
         "major": 1,
-        "minor": 4607,
+        "minor": 4608,
         "patch": 0
     },
     "keywords": [
@@ -30951,6 +30951,13 @@
             "name": "btcu",
             "symbol": "btcu",
             "address": "0x936475bf647412A11e1993243f7e84a23311E13f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "A.top",
+            "symbol": "AT",
+            "address": "0x0b971799f23477086951B29Ee7329c04D910a51f",
             "decimals": 18
         }
     ]
