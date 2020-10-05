@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T16:04:07.488Z",
+    "timestamp": "2020-10-05T16:08:08.040Z",
     "version": {
         "major": 1,
-        "minor": 4711,
+        "minor": 4712,
         "patch": 0
     },
     "keywords": [
@@ -31679,6 +31679,13 @@
             "name": "Whiterock.Finance",
             "symbol": "WRF",
             "address": "0xca6D2eCE1a99308e8f94A1C98FF2fDfa6d83e4e9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ymax.finance",
+            "symbol": "YMAX",
+            "address": "0x7d5F6956cBcFBEa6E92F8a37cF6D7a206CFfFCfD",
             "decimals": 18
         }
     ]
