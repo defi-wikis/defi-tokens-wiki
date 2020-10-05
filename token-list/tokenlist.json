@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T11:25:09.140Z",
+    "timestamp": "2020-10-05T11:41:40.402Z",
     "version": {
         "major": 1,
-        "minor": 4667,
+        "minor": 4668,
         "patch": 0
     },
     "keywords": [
@@ -31371,6 +31371,13 @@
             "name": "BurnVault.Finance",
             "symbol": "BVF",
             "address": "0x2955b049D933932EC6e6B513fD7445176727742E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SIMP",
+            "symbol": "SIMP",
+            "address": "0xe966e1E37336439E9Ae76EB982e4b9b994985C40",
             "decimals": 18
         }
     ]
