@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T23:45:20.952Z",
+    "timestamp": "2020-10-05T23:45:31.148Z",
     "version": {
         "major": 1,
-        "minor": 4795,
+        "minor": 4796,
         "patch": 0
     },
     "keywords": [
@@ -32267,6 +32267,13 @@
             "name": "WebStock",
             "symbol": "Webs",
             "address": "0xe2432C9D8D668A5B1Eeb1d7e75D6e49D3952980D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ydex.finance",
+            "symbol": "YDEX",
+            "address": "0xe5f55919ec6cCe97d6eE30c9E5492556E9e30EBb",
             "decimals": 18
         }
     ]
