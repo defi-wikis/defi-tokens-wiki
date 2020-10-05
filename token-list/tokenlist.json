@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T10:08:35.250Z",
+    "timestamp": "2020-10-05T10:26:39.397Z",
     "version": {
         "major": 1,
-        "minor": 4658,
+        "minor": 4659,
         "patch": 0
     },
     "keywords": [
@@ -31308,6 +31308,13 @@
             "name": "SIMP",
             "symbol": "SIMP",
             "address": "0x5D75ab67eC6E91FCA1a896e4F7DD5DD7bD8EE95E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Crunk",
+            "symbol": "CRNK",
+            "address": "0x13D4f0a345e97bc4AA99068332DC44afb05634d8",
             "decimals": 18
         }
     ]
