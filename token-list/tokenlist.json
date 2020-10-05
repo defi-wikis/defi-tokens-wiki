@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:21:44.849Z",
+    "timestamp": "2020-10-05T15:35:40.568Z",
     "version": {
         "major": 1,
-        "minor": 4700,
+        "minor": 4701,
         "patch": 0
     },
     "keywords": [
@@ -31602,6 +31602,13 @@
             "name": "PornHub",
             "symbol": "PORNHUB",
             "address": "0x74D9e3A8aA3e8c2099f59E4d36B7078a529d2761",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Leopard lending ecology",
+            "symbol": "LLE",
+            "address": "0x48fA649638318aa0E85DC0feC425C015304D175a",
             "decimals": 18
         }
     ]
