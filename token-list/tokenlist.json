@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T08:50:56.514Z",
+    "timestamp": "2020-10-05T09:05:07.390Z",
     "version": {
         "major": 1,
-        "minor": 4649,
+        "minor": 4650,
         "patch": 0
     },
     "keywords": [
@@ -31245,6 +31245,13 @@
             "name": "BurnVault.Finance",
             "symbol": "BVF",
             "address": "0xd7ec352607ef069e50043291f47198F805E43F49",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "whiterock.finance",
+            "symbol": "WRF",
+            "address": "0x25DfC9Ec285ee7073d9d1fDe25946b82Fc0E8A44",
             "decimals": 18
         }
     ]
