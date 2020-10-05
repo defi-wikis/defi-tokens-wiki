@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T22:33:49.905Z",
+    "timestamp": "2020-10-05T22:46:55.299Z",
     "version": {
         "major": 1,
-        "minor": 4785,
+        "minor": 4786,
         "patch": 0
     },
     "keywords": [
@@ -32197,6 +32197,13 @@
             "name": "Astrophysic Finance",
             "symbol": "ASTROPHYSIC",
             "address": "0x1103349A49990728A909bA9e045C6D5C725f70F9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Elrond",
+            "symbol": "EGLD",
+            "address": "0x9b3dDE78f01260397B24AF697AE4a2B6efBb3b3d",
             "decimals": 18
         }
     ]
