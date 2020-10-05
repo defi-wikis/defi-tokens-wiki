@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T19:47:40.033Z",
+    "timestamp": "2020-10-05T19:48:51.361Z",
     "version": {
         "major": 1,
-        "minor": 4759,
+        "minor": 4760,
         "patch": 0
     },
     "keywords": [
@@ -32016,6 +32016,13 @@
             "symbol": "BST",
             "address": "0xD4f6f9Ae14399fD5Eb8DFc7725F0094a1A7F5d80",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Devo.Finance",
+            "symbol": "fDEVO",
+            "address": "0x4B69615Dd8B7A08c1780F2D62c37f5b55EC6ae3b",
+            "decimals": 0
         }
     ]
 }
