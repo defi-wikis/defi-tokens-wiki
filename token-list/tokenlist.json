@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T03:34:59.733Z",
+    "timestamp": "2020-10-05T04:01:25.077Z",
     "version": {
         "major": 1,
-        "minor": 4617,
+        "minor": 4618,
         "patch": 0
     },
     "keywords": [
@@ -31021,6 +31021,13 @@
             "name": "ZooToken",
             "symbol": "ZOO",
             "address": "0xA8741C2A46ecb602904bFAda537EA12e29FE6686",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MIK TOKEN",
+            "symbol": "MIK",
+            "address": "0xC862f7E80bdf6e8D1a1C8639037810d77D9f7e52",
             "decimals": 18
         }
     ]
