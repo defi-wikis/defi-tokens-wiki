@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T21:20:19.877Z",
+    "timestamp": "2020-10-05T21:21:21.140Z",
     "version": {
         "major": 1,
-        "minor": 4777,
+        "minor": 4778,
         "patch": 0
     },
     "keywords": [
@@ -32142,6 +32142,13 @@
             "symbol": "UXT",
             "address": "0x27824111DD062Ca9062067B493Fbf512328928BA",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "2local.io",
+            "symbol": "L2L",
+            "address": "0x8391E349Cde0e163698CB2a1FF5cfA288153550e",
+            "decimals": 18
         }
     ]
 }
