@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T20:27:15.976Z",
+    "timestamp": "2020-10-05T20:36:50.147Z",
     "version": {
         "major": 1,
-        "minor": 4766,
+        "minor": 4767,
         "patch": 0
     },
     "keywords": [
@@ -32065,6 +32065,13 @@
             "symbol": "FFF",
             "address": "0xEd2A38Dfcc4958109206410Ed0f08488873974dc",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bon.Finance",
+            "symbol": "BONFI",
+            "address": "0xd59673310cEd3Def55A2eC4CdC6e36dF98B98533",
+            "decimals": 0
         }
     ]
 }
