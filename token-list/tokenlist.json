@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T15:54:59.881Z",
+    "timestamp": "2020-10-05T15:57:40.016Z",
     "version": {
         "major": 1,
-        "minor": 4707,
+        "minor": 4708,
         "patch": 0
     },
     "keywords": [
@@ -31652,6 +31652,13 @@
             "symbol": "IIC",
             "address": "0xf47aBAed335226d0EdFCF458e6948311574a77cc",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "UNCA",
+            "symbol": "UNCA",
+            "address": "0x7097F74ade7095c899498A26a8aeAdb1e23E9D79",
+            "decimals": 18
         }
     ]
 }
