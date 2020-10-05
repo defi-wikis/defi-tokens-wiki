@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T17:09:25.845Z",
+    "timestamp": "2020-10-05T17:13:29.866Z",
     "version": {
         "major": 1,
-        "minor": 4725,
+        "minor": 4726,
         "patch": 0
     },
     "keywords": [
@@ -31777,6 +31777,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xa986F2A12d85c44429f574BA50C0e21052B18BA1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "uniswapcap",
+            "symbol": "UNCA",
+            "address": "0xC61B548502F88aAE9705f2E65B0f23E46D47C929",
             "decimals": 18
         }
     ]
