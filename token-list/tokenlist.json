@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-05T23:49:25.520Z",
+    "timestamp": "2020-10-06T00:09:14.970Z",
     "version": {
         "major": 1,
-        "minor": 4798,
+        "minor": 4799,
         "patch": 0
     },
     "keywords": [
@@ -32288,6 +32288,13 @@
             "name": "ydex.finance",
             "symbol": "YDEX",
             "address": "0x19eb53045Ae7a9765dBcF3417d8974f37e07A5E1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DRY Farm",
+            "symbol": "DRYF",
+            "address": "0x861f4Fc58cA7f52B258EFD19aD148307aB7A6911",
             "decimals": 18
         }
     ]
