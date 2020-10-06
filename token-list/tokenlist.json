@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T03:15:55.107Z",
+    "timestamp": "2020-10-06T03:22:14.832Z",
     "version": {
         "major": 1,
-        "minor": 4821,
+        "minor": 4822,
         "patch": 0
     },
     "keywords": [
@@ -32450,6 +32450,13 @@
             "symbol": "YOLK",
             "address": "0xa54A6767aFdd9e1d3Cb9045FC9612ABBF3DA0DE9",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YEAFinance",
+            "symbol": "YEAv2",
+            "address": "0x1AC10fde130a6747D0e13dc17CBDEA5Be357DFc5",
+            "decimals": 18
         }
     ]
 }
