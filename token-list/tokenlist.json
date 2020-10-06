@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T00:11:39.850Z",
+    "timestamp": "2020-10-06T00:13:39.957Z",
     "version": {
         "major": 1,
-        "minor": 4800,
+        "minor": 4801,
         "patch": 0
     },
     "keywords": [
@@ -32302,6 +32302,13 @@
             "name": "XFII",
             "symbol": "XFII",
             "address": "0x1fa21b20222076D7465fb901E5f459289c95F66a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ydex.finance",
+            "symbol": "YDEX",
+            "address": "0xee2ecf244e064612472003828624acdca6d88B0b",
             "decimals": 18
         }
     ]
