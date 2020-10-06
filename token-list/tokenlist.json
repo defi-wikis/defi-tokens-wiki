@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T05:17:35.264Z",
+    "timestamp": "2020-10-06T05:20:08.782Z",
     "version": {
         "major": 1,
-        "minor": 4837,
+        "minor": 4838,
         "patch": 0
     },
     "keywords": [
@@ -32561,6 +32561,13 @@
             "name": "Lsd.finance",
             "symbol": "TABS",
             "address": "0xC38dC661C6b4a2cBF1e0e347FD53D74614F505Bb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "unfuddable.finance",
+            "symbol": "UNFUD",
+            "address": "0x4DfD069F5ac19656B6E199733F0491eEa2489285",
             "decimals": 18
         }
     ]
