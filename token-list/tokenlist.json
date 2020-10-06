@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T12:41:15.425Z",
+    "timestamp": "2020-10-06T13:14:08.044Z",
     "version": {
         "major": 1,
-        "minor": 4895,
+        "minor": 4896,
         "patch": 0
     },
     "keywords": [
@@ -32967,6 +32967,13 @@
             "name": "DeFi Test Token",
             "symbol": "DFTT",
             "address": "0x4A832c6809f793578e562Fd16409E0B5A5DBD073",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Esch$Token",
+            "symbol": "ESCH$",
+            "address": "0xA821F14fB6394E82839F5161f214cACc90372453",
             "decimals": 18
         }
     ]
