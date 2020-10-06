@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T00:22:08.416Z",
+    "timestamp": "2020-10-06T00:43:02.401Z",
     "version": {
         "major": 1,
-        "minor": 4802,
+        "minor": 4803,
         "patch": 0
     },
     "keywords": [
@@ -32316,6 +32316,13 @@
             "name": "OWL Token",
             "symbol": "OWL",
             "address": "0xe1D3876eC9B455d9B620A617DD70bdeb90989522",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nobrainer.finance",
+            "symbol": "BRAIN",
+            "address": "0xcf50F5cbC13b0c768b811a4285bB94Ce0385E1A2",
             "decimals": 18
         }
     ]
