@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T01:19:54.911Z",
+    "timestamp": "2020-10-06T01:22:55.519Z",
     "version": {
         "major": 1,
-        "minor": 4808,
+        "minor": 4809,
         "patch": 0
     },
     "keywords": [
@@ -32358,6 +32358,13 @@
             "name": "ydex.finance (Official)",
             "symbol": "YDEXF",
             "address": "0x64B50DffE018bfFe1f8cccf914C9c1927343C7F3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lambodegens",
+            "symbol": "LAMBO",
+            "address": "0xB794358741Be57419A2B155166D1aC0887Be72de",
             "decimals": 18
         }
     ]
