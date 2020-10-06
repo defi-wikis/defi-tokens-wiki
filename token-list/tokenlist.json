@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:49:07.467Z",
+    "timestamp": "2020-10-06T20:06:02.611Z",
     "version": {
         "major": 1,
-        "minor": 4946,
+        "minor": 4947,
         "patch": 0
     },
     "keywords": [
@@ -24435,6 +24435,13 @@
             "name": "AnyTrade",
             "symbol": "ATD",
             "address": "0xe8E9d7AF466544b0D2bDD28cd0c0f1BbF14e71f1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Index",
+            "symbol": "INDEX",
+            "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
             "decimals": 18
         }
     ]
