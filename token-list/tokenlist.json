@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T16:36:02.298Z",
+    "timestamp": "2020-10-06T16:43:40.381Z",
     "version": {
         "major": 1,
-        "minor": 4930,
+        "minor": 4931,
         "patch": 0
     },
     "keywords": [
@@ -33213,6 +33213,13 @@
             "symbol": "MERR",
             "address": "0xcFda61702E94Cb3d70Abb61bDD2A99134132B30A",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "almostone.finance",
+            "symbol": "AO",
+            "address": "0x1C60F8F2aD0fA80F0448CE268D9592Cf49Bbbc1e",
+            "decimals": 18
         }
     ]
 }
