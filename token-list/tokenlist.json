@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:26:39.652Z",
+    "timestamp": "2020-10-06T20:29:35.094Z",
     "version": {
         "major": 1,
-        "minor": 4950,
+        "minor": 4951,
         "patch": 0
     },
     "keywords": [
@@ -24463,6 +24463,13 @@
             "name": "SBIG.Finance",
             "symbol": "SBIG",
             "address": "0x49ae220b4C04289d4026063A75FAEdbFbBa3a363",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Islamic Digital Finance",
+            "symbol": "IDF",
+            "address": "0xfd3E7ccD8071a119C2393AEC075BB1f5dcD54ee1",
             "decimals": 18
         }
     ]
