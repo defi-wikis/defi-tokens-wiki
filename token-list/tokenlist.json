@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T07:56:40.380Z",
+    "timestamp": "2020-10-06T08:03:20.815Z",
     "version": {
         "major": 1,
-        "minor": 4860,
+        "minor": 4861,
         "patch": 0
     },
     "keywords": [
@@ -32723,6 +32723,13 @@
             "symbol": "BOBO",
             "address": "0xe1804d9c112261011030E9021eF781f0287fF95f",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Super28coin",
+            "symbol": "28T",
+            "address": "0xB3Fa04A6FE3df11147Dd12909D4D4ce0EaCE915a",
+            "decimals": 8
         }
     ]
 }
