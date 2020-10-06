@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T01:22:55.519Z",
+    "timestamp": "2020-10-06T01:34:08.460Z",
     "version": {
         "major": 1,
-        "minor": 4809,
+        "minor": 4810,
         "patch": 0
     },
     "keywords": [
@@ -32366,6 +32366,13 @@
             "symbol": "LAMBO",
             "address": "0xB794358741Be57419A2B155166D1aC0887Be72de",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FREXA Test Token",
+            "symbol": "FRXT",
+            "address": "0x9A28698fAA0fC87c02282eDEF856aC6eC75eC975",
+            "decimals": 0
         }
     ]
 }
