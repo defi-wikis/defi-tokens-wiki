@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T08:03:20.815Z",
+    "timestamp": "2020-10-06T08:15:30.198Z",
     "version": {
         "major": 1,
-        "minor": 4861,
+        "minor": 4862,
         "patch": 0
     },
     "keywords": [
@@ -32730,6 +32730,13 @@
             "symbol": "28T",
             "address": "0xB3Fa04A6FE3df11147Dd12909D4D4ce0EaCE915a",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "flow",
+            "symbol": "FLOW",
+            "address": "0x267C6A63c4573079Bd258fcfD841207CF02786ec",
+            "decimals": 18
         }
     ]
 }
