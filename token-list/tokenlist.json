@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:34:40.442Z",
+    "timestamp": "2020-10-06T06:40:54.855Z",
     "version": {
         "major": 1,
-        "minor": 4851,
+        "minor": 4852,
         "patch": 0
     },
     "keywords": [
@@ -32659,6 +32659,13 @@
             "name": "II-SS-NN",
             "symbol": "ISN",
             "address": "0xc7713e9ced0F6eCC023e481bf7750510a1aF1135",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Boton Finance",
+            "symbol": "BOTF",
+            "address": "0x0D7B64320Bdb6F435Ca129EacD44D05dE26dE605",
             "decimals": 18
         }
     ]
