@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T21:57:50.851Z",
+    "timestamp": "2020-10-06T22:01:07.496Z",
     "version": {
         "major": 1,
-        "minor": 4963,
+        "minor": 4964,
         "patch": 0
     },
     "keywords": [
@@ -24554,6 +24554,13 @@
             "name": "JUJU Token",
             "symbol": "JUJU",
             "address": "0x7c1ec3C1dA4CdDeB56a2947607205c6968726a99",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KAWAI",
+            "symbol": "KAWI",
+            "address": "0xd7f2F152B4e300fcFea5a1c848f59385499Fc416",
             "decimals": 18
         }
     ]
