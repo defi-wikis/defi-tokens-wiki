@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T07:25:35.587Z",
+    "timestamp": "2020-10-06T07:41:59.613Z",
     "version": {
         "major": 1,
-        "minor": 4856,
+        "minor": 4857,
         "patch": 0
     },
     "keywords": [
@@ -32694,6 +32694,13 @@
             "name": "cVault.finance",
             "symbol": "CORESS",
             "address": "0xeC79952E26e6D3afA1eDb9A7b49235cd1E2E5275",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COIN98.DBRR",
+            "symbol": "FUCK.COIN98",
+            "address": "0x0FE53556802DC7Be0c279ebBf643861920248f89",
             "decimals": 18
         }
     ]
