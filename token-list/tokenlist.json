@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:57:54.484Z",
+    "timestamp": "2020-10-06T14:59:40.105Z",
     "version": {
         "major": 1,
-        "minor": 4918,
+        "minor": 4919,
         "patch": 0
     },
     "keywords": [
@@ -33128,6 +33128,13 @@
             "name": "Lebron Token",
             "symbol": "LBJ",
             "address": "0x718Ca1CCc78128659e59f847Cd7FA0018F82Be9c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JellyFish Finance",
+            "symbol": "JELLY",
+            "address": "0xb76Ac100e99cC24B97DDd17B0698DDD7690c6717",
             "decimals": 18
         }
     ]
