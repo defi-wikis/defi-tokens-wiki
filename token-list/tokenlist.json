@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T05:53:45.649Z",
+    "timestamp": "2020-10-06T06:02:11.979Z",
     "version": {
         "major": 1,
-        "minor": 4845,
+        "minor": 4846,
         "patch": 0
     },
     "keywords": [
@@ -32617,6 +32617,13 @@
             "name": "Thirm",
             "symbol": "THRM",
             "address": "0x769061Cd88fea049465cf641bC34FcC1fF77196B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoreApes",
+            "symbol": "APES",
+            "address": "0x0f644A90Fe4F32F0Ff65fcaB1D060a181cB01723",
             "decimals": 18
         }
     ]
