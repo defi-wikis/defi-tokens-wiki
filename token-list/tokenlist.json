@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T02:04:15.251Z",
+    "timestamp": "2020-10-06T02:04:20.188Z",
     "version": {
         "major": 1,
-        "minor": 4813,
+        "minor": 4814,
         "patch": 0
     },
     "keywords": [
@@ -32394,6 +32394,13 @@
             "symbol": "YMAX",
             "address": "0x4b386eE6F24F993261801e072930Af244B9693c2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tistable Protocol",
+            "symbol": "TITA",
+            "address": "0x46800Ff89f00AD05737fE45e0F6Bd3265D6f3ce1",
+            "decimals": 6
         }
     ]
 }
