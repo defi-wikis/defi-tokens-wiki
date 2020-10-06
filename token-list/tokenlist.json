@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T00:43:07.419Z",
+    "timestamp": "2020-10-06T00:50:50.185Z",
     "version": {
         "major": 1,
-        "minor": 4804,
+        "minor": 4805,
         "patch": 0
     },
     "keywords": [
@@ -32330,6 +32330,13 @@
             "name": "Chad",
             "symbol": "CHAD",
             "address": "0x9723CA5B7F45F2c21aFa2C31f5696A4e1b851e77",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLottery Token",
+            "symbol": "ULT",
+            "address": "0x61cc5dea05B910AAad1798f013E1Bb14334B8503",
             "decimals": 18
         }
     ]
