@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T05:30:30.772Z",
+    "timestamp": "2020-10-06T05:37:40.224Z",
     "version": {
         "major": 1,
-        "minor": 4841,
+        "minor": 4842,
         "patch": 0
     },
     "keywords": [
@@ -32589,6 +32589,13 @@
             "name": "MoonX",
             "symbol": "MOONX",
             "address": "0x82106fEA6D93e15BFD5FFdf761D119f3d101CdcC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OFFBLUE",
+            "symbol": "BLUE",
+            "address": "0x9Be7B8a59ba09d16E09542A9B7d7696b2244523F",
             "decimals": 18
         }
     ]
