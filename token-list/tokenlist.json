@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:02:11.979Z",
+    "timestamp": "2020-10-06T06:07:20.447Z",
     "version": {
         "major": 1,
-        "minor": 4846,
+        "minor": 4847,
         "patch": 0
     },
     "keywords": [
@@ -32624,6 +32624,13 @@
             "name": "CoreApes",
             "symbol": "APES",
             "address": "0x0f644A90Fe4F32F0Ff65fcaB1D060a181cB01723",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OWL Token",
+            "symbol": "OWL",
+            "address": "0x5873A5D10741A193A3A9fD259EEE7E2e8970C774",
             "decimals": 18
         }
     ]
