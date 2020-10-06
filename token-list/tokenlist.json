@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T16:58:59.642Z",
+    "timestamp": "2020-10-06T16:59:44.813Z",
     "version": {
         "major": 1,
-        "minor": 4936,
+        "minor": 4937,
         "patch": 0
     },
     "keywords": [
@@ -33254,6 +33254,13 @@
             "name": "GLOX.finance",
             "symbol": "GLOX",
             "address": "0x38EBC80f32F978Cd83d91Bd788D0143157966233",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zin Finance",
+            "symbol": "Zin",
+            "address": "0xaE1b4EC6946Ab38412Db8C4FbDeB20E0F5182b06",
             "decimals": 18
         }
     ]
