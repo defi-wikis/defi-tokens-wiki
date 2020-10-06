@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T11:35:25.641Z",
+    "timestamp": "2020-10-06T11:36:10.881Z",
     "version": {
         "major": 1,
-        "minor": 4891,
+        "minor": 4892,
         "patch": 0
     },
     "keywords": [
@@ -32940,6 +32940,13 @@
             "symbol": "(NCL)",
             "address": "0xa3529226686B64ea62cb8A78040B2d9966A0cc22",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SAN Finance",
+            "symbol": "SAN",
+            "address": "0x3E77db0aAEE7388c6612E413B21CEEb7742Ab913",
+            "decimals": 8
         }
     ]
 }
