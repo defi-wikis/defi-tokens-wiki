@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:44:55.034Z",
+    "timestamp": "2020-10-06T20:47:34.971Z",
     "version": {
         "major": 1,
-        "minor": 4955,
+        "minor": 4956,
         "patch": 0
     },
     "keywords": [
@@ -24498,6 +24498,13 @@
             "name": "Momenta Network",
             "symbol": "MN",
             "address": "0xF423efD2CFB48B1beA91E3bc512D7b0d0CBf83b3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "poo.finance",
+            "symbol": "POO",
+            "address": "0x293e37fCCdf0e779F8Df5eAD18C174b8381b3b8b",
             "decimals": 18
         }
     ]
