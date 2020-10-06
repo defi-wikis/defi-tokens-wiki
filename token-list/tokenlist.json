@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:13:14.730Z",
+    "timestamp": "2020-10-06T09:13:50.811Z",
     "version": {
         "major": 1,
-        "minor": 4874,
+        "minor": 4875,
         "patch": 0
     },
     "keywords": [
@@ -32820,6 +32820,13 @@
             "name": "cVault.DBRR",
             "symbol": "CORE.DBRR",
             "address": "0x6dF637e7d8E225EF3abEBdD52486012EC88c190a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MONKEY.FINANCE",
+            "symbol": "MONF",
+            "address": "0x084c7FE641028782D78304d322cBC9b96f293834",
             "decimals": 18
         }
     ]
