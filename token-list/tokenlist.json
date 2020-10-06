@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:13:50.811Z",
+    "timestamp": "2020-10-06T09:15:07.866Z",
     "version": {
         "major": 1,
-        "minor": 4875,
+        "minor": 4876,
         "patch": 0
     },
     "keywords": [
@@ -32827,6 +32827,13 @@
             "name": "MONKEY.FINANCE",
             "symbol": "MONF",
             "address": "0x084c7FE641028782D78304d322cBC9b96f293834",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "太极能量链",
+            "symbol": "CADE",
+            "address": "0xf7eBC38B77e04F09a3D2F1874df501106E596dCc",
             "decimals": 18
         }
     ]
