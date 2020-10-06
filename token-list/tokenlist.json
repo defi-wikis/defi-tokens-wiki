@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:17:39.748Z",
+    "timestamp": "2020-10-06T09:19:15.179Z",
     "version": {
         "major": 1,
-        "minor": 4877,
+        "minor": 4878,
         "patch": 0
     },
     "keywords": [
@@ -32841,6 +32841,13 @@
             "name": "CAVE.COM",
             "symbol": "CAVE",
             "address": "0x13DE89ef7B28Cab88A74BD91c9249F8d404EB7c2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0x22508DE3dc071801fa553579d7110875aC0e3052",
             "decimals": 18
         }
     ]
