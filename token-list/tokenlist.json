@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T00:09:14.970Z",
+    "timestamp": "2020-10-06T00:11:39.850Z",
     "version": {
         "major": 1,
-        "minor": 4799,
+        "minor": 4800,
         "patch": 0
     },
     "keywords": [
@@ -32295,6 +32295,13 @@
             "name": "DRY Farm",
             "symbol": "DRYF",
             "address": "0x861f4Fc58cA7f52B258EFD19aD148307aB7A6911",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XFII",
+            "symbol": "XFII",
+            "address": "0x1fa21b20222076D7465fb901E5f459289c95F66a",
             "decimals": 18
         }
     ]
