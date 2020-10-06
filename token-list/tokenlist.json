@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T04:23:35.022Z",
+    "timestamp": "2020-10-06T04:26:35.337Z",
     "version": {
         "major": 1,
-        "minor": 4831,
+        "minor": 4832,
         "patch": 0
     },
     "keywords": [
@@ -32519,6 +32519,13 @@
             "name": "YFFS Finance",
             "symbol": "YFFS",
             "address": "0x57a00E4129aF2D7fa9CF0c2bA81b61d804F364E5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Future Yearn",
+            "symbol": "XYearn",
+            "address": "0xccBb97A4288Cfa8452c6F73705BFb648eF572953",
             "decimals": 18
         }
     ]
