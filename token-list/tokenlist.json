@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:21:02.144Z",
+    "timestamp": "2020-10-06T14:21:55.665Z",
     "version": {
         "major": 1,
-        "minor": 4910,
+        "minor": 4911,
         "patch": 0
     },
     "keywords": [
@@ -33073,6 +33073,13 @@
             "symbol": "RYD",
             "address": "0xBCb87A9a085369fA926AFF5b67f668a790dEc748",
             "decimals": 11
+        },
+        {
+            "chainId": 1,
+            "name": "GMT DeFi",
+            "symbol": "GMT",
+            "address": "0x11b7C75C5BF21f5dfA8777c70847cA642888EFDE",
+            "decimals": 18
         }
     ]
 }
