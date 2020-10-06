@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:50:17.490Z",
+    "timestamp": "2020-10-06T14:57:54.484Z",
     "version": {
         "major": 1,
-        "minor": 4917,
+        "minor": 4918,
         "patch": 0
     },
     "keywords": [
@@ -33122,6 +33122,13 @@
             "symbol": "IDK",
             "address": "0x61fd1c62551850D0c04C76FcE614cBCeD0094498",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Lebron Token",
+            "symbol": "LBJ",
+            "address": "0x718Ca1CCc78128659e59f847Cd7FA0018F82Be9c",
+            "decimals": 18
         }
     ]
 }
