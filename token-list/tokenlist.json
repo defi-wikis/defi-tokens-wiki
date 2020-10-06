@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T21:16:25.683Z",
+    "timestamp": "2020-10-06T21:57:50.851Z",
     "version": {
         "major": 1,
-        "minor": 4962,
+        "minor": 4963,
         "patch": 0
     },
     "keywords": [
@@ -24547,6 +24547,13 @@
             "name": "burn moon finance",
             "symbol": "BMF",
             "address": "0xa95c4f2e0d6455637f67F655Da4AFAe5d50d859B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JUJU Token",
+            "symbol": "JUJU",
+            "address": "0x7c1ec3C1dA4CdDeB56a2947607205c6968726a99",
             "decimals": 18
         }
     ]
