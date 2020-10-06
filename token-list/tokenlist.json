@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T15:52:55.074Z",
+    "timestamp": "2020-10-06T16:04:21.133Z",
     "version": {
         "major": 1,
-        "minor": 4925,
+        "minor": 4926,
         "patch": 0
     },
     "keywords": [
@@ -33177,6 +33177,13 @@
             "name": "AccessChain",
             "symbol": "ASIC",
             "address": "0xCaf5D1AD6E64E5968D3140551c14DcDff28C3A3B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DXY.FINANCE",
+            "symbol": "DXY",
+            "address": "0x39Fa206c1648944f92E8F7B626e1CBdf78d7E9dB",
             "decimals": 18
         }
     ]
