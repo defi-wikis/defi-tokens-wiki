@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T05:20:59.964Z",
+    "timestamp": "2020-10-06T05:29:25.549Z",
     "version": {
         "major": 1,
-        "minor": 4839,
+        "minor": 4840,
         "patch": 0
     },
     "keywords": [
@@ -32575,6 +32575,13 @@
             "name": "YCORE Finance",
             "symbol": "YCORE",
             "address": "0x5D446563D9119ae2491C586Db396Db19a1D27deC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "unfuddable.finance",
+            "symbol": "UNFUD",
+            "address": "0x02d9A9D0E876bE9719D745c77A894714649ABE33",
             "decimals": 18
         }
     ]
