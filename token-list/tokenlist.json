@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:15:07.866Z",
+    "timestamp": "2020-10-06T09:17:39.748Z",
     "version": {
         "major": 1,
-        "minor": 4876,
+        "minor": 4877,
         "patch": 0
     },
     "keywords": [
@@ -32834,6 +32834,13 @@
             "name": "太极能量链",
             "symbol": "CADE",
             "address": "0xf7eBC38B77e04F09a3D2F1874df501106E596dCc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CAVE.COM",
+            "symbol": "CAVE",
+            "address": "0x13DE89ef7B28Cab88A74BD91c9249F8d404EB7c2",
             "decimals": 18
         }
     ]
