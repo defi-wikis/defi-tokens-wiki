@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:06:02.611Z",
+    "timestamp": "2020-10-06T20:21:02.400Z",
     "version": {
         "major": 1,
-        "minor": 4947,
+        "minor": 4948,
         "patch": 0
     },
     "keywords": [
@@ -24442,6 +24442,13 @@
             "name": "Index",
             "symbol": "INDEX",
             "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XLHB.Finance",
+            "symbol": "XLHB",
+            "address": "0xAd2D8EBD6603a06206b9fCFCA5DE86cf826E0a56",
             "decimals": 18
         }
     ]
