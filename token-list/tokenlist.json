@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T13:43:50.270Z",
+    "timestamp": "2020-10-06T13:51:20.434Z",
     "version": {
         "major": 1,
-        "minor": 4901,
+        "minor": 4902,
         "patch": 0
     },
     "keywords": [
@@ -33009,6 +33009,13 @@
             "name": "THERA DeFi",
             "symbol": "TDF",
             "address": "0xAF8916cB48B4D8aB464029aeC5Ad67644e110E0B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "3ROUND.org",
+            "symbol": "3RD",
+            "address": "0xBBA670a8fE8AB96cA08091145FDa75eD436b225E",
             "decimals": 18
         }
     ]
