@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T03:28:25.841Z",
+    "timestamp": "2020-10-06T03:48:45.504Z",
     "version": {
         "major": 1,
-        "minor": 4825,
+        "minor": 4826,
         "patch": 0
     },
     "keywords": [
@@ -32477,6 +32477,13 @@
             "name": "SUPERPUMPING",
             "symbol": "SUP1",
             "address": "0xF1d20FD742F0C49aA365373bC02471aD8D836b53",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIX Finance",
+            "symbol": "YFIX",
+            "address": "0x0e581D3d3a49aB2C8C2d45771250d9EEF9cD568e",
             "decimals": 18
         }
     ]
