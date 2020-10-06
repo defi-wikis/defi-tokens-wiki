@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T23:24:07.287Z",
+    "timestamp": "2020-10-06T23:33:44.928Z",
     "version": {
         "major": 1,
-        "minor": 4970,
+        "minor": 4971,
         "patch": 0
     },
     "keywords": [
@@ -24604,6 +24604,13 @@
             "symbol": "APY",
             "address": "0x8f87afE27ED3BD3a089cC2605B8D4b995d46F053",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Pump It Finance",
+            "symbol": "PUMPIT",
+            "address": "0xb2d71965EFc50ffbf246c2F6E4E399536909925f",
+            "decimals": 18
         }
     ]
 }
