@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T04:28:40.327Z",
+    "timestamp": "2020-10-06T04:47:39.615Z",
     "version": {
         "major": 1,
-        "minor": 4834,
+        "minor": 4835,
         "patch": 0
     },
     "keywords": [
@@ -32540,6 +32540,13 @@
             "name": "CVAULT.finance",
             "symbol": "core1.21",
             "address": "0x262CCe574A26E1A18d9A446b1404800C834Be4e6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Light Coinex",
+            "symbol": "LCG",
+            "address": "0x56552b2399E9BCF14D6de797F5C15c31ADDC2F4F",
             "decimals": 18
         }
     ]
