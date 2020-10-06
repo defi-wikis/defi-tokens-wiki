@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T16:05:43.479Z",
+    "timestamp": "2020-10-06T16:06:44.877Z",
     "version": {
         "major": 1,
-        "minor": 4927,
+        "minor": 4928,
         "patch": 0
     },
     "keywords": [
@@ -33191,6 +33191,13 @@
             "name": "LOZ DeFi",
             "symbol": "LOZ",
             "address": "0x214c7313dcFE8060b455e6f8fACf2288e961fBC7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "evault.finance",
+            "symbol": "ENCORE",
+            "address": "0x9390db2070EA4CB713932038bB895dDa1280273d",
             "decimals": 18
         }
     ]
