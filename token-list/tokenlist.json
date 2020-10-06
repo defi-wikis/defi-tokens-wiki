@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T10:12:20.102Z",
+    "timestamp": "2020-10-06T10:16:20.181Z",
     "version": {
         "major": 1,
-        "minor": 4883,
+        "minor": 4884,
         "patch": 0
     },
     "keywords": [
@@ -32884,6 +32884,13 @@
             "symbol": "MINX",
             "address": "0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "wixiplay.io",
+            "symbol": "WIXI",
+            "address": "0x554040EB1C9355BB0d5289305EE6CdCcA6A27bbb",
+            "decimals": 18
         }
     ]
 }
