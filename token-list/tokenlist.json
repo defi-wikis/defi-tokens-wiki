@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T05:39:01.923Z",
+    "timestamp": "2020-10-06T05:42:07.479Z",
     "version": {
         "major": 1,
-        "minor": 4843,
+        "minor": 4844,
         "patch": 0
     },
     "keywords": [
@@ -32603,6 +32603,13 @@
             "name": "HighYper Network",
             "symbol": "HYP",
             "address": "0x5b0d63162E8d9A2585Bd750001D57f736d5Ef4c6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "unfuddable.finance",
+            "symbol": "UNFUD",
+            "address": "0x852D11979F5218A1940c14C493A9E6C5dcD71d96",
             "decimals": 18
         }
     ]
