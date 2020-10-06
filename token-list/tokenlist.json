@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:06:44.791Z",
+    "timestamp": "2020-10-06T14:10:08.510Z",
     "version": {
         "major": 1,
-        "minor": 4905,
+        "minor": 4906,
         "patch": 0
     },
     "keywords": [
@@ -33037,6 +33037,13 @@
             "name": "Family Finance",
             "symbol": "FAM",
             "address": "0xB56F3bc5eFEd5C3Bd1B7920E531dB205e6a19Eb2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ROK",
+            "symbol": "ROK",
+            "address": "0x373a1fc559aE8078d420d0A59aD7fFb6A124e264",
             "decimals": 18
         }
     ]
