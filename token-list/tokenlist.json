@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:33:15.520Z",
+    "timestamp": "2020-10-06T06:34:40.442Z",
     "version": {
         "major": 1,
-        "minor": 4850,
+        "minor": 4851,
         "patch": 0
     },
     "keywords": [
@@ -32652,6 +32652,13 @@
             "name": "GemBites",
             "symbol": "GBTS",
             "address": "0x37E6244CdB3d78747865c311343369cE880f6d42",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "II-SS-NN",
+            "symbol": "ISN",
+            "address": "0xc7713e9ced0F6eCC023e481bf7750510a1aF1135",
             "decimals": 18
         }
     ]
