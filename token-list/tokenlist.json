@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T07:43:30.219Z",
+    "timestamp": "2020-10-06T07:49:45.591Z",
     "version": {
         "major": 1,
-        "minor": 4858,
+        "minor": 4859,
         "patch": 0
     },
     "keywords": [
@@ -32708,6 +32708,13 @@
             "name": "Nuclear Finances",
             "symbol": "NCL",
             "address": "0x1aE3c2449e2B884E81459d60f935351Ba16FD760",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lsd.finance",
+            "symbol": "$TABS",
+            "address": "0x11A00302E27dbfEc35D6A5276Ba4F698659c2B9a",
             "decimals": 18
         }
     ]
