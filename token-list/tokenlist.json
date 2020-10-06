@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:41:59.685Z",
+    "timestamp": "2020-10-06T07:18:20.326Z",
     "version": {
         "major": 1,
-        "minor": 4854,
+        "minor": 4855,
         "patch": 0
     },
     "keywords": [
@@ -32680,6 +32680,13 @@
             "name": "Yearn Finance Management",
             "symbol": "YeFiM",
             "address": "0x4B34c0CBeEF271F895d339c5F76322d71A60782B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XDAO FINANCE",
+            "symbol": "XDAO",
+            "address": "0xd8d42dd08EBeb26e11EB53682403802165A740B1",
             "decimals": 18
         }
     ]
