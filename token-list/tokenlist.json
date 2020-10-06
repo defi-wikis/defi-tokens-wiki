@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T15:14:59.935Z",
+    "timestamp": "2020-10-06T15:52:55.074Z",
     "version": {
         "major": 1,
-        "minor": 4924,
+        "minor": 4925,
         "patch": 0
     },
     "keywords": [
@@ -33170,6 +33170,13 @@
             "name": "Core II Finance",
             "symbol": "COREII",
             "address": "0xD96724136b9b689C34Ccd09b7f9d0D9673b0783F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AccessChain",
+            "symbol": "ASIC",
+            "address": "0xCaf5D1AD6E64E5968D3140551c14DcDff28C3A3B",
             "decimals": 18
         }
     ]
