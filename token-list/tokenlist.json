@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T11:53:15.011Z",
+    "timestamp": "2020-10-06T12:41:11.091Z",
     "version": {
         "major": 1,
-        "minor": 4893,
+        "minor": 4894,
         "patch": 0
     },
     "keywords": [
@@ -32953,6 +32953,13 @@
             "name": "Nuclear Finances Token",
             "symbol": "NCL",
             "address": "0x5CDfce1888e9fF90E16Caaab3d156Fc217869195",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "larp.money",
+            "symbol": "LARP",
+            "address": "0x981850C874A6E119E63b806C9649901DCE041468",
             "decimals": 18
         }
     ]
