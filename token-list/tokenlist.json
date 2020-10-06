@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:25:15.295Z",
+    "timestamp": "2020-10-06T09:28:19.824Z",
     "version": {
         "major": 1,
-        "minor": 4879,
+        "minor": 4880,
         "patch": 0
     },
     "keywords": [
@@ -32855,6 +32855,13 @@
             "name": "111",
             "symbol": "111",
             "address": "0x86e28d13C30b8F2bb8188b219A66cC354B4Ceee5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unichart V1",
+            "symbol": "UV1",
+            "address": "0x0C52c8045DaCacb5b523029360E24FcD14197228",
             "decimals": 18
         }
     ]
