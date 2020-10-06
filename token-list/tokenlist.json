@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T08:47:20.816Z",
+    "timestamp": "2020-10-06T08:55:40.487Z",
     "version": {
         "major": 1,
-        "minor": 4868,
+        "minor": 4869,
         "patch": 0
     },
     "keywords": [
@@ -32778,6 +32778,13 @@
             "name": "Kava Network",
             "symbol": "Kava",
             "address": "0xdEfd852be7DfA2f1739789426fdff05BCa589270",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lsd.finance",
+            "symbol": "TABS$",
+            "address": "0xa6769862D077287BE24D4bBdc1bcA8C4BCe993d9",
             "decimals": 18
         }
     ]
