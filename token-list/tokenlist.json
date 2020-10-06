@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:29:35.094Z",
+    "timestamp": "2020-10-06T20:30:16.205Z",
     "version": {
         "major": 1,
-        "minor": 4951,
+        "minor": 4952,
         "patch": 0
     },
     "keywords": [
@@ -24471,6 +24471,13 @@
             "symbol": "IDF",
             "address": "0xfd3E7ccD8071a119C2393AEC075BB1f5dcD54ee1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFI Paprika Gold",
+            "symbol": "YFIG",
+            "address": "0xd6BaA599369975fFD1D6Fd3B7F67f355E5Fd48cB",
+            "decimals": 8
         }
     ]
 }
