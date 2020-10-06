@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T15:14:45.337Z",
+    "timestamp": "2020-10-06T15:14:59.935Z",
     "version": {
         "major": 1,
-        "minor": 4923,
+        "minor": 4924,
         "patch": 0
     },
     "keywords": [
@@ -33163,6 +33163,13 @@
             "name": "Pajeet Token",
             "symbol": "PAJ",
             "address": "0x005734A34882113C2fCfA5BFc1Ce477D11AF3260",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core II Finance",
+            "symbol": "COREII",
+            "address": "0xD96724136b9b689C34Ccd09b7f9d0D9673b0783F",
             "decimals": 18
         }
     ]
