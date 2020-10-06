@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T22:32:40.622Z",
+    "timestamp": "2020-10-06T22:33:47.060Z",
     "version": {
         "major": 1,
-        "minor": 4966,
+        "minor": 4967,
         "patch": 0
     },
     "keywords": [
@@ -24575,6 +24575,13 @@
             "name": "Speed Finance",
             "symbol": "SPFI",
             "address": "0xc9B386d35f4419E71F996754Cfe12b22E9b6eC34",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Dev Finance 1.0",
+            "symbol": "COREDF",
+            "address": "0x87107eC5b85f94fCCDB288FFACfafF60CcB9693A",
             "decimals": 18
         }
     ]
