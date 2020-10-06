@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T00:59:29.884Z",
+    "timestamp": "2020-10-06T01:10:35.757Z",
     "version": {
         "major": 1,
-        "minor": 4806,
+        "minor": 4807,
         "patch": 0
     },
     "keywords": [
@@ -32344,6 +32344,13 @@
             "name": "LimitSwap",
             "symbol": "LIMIT",
             "address": "0xc8825347A8939Af3f21Eb7c9F13D39E04BeE8AEc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "StealthSwap",
+            "symbol": "OWL",
+            "address": "0x7f37235544b4BA02A553915384DF00D69c754973",
             "decimals": 18
         }
     ]
