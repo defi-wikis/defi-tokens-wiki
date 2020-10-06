@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T08:22:10.362Z",
+    "timestamp": "2020-10-06T08:33:59.640Z",
     "version": {
         "major": 1,
-        "minor": 4863,
+        "minor": 4864,
         "patch": 0
     },
     "keywords": [
@@ -32743,6 +32743,13 @@
             "name": "YFI.DBRR",
             "symbol": "YFI.DBRR",
             "address": "0x755A85804e2889eDaeFFDb11A9F2FAa762184829",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFI2.DBRR",
+            "symbol": "YFI2.DBRR",
+            "address": "0x8F62c73fD131a1F0452cA1c5448519519aE3D18f",
             "decimals": 18
         }
     ]
