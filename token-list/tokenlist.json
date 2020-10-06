@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:03:20.172Z",
+    "timestamp": "2020-10-06T09:05:20.466Z",
     "version": {
         "major": 1,
-        "minor": 4872,
+        "minor": 4873,
         "patch": 0
     },
     "keywords": [
@@ -32807,6 +32807,13 @@
             "symbol": "UNITY",
             "address": "0xcF6A236226DDE0C1eD87BbF933F75f44A8B6FA38",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/WIFETOKEN",
+            "symbol": "WIFE",
+            "address": "0x0e3dbEFa0fe31Bb819E6aB4b738bD75553fBEc50",
+            "decimals": 18
         }
     ]
 }
