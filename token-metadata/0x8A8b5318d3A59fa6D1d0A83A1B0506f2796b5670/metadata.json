@@ -3,5 +3,17 @@
     "symbol": "ARI",
     "address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
     "decimals": 8,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "ARI will function as the token of choice for future Denarii dapps, defi ecosystems, NFT platform, and Ethereum cross-chain development.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/DenariiToken"
+        },
+        {
+            "type": "website",
+            "value": "https://ari.finance"
+        }
+    ],
+    "tags":[ "defi","staking","farming","nft","payments"]
 }
