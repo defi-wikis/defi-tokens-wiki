@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:45:13.515Z",
+    "timestamp": "2020-10-06T17:46:10.642Z",
     "version": {
         "major": 1,
-        "minor": 4944,
+        "minor": 4945,
         "patch": 0
     },
     "keywords": [
@@ -33310,6 +33310,13 @@
             "name": "SAUCE",
             "symbol": "SAUCE",
             "address": "0x2635F89ABFc6d197b93B11259D6A525bD036F059",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SAUCE",
+            "symbol": "SAUCE",
+            "address": "0x6839fCE5Ce5dC739eE43347a23F2232B61b6dF7b",
             "decimals": 18
         }
     ]
