@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T04:26:35.337Z",
+    "timestamp": "2020-10-06T04:28:07.728Z",
     "version": {
         "major": 1,
-        "minor": 4832,
+        "minor": 4833,
         "patch": 0
     },
     "keywords": [
@@ -32526,6 +32526,13 @@
             "name": "Future Yearn",
             "symbol": "XYearn",
             "address": "0xccBb97A4288Cfa8452c6F73705BFb648eF572953",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RON",
+            "symbol": "RON",
+            "address": "0x08DE69e5E9d08bb1Dff0b5a7c8CC6672df7c0412",
             "decimals": 18
         }
     ]
