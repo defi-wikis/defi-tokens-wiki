@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T16:55:21.744Z",
+    "timestamp": "2020-10-06T16:55:40.702Z",
     "version": {
         "major": 1,
-        "minor": 4932,
+        "minor": 4933,
         "patch": 0
     },
     "keywords": [
@@ -33226,6 +33226,13 @@
             "name": "TestToken",
             "symbol": "TESTES",
             "address": "0x0324a25c1B799fD268FbfD5670426F86dbb1412D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nika Network",
+            "symbol": "NIKA",
+            "address": "0xD626fAD6BBDd7e04EA850e3db9b7cd0715cC151C",
             "decimals": 18
         }
     ]
