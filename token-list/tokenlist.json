@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T13:51:20.434Z",
+    "timestamp": "2020-10-06T13:59:25.616Z",
     "version": {
         "major": 1,
-        "minor": 4902,
+        "minor": 4903,
         "patch": 0
     },
     "keywords": [
@@ -33016,6 +33016,13 @@
             "name": "3ROUND.org",
             "symbol": "3RD",
             "address": "0xBBA670a8fE8AB96cA08091145FDa75eD436b225E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Milktea",
+            "symbol": "MTA",
+            "address": "0x11F46A53C83bfdb37a5D50EdEE7652D75a07A64D",
             "decimals": 18
         }
     ]
