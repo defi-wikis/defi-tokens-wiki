@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T15:11:16.048Z",
+    "timestamp": "2020-10-06T15:14:45.337Z",
     "version": {
         "major": 1,
-        "minor": 4922,
+        "minor": 4923,
         "patch": 0
     },
     "keywords": [
@@ -33156,6 +33156,13 @@
             "name": "ymax.finance",
             "symbol": "YMAX",
             "address": "0xA0AD7039eF3569d226e3aAdD36CB02953966Bc4E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pajeet Token",
+            "symbol": "PAJ",
+            "address": "0x005734A34882113C2fCfA5BFc1Ce477D11AF3260",
             "decimals": 18
         }
     ]
