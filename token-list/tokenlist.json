@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T23:33:44.928Z",
+    "timestamp": "2020-10-06T23:46:06.885Z",
     "version": {
         "major": 1,
-        "minor": 4971,
+        "minor": 4972,
         "patch": 0
     },
     "keywords": [
@@ -24610,6 +24610,13 @@
             "name": "Pump It Finance",
             "symbol": "PUMPIT",
             "address": "0xb2d71965EFc50ffbf246c2F6E4E399536909925f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EnCore",
+            "symbol": "ENCORE",
+            "address": "0x02EE809FD5B99D87f6e2C8d7974e1CE16f1B4d33",
             "decimals": 18
         }
     ]
