@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T01:34:08.460Z",
+    "timestamp": "2020-10-06T01:49:35.915Z",
     "version": {
         "major": 1,
-        "minor": 4810,
+        "minor": 4811,
         "patch": 0
     },
     "keywords": [
@@ -32373,6 +32373,13 @@
             "symbol": "FRXT",
             "address": "0x9A28698fAA0fC87c02282eDEF856aC6eC75eC975",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Ecosystem",
+            "symbol": "YFIEC",
+            "address": "0xDf463f12Cb91f4d25C1c319238138931d036D268",
+            "decimals": 18
         }
     ]
 }
