@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:53:19.884Z",
+    "timestamp": "2020-10-06T09:58:15.123Z",
     "version": {
         "major": 1,
-        "minor": 4881,
+        "minor": 4882,
         "patch": 0
     },
     "keywords": [
@@ -32869,6 +32869,13 @@
             "name": "XFII",
             "symbol": "XFII",
             "address": "0x9FA4cE21FCB6a4A5c087BbBeD63c6aE6DAd3bF64",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PAC Finance",
+            "symbol": "PACF",
+            "address": "0xF4e92f6e0A3B074eE7DAFb9151D95d9693e851c3",
             "decimals": 18
         }
     ]
