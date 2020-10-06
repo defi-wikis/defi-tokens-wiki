@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:05:20.466Z",
+    "timestamp": "2020-10-06T09:13:14.730Z",
     "version": {
         "major": 1,
-        "minor": 4873,
+        "minor": 4874,
         "patch": 0
     },
     "keywords": [
@@ -32813,6 +32813,13 @@
             "name": "t.me/WIFETOKEN",
             "symbol": "WIFE",
             "address": "0x0e3dbEFa0fe31Bb819E6aB4b738bD75553fBEc50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cVault.DBRR",
+            "symbol": "CORE.DBRR",
+            "address": "0x6dF637e7d8E225EF3abEBdD52486012EC88c190a",
             "decimals": 18
         }
     ]
