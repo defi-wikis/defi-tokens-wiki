@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:15:28.955Z",
+    "timestamp": "2020-10-06T17:28:34.796Z",
     "version": {
         "major": 1,
-        "minor": 4942,
+        "minor": 4944,
         "patch": 0
     },
     "keywords": [
@@ -33291,6 +33291,20 @@
             "name": "EnCore",
             "symbol": "ENCORE",
             "address": "0x7Cc573f7D405ffbe64D6599fB87a8768470E1c22",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFBitcoin",
+            "symbol": "YFBTC",
+            "address": "0x236Ba1c2DB0a19D04D84e9Fd4AAB22d10b19C6Cb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STOCKHOLM.cityswap.io",
+            "symbol": "STOCKHOLM",
+            "address": "0xaC7C4A4D66E7e36d95239351e2761AD31A2D5AdF",
             "decimals": 18
         }
     ]
