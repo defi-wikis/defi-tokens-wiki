@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T02:05:50.363Z",
+    "timestamp": "2020-10-06T02:32:29.920Z",
     "version": {
         "major": 1,
-        "minor": 4815,
+        "minor": 4816,
         "patch": 0
     },
     "keywords": [
@@ -32407,6 +32407,13 @@
             "name": "KID FINANCE",
             "symbol": "KID",
             "address": "0x43a4B56fA882E03E233bfE11c7BC3f65885BC104",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Books Edition 0",
+            "symbol": "BOOKS",
+            "address": "0x117c2ACA45d87958Ba054CB85Af0Fd57BE00D624",
             "decimals": 18
         }
     ]
