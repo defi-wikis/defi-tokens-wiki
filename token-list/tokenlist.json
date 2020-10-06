@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:46:10.642Z",
+    "timestamp": "2020-10-06T17:49:07.467Z",
     "version": {
         "major": 1,
-        "minor": 4945,
+        "minor": 4946,
         "patch": 0
     },
     "keywords": [
@@ -33317,6 +33317,13 @@
             "name": "SAUCE",
             "symbol": "SAUCE",
             "address": "0x6839fCE5Ce5dC739eE43347a23F2232B61b6dF7b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIFICATION",
+            "symbol": "XFUND",
+            "address": "0x14eDeD75327FDb33389923a32Fa1d7110A8198E3",
             "decimals": 18
         }
     ]
