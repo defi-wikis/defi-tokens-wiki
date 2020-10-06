@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T03:27:35.117Z",
+    "timestamp": "2020-10-06T03:28:15.223Z",
     "version": {
         "major": 1,
-        "minor": 4823,
+        "minor": 4824,
         "patch": 0
     },
     "keywords": [
@@ -32463,6 +32463,13 @@
             "name": "mbidefi.io",
             "symbol": "MBI",
             "address": "0x0640A8A173A428Cf6D46088C93A1ce672181F748",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WhiteRock.Network",
+            "symbol": "WRN",
+            "address": "0x607c1AA6A4F8B0c935bCF1442845971e41883bDd",
             "decimals": 18
         }
     ]
