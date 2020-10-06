@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T08:38:30.317Z",
+    "timestamp": "2020-10-06T08:40:24.802Z",
     "version": {
         "major": 1,
-        "minor": 4865,
+        "minor": 4866,
         "patch": 0
     },
     "keywords": [
@@ -32757,6 +32757,13 @@
             "name": "Master Token",
             "symbol": "MST",
             "address": "0x8733FdecA1311f92dB96F7f5AEB00DCaF7E61510",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "smartcontract.ru",
+            "symbol": "SMC",
+            "address": "0xC93F16fe2982cA9556C97fCb4d7B766Dd6817c82",
             "decimals": 18
         }
     ]
