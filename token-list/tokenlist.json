@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:15:15.955Z",
+    "timestamp": "2020-10-06T17:15:28.955Z",
     "version": {
         "major": 1,
-        "minor": 4941,
+        "minor": 4942,
         "patch": 0
     },
     "keywords": [
@@ -20255,7 +20255,9 @@
             "name": "Denarii",
             "symbol": "ARI",
             "address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
-            "decimals": 8
+            "decimals": 8,
+			"logoURI": "ipfs://QmaZ2oLuukCaTt9JzkKJ4zy4KLXU84x6pwQ8k7p4ztDimS",
+            "tags": {}
         },
         {
             "chainId": 1,

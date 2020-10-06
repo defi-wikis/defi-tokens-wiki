@@ -3,5 +3,17 @@
     "symbol": "ARI",
     "address": "0x8A8b5318d3A59fa6D1d0A83A1B0506f2796b5670",
     "decimals": 8,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+	"description": "Denarii, Ticker: ARI is an ERC20 token powered by the Ethereum blockchain. ARI has a capped fixed supply of 30,000,000 ARI, with social and fair distribution over time. No ICO, No Presale. Launched in Q3 2020, ARI will function as the token of choice for future dapps, defi ecosystems, and Ethereum cross-chain development.",
+	"socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/DenariiToken"
+        },
+        {
+            "type": "website",
+            "value": "https://ari.finance"
+        }
+    ],
+    "tags":[ "defi","staking","farming","nft","payments"]
 }
