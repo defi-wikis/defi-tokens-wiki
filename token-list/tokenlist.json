@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:14:35.316Z",
+    "timestamp": "2020-10-06T14:15:30.270Z",
     "version": {
         "major": 1,
-        "minor": 4908,
+        "minor": 4909,
         "patch": 0
     },
     "keywords": [
@@ -33058,6 +33058,13 @@
             "name": "APY.Finance",
             "symbol": "APYF",
             "address": "0xcd0B5C76A32E974aaB6CEad5E02a69B1Ce928eD6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OWL Token",
+            "symbol": "OWL",
+            "address": "0x869884dd6614c6257Ed09e20b864DDfF1431532C",
             "decimals": 18
         }
     ]
