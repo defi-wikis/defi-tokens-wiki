@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T11:36:10.881Z",
+    "timestamp": "2020-10-06T11:53:15.011Z",
     "version": {
         "major": 1,
-        "minor": 4892,
+        "minor": 4893,
         "patch": 0
     },
     "keywords": [
@@ -32947,6 +32947,13 @@
             "symbol": "SAN",
             "address": "0x3E77db0aAEE7388c6612E413B21CEEb7742Ab913",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Nuclear Finances Token",
+            "symbol": "NCL",
+            "address": "0x5CDfce1888e9fF90E16Caaab3d156Fc217869195",
+            "decimals": 18
         }
     ]
 }
