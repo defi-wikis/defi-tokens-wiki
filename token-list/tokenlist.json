@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T08:55:40.487Z",
+    "timestamp": "2020-10-06T08:59:15.248Z",
     "version": {
         "major": 1,
-        "minor": 4869,
+        "minor": 4870,
         "patch": 0
     },
     "keywords": [
@@ -32785,6 +32785,13 @@
             "name": "Lsd.finance",
             "symbol": "TABS$",
             "address": "0xa6769862D077287BE24D4bBdc1bcA8C4BCe993d9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Internet Protocol Version X",
+            "symbol": "IPVX",
+            "address": "0x2500D9730c5426706afbd4e5293772fab938f562",
             "decimals": 18
         }
     ]
