@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T23:08:11.070Z",
+    "timestamp": "2020-10-06T23:24:07.287Z",
     "version": {
         "major": 1,
-        "minor": 4969,
+        "minor": 4970,
         "patch": 0
     },
     "keywords": [
@@ -24597,6 +24597,13 @@
             "symbol": "BKC",
             "address": "0x3e9D482213a401B8b7EC86832B34bcDa59717d50",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "APY.Finance",
+            "symbol": "APY",
+            "address": "0x8f87afE27ED3BD3a089cC2605B8D4b995d46F053",
+            "decimals": 8
         }
     ]
 }
