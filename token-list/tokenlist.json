@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T16:58:30.899Z",
+    "timestamp": "2020-10-06T16:58:40.578Z",
     "version": {
         "major": 1,
-        "minor": 4934,
+        "minor": 4935,
         "patch": 0
     },
     "keywords": [
@@ -33241,6 +33241,13 @@
             "symbol": "Zin",
             "address": "0x033e223870f766644f7f7a4B7dc2E91573707d06",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "unification.com/xfund",
+            "symbol": "xFUND",
+            "address": "0x892A6f9dF0147e5f079b0993F486F9acA3c87881",
+            "decimals": 9
         }
     ]
 }
