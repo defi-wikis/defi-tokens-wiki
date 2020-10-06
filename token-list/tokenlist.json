@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T02:32:29.920Z",
+    "timestamp": "2020-10-06T02:35:11.559Z",
     "version": {
         "major": 1,
-        "minor": 4816,
+        "minor": 4817,
         "patch": 0
     },
     "keywords": [
@@ -32414,6 +32414,13 @@
             "name": "Books Edition 0",
             "symbol": "BOOKS",
             "address": "0x117c2ACA45d87958Ba054CB85Af0Fd57BE00D624",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Oracle",
+            "symbol": "Oracle",
+            "address": "0x09464a922c053C519AC0237A9650E303d532a4D2",
             "decimals": 18
         }
     ]
