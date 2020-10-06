@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T10:16:20.181Z",
+    "timestamp": "2020-10-06T10:18:02.102Z",
     "version": {
         "major": 1,
-        "minor": 4884,
+        "minor": 4885,
         "patch": 0
     },
     "keywords": [
@@ -32890,6 +32890,13 @@
             "name": "wixiplay.io",
             "symbol": "WIXI",
             "address": "0x554040EB1C9355BB0d5289305EE6CdCcA6A27bbb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dracula Token",
+            "symbol": "DRC",
+            "address": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
             "decimals": 18
         }
     ]
