@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T13:32:11.142Z",
+    "timestamp": "2020-10-06T13:36:55.406Z",
     "version": {
         "major": 1,
-        "minor": 4898,
+        "minor": 4899,
         "patch": 0
     },
     "keywords": [
@@ -32988,6 +32988,13 @@
             "name": "Higest Network",
             "symbol": "HGN",
             "address": "0xA0f60E0A18e23f7592813055CEBC82eC06Bd2136",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped BCH",
+            "symbol": "wBCH",
+            "address": "0xE4B533bd99384E9aF7008Ea9addEF84437936Ae5",
             "decimals": 18
         }
     ]
