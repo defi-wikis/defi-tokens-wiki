@@ -1,0 +1,7 @@
+{
+    "name": "Uniswap Coin",
+    "symbol": "UNICoin",
+    "address": "0x33704B4aAdf45fbE5C3329375FB45cA9f8D36147",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
