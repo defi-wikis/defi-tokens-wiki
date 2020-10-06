@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T03:56:20.748Z",
+    "timestamp": "2020-10-06T04:09:30.326Z",
     "version": {
         "major": 1,
-        "minor": 4827,
+        "minor": 4828,
         "patch": 0
     },
     "keywords": [
@@ -32491,6 +32491,13 @@
             "name": "YFIEC.Finance",
             "symbol": "YFIEC",
             "address": "0x3946bf3216Bff2bC0D0592Adb524BD0f479B04D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Minion.Farm",
+            "symbol": "MNNF",
+            "address": "0xF2F1C68d270C2B460128361BE7B1a85c9F2aD532",
             "decimals": 18
         }
     ]
