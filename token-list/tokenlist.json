@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T10:38:59.861Z",
+    "timestamp": "2020-10-06T10:41:34.863Z",
     "version": {
         "major": 1,
-        "minor": 4886,
+        "minor": 4887,
         "patch": 0
     },
     "keywords": [
@@ -32904,6 +32904,13 @@
             "name": "www.cosmcoin.com",
             "symbol": "CIN",
             "address": "0x68641F79879BBF368a1cdA9e399cc6f8d3899B1f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ORE",
+            "symbol": "ore",
+            "address": "0x4Bd2fD4B48f2ac589bFd2b345e51A488a604ba59",
             "decimals": 18
         }
     ]
