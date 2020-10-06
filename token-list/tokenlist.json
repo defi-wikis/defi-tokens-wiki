@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:49:07.696Z",
+    "timestamp": "2020-10-06T20:56:30.238Z",
     "version": {
         "major": 1,
-        "minor": 4957,
+        "minor": 4958,
         "patch": 0
     },
     "keywords": [
@@ -24513,6 +24513,13 @@
             "symbol": "DABER",
             "address": "0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "MEGA",
+            "symbol": "MEGA",
+            "address": "0x7BaB00450C5b5E31AdE54134239b942fb8AcAB03",
+            "decimals": 18
         }
     ]
 }
