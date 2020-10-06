@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T04:28:07.728Z",
+    "timestamp": "2020-10-06T04:28:40.327Z",
     "version": {
         "major": 1,
-        "minor": 4833,
+        "minor": 4834,
         "patch": 0
     },
     "keywords": [
@@ -32533,6 +32533,13 @@
             "name": "RON",
             "symbol": "RON",
             "address": "0x08DE69e5E9d08bb1Dff0b5a7c8CC6672df7c0412",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CVAULT.finance",
+            "symbol": "core1.21",
+            "address": "0x262CCe574A26E1A18d9A446b1404800C834Be4e6",
             "decimals": 18
         }
     ]
