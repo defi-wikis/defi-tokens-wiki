@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:28:19.824Z",
+    "timestamp": "2020-10-06T09:53:19.884Z",
     "version": {
         "major": 1,
-        "minor": 4880,
+        "minor": 4881,
         "patch": 0
     },
     "keywords": [
@@ -32862,6 +32862,13 @@
             "name": "Unichart V1",
             "symbol": "UV1",
             "address": "0x0C52c8045DaCacb5b523029360E24FcD14197228",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XFII",
+            "symbol": "XFII",
+            "address": "0x9FA4cE21FCB6a4A5c087BbBeD63c6aE6DAd3bF64",
             "decimals": 18
         }
     ]
