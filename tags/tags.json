@@ -90,5 +90,9 @@
     "staking": {
         "name": "Staking",
         "description": null
+    },
+    "farming": {
+        "name": "Farming",
+        "description": null
     }
 }
