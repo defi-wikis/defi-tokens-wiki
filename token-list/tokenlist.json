@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:07:20.447Z",
+    "timestamp": "2020-10-06T06:18:31.327Z",
     "version": {
         "major": 1,
-        "minor": 4847,
+        "minor": 4848,
         "patch": 0
     },
     "keywords": [
@@ -32631,6 +32631,13 @@
             "name": "OWL Token",
             "symbol": "OWL",
             "address": "0x5873A5D10741A193A3A9fD259EEE7E2e8970C774",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Thirm",
+            "symbol": "THRM",
+            "address": "0x5617C4Ae4219c9C6729695A4c19eee41f2F1B5e6",
             "decimals": 18
         }
     ]
