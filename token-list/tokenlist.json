@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T02:48:39.934Z",
+    "timestamp": "2020-10-06T02:51:00.023Z",
     "version": {
         "major": 1,
-        "minor": 4818,
+        "minor": 4819,
         "patch": 0
     },
     "keywords": [
@@ -32428,6 +32428,13 @@
             "name": "YFFS Finance",
             "symbol": "YFFS",
             "address": "0xA09322A18Bc867DBCBE03Cb7077d578B0ac6aa4a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xBTC",
+            "symbol": "XBTC",
+            "address": "0xffb7dc22cba9809475F2f8197A7c051f431fF957",
             "decimals": 18
         }
     ]
