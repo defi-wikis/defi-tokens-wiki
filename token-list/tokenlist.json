@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T16:07:15.119Z",
+    "timestamp": "2020-10-06T16:36:02.298Z",
     "version": {
         "major": 1,
-        "minor": 4929,
+        "minor": 4930,
         "patch": 0
     },
     "keywords": [
@@ -33206,6 +33206,13 @@
             "symbol": "WRN",
             "address": "0x2e923FcBa37777D3e71e0429CFA9B43ab17733e0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MERRILL FINANCE",
+            "symbol": "MERR",
+            "address": "0xcFda61702E94Cb3d70Abb61bDD2A99134132B30A",
+            "decimals": 0
         }
     ]
 }
