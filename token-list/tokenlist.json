@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:28:21.796Z",
+    "timestamp": "2020-10-06T17:45:13.515Z",
     "version": {
         "major": 1,
-        "minor": 4943,
+        "minor": 4944,
         "patch": 0
     },
     "keywords": [
@@ -33303,6 +33303,13 @@
             "name": "STOCKHOLM.cityswap.io",
             "symbol": "STOCKHOLM",
             "address": "0xaC7C4A4D66E7e36d95239351e2761AD31A2D5AdF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SAUCE",
+            "symbol": "SAUCE",
+            "address": "0x2635F89ABFc6d197b93B11259D6A525bD036F059",
             "decimals": 18
         }
     ]
