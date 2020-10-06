@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T02:51:00.023Z",
+    "timestamp": "2020-10-06T02:56:35.790Z",
     "version": {
         "major": 1,
-        "minor": 4819,
+        "minor": 4820,
         "patch": 0
     },
     "keywords": [
@@ -32436,6 +32436,13 @@
             "symbol": "XBTC",
             "address": "0xffb7dc22cba9809475F2f8197A7c051f431fF957",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sabiha Coin",
+            "symbol": "SAB",
+            "address": "0x911A158850e34E5fFAA2431A28a159Db5730E67A",
+            "decimals": 8
         }
     ]
 }
