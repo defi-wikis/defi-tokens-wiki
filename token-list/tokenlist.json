@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T13:14:08.044Z",
+    "timestamp": "2020-10-06T13:21:27.573Z",
     "version": {
         "major": 1,
-        "minor": 4896,
+        "minor": 4897,
         "patch": 0
     },
     "keywords": [
@@ -32974,6 +32974,13 @@
             "name": "Esch$Token",
             "symbol": "ESCH$",
             "address": "0xA821F14fB6394E82839F5161f214cACc90372453",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KKK.Finance",
+            "symbol": "KKK",
+            "address": "0x44028e6976df1B44F2Daa0Dfa8420Eeb05e753C8",
             "decimals": 18
         }
     ]
