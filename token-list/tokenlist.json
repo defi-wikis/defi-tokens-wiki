@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:10:45.691Z",
+    "timestamp": "2020-10-06T17:15:15.955Z",
     "version": {
         "major": 1,
-        "minor": 4940,
+        "minor": 4941,
         "patch": 0
     },
     "keywords": [
@@ -33282,6 +33282,13 @@
             "name": "DXY.FINANCE",
             "symbol": "DXY",
             "address": "0x4d83A5a088fd46d965927937B8332CF606F27cbB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EnCore",
+            "symbol": "ENCORE",
+            "address": "0x7Cc573f7D405ffbe64D6599fB87a8768470E1c22",
             "decimals": 18
         }
     ]
