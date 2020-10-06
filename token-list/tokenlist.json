@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T05:29:25.549Z",
+    "timestamp": "2020-10-06T05:30:30.772Z",
     "version": {
         "major": 1,
-        "minor": 4840,
+        "minor": 4841,
         "patch": 0
     },
     "keywords": [
@@ -32582,6 +32582,13 @@
             "name": "unfuddable.finance",
             "symbol": "UNFUD",
             "address": "0x02d9A9D0E876bE9719D745c77A894714649ABE33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoonX",
+            "symbol": "MOONX",
+            "address": "0x82106fEA6D93e15BFD5FFdf761D119f3d101CdcC",
             "decimals": 18
         }
     ]
