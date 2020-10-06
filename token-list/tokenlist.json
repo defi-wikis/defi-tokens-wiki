@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T21:03:35.022Z",
+    "timestamp": "2020-10-06T21:16:25.683Z",
     "version": {
         "major": 1,
-        "minor": 4961,
+        "minor": 4962,
         "patch": 0
     },
     "keywords": [
@@ -24540,6 +24540,13 @@
             "name": "UniStake",
             "symbol": "UNISTAKE",
             "address": "0x283477128769f7a7081a30A1AC53Bb3956730141",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "burn moon finance",
+            "symbol": "BMF",
+            "address": "0xa95c4f2e0d6455637f67F655Da4AFAe5d50d859B",
             "decimals": 18
         }
     ]
