@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:47:25.672Z",
+    "timestamp": "2020-10-06T14:50:17.490Z",
     "version": {
         "major": 1,
-        "minor": 4916,
+        "minor": 4917,
         "patch": 0
     },
     "keywords": [
@@ -33115,6 +33115,13 @@
             "symbol": "tornado",
             "address": "0x5fcb76Cbf2A2325F7aF72e04A9064F7a7D6f94B5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IDKToken",
+            "symbol": "IDK",
+            "address": "0x61fd1c62551850D0c04C76FcE614cBCeD0094498",
+            "decimals": 8
         }
     ]
 }
