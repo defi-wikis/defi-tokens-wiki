@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T10:18:02.102Z",
+    "timestamp": "2020-10-06T10:38:59.861Z",
     "version": {
         "major": 1,
-        "minor": 4885,
+        "minor": 4886,
         "patch": 0
     },
     "keywords": [
@@ -32897,6 +32897,13 @@
             "name": "Dracula Token",
             "symbol": "DRC",
             "address": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "www.cosmcoin.com",
+            "symbol": "CIN",
+            "address": "0x68641F79879BBF368a1cdA9e399cc6f8d3899B1f",
             "decimals": 18
         }
     ]
