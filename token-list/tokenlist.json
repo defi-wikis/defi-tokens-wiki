@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:34:20.227Z",
+    "timestamp": "2020-10-06T20:42:50.409Z",
     "version": {
         "major": 1,
-        "minor": 4953,
+        "minor": 4954,
         "patch": 0
     },
     "keywords": [
@@ -24484,6 +24484,13 @@
             "name": "corion.io",
             "symbol": "CORX",
             "address": "0xf2288Cd5fC4CAB78312b6be41A71634e1eE0F3EF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DevCore",
+            "symbol": "DCORE",
+            "address": "0x7A042A69e51519d38f1F4a71dd51a9ED9FaE8587",
             "decimals": 18
         }
     ]
