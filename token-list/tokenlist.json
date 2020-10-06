@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T13:36:55.406Z",
+    "timestamp": "2020-10-06T13:40:07.398Z",
     "version": {
         "major": 1,
-        "minor": 4899,
+        "minor": 4900,
         "patch": 0
     },
     "keywords": [
@@ -32995,6 +32995,13 @@
             "name": "Wrapped BCH",
             "symbol": "wBCH",
             "address": "0xE4B533bd99384E9aF7008Ea9addEF84437936Ae5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PAPARAZZI-NEW",
+            "symbol": "PAZZI-N",
+            "address": "0xf2D4A5dd017d78289C404DE98c37cE245e417C7f",
             "decimals": 18
         }
     ]
