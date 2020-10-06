@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T22:44:50.091Z",
+    "timestamp": "2020-10-06T23:08:11.070Z",
     "version": {
         "major": 1,
-        "minor": 4968,
+        "minor": 4969,
         "patch": 0
     },
     "keywords": [
@@ -24590,6 +24590,13 @@
             "symbol": "DPT",
             "address": "0x10D50B9d4dCFB8f818f098D510632a395A514a65",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bike Coin",
+            "symbol": "BKC",
+            "address": "0x3e9D482213a401B8b7EC86832B34bcDa59717d50",
+            "decimals": 3
         }
     ]
 }
