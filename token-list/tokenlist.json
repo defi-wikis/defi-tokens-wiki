@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T21:02:54.911Z",
+    "timestamp": "2020-10-06T21:03:35.022Z",
     "version": {
         "major": 1,
-        "minor": 4960,
+        "minor": 4961,
         "patch": 0
     },
     "keywords": [
@@ -24533,6 +24533,13 @@
             "name": "DevCore",
             "symbol": "DCORE",
             "address": "0x736D6fbdDd08fCe33b2e3a0ABE9A0b211aE6Bf3C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniStake",
+            "symbol": "UNISTAKE",
+            "address": "0x283477128769f7a7081a30A1AC53Bb3956730141",
             "decimals": 18
         }
     ]
