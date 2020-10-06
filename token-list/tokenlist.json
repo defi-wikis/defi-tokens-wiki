@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:24:35.260Z",
+    "timestamp": "2020-10-06T20:26:39.652Z",
     "version": {
         "major": 1,
-        "minor": 4949,
+        "minor": 4950,
         "patch": 0
     },
     "keywords": [
@@ -24456,6 +24456,13 @@
             "name": "MZA.Finance",
             "symbol": "MZA",
             "address": "0xb1CA5b310F4B3e0CF03A8C207fEfaAC80e006651",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SBIG.Finance",
+            "symbol": "SBIG",
+            "address": "0x49ae220b4C04289d4026063A75FAEdbFbBa3a363",
             "decimals": 18
         }
     ]
