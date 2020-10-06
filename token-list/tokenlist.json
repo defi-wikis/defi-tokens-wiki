@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T13:21:27.573Z",
+    "timestamp": "2020-10-06T13:32:11.142Z",
     "version": {
         "major": 1,
-        "minor": 4897,
+        "minor": 4898,
         "patch": 0
     },
     "keywords": [
@@ -32981,6 +32981,13 @@
             "name": "KKK.Finance",
             "symbol": "KKK",
             "address": "0x44028e6976df1B44F2Daa0Dfa8420Eeb05e753C8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Higest Network",
+            "symbol": "HGN",
+            "address": "0xA0f60E0A18e23f7592813055CEBC82eC06Bd2136",
             "decimals": 18
         }
     ]
