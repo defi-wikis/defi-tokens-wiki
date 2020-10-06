@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T03:28:15.223Z",
+    "timestamp": "2020-10-06T03:28:25.841Z",
     "version": {
         "major": 1,
-        "minor": 4824,
+        "minor": 4825,
         "patch": 0
     },
     "keywords": [
@@ -32470,6 +32470,13 @@
             "name": "WhiteRock.Network",
             "symbol": "WRN",
             "address": "0x607c1AA6A4F8B0c935bCF1442845971e41883bDd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SUPERPUMPING",
+            "symbol": "SUP1",
+            "address": "0xF1d20FD742F0C49aA365373bC02471aD8D836b53",
             "decimals": 18
         }
     ]
