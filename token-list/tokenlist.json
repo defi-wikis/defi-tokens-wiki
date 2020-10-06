@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T09:02:02.157Z",
+    "timestamp": "2020-10-06T09:03:20.172Z",
     "version": {
         "major": 1,
-        "minor": 4871,
+        "minor": 4872,
         "patch": 0
     },
     "keywords": [
@@ -32800,6 +32800,13 @@
             "symbol": "SMC.DEFI",
             "address": "0xF9FE8C39CCB2a9E4f2F01BdFb157Dd1C63EB6FBA",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unity",
+            "symbol": "UNITY",
+            "address": "0xcF6A236226DDE0C1eD87BbF933F75f44A8B6FA38",
+            "decimals": 4
         }
     ]
 }
