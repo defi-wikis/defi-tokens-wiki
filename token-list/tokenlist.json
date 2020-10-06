@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T17:07:02.461Z",
+    "timestamp": "2020-10-06T17:10:45.691Z",
     "version": {
         "major": 1,
-        "minor": 4939,
+        "minor": 4940,
         "patch": 0
     },
     "keywords": [
@@ -33275,6 +33275,13 @@
             "name": "SPHERUM",
             "symbol": "SPHERUM",
             "address": "0xDF8AfABacCfFA9ffa77F27139b32f8ec59Fe6391",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DXY.FINANCE",
+            "symbol": "DXY",
+            "address": "0x4d83A5a088fd46d965927937B8332CF606F27cbB",
             "decimals": 18
         }
     ]
