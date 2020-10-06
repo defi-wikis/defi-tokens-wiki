@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T11:28:46.145Z",
+    "timestamp": "2020-10-06T11:35:25.641Z",
     "version": {
         "major": 1,
-        "minor": 4890,
+        "minor": 4891,
         "patch": 0
     },
     "keywords": [
@@ -32932,6 +32932,13 @@
             "name": "eVault.finance",
             "symbol": "ENCORE",
             "address": "0x26052a94C4f5F2EdA074957BCBfec67826cf479F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NUCLEAR FINANCES",
+            "symbol": "(NCL)",
+            "address": "0xa3529226686B64ea62cb8A78040B2d9966A0cc22",
             "decimals": 18
         }
     ]
