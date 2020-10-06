@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:42:50.409Z",
+    "timestamp": "2020-10-06T20:44:55.034Z",
     "version": {
         "major": 1,
-        "minor": 4954,
+        "minor": 4955,
         "patch": 0
     },
     "keywords": [
@@ -24491,6 +24491,13 @@
             "name": "DevCore",
             "symbol": "DCORE",
             "address": "0x7A042A69e51519d38f1F4a71dd51a9ED9FaE8587",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Momenta Network",
+            "symbol": "MN",
+            "address": "0xF423efD2CFB48B1beA91E3bc512D7b0d0CBf83b3",
             "decimals": 18
         }
     ]
