@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:41:10.138Z",
+    "timestamp": "2020-10-06T06:41:59.685Z",
     "version": {
         "major": 1,
-        "minor": 4853,
+        "minor": 4854,
         "patch": 0
     },
     "keywords": [
@@ -32673,6 +32673,13 @@
             "name": "LSD Finance",
             "symbol": "LSD",
             "address": "0xd003b4743a81E7D94553B48f0741CB956c32FaED",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Management",
+            "symbol": "YeFiM",
+            "address": "0x4B34c0CBeEF271F895d339c5F76322d71A60782B",
             "decimals": 18
         }
     ]
