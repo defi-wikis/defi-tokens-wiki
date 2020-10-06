@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T23:46:06.885Z",
+    "timestamp": "2020-10-06T23:59:07.704Z",
     "version": {
         "major": 1,
-        "minor": 4972,
+        "minor": 4973,
         "patch": 0
     },
     "keywords": [
@@ -24617,6 +24617,13 @@
             "name": "EnCore",
             "symbol": "ENCORE",
             "address": "0x02EE809FD5B99D87f6e2C8d7974e1CE16f1B4d33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PeerSafeLoan",
+            "symbol": "PSL",
+            "address": "0x5a4292D26277FA26669D05670e3CE40462EeD953",
             "decimals": 18
         }
     ]
