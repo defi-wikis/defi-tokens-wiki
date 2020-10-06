@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:15:30.270Z",
+    "timestamp": "2020-10-06T14:21:02.144Z",
     "version": {
         "major": 1,
-        "minor": 4909,
+        "minor": 4910,
         "patch": 0
     },
     "keywords": [
@@ -33066,6 +33066,13 @@
             "symbol": "OWL",
             "address": "0x869884dd6614c6257Ed09e20b864DDfF1431532C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rydberg",
+            "symbol": "RYD",
+            "address": "0xBCb87A9a085369fA926AFF5b67f668a790dEc748",
+            "decimals": 11
         }
     ]
 }
