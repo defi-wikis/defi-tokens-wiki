@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:38:21.693Z",
+    "timestamp": "2020-10-06T14:46:13.016Z",
     "version": {
         "major": 1,
-        "minor": 4914,
+        "minor": 4915,
         "patch": 0
     },
     "keywords": [
@@ -33101,6 +33101,13 @@
             "symbol": "FOX",
             "address": "0xf8dB8aD0aA9b8b435fF3AB5AAA3B8DB77B0B7C0b",
             "decimals": 7
+        },
+        {
+            "chainId": 1,
+            "name": "palpitation.finance",
+            "symbol": "$API",
+            "address": "0x6A45A8F4C7D662aCB7a098f45790b844A35567Ba",
+            "decimals": 18
         }
     ]
 }
