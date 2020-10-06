@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T02:35:11.559Z",
+    "timestamp": "2020-10-06T02:48:39.934Z",
     "version": {
         "major": 1,
-        "minor": 4817,
+        "minor": 4818,
         "patch": 0
     },
     "keywords": [
@@ -32421,6 +32421,13 @@
             "name": "Oracle",
             "symbol": "Oracle",
             "address": "0x09464a922c053C519AC0237A9650E303d532a4D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFS Finance",
+            "symbol": "YFFS",
+            "address": "0xA09322A18Bc867DBCBE03Cb7077d578B0ac6aa4a",
             "decimals": 18
         }
     ]
