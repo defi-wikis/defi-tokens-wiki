@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:47:34.971Z",
+    "timestamp": "2020-10-06T20:49:07.696Z",
     "version": {
         "major": 1,
-        "minor": 4956,
+        "minor": 4957,
         "patch": 0
     },
     "keywords": [
@@ -24506,6 +24506,13 @@
             "symbol": "POO",
             "address": "0x293e37fCCdf0e779F8Df5eAD18C174b8381b3b8b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dabdragon Tokens",
+            "symbol": "DABER",
+            "address": "0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76",
+            "decimals": 4
         }
     ]
 }
