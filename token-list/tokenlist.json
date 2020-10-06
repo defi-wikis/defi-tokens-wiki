@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T13:59:32.750Z",
+    "timestamp": "2020-10-06T14:06:44.791Z",
     "version": {
         "major": 1,
-        "minor": 4904,
+        "minor": 4905,
         "patch": 0
     },
     "keywords": [
@@ -33030,6 +33030,13 @@
             "name": "Piggies",
             "symbol": "PIGGY",
             "address": "0xC6b1953AB35f05db745daDd5Ce411d75758A7898",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Family Finance",
+            "symbol": "FAM",
+            "address": "0xB56F3bc5eFEd5C3Bd1B7920E531dB205e6a19Eb2",
             "decimals": 18
         }
     ]
