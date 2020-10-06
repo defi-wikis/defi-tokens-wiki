@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:21:55.665Z",
+    "timestamp": "2020-10-06T14:29:10.866Z",
     "version": {
         "major": 1,
-        "minor": 4911,
+        "minor": 4912,
         "patch": 0
     },
     "keywords": [
@@ -33079,6 +33079,13 @@
             "name": "GMT DeFi",
             "symbol": "GMT",
             "address": "0x11b7C75C5BF21f5dfA8777c70847cA642888EFDE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WTRON",
+            "symbol": "WTRON",
+            "address": "0xb4c7fdE60E25590281c60dFC8Ae890BC782f7528",
             "decimals": 18
         }
     ]
