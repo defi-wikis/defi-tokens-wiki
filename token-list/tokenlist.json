@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T03:22:14.832Z",
+    "timestamp": "2020-10-06T03:27:35.117Z",
     "version": {
         "major": 1,
-        "minor": 4822,
+        "minor": 4823,
         "patch": 0
     },
     "keywords": [
@@ -32456,6 +32456,13 @@
             "name": "YEAFinance",
             "symbol": "YEAv2",
             "address": "0x1AC10fde130a6747D0e13dc17CBDEA5Be357DFc5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mbidefi.io",
+            "symbol": "MBI",
+            "address": "0x0640A8A173A428Cf6D46088C93A1ce672181F748",
             "decimals": 18
         }
     ]
