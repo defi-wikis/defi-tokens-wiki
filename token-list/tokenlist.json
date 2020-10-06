@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T02:01:34.907Z",
+    "timestamp": "2020-10-06T02:04:15.251Z",
     "version": {
         "major": 1,
-        "minor": 4812,
+        "minor": 4813,
         "patch": 0
     },
     "keywords": [
@@ -32386,6 +32386,13 @@
             "name": "PIKACHU.FARM",
             "symbol": "$PKC",
             "address": "0x3C8d449f6cD20E5683582924AEA929776BD3bE3C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ymax.finance",
+            "symbol": "YMAX",
+            "address": "0x4b386eE6F24F993261801e072930Af244B9693c2",
             "decimals": 18
         }
     ]
