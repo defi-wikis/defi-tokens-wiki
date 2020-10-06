@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T04:09:30.326Z",
+    "timestamp": "2020-10-06T04:14:35.266Z",
     "version": {
         "major": 1,
-        "minor": 4828,
+        "minor": 4829,
         "patch": 0
     },
     "keywords": [
@@ -32498,6 +32498,13 @@
             "name": "Minion.Farm",
             "symbol": "MNNF",
             "address": "0xF2F1C68d270C2B460128361BE7B1a85c9F2aD532",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OWL Token",
+            "symbol": "OWL",
+            "address": "0x3eeE07D48DaB5Ba20e414fCEfD9D1a0fa92E1bDA",
             "decimals": 18
         }
     ]
