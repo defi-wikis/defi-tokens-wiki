@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:18:31.327Z",
+    "timestamp": "2020-10-06T06:27:10.330Z",
     "version": {
         "major": 1,
-        "minor": 4848,
+        "minor": 4849,
         "patch": 0
     },
     "keywords": [
@@ -32638,6 +32638,13 @@
             "name": "Thirm",
             "symbol": "THRM",
             "address": "0x5617C4Ae4219c9C6729695A4c19eee41f2F1B5e6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap.gg",
+            "symbol": "UNIG",
+            "address": "0xeA34b41710867E83034D386FE18a69B97D1cb85b",
             "decimals": 18
         }
     ]
