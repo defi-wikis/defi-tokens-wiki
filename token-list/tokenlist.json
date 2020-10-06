@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T04:47:39.615Z",
+    "timestamp": "2020-10-06T04:55:29.873Z",
     "version": {
         "major": 1,
-        "minor": 4835,
+        "minor": 4836,
         "patch": 0
     },
     "keywords": [
@@ -32547,6 +32547,13 @@
             "name": "Light Coinex",
             "symbol": "LCG",
             "address": "0x56552b2399E9BCF14D6de797F5C15c31ADDC2F4F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HalfRektV2",
+            "symbol": "NMEV2",
+            "address": "0x406dc6B96A7Ac3bB3e1Dc5fB642dbE3E5E82e975",
             "decimals": 18
         }
     ]
