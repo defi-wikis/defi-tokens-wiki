@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T06:27:10.330Z",
+    "timestamp": "2020-10-06T06:33:15.520Z",
     "version": {
         "major": 1,
-        "minor": 4849,
+        "minor": 4850,
         "patch": 0
     },
     "keywords": [
@@ -32645,6 +32645,13 @@
             "name": "Uniswap.gg",
             "symbol": "UNIG",
             "address": "0xeA34b41710867E83034D386FE18a69B97D1cb85b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GemBites",
+            "symbol": "GBTS",
+            "address": "0x37E6244CdB3d78747865c311343369cE880f6d42",
             "decimals": 18
         }
     ]
