@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T14:59:40.105Z",
+    "timestamp": "2020-10-06T15:07:26.056Z",
     "version": {
         "major": 1,
-        "minor": 4919,
+        "minor": 4920,
         "patch": 0
     },
     "keywords": [
@@ -33135,6 +33135,13 @@
             "name": "JellyFish Finance",
             "symbol": "JELLY",
             "address": "0xb76Ac100e99cC24B97DDd17B0698DDD7690c6717",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tokenomy",
+            "symbol": "TEN",
+            "address": "0xDD16eC0F66E54d453e6756713E533355989040E4",
             "decimals": 18
         }
     ]
