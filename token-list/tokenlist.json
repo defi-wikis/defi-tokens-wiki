@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T03:48:45.504Z",
+    "timestamp": "2020-10-06T03:56:20.748Z",
     "version": {
         "major": 1,
-        "minor": 4826,
+        "minor": 4827,
         "patch": 0
     },
     "keywords": [
@@ -32484,6 +32484,13 @@
             "name": "YFIX Finance",
             "symbol": "YFIX",
             "address": "0x0e581D3d3a49aB2C8C2d45771250d9EEF9cD568e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIEC.Finance",
+            "symbol": "YFIEC",
+            "address": "0x3946bf3216Bff2bC0D0592Adb524BD0f479B04D2",
             "decimals": 18
         }
     ]
