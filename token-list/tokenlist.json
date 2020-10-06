@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T07:49:45.591Z",
+    "timestamp": "2020-10-06T07:56:40.380Z",
     "version": {
         "major": 1,
-        "minor": 4859,
+        "minor": 4860,
         "patch": 0
     },
     "keywords": [
@@ -32715,6 +32715,13 @@
             "name": "Lsd.finance",
             "symbol": "$TABS",
             "address": "0x11A00302E27dbfEc35D6A5276Ba4F698659c2B9a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BOBO",
+            "symbol": "BOBO",
+            "address": "0xe1804d9c112261011030E9021eF781f0287fF95f",
             "decimals": 18
         }
     ]
