@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T05:42:07.479Z",
+    "timestamp": "2020-10-06T05:53:45.649Z",
     "version": {
         "major": 1,
-        "minor": 4844,
+        "minor": 4845,
         "patch": 0
     },
     "keywords": [
@@ -32610,6 +32610,13 @@
             "name": "unfuddable.finance",
             "symbol": "UNFUD",
             "address": "0x852D11979F5218A1940c14C493A9E6C5dcD71d96",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Thirm",
+            "symbol": "THRM",
+            "address": "0x769061Cd88fea049465cf641bC34FcC1fF77196B",
             "decimals": 18
         }
     ]
