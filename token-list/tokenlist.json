@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T20:21:02.400Z",
+    "timestamp": "2020-10-06T20:24:35.260Z",
     "version": {
         "major": 1,
-        "minor": 4948,
+        "minor": 4949,
         "patch": 0
     },
     "keywords": [
@@ -24449,6 +24449,13 @@
             "name": "XLHB.Finance",
             "symbol": "XLHB",
             "address": "0xAd2D8EBD6603a06206b9fCFCA5DE86cf826E0a56",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MZA.Finance",
+            "symbol": "MZA",
+            "address": "0xb1CA5b310F4B3e0CF03A8C207fEfaAC80e006651",
             "decimals": 18
         }
     ]
