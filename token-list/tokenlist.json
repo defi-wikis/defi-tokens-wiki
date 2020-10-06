@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T12:41:11.091Z",
+    "timestamp": "2020-10-06T12:41:15.425Z",
     "version": {
         "major": 1,
-        "minor": 4894,
+        "minor": 4895,
         "patch": 0
     },
     "keywords": [
@@ -32960,6 +32960,13 @@
             "name": "larp.money",
             "symbol": "LARP",
             "address": "0x981850C874A6E119E63b806C9649901DCE041468",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Test Token",
+            "symbol": "DFTT",
+            "address": "0x4A832c6809f793578e562Fd16409E0B5A5DBD073",
             "decimals": 18
         }
     ]
