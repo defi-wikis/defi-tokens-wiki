@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T13:08:02.833Z",
+    "timestamp": "2020-10-07T13:14:35.330Z",
     "version": {
         "major": 1,
-        "minor": 5048,
+        "minor": 5049,
         "patch": 0
     },
     "keywords": [
@@ -25149,6 +25149,13 @@
             "name": "Medusa",
             "symbol": "Mda",
             "address": "0xB9206E2DbDA30d0605Aafe7e33dc2d88cc261044",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HASH Finance",
+            "symbol": "HASH",
+            "address": "0x82F465852F7b7760c4FC2308c63e8fcec9923cD9",
             "decimals": 18
         }
     ]
