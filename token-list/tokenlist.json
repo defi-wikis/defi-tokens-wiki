@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:54:14.100Z",
+    "timestamp": "2020-10-07T17:56:52.795Z",
     "version": {
         "major": 1,
-        "minor": 5096,
+        "minor": 5097,
         "patch": 0
     },
     "keywords": [
@@ -25486,6 +25486,13 @@
             "symbol": "CTi",
             "address": "0x02Aa56a0FCd57A57b934cfF6E5274915DdFbe14C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FINANCE FOR LOANERS",
+            "symbol": "FFL",
+            "address": "0x2924aB10B6B94E7206F301Fc044a0C85B7a1D4B3",
+            "decimals": 8
         }
     ]
 }
