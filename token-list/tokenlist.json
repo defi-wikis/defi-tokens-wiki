@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:35:07.089Z",
+    "timestamp": "2020-10-07T15:35:44.752Z",
     "version": {
         "major": 1,
-        "minor": 5074,
+        "minor": 5075,
         "patch": 0
     },
     "keywords": [
@@ -25331,6 +25331,13 @@
             "name": "HONEYTOKEN",
             "symbol": "HONT",
             "address": "0xAA5Ae14E6122176D626D732b7Dad38A4F9418883",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Flysio",
+            "symbol": "FLY",
+            "address": "0x1BB7680EB76d11062853eCD9dB7cDF9fd8d2952d",
             "decimals": 18
         }
     ]
