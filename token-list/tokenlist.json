@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T12:15:50.740Z",
+    "timestamp": "2020-10-07T12:22:00.015Z",
     "version": {
         "major": 1,
-        "minor": 5043,
+        "minor": 5044,
         "patch": 0
     },
     "keywords": [
@@ -25114,6 +25114,13 @@
             "name": "BUTTER SWAP",
             "symbol": "BUTTR",
             "address": "0x0CeaA5079df292aeD82Dc36D8498ff0039710E15",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Deflationary Finance",
+            "symbol": "DeFi",
+            "address": "0xAc1a95F585942289ACCff8cD2A9F6bd1A2550a91",
             "decimals": 18
         }
     ]
