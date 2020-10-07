@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T11:09:55.843Z",
+    "timestamp": "2020-10-07T11:12:35.124Z",
     "version": {
         "major": 1,
-        "minor": 5035,
+        "minor": 5036,
         "patch": 0
     },
     "keywords": [
@@ -25059,6 +25059,13 @@
             "symbol": "SPARK",
             "address": "0x8d06d1dCD002C63BCE39507910A6791079DF6fdb",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "normalized Tether USD",
+            "symbol": "nUSDT",
+            "address": "0x2205d2F559ef91580090011Aa4E0eF68Ec33da44",
+            "decimals": 6
         }
     ]
 }
