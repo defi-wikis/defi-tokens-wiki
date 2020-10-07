@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T00:44:54.739Z",
+    "timestamp": "2020-10-07T00:59:40.550Z",
     "version": {
         "major": 1,
-        "minor": 4978,
+        "minor": 4979,
         "patch": 0
     },
     "keywords": [
@@ -24659,6 +24659,13 @@
             "name": "Core Finance V2",
             "symbol": "CF",
             "address": "0xC14b58c0b62250A8fEF6A08EDACC4B06598B9AC4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Poo.Finance",
+            "symbol": "POO",
+            "address": "0x4Ece0d7bA45c172e48E28265cb73931d66b82f30",
             "decimals": 18
         }
     ]
