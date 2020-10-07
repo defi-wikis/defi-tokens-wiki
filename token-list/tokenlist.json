@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:28:19.927Z",
+    "timestamp": "2020-10-07T19:29:54.845Z",
     "version": {
         "major": 1,
-        "minor": 5112,
+        "minor": 5113,
         "patch": 0
     },
     "keywords": [
@@ -25597,6 +25597,13 @@
             "name": "Wise Token",
             "symbol": "WISE",
             "address": "0x9506720D769b0eB11B94B8280176Df705431497F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TurtleSwap.org",
+            "symbol": "TURTLE",
+            "address": "0x0a312995811CEe77E3e2eb3e017BffdC7fe6b165",
             "decimals": 18
         }
     ]
