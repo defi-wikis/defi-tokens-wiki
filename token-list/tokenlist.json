@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:19:19.901Z",
+    "timestamp": "2020-10-07T06:22:08.423Z",
     "version": {
         "major": 1,
-        "minor": 5005,
+        "minor": 5006,
         "patch": 0
     },
     "keywords": [
@@ -24848,6 +24848,13 @@
             "name": "XFinance",
             "symbol": "XFI",
             "address": "0x09912A52f793916135427DFA13bDb556Ce57eF83",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeXe.network",
+            "symbol": "DeXe",
+            "address": "0x5f972025a98FE8DCD20da34d621d7760a5D47d70",
             "decimals": 18
         }
     ]
