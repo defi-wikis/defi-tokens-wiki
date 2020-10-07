@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T04:46:30.982Z",
+    "timestamp": "2020-10-07T05:07:46.717Z",
     "version": {
         "major": 1,
-        "minor": 4995,
+        "minor": 4996,
         "patch": 0
     },
     "keywords": [
@@ -24779,6 +24779,13 @@
             "symbol": "CLX",
             "address": "0xb5451C555ecb50C562E28eBcff926FF784714b3b",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Mortgage Loan Finance",
+            "symbol": "MLF",
+            "address": "0xC2Fa1b924d3e08FAD60890772990D046ee38de2e",
+            "decimals": 18
         }
     ]
 }
