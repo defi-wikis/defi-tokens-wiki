@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T07:06:40.180Z",
+    "timestamp": "2020-10-07T07:24:44.727Z",
     "version": {
         "major": 1,
-        "minor": 5014,
+        "minor": 5015,
         "patch": 0
     },
     "keywords": [
@@ -24911,6 +24911,13 @@
             "name": "YIF LEARN",
             "symbol": "YIF",
             "address": "0x956d7b842e9e74365B25d1dC22BB9b9531F32dD4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GameSwap",
+            "symbol": "GSWAP",
+            "address": "0x682F9BB69EbdE8Aa6C9972541139995Dd5619e93",
             "decimals": 18
         }
     ]
