@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-06T23:59:07.704Z",
+    "timestamp": "2020-10-07T00:08:39.678Z",
     "version": {
         "major": 1,
-        "minor": 4973,
+        "minor": 4974,
         "patch": 0
     },
     "keywords": [
@@ -24624,6 +24624,13 @@
             "name": "PeerSafeLoan",
             "symbol": "PSL",
             "address": "0x5a4292D26277FA26669D05670e3CE40462EeD953",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dokidoki finance",
+            "symbol": "DOKI",
+            "address": "0x02e948419baBd62089CdE512720aCf4f46d8c0a8",
             "decimals": 18
         }
     ]
