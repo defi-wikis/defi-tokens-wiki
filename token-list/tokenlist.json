@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T00:40:49.905Z",
+    "timestamp": "2020-10-07T00:44:54.739Z",
     "version": {
         "major": 1,
-        "minor": 4977,
+        "minor": 4978,
         "patch": 0
     },
     "keywords": [
@@ -24652,6 +24652,13 @@
             "name": "Original 1/1 Gandoodle",
             "symbol": "STINA",
             "address": "0xa38C58E9B05EE4f22633ECaEdC6f7692f1BDAf9E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance V2",
+            "symbol": "CF",
+            "address": "0xC14b58c0b62250A8fEF6A08EDACC4B06598B9AC4",
             "decimals": 18
         }
     ]
