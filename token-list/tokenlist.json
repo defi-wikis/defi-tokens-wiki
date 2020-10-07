@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T13:43:50.185Z",
+    "timestamp": "2020-10-07T13:45:45.856Z",
     "version": {
         "major": 1,
-        "minor": 5051,
+        "minor": 5052,
         "patch": 0
     },
     "keywords": [
@@ -25170,6 +25170,13 @@
             "name": "KING GOLD",
             "symbol": "KG",
             "address": "0x65178C64E44e47c4147Ff5cf49101d239bc71975",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YF PI-3.14 Functional Finance",
+            "symbol": "YFPI-3.14",
+            "address": "0xb0393FBf63ab60631D7eFF415bb78387adedB628",
             "decimals": 18
         }
     ]
