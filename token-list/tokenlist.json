@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:05:10.586Z",
+    "timestamp": "2020-10-07T19:24:15.714Z",
     "version": {
         "major": 1,
-        "minor": 5108,
+        "minor": 5109,
         "patch": 0
     },
     "keywords": [
@@ -25569,6 +25569,13 @@
             "name": "SPHERA",
             "symbol": "SPHE",
             "address": "0xebD04f04f260F5032ec09d7FD29df3BF31f7acD4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SocialToken",
+            "symbol": "SOLT",
+            "address": "0x6de6CccDF26F5161eBf5689cf6F7Cdb09BA7ca75",
             "decimals": 18
         }
     ]
