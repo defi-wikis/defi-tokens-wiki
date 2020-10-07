@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:20:35.141Z",
+    "timestamp": "2020-10-07T15:20:40.945Z",
     "version": {
         "major": 1,
-        "minor": 5067,
+        "minor": 5068,
         "patch": 0
     },
     "keywords": [
@@ -25283,6 +25283,13 @@
             "symbol": "LTX",
             "address": "0x74eB345ffBB30Fb567f75a73998E473D0c7d77bc",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Yeld Finance 1.0",
+            "symbol": "YELD",
+            "address": "0xBAFc4C22FfeFE1E2f4C778E112f958e31bc2AcD0",
+            "decimals": 18
         }
     ]
 }
