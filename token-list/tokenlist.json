@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T11:34:54.851Z",
+    "timestamp": "2020-10-07T11:36:24.901Z",
     "version": {
         "major": 1,
-        "minor": 5038,
+        "minor": 5039,
         "patch": 0
     },
     "keywords": [
@@ -25080,6 +25080,13 @@
             "symbol": "nWBTC",
             "address": "0xbB44B36e588445D7DA61A1e2e426664d03D40888",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Zeta Yearn Finance",
+            "symbol": "$ZYFI",
+            "address": "0x5D816354a37d8809C76e87B30b5774e20b42B5bF",
+            "decimals": 18
         }
     ]
 }
