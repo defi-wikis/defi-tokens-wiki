@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:43:07.067Z",
+    "timestamp": "2020-10-07T19:52:50.344Z",
     "version": {
         "major": 1,
-        "minor": 5115,
+        "minor": 5116,
         "patch": 0
     },
     "keywords": [
@@ -25618,6 +25618,13 @@
             "name": "SmartWave",
             "symbol": "SWAVE",
             "address": "0x9d9c705043cCB4329C9E0986f2501Bb32F7F8ae7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TOLASTOKEN",
+            "symbol": "TOLA",
+            "address": "0x58F8fd4Ac4500C2180B1e773622C47184b240672",
             "decimals": 18
         }
     ]
