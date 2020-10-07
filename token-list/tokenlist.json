@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:28:50.028Z",
+    "timestamp": "2020-10-07T16:32:56.675Z",
     "version": {
         "major": 1,
-        "minor": 5085,
+        "minor": 5086,
         "patch": 0
     },
     "keywords": [
@@ -25409,6 +25409,13 @@
             "symbol": "ENCORE2",
             "address": "0xe34634dc35A83e4B0d848b1a0294c17558858E97",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "YEARN FINANCE DeFi CRAZE",
+            "symbol": "YFDC",
+            "address": "0xF494F4F04eF19a884CB9927C13f65fB7A11642f5",
+            "decimals": 18
         }
     ]
 }
