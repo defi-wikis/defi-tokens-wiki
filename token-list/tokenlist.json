@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:00:37.475Z",
+    "timestamp": "2020-10-07T17:01:22.465Z",
     "version": {
         "major": 1,
-        "minor": 5091,
+        "minor": 5092,
         "patch": 0
     },
     "keywords": [
@@ -25450,6 +25450,13 @@
             "name": "CLR7",
             "symbol": "CLR7",
             "address": "0xE4101d014443aF2B7f6F9f603E904adC9Faf0De5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Anti CORE",
+            "symbol": "XCORE",
+            "address": "0xF43e62e72784361C9f43542DE227426fC1D09185",
             "decimals": 18
         }
     ]
