@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:52:40.273Z",
+    "timestamp": "2020-10-07T16:08:40.997Z",
     "version": {
         "major": 1,
-        "minor": 5079,
+        "minor": 5080,
         "patch": 0
     },
     "keywords": [
@@ -25366,6 +25366,13 @@
             "name": "RMBToken",
             "symbol": "RMBT",
             "address": "0x75eb894795Ca5C27a73718B29fE2d9e27a74161e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WhyCORE",
+            "symbol": "WCORE",
+            "address": "0x3Bc97eAe2c76cBC0973FcAEDC3B80Ce09d167946",
             "decimals": 18
         }
     ]
