@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T04:08:41.474Z",
+    "timestamp": "2020-10-07T04:13:27.422Z",
     "version": {
         "major": 1,
-        "minor": 4992,
+        "minor": 4993,
         "patch": 0
     },
     "keywords": [
@@ -24757,6 +24757,13 @@
             "name": "SMC.DEFI",
             "symbol": "SMC.DEFI",
             "address": "0xAc2BAB169e2c020E3FF323d1a18866f7C43B58aD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "corion.io",
+            "symbol": "CorionX",
+            "address": "0xe7480AA9EBef88958436ff7c26e57E4B2C2D597F",
             "decimals": 18
         }
     ]
