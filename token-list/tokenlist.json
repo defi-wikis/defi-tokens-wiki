@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:18:02.440Z",
+    "timestamp": "2020-10-07T10:22:35.298Z",
     "version": {
         "major": 1,
-        "minor": 5031,
+        "minor": 5032,
         "patch": 0
     },
     "keywords": [
@@ -25030,6 +25030,13 @@
             "name": "Doot.Finance",
             "symbol": "DOOT",
             "address": "0x9747865E74d7bfbD6e1C54683e2d9edB32f84C9C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yplutus.finance",
+            "symbol": "YPLT",
+            "address": "0x2e2d43C764eFA2Ee7d06B4A64F2024E1f19B2F2d",
             "decimals": 18
         }
     ]
