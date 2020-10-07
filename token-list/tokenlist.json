@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:08:25.957Z",
+    "timestamp": "2020-10-07T10:13:02.525Z",
     "version": {
         "major": 1,
-        "minor": 5026,
+        "minor": 5027,
         "patch": 0
     },
     "keywords": [
@@ -24995,6 +24995,13 @@
             "name": "NiFTY Collectibles",
             "symbol": "NiFTY",
             "address": "0x8A7FAF4025cE3e8978476c1eFBdfE65D3A57f43d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0xA02A5eB7d3E5B3Cc3e3CF472a13Da0503535e758",
             "decimals": 18
         }
     ]
