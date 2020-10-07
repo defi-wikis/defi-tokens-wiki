@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T22:48:45.935Z",
+    "timestamp": "2020-10-07T23:03:01.943Z",
     "version": {
         "major": 1,
-        "minor": 5139,
+        "minor": 5140,
         "patch": 0
     },
     "keywords": [
@@ -25786,6 +25786,13 @@
             "name": "Yearn Finance Universal ",
             "symbol": "YFU",
             "address": "0xF3999CE8Bb9dC946EB4cd893Cc0679b0438EFae3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LunaCore",
+            "symbol": "LUCO",
+            "address": "0xca55afecc9e5D8c00deAcCAabFE947A70aF577FF",
             "decimals": 18
         }
     ]
