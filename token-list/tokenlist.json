@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:14:36.323Z",
+    "timestamp": "2020-10-07T16:15:46.381Z",
     "version": {
         "major": 1,
-        "minor": 5082,
+        "minor": 5083,
         "patch": 0
     },
     "keywords": [
@@ -25387,6 +25387,13 @@
             "name": "Nakos",
             "symbol": "NKS",
             "address": "0x5cA9F6AdCf0F778cC26857120FE97c46527799bd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Encores Token",
+            "symbol": "ENC",
+            "address": "0x1685D2bc34CE3D953688E8D093ce127cC3B92185",
             "decimals": 18
         }
     ]
