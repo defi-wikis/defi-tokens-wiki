@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T13:14:35.330Z",
+    "timestamp": "2020-10-07T13:34:02.223Z",
     "version": {
         "major": 1,
-        "minor": 5049,
+        "minor": 5050,
         "patch": 0
     },
     "keywords": [
@@ -25156,6 +25156,13 @@
             "name": "HASH Finance",
             "symbol": "HASH",
             "address": "0x82F465852F7b7760c4FC2308c63e8fcec9923cD9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SandwichToken",
+            "symbol": "SWH",
+            "address": "0x577d3f944020f3a30423a884FABfA58edc0DE110",
             "decimals": 18
         }
     ]
