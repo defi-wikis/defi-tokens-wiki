@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:35:44.752Z",
+    "timestamp": "2020-10-07T15:46:39.811Z",
     "version": {
         "major": 1,
-        "minor": 5075,
+        "minor": 5076,
         "patch": 0
     },
     "keywords": [
@@ -25338,6 +25338,13 @@
             "name": "Flysio",
             "symbol": "FLY",
             "address": "0x1BB7680EB76d11062853eCD9dB7cDF9fd8d2952d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FINANCE FOR LOANERS",
+            "symbol": "FFL",
+            "address": "0x952c0BF58DEd4F169e4e38B1dA2f687e80317214",
             "decimals": 18
         }
     ]
