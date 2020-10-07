@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T14:27:45.152Z",
+    "timestamp": "2020-10-07T14:31:45.543Z",
     "version": {
         "major": 1,
-        "minor": 5060,
+        "minor": 5061,
         "patch": 0
     },
     "keywords": [
@@ -25233,6 +25233,13 @@
             "name": "YFICORE",
             "symbol": "YCORE",
             "address": "0xcEaB792B148bB9253a019A628A1da2Dd2dd5b125",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ICP protocol",
+            "symbol": "ICP",
+            "address": "0x7670A82519D8b5B144F20203b1554eAef7899768",
             "decimals": 18
         }
     ]
