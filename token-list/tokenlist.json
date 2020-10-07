@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T03:29:34.929Z",
+    "timestamp": "2020-10-07T03:54:17.565Z",
     "version": {
         "major": 1,
-        "minor": 4990,
+        "minor": 4991,
         "patch": 0
     },
     "keywords": [
@@ -24743,6 +24743,13 @@
             "name": "ZETA",
             "symbol": "ZETA",
             "address": "0x6226392cf37FA359Bfa58C9Cb3d66a5f96083eB6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Big Profit Finance",
+            "symbol": "BPF",
+            "address": "0x3DaE9991d97d0B98F83b0462A34Ec4F68527ff41",
             "decimals": 18
         }
     ]
