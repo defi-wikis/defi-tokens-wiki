@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:06:16.716Z",
+    "timestamp": "2020-10-07T10:08:25.957Z",
     "version": {
         "major": 1,
-        "minor": 5025,
+        "minor": 5026,
         "patch": 0
     },
     "keywords": [
@@ -24988,6 +24988,13 @@
             "name": "yplutus.finance",
             "symbol": "yPLT",
             "address": "0x40E7705254494a7E61D5b7c86da50225DDc3DaAE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NiFTY Collectibles",
+            "symbol": "NiFTY",
+            "address": "0x8A7FAF4025cE3e8978476c1eFBdfE65D3A57f43d",
             "decimals": 18
         }
     ]
