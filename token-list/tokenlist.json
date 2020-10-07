@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T20:25:40.550Z",
+    "timestamp": "2020-10-07T20:28:54.807Z",
     "version": {
         "major": 1,
-        "minor": 5121,
+        "minor": 5122,
         "patch": 0
     },
     "keywords": [
@@ -25661,6 +25661,13 @@
             "symbol": "TINA",
             "address": "0xd9509780E8f4464B71a4Fecc0F6c77545CbaAB98",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sapien Network",
+            "symbol": "SPN",
+            "address": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+            "decimals": 6
         }
     ]
 }
