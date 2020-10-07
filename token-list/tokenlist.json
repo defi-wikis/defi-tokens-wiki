@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T21:18:40.146Z",
+    "timestamp": "2020-10-07T21:25:15.261Z",
     "version": {
         "major": 1,
-        "minor": 5129,
+        "minor": 5130,
         "patch": 0
     },
     "keywords": [
@@ -25717,6 +25717,13 @@
             "symbol": "ECT",
             "address": "0xB747b058f122bd2bb72FA1A0F94A8A3D7d450a00",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "BOBO",
+            "symbol": "BOBO",
+            "address": "0xEABFF7e19c857F50a1bc98367f950e77ec00aA3b",
+            "decimals": 18
         }
     ]
 }
