@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T22:34:10.988Z",
+    "timestamp": "2020-10-07T22:47:30.963Z",
     "version": {
         "major": 1,
-        "minor": 5137,
+        "minor": 5138,
         "patch": 0
     },
     "keywords": [
@@ -25772,6 +25772,13 @@
             "name": "yif.finance",
             "symbol": "YIF",
             "address": "0xBeeaDc4229B1F6415d7Fe86Ee98Dfd182cB150b3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ASCEND",
+            "symbol": "ASC",
+            "address": "0x1865fa1E115157f555FDbE931Ce35DF4611991Ee",
             "decimals": 18
         }
     ]
