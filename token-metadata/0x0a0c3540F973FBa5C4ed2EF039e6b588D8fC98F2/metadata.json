@@ -1,0 +1,7 @@
+{
+    "name": "BatToken",
+    "symbol": "BAT",
+    "address": "0x0a0c3540F973FBa5C4ed2EF039e6b588D8fC98F2",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
