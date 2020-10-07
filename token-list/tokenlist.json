@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:28:44.701Z",
+    "timestamp": "2020-10-07T15:30:11.222Z",
     "version": {
         "major": 1,
-        "minor": 5071,
+        "minor": 5072,
         "patch": 0
     },
     "keywords": [
@@ -25311,6 +25311,13 @@
             "symbol": "MOOV",
             "address": "0x87Be46e2E8D1B241d01Ede87c27866fF94aDf54F",
             "decimals": 5
+        },
+        {
+            "chainId": 1,
+            "name": "Social Rocket",
+            "symbol": "$ROCKS",
+            "address": "0x3781F674538FeF2D015963c3A84D445427Bf75d9",
+            "decimals": 18
         }
     ]
 }
