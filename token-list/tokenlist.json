@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T20:05:11.401Z",
+    "timestamp": "2020-10-07T20:05:25.149Z",
     "version": {
         "major": 1,
-        "minor": 5118,
+        "minor": 5119,
         "patch": 0
     },
     "keywords": [
@@ -25639,6 +25639,13 @@
             "name": "PEW PEW PEW",
             "symbol": "$PEW",
             "address": "0x892091bDd49FE955859D4bbB8a9A2B7685CCec82",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sogur",
+            "symbol": "SGR",
+            "address": "0xAEa8e1b6CB5c05D1dAc618551C76bcD578EA3524",
             "decimals": 18
         }
     ]
