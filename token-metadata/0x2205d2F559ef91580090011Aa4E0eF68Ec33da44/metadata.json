@@ -1,0 +1,7 @@
+{
+    "name": "normalized Tether USD",
+    "symbol": "nUSDT",
+    "address": "0x2205d2F559ef91580090011Aa4E0eF68Ec33da44",
+    "decimals": 6,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
