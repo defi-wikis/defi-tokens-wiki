@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T12:59:40.154Z",
+    "timestamp": "2020-10-07T13:08:02.833Z",
     "version": {
         "major": 1,
-        "minor": 5047,
+        "minor": 5048,
         "patch": 0
     },
     "keywords": [
@@ -25142,6 +25142,13 @@
             "name": "DokiDoki.Finance",
             "symbol": "DOKI",
             "address": "0xc8818232334CBdeb17a323fd028D513702abb8FA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Medusa",
+            "symbol": "Mda",
+            "address": "0xB9206E2DbDA30d0605Aafe7e33dc2d88cc261044",
             "decimals": 18
         }
     ]
