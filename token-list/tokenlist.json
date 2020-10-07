@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T05:33:35.269Z",
+    "timestamp": "2020-10-07T05:45:22.964Z",
     "version": {
         "major": 1,
-        "minor": 4999,
+        "minor": 5000,
         "patch": 0
     },
     "keywords": [
@@ -24807,6 +24807,13 @@
             "symbol": "SPQR",
             "address": "0xdD82841C6829567c146de5800A0BB11703b8eEc1",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Sona Network",
+            "symbol": "SONA",
+            "address": "0x6aC071BD37502d93eBfe7eaEB10EA620cF18D36D",
+            "decimals": 18
         }
     ]
 }
