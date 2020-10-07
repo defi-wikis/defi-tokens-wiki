@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T18:18:14.028Z",
+    "timestamp": "2020-10-07T18:20:42.816Z",
     "version": {
         "major": 1,
-        "minor": 5105,
+        "minor": 5106,
         "patch": 0
     },
     "keywords": [
@@ -25548,6 +25548,13 @@
             "name": "PURE Colombian CryptoCaine",
             "symbol": "PCC",
             "address": "0xA61C1bdEb7c5D9b275409089cf8a0421A1993afb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RottenToken v2.3",
+            "symbol": "ROTS",
+            "address": "0xd8a6D2E208AE3A6Ec95061e3B9a0fdF786c03143",
             "decimals": 18
         }
     ]
