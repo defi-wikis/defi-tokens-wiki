@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T11:42:21.233Z",
+    "timestamp": "2020-10-07T11:42:54.924Z",
     "version": {
         "major": 1,
-        "minor": 5041,
+        "minor": 5042,
         "patch": 0
     },
     "keywords": [
@@ -25100,6 +25100,13 @@
             "name": "normalized Wrapped Ether",
             "symbol": "nWETH",
             "address": "0xE179198Fd42f5De1a04Ffd9a36D6DC428cEB13f7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "whiterock.network",
+            "symbol": "WRN",
+            "address": "0xB75Ac23E9Ea8a79E6BD2638E0b6e133b7f1045Ae",
             "decimals": 18
         }
     ]
