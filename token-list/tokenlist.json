@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:54:45.337Z",
+    "timestamp": "2020-10-07T06:58:59.616Z",
     "version": {
         "major": 1,
-        "minor": 5011,
+        "minor": 5012,
         "patch": 0
     },
     "keywords": [
@@ -24890,6 +24890,13 @@
             "name": "LINKSWAP",
             "symbol": "YFLINK",
             "address": "0x3d5930C697f405303beeCcd870DeF46281E168C8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DegensPumpToken",
+            "symbol": "DGT",
+            "address": "0xB1276cD871914ff0eFD2CF7Af32C4E0752D3b971",
             "decimals": 18
         }
     ]
