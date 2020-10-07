@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:40:15.188Z",
+    "timestamp": "2020-10-07T10:58:14.632Z",
     "version": {
         "major": 1,
-        "minor": 5033,
+        "minor": 5034,
         "patch": 0
     },
     "keywords": [
@@ -25044,6 +25044,13 @@
             "name": "IYF.finance",
             "symbol": "IYF",
             "address": "0xcC600E84B508847A7ac52Cdd941C1D19Edc1FbD3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rise Token",
+            "symbol": "RISE",
+            "address": "0x8B872eAEadCd890e0f75c78a2e2D5c4D5d442dFd",
             "decimals": 18
         }
     ]
