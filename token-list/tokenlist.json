@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:15:46.381Z",
+    "timestamp": "2020-10-07T16:20:58.384Z",
     "version": {
         "major": 1,
-        "minor": 5083,
+        "minor": 5084,
         "patch": 0
     },
     "keywords": [
@@ -25394,6 +25394,13 @@
             "name": "Encores Token",
             "symbol": "ENC",
             "address": "0x1685D2bc34CE3D953688E8D093ce127cC3B92185",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HONEYTOKEN",
+            "symbol": "HONT",
+            "address": "0x0DDE0130709C675C3854021E4B64fA8508f68FE0",
             "decimals": 18
         }
     ]
