@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:22:35.298Z",
+    "timestamp": "2020-10-07T10:40:15.188Z",
     "version": {
         "major": 1,
-        "minor": 5032,
+        "minor": 5033,
         "patch": 0
     },
     "keywords": [
@@ -25037,6 +25037,13 @@
             "name": "yplutus.finance",
             "symbol": "YPLT",
             "address": "0x2e2d43C764eFA2Ee7d06B4A64F2024E1f19B2F2d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "IYF.finance",
+            "symbol": "IYF",
+            "address": "0xcC600E84B508847A7ac52Cdd941C1D19Edc1FbD3",
             "decimals": 18
         }
     ]
