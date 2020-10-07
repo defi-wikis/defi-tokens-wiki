@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T00:08:39.678Z",
+    "timestamp": "2020-10-07T00:19:40.578Z",
     "version": {
         "major": 1,
-        "minor": 4974,
+        "minor": 4975,
         "patch": 0
     },
     "keywords": [
@@ -24631,6 +24631,13 @@
             "name": "Dokidoki finance",
             "symbol": "DOKI",
             "address": "0x02e948419baBd62089CdE512720aCf4f46d8c0a8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dXIOT Token",
+            "symbol": "dXIOT",
+            "address": "0x8b6DD24Bcb2D0aeA92c3AbD4eB11103A5DB6D714",
             "decimals": 18
         }
     ]
