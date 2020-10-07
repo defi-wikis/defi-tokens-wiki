@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:51:16.934Z",
+    "timestamp": "2020-10-07T16:57:51.542Z",
     "version": {
         "major": 1,
-        "minor": 5089,
+        "minor": 5090,
         "patch": 0
     },
     "keywords": [
@@ -25436,6 +25436,13 @@
             "name": "Strawberry.finance",
             "symbol": "STRAW",
             "address": "0xc688EDb0D45cbED4E45E6c0490b3a0bfE384f462",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xfinances",
+            "symbol": "XFIS",
+            "address": "0xC29A09F78F81b54E09B07095c36b24B3E8DD96d0",
             "decimals": 18
         }
     ]
