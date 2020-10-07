@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T22:15:30.389Z",
+    "timestamp": "2020-10-07T22:24:35.176Z",
     "version": {
         "major": 1,
-        "minor": 5135,
+        "minor": 5136,
         "patch": 0
     },
     "keywords": [
@@ -25758,6 +25758,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x406680d991F8d119dd7050Eb6148624f76FBeDc0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Moon",
+            "symbol": "MOON",
+            "address": "0xa58cCE7dc14680456Aede6338ebE403Fb259e6C7",
             "decimals": 18
         }
     ]
