@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:27:07.490Z",
+    "timestamp": "2020-10-07T19:28:19.927Z",
     "version": {
         "major": 1,
-        "minor": 5111,
+        "minor": 5112,
         "patch": 0
     },
     "keywords": [
@@ -25590,6 +25590,13 @@
             "name": "Democrat Party",
             "symbol": "DEMOC",
             "address": "0x6DA524e7404BDb2F3AC7D9563bF22DB2eBA187Ca",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wise Token",
+            "symbol": "WISE",
+            "address": "0x9506720D769b0eB11B94B8280176Df705431497F",
             "decimals": 18
         }
     ]
