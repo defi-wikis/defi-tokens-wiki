@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T20:28:54.807Z",
+    "timestamp": "2020-10-07T20:28:59.499Z",
     "version": {
         "major": 1,
-        "minor": 5122,
+        "minor": 5123,
         "patch": 0
     },
     "keywords": [
@@ -25668,6 +25668,13 @@
             "symbol": "SPN",
             "address": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Belarus",
+            "symbol": "BLR",
+            "address": "0xAeCa36bed2730D037e5BBE0A9442aC59b14F8Fcb",
+            "decimals": 18
         }
     ]
 }
