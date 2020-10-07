@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:32:56.675Z",
+    "timestamp": "2020-10-07T16:34:46.172Z",
     "version": {
         "major": 1,
-        "minor": 5086,
+        "minor": 5087,
         "patch": 0
     },
     "keywords": [
@@ -25415,6 +25415,13 @@
             "name": "YEARN FINANCE DeFi CRAZE",
             "symbol": "YFDC",
             "address": "0xF494F4F04eF19a884CB9927C13f65fB7A11642f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cyberpunk Finance",
+            "symbol": "CYBER",
+            "address": "0xFF9B08a5Ce384847c477C0676a7dEa61bb363313",
             "decimals": 18
         }
     ]
