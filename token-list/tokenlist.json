@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T21:31:35.579Z",
+    "timestamp": "2020-10-07T21:40:21.016Z",
     "version": {
         "major": 1,
-        "minor": 5131,
+        "minor": 5132,
         "patch": 0
     },
     "keywords": [
@@ -25731,6 +25731,13 @@
             "symbol": "TURTLE",
             "address": "0xC3A9810dC2CA1A01e9AB1Bbe70d67605CBFB9486",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HelloGold Token",
+            "symbol": "HGT",
+            "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
+            "decimals": 8
         }
     ]
 }
