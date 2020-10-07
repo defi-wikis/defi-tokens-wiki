@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T14:31:45.543Z",
+    "timestamp": "2020-10-07T14:45:22.079Z",
     "version": {
         "major": 1,
-        "minor": 5061,
+        "minor": 5062,
         "patch": 0
     },
     "keywords": [
@@ -25240,6 +25240,13 @@
             "name": "ICP protocol",
             "symbol": "ICP",
             "address": "0x7670A82519D8b5B144F20203b1554eAef7899768",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HEX2T",
+            "symbol": "HEX2T",
+            "address": "0x92386C1FC20F1Cd7260f50f90ca8b998E8C69Dd8",
             "decimals": 18
         }
     ]
