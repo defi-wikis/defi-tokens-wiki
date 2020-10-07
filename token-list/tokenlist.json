@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:22:02.399Z",
+    "timestamp": "2020-10-07T15:26:00.017Z",
     "version": {
         "major": 1,
-        "minor": 5069,
+        "minor": 5070,
         "patch": 0
     },
     "keywords": [
@@ -25297,6 +25297,13 @@
             "symbol": "FFL",
             "address": "0x361F9ad1066a3d5B5349a9B1F03c43f7e297271d",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Princess Tears",
+            "symbol": "TEARS",
+            "address": "0xF0B2C3235fC2db3551d68D266daD2696b14ea4FF",
+            "decimals": 18
         }
     ]
 }
