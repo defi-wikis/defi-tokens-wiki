@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T18:08:20.599Z",
+    "timestamp": "2020-10-07T18:09:17.361Z",
     "version": {
         "major": 1,
-        "minor": 5102,
+        "minor": 5103,
         "patch": 0
     },
     "keywords": [
@@ -25527,6 +25527,13 @@
             "name": "LandToken",
             "symbol": "LAND",
             "address": "0xCB33488E741B328d64a0c92FFD8DE9524ca760CE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lager Finance",
+            "symbol": "LAGER",
+            "address": "0xC4376cFdaB7302c47155b8D40c0E1941aE662526",
             "decimals": 18
         }
     ]
