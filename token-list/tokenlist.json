@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T18:09:17.361Z",
+    "timestamp": "2020-10-07T18:15:04.555Z",
     "version": {
         "major": 1,
-        "minor": 5103,
+        "minor": 5104,
         "patch": 0
     },
     "keywords": [
@@ -25534,6 +25534,13 @@
             "name": "Lager Finance",
             "symbol": "LAGER",
             "address": "0xC4376cFdaB7302c47155b8D40c0E1941aE662526",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AhrvoDEEX",
+            "symbol": "RVO",
+            "address": "0x447B9f4823958570670120dBA34820338B1C69E8",
             "decimals": 18
         }
     ]
