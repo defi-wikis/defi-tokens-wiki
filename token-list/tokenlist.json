@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T09:42:20.453Z",
+    "timestamp": "2020-10-07T10:06:16.716Z",
     "version": {
         "major": 1,
-        "minor": 5024,
+        "minor": 5025,
         "patch": 0
     },
     "keywords": [
@@ -24981,6 +24981,13 @@
             "name": "Injective Protocol",
             "symbol": "INJ",
             "address": "0x7f7d34715c22Bc0a55499F555978c090D666cd09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yplutus.finance",
+            "symbol": "yPLT",
+            "address": "0x40E7705254494a7E61D5b7c86da50225DDc3DaAE",
             "decimals": 18
         }
     ]
