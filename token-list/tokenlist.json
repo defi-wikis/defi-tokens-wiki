@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T13:59:51.121Z",
+    "timestamp": "2020-10-07T14:02:25.647Z",
     "version": {
         "major": 1,
-        "minor": 5055,
+        "minor": 5056,
         "patch": 0
     },
     "keywords": [
@@ -25199,6 +25199,13 @@
             "symbol": "HODL",
             "address": "0x5F536c628eC956d44BC66eCCa8884F4777451f82",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZCORE",
+            "symbol": "ZCORE",
+            "address": "0x17362c3d69A232a9C0d5741622377694cc6DE928",
+            "decimals": 0
         }
     ]
 }
