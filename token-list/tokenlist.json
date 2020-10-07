@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T02:26:10.417Z",
+    "timestamp": "2020-10-07T02:28:55.155Z",
     "version": {
         "major": 1,
-        "minor": 4984,
+        "minor": 4985,
         "patch": 0
     },
     "keywords": [
@@ -24701,6 +24701,13 @@
             "name": "AKASH.NETWORK",
             "symbol": "AKT",
             "address": "0x7F0EFf4705658706B04D2b47853f3CBe4A218f93",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap Coin",
+            "symbol": "UNCoin",
+            "address": "0xC69B3Fe1e16068Eca10af3bA7342A1c607661374",
             "decimals": 18
         }
     ]
