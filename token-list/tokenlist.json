@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T21:40:21.016Z",
+    "timestamp": "2020-10-07T21:40:25.916Z",
     "version": {
         "major": 1,
-        "minor": 5132,
+        "minor": 5133,
         "patch": 0
     },
     "keywords": [
@@ -25738,6 +25738,13 @@
             "symbol": "HGT",
             "address": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Genesis Vision Token",
+            "symbol": "GVT",
+            "address": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
+            "decimals": 18
         }
     ]
 }
