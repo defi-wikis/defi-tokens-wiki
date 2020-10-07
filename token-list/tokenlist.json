@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T23:03:01.943Z",
+    "timestamp": "2020-10-07T23:07:10.170Z",
     "version": {
         "major": 1,
-        "minor": 5140,
+        "minor": 5141,
         "patch": 0
     },
     "keywords": [
@@ -25793,6 +25793,13 @@
             "name": "LunaCore",
             "symbol": "LUCO",
             "address": "0xca55afecc9e5D8c00deAcCAabFE947A70aF577FF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orb Next Generation",
+            "symbol": "ORBNG",
+            "address": "0x1212BcEea3E2C04e0fB85fD4D9dddcDE995a7788",
             "decimals": 18
         }
     ]
