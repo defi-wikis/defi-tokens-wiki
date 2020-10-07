@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T14:45:22.079Z",
+    "timestamp": "2020-10-07T14:46:14.689Z",
     "version": {
         "major": 1,
-        "minor": 5062,
+        "minor": 5063,
         "patch": 0
     },
     "keywords": [
@@ -25247,6 +25247,13 @@
             "name": "HEX2T",
             "symbol": "HEX2T",
             "address": "0x92386C1FC20F1Cd7260f50f90ca8b998E8C69Dd8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Swap v2.0",
+            "symbol": "SUSHIB",
+            "address": "0xED5F43902E07C99F2F19e53368ac3B6D50212d97",
             "decimals": 18
         }
     ]
