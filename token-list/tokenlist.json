@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:13:02.525Z",
+    "timestamp": "2020-10-07T10:13:15.208Z",
     "version": {
         "major": 1,
-        "minor": 5027,
+        "minor": 5028,
         "patch": 0
     },
     "keywords": [
@@ -25002,6 +25002,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0xA02A5eB7d3E5B3Cc3e3CF472a13Da0503535e758",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GameSwap",
+            "symbol": "GSWAP",
+            "address": "0x3626C81082Db291B708de7d5334F5C7D4E4B8e0b",
             "decimals": 18
         }
     ]
