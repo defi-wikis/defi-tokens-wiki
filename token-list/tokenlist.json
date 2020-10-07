@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:18:15.419Z",
+    "timestamp": "2020-10-07T17:37:08.967Z",
     "version": {
         "major": 1,
-        "minor": 5094,
+        "minor": 5095,
         "patch": 0
     },
     "keywords": [
@@ -25471,6 +25471,13 @@
             "name": "SheepToken",
             "symbol": "SHEEP",
             "address": "0xCa5c8952E4D5e42d40659FF96BF425254113271e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PEACECOIN",
+            "symbol": "PCC",
+            "address": "0x94A073e296F9113B887257233fe0fA846320e912",
             "decimals": 18
         }
     ]
