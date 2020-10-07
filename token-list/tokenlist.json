@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:57:47.009Z",
+    "timestamp": "2020-10-07T17:58:15.225Z",
     "version": {
         "major": 1,
-        "minor": 5098,
+        "minor": 5099,
         "patch": 0
     },
     "keywords": [
@@ -25499,6 +25499,13 @@
             "name": "Igel Protocol",
             "symbol": "IGEL",
             "address": "0x1A24899DE8e644B97a93A29fAf6888FEff419585",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ODIN",
+            "symbol": "ODIN",
+            "address": "0x1871305D2efA0ee0D0d131023Eb1bAdCaA43799d",
             "decimals": 18
         }
     ]
