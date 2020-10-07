@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T02:28:55.155Z",
+    "timestamp": "2020-10-07T02:38:59.848Z",
     "version": {
         "major": 1,
-        "minor": 4985,
+        "minor": 4986,
         "patch": 0
     },
     "keywords": [
@@ -24708,6 +24708,13 @@
             "name": "Uniswap Coin",
             "symbol": "UNCoin",
             "address": "0xC69B3Fe1e16068Eca10af3bA7342A1c607661374",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Top Shelf Finance",
+            "symbol": "TSF",
+            "address": "0xc4289Eb77FB700d0301bF634034E47E39c82BC7e",
             "decimals": 18
         }
     ]
