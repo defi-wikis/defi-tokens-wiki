@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T03:54:17.565Z",
+    "timestamp": "2020-10-07T04:08:41.474Z",
     "version": {
         "major": 1,
-        "minor": 4991,
+        "minor": 4992,
         "patch": 0
     },
     "keywords": [
@@ -24750,6 +24750,13 @@
             "name": "Big Profit Finance",
             "symbol": "BPF",
             "address": "0x3DaE9991d97d0B98F83b0462A34Ec4F68527ff41",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SMC.DEFI",
+            "symbol": "SMC.DEFI",
+            "address": "0xAc2BAB169e2c020E3FF323d1a18866f7C43B58aD",
             "decimals": 18
         }
     ]
