@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T14:03:26.619Z",
+    "timestamp": "2020-10-07T14:19:40.949Z",
     "version": {
         "major": 1,
-        "minor": 5058,
+        "minor": 5059,
         "patch": 0
     },
     "keywords": [
@@ -25219,6 +25219,13 @@
             "name": "zyrochain.com",
             "symbol": "ZYRO",
             "address": "0xBfd5bda4627b31E0ED075d6b1e90a09474233852",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CORE FARMING",
+            "symbol": "FCORE",
+            "address": "0xb31f9F7A86c53a8b92b469B36b0811211A6592Ef",
             "decimals": 18
         }
     ]
