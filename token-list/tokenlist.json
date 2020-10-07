@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:09:45.005Z",
+    "timestamp": "2020-10-07T16:14:36.323Z",
     "version": {
         "major": 1,
-        "minor": 5081,
+        "minor": 5082,
         "patch": 0
     },
     "keywords": [
@@ -25380,6 +25380,13 @@
             "name": "Pickle Finance v2.1",
             "symbol": "PICKLES",
             "address": "0x948aDb4087929D119964D3d783b28E91E1160dEf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nakos",
+            "symbol": "NKS",
+            "address": "0x5cA9F6AdCf0F778cC26857120FE97c46527799bd",
             "decimals": 18
         }
     ]
