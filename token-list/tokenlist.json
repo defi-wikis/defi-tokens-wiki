@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:29:55.963Z",
+    "timestamp": "2020-10-07T06:46:54.816Z",
     "version": {
         "major": 1,
-        "minor": 5008,
+        "minor": 5009,
         "patch": 0
     },
     "keywords": [
@@ -24869,6 +24869,13 @@
             "name": "RAC.MONEY DAO",
             "symbol": "RACM",
             "address": "0xb0961547b81789C0D3939788AAB1B4FB3F3c367D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SiriusGamble",
+            "symbol": "SRSG",
+            "address": "0x56a570Eb039d87525EA520371B3b3b12262224b1",
             "decimals": 18
         }
     ]
