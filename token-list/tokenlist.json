@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:05:46.077Z",
+    "timestamp": "2020-10-07T06:11:54.666Z",
     "version": {
         "major": 1,
-        "minor": 5003,
+        "minor": 5004,
         "patch": 0
     },
     "keywords": [
@@ -24835,6 +24835,13 @@
             "symbol": "lWLT",
             "address": "0x08B7F2D3647b5eC70e8bBcDeAe09Fde189F9DA70",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NANO Links",
+            "symbol": "NANO",
+            "address": "0x506fC66AA4B870FE3cd86c0b033822ec5D2Df396",
+            "decimals": 8
         }
     ]
 }
