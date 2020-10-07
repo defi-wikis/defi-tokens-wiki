@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T21:25:15.261Z",
+    "timestamp": "2020-10-07T21:31:35.579Z",
     "version": {
         "major": 1,
-        "minor": 5130,
+        "minor": 5131,
         "patch": 0
     },
     "keywords": [
@@ -25723,6 +25723,13 @@
             "name": "BOBO",
             "symbol": "BOBO",
             "address": "0xEABFF7e19c857F50a1bc98367f950e77ec00aA3b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TurtleSwap.org",
+            "symbol": "TURTLE",
+            "address": "0xC3A9810dC2CA1A01e9AB1Bbe70d67605CBFB9486",
             "decimals": 18
         }
     ]
