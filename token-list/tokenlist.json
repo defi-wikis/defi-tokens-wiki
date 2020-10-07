@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:58:15.225Z",
+    "timestamp": "2020-10-07T17:59:16.667Z",
     "version": {
         "major": 1,
-        "minor": 5099,
+        "minor": 5100,
         "patch": 0
     },
     "keywords": [
@@ -25506,6 +25506,13 @@
             "name": "ODIN",
             "symbol": "ODIN",
             "address": "0x1871305D2efA0ee0D0d131023Eb1bAdCaA43799d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DefixNetwork.io",
+            "symbol": "DEFIX",
+            "address": "0x49706F1F903528EfCBC875eF1600e450235999D8",
             "decimals": 18
         }
     ]
