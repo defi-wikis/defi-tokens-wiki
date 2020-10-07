@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T20:09:15.003Z",
+    "timestamp": "2020-10-07T20:25:40.550Z",
     "version": {
         "major": 1,
-        "minor": 5120,
+        "minor": 5121,
         "patch": 0
     },
     "keywords": [
@@ -25653,6 +25653,13 @@
             "name": "123",
             "symbol": "123",
             "address": "0x53388c05B1778f31a5f5fC48291EB036E5e156F1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tina Network",
+            "symbol": "TINA",
+            "address": "0xd9509780E8f4464B71a4Fecc0F6c77545CbaAB98",
             "decimals": 18
         }
     ]
