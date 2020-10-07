@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:37:08.967Z",
+    "timestamp": "2020-10-07T17:54:14.100Z",
     "version": {
         "major": 1,
-        "minor": 5095,
+        "minor": 5096,
         "patch": 0
     },
     "keywords": [
@@ -25478,6 +25478,13 @@
             "name": "PEACECOIN",
             "symbol": "PCC",
             "address": "0x94A073e296F9113B887257233fe0fA846320e912",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ClinTex.Finance",
+            "symbol": "CTi",
+            "address": "0x02Aa56a0FCd57A57b934cfF6E5274915DdFbe14C",
             "decimals": 18
         }
     ]
