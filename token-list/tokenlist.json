@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:58:14.632Z",
+    "timestamp": "2020-10-07T11:09:55.843Z",
     "version": {
         "major": 1,
-        "minor": 5034,
+        "minor": 5035,
         "patch": 0
     },
     "keywords": [
@@ -25051,6 +25051,13 @@
             "name": "Rise Token",
             "symbol": "RISE",
             "address": "0x8B872eAEadCd890e0f75c78a2e2D5c4D5d442dFd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Spark Finance",
+            "symbol": "SPARK",
+            "address": "0x8d06d1dCD002C63BCE39507910A6791079DF6fdb",
             "decimals": 18
         }
     ]
