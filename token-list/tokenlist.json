@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T05:07:46.717Z",
+    "timestamp": "2020-10-07T05:07:50.263Z",
     "version": {
         "major": 1,
-        "minor": 4996,
+        "minor": 4997,
         "patch": 0
     },
     "keywords": [
@@ -24785,6 +24785,13 @@
             "name": "Mortgage Loan Finance",
             "symbol": "MLF",
             "address": "0xC2Fa1b924d3e08FAD60890772990D046ee38de2e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "qubittech.ai",
+            "symbol": "QUB",
+            "address": "0x9c29Fc0d63ce0CD7A35fFAc13e23e55Cfe53Ef35",
             "decimals": 18
         }
     ]
