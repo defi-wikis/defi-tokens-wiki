@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T02:06:55.761Z",
+    "timestamp": "2020-10-07T02:25:54.797Z",
     "version": {
         "major": 1,
-        "minor": 4982,
+        "minor": 4983,
         "patch": 0
     },
     "keywords": [
@@ -24687,6 +24687,13 @@
             "name": "Moontest",
             "symbol": "Moontest",
             "address": "0xF94b17e055dE06283C8320E12d2192157Cea6616",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eVault.Finance",
+            "symbol": "ENCORE",
+            "address": "0xB4994458dF9A28b02e89b477b5255aF66880785f",
             "decimals": 18
         }
     ]
