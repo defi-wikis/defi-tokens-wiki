@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T08:57:50.427Z",
+    "timestamp": "2020-10-07T09:00:25.519Z",
     "version": {
         "major": 1,
-        "minor": 5021,
+        "minor": 5022,
         "patch": 0
     },
     "keywords": [
@@ -24960,6 +24960,13 @@
             "name": "Quadro Protocol",
             "symbol": "QDR",
             "address": "0x1A348D9bfA7163654Fcc828adDC8B1eCfAefc4Ba",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DegensPumpToken",
+            "symbol": "DPT",
+            "address": "0xBDD5be36333a2443d6c08bc07fDBd3Ba24023aD2",
             "decimals": 18
         }
     ]
