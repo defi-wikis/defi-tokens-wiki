@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:49:46.590Z",
+    "timestamp": "2020-10-07T15:50:11.110Z",
     "version": {
         "major": 1,
-        "minor": 5077,
+        "minor": 5078,
         "patch": 0
     },
     "keywords": [
@@ -25352,6 +25352,13 @@
             "name": "smartswapjoint",
             "symbol": "SWAP",
             "address": "0xcE99f4Fad799D27AA36969a08BB69a5E97DFCCF3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOLK.finance",
+            "symbol": "YOLK",
+            "address": "0x0581e301623E2365f328303208ded04Fc0b154aE",
             "decimals": 18
         }
     ]
