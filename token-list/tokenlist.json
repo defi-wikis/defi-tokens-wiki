@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:35:56.039Z",
+    "timestamp": "2020-10-07T16:51:16.934Z",
     "version": {
         "major": 1,
-        "minor": 5088,
+        "minor": 5089,
         "patch": 0
     },
     "keywords": [
@@ -25430,6 +25430,13 @@
             "symbol": "JBL",
             "address": "0xEd8cc6A3A84E125D928ec6479554f2c866DF6e39",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "Strawberry.finance",
+            "symbol": "STRAW",
+            "address": "0xc688EDb0D45cbED4E45E6c0490b3a0bfE384f462",
+            "decimals": 18
         }
     ]
 }
