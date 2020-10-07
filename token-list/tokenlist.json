@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T14:51:06.818Z",
+    "timestamp": "2020-10-07T15:04:55.061Z",
     "version": {
         "major": 1,
-        "minor": 5065,
+        "minor": 5066,
         "patch": 0
     },
     "keywords": [
@@ -25268,6 +25268,13 @@
             "name": "HONEYTOKEN",
             "symbol": "HONT",
             "address": "0x8dC8a08c8Cb7363357e86aC2f1bBe731e1f16c0e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ENXFI",
+            "symbol": "ENXFI",
+            "address": "0x97EAfAC33d8b060bDaD4CD3784A6ee7790B0BD1b",
             "decimals": 18
         }
     ]
