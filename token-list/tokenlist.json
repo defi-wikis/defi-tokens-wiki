@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T10:13:15.208Z",
+    "timestamp": "2020-10-07T10:13:20.839Z",
     "version": {
         "major": 1,
-        "minor": 5028,
+        "minor": 5029,
         "patch": 0
     },
     "keywords": [
@@ -25009,6 +25009,13 @@
             "name": "GameSwap",
             "symbol": "GSWAP",
             "address": "0x3626C81082Db291B708de7d5334F5C7D4E4B8e0b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "kush.finance",
+            "symbol": "KSEED",
+            "address": "0x67db9ECce2421eb2872F7d67823ae6ECB095b8Dd",
             "decimals": 18
         }
     ]
