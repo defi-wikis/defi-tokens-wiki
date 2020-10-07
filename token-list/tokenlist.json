@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:57:51.542Z",
+    "timestamp": "2020-10-07T17:00:37.475Z",
     "version": {
         "major": 1,
-        "minor": 5090,
+        "minor": 5091,
         "patch": 0
     },
     "keywords": [
@@ -25443,6 +25443,13 @@
             "name": "Xfinances",
             "symbol": "XFIS",
             "address": "0xC29A09F78F81b54E09B07095c36b24B3E8DD96d0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CLR7",
+            "symbol": "CLR7",
+            "address": "0xE4101d014443aF2B7f6F9f603E904adC9Faf0De5",
             "decimals": 18
         }
     ]
