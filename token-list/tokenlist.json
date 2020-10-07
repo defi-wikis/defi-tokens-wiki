@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:26:00.017Z",
+    "timestamp": "2020-10-07T15:28:44.701Z",
     "version": {
         "major": 1,
-        "minor": 5070,
+        "minor": 5071,
         "patch": 0
     },
     "keywords": [
@@ -25304,6 +25304,13 @@
             "symbol": "TEARS",
             "address": "0xF0B2C3235fC2db3551d68D266daD2696b14ea4FF",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoovIt",
+            "symbol": "MOOV",
+            "address": "0x87Be46e2E8D1B241d01Ede87c27866fF94aDf54F",
+            "decimals": 5
         }
     ]
 }
