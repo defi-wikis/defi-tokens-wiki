@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T21:10:02.393Z",
+    "timestamp": "2020-10-07T21:18:40.146Z",
     "version": {
         "major": 1,
-        "minor": 5128,
+        "minor": 5129,
         "patch": 0
     },
     "keywords": [
@@ -25710,6 +25710,13 @@
             "symbol": "SIN",
             "address": "0xF832fc4B41A6E44bdFB02Ac1E35FA09c6fd2a8b2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Elephant Chateau",
+            "symbol": "ECT",
+            "address": "0xB747b058f122bd2bb72FA1A0F94A8A3D7d450a00",
+            "decimals": 4
         }
     ]
 }
