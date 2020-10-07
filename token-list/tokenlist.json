@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T02:56:20.600Z",
+    "timestamp": "2020-10-07T03:14:25.408Z",
     "version": {
         "major": 1,
-        "minor": 4988,
+        "minor": 4989,
         "patch": 0
     },
     "keywords": [
@@ -24729,6 +24729,13 @@
             "name": "DokiDoki",
             "symbol": "DOKI",
             "address": "0x2DFa3e5654F265CbAf702CF3091c0cBB844E941c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CONE Finance",
+            "symbol": "CONE",
+            "address": "0x9ac2199776ec539dF9eCd45e71524c7c67bfCe84",
             "decimals": 18
         }
     ]
