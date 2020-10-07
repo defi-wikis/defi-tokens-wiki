@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T13:58:14.924Z",
+    "timestamp": "2020-10-07T13:59:51.121Z",
     "version": {
         "major": 1,
-        "minor": 5054,
+        "minor": 5055,
         "patch": 0
     },
     "keywords": [
@@ -25191,6 +25191,13 @@
             "name": "Krios/GIG Token",
             "symbol": "GIG",
             "address": "0x838d8e11B160deC88Fe62BF0f743FB7000941e13",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HODLOGIC",
+            "symbol": "HODL",
+            "address": "0x5F536c628eC956d44BC66eCCa8884F4777451f82",
             "decimals": 18
         }
     ]
