@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T08:42:21.047Z",
+    "timestamp": "2020-10-07T08:57:50.427Z",
     "version": {
         "major": 1,
-        "minor": 5020,
+        "minor": 5021,
         "patch": 0
     },
     "keywords": [
@@ -24954,6 +24954,13 @@
             "symbol": "nTrump",
             "address": "0x44Ea84a85616F8e9cD719Fc843DE31D852ad7240",
             "decimals": 15
+        },
+        {
+            "chainId": 1,
+            "name": "Quadro Protocol",
+            "symbol": "QDR",
+            "address": "0x1A348D9bfA7163654Fcc828adDC8B1eCfAefc4Ba",
+            "decimals": 18
         }
     ]
 }
