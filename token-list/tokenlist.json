@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T23:07:10.170Z",
+    "timestamp": "2020-10-07T23:10:02.573Z",
     "version": {
         "major": 1,
-        "minor": 5141,
+        "minor": 5142,
         "patch": 0
     },
     "keywords": [
@@ -25800,6 +25800,13 @@
             "name": "Orb Next Generation",
             "symbol": "ORBNG",
             "address": "0x1212BcEea3E2C04e0fB85fD4D9dddcDE995a7788",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sentinel Chain Token",
+            "symbol": "SENC",
+            "address": "0xA13f0743951B4f6E3e3AA039f682E17279f52bc3",
             "decimals": 18
         }
     ]
