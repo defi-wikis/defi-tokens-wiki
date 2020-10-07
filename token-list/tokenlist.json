@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T11:42:54.924Z",
+    "timestamp": "2020-10-07T12:15:50.740Z",
     "version": {
         "major": 1,
-        "minor": 5042,
+        "minor": 5043,
         "patch": 0
     },
     "keywords": [
@@ -25107,6 +25107,13 @@
             "name": "whiterock.network",
             "symbol": "WRN",
             "address": "0xB75Ac23E9Ea8a79E6BD2638E0b6e133b7f1045Ae",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BUTTER SWAP",
+            "symbol": "BUTTR",
+            "address": "0x0CeaA5079df292aeD82Dc36D8498ff0039710E15",
             "decimals": 18
         }
     ]
