@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T00:59:40.550Z",
+    "timestamp": "2020-10-07T01:03:20.939Z",
     "version": {
         "major": 1,
-        "minor": 4979,
+        "minor": 4980,
         "patch": 0
     },
     "keywords": [
@@ -24666,6 +24666,13 @@
             "name": "Poo.Finance",
             "symbol": "POO",
             "address": "0x4Ece0d7bA45c172e48E28265cb73931d66b82f30",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BatToken",
+            "symbol": "BAT",
+            "address": "0x0a0c3540F973FBa5C4ed2EF039e6b588D8fC98F2",
             "decimals": 18
         }
     ]
