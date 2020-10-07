@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:25:30.216Z",
+    "timestamp": "2020-10-07T19:27:07.490Z",
     "version": {
         "major": 1,
-        "minor": 5110,
+        "minor": 5111,
         "patch": 0
     },
     "keywords": [
@@ -25583,6 +25583,13 @@
             "name": "Republican Party",
             "symbol": "REPUB",
             "address": "0xBa9B2bA22035BFde1a53244C020d329844fcef7B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Democrat Party",
+            "symbol": "DEMOC",
+            "address": "0x6DA524e7404BDb2F3AC7D9563bF22DB2eBA187Ca",
             "decimals": 18
         }
     ]
