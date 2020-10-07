@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:04:17.128Z",
+    "timestamp": "2020-10-07T06:05:46.077Z",
     "version": {
         "major": 1,
-        "minor": 5002,
+        "minor": 5003,
         "patch": 0
     },
     "keywords": [
@@ -24827,6 +24827,13 @@
             "name": "WarLord Knight",
             "symbol": "kWLT",
             "address": "0xdfb73e3721dA66820ea034C05EBe90569847470C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WarLord Legend",
+            "symbol": "lWLT",
+            "address": "0x08B7F2D3647b5eC70e8bBcDeAe09Fde189F9DA70",
             "decimals": 18
         }
     ]
