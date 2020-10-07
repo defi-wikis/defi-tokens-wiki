@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T13:45:45.856Z",
+    "timestamp": "2020-10-07T13:54:25.299Z",
     "version": {
         "major": 1,
-        "minor": 5052,
+        "minor": 5053,
         "patch": 0
     },
     "keywords": [
@@ -25177,6 +25177,13 @@
             "name": "YF PI-3.14 Functional Finance",
             "symbol": "YFPI-3.14",
             "address": "0xb0393FBf63ab60631D7eFF415bb78387adedB628",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Remix 2.1",
+            "symbol": "CRIM",
+            "address": "0xaa6738BEd711279386cD8BC36B1CDE1dA20bF557",
             "decimals": 18
         }
     ]
