@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:49:32.246Z",
+    "timestamp": "2020-10-07T06:54:45.337Z",
     "version": {
         "major": 1,
-        "minor": 5010,
+        "minor": 5011,
         "patch": 0
     },
     "keywords": [
@@ -24883,6 +24883,13 @@
             "name": "Juggernaut",
             "symbol": "JGN",
             "address": "0xfF99E3bA2248fA49793f15951AE49d3082AED0ee",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LINKSWAP",
+            "symbol": "YFLINK",
+            "address": "0x3d5930C697f405303beeCcd870DeF46281E168C8",
             "decimals": 18
         }
     ]
