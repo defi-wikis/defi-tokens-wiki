@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:52:50.344Z",
+    "timestamp": "2020-10-07T20:04:07.622Z",
     "version": {
         "major": 1,
-        "minor": 5116,
+        "minor": 5117,
         "patch": 0
     },
     "keywords": [
@@ -25625,6 +25625,13 @@
             "name": "TOLASTOKEN",
             "symbol": "TOLA",
             "address": "0x58F8fd4Ac4500C2180B1e773622C47184b240672",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Swap v2.1",
+            "symbol": "SUSHII",
+            "address": "0x2c5532576A1612C1c66A0149c1bd4c408AB1Bd59",
             "decimals": 18
         }
     ]
