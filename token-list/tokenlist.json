@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:46:39.811Z",
+    "timestamp": "2020-10-07T15:49:46.590Z",
     "version": {
         "major": 1,
-        "minor": 5076,
+        "minor": 5077,
         "patch": 0
     },
     "keywords": [
@@ -25345,6 +25345,13 @@
             "name": "FINANCE FOR LOANERS",
             "symbol": "FFL",
             "address": "0x952c0BF58DEd4F169e4e38B1dA2f687e80317214",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "smartswapjoint",
+            "symbol": "SWAP",
+            "address": "0xcE99f4Fad799D27AA36969a08BB69a5E97DFCCF3",
             "decimals": 18
         }
     ]
