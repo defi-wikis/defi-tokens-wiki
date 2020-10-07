@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T04:13:27.422Z",
+    "timestamp": "2020-10-07T04:32:44.842Z",
     "version": {
         "major": 1,
-        "minor": 4993,
+        "minor": 4994,
         "patch": 0
     },
     "keywords": [
@@ -24764,6 +24764,13 @@
             "name": "corion.io",
             "symbol": "CorionX",
             "address": "0xe7480AA9EBef88958436ff7c26e57E4B2C2D597F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bull Rally Finance",
+            "symbol": "BRF",
+            "address": "0x49f8Aa0AC5CF3CdC9a363237D298cE9b2E4C385f",
             "decimals": 18
         }
     ]
