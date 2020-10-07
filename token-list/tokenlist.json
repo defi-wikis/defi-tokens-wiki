@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T07:44:39.812Z",
+    "timestamp": "2020-10-07T07:46:14.460Z",
     "version": {
         "major": 1,
-        "minor": 5016,
+        "minor": 5017,
         "patch": 0
     },
     "keywords": [
@@ -24925,6 +24925,13 @@
             "name": "Doki Doki Finance",
             "symbol": "DDT",
             "address": "0xCEfD660Cec8463E285FbF38ac250209b25f940b3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ISWToken",
+            "symbol": "ISW",
+            "address": "0xfd30503375087d6De639bBa83DA9184e59F354A0",
             "decimals": 18
         }
     ]
