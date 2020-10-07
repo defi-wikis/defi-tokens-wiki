@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T02:38:59.848Z",
+    "timestamp": "2020-10-07T02:46:59.884Z",
     "version": {
         "major": 1,
-        "minor": 4986,
+        "minor": 4987,
         "patch": 0
     },
     "keywords": [
@@ -24715,6 +24715,13 @@
             "name": "Top Shelf Finance",
             "symbol": "TSF",
             "address": "0xc4289Eb77FB700d0301bF634034E47E39c82BC7e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/burndrop",
+            "symbol": "BD",
+            "address": "0x83D76C5C4b630e1e8b9343096534ca1bfc5bD6B7",
             "decimals": 18
         }
     ]
