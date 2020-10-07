@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T20:04:07.622Z",
+    "timestamp": "2020-10-07T20:05:11.401Z",
     "version": {
         "major": 1,
-        "minor": 5117,
+        "minor": 5118,
         "patch": 0
     },
     "keywords": [
@@ -25632,6 +25632,13 @@
             "name": "Sushi Swap v2.1",
             "symbol": "SUSHII",
             "address": "0x2c5532576A1612C1c66A0149c1bd4c408AB1Bd59",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PEW PEW PEW",
+            "symbol": "$PEW",
+            "address": "0x892091bDd49FE955859D4bbB8a9A2B7685CCec82",
             "decimals": 18
         }
     ]
