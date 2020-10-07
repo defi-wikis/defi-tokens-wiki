@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:24:15.714Z",
+    "timestamp": "2020-10-07T19:25:30.216Z",
     "version": {
         "major": 1,
-        "minor": 5109,
+        "minor": 5110,
         "patch": 0
     },
     "keywords": [
@@ -25576,6 +25576,13 @@
             "name": "SocialToken",
             "symbol": "SOLT",
             "address": "0x6de6CccDF26F5161eBf5689cf6F7Cdb09BA7ca75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Republican Party",
+            "symbol": "REPUB",
+            "address": "0xBa9B2bA22035BFde1a53244C020d329844fcef7B",
             "decimals": 18
         }
     ]
