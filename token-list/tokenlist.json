@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T21:48:35.465Z",
+    "timestamp": "2020-10-07T22:15:30.389Z",
     "version": {
         "major": 1,
-        "minor": 5134,
+        "minor": 5135,
         "patch": 0
     },
     "keywords": [
@@ -25751,6 +25751,13 @@
             "name": "LunaCore",
             "symbol": "LUCO",
             "address": "0x1d1DaD28770aD8AF00BBFc71Fad222a3AAEf7148",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x406680d991F8d119dd7050Eb6148624f76FBeDc0",
             "decimals": 18
         }
     ]
