@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:22:08.423Z",
+    "timestamp": "2020-10-07T06:25:11.477Z",
     "version": {
         "major": 1,
-        "minor": 5006,
+        "minor": 5007,
         "patch": 0
     },
     "keywords": [
@@ -24855,6 +24855,13 @@
             "name": "DeXe.network",
             "symbol": "DeXe",
             "address": "0x5f972025a98FE8DCD20da34d621d7760a5D47d70",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ziliam Network",
+            "symbol": "ZIL",
+            "address": "0x385b6833813C63dF442D6f98475a8cCA104a9A6B",
             "decimals": 18
         }
     ]
