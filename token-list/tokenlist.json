@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T00:37:25.717Z",
+    "timestamp": "2020-10-07T00:40:49.905Z",
     "version": {
         "major": 1,
-        "minor": 4976,
+        "minor": 4977,
         "patch": 0
     },
     "keywords": [
@@ -24645,6 +24645,13 @@
             "name": "Time",
             "symbol": "Time",
             "address": "0xe038ad1B48d4bF5a1F862004b13D56ffF0554a27",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Original 1/1 Gandoodle",
+            "symbol": "STINA",
+            "address": "0xa38C58E9B05EE4f22633ECaEdC6f7692f1BDAf9E",
             "decimals": 18
         }
     ]
