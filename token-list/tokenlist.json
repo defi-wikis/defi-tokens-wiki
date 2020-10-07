@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:59:16.667Z",
+    "timestamp": "2020-10-07T17:59:51.427Z",
     "version": {
         "major": 1,
-        "minor": 5100,
+        "minor": 5101,
         "patch": 0
     },
     "keywords": [
@@ -25513,6 +25513,13 @@
             "name": "DefixNetwork.io",
             "symbol": "DEFIX",
             "address": "0x49706F1F903528EfCBC875eF1600e450235999D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UrbanKash",
+            "symbol": "URBK",
+            "address": "0x846F81AdC909679a1e37A6a2B44D51cD448A8364",
             "decimals": 18
         }
     ]
