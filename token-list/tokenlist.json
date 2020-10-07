@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T20:51:06.666Z",
+    "timestamp": "2020-10-07T20:59:59.990Z",
     "version": {
         "major": 1,
-        "minor": 5125,
+        "minor": 5126,
         "patch": 0
     },
     "keywords": [
@@ -25688,6 +25688,13 @@
             "name": "CandyToken",
             "symbol": "CANDY",
             "address": "0x2c2c34d8D4A3567b976E6a321bb1B8d02EC765e2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Earn Bitcoin Finance",
+            "symbol": "EDBTC",
+            "address": "0x0F17377Bb5d67Bbf1a88413CcBea3CDC847Caad4",
             "decimals": 18
         }
     ]
