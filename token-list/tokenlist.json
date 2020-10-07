@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T08:22:20.391Z",
+    "timestamp": "2020-10-07T08:42:21.047Z",
     "version": {
         "major": 1,
-        "minor": 5019,
+        "minor": 5020,
         "patch": 0
     },
     "keywords": [
@@ -24947,6 +24947,13 @@
             "symbol": "WRN",
             "address": "0x0F68AA586D41FD15D42077c562Ac5F44DC2D1511",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NO Donald Trump",
+            "symbol": "nTrump",
+            "address": "0x44Ea84a85616F8e9cD719Fc843DE31D852ad7240",
+            "decimals": 15
         }
     ]
 }
