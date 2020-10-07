@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T07:03:54.716Z",
+    "timestamp": "2020-10-07T07:06:40.180Z",
     "version": {
         "major": 1,
-        "minor": 5013,
+        "minor": 5014,
         "patch": 0
     },
     "keywords": [
@@ -24904,6 +24904,13 @@
             "name": "YouEarn Token",
             "symbol": "YEF",
             "address": "0x318447B617B26688f9B7aC98d0C4C06eeC086Eb7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YIF LEARN",
+            "symbol": "YIF",
+            "address": "0x956d7b842e9e74365B25d1dC22BB9b9531F32dD4",
             "decimals": 18
         }
     ]
