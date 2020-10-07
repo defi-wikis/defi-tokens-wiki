@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:09:31.778Z",
+    "timestamp": "2020-10-07T17:18:15.419Z",
     "version": {
         "major": 1,
-        "minor": 5093,
+        "minor": 5094,
         "patch": 0
     },
     "keywords": [
@@ -25464,6 +25464,13 @@
             "name": "Silver Mining Token",
             "symbol": "SMT",
             "address": "0x2836e79FF48705B28CF498A9EfbA02c84E048926",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SheepToken",
+            "symbol": "SHEEP",
+            "address": "0xCa5c8952E4D5e42d40659FF96BF425254113271e",
             "decimals": 18
         }
     ]
