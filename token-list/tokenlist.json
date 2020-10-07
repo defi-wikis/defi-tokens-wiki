@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T19:29:54.845Z",
+    "timestamp": "2020-10-07T19:32:15.829Z",
     "version": {
         "major": 1,
-        "minor": 5113,
+        "minor": 5114,
         "patch": 0
     },
     "keywords": [
@@ -25604,6 +25604,13 @@
             "name": "TurtleSwap.org",
             "symbol": "TURTLE",
             "address": "0x0a312995811CEe77E3e2eb3e017BffdC7fe6b165",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Project Unity",
+            "symbol": "UNITY",
+            "address": "0xfE80f358AbF9Bb4df9408f7a2a018De37560E037",
             "decimals": 18
         }
     ]
