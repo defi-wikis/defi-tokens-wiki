@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T14:46:14.689Z",
+    "timestamp": "2020-10-07T14:50:30.860Z",
     "version": {
         "major": 1,
-        "minor": 5063,
+        "minor": 5064,
         "patch": 0
     },
     "keywords": [
@@ -25254,6 +25254,13 @@
             "name": "Sushi Swap v2.0",
             "symbol": "SUSHIB",
             "address": "0xED5F43902E07C99F2F19e53368ac3B6D50212d97",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NiceToken",
+            "symbol": "NICE",
+            "address": "0x53F64bE99Da00fec224EAf9f8ce2012149D2FC88",
             "decimals": 18
         }
     ]
