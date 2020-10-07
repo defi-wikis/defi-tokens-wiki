@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T09:11:20.693Z",
+    "timestamp": "2020-10-07T09:42:20.453Z",
     "version": {
         "major": 1,
-        "minor": 5023,
+        "minor": 5024,
         "patch": 0
     },
     "keywords": [
@@ -24974,6 +24974,13 @@
             "name": "Trump Covid - % rates",
             "symbol": "TrumpCovid",
             "address": "0xecCEEF2c5665174EC843D802f27Ad3A64d40D3cd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Injective Protocol",
+            "symbol": "INJ",
+            "address": "0x7f7d34715c22Bc0a55499F555978c090D666cd09",
             "decimals": 18
         }
     ]
