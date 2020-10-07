@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T02:46:59.884Z",
+    "timestamp": "2020-10-07T02:56:20.600Z",
     "version": {
         "major": 1,
-        "minor": 4987,
+        "minor": 4988,
         "patch": 0
     },
     "keywords": [
@@ -24722,6 +24722,13 @@
             "name": "t.me/burndrop",
             "symbol": "BD",
             "address": "0x83D76C5C4b630e1e8b9343096534ca1bfc5bD6B7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DokiDoki",
+            "symbol": "DOKI",
+            "address": "0x2DFa3e5654F265CbAf702CF3091c0cBB844E941c",
             "decimals": 18
         }
     ]
