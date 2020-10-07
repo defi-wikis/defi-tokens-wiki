@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T07:46:14.460Z",
+    "timestamp": "2020-10-07T08:17:07.288Z",
     "version": {
         "major": 1,
-        "minor": 5017,
+        "minor": 5018,
         "patch": 0
     },
     "keywords": [
@@ -24932,6 +24932,13 @@
             "name": "ISWToken",
             "symbol": "ISW",
             "address": "0xfd30503375087d6De639bBa83DA9184e59F354A0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PASSPORT.FINANCE",
+            "symbol": "PASS",
+            "address": "0xC63A96fA73bE0b71A79c6a9aa3Af3E161dc158B4",
             "decimals": 18
         }
     ]
