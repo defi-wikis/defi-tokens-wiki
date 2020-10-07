@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:31:55.299Z",
+    "timestamp": "2020-10-07T15:35:07.089Z",
     "version": {
         "major": 1,
-        "minor": 5073,
+        "minor": 5074,
         "patch": 0
     },
     "keywords": [
@@ -25324,6 +25324,13 @@
             "name": "NEXA Token",
             "symbol": "NEXA",
             "address": "0x47C8Cf7fC6C5Fd31B6f8952A37645EF5a4301F73",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HONEYTOKEN",
+            "symbol": "HONT",
+            "address": "0xAA5Ae14E6122176D626D732b7Dad38A4F9418883",
             "decimals": 18
         }
     ]
