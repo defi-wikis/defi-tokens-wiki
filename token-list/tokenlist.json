@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T15:50:11.110Z",
+    "timestamp": "2020-10-07T15:52:40.273Z",
     "version": {
         "major": 1,
-        "minor": 5078,
+        "minor": 5079,
         "patch": 0
     },
     "keywords": [
@@ -25359,6 +25359,13 @@
             "name": "YOLK.finance",
             "symbol": "YOLK",
             "address": "0x0581e301623E2365f328303208ded04Fc0b154aE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RMBToken",
+            "symbol": "RMBT",
+            "address": "0x75eb894795Ca5C27a73718B29fE2d9e27a74161e",
             "decimals": 18
         }
     ]
