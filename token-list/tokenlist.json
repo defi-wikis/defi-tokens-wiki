@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T03:14:25.408Z",
+    "timestamp": "2020-10-07T03:29:34.929Z",
     "version": {
         "major": 1,
-        "minor": 4989,
+        "minor": 4990,
         "patch": 0
     },
     "keywords": [
@@ -24736,6 +24736,13 @@
             "name": "CONE Finance",
             "symbol": "CONE",
             "address": "0x9ac2199776ec539dF9eCd45e71524c7c67bfCe84",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZETA",
+            "symbol": "ZETA",
+            "address": "0x6226392cf37FA359Bfa58C9Cb3d66a5f96083eB6",
             "decimals": 18
         }
     ]
