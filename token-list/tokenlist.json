@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T08:17:07.288Z",
+    "timestamp": "2020-10-07T08:22:20.391Z",
     "version": {
         "major": 1,
-        "minor": 5018,
+        "minor": 5019,
         "patch": 0
     },
     "keywords": [
@@ -24939,6 +24939,13 @@
             "name": "PASSPORT.FINANCE",
             "symbol": "PASS",
             "address": "0xC63A96fA73bE0b71A79c6a9aa3Af3E161dc158B4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "whiterock.network",
+            "symbol": "WRN",
+            "address": "0x0F68AA586D41FD15D42077c562Ac5F44DC2D1511",
             "decimals": 18
         }
     ]
