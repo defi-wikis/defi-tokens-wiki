@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T06:25:11.477Z",
+    "timestamp": "2020-10-07T06:29:55.963Z",
     "version": {
         "major": 1,
-        "minor": 5007,
+        "minor": 5008,
         "patch": 0
     },
     "keywords": [
@@ -24862,6 +24862,13 @@
             "name": "Ziliam Network",
             "symbol": "ZIL",
             "address": "0x385b6833813C63dF442D6f98475a8cCA104a9A6B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RAC.MONEY DAO",
+            "symbol": "RACM",
+            "address": "0xb0961547b81789C0D3939788AAB1B4FB3F3c367D",
             "decimals": 18
         }
     ]
