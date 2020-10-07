@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T14:02:25.647Z",
+    "timestamp": "2020-10-07T14:02:50.243Z",
     "version": {
         "major": 1,
-        "minor": 5056,
+        "minor": 5057,
         "patch": 0
     },
     "keywords": [
@@ -25206,6 +25206,13 @@
             "symbol": "ZCORE",
             "address": "0x17362c3d69A232a9C0d5741622377694cc6DE928",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Decore.finance",
+            "symbol": "DCORE",
+            "address": "0xF280381e2e81E05177402aa22D9c52f64C73b7C2",
+            "decimals": 18
         }
     ]
 }
