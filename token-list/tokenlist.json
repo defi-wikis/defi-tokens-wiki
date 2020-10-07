@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T23:33:07.246Z",
+    "timestamp": "2020-10-07T23:57:24.888Z",
     "version": {
         "major": 1,
-        "minor": 5144,
+        "minor": 5145,
         "patch": 0
     },
     "keywords": [
@@ -25821,6 +25821,13 @@
             "name": "YearnFinancialMutualFund",
             "symbol": "YFMF",
             "address": "0x0c2EF57302fCb55DCcC4a77675c9e18B7BABcAEA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance 1.2",
+            "symbol": "CORE12",
+            "address": "0x08FE41FA6Ce68EE5E1b423426D77c1D68772735d",
             "decimals": 18
         }
     ]
