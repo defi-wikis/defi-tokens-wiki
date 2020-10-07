@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T05:58:59.261Z",
+    "timestamp": "2020-10-07T06:04:17.128Z",
     "version": {
         "major": 1,
-        "minor": 5001,
+        "minor": 5002,
         "patch": 0
     },
     "keywords": [
@@ -24820,6 +24820,13 @@
             "name": "Dopby",
             "symbol": "ONEO",
             "address": "0x2837b07c10Aa015414e9619AB0FAd5EAb4f6Cc65",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WarLord Knight",
+            "symbol": "kWLT",
+            "address": "0xdfb73e3721dA66820ea034C05EBe90569847470C",
             "decimals": 18
         }
     ]
