@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T18:46:39.892Z",
+    "timestamp": "2020-10-07T19:05:10.586Z",
     "version": {
         "major": 1,
-        "minor": 5107,
+        "minor": 5108,
         "patch": 0
     },
     "keywords": [
@@ -25562,6 +25562,13 @@
             "name": "THANOSTOKEN",
             "symbol": "THANO",
             "address": "0x0a15c45EEf3F6146FF3B309A890D95A6D2D043c5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPHERA",
+            "symbol": "SPHE",
+            "address": "0xebD04f04f260F5032ec09d7FD29df3BF31f7acD4",
             "decimals": 18
         }
     ]
