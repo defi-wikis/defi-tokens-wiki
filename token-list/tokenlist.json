@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:08:40.997Z",
+    "timestamp": "2020-10-07T16:09:45.005Z",
     "version": {
         "major": 1,
-        "minor": 5080,
+        "minor": 5081,
         "patch": 0
     },
     "keywords": [
@@ -25373,6 +25373,13 @@
             "name": "WhyCORE",
             "symbol": "WCORE",
             "address": "0x3Bc97eAe2c76cBC0973FcAEDC3B80Ce09d167946",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pickle Finance v2.1",
+            "symbol": "PICKLES",
+            "address": "0x948aDb4087929D119964D3d783b28E91E1160dEf",
             "decimals": 18
         }
     ]
