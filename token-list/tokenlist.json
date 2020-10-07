@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T05:45:22.964Z",
+    "timestamp": "2020-10-07T05:58:59.261Z",
     "version": {
         "major": 1,
-        "minor": 5000,
+        "minor": 5001,
         "patch": 0
     },
     "keywords": [
@@ -24813,6 +24813,13 @@
             "name": "Sona Network",
             "symbol": "SONA",
             "address": "0x6aC071BD37502d93eBfe7eaEB10EA620cF18D36D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dopby",
+            "symbol": "ONEO",
+            "address": "0x2837b07c10Aa015414e9619AB0FAd5EAb4f6Cc65",
             "decimals": 18
         }
     ]
