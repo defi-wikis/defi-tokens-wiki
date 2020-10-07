@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T16:34:46.172Z",
+    "timestamp": "2020-10-07T16:35:56.039Z",
     "version": {
         "major": 1,
-        "minor": 5087,
+        "minor": 5088,
         "patch": 0
     },
     "keywords": [
@@ -25423,6 +25423,13 @@
             "symbol": "CYBER",
             "address": "0xFF9B08a5Ce384847c477C0676a7dEa61bb363313",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jubilee",
+            "symbol": "JBL",
+            "address": "0xEd8cc6A3A84E125D928ec6479554f2c866DF6e39",
+            "decimals": 2
         }
     ]
 }
