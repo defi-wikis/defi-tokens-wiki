@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T09:00:25.519Z",
+    "timestamp": "2020-10-07T09:11:20.693Z",
     "version": {
         "major": 1,
-        "minor": 5022,
+        "minor": 5023,
         "patch": 0
     },
     "keywords": [
@@ -24967,6 +24967,13 @@
             "name": "DegensPumpToken",
             "symbol": "DPT",
             "address": "0xBDD5be36333a2443d6c08bc07fDBd3Ba24023aD2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Trump Covid - % rates",
+            "symbol": "TrumpCovid",
+            "address": "0xecCEEF2c5665174EC843D802f27Ad3A64d40D3cd",
             "decimals": 18
         }
     ]
