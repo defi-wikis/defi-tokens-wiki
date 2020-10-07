@@ -1,0 +1,7 @@
+{
+    "name": "CandyToken",
+    "symbol": "CANDY",
+    "address": "0x2c2c34d8D4A3567b976E6a321bb1B8d02EC765e2",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
