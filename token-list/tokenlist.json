@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T18:20:42.816Z",
+    "timestamp": "2020-10-07T18:46:39.892Z",
     "version": {
         "major": 1,
-        "minor": 5106,
+        "minor": 5107,
         "patch": 0
     },
     "keywords": [
@@ -25555,6 +25555,13 @@
             "name": "RottenToken v2.3",
             "symbol": "ROTS",
             "address": "0xd8a6D2E208AE3A6Ec95061e3B9a0fdF786c03143",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "THANOSTOKEN",
+            "symbol": "THANO",
+            "address": "0x0a15c45EEf3F6146FF3B309A890D95A6D2D043c5",
             "decimals": 18
         }
     ]
