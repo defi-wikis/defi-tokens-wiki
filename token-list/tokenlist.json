@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T01:03:20.939Z",
+    "timestamp": "2020-10-07T01:30:35.240Z",
     "version": {
         "major": 1,
-        "minor": 4980,
+        "minor": 4981,
         "patch": 0
     },
     "keywords": [
@@ -24673,6 +24673,13 @@
             "name": "BatToken",
             "symbol": "BAT",
             "address": "0x0a0c3540F973FBa5C4ed2EF039e6b588D8fC98F2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Obama Phone Finance",
+            "symbol": "OPHONE",
+            "address": "0x7d0Ec34882E106B2A4865938aAF04d065c31C5A7",
             "decimals": 18
         }
     ]
