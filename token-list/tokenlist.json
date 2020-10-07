@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T17:59:51.427Z",
+    "timestamp": "2020-10-07T18:08:20.599Z",
     "version": {
         "major": 1,
-        "minor": 5101,
+        "minor": 5102,
         "patch": 0
     },
     "keywords": [
@@ -25520,6 +25520,13 @@
             "name": "UrbanKash",
             "symbol": "URBK",
             "address": "0x846F81AdC909679a1e37A6a2B44D51cD448A8364",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LandToken",
+            "symbol": "LAND",
+            "address": "0xCB33488E741B328d64a0c92FFD8DE9524ca760CE",
             "decimals": 18
         }
     ]
