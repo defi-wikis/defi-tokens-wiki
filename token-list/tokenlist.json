@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T09:35:02.174Z",
+    "timestamp": "2020-10-08T09:35:55.314Z",
     "version": {
         "major": 1,
-        "minor": 5199,
+        "minor": 5200,
         "patch": 0
     },
     "keywords": [
@@ -26206,6 +26206,13 @@
             "name": "King.finance",
             "symbol": "KFI",
             "address": "0x8eA60443D74180AE2f5aa5c850FC32717939C657",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DragonSwap",
+            "symbol": "DSP",
+            "address": "0x8D7861E642B556ffd7e4cC23d55b58acB60CbAB5",
             "decimals": 18
         }
     ]
