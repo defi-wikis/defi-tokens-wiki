@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:27:50.416Z",
+    "timestamp": "2020-10-08T16:29:39.996Z",
     "version": {
         "major": 1,
-        "minor": 5247,
+        "minor": 5248,
         "patch": 0
     },
     "keywords": [
@@ -26542,6 +26542,13 @@
             "name": "CryptoBossCoin",
             "symbol": "CBC",
             "address": "0x420c5DF39576f8E606cE69edF80AA364C298E8c7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Girlfriend",
+            "symbol": "GFR",
+            "address": "0x4f9a4b0F456C49C961514BbA261bD43E2484B105",
             "decimals": 18
         }
     ]
