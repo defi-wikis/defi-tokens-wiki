@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T07:03:50.583Z",
+    "timestamp": "2020-10-08T07:28:06.803Z",
     "version": {
         "major": 1,
-        "minor": 5186,
+        "minor": 5187,
         "patch": 0
     },
     "keywords": [
@@ -26115,6 +26115,13 @@
             "name": "REEF FINANCE",
             "symbol": "REEF",
             "address": "0x80a28bbd9AE72db709B3947a17E9CFE156B06361",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Blue YFI Finance",
+            "symbol": "BYFI",
+            "address": "0x5840762632A0Ac3C7D5be6231E6f4470B2e5e94E",
             "decimals": 18
         }
     ]
