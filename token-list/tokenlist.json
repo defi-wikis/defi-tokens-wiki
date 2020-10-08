@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T17:13:59.466Z",
+    "timestamp": "2020-10-08T17:28:49.834Z",
     "version": {
         "major": 1,
-        "minor": 5254,
+        "minor": 5255,
         "patch": 0
     },
     "keywords": [
@@ -26591,6 +26591,13 @@
             "name": "BMN",
             "symbol": "BMN",
             "address": "0x68577e24394194114b1cd61c0Ce06a665D731bfF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MEME v2",
+            "symbol": "MEME",
+            "address": "0xe2Fa8b0B7597879C69a210745667937DA552a72C",
             "decimals": 18
         }
     ]
