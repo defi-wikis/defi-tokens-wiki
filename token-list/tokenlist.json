@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:33:14.909Z",
+    "timestamp": "2020-10-08T01:43:55.245Z",
     "version": {
         "major": 1,
-        "minor": 5152,
+        "minor": 5153,
         "patch": 0
     },
     "keywords": [
@@ -25877,6 +25877,13 @@
             "name": "scm",
             "symbol": "scammerswap",
             "address": "0x6Ff7503977BaaB08038Dc66E904Ee69c2d34aF1b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "The Midas Touch Gold",
+            "symbol": "TMTG",
+            "address": "0x10086399DD8c1e3De736724AF52587a2044c9fA2",
             "decimals": 18
         }
     ]
