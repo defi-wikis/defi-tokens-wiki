@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T19:28:21.006Z",
+    "timestamp": "2020-10-08T19:54:50.008Z",
     "version": {
         "major": 1,
-        "minor": 5272,
+        "minor": 5273,
         "patch": 0
     },
     "keywords": [
@@ -26718,6 +26718,13 @@
             "symbol": "WMT",
             "address": "0xd72350Cd08cc3169dE053d01fD5fd0ba11C02f01",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "uncensored Token",
+            "symbol": "ucs",
+            "address": "0xD39fEa299BCc8a359D56FD9d148C4bcE89cb83b9",
+            "decimals": 7
         }
     ]
 }
