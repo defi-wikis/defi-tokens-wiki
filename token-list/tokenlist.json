@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T06:36:20.773Z",
+    "timestamp": "2020-10-08T06:39:50.342Z",
     "version": {
         "major": 1,
-        "minor": 5183,
+        "minor": 5184,
         "patch": 0
     },
     "keywords": [
@@ -26094,6 +26094,13 @@
             "name": "yfav.finance",
             "symbol": "YFAV",
             "address": "0x0f2f6B0BbD12eda6114D8E6777918797f3F60Fb1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ultrachain UC",
+            "symbol": "UC",
+            "address": "0x35bcc763C61b93f91c0Dae8790cB8fc1eD45Fdf4",
             "decimals": 18
         }
     ]
