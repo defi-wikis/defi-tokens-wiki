@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T10:56:45.316Z",
+    "timestamp": "2020-10-08T10:59:25.576Z",
     "version": {
         "major": 1,
-        "minor": 5204,
+        "minor": 5205,
         "patch": 0
     },
     "keywords": [
@@ -26241,6 +26241,13 @@
             "name": "Clem",
             "symbol": "Clem",
             "address": "0x65588e8C49d0e2Fe25e4BC14C9e74964f7D991cB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Groovy.finance",
+            "symbol": "Gvy",
+            "address": "0x31bE30217989766215672E88eD449913e05bf0F5",
             "decimals": 18
         }
     ]
