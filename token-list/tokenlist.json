@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T17:28:49.834Z",
+    "timestamp": "2020-10-08T17:47:35.910Z",
     "version": {
         "major": 1,
-        "minor": 5255,
+        "minor": 5256,
         "patch": 0
     },
     "keywords": [
@@ -26598,6 +26598,13 @@
             "name": "MEME v2",
             "symbol": "MEME",
             "address": "0xe2Fa8b0B7597879C69a210745667937DA552a72C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZRK Network",
+            "symbol": "ZRK",
+            "address": "0xb40183F42D7809e8921ADECe2D61A0961f9a8414",
             "decimals": 18
         }
     ]
