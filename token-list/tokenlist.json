@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:14:07.208Z",
+    "timestamp": "2020-10-08T01:23:40.006Z",
     "version": {
         "major": 1,
-        "minor": 5150,
+        "minor": 5151,
         "patch": 0
     },
     "keywords": [
@@ -25863,6 +25863,13 @@
             "name": "Tuckermint Burn",
             "symbol": "TUCK",
             "address": "0xFB1A79F6B475c5e7Be54E1F479957f912C98E1Bf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFinanceNetwork",
+            "symbol": "YFN",
+            "address": "0x51F397A51579387d5C36571444608EEF22953c8a",
             "decimals": 18
         }
     ]
