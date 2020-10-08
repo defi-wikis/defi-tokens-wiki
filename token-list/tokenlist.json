@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T22:20:50.181Z",
+    "timestamp": "2020-10-08T22:25:30.035Z",
     "version": {
         "major": 1,
-        "minor": 5283,
+        "minor": 5284,
         "patch": 0
     },
     "keywords": [
@@ -26794,6 +26794,13 @@
             "name": "DEXTF SAFE FUND",
             "symbol": "XTF.YYYBOX",
             "address": "0x1a593D6fEaD832CeADa608Dd2fCeA7E4d79AF9B0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Marathon.Finance",
+            "symbol": "MTON",
+            "address": "0xB0a59d07aDffcd8a70552CcEdE849c14c9E7BE24",
             "decimals": 18
         }
     ]
