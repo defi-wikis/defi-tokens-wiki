@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T02:32:20.138Z",
+    "timestamp": "2020-10-08T02:32:39.925Z",
     "version": {
         "major": 1,
-        "minor": 5158,
+        "minor": 5159,
         "patch": 0
     },
     "keywords": [
@@ -25919,6 +25919,13 @@
             "name": "LARP",
             "symbol": "LARP",
             "address": "0x17d719E7706eF3a50f5518B51C73cA26367309d7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core 2.0 Rebase",
+            "symbol": "CORER",
+            "address": "0x928df25eC5c8D75c6a0d53A78C31b76BE9c98bCA",
             "decimals": 18
         }
     ]
