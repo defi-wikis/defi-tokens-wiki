@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:37:44.915Z",
+    "timestamp": "2020-10-08T11:49:02.616Z",
     "version": {
         "major": 1,
-        "minor": 5208,
+        "minor": 5209,
         "patch": 0
     },
     "keywords": [
@@ -26269,6 +26269,13 @@
             "name": "RToken",
             "symbol": "RT",
             "address": "0x9de7f60b0Fe7E6E4e5DA2133565124D723Dfe901",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YF-MAX Finance",
+            "symbol": "YFMAX",
+            "address": "0xdf4441155CA1f7443F7Ed51a556970f7037a9A45",
             "decimals": 18
         }
     ]
