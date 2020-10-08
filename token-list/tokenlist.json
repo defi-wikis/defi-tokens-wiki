@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:03:45.153Z",
+    "timestamp": "2020-10-08T11:09:40.685Z",
     "version": {
         "major": 1,
-        "minor": 5206,
+        "minor": 5207,
         "patch": 0
     },
     "keywords": [
@@ -26255,6 +26255,13 @@
             "name": "Oriental Digital Currency",
             "symbol": "ODCM",
             "address": "0x0ba4C600e454EF521D36029d3c4359F4aE4e71Ce",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Meme Gift Token",
+            "symbol": "MGT",
+            "address": "0xAC4B0f55624e405F60c21316b6EBa7A3A0C67eB2",
             "decimals": 18
         }
     ]
