@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T14:15:36.866Z",
+    "timestamp": "2020-10-08T14:30:18.026Z",
     "version": {
         "major": 1,
-        "minor": 5229,
+        "minor": 5230,
         "patch": 0
     },
     "keywords": [
@@ -26416,6 +26416,13 @@
             "name": "$SIDEBOOB",
             "symbol": "SBOOB",
             "address": "0x3f64290004F7F67d8a2E041F3DE0C733146ABc90",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kratom Token",
+            "symbol": "KRATOM",
+            "address": "0x30315eA143a711912B9F36b1D99CCBc648D92e73",
             "decimals": 18
         }
     ]
