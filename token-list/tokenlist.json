@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T12:58:25.652Z",
+    "timestamp": "2020-10-08T13:00:19.889Z",
     "version": {
         "major": 1,
-        "minor": 5219,
+        "minor": 5220,
         "patch": 0
     },
     "keywords": [
@@ -26347,6 +26347,13 @@
             "symbol": "BST",
             "address": "0xA2D336EF1909F1087CD0515df25e13C5D2cE0Bbd",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "wEEd JUST 4 FUN",
+            "symbol": "WEED",
+            "address": "0x26C487463595DB00E04F2AbF5fDCB8Ba657b5cFD",
+            "decimals": 18
         }
     ]
 }
