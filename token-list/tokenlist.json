@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T04:23:09.832Z",
+    "timestamp": "2020-10-08T04:31:45.016Z",
     "version": {
         "major": 1,
-        "minor": 5172,
+        "minor": 5173,
         "patch": 0
     },
     "keywords": [
@@ -26017,6 +26017,13 @@
             "name": "UniRocket",
             "symbol": "URCKT",
             "address": "0x23AaB5275B3C6489eE0Eae1F0CBa93e8A3635C3E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bubo",
+            "symbol": "BUBO",
+            "address": "0xCCbf21ba6EF00802AB06637896B799f7101F54A2",
             "decimals": 18
         }
     ]
