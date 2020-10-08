@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T09:59:26.397Z",
+    "timestamp": "2020-10-08T10:19:07.269Z",
     "version": {
         "major": 1,
-        "minor": 5201,
+        "minor": 5202,
         "patch": 0
     },
     "keywords": [
@@ -26220,6 +26220,13 @@
             "name": "UlvaFinance.com",
             "symbol": "ULFI",
             "address": "0x6cb2dB8491e688385aD0eC6f6d52Ef696994490D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wing Finance",
+            "symbol": "WING",
+            "address": "0x80fF059561453A7dec6E52c49bf243ac032Fd195",
             "decimals": 18
         }
     ]
