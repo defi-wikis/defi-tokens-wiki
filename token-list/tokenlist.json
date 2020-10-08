@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:49:15.390Z",
+    "timestamp": "2020-10-08T17:13:59.466Z",
     "version": {
         "major": 1,
-        "minor": 5253,
+        "minor": 5254,
         "patch": 0
     },
     "keywords": [
@@ -26584,6 +26584,13 @@
             "name": "YF-ORB",
             "symbol": "YFORB",
             "address": "0xaD0FC52c7A96Dc0679C311D95a36967d50be569B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BMN",
+            "symbol": "BMN",
+            "address": "0x68577e24394194114b1cd61c0Ce06a665D731bfF",
             "decimals": 18
         }
     ]
