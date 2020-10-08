@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T10:19:07.269Z",
+    "timestamp": "2020-10-08T10:26:07.849Z",
     "version": {
         "major": 1,
-        "minor": 5202,
+        "minor": 5203,
         "patch": 0
     },
     "keywords": [
@@ -26227,6 +26227,13 @@
             "name": "Wing Finance",
             "symbol": "WING",
             "address": "0x80fF059561453A7dec6E52c49bf243ac032Fd195",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "fry.world",
+            "symbol": "FRYs",
+            "address": "0xA2De4271eA179755c7a246E96d37b7C1E4F2b7cE",
             "decimals": 18
         }
     ]
