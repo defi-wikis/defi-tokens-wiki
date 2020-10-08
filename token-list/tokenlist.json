@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T21:24:40.202Z",
+    "timestamp": "2020-10-08T21:24:54.794Z",
     "version": {
         "major": 1,
-        "minor": 5278,
+        "minor": 5279,
         "patch": 0
     },
     "keywords": [
@@ -26759,6 +26759,13 @@
             "name": "Beermoney.Finance",
             "symbol": "BEER",
             "address": "0x0c9B880A66f07A9bF7eDa581Be8F46379987FfB8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CUCK.Finance",
+            "symbol": "CUCKED",
+            "address": "0x87c802FFa787CadE010C97b7DBB3374a4Ed3b753",
             "decimals": 18
         }
     ]
