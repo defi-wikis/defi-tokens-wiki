@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:14:08.620Z",
+    "timestamp": "2020-10-08T18:14:20.683Z",
     "version": {
         "major": 1,
-        "minor": 5262,
+        "minor": 5263,
         "patch": 0
     },
     "keywords": [
@@ -26647,6 +26647,13 @@
             "name": "Blue-corby",
             "symbol": "CORBY",
             "address": "0x24221401E6C0957fE8da01472637915623BFcfdE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFII Silver",
+            "symbol": "YFIIS",
+            "address": "0x32F3b9B5Bd6C76F41ee3B389573f340468666861",
             "decimals": 18
         }
     ]
