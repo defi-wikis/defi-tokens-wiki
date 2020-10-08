@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T21:50:35.885Z",
+    "timestamp": "2020-10-08T21:59:45.162Z",
     "version": {
         "major": 1,
-        "minor": 5281,
+        "minor": 5282,
         "patch": 0
     },
     "keywords": [
@@ -26781,6 +26781,13 @@
             "symbol": "EXRN",
             "address": "0xe469c4473af82217B30CF17b10BcDb6C8c796e75",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Project Unity",
+            "symbol": "UNITY",
+            "address": "0x6051eCe0088932ce11bcb1d8Fc30f7714ACd571a",
+            "decimals": 18
         }
     ]
 }
