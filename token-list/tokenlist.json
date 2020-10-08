@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T06:39:50.342Z",
+    "timestamp": "2020-10-08T06:59:10.285Z",
     "version": {
         "major": 1,
-        "minor": 5184,
+        "minor": 5185,
         "patch": 0
     },
     "keywords": [
@@ -26101,6 +26101,13 @@
             "name": "Ultrachain UC",
             "symbol": "UC",
             "address": "0x35bcc763C61b93f91c0Dae8790cB8fc1eD45Fdf4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MangoSwap Finance",
+            "symbol": "MGO",
+            "address": "0xF7c39fd9553777Dd385e293E7911AC358f2aE338",
             "decimals": 18
         }
     ]
