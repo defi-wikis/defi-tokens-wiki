@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T05:48:21.159Z",
+    "timestamp": "2020-10-08T05:49:30.082Z",
     "version": {
         "major": 1,
-        "minor": 5178,
+        "minor": 5179,
         "patch": 0
     },
     "keywords": [
@@ -26059,6 +26059,13 @@
             "name": "hamlos.finance",
             "symbol": "HAML",
             "address": "0xa800d22357e278bDc4eF98A062Df5D22261dd2D6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FairSwap",
+            "symbol": "FAIR",
+            "address": "0xe4bdA43f7e2c6324F9135451A5CFD9e7c05AC5D8",
             "decimals": 18
         }
     ]
