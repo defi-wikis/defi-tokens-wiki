@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T02:02:24.853Z",
+    "timestamp": "2020-10-08T02:08:10.649Z",
     "version": {
         "major": 1,
-        "minor": 5156,
+        "minor": 5157,
         "patch": 0
     },
     "keywords": [
@@ -25905,6 +25905,13 @@
             "name": "bellevuenetwork.io",
             "symbol": "BLV",
             "address": "0x816624BC14CaeaE40c13ec61B885B4754c4249A4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xbast",
+            "symbol": "XBAST",
+            "address": "0xe6793C9786A29BD80c6CbE35Cfe5E47A8c4199D4",
             "decimals": 18
         }
     ]
