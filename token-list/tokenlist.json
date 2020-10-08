@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:13:30.382Z",
+    "timestamp": "2020-10-08T01:14:07.208Z",
     "version": {
         "major": 1,
-        "minor": 5149,
+        "minor": 5150,
         "patch": 0
     },
     "keywords": [
@@ -25856,6 +25856,13 @@
             "name": "MadisSwap",
             "symbol": "Madis",
             "address": "0x0aD3d2c1B2E6B932788B0cB079297C32E3005b54",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tuckermint Burn",
+            "symbol": "TUCK",
+            "address": "0xFB1A79F6B475c5e7Be54E1F479957f912C98E1Bf",
             "decimals": 18
         }
     ]
