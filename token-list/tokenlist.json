@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:27:35.669Z",
+    "timestamp": "2020-10-08T16:27:50.416Z",
     "version": {
         "major": 1,
-        "minor": 5246,
+        "minor": 5247,
         "patch": 0
     },
     "keywords": [
@@ -26535,6 +26535,13 @@
             "name": "Centaur",
             "symbol": "CNTR",
             "address": "0x14765946469210bE4e54D4EA51BB7B4a56EAcC04",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoBossCoin",
+            "symbol": "CBC",
+            "address": "0x420c5DF39576f8E606cE69edF80AA364C298E8c7",
             "decimals": 18
         }
     ]
