@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T21:59:45.162Z",
+    "timestamp": "2020-10-08T22:20:50.181Z",
     "version": {
         "major": 1,
-        "minor": 5282,
+        "minor": 5283,
         "patch": 0
     },
     "keywords": [
@@ -26787,6 +26787,13 @@
             "name": "Project Unity",
             "symbol": "UNITY",
             "address": "0x6051eCe0088932ce11bcb1d8Fc30f7714ACd571a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DEXTF SAFE FUND",
+            "symbol": "XTF.YYYBOX",
+            "address": "0x1a593D6fEaD832CeADa608Dd2fCeA7E4d79AF9B0",
             "decimals": 18
         }
     ]
