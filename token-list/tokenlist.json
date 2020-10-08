@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:00:17.559Z",
+    "timestamp": "2020-10-08T15:03:25.017Z",
     "version": {
         "major": 1,
-        "minor": 5232,
+        "minor": 5233,
         "patch": 0
     },
     "keywords": [
@@ -26438,6 +26438,13 @@
             "symbol": "FIST",
             "address": "0xEF8A6a5edEA8b7bE950Ee2ee7155674516D85E9C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yfcore",
+            "symbol": "YFCORE",
+            "address": "0x83108AA5AffcebcC7857029175Db37B2fE91cf79",
+            "decimals": 0
         }
     ]
 }
