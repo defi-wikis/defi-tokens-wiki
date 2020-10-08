@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T12:23:15.643Z",
+    "timestamp": "2020-10-08T12:40:27.401Z",
     "version": {
         "major": 1,
-        "minor": 5217,
+        "minor": 5218,
         "patch": 0
     },
     "keywords": [
@@ -26332,6 +26332,13 @@
             "name": "fry.world",
             "symbol": "FRIES",
             "address": "0xB2a780154fCa426af7E7548a41079612Bc5433D1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Power Index Pool Token",
+            "symbol": "PIPT",
+            "address": "0xb2B9335791346E94245DCd316A9C9ED486E6dD7f",
             "decimals": 18
         }
     ]
