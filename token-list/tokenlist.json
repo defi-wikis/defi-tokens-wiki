@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-07T23:57:24.888Z",
+    "timestamp": "2020-10-08T00:39:15.416Z",
     "version": {
         "major": 1,
-        "minor": 5145,
+        "minor": 5146,
         "patch": 0
     },
     "keywords": [
@@ -25828,6 +25828,13 @@
             "name": "Core Finance 1.2",
             "symbol": "CORE12",
             "address": "0x08FE41FA6Ce68EE5E1b423426D77c1D68772735d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HONK",
+            "symbol": "HNOK",
+            "address": "0x2d91f49176bF24259C20c6ef77d961Ae73024D42",
             "decimals": 18
         }
     ]
