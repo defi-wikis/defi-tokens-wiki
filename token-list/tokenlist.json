@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:43:55.245Z",
+    "timestamp": "2020-10-08T01:59:30.380Z",
     "version": {
         "major": 1,
-        "minor": 5153,
+        "minor": 5154,
         "patch": 0
     },
     "keywords": [
@@ -25885,6 +25885,13 @@
             "symbol": "TMTG",
             "address": "0x10086399DD8c1e3De736724AF52587a2044c9fA2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EZEcoin",
+            "symbol": "EZEc",
+            "address": "0x456B603cc61a919FB7f03BC7fD0550eb9e526dA6",
+            "decimals": 4
         }
     ]
 }
