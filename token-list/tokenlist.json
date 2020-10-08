@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:45:50.718Z",
+    "timestamp": "2020-10-08T16:49:15.390Z",
     "version": {
         "major": 1,
-        "minor": 5252,
+        "minor": 5253,
         "patch": 0
     },
     "keywords": [
@@ -26577,6 +26577,13 @@
             "name": "Wizard",
             "symbol": "WIZ",
             "address": "0x7571C4A38cCBd0fBE5206170b68C8BaF84F25dDF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YF-ORB",
+            "symbol": "YFORB",
+            "address": "0xaD0FC52c7A96Dc0679C311D95a36967d50be569B",
             "decimals": 18
         }
     ]
