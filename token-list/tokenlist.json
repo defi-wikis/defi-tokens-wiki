@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:01:02.246Z",
+    "timestamp": "2020-10-08T16:02:07.191Z",
     "version": {
         "major": 1,
-        "minor": 5241,
+        "minor": 5242,
         "patch": 0
     },
     "keywords": [
@@ -26501,6 +26501,13 @@
             "symbol": "RUCH",
             "address": "0x1b6FAB0D5FFE5967073c6E7F1e89bE00F7C59202",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance v1.2",
+            "symbol": "COFI",
+            "address": "0x028bf883b441B9435D0e32767D84A1c07122bc32",
+            "decimals": 18
         }
     ]
 }
