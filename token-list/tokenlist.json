@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T00:39:15.416Z",
+    "timestamp": "2020-10-08T01:02:30.425Z",
     "version": {
         "major": 1,
-        "minor": 5146,
+        "minor": 5147,
         "patch": 0
     },
     "keywords": [
@@ -25835,6 +25835,13 @@
             "name": "HONK",
             "symbol": "HNOK",
             "address": "0x2d91f49176bF24259C20c6ef77d961Ae73024D42",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Alpha Finance Lab",
+            "symbol": "ALPHA",
+            "address": "0xd579878710DF8659f4AF1a116D7dfFB447Cb12a1",
             "decimals": 18
         }
     ]
