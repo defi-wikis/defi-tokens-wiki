@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T04:31:45.016Z",
+    "timestamp": "2020-10-08T04:34:15.569Z",
     "version": {
         "major": 1,
-        "minor": 5173,
+        "minor": 5174,
         "patch": 0
     },
     "keywords": [
@@ -26024,6 +26024,13 @@
             "name": "Bubo",
             "symbol": "BUBO",
             "address": "0xCCbf21ba6EF00802AB06637896B799f7101F54A2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VIKI Finance",
+            "symbol": "VIKI",
+            "address": "0x30b59089375FbCf08700e67930Dc8aE4ABB4fB58",
             "decimals": 18
         }
     ]
