@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T13:29:45.049Z",
+    "timestamp": "2020-10-08T13:33:34.693Z",
     "version": {
         "major": 1,
-        "minor": 5224,
+        "minor": 5225,
         "patch": 0
     },
     "keywords": [
@@ -26381,6 +26381,13 @@
             "name": "Ethereum Uniswap",
             "symbol": "ETHU",
             "address": "0xC58e686fAffbBa265Ae023F8fe52C07307a4AC3f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uni Bomber",
+            "symbol": "UNIBOMBER",
+            "address": "0x222B876b787Bc0660C091078B8E06B5Ac36E8f78",
             "decimals": 18
         }
     ]
