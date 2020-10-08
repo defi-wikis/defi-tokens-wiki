@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T02:34:34.814Z",
+    "timestamp": "2020-10-08T02:56:10.143Z",
     "version": {
         "major": 1,
-        "minor": 5160,
+        "minor": 5161,
         "patch": 0
     },
     "keywords": [
@@ -25934,6 +25934,13 @@
             "symbol": "APYM",
             "address": "0xe884B12b6b69b0b12176713E6Aa7e8dccDDa9Bb1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "The Family",
+            "symbol": "FAM",
+            "address": "0xF35084E49bE90675bbE6A3Ef81BD606bB05d0cbB",
+            "decimals": 17
         }
     ]
 }
