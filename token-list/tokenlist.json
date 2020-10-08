@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T14:57:10.685Z",
+    "timestamp": "2020-10-08T15:00:17.559Z",
     "version": {
         "major": 1,
-        "minor": 5231,
+        "minor": 5232,
         "patch": 0
     },
     "keywords": [
@@ -26430,6 +26430,13 @@
             "name": "DEFIDAO.FINANCE",
             "symbol": "DDAO",
             "address": "0x564696C72AF05809213415058CD02570AA148183",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FIST",
+            "symbol": "FIST",
+            "address": "0xEF8A6a5edEA8b7bE950Ee2ee7155674516D85E9C",
             "decimals": 18
         }
     ]
