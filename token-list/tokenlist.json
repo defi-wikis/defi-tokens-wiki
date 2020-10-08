@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T03:24:20.892Z",
+    "timestamp": "2020-10-08T03:39:25.930Z",
     "version": {
         "major": 1,
-        "minor": 5166,
+        "minor": 5167,
         "patch": 0
     },
     "keywords": [
@@ -25975,6 +25975,13 @@
             "name": "YROCK Finance",
             "symbol": "YROCK",
             "address": "0x80343a26951B4754A44fA2B8BAb5d54B28F05B13",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Clintex.finance",
+            "symbol": "CTI",
+            "address": "0x249252B69dD79F422484cC6C3D36EBC42c1A47E3",
             "decimals": 18
         }
     ]
