@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T21:46:30.575Z",
+    "timestamp": "2020-10-08T21:50:35.885Z",
     "version": {
         "major": 1,
-        "minor": 5280,
+        "minor": 5281,
         "patch": 0
     },
     "keywords": [
@@ -26774,6 +26774,13 @@
             "symbol": "HYVE",
             "address": "0x41A0FeeA8eb62b98E91BD21BF5Fa8B5fB8c0f7D9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EXRP Network",
+            "symbol": "EXRN",
+            "address": "0xe469c4473af82217B30CF17b10BcDb6C8c796e75",
+            "decimals": 0
         }
     ]
 }
