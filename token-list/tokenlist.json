@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T13:41:26.255Z",
+    "timestamp": "2020-10-08T14:03:35.698Z",
     "version": {
         "major": 1,
-        "minor": 5227,
+        "minor": 5228,
         "patch": 0
     },
     "keywords": [
@@ -26402,6 +26402,13 @@
             "name": "CMRT",
             "symbol": "Coinmarket",
             "address": "0xC9541d3C3310D809863ccd082b133732f9476069",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Seele",
+            "symbol": "SEELE",
+            "address": "0x20549A1aB8a5993a938CEe147461a7250d40A374",
             "decimals": 18
         }
     ]
