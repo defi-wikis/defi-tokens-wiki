@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:33:25.234Z",
+    "timestamp": "2020-10-08T15:33:30.064Z",
     "version": {
         "major": 1,
-        "minor": 5236,
+        "minor": 5237,
         "patch": 0
     },
     "keywords": [
@@ -26465,6 +26465,13 @@
             "name": "Super Yield Finance",
             "symbol": "SYF",
             "address": "0x2eB2BF7111214BB379Ff7bC7C115E896d5605465",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Parsiq Token",
+            "symbol": "PRQ",
+            "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
             "decimals": 18
         }
     ]
