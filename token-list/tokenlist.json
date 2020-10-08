@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T19:06:36.050Z",
+    "timestamp": "2020-10-08T19:11:44.773Z",
     "version": {
         "major": 1,
-        "minor": 5268,
+        "minor": 5269,
         "patch": 0
     },
     "keywords": [
@@ -26689,6 +26689,13 @@
             "name": "TenS Protocol",
             "symbol": "TENS",
             "address": "0xE40953558D1C170030B0fD8c300A063854889e3C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "APY.Xfinance",
+            "symbol": "APYX",
+            "address": "0xdD88619c14726D6422e555656267Ec8f610Be682",
             "decimals": 18
         }
     ]
