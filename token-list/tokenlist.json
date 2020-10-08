@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T06:10:11.351Z",
+    "timestamp": "2020-10-08T06:21:11.480Z",
     "version": {
         "major": 1,
-        "minor": 5181,
+        "minor": 5182,
         "patch": 0
     },
     "keywords": [
@@ -26080,6 +26080,13 @@
             "name": "Defix Network",
             "symbol": "DEFIX",
             "address": "0xD4E7DFfBADE47ca76Fe654Fb4659748B52974f7c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VBC",
+            "symbol": "VBC(radr)",
+            "address": "0x19DB8395CAa3e711366fcD857b32d03F84159e47",
             "decimals": 18
         }
     ]
