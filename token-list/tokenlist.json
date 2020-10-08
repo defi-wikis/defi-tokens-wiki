@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T21:24:54.794Z",
+    "timestamp": "2020-10-08T21:46:30.575Z",
     "version": {
         "major": 1,
-        "minor": 5279,
+        "minor": 5280,
         "patch": 0
     },
     "keywords": [
@@ -26766,6 +26766,13 @@
             "name": "CUCK.Finance",
             "symbol": "CUCKED",
             "address": "0x87c802FFa787CadE010C97b7DBB3374a4Ed3b753",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x41A0FeeA8eb62b98E91BD21BF5Fa8B5fB8c0f7D9",
             "decimals": 18
         }
     ]
