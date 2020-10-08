@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T17:47:35.910Z",
+    "timestamp": "2020-10-08T17:55:25.012Z",
     "version": {
         "major": 1,
-        "minor": 5256,
+        "minor": 5257,
         "patch": 0
     },
     "keywords": [
@@ -26605,6 +26605,13 @@
             "name": "ZRK Network",
             "symbol": "ZRK",
             "address": "0xb40183F42D7809e8921ADECe2D61A0961f9a8414",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AccessChain",
+            "symbol": "ASIC",
+            "address": "0x098aF16f49b2F08d5F587679832d9131bF02205D",
             "decimals": 18
         }
     ]
