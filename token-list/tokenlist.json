@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:02:30.425Z",
+    "timestamp": "2020-10-08T01:03:45.048Z",
     "version": {
         "major": 1,
-        "minor": 5147,
+        "minor": 5148,
         "patch": 0
     },
     "keywords": [
@@ -25842,6 +25842,13 @@
             "name": "Alpha Finance Lab",
             "symbol": "ALPHA",
             "address": "0xd579878710DF8659f4AF1a116D7dfFB447Cb12a1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mad Max Finance",
+            "symbol": "MAD",
+            "address": "0x912A64259735e957D18391054Dd5Bf25177F1173",
             "decimals": 18
         }
     ]
