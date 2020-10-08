@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T08:38:45.305Z",
+    "timestamp": "2020-10-08T09:08:00.034Z",
     "version": {
         "major": 1,
-        "minor": 5194,
+        "minor": 5195,
         "patch": 0
     },
     "keywords": [
@@ -26171,6 +26171,13 @@
             "name": "Suni-finance",
             "symbol": "SUNI",
             "address": "0xDD7D9510D3D9A7EdDa1745ab91f9A2925C075722",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "S3XYBTC",
+            "symbol": "S3XY",
+            "address": "0xcc120848Adf3C7F7e935f0a7922E21A025474E63",
             "decimals": 18
         }
     ]
