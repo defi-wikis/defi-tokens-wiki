@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:38:55.193Z",
+    "timestamp": "2020-10-08T16:43:40.457Z",
     "version": {
         "major": 1,
-        "minor": 5249,
+        "minor": 5250,
         "patch": 0
     },
     "keywords": [
@@ -26557,6 +26557,13 @@
             "symbol": "QUO",
             "address": "0xefd720C94659F2cCb767809347245F917A145ed8",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "arbiswap",
+            "symbol": "aswap",
+            "address": "0xad0887734461aF8C6033068bDE4047Dbe84074cc",
+            "decimals": 8
         }
     ]
 }
