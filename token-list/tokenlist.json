@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T03:57:30.029Z",
+    "timestamp": "2020-10-08T04:05:40.278Z",
     "version": {
         "major": 1,
-        "minor": 5169,
+        "minor": 5170,
         "patch": 0
     },
     "keywords": [
@@ -25996,6 +25996,13 @@
             "name": "Cos Protocol",
             "symbol": "COS",
             "address": "0xD7F3401a9356E932450b7Fb343ef6E2213735bCC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Color.finance",
+            "symbol": "COLOR",
+            "address": "0xF89B6589dF63258e7beeEcce43B2B37aEB4ab831",
             "decimals": 18
         }
     ]
