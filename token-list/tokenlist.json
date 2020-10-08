@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:38:44.855Z",
+    "timestamp": "2020-10-08T15:50:40.631Z",
     "version": {
         "major": 1,
-        "minor": 5238,
+        "minor": 5239,
         "patch": 0
     },
     "keywords": [
@@ -26479,6 +26479,13 @@
             "name": "Yield Finance v2",
             "symbol": "YFIv2",
             "address": "0x43f433576579e5b350937966911D1575074A47C3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Meta Pool Finance",
+            "symbol": "YMPL",
+            "address": "0x49464D528E1F8020E84a189f4c32bAEE701Adde5",
             "decimals": 18
         }
     ]
