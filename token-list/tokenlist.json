@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:02:07.191Z",
+    "timestamp": "2020-10-08T16:06:54.846Z",
     "version": {
         "major": 1,
-        "minor": 5242,
+        "minor": 5243,
         "patch": 0
     },
     "keywords": [
@@ -26507,6 +26507,13 @@
             "name": "Core Finance v1.2",
             "symbol": "COFI",
             "address": "0x028bf883b441B9435D0e32767D84A1c07122bc32",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EtherBot.ai",
+            "symbol": "EBA",
+            "address": "0xA082699315778E7862DDd7c795f384FA64D1C653",
             "decimals": 18
         }
     ]
