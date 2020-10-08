@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:59:21.212Z",
+    "timestamp": "2020-10-08T12:01:35.737Z",
     "version": {
         "major": 1,
-        "minor": 5213,
+        "minor": 5214,
         "patch": 0
     },
     "keywords": [
@@ -26304,6 +26304,13 @@
             "name": "Unimoon.Exchange",
             "symbol": "UNIM",
             "address": "0x59475074846F80273eE3706cE07833152DD7C190",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0xa4c592ab06DaB1d2a78065896A01175CCfCE9a22",
             "decimals": 18
         }
     ]
