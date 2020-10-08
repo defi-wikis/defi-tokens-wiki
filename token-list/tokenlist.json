@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:53:30.334Z",
+    "timestamp": "2020-10-08T11:55:40.125Z",
     "version": {
         "major": 1,
-        "minor": 5211,
+        "minor": 5212,
         "patch": 0
     },
     "keywords": [
@@ -26290,6 +26290,13 @@
             "name": "Wrong",
             "symbol": "WRONG",
             "address": "0x4C76b4bB2AC4F7d676D3faB58B54662fAE0B2a8B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniwasp.Finance",
+            "symbol": "WASP",
+            "address": "0xe4382F177324320A537A14A870B3C16E6160ed61",
             "decimals": 18
         }
     ]
