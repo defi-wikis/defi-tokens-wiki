@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T13:33:42.539Z",
+    "timestamp": "2020-10-08T13:41:26.255Z",
     "version": {
         "major": 1,
-        "minor": 5226,
+        "minor": 5227,
         "patch": 0
     },
     "keywords": [
@@ -26395,6 +26395,13 @@
             "name": "EASY",
             "symbol": "EASY",
             "address": "0x913D8ADf7CE6986a8CbFee5A54725D9Eea4F0729",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CMRT",
+            "symbol": "Coinmarket",
+            "address": "0xC9541d3C3310D809863ccd082b133732f9476069",
             "decimals": 18
         }
     ]
