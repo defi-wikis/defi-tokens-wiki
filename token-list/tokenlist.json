@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T19:54:50.008Z",
+    "timestamp": "2020-10-08T20:00:17.898Z",
     "version": {
         "major": 1,
-        "minor": 5273,
+        "minor": 5274,
         "patch": 0
     },
     "keywords": [
@@ -26725,6 +26725,13 @@
             "symbol": "ucs",
             "address": "0xD39fEa299BCc8a359D56FD9d148C4bcE89cb83b9",
             "decimals": 7
+        },
+        {
+            "chainId": 1,
+            "name": "ENCORB",
+            "symbol": "ENCORB",
+            "address": "0x8EB8411038cB2aBf33F8bC34191a2806a7da8a53",
+            "decimals": 18
         }
     ]
 }
