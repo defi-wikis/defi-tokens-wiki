@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:09:40.685Z",
+    "timestamp": "2020-10-08T11:37:44.915Z",
     "version": {
         "major": 1,
-        "minor": 5207,
+        "minor": 5208,
         "patch": 0
     },
     "keywords": [
@@ -26262,6 +26262,13 @@
             "name": "Meme Gift Token",
             "symbol": "MGT",
             "address": "0xAC4B0f55624e405F60c21316b6EBa7A3A0C67eB2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RToken",
+            "symbol": "RT",
+            "address": "0x9de7f60b0Fe7E6E4e5DA2133565124D723Dfe901",
             "decimals": 18
         }
     ]
