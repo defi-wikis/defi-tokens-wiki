@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T21:23:10.176Z",
+    "timestamp": "2020-10-08T21:24:40.202Z",
     "version": {
         "major": 1,
-        "minor": 5277,
+        "minor": 5278,
         "patch": 0
     },
     "keywords": [
@@ -26752,6 +26752,13 @@
             "name": "yield cultivation finance",
             "symbol": "YFC",
             "address": "0x4F58D36d525c1Fa9B3521b84AedfCadDA62404F0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Beermoney.Finance",
+            "symbol": "BEER",
+            "address": "0x0c9B880A66f07A9bF7eDa581Be8F46379987FfB8",
             "decimals": 18
         }
     ]
