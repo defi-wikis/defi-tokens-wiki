@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T08:23:10.315Z",
+    "timestamp": "2020-10-08T08:38:45.305Z",
     "version": {
         "major": 1,
-        "minor": 5193,
+        "minor": 5194,
         "patch": 0
     },
     "keywords": [
@@ -26164,6 +26164,13 @@
             "name": "HEXAWEI",
             "symbol": "HXW",
             "address": "0x56A293a4c5Df76ec893b934E3180F961562dA3e8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Suni-finance",
+            "symbol": "SUNI",
+            "address": "0xDD7D9510D3D9A7EdDa1745ab91f9A2925C075722",
             "decimals": 18
         }
     ]
