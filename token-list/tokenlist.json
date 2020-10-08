@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:14:20.683Z",
+    "timestamp": "2020-10-08T18:15:09.205Z",
     "version": {
         "major": 1,
-        "minor": 5263,
+        "minor": 5264,
         "patch": 0
     },
     "keywords": [
@@ -26654,6 +26654,13 @@
             "name": "YFII Silver",
             "symbol": "YFIIS",
             "address": "0x32F3b9B5Bd6C76F41ee3B389573f340468666861",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XAPY",
+            "symbol": "XAPY",
+            "address": "0x4B8b9F8c67365b38C05c8DFE8Efa8fd662de31eb",
             "decimals": 18
         }
     ]
