@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:54:00.029Z",
+    "timestamp": "2020-10-08T16:01:02.246Z",
     "version": {
         "major": 1,
-        "minor": 5240,
+        "minor": 5241,
         "patch": 0
     },
     "keywords": [
@@ -26494,6 +26494,13 @@
             "symbol": "SPCX",
             "address": "0x79af2fff8a0a744041Dc702EF7FF180fe89839Bf",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RealUnit",
+            "symbol": "RUCH",
+            "address": "0x1b6FAB0D5FFE5967073c6E7F1e89bE00F7C59202",
+            "decimals": 0
         }
     ]
 }
