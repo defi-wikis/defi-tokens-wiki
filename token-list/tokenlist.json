@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:50:40.631Z",
+    "timestamp": "2020-10-08T15:54:00.029Z",
     "version": {
         "major": 1,
-        "minor": 5239,
+        "minor": 5240,
         "patch": 0
     },
     "keywords": [
@@ -26486,6 +26486,13 @@
             "name": "Yearn Meta Pool Finance",
             "symbol": "YMPL",
             "address": "0x49464D528E1F8020E84a189f4c32bAEE701Adde5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$pace-X",
+            "symbol": "SPCX",
+            "address": "0x79af2fff8a0a744041Dc702EF7FF180fe89839Bf",
             "decimals": 18
         }
     ]
