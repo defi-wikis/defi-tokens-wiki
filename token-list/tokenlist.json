@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:02:55.037Z",
+    "timestamp": "2020-10-08T18:03:03.020Z",
     "version": {
         "major": 1,
-        "minor": 5258,
+        "minor": 5259,
         "patch": 0
     },
     "keywords": [
@@ -26619,6 +26619,13 @@
             "name": "Xfinances",
             "symbol": "XFIS",
             "address": "0x7C3a130e79d558556eEBA50805F46fAaA106C29d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AccessChain",
+            "symbol": "ASIC",
+            "address": "0xd2f3328D7a404065A7B6f2f5bce50c8B8df1A367",
             "decimals": 18
         }
     ]
