@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:37:55.350Z",
+    "timestamp": "2020-10-08T18:53:02.054Z",
     "version": {
         "major": 1,
-        "minor": 5266,
+        "minor": 5267,
         "patch": 0
     },
     "keywords": [
@@ -26675,6 +26675,13 @@
             "name": "Noun Token",
             "symbol": "NOUN",
             "address": "0x2E70Cf4C149aED6501faec77C11dB6Fd8991Bd68",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WormholeToken",
+            "symbol": "WHT",
+            "address": "0x12483ec095fF0f5cC99e354f5d42ce728857B420",
             "decimals": 18
         }
     ]
