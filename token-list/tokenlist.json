@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T09:12:10.138Z",
+    "timestamp": "2020-10-08T09:12:40.402Z",
     "version": {
         "major": 1,
-        "minor": 5196,
+        "minor": 5197,
         "patch": 0
     },
     "keywords": [
@@ -26185,6 +26185,13 @@
             "name": "xensor",
             "symbol": "XSR",
             "address": "0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GirlFfriend",
+            "symbol": "GFR",
+            "address": "0x9e47C4e96667069d6dc5e2206A6dc19c9FD3d1b2",
             "decimals": 18
         }
     ]
