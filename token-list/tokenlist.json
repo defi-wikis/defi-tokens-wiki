@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T07:59:50.315Z",
+    "timestamp": "2020-10-08T08:23:10.315Z",
     "version": {
         "major": 1,
-        "minor": 5192,
+        "minor": 5193,
         "patch": 0
     },
     "keywords": [
@@ -26157,6 +26157,13 @@
             "name": "Royal Protocol",
             "symbol": "RYP",
             "address": "0xaDB0A3e96E6cC22c0781c7C793FeD99968De426e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HEXAWEI",
+            "symbol": "HXW",
+            "address": "0x56A293a4c5Df76ec893b934E3180F961562dA3e8",
             "decimals": 18
         }
     ]
