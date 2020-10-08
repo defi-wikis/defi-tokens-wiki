@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:59:35.982Z",
+    "timestamp": "2020-10-08T02:02:24.853Z",
     "version": {
         "major": 1,
-        "minor": 5155,
+        "minor": 5156,
         "patch": 0
     },
     "keywords": [
@@ -25899,6 +25899,13 @@
             "symbol": "66",
             "address": "0x1466734D94f99867189bD76162B41256fe4562F2",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "bellevuenetwork.io",
+            "symbol": "BLV",
+            "address": "0x816624BC14CaeaE40c13ec61B885B4754c4249A4",
+            "decimals": 18
         }
     ]
 }
