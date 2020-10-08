@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:14:11.286Z",
+    "timestamp": "2020-10-08T16:27:35.669Z",
     "version": {
         "major": 1,
-        "minor": 5245,
+        "minor": 5246,
         "patch": 0
     },
     "keywords": [
@@ -26528,6 +26528,13 @@
             "name": "Yoke Protocol",
             "symbol": "YOKE",
             "address": "0xD43Dd4c94952197dec03750fD86c1887034D4B7d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Centaur",
+            "symbol": "CNTR",
+            "address": "0x14765946469210bE4e54D4EA51BB7B4a56EAcC04",
             "decimals": 18
         }
     ]
