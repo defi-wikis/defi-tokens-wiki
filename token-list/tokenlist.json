@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T09:12:40.402Z",
+    "timestamp": "2020-10-08T09:15:45.906Z",
     "version": {
         "major": 1,
-        "minor": 5197,
+        "minor": 5198,
         "patch": 0
     },
     "keywords": [
@@ -26192,6 +26192,13 @@
             "name": "GirlFfriend",
             "symbol": "GFR",
             "address": "0x9e47C4e96667069d6dc5e2206A6dc19c9FD3d1b2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tan Protocol",
+            "symbol": "TAN",
+            "address": "0x79af0B5382d5564bA02E1A2D8498Ef5d2FD60c0e",
             "decimals": 18
         }
     ]
