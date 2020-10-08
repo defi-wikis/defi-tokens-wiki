@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T03:06:29.903Z",
+    "timestamp": "2020-10-08T03:18:15.655Z",
     "version": {
         "major": 1,
-        "minor": 5163,
+        "minor": 5164,
         "patch": 0
     },
     "keywords": [
@@ -25954,6 +25954,13 @@
             "name": "JASON",
             "symbol": "JASON",
             "address": "0xCAD03b7A566786e2bdE4980a3428a36fFb274eC0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "jgndefi.com",
+            "symbol": "JGN",
+            "address": "0x6D624df15128C4FCC6e73a985Eb2aa214EDB6597",
             "decimals": 18
         }
     ]
