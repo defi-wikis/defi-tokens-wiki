@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T13:07:36.197Z",
+    "timestamp": "2020-10-08T13:07:45.405Z",
     "version": {
         "major": 1,
-        "minor": 5222,
+        "minor": 5223,
         "patch": 0
     },
     "keywords": [
@@ -26367,6 +26367,13 @@
             "name": "plotx.io",
             "symbol": "PLOT",
             "address": "0x552a52740f03Df8589f18418a1aFD3a12Ec44542",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CHAIR",
+            "symbol": "CHR",
+            "address": "0x77b5F7c08fa4111F7e85e6D66f6Fdce293d43Fc4",
             "decimals": 18
         }
     ]
