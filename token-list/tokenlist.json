@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:26:08.331Z",
+    "timestamp": "2020-10-08T15:33:25.234Z",
     "version": {
         "major": 1,
-        "minor": 5235,
+        "minor": 5236,
         "patch": 0
     },
     "keywords": [
@@ -26458,6 +26458,13 @@
             "name": "Blackdragon",
             "symbol": "BD",
             "address": "0xf826bf04b13Ce1F3566454ace94b311F5e16AB7B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Super Yield Finance",
+            "symbol": "SYF",
+            "address": "0x2eB2BF7111214BB379Ff7bC7C115E896d5605465",
             "decimals": 18
         }
     ]
