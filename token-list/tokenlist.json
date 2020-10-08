@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T05:43:14.589Z",
+    "timestamp": "2020-10-08T05:48:21.159Z",
     "version": {
         "major": 1,
-        "minor": 5177,
+        "minor": 5178,
         "patch": 0
     },
     "keywords": [
@@ -26052,6 +26052,13 @@
             "name": "Zone chain 1.0",
             "symbol": "ZNEC",
             "address": "0x60717508C4997A59AC7B2f14adAa5e2A7BE2d80E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hamlos.finance",
+            "symbol": "HAML",
+            "address": "0xa800d22357e278bDc4eF98A062Df5D22261dd2D6",
             "decimals": 18
         }
     ]
