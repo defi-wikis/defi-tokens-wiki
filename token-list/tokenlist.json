@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T02:08:10.649Z",
+    "timestamp": "2020-10-08T02:32:20.138Z",
     "version": {
         "major": 1,
-        "minor": 5157,
+        "minor": 5158,
         "patch": 0
     },
     "keywords": [
@@ -25912,6 +25912,13 @@
             "name": "xbast",
             "symbol": "XBAST",
             "address": "0xe6793C9786A29BD80c6CbE35Cfe5E47A8c4199D4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LARP",
+            "symbol": "LARP",
+            "address": "0x17d719E7706eF3a50f5518B51C73cA26367309d7",
             "decimals": 18
         }
     ]
