@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T20:47:14.718Z",
+    "timestamp": "2020-10-08T21:23:10.176Z",
     "version": {
         "major": 1,
-        "minor": 5276,
+        "minor": 5277,
         "patch": 0
     },
     "keywords": [
@@ -26745,6 +26745,13 @@
             "name": "Marco Token",
             "symbol": "MRC",
             "address": "0xdc3228e10259494A834743260CA8340c7Ea90391",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yield cultivation finance",
+            "symbol": "YFC",
+            "address": "0x4F58D36d525c1Fa9B3521b84AedfCadDA62404F0",
             "decimals": 18
         }
     ]
