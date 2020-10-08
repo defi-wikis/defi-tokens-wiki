@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:55:40.125Z",
+    "timestamp": "2020-10-08T11:59:21.212Z",
     "version": {
         "major": 1,
-        "minor": 5212,
+        "minor": 5213,
         "patch": 0
     },
     "keywords": [
@@ -26297,6 +26297,13 @@
             "name": "Uniwasp.Finance",
             "symbol": "WASP",
             "address": "0xe4382F177324320A537A14A870B3C16E6160ed61",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unimoon.Exchange",
+            "symbol": "UNIM",
+            "address": "0x59475074846F80273eE3706cE07833152DD7C190",
             "decimals": 18
         }
     ]
