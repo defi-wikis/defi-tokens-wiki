@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T02:32:39.925Z",
+    "timestamp": "2020-10-08T02:34:34.814Z",
     "version": {
         "major": 1,
-        "minor": 5159,
+        "minor": 5160,
         "patch": 0
     },
     "keywords": [
@@ -25926,6 +25926,13 @@
             "name": "Core 2.0 Rebase",
             "symbol": "CORER",
             "address": "0x928df25eC5c8D75c6a0d53A78C31b76BE9c98bCA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Apym",
+            "symbol": "APYM",
+            "address": "0xe884B12b6b69b0b12176713E6Aa7e8dccDDa9Bb1",
             "decimals": 18
         }
     ]
