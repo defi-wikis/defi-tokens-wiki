@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T05:05:29.684Z",
+    "timestamp": "2020-10-08T05:10:31.023Z",
     "version": {
         "major": 1,
-        "minor": 5175,
+        "minor": 5176,
         "patch": 0
     },
     "keywords": [
@@ -26038,6 +26038,13 @@
             "name": "Flame Finance",
             "symbol": "FLAME",
             "address": "0x4188Be8Fae08764ee1ebA4522E3f50Df82C7CaB3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dracula.sucks",
+            "symbol": "DRC",
+            "address": "0x16Cfab76F65b22F55E59A4469C3E7c761B30B48c",
             "decimals": 18
         }
     ]
