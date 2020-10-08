@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T20:00:17.898Z",
+    "timestamp": "2020-10-08T20:44:19.809Z",
     "version": {
         "major": 1,
-        "minor": 5274,
+        "minor": 5275,
         "patch": 0
     },
     "keywords": [
@@ -26731,6 +26731,13 @@
             "name": "ENCORB",
             "symbol": "ENCORB",
             "address": "0x8EB8411038cB2aBf33F8bC34191a2806a7da8a53",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Swap Finance II",
+            "symbol": "SUFII",
+            "address": "0xEDb0375fBA30311D091cf650b052Da5a33f5e6a9",
             "decimals": 18
         }
     ]
