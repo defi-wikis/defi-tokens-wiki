@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:49:02.616Z",
+    "timestamp": "2020-10-08T11:50:40.934Z",
     "version": {
         "major": 1,
-        "minor": 5209,
+        "minor": 5210,
         "patch": 0
     },
     "keywords": [
@@ -26277,6 +26277,13 @@
             "symbol": "YFMAX",
             "address": "0xdf4441155CA1f7443F7Ed51a556970f7037a9A45",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UBSC",
+            "symbol": "UBSC",
+            "address": "0xa5b80588Ee71e165E0d2f7284EaC0ee4C2883aAa",
+            "decimals": 8
         }
     ]
 }
