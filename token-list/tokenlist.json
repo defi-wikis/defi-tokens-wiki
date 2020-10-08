@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T03:18:15.655Z",
+    "timestamp": "2020-10-08T03:23:20.649Z",
     "version": {
         "major": 1,
-        "minor": 5164,
+        "minor": 5165,
         "patch": 0
     },
     "keywords": [
@@ -25961,6 +25961,13 @@
             "name": "jgndefi.com",
             "symbol": "JGN",
             "address": "0x6D624df15128C4FCC6e73a985Eb2aa214EDB6597",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "abridge.network",
+            "symbol": "ABN",
+            "address": "0xb991005f872F1208C49D7a5ca2afA27636D08251",
             "decimals": 18
         }
     ]
