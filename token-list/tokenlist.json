@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T12:40:27.401Z",
+    "timestamp": "2020-10-08T12:58:25.652Z",
     "version": {
         "major": 1,
-        "minor": 5218,
+        "minor": 5219,
         "patch": 0
     },
     "keywords": [
@@ -26340,6 +26340,13 @@
             "symbol": "PIPT",
             "address": "0xb2B9335791346E94245DCd316A9C9ED486E6dD7f",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BST",
+            "symbol": "BST",
+            "address": "0xA2D336EF1909F1087CD0515df25e13C5D2cE0Bbd",
+            "decimals": 0
         }
     ]
 }
