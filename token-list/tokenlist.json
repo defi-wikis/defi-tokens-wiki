@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T03:23:20.649Z",
+    "timestamp": "2020-10-08T03:24:20.892Z",
     "version": {
         "major": 1,
-        "minor": 5165,
+        "minor": 5166,
         "patch": 0
     },
     "keywords": [
@@ -25968,6 +25968,13 @@
             "name": "abridge.network",
             "symbol": "ABN",
             "address": "0xb991005f872F1208C49D7a5ca2afA27636D08251",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YROCK Finance",
+            "symbol": "YROCK",
+            "address": "0x80343a26951B4754A44fA2B8BAb5d54B28F05B13",
             "decimals": 18
         }
     ]
