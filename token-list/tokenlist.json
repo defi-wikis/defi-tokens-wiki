@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T03:45:55.932Z",
+    "timestamp": "2020-10-08T03:57:30.029Z",
     "version": {
         "major": 1,
-        "minor": 5168,
+        "minor": 5169,
         "patch": 0
     },
     "keywords": [
@@ -25989,6 +25989,13 @@
             "name": "dasniodnaio",
             "symbol": "grneiogng3",
             "address": "0xe75899A17995a7Df29B15f1e4E486B2C86287c51",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cos Protocol",
+            "symbol": "COS",
+            "address": "0xD7F3401a9356E932450b7Fb343ef6E2213735bCC",
             "decimals": 18
         }
     ]
