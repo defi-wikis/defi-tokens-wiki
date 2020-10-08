@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T04:34:15.569Z",
+    "timestamp": "2020-10-08T05:05:29.684Z",
     "version": {
         "major": 1,
-        "minor": 5174,
+        "minor": 5175,
         "patch": 0
     },
     "keywords": [
@@ -26031,6 +26031,13 @@
             "name": "VIKI Finance",
             "symbol": "VIKI",
             "address": "0x30b59089375FbCf08700e67930Dc8aE4ABB4fB58",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Flame Finance",
+            "symbol": "FLAME",
+            "address": "0x4188Be8Fae08764ee1ebA4522E3f50Df82C7CaB3",
             "decimals": 18
         }
     ]
