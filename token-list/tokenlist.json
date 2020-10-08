@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T05:59:10.566Z",
+    "timestamp": "2020-10-08T06:10:11.351Z",
     "version": {
         "major": 1,
-        "minor": 5180,
+        "minor": 5181,
         "patch": 0
     },
     "keywords": [
@@ -26073,6 +26073,13 @@
             "name": "LunaCore",
             "symbol": "LUCO",
             "address": "0x3cD22cAc55E0D716647875e111259C9567d4DbC5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Defix Network",
+            "symbol": "DEFIX",
+            "address": "0xD4E7DFfBADE47ca76Fe654Fb4659748B52974f7c",
             "decimals": 18
         }
     ]
