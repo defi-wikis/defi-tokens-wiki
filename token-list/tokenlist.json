@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:33:30.064Z",
+    "timestamp": "2020-10-08T15:38:44.855Z",
     "version": {
         "major": 1,
-        "minor": 5237,
+        "minor": 5238,
         "patch": 0
     },
     "keywords": [
@@ -26472,6 +26472,13 @@
             "name": "Parsiq Token",
             "symbol": "PRQ",
             "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yield Finance v2",
+            "symbol": "YFIv2",
+            "address": "0x43f433576579e5b350937966911D1575074A47C3",
             "decimals": 18
         }
     ]
