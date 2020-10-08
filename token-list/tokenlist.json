@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T14:03:35.698Z",
+    "timestamp": "2020-10-08T14:15:36.866Z",
     "version": {
         "major": 1,
-        "minor": 5228,
+        "minor": 5229,
         "patch": 0
     },
     "keywords": [
@@ -26409,6 +26409,13 @@
             "name": "Seele",
             "symbol": "SEELE",
             "address": "0x20549A1aB8a5993a938CEe147461a7250d40A374",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "$SIDEBOOB",
+            "symbol": "SBOOB",
+            "address": "0x3f64290004F7F67d8a2E041F3DE0C733146ABc90",
             "decimals": 18
         }
     ]
