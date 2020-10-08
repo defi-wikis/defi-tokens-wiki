@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T09:35:55.314Z",
+    "timestamp": "2020-10-08T09:59:26.397Z",
     "version": {
         "major": 1,
-        "minor": 5200,
+        "minor": 5201,
         "patch": 0
     },
     "keywords": [
@@ -26213,6 +26213,13 @@
             "name": "DragonSwap",
             "symbol": "DSP",
             "address": "0x8D7861E642B556ffd7e4cC23d55b58acB60CbAB5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UlvaFinance.com",
+            "symbol": "ULFI",
+            "address": "0x6cb2dB8491e688385aD0eC6f6d52Ef696994490D",
             "decimals": 18
         }
     ]
