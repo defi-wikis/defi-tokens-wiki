@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T06:21:11.480Z",
+    "timestamp": "2020-10-08T06:36:20.773Z",
     "version": {
         "major": 1,
-        "minor": 5182,
+        "minor": 5183,
         "patch": 0
     },
     "keywords": [
@@ -26087,6 +26087,13 @@
             "name": "VBC",
             "symbol": "VBC(radr)",
             "address": "0x19DB8395CAa3e711366fcD857b32d03F84159e47",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfav.finance",
+            "symbol": "YFAV",
+            "address": "0x0f2f6B0BbD12eda6114D8E6777918797f3F60Fb1",
             "decimals": 18
         }
     ]
