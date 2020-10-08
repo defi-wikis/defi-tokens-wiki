@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T07:28:06.803Z",
+    "timestamp": "2020-10-08T07:30:40.133Z",
     "version": {
         "major": 1,
-        "minor": 5187,
+        "minor": 5188,
         "patch": 0
     },
     "keywords": [
@@ -26122,6 +26122,13 @@
             "name": "Blue YFI Finance",
             "symbol": "BYFI",
             "address": "0x5840762632A0Ac3C7D5be6231E6f4470B2e5e94E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ScorpionToken",
+            "symbol": "SCORP",
+            "address": "0x5fc4cd40e4Dd3B8A455c4B1aEE9A73161852b5C3",
             "decimals": 18
         }
     ]
