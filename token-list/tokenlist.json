@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:03:03.020Z",
+    "timestamp": "2020-10-08T18:04:02.610Z",
     "version": {
         "major": 1,
-        "minor": 5259,
+        "minor": 5260,
         "patch": 0
     },
     "keywords": [
@@ -26626,6 +26626,13 @@
             "name": "AccessChain",
             "symbol": "ASIC",
             "address": "0xd2f3328D7a404065A7B6f2f5bce50c8B8df1A367",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Candle Token",
+            "symbol": "CANDL",
+            "address": "0xFb546A3EE0a3dB73859b2f4B97C4B2B680DF375C",
             "decimals": 18
         }
     ]
