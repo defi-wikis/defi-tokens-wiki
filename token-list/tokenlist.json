@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T05:10:31.023Z",
+    "timestamp": "2020-10-08T05:43:14.589Z",
     "version": {
         "major": 1,
-        "minor": 5176,
+        "minor": 5177,
         "patch": 0
     },
     "keywords": [
@@ -26045,6 +26045,13 @@
             "name": "Dracula.sucks",
             "symbol": "DRC",
             "address": "0x16Cfab76F65b22F55E59A4469C3E7c761B30B48c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zone chain 1.0",
+            "symbol": "ZNEC",
+            "address": "0x60717508C4997A59AC7B2f14adAa5e2A7BE2d80E",
             "decimals": 18
         }
     ]
