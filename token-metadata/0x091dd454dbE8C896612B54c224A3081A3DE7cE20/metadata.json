@@ -1,0 +1,7 @@
+{
+    "name": "HodlerToken",
+    "symbol": "HODL",
+    "address": "0x091dd454dbE8C896612B54c224A3081A3DE7cE20",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
