@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T15:03:25.017Z",
+    "timestamp": "2020-10-08T15:11:20.508Z",
     "version": {
         "major": 1,
-        "minor": 5233,
+        "minor": 5234,
         "patch": 0
     },
     "keywords": [
@@ -26445,6 +26445,13 @@
             "symbol": "YFCORE",
             "address": "0x83108AA5AffcebcC7857029175Db37B2fE91cf79",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Leo Finance",
+            "symbol": "FLEO",
+            "address": "0x921Bb9b86AEf8B2cA137924c6d210553cBaA48cF",
+            "decimals": 18
         }
     ]
 }
