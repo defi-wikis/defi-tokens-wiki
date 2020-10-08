@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T19:11:44.773Z",
+    "timestamp": "2020-10-08T19:21:20.233Z",
     "version": {
         "major": 1,
-        "minor": 5269,
+        "minor": 5270,
         "patch": 0
     },
     "keywords": [
@@ -26696,6 +26696,13 @@
             "name": "APY.Xfinance",
             "symbol": "APYX",
             "address": "0xdD88619c14726D6422e555656267Ec8f610Be682",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DePi",
+            "symbol": "DEPI",
+            "address": "0xA19079eAC86F13D5419Ae5C0B244c6e86d477Aae",
             "decimals": 18
         }
     ]
