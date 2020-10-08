@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:45:36.217Z",
+    "timestamp": "2020-10-08T16:45:50.718Z",
     "version": {
         "major": 1,
-        "minor": 5251,
+        "minor": 5252,
         "patch": 0
     },
     "keywords": [
@@ -26570,6 +26570,13 @@
             "name": "FinXFlo.com",
             "symbol": "FXF",
             "address": "0x81871aD2dDAC44262E76A444365019C34eA9D25E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wizard",
+            "symbol": "WIZ",
+            "address": "0x7571C4A38cCBd0fBE5206170b68C8BaF84F25dDF",
             "decimals": 18
         }
     ]
