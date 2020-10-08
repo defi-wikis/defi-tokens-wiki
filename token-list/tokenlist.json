@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T02:56:10.143Z",
+    "timestamp": "2020-10-08T03:04:55.061Z",
     "version": {
         "major": 1,
-        "minor": 5161,
+        "minor": 5162,
         "patch": 0
     },
     "keywords": [
@@ -25941,6 +25941,13 @@
             "symbol": "FAM",
             "address": "0xF35084E49bE90675bbE6A3Ef81BD606bB05d0cbB",
             "decimals": 17
+        },
+        {
+            "chainId": 1,
+            "name": "COF",
+            "symbol": "COF",
+            "address": "0x0316155671A6B372d68323EC798f597675110896",
+            "decimals": 18
         }
     ]
 }
