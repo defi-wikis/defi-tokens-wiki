@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T13:07:45.405Z",
+    "timestamp": "2020-10-08T13:29:45.049Z",
     "version": {
         "major": 1,
-        "minor": 5223,
+        "minor": 5224,
         "patch": 0
     },
     "keywords": [
@@ -26374,6 +26374,13 @@
             "name": "CHAIR",
             "symbol": "CHR",
             "address": "0x77b5F7c08fa4111F7e85e6D66f6Fdce293d43Fc4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Uniswap",
+            "symbol": "ETHU",
+            "address": "0xC58e686fAffbBa265Ae023F8fe52C07307a4AC3f",
             "decimals": 18
         }
     ]
