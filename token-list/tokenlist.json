@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T04:19:25.317Z",
+    "timestamp": "2020-10-08T04:23:09.832Z",
     "version": {
         "major": 1,
-        "minor": 5171,
+        "minor": 5172,
         "patch": 0
     },
     "keywords": [
@@ -26010,6 +26010,13 @@
             "name": "Sushi Swap v2",
             "symbol": "SUSW",
             "address": "0xD99c25905099D2CcCC067A55704fE6F77f84065d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniRocket",
+            "symbol": "URCKT",
+            "address": "0x23AaB5275B3C6489eE0Eae1F0CBa93e8A3635C3E",
             "decimals": 18
         }
     ]
