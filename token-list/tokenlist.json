@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T12:16:56.302Z",
+    "timestamp": "2020-10-08T12:23:15.643Z",
     "version": {
         "major": 1,
-        "minor": 5216,
+        "minor": 5217,
         "patch": 0
     },
     "keywords": [
@@ -26325,6 +26325,13 @@
             "name": "MasterORB",
             "symbol": "MORB",
             "address": "0xee76c208fD0A57C2789863A76FA8532c06968265",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "fry.world",
+            "symbol": "FRIES",
+            "address": "0xB2a780154fCa426af7E7548a41079612Bc5433D1",
             "decimals": 18
         }
     ]
