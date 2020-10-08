@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:11:40.301Z",
+    "timestamp": "2020-10-08T18:14:08.620Z",
     "version": {
         "major": 1,
-        "minor": 5261,
+        "minor": 5262,
         "patch": 0
     },
     "keywords": [
@@ -26640,6 +26640,13 @@
             "name": "RADIX DEFI",
             "symbol": "RADIX",
             "address": "0x0e5B9ef2902F3e9BEE37c9F184719B51511b5514",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Blue-corby",
+            "symbol": "CORBY",
+            "address": "0x24221401E6C0957fE8da01472637915623BFcfdE",
             "decimals": 18
         }
     ]
