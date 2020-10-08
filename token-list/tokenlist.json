@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T07:30:40.133Z",
+    "timestamp": "2020-10-08T07:30:55.538Z",
     "version": {
         "major": 1,
-        "minor": 5188,
+        "minor": 5189,
         "patch": 0
     },
     "keywords": [
@@ -26129,6 +26129,13 @@
             "name": "ScorpionToken",
             "symbol": "SCORP",
             "address": "0x5fc4cd40e4Dd3B8A455c4B1aEE9A73161852b5C3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YMFS.FINANCE",
+            "symbol": "YMFS",
+            "address": "0x6211AeFF581BFb3B53b5289B4e841e48b5750Cd0",
             "decimals": 18
         }
     ]
