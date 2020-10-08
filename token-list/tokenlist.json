@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T22:46:59.684Z",
+    "timestamp": "2020-10-08T22:59:10.798Z",
     "version": {
         "major": 1,
-        "minor": 5285,
+        "minor": 5286,
         "patch": 0
     },
     "keywords": [
@@ -26808,6 +26808,13 @@
             "name": "Syield.finance",
             "symbol": "SYLD",
             "address": "0x3719fB99F4d5622c76c9a134909BA4b2E684D81e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CEXI",
+            "symbol": "CEXI",
+            "address": "0xB5032D7967d544ab849843Ea659C8c0a9954A5aD",
             "decimals": 18
         }
     ]
