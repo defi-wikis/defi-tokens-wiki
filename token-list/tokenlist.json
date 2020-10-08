@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:23:40.006Z",
+    "timestamp": "2020-10-08T01:33:14.909Z",
     "version": {
         "major": 1,
-        "minor": 5151,
+        "minor": 5152,
         "patch": 0
     },
     "keywords": [
@@ -25870,6 +25870,13 @@
             "name": "YearnFinanceNetwork",
             "symbol": "YFN",
             "address": "0x51F397A51579387d5C36571444608EEF22953c8a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "scm",
+            "symbol": "scammerswap",
+            "address": "0x6Ff7503977BaaB08038Dc66E904Ee69c2d34aF1b",
             "decimals": 18
         }
     ]
