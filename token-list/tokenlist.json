@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:17:55.250Z",
+    "timestamp": "2020-10-08T18:37:55.350Z",
     "version": {
         "major": 1,
-        "minor": 5265,
+        "minor": 5266,
         "patch": 0
     },
     "keywords": [
@@ -26668,6 +26668,13 @@
             "name": "XFinane",
             "symbol": "XFE",
             "address": "0x105D1939090c4221b061D5431E7ca06532D542A1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Noun Token",
+            "symbol": "NOUN",
+            "address": "0x2E70Cf4C149aED6501faec77C11dB6Fd8991Bd68",
             "decimals": 18
         }
     ]
