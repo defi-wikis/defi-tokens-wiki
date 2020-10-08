@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T12:15:20.362Z",
+    "timestamp": "2020-10-08T12:16:56.302Z",
     "version": {
         "major": 1,
-        "minor": 5215,
+        "minor": 5216,
         "patch": 0
     },
     "keywords": [
@@ -26318,6 +26318,13 @@
             "name": "Rfinance.io",
             "symbol": "RFI",
             "address": "0x47d21537aa590B54440f04bE0f062aE953044fd6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MasterORB",
+            "symbol": "MORB",
+            "address": "0xee76c208fD0A57C2789863A76FA8532c06968265",
             "decimals": 18
         }
     ]
