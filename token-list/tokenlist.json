@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T09:15:45.906Z",
+    "timestamp": "2020-10-08T09:35:02.174Z",
     "version": {
         "major": 1,
-        "minor": 5198,
+        "minor": 5199,
         "patch": 0
     },
     "keywords": [
@@ -26199,6 +26199,13 @@
             "name": "Tan Protocol",
             "symbol": "TAN",
             "address": "0x79af0B5382d5564bA02E1A2D8498Ef5d2FD60c0e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "King.finance",
+            "symbol": "KFI",
+            "address": "0x8eA60443D74180AE2f5aa5c850FC32717939C657",
             "decimals": 18
         }
     ]
