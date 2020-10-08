@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:15:09.205Z",
+    "timestamp": "2020-10-08T18:17:55.250Z",
     "version": {
         "major": 1,
-        "minor": 5264,
+        "minor": 5265,
         "patch": 0
     },
     "keywords": [
@@ -26661,6 +26661,13 @@
             "name": "XAPY",
             "symbol": "XAPY",
             "address": "0x4B8b9F8c67365b38C05c8DFE8Efa8fd662de31eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XFinane",
+            "symbol": "XFE",
+            "address": "0x105D1939090c4221b061D5431E7ca06532D542A1",
             "decimals": 18
         }
     ]
