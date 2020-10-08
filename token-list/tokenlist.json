@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:04:02.610Z",
+    "timestamp": "2020-10-08T18:11:40.301Z",
     "version": {
         "major": 1,
-        "minor": 5260,
+        "minor": 5261,
         "patch": 0
     },
     "keywords": [
@@ -26633,6 +26633,13 @@
             "name": "Candle Token",
             "symbol": "CANDL",
             "address": "0xFb546A3EE0a3dB73859b2f4B97C4B2B680DF375C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RADIX DEFI",
+            "symbol": "RADIX",
+            "address": "0x0e5B9ef2902F3e9BEE37c9F184719B51511b5514",
             "decimals": 18
         }
     ]
