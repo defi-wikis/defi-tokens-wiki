@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T09:08:00.034Z",
+    "timestamp": "2020-10-08T09:12:10.138Z",
     "version": {
         "major": 1,
-        "minor": 5195,
+        "minor": 5196,
         "patch": 0
     },
     "keywords": [
@@ -26178,6 +26178,13 @@
             "name": "S3XYBTC",
             "symbol": "S3XY",
             "address": "0xcc120848Adf3C7F7e935f0a7922E21A025474E63",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xensor",
+            "symbol": "XSR",
+            "address": "0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045",
             "decimals": 18
         }
     ]
