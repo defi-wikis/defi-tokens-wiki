@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T18:53:02.054Z",
+    "timestamp": "2020-10-08T19:06:36.050Z",
     "version": {
         "major": 1,
-        "minor": 5267,
+        "minor": 5268,
         "patch": 0
     },
     "keywords": [
@@ -26682,6 +26682,13 @@
             "name": "WormholeToken",
             "symbol": "WHT",
             "address": "0x12483ec095fF0f5cC99e354f5d42ce728857B420",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TenS Protocol",
+            "symbol": "TENS",
+            "address": "0xE40953558D1C170030B0fD8c300A063854889e3C",
             "decimals": 18
         }
     ]
