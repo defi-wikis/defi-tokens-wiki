@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T11:50:40.934Z",
+    "timestamp": "2020-10-08T11:53:30.334Z",
     "version": {
         "major": 1,
-        "minor": 5210,
+        "minor": 5211,
         "patch": 0
     },
     "keywords": [
@@ -26284,6 +26284,13 @@
             "symbol": "UBSC",
             "address": "0xa5b80588Ee71e165E0d2f7284EaC0ee4C2883aAa",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Wrong",
+            "symbol": "WRONG",
+            "address": "0x4C76b4bB2AC4F7d676D3faB58B54662fAE0B2a8B",
+            "decimals": 18
         }
     ]
 }
