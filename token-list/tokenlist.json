@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:03:45.048Z",
+    "timestamp": "2020-10-08T01:13:30.382Z",
     "version": {
         "major": 1,
-        "minor": 5148,
+        "minor": 5149,
         "patch": 0
     },
     "keywords": [
@@ -25849,6 +25849,13 @@
             "name": "Mad Max Finance",
             "symbol": "MAD",
             "address": "0x912A64259735e957D18391054Dd5Bf25177F1173",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MadisSwap",
+            "symbol": "Madis",
+            "address": "0x0aD3d2c1B2E6B932788B0cB079297C32E3005b54",
             "decimals": 18
         }
     ]
