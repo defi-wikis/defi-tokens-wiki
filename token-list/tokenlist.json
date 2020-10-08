@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T22:25:30.035Z",
+    "timestamp": "2020-10-08T22:46:59.684Z",
     "version": {
         "major": 1,
-        "minor": 5284,
+        "minor": 5285,
         "patch": 0
     },
     "keywords": [
@@ -26801,6 +26801,13 @@
             "name": "Marathon.Finance",
             "symbol": "MTON",
             "address": "0xB0a59d07aDffcd8a70552CcEdE849c14c9E7BE24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Syield.finance",
+            "symbol": "SYLD",
+            "address": "0x3719fB99F4d5622c76c9a134909BA4b2E684D81e",
             "decimals": 18
         }
     ]
