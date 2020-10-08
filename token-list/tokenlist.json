@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T01:59:30.380Z",
+    "timestamp": "2020-10-08T01:59:35.982Z",
     "version": {
         "major": 1,
-        "minor": 5154,
+        "minor": 5155,
         "patch": 0
     },
     "keywords": [
@@ -25892,6 +25892,13 @@
             "symbol": "EZEc",
             "address": "0x456B603cc61a919FB7f03BC7fD0550eb9e526dA6",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "66Cash",
+            "symbol": "66",
+            "address": "0x1466734D94f99867189bD76162B41256fe4562F2",
+            "decimals": 6
         }
     ]
 }
