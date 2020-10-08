@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T12:01:35.737Z",
+    "timestamp": "2020-10-08T12:15:20.362Z",
     "version": {
         "major": 1,
-        "minor": 5214,
+        "minor": 5215,
         "patch": 0
     },
     "keywords": [
@@ -26311,6 +26311,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0xa4c592ab06DaB1d2a78065896A01175CCfCE9a22",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rfinance.io",
+            "symbol": "RFI",
+            "address": "0x47d21537aa590B54440f04bE0f062aE953044fd6",
             "decimals": 18
         }
     ]
