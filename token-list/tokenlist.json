@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T16:06:54.846Z",
+    "timestamp": "2020-10-08T16:12:50.032Z",
     "version": {
         "major": 1,
-        "minor": 5243,
+        "minor": 5244,
         "patch": 0
     },
     "keywords": [
@@ -26514,6 +26514,13 @@
             "name": "EtherBot.ai",
             "symbol": "EBA",
             "address": "0xA082699315778E7862DDd7c795f384FA64D1C653",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "theovorideA",
+            "symbol": "OvOa",
+            "address": "0x96Dd2c778FB281294fA9c1D2b8AF3b47369306F2",
             "decimals": 18
         }
     ]
