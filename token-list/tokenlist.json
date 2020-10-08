@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-08T07:54:55.561Z",
+    "timestamp": "2020-10-08T07:59:50.315Z",
     "version": {
         "major": 1,
-        "minor": 5191,
+        "minor": 5192,
         "patch": 0
     },
     "keywords": [
@@ -26151,6 +26151,13 @@
             "symbol": "KEEM",
             "address": "0xDd772f09a70F017fb8caF9E92A49164DE7fE493a",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Royal Protocol",
+            "symbol": "RYP",
+            "address": "0xaDB0A3e96E6cC22c0781c7C793FeD99968De426e",
+            "decimals": 18
         }
     ]
 }
