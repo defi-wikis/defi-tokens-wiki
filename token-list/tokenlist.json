@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T10:35:20.756Z",
+    "timestamp": "2020-10-09T10:54:20.339Z",
     "version": {
         "major": 1,
-        "minor": 5350,
+        "minor": 5351,
         "patch": 0
     },
     "keywords": [
@@ -27263,6 +27263,13 @@
             "name": "Doge Swap",
             "symbol": "DOGES",
             "address": "0x0076d46EEABc1F9cEC363c79B1F8424f0E7c453C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RedButtonCoin",
+            "symbol": "RBC",
+            "address": "0x8a43737674f74E8A369b6F70cD648dC8368744a4",
             "decimals": 18
         }
     ]
