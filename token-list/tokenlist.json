@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:07:50.962Z",
+    "timestamp": "2020-10-09T14:13:49.908Z",
     "version": {
         "major": 1,
-        "minor": 5378,
+        "minor": 5379,
         "patch": 0
     },
     "keywords": [
@@ -27459,6 +27459,13 @@
             "name": "UNIFarm",
             "symbol": "UNIF",
             "address": "0xD971Cd41d9D85A0E84014846c59957385FF61f07",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yii.finance",
+            "symbol": "YII",
+            "address": "0x73924A7c230573c91101eDa96032994322c87991",
             "decimals": 18
         }
     ]
