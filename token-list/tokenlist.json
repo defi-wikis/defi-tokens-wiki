@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T15:39:45.821Z",
+    "timestamp": "2020-10-09T15:40:08.747Z",
     "version": {
         "major": 1,
-        "minor": 5392,
+        "minor": 5393,
         "patch": 0
     },
     "keywords": [
@@ -27557,6 +27557,13 @@
             "name": "Vulpix Token",
             "symbol": "VPX",
             "address": "0xe437E686306A08Cb9f1570165d29001783E57cf4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DiFy.Finance",
+            "symbol": "DIFY",
+            "address": "0x65dCE6DeC2ddab612859564D6fcCe372B5123594",
             "decimals": 18
         }
     ]
