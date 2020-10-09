@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T16:05:11.100Z",
+    "timestamp": "2020-10-09T16:08:32.895Z",
     "version": {
         "major": 1,
-        "minor": 5395,
+        "minor": 5396,
         "patch": 0
     },
     "keywords": [
@@ -27578,6 +27578,13 @@
             "name": "Marathon.Finance",
             "symbol": "MTON",
             "address": "0xbBCDe8a336A5Bb32911D9BD9037453F03360c58b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YYII.Finance",
+            "symbol": "YYII",
+            "address": "0xEb5e669DEE1516B6225B9c99C161232FD46778e1",
             "decimals": 18
         }
     ]
