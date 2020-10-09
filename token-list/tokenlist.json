@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T22:46:07.852Z",
+    "timestamp": "2020-10-09T22:59:34.492Z",
     "version": {
         "major": 1,
-        "minor": 5438,
+        "minor": 5439,
         "patch": 0
     },
     "keywords": [
@@ -27879,6 +27879,13 @@
             "name": "BestCore.finance",
             "symbol": "BCORE",
             "address": "0xbFb9b7Bd640BF29c1FCd5d3535072eBbE2cDd5AB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HeavensGate",
+            "symbol": "HATE",
+            "address": "0x054bD236b42385c938357112F419dC5943687886",
             "decimals": 18
         }
     ]
