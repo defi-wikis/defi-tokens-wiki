@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T00:49:30.845Z",
+    "timestamp": "2020-10-09T01:00:26.932Z",
     "version": {
         "major": 1,
-        "minor": 5290,
+        "minor": 5291,
         "patch": 0
     },
     "keywords": [
@@ -26844,6 +26844,13 @@
             "symbol": "LOVE",
             "address": "0xA39Adbe25c4564A5f68A6ab22A0554C440C53542",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LITonium",
+            "symbol": "LIT",
+            "address": "0x2e3C062E16c1a3a04Ddc5003c62E294305d83684",
+            "decimals": 2
         }
     ]
 }
