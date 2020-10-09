@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T06:16:17.676Z",
+    "timestamp": "2020-10-09T06:16:52.444Z",
     "version": {
         "major": 1,
-        "minor": 5318,
+        "minor": 5319,
         "patch": 0
     },
     "keywords": [
@@ -27040,6 +27040,13 @@
             "symbol": "XFIS",
             "address": "0xac51e84CCF9Ff013F54cc53BbEd80250E558d1Aa",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGG",
+            "symbol": "YGG",
+            "address": "0xC254664c7408Dde413969fBcD593328F6099E32f",
+            "decimals": 4
         }
     ]
 }
