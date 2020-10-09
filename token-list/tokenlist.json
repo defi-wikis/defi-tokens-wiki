@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T08:16:19.874Z",
+    "timestamp": "2020-10-09T08:18:29.778Z",
     "version": {
         "major": 1,
-        "minor": 5333,
+        "minor": 5334,
         "patch": 0
     },
     "keywords": [
@@ -27144,6 +27144,13 @@
             "name": "Spartans",
             "symbol": "SPR",
             "address": "0x421A464Ee7f0987D1b008280967a57Bfa5921EA1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AIR Finance",
+            "symbol": "AIR",
+            "address": "0x93C8497c2B59e0645dd4E499cFaAe3e8FFb05045",
             "decimals": 18
         }
     ]
