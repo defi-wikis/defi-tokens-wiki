@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T10:56:25.111Z",
+    "timestamp": "2020-10-09T10:57:30.755Z",
     "version": {
         "major": 1,
-        "minor": 5352,
+        "minor": 5353,
         "patch": 0
     },
     "keywords": [
@@ -27277,6 +27277,13 @@
             "name": "SenseToken",
             "symbol": "SENSE",
             "address": "0x7A7293E99AEbDf8593A33dC26DD09F56f4Ff0a3E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YCoreFinance",
+            "symbol": "YCORE",
+            "address": "0x3339C51B5d224A50DB035630e59454b0F35d094B",
             "decimals": 18
         }
     ]
