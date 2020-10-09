@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T15:03:10.577Z",
+    "timestamp": "2020-10-09T15:04:10.889Z",
     "version": {
         "major": 1,
-        "minor": 5390,
+        "minor": 5391,
         "patch": 0
     },
     "keywords": [
@@ -27543,6 +27543,13 @@
             "name": "GigaToken",
             "symbol": "GIGA",
             "address": "0x96E97F2C58Cf3bD8E7E0a06EEe835C7594F84Fae",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnPiCoin",
+            "symbol": "EPC",
+            "address": "0x6C75e5079e56D7dd49ad288653da97Ac1945C2ae",
             "decimals": 18
         }
     ]
