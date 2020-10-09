@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T23:14:25.573Z",
+    "timestamp": "2020-10-09T23:24:21.007Z",
     "version": {
         "major": 1,
-        "minor": 5440,
+        "minor": 5441,
         "patch": 0
     },
     "keywords": [
@@ -27893,6 +27893,13 @@
             "name": "SHAKA",
             "symbol": "SHAKA",
             "address": "0x8a04Ce6461749A6bc57CD4468f1e6dc5E60AFdca",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fuel Swap",
+            "symbol": "FUEL",
+            "address": "0x5038615e221DB8A298B38b9DD83a9c072c4910f9",
             "decimals": 18
         }
     ]
