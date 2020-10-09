@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T05:17:35.138Z",
+    "timestamp": "2020-10-09T05:18:42.619Z",
     "version": {
         "major": 1,
-        "minor": 5310,
+        "minor": 5311,
         "patch": 0
     },
     "keywords": [
@@ -26983,6 +26983,13 @@
             "name": "FilmFestivalCoin",
             "symbol": "FFC",
             "address": "0x206f898a68f12C84DA2CBe9FE8270d81f40A1913",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "vape.finance",
+            "symbol": "VAPE",
+            "address": "0x01469b53f9DfD54fF7A97EBA68c1E048575F4F8f",
             "decimals": 18
         }
     ]
