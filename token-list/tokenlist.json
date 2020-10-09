@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:40:40.883Z",
+    "timestamp": "2020-10-09T12:45:15.933Z",
     "version": {
         "major": 1,
-        "minor": 5369,
+        "minor": 5370,
         "patch": 0
     },
     "keywords": [
@@ -27396,6 +27396,13 @@
             "name": "BONUS",
             "symbol": "BONUS",
             "address": "0x9FD6a23193D3A8f04e72558B3c28dea63671EB95",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Centaur Token",
+            "symbol": "CNTR",
+            "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
             "decimals": 18
         }
     ]
