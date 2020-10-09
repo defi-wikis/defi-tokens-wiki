@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T17:25:35.287Z",
+    "timestamp": "2020-10-09T17:25:41.006Z",
     "version": {
         "major": 1,
-        "minor": 5407,
+        "minor": 5408,
         "patch": 0
     },
     "keywords": [
@@ -27662,6 +27662,13 @@
             "name": "MOON BOY TOKEN",
             "symbol": "MBT",
             "address": "0xA08a76b78f974766e7C538ed5CD7a5723a7507EF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MOON BOY TOKEN",
+            "symbol": "MBT",
+            "address": "0xEa6cD6e66E90dd24a4a202b525409FD6ac590872",
             "decimals": 18
         }
     ]
