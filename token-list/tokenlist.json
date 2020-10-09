@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T07:48:35.102Z",
+    "timestamp": "2020-10-09T07:49:59.911Z",
     "version": {
         "major": 1,
-        "minor": 5327,
+        "minor": 5328,
         "patch": 0
     },
     "keywords": [
@@ -27103,6 +27103,13 @@
             "symbol": "MAGIC",
             "address": "0xD52990238E6f9F6b014de109E504EBA516b1da18",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YSC.Finance",
+            "symbol": "YSC",
+            "address": "0x4B88Caa16837477770Be263e038c15505415644e",
+            "decimals": 0
         }
     ]
 }
