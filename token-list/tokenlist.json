@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T20:44:30.261Z",
+    "timestamp": "2020-10-09T20:47:40.529Z",
     "version": {
         "major": 1,
-        "minor": 5426,
+        "minor": 5427,
         "patch": 0
     },
     "keywords": [
@@ -27795,6 +27795,13 @@
             "name": "Core v2 Finance",
             "symbol": "CORB",
             "address": "0x3a561eF57e960b5822B622Dbb812E12B9f110D36",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zHEGIC",
+            "symbol": "zHEGIC",
+            "address": "0x7656C0D5CaaD1aA7b30b141c0426647e1AE0F3c0",
             "decimals": 18
         }
     ]
