@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T07:16:14.412Z",
+    "timestamp": "2020-10-09T07:28:34.552Z",
     "version": {
         "major": 1,
-        "minor": 5324,
+        "minor": 5325,
         "patch": 0
     },
     "keywords": [
@@ -27081,6 +27081,13 @@
             "name": "ZetaCoreFinance",
             "symbol": "ZCORE",
             "address": "0xCe633De98626296F6cd9D5c4577921551aF0d6D8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wootrade",
+            "symbol": "WOO",
+            "address": "0x9b7e329571f8b1bED3c874Ec346B1496A6156cA2",
             "decimals": 18
         }
     ]
