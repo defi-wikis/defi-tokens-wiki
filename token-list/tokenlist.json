@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T05:39:51.496Z",
+    "timestamp": "2020-10-09T05:44:25.350Z",
     "version": {
         "major": 1,
-        "minor": 5312,
+        "minor": 5313,
         "patch": 0
     },
     "keywords": [
@@ -26997,6 +26997,13 @@
             "name": "aUselessFuckingToken",
             "symbol": "AUFT",
             "address": "0xb876e9DbB47Eb7dbcd9079F8DA658Ee210144eD8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xfinances",
+            "symbol": "XFIS",
+            "address": "0x3b98BA8446f39A44BEc6e3053e4765ce75F8058E",
             "decimals": 18
         }
     ]
