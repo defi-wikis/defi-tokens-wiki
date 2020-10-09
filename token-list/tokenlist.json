@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T17:29:20.301Z",
+    "timestamp": "2020-10-09T17:33:25.031Z",
     "version": {
         "major": 1,
-        "minor": 5410,
+        "minor": 5411,
         "patch": 0
     },
     "keywords": [
@@ -27683,6 +27683,13 @@
             "name": "ConnectUS",
             "symbol": "CENN",
             "address": "0xf0a774d01A404F1f1ce8ab3F93671E1C7F933c0F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnCORE.Finance",
+            "symbol": "YCORE",
+            "address": "0xBee4DCc36C5D7f1A811B475aEBF745B66E01da7b",
             "decimals": 18
         }
     ]
