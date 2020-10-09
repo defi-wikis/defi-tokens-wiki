@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T08:58:30.018Z",
+    "timestamp": "2020-10-09T08:59:59.774Z",
     "version": {
         "major": 1,
-        "minor": 5338,
+        "minor": 5339,
         "patch": 0
     },
     "keywords": [
@@ -27179,6 +27179,13 @@
             "name": "DudeToken",
             "symbol": "DUDE",
             "address": "0x2DddF2C3bC879974eb188848DBD1f1230f5c1601",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BFII.finance",
+            "symbol": "BFII",
+            "address": "0x177BC39B663c06B917c8b8B2C48ae82b2bbd9240",
             "decimals": 18
         }
     ]
