@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T17:15:46.002Z",
+    "timestamp": "2020-10-09T17:23:55.587Z",
     "version": {
         "major": 1,
-        "minor": 5405,
+        "minor": 5406,
         "patch": 0
     },
     "keywords": [
@@ -27648,6 +27648,13 @@
             "name": "Bingofinance",
             "symbol": "BINGO",
             "address": "0xEF5555e9b3A3484a10Fb1CD45BC68868225963E7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hehe",
+            "symbol": "Hehe",
+            "address": "0x1E7aF92Ddc921f3aB4463Ba64f4eeF9F4c81a5af",
             "decimals": 18
         }
     ]
