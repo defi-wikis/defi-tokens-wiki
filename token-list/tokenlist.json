@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:17:55.239Z",
+    "timestamp": "2020-10-09T12:26:00.084Z",
     "version": {
         "major": 1,
-        "minor": 5365,
+        "minor": 5366,
         "patch": 0
     },
     "keywords": [
@@ -27369,6 +27369,13 @@
             "symbol": "MEGA",
             "address": "0xb0653B987010CEFCaC22866cE9aBD4A0cbF97582",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TRIBU",
+            "symbol": "TRIBU",
+            "address": "0xa2B4E43459193335F75B90Ff1ca1FcAa9cFa79C7",
+            "decimals": 6
         }
     ]
 }
