@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T09:16:40.542Z",
+    "timestamp": "2020-10-09T09:18:25.367Z",
     "version": {
         "major": 1,
-        "minor": 5341,
+        "minor": 5342,
         "patch": 0
     },
     "keywords": [
@@ -27201,6 +27201,13 @@
             "symbol": "YDCF",
             "address": "0x18a8C982C3192a2F3cA3363460a55afE79528695",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SteakVault",
+            "symbol": "STKB",
+            "address": "0x74B263ccacfA35b3861f43083A52a819A9c9bF96",
+            "decimals": 0
         }
     ]
 }
