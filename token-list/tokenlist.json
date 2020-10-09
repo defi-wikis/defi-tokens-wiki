@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T08:59:59.774Z",
+    "timestamp": "2020-10-09T09:12:00.007Z",
     "version": {
         "major": 1,
-        "minor": 5339,
+        "minor": 5340,
         "patch": 0
     },
     "keywords": [
@@ -27186,6 +27186,13 @@
             "name": "BFII.finance",
             "symbol": "BFII",
             "address": "0x177BC39B663c06B917c8b8B2C48ae82b2bbd9240",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XAML Protocol",
+            "symbol": "XAML",
+            "address": "0x393F48f4E915A36aA28bc5364e7408076CbBA0eb",
             "decimals": 18
         }
     ]
