@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T04:05:46.544Z",
+    "timestamp": "2020-10-09T04:10:15.199Z",
     "version": {
         "major": 1,
-        "minor": 5303,
+        "minor": 5304,
         "patch": 0
     },
     "keywords": [
@@ -26934,6 +26934,13 @@
             "name": "Numba Protocol",
             "symbol": "NUMBA",
             "address": "0x4595548255C1CA579858EF7EC8DbDba5c60b9e94",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GriffinToken",
+            "symbol": "GFIN",
+            "address": "0x21E19121e1360e09AA1F810280c97A87b85d1069",
             "decimals": 18
         }
     ]
