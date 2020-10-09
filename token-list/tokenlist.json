@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T08:50:08.311Z",
+    "timestamp": "2020-10-09T08:50:50.371Z",
     "version": {
         "major": 1,
-        "minor": 5336,
+        "minor": 5337,
         "patch": 0
     },
     "keywords": [
@@ -27165,6 +27165,13 @@
             "name": "OFF BLUE",
             "symbol": "BLUE",
             "address": "0xDbc9Cf77CB0071af4A3211ac31f44DB2e54F3c19",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Strudel BTC",
+            "symbol": "VBTC",
+            "address": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
             "decimals": 18
         }
     ]
