@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T19:45:55.706Z",
+    "timestamp": "2020-10-09T19:47:15.585Z",
     "version": {
         "major": 1,
-        "minor": 5422,
+        "minor": 5423,
         "patch": 0
     },
     "keywords": [
@@ -27767,6 +27767,13 @@
             "name": "Polkas",
             "symbol": "POLKAS",
             "address": "0x1e4C6B4DFA7c4f86c1d3d22e95C42EBD73e7074F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RoseSwap Finance",
+            "symbol": "ROSE",
+            "address": "0x88Ae8a5FF8a5d34AfcEF4A08E1744519B077e402",
             "decimals": 18
         }
     ]
