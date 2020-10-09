@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:47:55.791Z",
+    "timestamp": "2020-10-09T14:50:40.599Z",
     "version": {
         "major": 1,
-        "minor": 5386,
+        "minor": 5387,
         "patch": 0
     },
     "keywords": [
@@ -27515,6 +27515,13 @@
             "name": "DokiDoki.Finance",
             "symbol": "DOKI",
             "address": "0xeEaCcb6Bfd41De50f4F6c5E7c6aAB4A0FE91B824",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BicycleFinance",
+            "symbol": "BCYFI",
+            "address": "0xA7779DDe760F4D742043BaC52534E484a2fF86c1",
             "decimals": 18
         }
     ]
