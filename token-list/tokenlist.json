@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T22:27:59.881Z",
+    "timestamp": "2020-10-09T22:29:06.837Z",
     "version": {
         "major": 1,
-        "minor": 5433,
+        "minor": 5434,
         "patch": 0
     },
     "keywords": [
@@ -27844,6 +27844,13 @@
             "name": "Sushi Version 2",
             "symbol": "SUSII",
             "address": "0xdB9A743b61e99f596F184AF7841bd8906f431c0c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "True.Finance",
+            "symbol": "TRUF",
+            "address": "0x2011e54254C3A3bC771427c4771D1F193cA2a246",
             "decimals": 18
         }
     ]
