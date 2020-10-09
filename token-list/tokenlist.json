@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T04:28:46.598Z",
+    "timestamp": "2020-10-09T04:38:09.594Z",
     "version": {
         "major": 1,
-        "minor": 5307,
+        "minor": 5308,
         "patch": 0
     },
     "keywords": [
@@ -26962,6 +26962,13 @@
             "name": "ArtFinity",
             "symbol": "AT",
             "address": "0x33dAF33f836A61576a6f2f7C85C986d1AB301Adc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GirlFriend",
+            "symbol": "GFR",
+            "address": "0xA21Bf364F9537D391d65a5B4d8329425aC96FA50",
             "decimals": 18
         }
     ]
