@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T08:37:50.288Z",
+    "timestamp": "2020-10-09T08:50:08.311Z",
     "version": {
         "major": 1,
-        "minor": 5335,
+        "minor": 5336,
         "patch": 0
     },
     "keywords": [
@@ -27158,6 +27158,13 @@
             "name": "Zenfuse",
             "symbol": "ZEFU",
             "address": "0xc884aE579438c6bf8b61f6E7D1246ABEFBF8E3Ee",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OFF BLUE",
+            "symbol": "BLUE",
+            "address": "0xDbc9Cf77CB0071af4A3211ac31f44DB2e54F3c19",
             "decimals": 18
         }
     ]
