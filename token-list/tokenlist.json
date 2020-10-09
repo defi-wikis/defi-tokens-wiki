@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T03:37:44.941Z",
+    "timestamp": "2020-10-09T03:37:50.683Z",
     "version": {
         "major": 1,
-        "minor": 5299,
+        "minor": 5300,
         "patch": 0
     },
     "keywords": [
@@ -26907,6 +26907,13 @@
             "symbol": "USDGOLD",
             "address": "0x4D9eDc65d340645ED4fB2E28215B6d2E6c604F69",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "DeIPool.io",
+            "symbol": "DIP",
+            "address": "0xEE286923DA060213FE23a52EC07Ac3DF1705a5F5",
+            "decimals": 18
         }
     ]
 }
