@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T06:33:35.056Z",
+    "timestamp": "2020-10-09T06:34:19.973Z",
     "version": {
         "major": 1,
-        "minor": 5320,
+        "minor": 5321,
         "patch": 0
     },
     "keywords": [
@@ -27053,6 +27053,13 @@
             "name": "Filecoin",
             "symbol": "FIL",
             "address": "0x4182E9A619EBdBb2857cc080eB741B5468712e56",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Alpha Finance Lab",
+            "symbol": "ALPHA",
+            "address": "0x748b0AeDc9c2A0620B13eF1dB741f2C5a844e3E5",
             "decimals": 18
         }
     ]
