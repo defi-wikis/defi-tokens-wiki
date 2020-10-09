@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T10:19:02.303Z",
+    "timestamp": "2020-10-09T10:23:40.342Z",
     "version": {
         "major": 1,
-        "minor": 5348,
+        "minor": 5349,
         "patch": 0
     },
     "keywords": [
@@ -27249,6 +27249,13 @@
             "name": "Oduwa Coin",
             "symbol": "OWC",
             "address": "0x84Ea99840155e0D0Fb3444B5075186c626411979",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFSTAR",
+            "symbol": "YFST",
+            "address": "0x2f04323C1c5207Cc4935cb4A3cBB5B945811e1Ca",
             "decimals": 18
         }
     ]
