@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T11:59:45.493Z",
+    "timestamp": "2020-10-09T12:01:30.652Z",
     "version": {
         "major": 1,
-        "minor": 5359,
+        "minor": 5360,
         "patch": 0
     },
     "keywords": [
@@ -27326,6 +27326,13 @@
             "name": "CLT",
             "symbol": "CLT",
             "address": "0xa69f7a10dF90C4D6710588Bc18ad9bF08081f545",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DecentraLife",
+            "symbol": "DLIFE",
+            "address": "0x845bc135AEaa96C6ae21Fb802C3C7af73c57BD39",
             "decimals": 18
         }
     ]
