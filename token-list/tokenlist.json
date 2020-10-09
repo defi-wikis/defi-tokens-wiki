@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T11:33:55.938Z",
+    "timestamp": "2020-10-09T11:45:16.943Z",
     "version": {
         "major": 1,
-        "minor": 5356,
+        "minor": 5357,
         "patch": 0
     },
     "keywords": [
@@ -27305,6 +27305,13 @@
             "name": "plutus.it",
             "symbol": "PLU",
             "address": "0x6618Dd109eE9DC93026ab36ab6AB7b4FbdE0411B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unidark",
+            "symbol": "DARK",
+            "address": "0xafB43414e6344f6310f29e9D7dc95D817ffd89E8",
             "decimals": 18
         }
     ]
