@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T07:12:52.297Z",
+    "timestamp": "2020-10-09T07:16:14.412Z",
     "version": {
         "major": 1,
-        "minor": 5323,
+        "minor": 5324,
         "patch": 0
     },
     "keywords": [
@@ -27074,6 +27074,13 @@
             "name": "NuCypher",
             "symbol": "NU",
             "address": "0x49478804fF479B80228126EDDCa430e46856B559",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZetaCoreFinance",
+            "symbol": "ZCORE",
+            "address": "0xCe633De98626296F6cd9D5c4577921551aF0d6D8",
             "decimals": 18
         }
     ]
