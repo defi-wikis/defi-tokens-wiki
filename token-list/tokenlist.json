@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T17:49:39.979Z",
+    "timestamp": "2020-10-09T18:00:55.405Z",
     "version": {
         "major": 1,
-        "minor": 5413,
+        "minor": 5414,
         "patch": 0
     },
     "keywords": [
@@ -27704,6 +27704,13 @@
             "name": "Lusa",
             "symbol": "LUSA",
             "address": "0x04F521357f504f944ce52eEf75586B8883Beb9e5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FameCore.Finance",
+            "symbol": "FCORE",
+            "address": "0x31f69C22E959135bBC81e5876c49567614C52257",
             "decimals": 18
         }
     ]
