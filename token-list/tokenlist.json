@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T09:12:00.007Z",
+    "timestamp": "2020-10-09T09:16:40.542Z",
     "version": {
         "major": 1,
-        "minor": 5340,
+        "minor": 5341,
         "patch": 0
     },
     "keywords": [
@@ -27193,6 +27193,13 @@
             "name": "XAML Protocol",
             "symbol": "XAML",
             "address": "0x393F48f4E915A36aA28bc5364e7408076CbBA0eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Deep Core Finance",
+            "symbol": "YDCF",
+            "address": "0x18a8C982C3192a2F3cA3363460a55afE79528695",
             "decimals": 18
         }
     ]
