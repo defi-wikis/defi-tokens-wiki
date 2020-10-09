@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T17:45:35.441Z",
+    "timestamp": "2020-10-09T17:49:39.979Z",
     "version": {
         "major": 1,
-        "minor": 5412,
+        "minor": 5413,
         "patch": 0
     },
     "keywords": [
@@ -27697,6 +27697,13 @@
             "name": "yToken",
             "symbol": "YTKN",
             "address": "0x87645CdD68C161ABae40a457111B5898b7D14Ff6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lusa",
+            "symbol": "LUSA",
+            "address": "0x04F521357f504f944ce52eEf75586B8883Beb9e5",
             "decimals": 18
         }
     ]
