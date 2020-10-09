@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T19:36:35.026Z",
+    "timestamp": "2020-10-09T19:45:55.706Z",
     "version": {
         "major": 1,
-        "minor": 5421,
+        "minor": 5422,
         "patch": 0
     },
     "keywords": [
@@ -27760,6 +27760,13 @@
             "name": "Wrapped GEGO",
             "symbol": "WGEGO",
             "address": "0x3519378e0C67CA658EE91c4f6D5573c55aC6e401",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Polkas",
+            "symbol": "POLKAS",
+            "address": "0x1e4C6B4DFA7c4f86c1d3d22e95C42EBD73e7074F",
             "decimals": 18
         }
     ]
