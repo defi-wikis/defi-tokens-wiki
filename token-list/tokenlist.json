@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T16:08:32.895Z",
+    "timestamp": "2020-10-09T16:15:21.895Z",
     "version": {
         "major": 1,
-        "minor": 5396,
+        "minor": 5397,
         "patch": 0
     },
     "keywords": [
@@ -27586,6 +27586,13 @@
             "symbol": "YYII",
             "address": "0xEb5e669DEE1516B6225B9c99C161232FD46778e1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BUZZ",
+            "symbol": "BUZZ",
+            "address": "0x00D270d9A41886A8E6E433911AE2F7D257b60051",
+            "decimals": 4
         }
     ]
 }
