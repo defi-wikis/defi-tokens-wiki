@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T11:57:50.438Z",
+    "timestamp": "2020-10-09T11:59:45.493Z",
     "version": {
         "major": 1,
-        "minor": 5358,
+        "minor": 5359,
         "patch": 0
     },
     "keywords": [
@@ -27319,6 +27319,13 @@
             "name": "SnailToken",
             "symbol": "SNAIL",
             "address": "0xC6621A920f90cC384A13f40bb39f053124dEBD85",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CLT",
+            "symbol": "CLT",
+            "address": "0xa69f7a10dF90C4D6710588Bc18ad9bF08081f545",
             "decimals": 18
         }
     ]
