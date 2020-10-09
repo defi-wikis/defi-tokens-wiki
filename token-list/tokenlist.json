@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T10:54:20.339Z",
+    "timestamp": "2020-10-09T10:56:25.111Z",
     "version": {
         "major": 1,
-        "minor": 5351,
+        "minor": 5352,
         "patch": 0
     },
     "keywords": [
@@ -27270,6 +27270,13 @@
             "name": "RedButtonCoin",
             "symbol": "RBC",
             "address": "0x8a43737674f74E8A369b6F70cD648dC8368744a4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SenseToken",
+            "symbol": "SENSE",
+            "address": "0x7A7293E99AEbDf8593A33dC26DD09F56f4Ff0a3E",
             "decimals": 18
         }
     ]
