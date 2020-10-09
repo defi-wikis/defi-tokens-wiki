@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T17:33:25.031Z",
+    "timestamp": "2020-10-09T17:45:35.441Z",
     "version": {
         "major": 1,
-        "minor": 5411,
+        "minor": 5412,
         "patch": 0
     },
     "keywords": [
@@ -27690,6 +27690,13 @@
             "name": "YearnCORE.Finance",
             "symbol": "YCORE",
             "address": "0xBee4DCc36C5D7f1A811B475aEBF745B66E01da7b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yToken",
+            "symbol": "YTKN",
+            "address": "0x87645CdD68C161ABae40a457111B5898b7D14Ff6",
             "decimals": 18
         }
     ]
