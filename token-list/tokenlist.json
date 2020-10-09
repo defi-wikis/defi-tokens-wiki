@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T18:29:50.400Z",
+    "timestamp": "2020-10-09T18:30:08.359Z",
     "version": {
         "major": 1,
-        "minor": 5416,
+        "minor": 5417,
         "patch": 0
     },
     "keywords": [
@@ -27725,6 +27725,13 @@
             "name": "Gonza",
             "symbol": "GONZA",
             "address": "0xa4ecF8d3Fe410DaF4B8E244a78322679bDA41a35",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Reverse Mortgage Group",
+            "symbol": "RMG",
+            "address": "0xA476AFD740e0f6DbBe56139d0Ed8fAFbe9dDb2c1",
             "decimals": 18
         }
     ]
