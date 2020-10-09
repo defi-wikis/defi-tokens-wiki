@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T06:16:52.444Z",
+    "timestamp": "2020-10-09T06:33:35.056Z",
     "version": {
         "major": 1,
-        "minor": 5319,
+        "minor": 5320,
         "patch": 0
     },
     "keywords": [
@@ -27047,6 +27047,13 @@
             "symbol": "YGG",
             "address": "0xC254664c7408Dde413969fBcD593328F6099E32f",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Filecoin",
+            "symbol": "FIL",
+            "address": "0x4182E9A619EBdBb2857cc080eB741B5468712e56",
+            "decimals": 18
         }
     ]
 }
