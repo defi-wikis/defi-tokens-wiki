@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:36:15.228Z",
+    "timestamp": "2020-10-09T12:40:40.883Z",
     "version": {
         "major": 1,
-        "minor": 5368,
+        "minor": 5369,
         "patch": 0
     },
     "keywords": [
@@ -27389,6 +27389,13 @@
             "name": "Ultra Stake",
             "symbol": "ULTRA",
             "address": "0x9ed144daF512F6f334abe4Bb466569D114CDCE2c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BONUS",
+            "symbol": "BONUS",
+            "address": "0x9FD6a23193D3A8f04e72558B3c28dea63671EB95",
             "decimals": 18
         }
     ]
