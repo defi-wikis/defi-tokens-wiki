@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T04:10:15.199Z",
+    "timestamp": "2020-10-09T04:14:46.679Z",
     "version": {
         "major": 1,
-        "minor": 5304,
+        "minor": 5305,
         "patch": 0
     },
     "keywords": [
@@ -26941,6 +26941,13 @@
             "name": "GriffinToken",
             "symbol": "GFIN",
             "address": "0x21E19121e1360e09AA1F810280c97A87b85d1069",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SnowSwap",
+            "symbol": "SNOW",
+            "address": "0xfe9A29aB92522D14Fc65880d817214261D8479AE",
             "decimals": 18
         }
     ]
