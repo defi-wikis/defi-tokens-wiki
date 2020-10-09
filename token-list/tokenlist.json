@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T09:18:25.367Z",
+    "timestamp": "2020-10-09T09:25:32.448Z",
     "version": {
         "major": 1,
-        "minor": 5342,
+        "minor": 5343,
         "patch": 0
     },
     "keywords": [
@@ -27208,6 +27208,13 @@
             "symbol": "STKB",
             "address": "0x74B263ccacfA35b3861f43083A52a819A9c9bF96",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Swag.Finance",
+            "symbol": "SWAG",
+            "address": "0xbE7A5e1d197C6A1D46f634F6492413b65154Eb2E",
+            "decimals": 18
         }
     ]
 }
