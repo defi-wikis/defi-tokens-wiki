@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T00:42:03.107Z",
+    "timestamp": "2020-10-09T00:42:59.971Z",
     "version": {
         "major": 1,
-        "minor": 5288,
+        "minor": 5289,
         "patch": 0
     },
     "keywords": [
@@ -26829,6 +26829,13 @@
             "name": "ShiquChain",
             "symbol": "SQC",
             "address": "0xb54fAA4e5bCBe8AeCdDFF1CB119dce75932e0A22",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cheese Pizza Finance",
+            "symbol": "CPF",
+            "address": "0xDc2D9dfE5C5552343676f73F8AcA2336a7019eCD",
             "decimals": 18
         }
     ]
