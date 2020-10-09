@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:45:15.933Z",
+    "timestamp": "2020-10-09T13:00:45.594Z",
     "version": {
         "major": 1,
-        "minor": 5370,
+        "minor": 5371,
         "patch": 0
     },
     "keywords": [
@@ -27403,6 +27403,13 @@
             "name": "Centaur Token",
             "symbol": "CNTR",
             "address": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DokiDoki",
+            "symbol": "DOKI",
+            "address": "0xF8d068099C667D5aF852AEDeDB1710a2A5B47e15",
             "decimals": 18
         }
     ]
