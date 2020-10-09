@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T04:20:15.344Z",
+    "timestamp": "2020-10-09T04:28:46.598Z",
     "version": {
         "major": 1,
-        "minor": 5306,
+        "minor": 5307,
         "patch": 0
     },
     "keywords": [
@@ -26955,6 +26955,13 @@
             "name": "Weed Money Finance",
             "symbol": "BONG",
             "address": "0x3cc9ad6163A7E89C93a5A37C5BcD4dEa09ca23b3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ArtFinity",
+            "symbol": "AT",
+            "address": "0x33dAF33f836A61576a6f2f7C85C986d1AB301Adc",
             "decimals": 18
         }
     ]
