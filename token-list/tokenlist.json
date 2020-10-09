@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T07:43:20.022Z",
+    "timestamp": "2020-10-09T07:48:35.102Z",
     "version": {
         "major": 1,
-        "minor": 5326,
+        "minor": 5327,
         "patch": 0
     },
     "keywords": [
@@ -27095,6 +27095,13 @@
             "name": "DeFiner",
             "symbol": "FIN",
             "address": "0x5eC046ACC81461337BC92d971159bE9EdC8B6f35",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Magic chain 1.0",
+            "symbol": "MAGIC",
+            "address": "0xD52990238E6f9F6b014de109E504EBA516b1da18",
             "decimals": 18
         }
     ]
