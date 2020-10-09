@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T02:26:03.755Z",
+    "timestamp": "2020-10-09T02:29:59.686Z",
     "version": {
         "major": 1,
-        "minor": 5293,
+        "minor": 5294,
         "patch": 0
     },
     "keywords": [
@@ -26864,6 +26864,13 @@
             "name": "osho.finance",
             "symbol": "LOVE",
             "address": "0x0210E38A37177fb3C99E444642382C5A41668947",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BP",
+            "symbol": "BP",
+            "address": "0x3E76c638F1F0c7e465E9E2d0b8DC33395fDEC61f",
             "decimals": 18
         }
     ]
