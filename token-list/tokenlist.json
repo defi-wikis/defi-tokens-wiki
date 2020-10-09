@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T20:44:25.182Z",
+    "timestamp": "2020-10-09T20:44:30.261Z",
     "version": {
         "major": 1,
-        "minor": 5425,
+        "minor": 5426,
         "patch": 0
     },
     "keywords": [
@@ -27788,6 +27788,13 @@
             "name": "JiaoZiToken",
             "symbol": "JZT",
             "address": "0x138328666ce9823251030FeDb69a8Fe1C664916F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core v2 Finance",
+            "symbol": "CORB",
+            "address": "0x3a561eF57e960b5822B622Dbb812E12B9f110D36",
             "decimals": 18
         }
     ]
