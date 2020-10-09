@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T16:16:44.182Z",
+    "timestamp": "2020-10-09T16:26:51.158Z",
     "version": {
         "major": 1,
-        "minor": 5399,
+        "minor": 5400,
         "patch": 0
     },
     "keywords": [
@@ -27606,6 +27606,13 @@
             "name": "Wrapped ERC-1155",
             "symbol": "WMT",
             "address": "0x99bE08cBaaab039798aa6D55a5707196A5f8B709",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "lido.fi",
+            "symbol": "LIDO",
+            "address": "0xaC39B38a21bDa9D21367a7ba356ed18959c4eF04",
             "decimals": 18
         }
     ]
