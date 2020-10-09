@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T21:21:44.667Z",
+    "timestamp": "2020-10-09T21:31:20.015Z",
     "version": {
         "major": 1,
-        "minor": 5428,
+        "minor": 5429,
         "patch": 0
     },
     "keywords": [
@@ -27809,6 +27809,13 @@
             "name": "dego.finance",
             "symbol": "DEGOv2",
             "address": "0x47bB9FEb3f37c37f47f4d0472D4f224c86ecf135",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DEFI",
+            "symbol": "EDC",
+            "address": "0xE2095F76D7c99050454417F775B0c59845F07c33",
             "decimals": 18
         }
     ]
