@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T02:36:35.321Z",
+    "timestamp": "2020-10-09T03:11:31.747Z",
     "version": {
         "major": 1,
-        "minor": 5295,
+        "minor": 5296,
         "patch": 0
     },
     "keywords": [
@@ -26878,6 +26878,13 @@
             "name": "Pokemons",
             "symbol": "PMON",
             "address": "0x59C398779693300392C4bfCbd212FdE4355f48Fe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Decore.Finance",
+            "symbol": "DCORE",
+            "address": "0xa6053cdA8D7D5687FE429D70621D7C6713322811",
             "decimals": 18
         }
     ]
