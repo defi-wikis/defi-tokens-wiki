@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T23:46:35.626Z",
+    "timestamp": "2020-10-09T23:49:34.820Z",
     "version": {
         "major": 1,
-        "minor": 5445,
+        "minor": 5446,
         "patch": 0
     },
     "keywords": [
@@ -27928,6 +27928,13 @@
             "name": "AXIA TOKEN (axiaprotocol.io)",
             "symbol": "AXIAv3",
             "address": "0x793786e2dd4Cc492ed366a94B88a3Ff9ba5E7546",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Arcade Token",
+            "symbol": "ARCD",
+            "address": "0xb581E3a7dB80fBAA821AB39342E9Cbfd2ce33c23",
             "decimals": 18
         }
     ]
