@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:16:30.694Z",
+    "timestamp": "2020-10-09T12:17:55.239Z",
     "version": {
         "major": 1,
-        "minor": 5364,
+        "minor": 5365,
         "patch": 0
     },
     "keywords": [
@@ -27361,6 +27361,13 @@
             "name": "Syield.finance",
             "symbol": "SYLD",
             "address": "0x5551Ea2DA9092828e1787c0Cd4358A002E14C795",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mega Stake",
+            "symbol": "MEGA",
+            "address": "0xb0653B987010CEFCaC22866cE9aBD4A0cbF97582",
             "decimals": 18
         }
     ]
