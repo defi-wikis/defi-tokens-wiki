@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T10:57:30.755Z",
+    "timestamp": "2020-10-09T11:11:35.622Z",
     "version": {
         "major": 1,
-        "minor": 5353,
+        "minor": 5354,
         "patch": 0
     },
     "keywords": [
@@ -27284,6 +27284,13 @@
             "name": "YCoreFinance",
             "symbol": "YCORE",
             "address": "0x3339C51B5d224A50DB035630e59454b0F35d094B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DataBroker DAO",
+            "symbol": "DTX",
+            "address": "0x5F9ae2F1540D83499AEC1134D66030E64DA8BE8B",
             "decimals": 18
         }
     ]
