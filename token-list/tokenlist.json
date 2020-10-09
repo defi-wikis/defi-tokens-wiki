@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T15:42:44.865Z",
+    "timestamp": "2020-10-09T16:05:11.100Z",
     "version": {
         "major": 1,
-        "minor": 5394,
+        "minor": 5395,
         "patch": 0
     },
     "keywords": [
@@ -27571,6 +27571,13 @@
             "name": "Pegasus Investments",
             "symbol": "PEGA",
             "address": "0x7Bc574f8E4c95141B1E9d34b67e283Ad552e3F64",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Marathon.Finance",
+            "symbol": "MTON",
+            "address": "0xbBCDe8a336A5Bb32911D9BD9037453F03360c58b",
             "decimals": 18
         }
     ]
