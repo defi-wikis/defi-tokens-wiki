@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T06:06:31.838Z",
+    "timestamp": "2020-10-09T06:16:17.676Z",
     "version": {
         "major": 1,
-        "minor": 5317,
+        "minor": 5318,
         "patch": 0
     },
     "keywords": [
@@ -27032,6 +27032,13 @@
             "name": "LandToken",
             "symbol": "LanD",
             "address": "0xf07a08955E7058c9402038F432d7EFC5a3caDBb8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xfinances",
+            "symbol": "XFIS",
+            "address": "0xac51e84CCF9Ff013F54cc53BbEd80250E558d1Aa",
             "decimals": 18
         }
     ]
