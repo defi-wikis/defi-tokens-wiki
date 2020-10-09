@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T18:00:55.405Z",
+    "timestamp": "2020-10-09T18:14:55.288Z",
     "version": {
         "major": 1,
-        "minor": 5414,
+        "minor": 5415,
         "patch": 0
     },
     "keywords": [
@@ -27711,6 +27711,13 @@
             "name": "FameCore.Finance",
             "symbol": "FCORE",
             "address": "0x31f69C22E959135bBC81e5876c49567614C52257",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Larisa",
+            "symbol": "LARISA",
+            "address": "0x46444BaE39C63c9A1BBa413A62F82D38703cDB75",
             "decimals": 18
         }
     ]
