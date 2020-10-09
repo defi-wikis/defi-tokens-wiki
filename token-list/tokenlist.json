@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T22:29:06.837Z",
+    "timestamp": "2020-10-09T22:36:15.415Z",
     "version": {
         "major": 1,
-        "minor": 5434,
+        "minor": 5435,
         "patch": 0
     },
     "keywords": [
@@ -27851,6 +27851,13 @@
             "name": "True.Finance",
             "symbol": "TRUF",
             "address": "0x2011e54254C3A3bC771427c4771D1F193cA2a246",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kebab.finance",
+            "symbol": "KEBAB",
+            "address": "0x42c85F88688C683e91aF5A9d9FE5Ba18BD3e8273",
             "decimals": 18
         }
     ]
