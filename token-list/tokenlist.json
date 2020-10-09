@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T03:11:31.747Z",
+    "timestamp": "2020-10-09T03:21:09.868Z",
     "version": {
         "major": 1,
-        "minor": 5296,
+        "minor": 5297,
         "patch": 0
     },
     "keywords": [
@@ -26886,6 +26886,13 @@
             "symbol": "DCORE",
             "address": "0xa6053cdA8D7D5687FE429D70621D7C6713322811",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GU:S1: Raffle Ticket",
+            "symbol": "GU:S1:RT",
+            "address": "0x606830d51FF935B4b0F8FFe965D419934c57b2F0",
+            "decimals": 0
         }
     ]
 }
