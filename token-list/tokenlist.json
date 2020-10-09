@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T04:38:09.594Z",
+    "timestamp": "2020-10-09T04:52:54.608Z",
     "version": {
         "major": 1,
-        "minor": 5308,
+        "minor": 5309,
         "patch": 0
     },
     "keywords": [
@@ -26969,6 +26969,13 @@
             "name": "GirlFriend",
             "symbol": "GFR",
             "address": "0xA21Bf364F9537D391d65a5B4d8329425aC96FA50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SnowSwap",
+            "symbol": "SNOW",
+            "address": "0x8f07fD0b262D0c28E0C0c4Aa8506E342aDf1C508",
             "decimals": 18
         }
     ]
