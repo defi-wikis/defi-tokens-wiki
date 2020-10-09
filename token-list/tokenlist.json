@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T06:34:19.973Z",
+    "timestamp": "2020-10-09T06:49:22.064Z",
     "version": {
         "major": 1,
-        "minor": 5321,
+        "minor": 5322,
         "patch": 0
     },
     "keywords": [
@@ -27061,6 +27061,13 @@
             "symbol": "ALPHA",
             "address": "0x748b0AeDc9c2A0620B13eF1dB741f2C5a844e3E5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WIZARD MOON",
+            "symbol": "WIZ",
+            "address": "0xA126AAce6757a0DD89C60C1c16cf8997F749780b",
+            "decimals": 8
         }
     ]
 }
