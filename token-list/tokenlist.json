@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T09:43:24.962Z",
+    "timestamp": "2020-10-09T09:59:30.375Z",
     "version": {
         "major": 1,
-        "minor": 5345,
+        "minor": 5346,
         "patch": 0
     },
     "keywords": [
@@ -27229,6 +27229,13 @@
             "symbol": "RDANCE",
             "address": "0xC5e51F32d0C8BbeF06882045db98FF8bC7fAfC49",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "YFE XTRA",
+            "symbol": "YFEX",
+            "address": "0xf40898cAAF190592BE2df74Ebb05e56a2C79ce94",
+            "decimals": 18
         }
     ]
 }
