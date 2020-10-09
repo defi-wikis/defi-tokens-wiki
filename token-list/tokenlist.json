@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:05:07.775Z",
+    "timestamp": "2020-10-09T12:11:30.743Z",
     "version": {
         "major": 1,
-        "minor": 5362,
+        "minor": 5363,
         "patch": 0
     },
     "keywords": [
@@ -27347,6 +27347,13 @@
             "name": "ycvault.finance",
             "symbol": "YCORE",
             "address": "0xCEbb2533d8eAa4fD2e4a759669156fce193b8FD4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Super Stake",
+            "symbol": "SUPER",
+            "address": "0x3FE9c744bd6b59511b4b39fA669f9D259252baCD",
             "decimals": 18
         }
     ]
