@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:24:08.433Z",
+    "timestamp": "2020-10-09T14:26:59.767Z",
     "version": {
         "major": 1,
-        "minor": 5380,
+        "minor": 5381,
         "patch": 0
     },
     "keywords": [
@@ -27473,6 +27473,13 @@
             "name": "yfdot.finance",
             "symbol": "YFDOT",
             "address": "0x5A4a2bf5931e318552ba9B225B696f95696BdF0c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mega Finance",
+            "symbol": "MEGA",
+            "address": "0x8EcC77cf8392259c4F8BC0A9f1b5E3bDef618fCc",
             "decimals": 18
         }
     ]
