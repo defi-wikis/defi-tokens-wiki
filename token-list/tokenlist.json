@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:27:10.257Z",
+    "timestamp": "2020-10-09T14:36:01.896Z",
     "version": {
         "major": 1,
-        "minor": 5382,
+        "minor": 5383,
         "patch": 0
     },
     "keywords": [
@@ -27487,6 +27487,13 @@
             "name": "dokidoki.finance",
             "symbol": "DOKI",
             "address": "0xcc8f8EC61CcAe016095fE0F1ffc063c19a339F17",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi 2",
+            "symbol": "Sushi2",
+            "address": "0xd7aA9049C88216A4F02fB145a56049717D1FFEA6",
             "decimals": 18
         }
     ]
