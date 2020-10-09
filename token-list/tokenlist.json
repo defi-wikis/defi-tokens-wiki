@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T07:58:15.263Z",
+    "timestamp": "2020-10-09T08:02:54.990Z",
     "version": {
         "major": 1,
-        "minor": 5329,
+        "minor": 5330,
         "patch": 0
     },
     "keywords": [
@@ -27117,6 +27117,13 @@
             "symbol": "WMARTK",
             "address": "0x1A98901Aa293C0174E408f821696C4CAb80df971",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "swag.finance",
+            "symbol": "SWAG",
+            "address": "0x3800028576805f17942aD4c4f3cE99d2bb735e8c",
+            "decimals": 18
         }
     ]
 }
