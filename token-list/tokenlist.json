@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T16:26:51.158Z",
+    "timestamp": "2020-10-09T16:27:08.489Z",
     "version": {
         "major": 1,
-        "minor": 5400,
+        "minor": 5401,
         "patch": 0
     },
     "keywords": [
@@ -27613,6 +27613,13 @@
             "name": "lido.fi",
             "symbol": "LIDO",
             "address": "0xaC39B38a21bDa9D21367a7ba356ed18959c4eF04",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rampdefi.finance",
+            "symbol": "RAMP DEFI",
+            "address": "0x448a46b873b6AC7BaD3018Cc5a9F246267510574",
             "decimals": 18
         }
     ]
