@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T05:57:26.547Z",
+    "timestamp": "2020-10-09T06:01:51.889Z",
     "version": {
         "major": 1,
-        "minor": 5315,
+        "minor": 5316,
         "patch": 0
     },
     "keywords": [
@@ -27018,6 +27018,13 @@
             "name": "ARBITANO",
             "symbol": "ABTN",
             "address": "0x2f17f0167ce743e22520049D8f575136E25EaB7A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoonBoyToken",
+            "symbol": "MBT",
+            "address": "0x188588b6C0E370EFc45482E1ca715107Dc62B3e1",
             "decimals": 18
         }
     ]
