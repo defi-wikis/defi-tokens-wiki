@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T16:54:24.938Z",
+    "timestamp": "2020-10-09T16:56:08.306Z",
     "version": {
         "major": 1,
-        "minor": 5403,
+        "minor": 5404,
         "patch": 0
     },
     "keywords": [
@@ -27634,6 +27634,13 @@
             "name": "yfdot.finance",
             "symbol": "YFDOT",
             "address": "0x34D3EE6eE1168274044f8C58bd31b71F378fd987",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OtoroFinance",
+            "symbol": "OTORO",
+            "address": "0x723c79bc6A71fce06e2CE3eC043ded8c318cD36e",
             "decimals": 18
         }
     ]
