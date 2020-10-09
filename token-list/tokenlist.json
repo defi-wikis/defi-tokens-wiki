@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T20:33:00.362Z",
+    "timestamp": "2020-10-09T20:44:25.182Z",
     "version": {
         "major": 1,
-        "minor": 5424,
+        "minor": 5425,
         "patch": 0
     },
     "keywords": [
@@ -27781,6 +27781,13 @@
             "name": "Indorse Token",
             "symbol": "IND",
             "address": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JiaoZiToken",
+            "symbol": "JZT",
+            "address": "0x138328666ce9823251030FeDb69a8Fe1C664916F",
             "decimals": 18
         }
     ]
