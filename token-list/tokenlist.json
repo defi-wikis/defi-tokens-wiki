@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T21:31:20.015Z",
+    "timestamp": "2020-10-09T21:31:50.316Z",
     "version": {
         "major": 1,
-        "minor": 5429,
+        "minor": 5430,
         "patch": 0
     },
     "keywords": [
@@ -27816,6 +27816,13 @@
             "name": "DEFI",
             "symbol": "EDC",
             "address": "0xE2095F76D7c99050454417F775B0c59845F07c33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Oxygen",
+            "symbol": "O2",
+            "address": "0xfF18e54fB43029243478F8cC8FEF0D904b9A0b16",
             "decimals": 18
         }
     ]
