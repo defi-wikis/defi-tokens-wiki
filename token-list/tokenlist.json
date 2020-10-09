@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T09:59:30.375Z",
+    "timestamp": "2020-10-09T10:10:35.551Z",
     "version": {
         "major": 1,
-        "minor": 5346,
+        "minor": 5347,
         "patch": 0
     },
     "keywords": [
@@ -27235,6 +27235,13 @@
             "name": "YFE XTRA",
             "symbol": "YFEX",
             "address": "0xf40898cAAF190592BE2df74Ebb05e56a2C79ce94",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BLUE-ORB",
+            "symbol": "BLORB",
+            "address": "0xfadB4b356D648043eC3aA84D663a23fa03683733",
             "decimals": 18
         }
     ]
