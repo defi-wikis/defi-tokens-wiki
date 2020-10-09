@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T17:28:35.750Z",
+    "timestamp": "2020-10-09T17:29:20.301Z",
     "version": {
         "major": 1,
-        "minor": 5409,
+        "minor": 5410,
         "patch": 0
     },
     "keywords": [
@@ -27676,6 +27676,13 @@
             "name": "Saku Protocol",
             "symbol": "SAKU",
             "address": "0xF5DB926B71D8daAb6eEEd411C6471a9Cb9bE0333",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ConnectUS",
+            "symbol": "CENN",
+            "address": "0xf0a774d01A404F1f1ce8ab3F93671E1C7F933c0F",
             "decimals": 18
         }
     ]
