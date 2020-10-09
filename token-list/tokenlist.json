@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T18:14:55.288Z",
+    "timestamp": "2020-10-09T18:29:50.400Z",
     "version": {
         "major": 1,
-        "minor": 5415,
+        "minor": 5416,
         "patch": 0
     },
     "keywords": [
@@ -27718,6 +27718,13 @@
             "name": "Larisa",
             "symbol": "LARISA",
             "address": "0x46444BaE39C63c9A1BBa413A62F82D38703cDB75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gonza",
+            "symbol": "GONZA",
+            "address": "0xa4ecF8d3Fe410DaF4B8E244a78322679bDA41a35",
             "decimals": 18
         }
     ]
