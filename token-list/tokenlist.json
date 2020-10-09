@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T23:24:21.007Z",
+    "timestamp": "2020-10-09T23:24:55.056Z",
     "version": {
         "major": 1,
-        "minor": 5441,
+        "minor": 5442,
         "patch": 0
     },
     "keywords": [
@@ -27900,6 +27900,13 @@
             "name": "Fuel Swap",
             "symbol": "FUEL",
             "address": "0x5038615e221DB8A298B38b9DD83a9c072c4910f9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rampdefi.com",
+            "symbol": "RAMP",
+            "address": "0x558246c14BF134B84ed44fA23d6b620078bcf782",
             "decimals": 18
         }
     ]
