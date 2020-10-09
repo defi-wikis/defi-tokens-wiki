@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:27:11.340Z",
+    "timestamp": "2020-10-09T12:36:15.228Z",
     "version": {
         "major": 1,
-        "minor": 5367,
+        "minor": 5368,
         "patch": 0
     },
     "keywords": [
@@ -27382,6 +27382,13 @@
             "name": "PiNetwork",
             "symbol": "PI",
             "address": "0x93Ff750e49A62FEAE19Ae1eD56388c9972D1c279",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ultra Stake",
+            "symbol": "ULTRA",
+            "address": "0x9ed144daF512F6f334abe4Bb466569D114CDCE2c",
             "decimals": 18
         }
     ]
