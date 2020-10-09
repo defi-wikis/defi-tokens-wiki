@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T18:50:35.840Z",
+    "timestamp": "2020-10-09T19:12:40.346Z",
     "version": {
         "major": 1,
-        "minor": 5418,
+        "minor": 5419,
         "patch": 0
     },
     "keywords": [
@@ -27739,6 +27739,13 @@
             "name": "Zimich",
             "symbol": "ZIMICH",
             "address": "0xE8C7A702E6cb8bE6832Ab808Dc446a63561DB2b0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JNTR/e",
+            "symbol": "JNTR/e",
+            "address": "0x1368452Bfb5Cd127971C8DE22C58fBE89D35A6BF",
             "decimals": 18
         }
     ]
