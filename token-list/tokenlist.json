@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T13:28:15.878Z",
+    "timestamp": "2020-10-09T13:33:46.522Z",
     "version": {
         "major": 1,
-        "minor": 5373,
+        "minor": 5374,
         "patch": 0
     },
     "keywords": [
@@ -27424,6 +27424,13 @@
             "name": "DokiDokiFinance",
             "symbol": "DOKI",
             "address": "0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ANDROID CHAING",
+            "symbol": "ADc",
+            "address": "0xcBcbBe92a412b8faf21db7fF98a9ce41Ace2eB02",
             "decimals": 18
         }
     ]
