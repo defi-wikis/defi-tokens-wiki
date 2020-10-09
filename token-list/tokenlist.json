@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T13:46:55.332Z",
+    "timestamp": "2020-10-09T13:58:35.036Z",
     "version": {
         "major": 1,
-        "minor": 5376,
+        "minor": 5377,
         "patch": 0
     },
     "keywords": [
@@ -27445,6 +27445,13 @@
             "name": "CVS",
             "symbol": "CVS",
             "address": "0x55c5c5Cb6ED11CF7c039543Ba194eC4d4682efCF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFX",
+            "symbol": "YFX",
+            "address": "0x1ce28a8F26bd58F95385cD8b0B4977bF39a7B02f",
             "decimals": 18
         }
     ]
