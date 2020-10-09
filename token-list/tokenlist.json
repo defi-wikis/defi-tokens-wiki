@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:26:59.767Z",
+    "timestamp": "2020-10-09T14:27:10.257Z",
     "version": {
         "major": 1,
-        "minor": 5381,
+        "minor": 5382,
         "patch": 0
     },
     "keywords": [
@@ -27480,6 +27480,13 @@
             "name": "Mega Finance",
             "symbol": "MEGA",
             "address": "0x8EcC77cf8392259c4F8BC0A9f1b5E3bDef618fCc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "dokidoki.finance",
+            "symbol": "DOKI",
+            "address": "0xcc8f8EC61CcAe016095fE0F1ffc063c19a339F17",
             "decimals": 18
         }
     ]
