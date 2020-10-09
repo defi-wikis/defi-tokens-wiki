@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T13:58:35.036Z",
+    "timestamp": "2020-10-09T14:07:50.962Z",
     "version": {
         "major": 1,
-        "minor": 5377,
+        "minor": 5378,
         "patch": 0
     },
     "keywords": [
@@ -27452,6 +27452,13 @@
             "name": "YFX",
             "symbol": "YFX",
             "address": "0x1ce28a8F26bd58F95385cD8b0B4977bF39a7B02f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UNIFarm",
+            "symbol": "UNIF",
+            "address": "0xD971Cd41d9D85A0E84014846c59957385FF61f07",
             "decimals": 18
         }
     ]
