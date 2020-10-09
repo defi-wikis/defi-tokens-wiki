@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:26:00.084Z",
+    "timestamp": "2020-10-09T12:27:11.340Z",
     "version": {
         "major": 1,
-        "minor": 5366,
+        "minor": 5367,
         "patch": 0
     },
     "keywords": [
@@ -27376,6 +27376,13 @@
             "symbol": "TRIBU",
             "address": "0xa2B4E43459193335F75B90Ff1ca1FcAa9cFa79C7",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "PiNetwork",
+            "symbol": "PI",
+            "address": "0x93Ff750e49A62FEAE19Ae1eD56388c9972D1c279",
+            "decimals": 18
         }
     ]
 }
