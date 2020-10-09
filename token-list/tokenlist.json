@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T03:38:35.197Z",
+    "timestamp": "2020-10-09T04:00:17.904Z",
     "version": {
         "major": 1,
-        "minor": 5301,
+        "minor": 5302,
         "patch": 0
     },
     "keywords": [
@@ -26920,6 +26920,13 @@
             "name": "DARK",
             "symbol": "DARK",
             "address": "0x6Bcc20bF76b0f50724D475aE6A6914f5B2FDcEEe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QuiverX.io",
+            "symbol": "QRX",
+            "address": "0x81cD2e717132A88093B9Ea193B63FcEda434F2eb",
             "decimals": 18
         }
     ]
