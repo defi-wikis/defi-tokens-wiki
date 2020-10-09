@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T11:11:35.622Z",
+    "timestamp": "2020-10-09T11:14:40.895Z",
     "version": {
         "major": 1,
-        "minor": 5354,
+        "minor": 5355,
         "patch": 0
     },
     "keywords": [
@@ -27291,6 +27291,13 @@
             "name": "DataBroker DAO",
             "symbol": "DTX",
             "address": "0x5F9ae2F1540D83499AEC1134D66030E64DA8BE8B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFEND",
+            "symbol": "YFEND",
+            "address": "0x190366B1A77A3Eaa3bD301AC569438aFF8279B05",
             "decimals": 18
         }
     ]
