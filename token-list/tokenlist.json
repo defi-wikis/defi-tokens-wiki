@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T09:25:32.448Z",
+    "timestamp": "2020-10-09T09:38:20.091Z",
     "version": {
         "major": 1,
-        "minor": 5343,
+        "minor": 5344,
         "patch": 0
     },
     "keywords": [
@@ -27214,6 +27214,13 @@
             "name": "Swag.Finance",
             "symbol": "SWAG",
             "address": "0xbE7A5e1d197C6A1D46f634F6492413b65154Eb2E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ReActive Finance",
+            "symbol": "REFI",
+            "address": "0xfB2cA2FDB0bCb18568a2a0FaCbfC6B0fD0bb9783",
             "decimals": 18
         }
     ]
