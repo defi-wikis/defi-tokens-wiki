@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T22:59:34.492Z",
+    "timestamp": "2020-10-09T23:14:25.573Z",
     "version": {
         "major": 1,
-        "minor": 5439,
+        "minor": 5440,
         "patch": 0
     },
     "keywords": [
@@ -27886,6 +27886,13 @@
             "name": "HeavensGate",
             "symbol": "HATE",
             "address": "0x054bD236b42385c938357112F419dC5943687886",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SHAKA",
+            "symbol": "SHAKA",
+            "address": "0x8a04Ce6461749A6bc57CD4468f1e6dc5E60AFdca",
             "decimals": 18
         }
     ]
