@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T01:00:26.932Z",
+    "timestamp": "2020-10-09T02:21:29.645Z",
     "version": {
         "major": 1,
-        "minor": 5291,
+        "minor": 5292,
         "patch": 0
     },
     "keywords": [
@@ -26851,6 +26851,13 @@
             "symbol": "LIT",
             "address": "0x2e3C062E16c1a3a04Ddc5003c62E294305d83684",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "BKKICOIN TOKEN",
+            "symbol": "BKKI",
+            "address": "0xe11Eae7747B75955DC446F369Af3FFcb071A822D",
+            "decimals": 18
         }
     ]
 }
