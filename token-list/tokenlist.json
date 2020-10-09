@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T16:27:08.489Z",
+    "timestamp": "2020-10-09T16:36:08.867Z",
     "version": {
         "major": 1,
-        "minor": 5401,
+        "minor": 5402,
         "patch": 0
     },
     "keywords": [
@@ -27620,6 +27620,13 @@
             "name": "rampdefi.finance",
             "symbol": "RAMP DEFI",
             "address": "0x448a46b873b6AC7BaD3018Cc5a9F246267510574",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Farming",
+            "symbol": "YFIF",
+            "address": "0x61d53Dd46a6E05af956B183a80A043089141beD0",
             "decimals": 18
         }
     ]
