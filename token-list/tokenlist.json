@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T05:44:25.350Z",
+    "timestamp": "2020-10-09T05:54:37.235Z",
     "version": {
         "major": 1,
-        "minor": 5313,
+        "minor": 5314,
         "patch": 0
     },
     "keywords": [
@@ -27004,6 +27004,13 @@
             "name": "Xfinances",
             "symbol": "XFIS",
             "address": "0x3b98BA8446f39A44BEc6e3053e4765ce75F8058E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JFIN Coin",
+            "symbol": "JFIN",
+            "address": "0x940BdCb99A0Ee5Fb008A606778AE87Ed9789F257",
             "decimals": 18
         }
     ]
