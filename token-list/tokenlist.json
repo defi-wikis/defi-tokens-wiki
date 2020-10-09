@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T06:49:22.064Z",
+    "timestamp": "2020-10-09T07:12:52.297Z",
     "version": {
         "major": 1,
-        "minor": 5322,
+        "minor": 5323,
         "patch": 0
     },
     "keywords": [
@@ -27068,6 +27068,13 @@
             "symbol": "WIZ",
             "address": "0xA126AAce6757a0DD89C60C1c16cf8997F749780b",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "NuCypher",
+            "symbol": "NU",
+            "address": "0x49478804fF479B80228126EDDCa430e46856B559",
+            "decimals": 18
         }
     ]
 }
