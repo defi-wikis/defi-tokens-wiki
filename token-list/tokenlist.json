@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:59:25.892Z",
+    "timestamp": "2020-10-09T15:03:10.577Z",
     "version": {
         "major": 1,
-        "minor": 5389,
+        "minor": 5390,
         "patch": 0
     },
     "keywords": [
@@ -27536,6 +27536,13 @@
             "name": "NinjaBoom.Finance",
             "symbol": "NIB",
             "address": "0x734cC8E3C65183b5add3b6c685Abade27e074849",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GigaToken",
+            "symbol": "GIGA",
+            "address": "0x96E97F2C58Cf3bD8E7E0a06EEe835C7594F84Fae",
             "decimals": 18
         }
     ]
