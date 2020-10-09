@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T15:40:08.747Z",
+    "timestamp": "2020-10-09T15:42:44.865Z",
     "version": {
         "major": 1,
-        "minor": 5393,
+        "minor": 5394,
         "patch": 0
     },
     "keywords": [
@@ -27564,6 +27564,13 @@
             "name": "DiFy.Finance",
             "symbol": "DIFY",
             "address": "0x65dCE6DeC2ddab612859564D6fcCe372B5123594",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pegasus Investments",
+            "symbol": "PEGA",
+            "address": "0x7Bc574f8E4c95141B1E9d34b67e283Ad552e3F64",
             "decimals": 18
         }
     ]
