@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T23:36:25.401Z",
+    "timestamp": "2020-10-09T23:43:02.770Z",
     "version": {
         "major": 1,
-        "minor": 5443,
+        "minor": 5444,
         "patch": 0
     },
     "keywords": [
@@ -27915,6 +27915,13 @@
             "symbol": "Autobill",
             "address": "0x25729649448bbEF37Bce809d3b441b54D337602F",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "xDie Core",
+            "symbol": "xCORE",
+            "address": "0xdaCE314961BAa68811c2C2F60360D6a238D9C7C6",
+            "decimals": 18
         }
     ]
 }
