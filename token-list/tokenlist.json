@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:50:40.599Z",
+    "timestamp": "2020-10-09T14:55:31.216Z",
     "version": {
         "major": 1,
-        "minor": 5387,
+        "minor": 5388,
         "patch": 0
     },
     "keywords": [
@@ -27522,6 +27522,13 @@
             "name": "BicycleFinance",
             "symbol": "BCYFI",
             "address": "0xA7779DDe760F4D742043BaC52534E484a2fF86c1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Uniswap",
+            "symbol": "ETHU",
+            "address": "0x3d851B7915E0c2E7272F7952961f526e4619E2ef",
             "decimals": 18
         }
     ]
