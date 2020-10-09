@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T22:36:15.415Z",
+    "timestamp": "2020-10-09T22:41:39.921Z",
     "version": {
         "major": 1,
-        "minor": 5435,
+        "minor": 5436,
         "patch": 0
     },
     "keywords": [
@@ -27858,6 +27858,13 @@
             "name": "Kebab.finance",
             "symbol": "KEBAB",
             "address": "0x42c85F88688C683e91aF5A9d9FE5Ba18BD3e8273",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Muse",
+            "symbol": "MUSE",
+            "address": "0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81",
             "decimals": 18
         }
     ]
