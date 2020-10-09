@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T05:18:42.619Z",
+    "timestamp": "2020-10-09T05:39:51.496Z",
     "version": {
         "major": 1,
-        "minor": 5311,
+        "minor": 5312,
         "patch": 0
     },
     "keywords": [
@@ -26990,6 +26990,13 @@
             "name": "vape.finance",
             "symbol": "VAPE",
             "address": "0x01469b53f9DfD54fF7A97EBA68c1E048575F4F8f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "aUselessFuckingToken",
+            "symbol": "AUFT",
+            "address": "0xb876e9DbB47Eb7dbcd9079F8DA658Ee210144eD8",
             "decimals": 18
         }
     ]
