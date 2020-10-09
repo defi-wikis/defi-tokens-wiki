@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T03:24:10.830Z",
+    "timestamp": "2020-10-09T03:37:44.941Z",
     "version": {
         "major": 1,
-        "minor": 5298,
+        "minor": 5299,
         "patch": 0
     },
     "keywords": [
@@ -26900,6 +26900,13 @@
             "symbol": "POC",
             "address": "0x5DF835a0E843BC34038E52a263a5057f26c229b6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "USDGOLD",
+            "symbol": "USDGOLD",
+            "address": "0x4D9eDc65d340645ED4fB2E28215B6d2E6c604F69",
+            "decimals": 9
         }
     ]
 }
