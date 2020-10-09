@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T06:01:51.889Z",
+    "timestamp": "2020-10-09T06:06:31.838Z",
     "version": {
         "major": 1,
-        "minor": 5316,
+        "minor": 5317,
         "patch": 0
     },
     "keywords": [
@@ -27025,6 +27025,13 @@
             "name": "MoonBoyToken",
             "symbol": "MBT",
             "address": "0x188588b6C0E370EFc45482E1ca715107Dc62B3e1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LandToken",
+            "symbol": "LanD",
+            "address": "0xf07a08955E7058c9402038F432d7EFC5a3caDBb8",
             "decimals": 18
         }
     ]
