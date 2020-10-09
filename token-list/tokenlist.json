@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T10:10:35.551Z",
+    "timestamp": "2020-10-09T10:19:02.303Z",
     "version": {
         "major": 1,
-        "minor": 5347,
+        "minor": 5348,
         "patch": 0
     },
     "keywords": [
@@ -27242,6 +27242,13 @@
             "name": "BLUE-ORB",
             "symbol": "BLORB",
             "address": "0xfadB4b356D648043eC3aA84D663a23fa03683733",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Oduwa Coin",
+            "symbol": "OWC",
+            "address": "0x84Ea99840155e0D0Fb3444B5075186c626411979",
             "decimals": 18
         }
     ]
