@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T03:21:09.868Z",
+    "timestamp": "2020-10-09T03:24:10.830Z",
     "version": {
         "major": 1,
-        "minor": 5297,
+        "minor": 5298,
         "patch": 0
     },
     "keywords": [
@@ -26893,6 +26893,13 @@
             "symbol": "GU:S1:RT",
             "address": "0x606830d51FF935B4b0F8FFe965D419934c57b2F0",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Power candy",
+            "symbol": "POC",
+            "address": "0x5DF835a0E843BC34038E52a263a5057f26c229b6",
+            "decimals": 18
         }
     ]
 }
