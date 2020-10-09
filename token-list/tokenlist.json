@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T11:14:40.895Z",
+    "timestamp": "2020-10-09T11:33:55.938Z",
     "version": {
         "major": 1,
-        "minor": 5355,
+        "minor": 5356,
         "patch": 0
     },
     "keywords": [
@@ -27298,6 +27298,13 @@
             "name": "YFEND",
             "symbol": "YFEND",
             "address": "0x190366B1A77A3Eaa3bD301AC569438aFF8279B05",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "plutus.it",
+            "symbol": "PLU",
+            "address": "0x6618Dd109eE9DC93026ab36ab6AB7b4FbdE0411B",
             "decimals": 18
         }
     ]
