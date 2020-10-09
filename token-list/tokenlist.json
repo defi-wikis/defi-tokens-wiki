@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T02:29:59.686Z",
+    "timestamp": "2020-10-09T02:36:35.321Z",
     "version": {
         "major": 1,
-        "minor": 5294,
+        "minor": 5295,
         "patch": 0
     },
     "keywords": [
@@ -26871,6 +26871,13 @@
             "name": "BP",
             "symbol": "BP",
             "address": "0x3E76c638F1F0c7e465E9E2d0b8DC33395fDEC61f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pokemons",
+            "symbol": "PMON",
+            "address": "0x59C398779693300392C4bfCbd212FdE4355f48Fe",
             "decimals": 18
         }
     ]
