@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T19:17:55.046Z",
+    "timestamp": "2020-10-09T19:36:35.026Z",
     "version": {
         "major": 1,
-        "minor": 5420,
+        "minor": 5421,
         "patch": 0
     },
     "keywords": [
@@ -27753,6 +27753,13 @@
             "name": "HeavensGate",
             "symbol": "HATE",
             "address": "0x1289b4CB4070fc287896B2FFC60Cfce52d875ffb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped GEGO",
+            "symbol": "WGEGO",
+            "address": "0x3519378e0C67CA658EE91c4f6D5573c55aC6e401",
             "decimals": 18
         }
     ]
