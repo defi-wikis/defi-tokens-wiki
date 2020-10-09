@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T14:55:31.216Z",
+    "timestamp": "2020-10-09T14:59:25.892Z",
     "version": {
         "major": 1,
-        "minor": 5388,
+        "minor": 5389,
         "patch": 0
     },
     "keywords": [
@@ -27529,6 +27529,13 @@
             "name": "Ethereum Uniswap",
             "symbol": "ETHU",
             "address": "0x3d851B7915E0c2E7272F7952961f526e4619E2ef",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NinjaBoom.Finance",
+            "symbol": "NIB",
+            "address": "0x734cC8E3C65183b5add3b6c685Abade27e074849",
             "decimals": 18
         }
     ]
