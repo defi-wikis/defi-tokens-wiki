@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T22:15:50.587Z",
+    "timestamp": "2020-10-09T22:27:59.881Z",
     "version": {
         "major": 1,
-        "minor": 5432,
+        "minor": 5433,
         "patch": 0
     },
     "keywords": [
@@ -27838,6 +27838,13 @@
             "symbol": "INSTAR",
             "address": "0x8193711b2763Bc7DfD67Da0d6C8c26642eafDAF3",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Version 2",
+            "symbol": "SUSII",
+            "address": "0xdB9A743b61e99f596F184AF7841bd8906f431c0c",
+            "decimals": 18
         }
     ]
 }
