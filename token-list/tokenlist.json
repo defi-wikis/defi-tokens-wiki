@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T22:41:39.921Z",
+    "timestamp": "2020-10-09T22:44:15.321Z",
     "version": {
         "major": 1,
-        "minor": 5436,
+        "minor": 5437,
         "patch": 0
     },
     "keywords": [
@@ -27865,6 +27865,13 @@
             "name": "Muse",
             "symbol": "MUSE",
             "address": "0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Defi Bomb",
+            "symbol": "RPG",
+            "address": "0xbE23BDF4fAC2f95De8aDaa6d0113A84359fa2AB8",
             "decimals": 18
         }
     ]
