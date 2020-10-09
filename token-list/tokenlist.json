@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T23:24:55.056Z",
+    "timestamp": "2020-10-09T23:36:25.401Z",
     "version": {
         "major": 1,
-        "minor": 5442,
+        "minor": 5443,
         "patch": 0
     },
     "keywords": [
@@ -27908,6 +27908,13 @@
             "symbol": "RAMP",
             "address": "0x558246c14BF134B84ed44fA23d6b620078bcf782",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Autobill",
+            "symbol": "Autobill",
+            "address": "0x25729649448bbEF37Bce809d3b441b54D337602F",
+            "decimals": 4
         }
     ]
 }
