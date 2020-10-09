@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:11:30.743Z",
+    "timestamp": "2020-10-09T12:16:30.694Z",
     "version": {
         "major": 1,
-        "minor": 5363,
+        "minor": 5364,
         "patch": 0
     },
     "keywords": [
@@ -27354,6 +27354,13 @@
             "name": "Super Stake",
             "symbol": "SUPER",
             "address": "0x3FE9c744bd6b59511b4b39fA669f9D259252baCD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Syield.finance",
+            "symbol": "SYLD",
+            "address": "0x5551Ea2DA9092828e1787c0Cd4358A002E14C795",
             "decimals": 18
         }
     ]
