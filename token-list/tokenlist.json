@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T08:03:51.692Z",
+    "timestamp": "2020-10-09T08:16:19.874Z",
     "version": {
         "major": 1,
-        "minor": 5332,
+        "minor": 5333,
         "patch": 0
     },
     "keywords": [
@@ -27137,6 +27137,13 @@
             "name": "Strudel Finance",
             "symbol": "$TRDL",
             "address": "0x297D33e17e61C2Ddd812389C2105193f8348188a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Spartans",
+            "symbol": "SPR",
+            "address": "0x421A464Ee7f0987D1b008280967a57Bfa5921EA1",
             "decimals": 18
         }
     ]
