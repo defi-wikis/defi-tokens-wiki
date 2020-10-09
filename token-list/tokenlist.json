@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-09T12:01:30.652Z",
+    "timestamp": "2020-10-09T12:04:00.032Z",
     "version": {
         "major": 1,
-        "minor": 5360,
+        "minor": 5361,
         "patch": 0
     },
     "keywords": [
@@ -27333,6 +27333,13 @@
             "name": "DecentraLife",
             "symbol": "DLIFE",
             "address": "0x845bc135AEaa96C6ae21Fb802C3C7af73c57BD39",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DonkeySwap",
+            "symbol": "DONKEY",
+            "address": "0xB0418d943d266C632C72E6692DC079De2bB96E0e",
             "decimals": 18
         }
     ]
