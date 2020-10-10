@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T19:07:09.641Z",
+    "timestamp": "2020-10-10T19:18:20.521Z",
     "version": {
         "major": 1,
-        "minor": 5589,
+        "minor": 5590,
         "patch": 0
     },
     "keywords": [
@@ -28936,6 +28936,13 @@
             "name": "YieldBank.Finance",
             "symbol": "YBNK",
             "address": "0xaeaEEABDc16e8BA7BF54189a35DBf60614E4bFd5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Doki Doki Finance",
+            "symbol": "DOKI",
+            "address": "0xe225226329347893fE3a6e6a1791a7D813861A05",
             "decimals": 18
         }
     ]
