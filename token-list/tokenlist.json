@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T12:32:35.975Z",
+    "timestamp": "2020-10-10T12:50:16.223Z",
     "version": {
         "major": 1,
-        "minor": 5533,
+        "minor": 5534,
         "patch": 0
     },
     "keywords": [
@@ -28544,6 +28544,13 @@
             "name": "Phoenix Fund",
             "symbol": "PHX",
             "address": "0x0a51EcF7362Ce03F75a20cad7671741953D2d7C8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SKN",
+            "symbol": "SKN",
+            "address": "0x383b28dE2c07a0BFc92853f779bcc5bf17432fC6",
             "decimals": 18
         }
     ]
