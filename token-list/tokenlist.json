@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:49:50.817Z",
+    "timestamp": "2020-10-10T16:51:01.979Z",
     "version": {
         "major": 1,
-        "minor": 5571,
+        "minor": 5572,
         "patch": 0
     },
     "keywords": [
@@ -28810,6 +28810,13 @@
             "name": "BEARSWAP.IO",
             "symbol": "BRS",
             "address": "0xBADc0Ffe64029c74Ea38df8d6906Df74F873C73d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LINK Clone",
+            "symbol": "LINK2",
+            "address": "0x7dd17A56704027B0544947169013AB390210d8e0",
             "decimals": 18
         }
     ]
