@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T01:44:49.517Z",
+    "timestamp": "2020-10-10T01:52:00.041Z",
     "version": {
         "major": 1,
-        "minor": 5455,
+        "minor": 5456,
         "patch": 0
     },
     "keywords": [
@@ -27998,6 +27998,13 @@
             "name": "Non-Fungible Yearn",
             "symbol": "NFY",
             "address": "0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BFT.Finance",
+            "symbol": "BFT",
+            "address": "0xbBFF4Fc022Fca76968B625d4a389EDd8b34a6054",
             "decimals": 18
         }
     ]
