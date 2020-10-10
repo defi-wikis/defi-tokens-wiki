@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T23:15:15.863Z",
+    "timestamp": "2020-10-10T23:20:59.905Z",
     "version": {
         "major": 1,
-        "minor": 5607,
+        "minor": 5608,
         "patch": 0
     },
     "keywords": [
@@ -29062,6 +29062,13 @@
             "name": "Hadara",
             "symbol": "HAD",
             "address": "0x758dCb9E473d80D5b0f539c6d3195dfED0a22c24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nachos",
+            "symbol": "NCHS",
+            "address": "0x3Afe605A65F6F6b287a1Bd91b13e50C61a239a83",
             "decimals": 18
         }
     ]
