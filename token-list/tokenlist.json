@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T12:50:16.223Z",
+    "timestamp": "2020-10-10T13:19:44.949Z",
     "version": {
         "major": 1,
-        "minor": 5534,
+        "minor": 5535,
         "patch": 0
     },
     "keywords": [
@@ -28551,6 +28551,13 @@
             "name": "SKN",
             "symbol": "SKN",
             "address": "0x383b28dE2c07a0BFc92853f779bcc5bf17432fC6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kirin.finance",
+            "symbol": "RIN",
+            "address": "0x03bBeAB8d41FBAC2477b417b5DF7cBC7d939c44A",
             "decimals": 18
         }
     ]
