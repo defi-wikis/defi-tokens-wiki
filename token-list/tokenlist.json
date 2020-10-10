@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:42:52.224Z",
+    "timestamp": "2020-10-10T18:46:35.533Z",
     "version": {
         "major": 1,
-        "minor": 5585,
+        "minor": 5586,
         "patch": 0
     },
     "keywords": [
@@ -28908,6 +28908,13 @@
             "name": "HexaFinance",
             "symbol": "HEX",
             "address": "0x5f7b47262254532bFd33625E767654123188D83E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ti Storage",
+            "symbol": "TI",
+            "address": "0x2488f855cdD8a5CDd018810C30e24b0BF1c6d398",
             "decimals": 18
         }
     ]
