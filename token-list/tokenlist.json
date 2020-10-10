@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:09:35.474Z",
+    "timestamp": "2020-10-10T15:15:17.933Z",
     "version": {
         "major": 1,
-        "minor": 5545,
+        "minor": 5546,
         "patch": 0
     },
     "keywords": [
@@ -28628,6 +28628,13 @@
             "name": "ZAN.Finance",
             "symbol": "ZAN",
             "address": "0xf62420721dd40473b2b07b83eda52B8943122319",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nyan Finance v2",
+            "symbol": "NYAN2",
+            "address": "0xE19A6222Ac7A8D2B767601232d49b5807C23Dccc",
             "decimals": 18
         }
     ]
