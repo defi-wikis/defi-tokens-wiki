@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:06:11.294Z",
+    "timestamp": "2020-10-10T15:09:35.474Z",
     "version": {
         "major": 1,
-        "minor": 5544,
+        "minor": 5545,
         "patch": 0
     },
     "keywords": [
@@ -28621,6 +28621,13 @@
             "name": "Pure Yield Finance",
             "symbol": "PYF",
             "address": "0xf18ba7594A37027467e838127f8B67B410F9655a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZAN.Finance",
+            "symbol": "ZAN",
+            "address": "0xf62420721dd40473b2b07b83eda52B8943122319",
             "decimals": 18
         }
     ]
