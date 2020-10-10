@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T00:08:35.030Z",
+    "timestamp": "2020-10-10T00:41:13.212Z",
     "version": {
         "major": 1,
-        "minor": 5447,
+        "minor": 5448,
         "patch": 0
     },
     "keywords": [
@@ -27942,6 +27942,13 @@
             "name": "PumpHardToken",
             "symbol": "PHT",
             "address": "0x7700fFF30632De14C6bEA3a92119Fb3C63589320",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zeus Finance",
+            "symbol": "ZEUS",
+            "address": "0xB979098fD755fE105Ef652BDF69398041DA78576",
             "decimals": 18
         }
     ]
