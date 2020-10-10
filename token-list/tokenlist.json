@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T11:28:20.226Z",
+    "timestamp": "2020-10-10T11:50:25.044Z",
     "version": {
         "major": 1,
-        "minor": 5522,
+        "minor": 5523,
         "patch": 0
     },
     "keywords": [
@@ -28467,6 +28467,13 @@
             "name": "Thirm Protocol",
             "symbol": "THRM",
             "address": "0x34E427B7e0581286648F4B4faaDE5CB90aB1A9da",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RampDeli.finance",
+            "symbol": "RAMPDELI",
+            "address": "0xbD5327d26656204acE06617BC1612eD4a36b58a3",
             "decimals": 18
         }
     ]
