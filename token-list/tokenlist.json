@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T08:08:02.417Z",
+    "timestamp": "2020-10-10T08:15:17.660Z",
     "version": {
         "major": 1,
-        "minor": 5504,
+        "minor": 5505,
         "patch": 0
     },
     "keywords": [
@@ -28341,6 +28341,13 @@
             "name": "SaladSwap",
             "symbol": "Salad",
             "address": "0xc8AdBCcFB1E462faD8f6203112aA0c08441A121B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "heavensgate.finance",
+            "symbol": "HATE",
+            "address": "0x114f792d53Aaaa05a4F17D9414033D0c1f0F8137",
             "decimals": 18
         }
     ]
