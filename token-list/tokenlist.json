@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T07:51:10.213Z",
+    "timestamp": "2020-10-10T08:08:02.417Z",
     "version": {
         "major": 1,
-        "minor": 5503,
+        "minor": 5504,
         "patch": 0
     },
     "keywords": [
@@ -28334,6 +28334,13 @@
             "name": "colibri.finance",
             "symbol": "CFI",
             "address": "0x26e3FA6491D26094B94cD9833C76191C04f2F282",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SaladSwap",
+            "symbol": "Salad",
+            "address": "0xc8AdBCcFB1E462faD8f6203112aA0c08441A121B",
             "decimals": 18
         }
     ]
