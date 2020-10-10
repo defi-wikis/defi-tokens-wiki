@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:35:41.033Z",
+    "timestamp": "2020-10-10T03:48:35.586Z",
     "version": {
         "major": 1,
-        "minor": 5472,
+        "minor": 5473,
         "patch": 0
     },
     "keywords": [
@@ -28117,6 +28117,13 @@
             "name": "yincome.finance",
             "symbol": "YINCOME",
             "address": "0x414632055bEA0757307A9170B53b4677BE1e0718",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FrogSwap",
+            "symbol": "FROG",
+            "address": "0x4fEe21439F2b95b72da2F9f901b3956f27fE91D5",
             "decimals": 18
         }
     ]
