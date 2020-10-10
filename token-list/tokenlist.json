@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T02:57:07.894Z",
+    "timestamp": "2020-10-10T03:09:07.425Z",
     "version": {
         "major": 1,
-        "minor": 5464,
+        "minor": 5465,
         "patch": 0
     },
     "keywords": [
@@ -28061,6 +28061,13 @@
             "name": "Core v3.0 (Official)",
             "symbol": "COR3",
             "address": "0x62da4d5f3dB622AC7b5b7F2e4b8EDf9bdBd39A10",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DiFy.Core Finance",
+            "symbol": "YFIIIC",
+            "address": "0x0BbD47Cd812EB6F370B8706d3681809FF33217A2",
             "decimals": 18
         }
     ]
