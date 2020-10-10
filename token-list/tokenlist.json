@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T14:49:20.164Z",
+    "timestamp": "2020-10-10T14:50:25.922Z",
     "version": {
         "major": 1,
-        "minor": 5541,
+        "minor": 5542,
         "patch": 0
     },
     "keywords": [
@@ -28600,6 +28600,13 @@
             "name": "Seal Finance",
             "symbol": "Seal",
             "address": "0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pepe",
+            "symbol": "PEPE",
+            "address": "0x4dFae3690b93c47470b03036A17B23C1Be05127C",
             "decimals": 18
         }
     ]
