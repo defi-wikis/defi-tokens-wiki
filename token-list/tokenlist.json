@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T23:14:03.180Z",
+    "timestamp": "2020-10-10T23:15:15.863Z",
     "version": {
         "major": 1,
-        "minor": 5606,
+        "minor": 5607,
         "patch": 0
     },
     "keywords": [
@@ -29056,6 +29056,13 @@
             "symbol": "FRXT2",
             "address": "0xA1acBB78164Fdc4446426eBCaEd119536816467A",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Hadara",
+            "symbol": "HAD",
+            "address": "0x758dCb9E473d80D5b0f539c6d3195dfED0a22c24",
+            "decimals": 18
         }
     ]
 }
