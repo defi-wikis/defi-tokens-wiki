@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:19:19.841Z",
+    "timestamp": "2020-10-10T15:31:54.731Z",
     "version": {
         "major": 1,
-        "minor": 5548,
+        "minor": 5549,
         "patch": 0
     },
     "keywords": [
@@ -28649,6 +28649,13 @@
             "name": "Gongoo",
             "symbol": "GONG",
             "address": "0x3A4fddB5919785e61f10062774b1e18bF0e8D0Cb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Candy Finance",
+            "symbol": "CANDY",
+            "address": "0xD1Fa3C26dD3eD728f3DBdB6E39DA42D18625ebeb",
             "decimals": 18
         }
     ]
