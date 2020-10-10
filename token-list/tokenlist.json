@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T13:55:30.405Z",
+    "timestamp": "2020-10-10T13:56:55.019Z",
     "version": {
         "major": 1,
-        "minor": 5538,
+        "minor": 5539,
         "patch": 0
     },
     "keywords": [
@@ -28580,6 +28580,13 @@
             "symbol": "FLUX",
             "address": "0x87822cAd74fa0CDDbc70d3B1038c6b91c0019e64",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ThoreNext",
+            "symbol": "THX",
+            "address": "0xf08c68bD5f4194d994FD70726746Bf529eE5a617",
+            "decimals": 0
         }
     ]
 }
