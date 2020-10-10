@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T20:11:51.135Z",
+    "timestamp": "2020-10-10T20:15:20.148Z",
     "version": {
         "major": 1,
-        "minor": 5596,
+        "minor": 5597,
         "patch": 0
     },
     "keywords": [
@@ -28985,6 +28985,13 @@
             "name": "Blue Kirby Cunt",
             "symbol": "BKC",
             "address": "0xC8e07ff8A82EBE3d13C1431226D70E215C6fba7d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "apy.finance",
+            "symbol": "APY",
+            "address": "0xbB52Ae7BBE3e597ADD5dA5A0f0a9Ba3bB046190b",
             "decimals": 18
         }
     ]
