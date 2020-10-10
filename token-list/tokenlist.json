@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T22:56:55.307Z",
+    "timestamp": "2020-10-10T23:04:45.677Z",
     "version": {
         "major": 1,
-        "minor": 5604,
+        "minor": 5605,
         "patch": 0
     },
     "keywords": [
@@ -29041,6 +29041,13 @@
             "name": "COINGEKO",
             "symbol": "GECKO",
             "address": "0x8824B27Ae9220f57A9b3df0531736f5Cec1CB006",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Harvest.Finance",
+            "symbol": "FARM",
+            "address": "0x2c99f64800e4B697CfCd63af976add440466BbF1",
             "decimals": 18
         }
     ]
