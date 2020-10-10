@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:05:55.698Z",
+    "timestamp": "2020-10-10T06:14:20.729Z",
     "version": {
         "major": 1,
-        "minor": 5488,
+        "minor": 5489,
         "patch": 0
     },
     "keywords": [
@@ -28230,6 +28230,13 @@
             "symbol": "DDrd",
             "address": "0x92e18d35a88acc8fC5d8B698e36322BCD132E263",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Easyfi.network",
+            "symbol": "EASY",
+            "address": "0x3Db20E9C011cd9106A185f6Abe7e550f8e3FcAfb",
+            "decimals": 18
         }
     ]
 }
