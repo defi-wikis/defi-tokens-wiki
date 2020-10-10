@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:00:42.137Z",
+    "timestamp": "2020-10-10T16:03:20.532Z",
     "version": {
         "major": 1,
-        "minor": 5556,
+        "minor": 5557,
         "patch": 0
     },
     "keywords": [
@@ -28705,6 +28705,13 @@
             "name": "YGY.finance",
             "symbol": "YGY",
             "address": "0xdaC133ecD031C82C9215ABA576AE320315033C54",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RAMP DEFI",
+            "symbol": "RAMP",
+            "address": "0x1B7dE8867c202a95Fb192e3f969D7dB8fB3A9882",
             "decimals": 18
         }
     ]
