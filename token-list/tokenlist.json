@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:44:15.264Z",
+    "timestamp": "2020-10-10T16:46:10.459Z",
     "version": {
         "major": 1,
-        "minor": 5569,
+        "minor": 5570,
         "patch": 0
     },
     "keywords": [
@@ -28796,6 +28796,13 @@
             "name": "Chocolate",
             "symbol": "COCO",
             "address": "0xDc34c5238E9777096fd0F25c9B9644c2194e4371",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Juices.Finance",
+            "symbol": "JSF",
+            "address": "0x69afF8e1697DA59fF402e878ad4b1448C0aBA005",
             "decimals": 18
         }
     ]
