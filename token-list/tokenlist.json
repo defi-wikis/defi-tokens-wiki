@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:51:01.979Z",
+    "timestamp": "2020-10-10T16:52:36.884Z",
     "version": {
         "major": 1,
-        "minor": 5572,
+        "minor": 5573,
         "patch": 0
     },
     "keywords": [
@@ -28817,6 +28817,13 @@
             "name": "LINK Clone",
             "symbol": "LINK2",
             "address": "0x7dd17A56704027B0544947169013AB390210d8e0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Balloon Token",
+            "symbol": "BLOON",
+            "address": "0xD5A2ECb977086d3ccA7Cd810C25860314949786D",
             "decimals": 18
         }
     ]
