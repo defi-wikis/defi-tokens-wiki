@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T08:38:54.602Z",
+    "timestamp": "2020-10-10T09:01:07.984Z",
     "version": {
         "major": 1,
-        "minor": 5510,
+        "minor": 5511,
         "patch": 0
     },
     "keywords": [
@@ -28383,6 +28383,13 @@
             "name": "LUA.finance",
             "symbol": "LUF",
             "address": "0x8F1B9c9226e6535Fe8ADa9BC3fC2984208f998E3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zeroswap",
+            "symbol": "ZEE",
+            "address": "0x7aCb83B481ed1B02010B691b6486183008beD71e",
             "decimals": 18
         }
     ]
