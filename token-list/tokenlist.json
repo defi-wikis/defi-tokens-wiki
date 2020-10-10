@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T02:00:50.038Z",
+    "timestamp": "2020-10-10T02:14:40.276Z",
     "version": {
         "major": 1,
-        "minor": 5457,
+        "minor": 5458,
         "patch": 0
     },
     "keywords": [
@@ -28012,6 +28012,13 @@
             "name": "VIDT Datalink",
             "symbol": "VIDT",
             "address": "0xEF3e6e65EDd9D5aF66E2F6858706465793783682",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Non-Fungible Yearn",
+            "symbol": "nfy",
+            "address": "0x242F6916e23ffB260EF4B90c8c313A774d17587b",
             "decimals": 18
         }
     ]
