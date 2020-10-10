@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:58:31.551Z",
+    "timestamp": "2020-10-10T07:10:10.932Z",
     "version": {
         "major": 1,
-        "minor": 5496,
+        "minor": 5497,
         "patch": 0
     },
     "keywords": [
@@ -28285,6 +28285,13 @@
             "name": "Reverse YFI Finance",
             "symbol": "IFY",
             "address": "0x8eeA66a08cD3620274BA11fa61B312e634ceA06a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "plutus.it",
+            "symbol": "PLU",
+            "address": "0x4C2d5040B10816B800bA3aB85b0F50326afc87ea",
             "decimals": 18
         }
     ]
