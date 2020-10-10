@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:01:40.579Z",
+    "timestamp": "2020-10-10T18:05:10.894Z",
     "version": {
         "major": 1,
-        "minor": 5580,
+        "minor": 5581,
         "patch": 0
     },
     "keywords": [
@@ -28873,6 +28873,13 @@
             "name": "Generation of Yield",
             "symbol": "YGY",
             "address": "0x9F31e0A796b4899CDe1EdC162D65690bBB21190d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EcomToken",
+            "symbol": "ECOM",
+            "address": "0xe501dfc8b6041F5DCF8fe7187e132a3DDb02108f",
             "decimals": 18
         }
     ]
