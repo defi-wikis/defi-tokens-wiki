@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T07:24:59.994Z",
+    "timestamp": "2020-10-10T07:26:10.698Z",
     "version": {
         "major": 1,
-        "minor": 5499,
+        "minor": 5500,
         "patch": 0
     },
     "keywords": [
@@ -28307,6 +28307,13 @@
             "symbol": "AllWin",
             "address": "0xc6358C02A4BaFcbcd85360ae046e6bEe556429c1",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "LEE  Chain V1.0",
+            "symbol": "LEE",
+            "address": "0x3591aC25cd3Dc66ED67EED87c8507c965F167258",
+            "decimals": 18
         }
     ]
 }
