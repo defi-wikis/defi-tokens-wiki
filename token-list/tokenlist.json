@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:12:35.671Z",
+    "timestamp": "2020-10-10T18:19:34.783Z",
     "version": {
         "major": 1,
-        "minor": 5582,
+        "minor": 5583,
         "patch": 0
     },
     "keywords": [
@@ -28887,6 +28887,13 @@
             "name": "KKK Network",
             "symbol": "KKK",
             "address": "0x2B9077506FfBa1a7bec91cAABd65c63e49330184",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Princess Leia Finance",
+            "symbol": "LEIA",
+            "address": "0x2af555dA03d185Ca692a05A7727B53114d5d8ADa",
             "decimals": 18
         }
     ]
