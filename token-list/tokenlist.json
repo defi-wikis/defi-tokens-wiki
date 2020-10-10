@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T12:13:20.391Z",
+    "timestamp": "2020-10-10T12:24:39.863Z",
     "version": {
         "major": 1,
-        "minor": 5529,
+        "minor": 5530,
         "patch": 0
     },
     "keywords": [
@@ -28516,6 +28516,13 @@
             "name": "BlackDragon Token",
             "symbol": "BDT",
             "address": "0x4Efe8665e564bF454cCF5C90Ee16817F7485d5Cf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BqtX Token",
+            "symbol": "BQTX",
+            "address": "0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A",
             "decimals": 18
         }
     ]
