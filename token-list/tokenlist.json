@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:56:15.216Z",
+    "timestamp": "2020-10-10T06:57:29.495Z",
     "version": {
         "major": 1,
-        "minor": 5494,
+        "minor": 5495,
         "patch": 0
     },
     "keywords": [
@@ -28271,6 +28271,13 @@
             "name": "Cere Network",
             "symbol": "CERE",
             "address": "0xb1231906063975d3585f13ea37b0787707E88524",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rinkedy Network",
+            "symbol": "RINET",
+            "address": "0xE7B120692F8508f2C26B6bD3eB6B8c4Ec9062a86",
             "decimals": 18
         }
     ]
