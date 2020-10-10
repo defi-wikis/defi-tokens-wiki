@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T19:59:19.971Z",
+    "timestamp": "2020-10-10T20:11:51.135Z",
     "version": {
         "major": 1,
-        "minor": 5595,
+        "minor": 5596,
         "patch": 0
     },
     "keywords": [
@@ -28978,6 +28978,13 @@
             "name": "Chainlink Finance",
             "symbol": "LIFI",
             "address": "0x50D90aCC87f45c2cd8Fb0878417b1411d882eaBA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Blue Kirby Cunt",
+            "symbol": "BKC",
+            "address": "0xC8e07ff8A82EBE3d13C1431226D70E215C6fba7d",
             "decimals": 18
         }
     ]
