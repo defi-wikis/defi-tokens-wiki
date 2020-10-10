@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T21:51:29.868Z",
+    "timestamp": "2020-10-10T22:12:50.110Z",
     "version": {
         "major": 1,
-        "minor": 5601,
+        "minor": 5602,
         "patch": 0
     },
     "keywords": [
@@ -29020,6 +29020,13 @@
             "name": "ZEC Core Finance",
             "symbol": "ZECC",
             "address": "0xd08d7c1fF40688e46b289EA819DB641be1b96387",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SalsaToken",
+            "symbol": "SLST",
+            "address": "0x0e4EA4C5D977dB72e572c1a7bfB5b35563D31d70",
             "decimals": 18
         }
     ]
