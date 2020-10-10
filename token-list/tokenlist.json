@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:41:40.058Z",
+    "timestamp": "2020-10-10T16:44:15.264Z",
     "version": {
         "major": 1,
-        "minor": 5568,
+        "minor": 5569,
         "patch": 0
     },
     "keywords": [
@@ -28789,6 +28789,13 @@
             "name": "piratetoken.finance",
             "symbol": "PIRATE",
             "address": "0x94152edd72eab86C016c3c5FB40376A88F10DE5B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chocolate",
+            "symbol": "COCO",
+            "address": "0xDc34c5238E9777096fd0F25c9B9644c2194e4371",
             "decimals": 18
         }
     ]
