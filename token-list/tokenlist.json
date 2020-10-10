@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:46:35.533Z",
+    "timestamp": "2020-10-10T18:59:09.830Z",
     "version": {
         "major": 1,
-        "minor": 5586,
+        "minor": 5587,
         "patch": 0
     },
     "keywords": [
@@ -28915,6 +28915,13 @@
             "name": "Ti Storage",
             "symbol": "TI",
             "address": "0x2488f855cdD8a5CDd018810C30e24b0BF1c6d398",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Alpha Finance",
+            "symbol": "ALPHA",
+            "address": "0x47BA8F5bCce407F1EA34bD8aA22D591b14BAaF9E",
             "decimals": 18
         }
     ]
