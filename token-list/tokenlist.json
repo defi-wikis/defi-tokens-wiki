@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:15:44.980Z",
+    "timestamp": "2020-10-10T16:16:51.391Z",
     "version": {
         "major": 1,
-        "minor": 5558,
+        "minor": 5559,
         "patch": 0
     },
     "keywords": [
@@ -28720,6 +28720,13 @@
             "symbol": "GG",
             "address": "0x0dA78F52e6DDcbc30ff7d0Dc7a697C49fddc3355",
             "decimals": 7
+        },
+        {
+            "chainId": 1,
+            "name": "YFI SPECULATE",
+            "symbol": "YFS",
+            "address": "0xd77BE186892dE7853fA703Fc1444d96d0098cD2e",
+            "decimals": 8
         }
     ]
 }
