@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T00:52:15.903Z",
+    "timestamp": "2020-10-10T00:56:55.430Z",
     "version": {
         "major": 1,
-        "minor": 5449,
+        "minor": 5450,
         "patch": 0
     },
     "keywords": [
@@ -27956,6 +27956,13 @@
             "name": "Simply Fish BI",
             "symbol": "$FISH",
             "address": "0x4e2c619c3B039B56A7F60aB8fED7cd3C9BE09Ed6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MuffinToken",
+            "symbol": "MFFN",
+            "address": "0x524D70F777C75Ec50291BdD69718c1a705268c8B",
             "decimals": 18
         }
     ]
