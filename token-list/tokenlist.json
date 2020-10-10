@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T23:52:30.194Z",
+    "timestamp": "2020-10-10T23:55:55.969Z",
     "version": {
         "major": 1,
-        "minor": 5611,
+        "minor": 5612,
         "patch": 0
     },
     "keywords": [
@@ -29090,6 +29090,13 @@
             "name": "DEA",
             "symbol": "DEA",
             "address": "0x80aB141F324C3d6F2b18b030f1C4E95d4d658778",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kirby Is Innocent",
+            "symbol": "KII",
+            "address": "0x2F8703B2Ef8092aE0D596dc2FD595028bC6cce07",
             "decimals": 18
         }
     ]
