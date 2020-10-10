@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:37:10.784Z",
+    "timestamp": "2020-10-10T06:40:59.461Z",
     "version": {
         "major": 1,
-        "minor": 5492,
+        "minor": 5493,
         "patch": 0
     },
     "keywords": [
@@ -28257,6 +28257,13 @@
             "name": "DeFiner",
             "symbol": "FIN",
             "address": "0xFaDc6CAc548F796d20363fdE3568E98E7A35a6A7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mettalex.com",
+            "symbol": "MTLX",
+            "address": "0xE0b5C254B61C73C385aAE60dE6eb1EAf45D7544a",
             "decimals": 18
         }
     ]
