@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T09:35:30.160Z",
+    "timestamp": "2020-10-10T09:59:07.548Z",
     "version": {
         "major": 1,
-        "minor": 5514,
+        "minor": 5515,
         "patch": 0
     },
     "keywords": [
@@ -28411,6 +28411,13 @@
             "name": "BlackChainCoin",
             "symbol": "BKC",
             "address": "0x1C75B01De96AD4bBD7d10745eE2731Aa2625054F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Trading",
+            "symbol": "YFIT",
+            "address": "0x9fdeE7dD29178ab62CF828bfd07A1e7295be46E2",
             "decimals": 18
         }
     ]
