@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T04:31:55.258Z",
+    "timestamp": "2020-10-10T04:34:45.762Z",
     "version": {
         "major": 1,
-        "minor": 5476,
+        "minor": 5477,
         "patch": 0
     },
     "keywords": [
@@ -28145,6 +28145,13 @@
             "name": "SwirgePay.com",
             "symbol": "SWG",
             "address": "0xbFc8Fe4b59D8EDeB6A21A42338e3c1026e71B96e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoFiX.io",
+            "symbol": "CoFiX",
+            "address": "0xBE579711fE8D7e566793a1553334C61F9cB56999",
             "decimals": 18
         }
     ]
