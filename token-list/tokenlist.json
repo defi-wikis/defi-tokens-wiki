@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:19:34.783Z",
+    "timestamp": "2020-10-10T18:27:26.032Z",
     "version": {
         "major": 1,
-        "minor": 5583,
+        "minor": 5584,
         "patch": 0
     },
     "keywords": [
@@ -28894,6 +28894,13 @@
             "name": "Princess Leia Finance",
             "symbol": "LEIA",
             "address": "0x2af555dA03d185Ca692a05A7727B53114d5d8ADa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YYY Network",
+            "symbol": "YYY",
+            "address": "0x67CBFEbfaD740326a2B320789bc91FF3aA5Ec624",
             "decimals": 18
         }
     ]
