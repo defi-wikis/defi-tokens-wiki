@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:27:26.032Z",
+    "timestamp": "2020-10-10T18:42:52.224Z",
     "version": {
         "major": 1,
-        "minor": 5584,
+        "minor": 5585,
         "patch": 0
     },
     "keywords": [
@@ -28901,6 +28901,13 @@
             "name": "YYY Network",
             "symbol": "YYY",
             "address": "0x67CBFEbfaD740326a2B320789bc91FF3aA5Ec624",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HexaFinance",
+            "symbol": "HEX",
+            "address": "0x5f7b47262254532bFd33625E767654123188D83E",
             "decimals": 18
         }
     ]
