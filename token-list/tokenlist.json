@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:57:29.495Z",
+    "timestamp": "2020-10-10T06:58:31.551Z",
     "version": {
         "major": 1,
-        "minor": 5495,
+        "minor": 5496,
         "patch": 0
     },
     "keywords": [
@@ -28278,6 +28278,13 @@
             "name": "Rinkedy Network",
             "symbol": "RINET",
             "address": "0xE7B120692F8508f2C26B6bD3eB6B8c4Ec9062a86",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Reverse YFI Finance",
+            "symbol": "IFY",
+            "address": "0x8eeA66a08cD3620274BA11fa61B312e634ceA06a",
             "decimals": 18
         }
     ]
