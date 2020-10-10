@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T04:34:50.154Z",
+    "timestamp": "2020-10-10T04:37:39.504Z",
     "version": {
         "major": 1,
-        "minor": 5478,
+        "minor": 5479,
         "patch": 0
     },
     "keywords": [
@@ -28159,6 +28159,13 @@
             "name": "rampdefi.com",
             "symbol": "RAMP",
             "address": "0xBfBF4A3452c6736F9B1F043b50Ea21c6ee16a1A0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YYII.finance",
+            "symbol": "YYII",
+            "address": "0xF6A4048165ee3E8b28eEF1FefF6bB773f6A59F0D",
             "decimals": 18
         }
     ]
