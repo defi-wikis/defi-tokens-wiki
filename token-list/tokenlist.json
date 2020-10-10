@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T13:37:34.951Z",
+    "timestamp": "2020-10-10T13:40:20.323Z",
     "version": {
         "major": 1,
-        "minor": 5536,
+        "minor": 5537,
         "patch": 0
     },
     "keywords": [
@@ -28565,6 +28565,13 @@
             "name": "Amd",
             "symbol": "Amd",
             "address": "0x926fCd2e5A9818239FE4C1C266D2380dE6C156BA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RAMP DEFI",
+            "symbol": "RAMP",
+            "address": "0xCE4b0ff8A5A34B9e8f3F69ffb01A75f0cA326275",
             "decimals": 18
         }
     ]
