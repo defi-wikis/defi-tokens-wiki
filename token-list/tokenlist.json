@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T19:52:35.411Z",
+    "timestamp": "2020-10-10T19:59:19.971Z",
     "version": {
         "major": 1,
-        "minor": 5594,
+        "minor": 5595,
         "patch": 0
     },
     "keywords": [
@@ -28971,6 +28971,13 @@
             "name": "salads.farm",
             "symbol": "SLAD",
             "address": "0x49899Bc59CD1b5ad9047207ab6B3cfa11c63F1d3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chainlink Finance",
+            "symbol": "LIFI",
+            "address": "0x50D90aCC87f45c2cd8Fb0878417b1411d882eaBA",
             "decimals": 18
         }
     ]
