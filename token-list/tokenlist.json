@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T23:40:21.197Z",
+    "timestamp": "2020-10-10T23:43:54.989Z",
     "version": {
         "major": 1,
-        "minor": 5609,
+        "minor": 5610,
         "patch": 0
     },
     "keywords": [
@@ -29076,6 +29076,13 @@
             "name": "pickle.finance",
             "symbol": "PICKLE",
             "address": "0x61Db7c8e0F303e39170315572DdC8F7837F28A07",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UDONFarm.finance",
+            "symbol": "UDONF",
+            "address": "0x32640AC5E4B60C7f7432693f7585a095dAe6a6f6",
             "decimals": 18
         }
     ]
