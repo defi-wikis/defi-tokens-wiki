@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T22:12:50.110Z",
+    "timestamp": "2020-10-10T22:16:21.496Z",
     "version": {
         "major": 1,
-        "minor": 5602,
+        "minor": 5603,
         "patch": 0
     },
     "keywords": [
@@ -29027,6 +29027,13 @@
             "name": "SalsaToken",
             "symbol": "SLST",
             "address": "0x0e4EA4C5D977dB72e572c1a7bfB5b35563D31d70",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "影矿币",
+            "symbol": "FFF",
+            "address": "0xD5ED308874AC03d68120AA3dcEE33Ae52c8A8b7B",
             "decimals": 18
         }
     ]
