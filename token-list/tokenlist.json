@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:17:56.311Z",
+    "timestamp": "2020-10-10T03:18:25.131Z",
     "version": {
         "major": 1,
-        "minor": 5466,
+        "minor": 5467,
         "patch": 0
     },
     "keywords": [
@@ -28075,6 +28075,13 @@
             "name": "THIRM",
             "symbol": "THIRM",
             "address": "0xb526FD41360c98929006f3bDcBd16d55dE4b0069",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "decore.finance",
+            "symbol": "DCORE",
+            "address": "0x381aCd11BE435628F1679748C1f82285A6a05f1d",
             "decimals": 18
         }
     ]
