@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T09:31:55.605Z",
+    "timestamp": "2020-10-10T09:35:30.160Z",
     "version": {
         "major": 1,
-        "minor": 5513,
+        "minor": 5514,
         "patch": 0
     },
     "keywords": [
@@ -28404,6 +28404,13 @@
             "name": "Sancoj",
             "symbol": "SANC",
             "address": "0x03eC7BB59be036870eF696A2abF124f496d6735A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BlackChainCoin",
+            "symbol": "BKC",
+            "address": "0x1C75B01De96AD4bBD7d10745eE2731Aa2625054F",
             "decimals": 18
         }
     ]
