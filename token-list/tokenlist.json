@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T13:40:20.323Z",
+    "timestamp": "2020-10-10T13:55:30.405Z",
     "version": {
         "major": 1,
-        "minor": 5537,
+        "minor": 5538,
         "patch": 0
     },
     "keywords": [
@@ -28572,6 +28572,13 @@
             "name": "RAMP DEFI",
             "symbol": "RAMP",
             "address": "0xCE4b0ff8A5A34B9e8f3F69ffb01A75f0cA326275",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "flux.market",
+            "symbol": "FLUX",
+            "address": "0x87822cAd74fa0CDDbc70d3B1038c6b91c0019e64",
             "decimals": 18
         }
     ]
