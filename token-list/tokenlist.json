@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T11:59:45.695Z",
+    "timestamp": "2020-10-10T12:05:04.289Z",
     "version": {
         "major": 1,
-        "minor": 5525,
+        "minor": 5526,
         "patch": 0
     },
     "keywords": [
@@ -28488,6 +28488,13 @@
             "name": "HapbrCash V1.0",
             "symbol": "HCH",
             "address": "0xbA1Aea5383189B30b32472b78AA1B8E1905F4471",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SHAKA Finance",
+            "symbol": "SHAKA",
+            "address": "0x2f49b9C7D42400F7D1eA9FA0fD5E86B61d9ff64C",
             "decimals": 18
         }
     ]
