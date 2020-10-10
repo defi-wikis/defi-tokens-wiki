@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:21:40.876Z",
+    "timestamp": "2020-10-10T16:23:39.847Z",
     "version": {
         "major": 1,
-        "minor": 5562,
+        "minor": 5563,
         "patch": 0
     },
     "keywords": [
@@ -28747,6 +28747,13 @@
             "name": "Bermuda triangle",
             "symbol": "BER",
             "address": "0x617a36Bd36ef8778AA1F12bC32739bFc96cb76E1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "InfinityGainz.Cash",
+            "symbol": "IGC",
+            "address": "0xFD4b216FB1c29f7b87d1DBb24E975D1019A0aE41",
             "decimals": 18
         }
     ]
