@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T19:43:09.107Z",
+    "timestamp": "2020-10-10T19:52:35.411Z",
     "version": {
         "major": 1,
-        "minor": 5593,
+        "minor": 5594,
         "patch": 0
     },
     "keywords": [
@@ -28964,6 +28964,13 @@
             "name": "t.me/saladsfarm",
             "symbol": "TSLAD",
             "address": "0x03c2B42DeF9e9b40FccEbB9A94764Bc1bcf162BA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "salads.farm",
+            "symbol": "SLAD",
+            "address": "0x49899Bc59CD1b5ad9047207ab6B3cfa11c63F1d3",
             "decimals": 18
         }
     ]
