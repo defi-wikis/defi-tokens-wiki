@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:52:36.884Z",
+    "timestamp": "2020-10-10T16:58:49.831Z",
     "version": {
         "major": 1,
-        "minor": 5573,
+        "minor": 5574,
         "patch": 0
     },
     "keywords": [
@@ -28824,6 +28824,13 @@
             "name": "Balloon Token",
             "symbol": "BLOON",
             "address": "0xD5A2ECb977086d3ccA7Cd810C25860314949786D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NFL.Finance",
+            "symbol": "NFL",
+            "address": "0x71720cBE0F09c33C83271b2dB7458481FFEf6a7F",
             "decimals": 18
         }
     ]
