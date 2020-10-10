@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:31:54.856Z",
+    "timestamp": "2020-10-10T03:33:49.958Z",
     "version": {
         "major": 1,
-        "minor": 5470,
+        "minor": 5471,
         "patch": 0
     },
     "keywords": [
@@ -28103,6 +28103,13 @@
             "name": "andy",
             "symbol": "RNG",
             "address": "0x2502BDBC8C2e0a9247757De03E7Dd5C5704831ed",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Non-Fungible Yearn",
+            "symbol": "NFY",
+            "address": "0x832C3E4d2De2D8e6b1dA2aeb581D896Aa476dC6E",
             "decimals": 18
         }
     ]
