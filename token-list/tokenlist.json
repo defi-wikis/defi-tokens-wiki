@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T04:37:39.504Z",
+    "timestamp": "2020-10-10T04:52:45.638Z",
     "version": {
         "major": 1,
-        "minor": 5479,
+        "minor": 5480,
         "patch": 0
     },
     "keywords": [
@@ -28166,6 +28166,13 @@
             "name": "YYII.finance",
             "symbol": "YYII",
             "address": "0xF6A4048165ee3E8b28eEF1FefF6bB773f6A59F0D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yRise.Finance",
+            "symbol": "yRise",
+            "address": "0xCf4b556850b6fC2DbbB17237ae4cd2e11111c83d",
             "decimals": 18
         }
     ]
