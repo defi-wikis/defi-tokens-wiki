@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:59:09.830Z",
+    "timestamp": "2020-10-10T19:06:16.153Z",
     "version": {
         "major": 1,
-        "minor": 5587,
+        "minor": 5588,
         "patch": 0
     },
     "keywords": [
@@ -28922,6 +28922,13 @@
             "name": "Alpha Finance",
             "symbol": "ALPHA",
             "address": "0x47BA8F5bCce407F1EA34bD8aA22D591b14BAaF9E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MIKIHIMI.org",
+            "symbol": "HIMI",
+            "address": "0x92C3a5A8E49B3a6F4A117d0D66F26ec962E08567",
             "decimals": 18
         }
     ]
