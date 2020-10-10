@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T08:31:25.087Z",
+    "timestamp": "2020-10-10T08:38:54.602Z",
     "version": {
         "major": 1,
-        "minor": 5509,
+        "minor": 5510,
         "patch": 0
     },
     "keywords": [
@@ -28376,6 +28376,13 @@
             "name": "AlphaFinance.io",
             "symbol": "ALPHA",
             "address": "0x0D77027BbDEfF7EecD735261CB0843F1d74a0ad7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LUA.finance",
+            "symbol": "LUF",
+            "address": "0x8F1B9c9226e6535Fe8ADa9BC3fC2984208f998E3",
             "decimals": 18
         }
     ]
