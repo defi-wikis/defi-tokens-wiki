@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T04:34:45.762Z",
+    "timestamp": "2020-10-10T04:34:50.154Z",
     "version": {
         "major": 1,
-        "minor": 5477,
+        "minor": 5478,
         "patch": 0
     },
     "keywords": [
@@ -28152,6 +28152,13 @@
             "name": "CoFiX.io",
             "symbol": "CoFiX",
             "address": "0xBE579711fE8D7e566793a1553334C61F9cB56999",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rampdefi.com",
+            "symbol": "RAMP",
+            "address": "0xBfBF4A3452c6736F9B1F043b50Ea21c6ee16a1A0",
             "decimals": 18
         }
     ]
