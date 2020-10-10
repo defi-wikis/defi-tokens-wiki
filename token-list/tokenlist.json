@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T23:20:59.905Z",
+    "timestamp": "2020-10-10T23:40:21.197Z",
     "version": {
         "major": 1,
-        "minor": 5608,
+        "minor": 5609,
         "patch": 0
     },
     "keywords": [
@@ -29069,6 +29069,13 @@
             "name": "Nachos",
             "symbol": "NCHS",
             "address": "0x3Afe605A65F6F6b287a1Bd91b13e50C61a239a83",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "pickle.finance",
+            "symbol": "PICKLE",
+            "address": "0x61Db7c8e0F303e39170315572DdC8F7837F28A07",
             "decimals": 18
         }
     ]
