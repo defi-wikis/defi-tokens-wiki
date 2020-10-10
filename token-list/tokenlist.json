@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T13:56:55.019Z",
+    "timestamp": "2020-10-10T14:23:56.803Z",
     "version": {
         "major": 1,
-        "minor": 5539,
+        "minor": 5540,
         "patch": 0
     },
     "keywords": [
@@ -28587,6 +28587,13 @@
             "symbol": "THX",
             "address": "0xf08c68bD5f4194d994FD70726746Bf529eE5a617",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Lucky coin",
+            "symbol": "LC",
+            "address": "0x2b99CFDaaA450AfE2957Ba1F449AE9430643D3CE",
+            "decimals": 18
         }
     ]
 }
