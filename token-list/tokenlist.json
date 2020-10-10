@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T17:42:21.048Z",
+    "timestamp": "2020-10-10T17:43:59.983Z",
     "version": {
         "major": 1,
-        "minor": 5577,
+        "minor": 5578,
         "patch": 0
     },
     "keywords": [
@@ -28852,6 +28852,13 @@
             "name": "Burn Swap",
             "symbol": "BURN",
             "address": "0x86cB4d2FFAbCa1941B9Be4723c49C0E6F2B3a563",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFI",
+            "symbol": "YFI2",
+            "address": "0x177659DEb97593896487999dB50206fC04124089",
             "decimals": 18
         }
     ]
