@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:16:51.391Z",
+    "timestamp": "2020-10-10T16:17:20.326Z",
     "version": {
         "major": 1,
-        "minor": 5559,
+        "minor": 5560,
         "patch": 0
     },
     "keywords": [
@@ -28727,6 +28727,13 @@
             "symbol": "YFS",
             "address": "0xd77BE186892dE7853fA703Fc1444d96d0098cD2e",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "MEME Clone",
+            "symbol": "MEMEC",
+            "address": "0xE2434C40feF4c0FE61cd3Ae6C8fb405f9E6244cd",
+            "decimals": 18
         }
     ]
 }
