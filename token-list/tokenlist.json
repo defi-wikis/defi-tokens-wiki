@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:48:40.442Z",
+    "timestamp": "2020-10-10T15:57:02.260Z",
     "version": {
         "major": 1,
-        "minor": 5554,
+        "minor": 5555,
         "patch": 0
     },
     "keywords": [
@@ -28692,6 +28692,13 @@
             "symbol": "BIGF",
             "address": "0x284E87aEaC70B238794b71EcBCec4f63E0F45b08",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ECO TOKEN",
+            "symbol": "ECO",
+            "address": "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
+            "decimals": 8
         }
     ]
 }
