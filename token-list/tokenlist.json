@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T02:51:10.656Z",
+    "timestamp": "2020-10-10T02:57:07.894Z",
     "version": {
         "major": 1,
-        "minor": 5463,
+        "minor": 5464,
         "patch": 0
     },
     "keywords": [
@@ -28054,6 +28054,13 @@
             "name": "Ford",
             "symbol": "Ford",
             "address": "0xa1A155862C779F174B77b94c300381C4DAE4c210",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core v3.0 (Official)",
+            "symbol": "COR3",
+            "address": "0x62da4d5f3dB622AC7b5b7F2e4b8EDf9bdBd39A10",
             "decimals": 18
         }
     ]
