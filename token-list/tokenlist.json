@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T01:52:00.041Z",
+    "timestamp": "2020-10-10T02:00:50.038Z",
     "version": {
         "major": 1,
-        "minor": 5456,
+        "minor": 5457,
         "patch": 0
     },
     "keywords": [
@@ -28005,6 +28005,13 @@
             "name": "BFT.Finance",
             "symbol": "BFT",
             "address": "0xbBFF4Fc022Fca76968B625d4a389EDd8b34a6054",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "VIDT Datalink",
+            "symbol": "VIDT",
+            "address": "0xEF3e6e65EDd9D5aF66E2F6858706465793783682",
             "decimals": 18
         }
     ]
