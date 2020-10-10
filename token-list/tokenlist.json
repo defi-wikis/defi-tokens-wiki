@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:38:07.394Z",
+    "timestamp": "2020-10-10T15:39:10.065Z",
     "version": {
         "major": 1,
-        "minor": 5551,
+        "minor": 5552,
         "patch": 0
     },
     "keywords": [
@@ -28671,6 +28671,13 @@
             "symbol": "SYFI",
             "address": "0xd456d7132183a20Aa09E2783EC18E9e298520058",
             "decimals": 9
+        },
+        {
+            "chainId": 1,
+            "name": "Zeroswap",
+            "symbol": "ZEE",
+            "address": "0x5e2922Fe33dd98C29907c7439cB2F9dE849f93cD",
+            "decimals": 18
         }
     ]
 }
