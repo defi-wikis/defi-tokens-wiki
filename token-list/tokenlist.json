@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T11:10:50.461Z",
+    "timestamp": "2020-10-10T11:28:20.226Z",
     "version": {
         "major": 1,
-        "minor": 5521,
+        "minor": 5522,
         "patch": 0
     },
     "keywords": [
@@ -28460,6 +28460,13 @@
             "name": "POLKALPHA",
             "symbol": "POLA",
             "address": "0x0275B940c5eeb4f1C923dD886C9D87a04F0B90eA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Thirm Protocol",
+            "symbol": "THRM",
+            "address": "0x34E427B7e0581286648F4B4faaDE5CB90aB1A9da",
             "decimals": 18
         }
     ]
