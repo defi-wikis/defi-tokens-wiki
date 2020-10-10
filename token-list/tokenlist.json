@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T05:06:55.150Z",
+    "timestamp": "2020-10-10T05:14:55.013Z",
     "version": {
         "major": 1,
-        "minor": 5481,
+        "minor": 5482,
         "patch": 0
     },
     "keywords": [
@@ -28180,6 +28180,13 @@
             "name": "Mimi Protocol",
             "symbol": "MIMI",
             "address": "0xd66129A9ABd7779Fd00934001c393674F8eac8cc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BullionsChain.com",
+            "symbol": "BLC",
+            "address": "0x672007651C988404aBd0d55DaD3cA7276347c906",
             "decimals": 18
         }
     ]
