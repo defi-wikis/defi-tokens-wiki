@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:09:07.425Z",
+    "timestamp": "2020-10-10T03:17:56.311Z",
     "version": {
         "major": 1,
-        "minor": 5465,
+        "minor": 5466,
         "patch": 0
     },
     "keywords": [
@@ -28068,6 +28068,13 @@
             "name": "DiFy.Core Finance",
             "symbol": "YFIIIC",
             "address": "0x0BbD47Cd812EB6F370B8706d3681809FF33217A2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "THIRM",
+            "symbol": "THIRM",
+            "address": "0xb526FD41360c98929006f3bDcBd16d55dE4b0069",
             "decimals": 18
         }
     ]
