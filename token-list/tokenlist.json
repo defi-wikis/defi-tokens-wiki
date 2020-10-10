@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T01:18:10.952Z",
+    "timestamp": "2020-10-10T01:44:15.285Z",
     "version": {
         "major": 1,
-        "minor": 5453,
+        "minor": 5454,
         "patch": 0
     },
     "keywords": [
@@ -27984,6 +27984,13 @@
             "name": "RUB",
             "symbol": "RUB",
             "address": "0x8d781CA2870aE3683e0854E388D655E8e775cd45",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFEthereum",
+            "symbol": "YFETH",
+            "address": "0xE52294152805e304803c93b700266DDFE99eaB32",
             "decimals": 18
         }
     ]
