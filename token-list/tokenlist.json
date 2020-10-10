@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T00:41:13.212Z",
+    "timestamp": "2020-10-10T00:52:15.903Z",
     "version": {
         "major": 1,
-        "minor": 5448,
+        "minor": 5449,
         "patch": 0
     },
     "keywords": [
@@ -27949,6 +27949,13 @@
             "name": "Zeus Finance",
             "symbol": "ZEUS",
             "address": "0xB979098fD755fE105Ef652BDF69398041DA78576",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Simply Fish BI",
+            "symbol": "$FISH",
+            "address": "0x4e2c619c3B039B56A7F60aB8fED7cd3C9BE09Ed6",
             "decimals": 18
         }
     ]
