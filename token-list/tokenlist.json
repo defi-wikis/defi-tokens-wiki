@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:21:07.487Z",
+    "timestamp": "2020-10-10T16:21:40.876Z",
     "version": {
         "major": 1,
-        "minor": 5561,
+        "minor": 5562,
         "patch": 0
     },
     "keywords": [
@@ -28740,6 +28740,13 @@
             "name": "multiplecompatibility.io",
             "symbol": "TIFS",
             "address": "0xc99CB7d4498FB72dC798046D6734c7eB67cBf6B9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bermuda triangle",
+            "symbol": "BER",
+            "address": "0x617a36Bd36ef8778AA1F12bC32739bFc96cb76E1",
             "decimals": 18
         }
     ]
