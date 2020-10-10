@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:25:29.949Z",
+    "timestamp": "2020-10-10T16:30:36.257Z",
     "version": {
         "major": 1,
-        "minor": 5565,
+        "minor": 5566,
         "patch": 0
     },
     "keywords": [
@@ -28768,6 +28768,13 @@
             "name": "BTCMaker",
             "symbol": "BTCMaker",
             "address": "0x0E820A18E2A410fCe4355338419De9F8Ea7039Af",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kura Network",
+            "symbol": "KURA",
+            "address": "0x57a3e8748C148f8a741fDeC04594Dd23FBC22D50",
             "decimals": 18
         }
     ]
