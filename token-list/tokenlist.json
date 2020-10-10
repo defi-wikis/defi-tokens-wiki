@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T05:46:13.655Z",
+    "timestamp": "2020-10-10T06:05:55.698Z",
     "version": {
         "major": 1,
-        "minor": 5487,
+        "minor": 5488,
         "patch": 0
     },
     "keywords": [
@@ -28223,6 +28223,13 @@
             "symbol": "PZF",
             "address": "0x40A4950Ba69E88C454fF00AC4bA24870D5E554ED",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Dao",
+            "symbol": "DDrd",
+            "address": "0x92e18d35a88acc8fC5d8B698e36322BCD132E263",
+            "decimals": 6
         }
     ]
 }
