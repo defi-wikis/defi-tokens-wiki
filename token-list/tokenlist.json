@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T14:50:25.922Z",
+    "timestamp": "2020-10-10T14:51:02.153Z",
     "version": {
         "major": 1,
-        "minor": 5542,
+        "minor": 5543,
         "patch": 0
     },
     "keywords": [
@@ -28607,6 +28607,13 @@
             "name": "Pepe",
             "symbol": "PEPE",
             "address": "0x4dFae3690b93c47470b03036A17B23C1Be05127C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lido",
+            "symbol": "Lido",
+            "address": "0x67b99a4179d29299a4b0AA10C410a5662aA84D45",
             "decimals": 18
         }
     ]
