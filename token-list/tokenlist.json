@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T04:52:45.638Z",
+    "timestamp": "2020-10-10T05:06:55.150Z",
     "version": {
         "major": 1,
-        "minor": 5480,
+        "minor": 5481,
         "patch": 0
     },
     "keywords": [
@@ -28173,6 +28173,13 @@
             "name": "yRise.Finance",
             "symbol": "yRise",
             "address": "0xCf4b556850b6fC2DbbB17237ae4cd2e11111c83d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mimi Protocol",
+            "symbol": "MIMI",
+            "address": "0xd66129A9ABd7779Fd00934001c393674F8eac8cc",
             "decimals": 18
         }
     ]
