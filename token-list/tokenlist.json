@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T02:45:25.604Z",
+    "timestamp": "2020-10-10T02:48:25.124Z",
     "version": {
         "major": 1,
-        "minor": 5461,
+        "minor": 5462,
         "patch": 0
     },
     "keywords": [
@@ -28041,6 +28041,13 @@
             "symbol": "SWC",
             "address": "0x0bb42BCF54F3fE87a7985328dBB63dfDFE3891f0",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "t.me/snake_games",
+            "symbol": "SNAKE",
+            "address": "0x01BF2C6FF1C43135086e925Ad236fa9218e4F9D2",
+            "decimals": 18
         }
     ]
 }
