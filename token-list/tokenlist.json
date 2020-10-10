@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:33:08.034Z",
+    "timestamp": "2020-10-10T16:41:40.058Z",
     "version": {
         "major": 1,
-        "minor": 5567,
+        "minor": 5568,
         "patch": 0
     },
     "keywords": [
@@ -28782,6 +28782,13 @@
             "name": "PumptonicRebirth",
             "symbol": "PTR",
             "address": "0x96cdb8279aEB7E5EE16D51eB9e185DA375ad5Cf4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "piratetoken.finance",
+            "symbol": "PIRATE",
+            "address": "0x94152edd72eab86C016c3c5FB40376A88F10DE5B",
             "decimals": 18
         }
     ]
