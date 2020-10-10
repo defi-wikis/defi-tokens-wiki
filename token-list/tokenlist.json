@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T05:14:55.013Z",
+    "timestamp": "2020-10-10T05:21:07.267Z",
     "version": {
         "major": 1,
-        "minor": 5482,
+        "minor": 5483,
         "patch": 0
     },
     "keywords": [
@@ -28187,6 +28187,13 @@
             "name": "BullionsChain.com",
             "symbol": "BLC",
             "address": "0x672007651C988404aBd0d55DaD3cA7276347c906",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TokenBot",
+            "symbol": "TKB",
+            "address": "0x131C83801F4d9236f4416A0319cE7a02a76cAf94",
             "decimals": 18
         }
     ]
