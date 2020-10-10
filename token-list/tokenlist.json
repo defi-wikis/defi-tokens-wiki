@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T19:06:16.153Z",
+    "timestamp": "2020-10-10T19:07:09.641Z",
     "version": {
         "major": 1,
-        "minor": 5588,
+        "minor": 5589,
         "patch": 0
     },
     "keywords": [
@@ -28929,6 +28929,13 @@
             "name": "MIKIHIMI.org",
             "symbol": "HIMI",
             "address": "0x92C3a5A8E49B3a6F4A117d0D66F26ec962E08567",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YieldBank.Finance",
+            "symbol": "YBNK",
+            "address": "0xaeaEEABDc16e8BA7BF54189a35DBf60614E4bFd5",
             "decimals": 18
         }
     ]
