@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:30:36.257Z",
+    "timestamp": "2020-10-10T16:33:08.034Z",
     "version": {
         "major": 1,
-        "minor": 5566,
+        "minor": 5567,
         "patch": 0
     },
     "keywords": [
@@ -28775,6 +28775,13 @@
             "name": "Kura Network",
             "symbol": "KURA",
             "address": "0x57a3e8748C148f8a741fDeC04594Dd23FBC22D50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PumptonicRebirth",
+            "symbol": "PTR",
+            "address": "0x96cdb8279aEB7E5EE16D51eB9e185DA375ad5Cf4",
             "decimals": 18
         }
     ]
