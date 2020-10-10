@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T10:10:55.064Z",
+    "timestamp": "2020-10-10T10:12:49.745Z",
     "version": {
         "major": 1,
-        "minor": 5516,
+        "minor": 5517,
         "patch": 0
     },
     "keywords": [
@@ -28425,6 +28425,13 @@
             "name": "ESCOBAR.FINANCE",
             "symbol": "ESC",
             "address": "0x86B93B50315090013Ea838bE05e5338cD0423e7F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yyii.finance",
+            "symbol": "YYII",
+            "address": "0x5b3431479a81523290ea6085C23CBca745891607",
             "decimals": 18
         }
     ]
