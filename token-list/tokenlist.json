@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T12:24:39.863Z",
+    "timestamp": "2020-10-10T12:28:25.289Z",
     "version": {
         "major": 1,
-        "minor": 5530,
+        "minor": 5531,
         "patch": 0
     },
     "keywords": [
@@ -28523,6 +28523,13 @@
             "name": "BqtX Token",
             "symbol": "BQTX",
             "address": "0x9D8bE94D0612170cE533AC4d7B43cc3cd91E5a1A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped Virgin Gen 0",
+            "symbol": "WVG0",
+            "address": "0x25C7b64A93Eb1261E130eC21a3e9918CaA38b611",
             "decimals": 18
         }
     ]
