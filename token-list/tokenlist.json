@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T12:05:04.289Z",
+    "timestamp": "2020-10-10T12:11:34.906Z",
     "version": {
         "major": 1,
-        "minor": 5526,
+        "minor": 5527,
         "patch": 0
     },
     "keywords": [
@@ -28495,6 +28495,13 @@
             "name": "SHAKA Finance",
             "symbol": "SHAKA",
             "address": "0x2f49b9C7D42400F7D1eA9FA0fD5E86B61d9ff64C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Power candy",
+            "symbol": "POC",
+            "address": "0x7C7C03Ca956D919ff5f240c784269606207e64C8",
             "decimals": 18
         }
     ]
