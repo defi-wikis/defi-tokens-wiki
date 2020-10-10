@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T04:15:50.781Z",
+    "timestamp": "2020-10-10T04:31:55.258Z",
     "version": {
         "major": 1,
-        "minor": 5475,
+        "minor": 5476,
         "patch": 0
     },
     "keywords": [
@@ -28138,6 +28138,13 @@
             "name": "keeppower",
             "symbol": "YFIV",
             "address": "0x09D790dd8eB6776ee1D175f24152bfa34b3b026e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SwirgePay.com",
+            "symbol": "SWG",
+            "address": "0xbFc8Fe4b59D8EDeB6A21A42338e3c1026e71B96e",
             "decimals": 18
         }
     ]
