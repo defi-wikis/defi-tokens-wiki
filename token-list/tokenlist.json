@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T20:15:20.148Z",
+    "timestamp": "2020-10-10T20:17:10.512Z",
     "version": {
         "major": 1,
-        "minor": 5597,
+        "minor": 5598,
         "patch": 0
     },
     "keywords": [
@@ -28992,6 +28992,13 @@
             "name": "apy.finance",
             "symbol": "APY",
             "address": "0xbB52Ae7BBE3e597ADD5dA5A0f0a9Ba3bB046190b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rosten Network",
+            "symbol": "RSN",
+            "address": "0x54116ac9bF90904ed023C998F3A4147b8b40f587",
             "decimals": 18
         }
     ]
