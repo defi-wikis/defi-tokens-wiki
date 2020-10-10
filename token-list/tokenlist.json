@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:33:39.360Z",
+    "timestamp": "2020-10-10T06:37:10.784Z",
     "version": {
         "major": 1,
-        "minor": 5491,
+        "minor": 5492,
         "patch": 0
     },
     "keywords": [
@@ -28250,6 +28250,13 @@
             "name": "Gratitude Token Thank You",
             "symbol": "THY",
             "address": "0x704c24e32ce7D4417AE948d45a5aFb84A4654e70",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiner",
+            "symbol": "FIN",
+            "address": "0xFaDc6CAc548F796d20363fdE3568E98E7A35a6A7",
             "decimals": 18
         }
     ]
