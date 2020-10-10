@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T00:56:55.430Z",
+    "timestamp": "2020-10-10T01:06:40.349Z",
     "version": {
         "major": 1,
-        "minor": 5450,
+        "minor": 5451,
         "patch": 0
     },
     "keywords": [
@@ -27963,6 +27963,13 @@
             "name": "MuffinToken",
             "symbol": "MFFN",
             "address": "0x524D70F777C75Ec50291BdD69718c1a705268c8B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RUB",
+            "symbol": "RUB",
+            "address": "0x639b548E32c3eD833Fea19E22C62fA5a5D1a4Ea7",
             "decimals": 18
         }
     ]
