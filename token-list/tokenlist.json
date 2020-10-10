@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T07:10:10.932Z",
+    "timestamp": "2020-10-10T07:10:34.577Z",
     "version": {
         "major": 1,
-        "minor": 5497,
+        "minor": 5498,
         "patch": 0
     },
     "keywords": [
@@ -28292,6 +28292,13 @@
             "name": "plutus.it",
             "symbol": "PLU",
             "address": "0x4C2d5040B10816B800bA3aB85b0F50326afc87ea",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wand Token",
+            "symbol": "WAND",
+            "address": "0x27f610BF36ecA0939093343ac28b1534a721DBB4",
             "decimals": 18
         }
     ]
