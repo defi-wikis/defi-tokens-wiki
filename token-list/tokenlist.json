@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:39:10.065Z",
+    "timestamp": "2020-10-10T15:42:30.212Z",
     "version": {
         "major": 1,
-        "minor": 5552,
+        "minor": 5553,
         "patch": 0
     },
     "keywords": [
@@ -28677,6 +28677,13 @@
             "name": "Zeroswap",
             "symbol": "ZEE",
             "address": "0x5e2922Fe33dd98C29907c7439cB2F9dE849f93cD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "orbIT",
+            "symbol": "orbI",
+            "address": "0xD9Ce656033d21F860630a814a1e6F8CFedA127D4",
             "decimals": 18
         }
     ]
