@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T11:50:45.636Z",
+    "timestamp": "2020-10-10T11:59:45.695Z",
     "version": {
         "major": 1,
-        "minor": 5524,
+        "minor": 5525,
         "patch": 0
     },
     "keywords": [
@@ -28481,6 +28481,13 @@
             "name": "Joke Finance",
             "symbol": "JOKE",
             "address": "0x9B0C60fC1435D3884A39aB42c8726F8e631B4f8B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HapbrCash V1.0",
+            "symbol": "HCH",
+            "address": "0xbA1Aea5383189B30b32472b78AA1B8E1905F4471",
             "decimals": 18
         }
     ]
