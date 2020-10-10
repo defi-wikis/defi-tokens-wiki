@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T11:50:25.044Z",
+    "timestamp": "2020-10-10T11:50:45.636Z",
     "version": {
         "major": 1,
-        "minor": 5523,
+        "minor": 5524,
         "patch": 0
     },
     "keywords": [
@@ -28474,6 +28474,13 @@
             "name": "RampDeli.finance",
             "symbol": "RAMPDELI",
             "address": "0xbD5327d26656204acE06617BC1612eD4a36b58a3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Joke Finance",
+            "symbol": "JOKE",
+            "address": "0x9B0C60fC1435D3884A39aB42c8726F8e631B4f8B",
             "decimals": 18
         }
     ]
