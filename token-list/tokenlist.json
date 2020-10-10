@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T14:23:56.803Z",
+    "timestamp": "2020-10-10T14:49:20.164Z",
     "version": {
         "major": 1,
-        "minor": 5540,
+        "minor": 5541,
         "patch": 0
     },
     "keywords": [
@@ -28593,6 +28593,13 @@
             "name": "Lucky coin",
             "symbol": "LC",
             "address": "0x2b99CFDaaA450AfE2957Ba1F449AE9430643D3CE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Seal Finance",
+            "symbol": "Seal",
+            "address": "0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D",
             "decimals": 18
         }
     ]
