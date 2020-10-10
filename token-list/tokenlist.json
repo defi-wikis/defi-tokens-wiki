@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:40:59.461Z",
+    "timestamp": "2020-10-10T06:56:15.216Z",
     "version": {
         "major": 1,
-        "minor": 5493,
+        "minor": 5494,
         "patch": 0
     },
     "keywords": [
@@ -28264,6 +28264,13 @@
             "name": "Mettalex.com",
             "symbol": "MTLX",
             "address": "0xE0b5C254B61C73C385aAE60dE6eb1EAf45D7544a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cere Network",
+            "symbol": "CERE",
+            "address": "0xb1231906063975d3585f13ea37b0787707E88524",
             "decimals": 18
         }
     ]
