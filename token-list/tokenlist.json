@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:23:39.847Z",
+    "timestamp": "2020-10-10T16:25:15.401Z",
     "version": {
         "major": 1,
-        "minor": 5563,
+        "minor": 5564,
         "patch": 0
     },
     "keywords": [
@@ -28754,6 +28754,13 @@
             "name": "InfinityGainz.Cash",
             "symbol": "IGC",
             "address": "0xFD4b216FB1c29f7b87d1DBb24E975D1019A0aE41",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Billionaire Club Coin",
+            "symbol": "BILLION",
+            "address": "0x7c99dde8Ea6D03585F29620e3f7F18d8fe95b7D7",
             "decimals": 18
         }
     ]
