@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:33:49.958Z",
+    "timestamp": "2020-10-10T03:35:41.033Z",
     "version": {
         "major": 1,
-        "minor": 5471,
+        "minor": 5472,
         "patch": 0
     },
     "keywords": [
@@ -28110,6 +28110,13 @@
             "name": "Non-Fungible Yearn",
             "symbol": "NFY",
             "address": "0x832C3E4d2De2D8e6b1dA2aeb581D896Aa476dC6E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yincome.finance",
+            "symbol": "YINCOME",
+            "address": "0x414632055bEA0757307A9170B53b4677BE1e0718",
             "decimals": 18
         }
     ]
