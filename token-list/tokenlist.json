@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T09:23:02.215Z",
+    "timestamp": "2020-10-10T09:31:55.605Z",
     "version": {
         "major": 1,
-        "minor": 5512,
+        "minor": 5513,
         "patch": 0
     },
     "keywords": [
@@ -28397,6 +28397,13 @@
             "name": "ChainSwap",
             "symbol": "CHAIN",
             "address": "0x1927b53ad7b0739ef5719D0660Da934B2937391F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sancoj",
+            "symbol": "SANC",
+            "address": "0x03eC7BB59be036870eF696A2abF124f496d6735A",
             "decimals": 18
         }
     ]
