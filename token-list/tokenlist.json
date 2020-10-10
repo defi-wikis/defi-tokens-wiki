@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T13:19:44.949Z",
+    "timestamp": "2020-10-10T13:37:34.951Z",
     "version": {
         "major": 1,
-        "minor": 5535,
+        "minor": 5536,
         "patch": 0
     },
     "keywords": [
@@ -28558,6 +28558,13 @@
             "name": "Kirin.finance",
             "symbol": "RIN",
             "address": "0x03bBeAB8d41FBAC2477b417b5DF7cBC7d939c44A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Amd",
+            "symbol": "Amd",
+            "address": "0x926fCd2e5A9818239FE4C1C266D2380dE6C156BA",
             "decimals": 18
         }
     ]
