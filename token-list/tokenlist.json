@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T08:18:49.986Z",
+    "timestamp": "2020-10-10T08:25:55.512Z",
     "version": {
         "major": 1,
-        "minor": 5506,
+        "minor": 5507,
         "patch": 0
     },
     "keywords": [
@@ -28355,6 +28355,13 @@
             "name": "X-ORB",
             "symbol": "XORB",
             "address": "0xa4bac41169b1D9CBd5eD5c90cC7bcD7d2368e7cB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Godblessyou",
+            "symbol": "GBY",
+            "address": "0xa43ac0C9C22460AB1b565b19B294f3289bcEa960",
             "decimals": 18
         }
     ]
