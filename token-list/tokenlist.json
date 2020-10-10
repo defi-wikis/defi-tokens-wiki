@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T20:17:10.512Z",
+    "timestamp": "2020-10-10T20:48:25.599Z",
     "version": {
         "major": 1,
-        "minor": 5598,
+        "minor": 5599,
         "patch": 0
     },
     "keywords": [
@@ -28999,6 +28999,13 @@
             "name": "Rosten Network",
             "symbol": "RSN",
             "address": "0x54116ac9bF90904ed023C998F3A4147b8b40f587",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ULVA FINANCE",
+            "symbol": "ULFI",
+            "address": "0xe91856D4475b436DaAb2196ec9cc5Fa67A7941c6",
             "decimals": 18
         }
     ]
