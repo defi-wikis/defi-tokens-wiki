@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T17:49:00.022Z",
+    "timestamp": "2020-10-10T18:01:40.579Z",
     "version": {
         "major": 1,
-        "minor": 5579,
+        "minor": 5580,
         "patch": 0
     },
     "keywords": [
@@ -28866,6 +28866,13 @@
             "name": "JuiceS.Finance",
             "symbol": "JSF",
             "address": "0x5cab9875A01f6c7883B280c000c6430bE02646eB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Generation of Yield",
+            "symbol": "YGY",
+            "address": "0x9F31e0A796b4899CDe1EdC162D65690bBB21190d",
             "decimals": 18
         }
     ]
