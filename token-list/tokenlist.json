@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T22:16:21.496Z",
+    "timestamp": "2020-10-10T22:56:55.307Z",
     "version": {
         "major": 1,
-        "minor": 5603,
+        "minor": 5604,
         "patch": 0
     },
     "keywords": [
@@ -29034,6 +29034,13 @@
             "name": "影矿币",
             "symbol": "FFF",
             "address": "0xD5ED308874AC03d68120AA3dcEE33Ae52c8A8b7B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COINGEKO",
+            "symbol": "GECKO",
+            "address": "0x8824B27Ae9220f57A9b3df0531736f5Cec1CB006",
             "decimals": 18
         }
     ]
