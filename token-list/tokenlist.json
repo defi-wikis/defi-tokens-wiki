@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T12:29:35.199Z",
+    "timestamp": "2020-10-10T12:32:35.975Z",
     "version": {
         "major": 1,
-        "minor": 5532,
+        "minor": 5533,
         "patch": 0
     },
     "keywords": [
@@ -28537,6 +28537,13 @@
             "name": "XCORE",
             "symbol": "XCORE",
             "address": "0xB244AC0F3ee2E9caE5dfdde5DaB8d49FA467E1A9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Phoenix Fund",
+            "symbol": "PHX",
+            "address": "0x0a51EcF7362Ce03F75a20cad7671741953D2d7C8",
             "decimals": 18
         }
     ]
