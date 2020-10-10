@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T07:26:10.698Z",
+    "timestamp": "2020-10-10T07:28:35.638Z",
     "version": {
         "major": 1,
-        "minor": 5500,
+        "minor": 5501,
         "patch": 0
     },
     "keywords": [
@@ -28313,6 +28313,13 @@
             "name": "LEE  Chain V1.0",
             "symbol": "LEE",
             "address": "0x3591aC25cd3Dc66ED67EED87c8507c965F167258",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Smol.finance",
+            "symbol": "SMOL",
+            "address": "0x157804873Bf90c4eD25BC889750ff7dD76152d1b",
             "decimals": 18
         }
     ]
