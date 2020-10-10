@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:25:15.401Z",
+    "timestamp": "2020-10-10T16:25:29.949Z",
     "version": {
         "major": 1,
-        "minor": 5564,
+        "minor": 5565,
         "patch": 0
     },
     "keywords": [
@@ -28761,6 +28761,13 @@
             "name": "Billionaire Club Coin",
             "symbol": "BILLION",
             "address": "0x7c99dde8Ea6D03585F29620e3f7F18d8fe95b7D7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTCMaker",
+            "symbol": "BTCMaker",
+            "address": "0x0E820A18E2A410fCe4355338419De9F8Ea7039Af",
             "decimals": 18
         }
     ]
