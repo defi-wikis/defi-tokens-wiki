@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T06:15:20.448Z",
+    "timestamp": "2020-10-10T06:33:39.360Z",
     "version": {
         "major": 1,
-        "minor": 5490,
+        "minor": 5491,
         "patch": 0
     },
     "keywords": [
@@ -28243,6 +28243,13 @@
             "name": "BcbToken",
             "symbol": "BCB",
             "address": "0xA15d87975F7c20d73A16515DF36F6A6Dd9Bbc651",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gratitude Token Thank You",
+            "symbol": "THY",
+            "address": "0x704c24e32ce7D4417AE948d45a5aFb84A4654e70",
             "decimals": 18
         }
     ]
