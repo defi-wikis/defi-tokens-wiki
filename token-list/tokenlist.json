@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T18:05:10.894Z",
+    "timestamp": "2020-10-10T18:12:35.671Z",
     "version": {
         "major": 1,
-        "minor": 5581,
+        "minor": 5582,
         "patch": 0
     },
     "keywords": [
@@ -28880,6 +28880,13 @@
             "name": "EcomToken",
             "symbol": "ECOM",
             "address": "0xe501dfc8b6041F5DCF8fe7187e132a3DDb02108f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KKK Network",
+            "symbol": "KKK",
+            "address": "0x2B9077506FfBa1a7bec91cAABd65c63e49330184",
             "decimals": 18
         }
     ]
