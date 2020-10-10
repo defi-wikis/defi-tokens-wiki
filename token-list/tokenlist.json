@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T14:51:02.153Z",
+    "timestamp": "2020-10-10T15:06:11.294Z",
     "version": {
         "major": 1,
-        "minor": 5543,
+        "minor": 5544,
         "patch": 0
     },
     "keywords": [
@@ -28614,6 +28614,13 @@
             "name": "Lido",
             "symbol": "Lido",
             "address": "0x67b99a4179d29299a4b0AA10C410a5662aA84D45",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pure Yield Finance",
+            "symbol": "PYF",
+            "address": "0xf18ba7594A37027467e838127f8B67B410F9655a",
             "decimals": 18
         }
     ]
