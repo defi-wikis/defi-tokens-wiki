@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T10:24:10.840Z",
+    "timestamp": "2020-10-10T10:52:59.779Z",
     "version": {
         "major": 1,
-        "minor": 5519,
+        "minor": 5520,
         "patch": 0
     },
     "keywords": [
@@ -28446,6 +28446,13 @@
             "name": "Glox Finance",
             "symbol": "GLOX",
             "address": "0x0222bE1F1B8413b2d7d76EBfC9e0285C1300692f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnPiCoin",
+            "symbol": "EPC",
+            "address": "0x95C4085122740874190b72717144ef908Ea56f27",
             "decimals": 18
         }
     ]
