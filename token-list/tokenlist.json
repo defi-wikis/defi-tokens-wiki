@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:48:35.586Z",
+    "timestamp": "2020-10-10T03:59:54.573Z",
     "version": {
         "major": 1,
-        "minor": 5473,
+        "minor": 5474,
         "patch": 0
     },
     "keywords": [
@@ -28124,6 +28124,13 @@
             "name": "FrogSwap",
             "symbol": "FROG",
             "address": "0x4fEe21439F2b95b72da2F9f901b3956f27fE91D5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YB",
+            "symbol": "YB",
+            "address": "0x2ff25faCa79840b42a0cf515eD04295538A24169",
             "decimals": 18
         }
     ]
