@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:59:54.573Z",
+    "timestamp": "2020-10-10T04:15:50.781Z",
     "version": {
         "major": 1,
-        "minor": 5474,
+        "minor": 5475,
         "patch": 0
     },
     "keywords": [
@@ -28131,6 +28131,13 @@
             "name": "YB",
             "symbol": "YB",
             "address": "0x2ff25faCa79840b42a0cf515eD04295538A24169",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "keeppower",
+            "symbol": "YFIV",
+            "address": "0x09D790dd8eB6776ee1D175f24152bfa34b3b026e",
             "decimals": 18
         }
     ]
