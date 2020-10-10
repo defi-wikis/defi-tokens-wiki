@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T12:28:25.289Z",
+    "timestamp": "2020-10-10T12:29:35.199Z",
     "version": {
         "major": 1,
-        "minor": 5531,
+        "minor": 5532,
         "patch": 0
     },
     "keywords": [
@@ -28530,6 +28530,13 @@
             "name": "Wrapped Virgin Gen 0",
             "symbol": "WVG0",
             "address": "0x25C7b64A93Eb1261E130eC21a3e9918CaA38b611",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XCORE",
+            "symbol": "XCORE",
+            "address": "0xB244AC0F3ee2E9caE5dfdde5DaB8d49FA467E1A9",
             "decimals": 18
         }
     ]
