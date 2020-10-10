@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:28:02.051Z",
+    "timestamp": "2020-10-10T03:31:54.856Z",
     "version": {
         "major": 1,
-        "minor": 5469,
+        "minor": 5470,
         "patch": 0
     },
     "keywords": [
@@ -28097,6 +28097,13 @@
             "symbol": "SCORE",
             "address": "0x5A909d36Fae18B1f2Be5CdC93D13Fa261a7D3899",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "andy",
+            "symbol": "RNG",
+            "address": "0x2502BDBC8C2e0a9247757De03E7Dd5C5704831ed",
+            "decimals": 18
         }
     ]
 }
