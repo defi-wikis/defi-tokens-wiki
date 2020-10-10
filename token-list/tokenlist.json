@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:33:02.110Z",
+    "timestamp": "2020-10-10T15:38:07.394Z",
     "version": {
         "major": 1,
-        "minor": 5550,
+        "minor": 5551,
         "patch": 0
     },
     "keywords": [
@@ -28664,6 +28664,13 @@
             "symbol": "RAMP",
             "address": "0x20fDc55f196dd93fbBA5E85FB069ac9200b2bce0",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SukiyakiFinance",
+            "symbol": "SYFI",
+            "address": "0xd456d7132183a20Aa09E2783EC18E9e298520058",
+            "decimals": 9
         }
     ]
 }
