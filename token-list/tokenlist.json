@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T05:33:10.349Z",
+    "timestamp": "2020-10-10T05:39:11.035Z",
     "version": {
         "major": 1,
-        "minor": 5484,
+        "minor": 5485,
         "patch": 0
     },
     "keywords": [
@@ -28202,6 +28202,13 @@
             "symbol": "HPLUS",
             "address": "0xff744f2315C9d61d825B581C973576055C3da07E",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QCORE.FINANCE",
+            "symbol": "QCORE",
+            "address": "0x82866b4A71BA9d930Fe338C386B6A45a7133eb36",
+            "decimals": 9
         }
     ]
 }
