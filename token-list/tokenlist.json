@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T01:06:40.349Z",
+    "timestamp": "2020-10-10T01:18:02.452Z",
     "version": {
         "major": 1,
-        "minor": 5451,
+        "minor": 5452,
         "patch": 0
     },
     "keywords": [
@@ -27970,6 +27970,13 @@
             "name": "RUB",
             "symbol": "RUB",
             "address": "0x639b548E32c3eD833Fea19E22C62fA5a5D1a4Ea7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "heavensgate v2",
+            "symbol": "HATEV2",
+            "address": "0x20d2c3bf19ff49468535DB49BCD8F999F8aF9993",
             "decimals": 18
         }
     ]
