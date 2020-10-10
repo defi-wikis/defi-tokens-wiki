@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T10:52:59.779Z",
+    "timestamp": "2020-10-10T11:10:50.461Z",
     "version": {
         "major": 1,
-        "minor": 5520,
+        "minor": 5521,
         "patch": 0
     },
     "keywords": [
@@ -28453,6 +28453,13 @@
             "name": "EarnPiCoin",
             "symbol": "EPC",
             "address": "0x95C4085122740874190b72717144ef908Ea56f27",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "POLKALPHA",
+            "symbol": "POLA",
+            "address": "0x0275B940c5eeb4f1C923dD886C9D87a04F0B90eA",
             "decimals": 18
         }
     ]
