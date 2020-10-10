@@ -1,0 +1,7 @@
+{
+    "name": "AuctToken",
+    "symbol": "AUCT",
+    "address": "0x27c79b46e2D00F7C52cb833009B34040aaFF3763",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
