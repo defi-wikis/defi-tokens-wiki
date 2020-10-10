@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T08:26:30.172Z",
+    "timestamp": "2020-10-10T08:31:25.087Z",
     "version": {
         "major": 1,
-        "minor": 5508,
+        "minor": 5509,
         "patch": 0
     },
     "keywords": [
@@ -28369,6 +28369,13 @@
             "name": "Rivex.finance",
             "symbol": "YRX",
             "address": "0xB440f28A2723756FE3b23BdB7851f113EB10aA48",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AlphaFinance.io",
+            "symbol": "ALPHA",
+            "address": "0x0D77027BbDEfF7EecD735261CB0843F1d74a0ad7",
             "decimals": 18
         }
     ]
