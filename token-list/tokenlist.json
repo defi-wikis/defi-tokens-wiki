@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T17:43:59.983Z",
+    "timestamp": "2020-10-10T17:49:00.022Z",
     "version": {
         "major": 1,
-        "minor": 5578,
+        "minor": 5579,
         "patch": 0
     },
     "keywords": [
@@ -28859,6 +28859,13 @@
             "name": "YFFI",
             "symbol": "YFI2",
             "address": "0x177659DEb97593896487999dB50206fC04124089",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JuiceS.Finance",
+            "symbol": "JSF",
+            "address": "0x5cab9875A01f6c7883B280c000c6430bE02646eB",
             "decimals": 18
         }
     ]
