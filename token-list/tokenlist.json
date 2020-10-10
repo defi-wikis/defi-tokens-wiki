@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T10:12:49.745Z",
+    "timestamp": "2020-10-10T10:21:29.951Z",
     "version": {
         "major": 1,
-        "minor": 5517,
+        "minor": 5518,
         "patch": 0
     },
     "keywords": [
@@ -28432,6 +28432,13 @@
             "name": "yyii.finance",
             "symbol": "YYII",
             "address": "0x5b3431479a81523290ea6085C23CBca745891607",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sera Protocol",
+            "symbol": "SERA",
+            "address": "0xfD7327c6659a8f1306037E878Fd6147025d7c9bb",
             "decimals": 18
         }
     ]
