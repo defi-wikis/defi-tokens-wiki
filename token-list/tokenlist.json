@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T08:15:17.660Z",
+    "timestamp": "2020-10-10T08:18:49.986Z",
     "version": {
         "major": 1,
-        "minor": 5505,
+        "minor": 5506,
         "patch": 0
     },
     "keywords": [
@@ -28348,6 +28348,13 @@
             "name": "heavensgate.finance",
             "symbol": "HATE",
             "address": "0x114f792d53Aaaa05a4F17D9414033D0c1f0F8137",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "X-ORB",
+            "symbol": "XORB",
+            "address": "0xa4bac41169b1D9CBd5eD5c90cC7bcD7d2368e7cB",
             "decimals": 18
         }
     ]
