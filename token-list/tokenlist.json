@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T02:17:35.328Z",
+    "timestamp": "2020-10-10T02:27:44.842Z",
     "version": {
         "major": 1,
-        "minor": 5459,
+        "minor": 5460,
         "patch": 0
     },
     "keywords": [
@@ -28026,6 +28026,13 @@
             "name": "Non-Fungible Yearn",
             "symbol": "NFY",
             "address": "0x863417d06a649acBA2A57663E769f07eF3a5F545",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AuctToken",
+            "symbol": "AUCT",
+            "address": "0x27c79b46e2D00F7C52cb833009B34040aaFF3763",
             "decimals": 18
         }
     ]
