@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:31:54.731Z",
+    "timestamp": "2020-10-10T15:33:02.110Z",
     "version": {
         "major": 1,
-        "minor": 5549,
+        "minor": 5550,
         "patch": 0
     },
     "keywords": [
@@ -28656,6 +28656,13 @@
             "name": "Candy Finance",
             "symbol": "CANDY",
             "address": "0xD1Fa3C26dD3eD728f3DBdB6E39DA42D18625ebeb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RAMP DEFI",
+            "symbol": "RAMP",
+            "address": "0x20fDc55f196dd93fbBA5E85FB069ac9200b2bce0",
             "decimals": 18
         }
     ]
