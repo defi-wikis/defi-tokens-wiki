@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T21:31:02.436Z",
+    "timestamp": "2020-10-10T21:51:29.868Z",
     "version": {
         "major": 1,
-        "minor": 5600,
+        "minor": 5601,
         "patch": 0
     },
     "keywords": [
@@ -29014,6 +29014,13 @@
             "symbol": "IZI",
             "address": "0xDf59C8BA19B4d1437d80836b45F1319D9A429EED",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "ZEC Core Finance",
+            "symbol": "ZECC",
+            "address": "0xd08d7c1fF40688e46b289EA819DB641be1b96387",
+            "decimals": 18
         }
     ]
 }
