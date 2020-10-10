@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T19:28:45.234Z",
+    "timestamp": "2020-10-10T19:32:59.669Z",
     "version": {
         "major": 1,
-        "minor": 5591,
+        "minor": 5592,
         "patch": 0
     },
     "keywords": [
@@ -28950,6 +28950,13 @@
             "name": "PAXE",
             "symbol": "PXE",
             "address": "0xde56b09E691e88E0370A334567601AfAc330f5d0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FarmFinance",
+            "symbol": "FARM",
+            "address": "0x3F1898A261cf4DdC1397dfDe4aada98d14adEE02",
             "decimals": 18
         }
     ]
