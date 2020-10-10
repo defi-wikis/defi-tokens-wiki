@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:17:20.326Z",
+    "timestamp": "2020-10-10T16:21:07.487Z",
     "version": {
         "major": 1,
-        "minor": 5560,
+        "minor": 5561,
         "patch": 0
     },
     "keywords": [
@@ -28733,6 +28733,13 @@
             "name": "MEME Clone",
             "symbol": "MEMEC",
             "address": "0xE2434C40feF4c0FE61cd3Ae6C8fb405f9E6244cd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "multiplecompatibility.io",
+            "symbol": "TIFS",
+            "address": "0xc99CB7d4498FB72dC798046D6734c7eB67cBf6B9",
             "decimals": 18
         }
     ]
