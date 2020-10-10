@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T03:18:25.131Z",
+    "timestamp": "2020-10-10T03:22:25.336Z",
     "version": {
         "major": 1,
-        "minor": 5467,
+        "minor": 5468,
         "patch": 0
     },
     "keywords": [
@@ -28082,6 +28082,13 @@
             "name": "decore.finance",
             "symbol": "DCORE",
             "address": "0x381aCd11BE435628F1679748C1f82285A6a05f1d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QCore.Finance",
+            "symbol": "QCORE",
+            "address": "0x445F62e8C81ceC3f70EeefF405E0C1e1599C4e23",
             "decimals": 18
         }
     ]
