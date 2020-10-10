@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T16:58:49.831Z",
+    "timestamp": "2020-10-10T17:27:11.100Z",
     "version": {
         "major": 1,
-        "minor": 5574,
+        "minor": 5575,
         "patch": 0
     },
     "keywords": [
@@ -28831,6 +28831,13 @@
             "name": "NFL.Finance",
             "symbol": "NFL",
             "address": "0x71720cBE0F09c33C83271b2dB7458481FFEf6a7F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RGBFarm.fund",
+            "symbol": "RGB",
+            "address": "0x01387115455A566ACEf031Ee53aD998BA34395C0",
             "decimals": 18
         }
     ]
