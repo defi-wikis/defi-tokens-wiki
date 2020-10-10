@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T15:42:30.212Z",
+    "timestamp": "2020-10-10T15:48:40.442Z",
     "version": {
         "major": 1,
-        "minor": 5553,
+        "minor": 5554,
         "patch": 0
     },
     "keywords": [
@@ -28684,6 +28684,13 @@
             "name": "orbIT",
             "symbol": "orbI",
             "address": "0xD9Ce656033d21F860630a814a1e6F8CFedA127D4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Big Blue Finance",
+            "symbol": "BIGF",
+            "address": "0x284E87aEaC70B238794b71EcBCec4f63E0F45b08",
             "decimals": 18
         }
     ]
