@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T17:37:49.835Z",
+    "timestamp": "2020-10-10T17:42:21.048Z",
     "version": {
         "major": 1,
-        "minor": 5576,
+        "minor": 5577,
         "patch": 0
     },
     "keywords": [
@@ -28845,6 +28845,13 @@
             "name": "uniswaptools.com",
             "symbol": "unst",
             "address": "0x34D7B8D6da25b17dEF4e85525a96d1b82BF589D2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Burn Swap",
+            "symbol": "BURN",
+            "address": "0x86cB4d2FFAbCa1941B9Be4723c49C0E6F2B3a563",
             "decimals": 18
         }
     ]
