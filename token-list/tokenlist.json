@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T23:04:45.677Z",
+    "timestamp": "2020-10-10T23:14:03.180Z",
     "version": {
         "major": 1,
-        "minor": 5605,
+        "minor": 5606,
         "patch": 0
     },
     "keywords": [
@@ -29049,6 +29049,13 @@
             "symbol": "FARM",
             "address": "0x2c99f64800e4B697CfCd63af976add440466BbF1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FREXA ERC-1404 Test",
+            "symbol": "FRXT2",
+            "address": "0xA1acBB78164Fdc4446426eBCaEd119536816467A",
+            "decimals": 0
         }
     ]
 }
