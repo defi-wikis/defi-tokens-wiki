@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T18:03:40.417Z",
+    "timestamp": "2020-10-11T18:06:54.801Z",
     "version": {
         "major": 1,
-        "minor": 5769,
+        "minor": 5770,
         "patch": 0
     },
     "keywords": [
@@ -30196,6 +30196,13 @@
             "name": "Cardano Side Chain",
             "symbol": "ADAS",
             "address": "0xCC4E6624bCDB596E06ad9460eFb132495DD439B4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "mrTROLL.finance",
+            "symbol": "TROLL",
+            "address": "0x5292FA62062215839FEc1d8b5b371065dE5ea554",
             "decimals": 18
         }
     ]
