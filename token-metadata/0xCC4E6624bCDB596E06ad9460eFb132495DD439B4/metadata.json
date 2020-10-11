@@ -1,0 +1,7 @@
+{
+    "name": "Cardano Side Chain",
+    "symbol": "ADAS",
+    "address": "0xCC4E6624bCDB596E06ad9460eFb132495DD439B4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
