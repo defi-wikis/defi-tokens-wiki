@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:44:26.531Z",
+    "timestamp": "2020-10-11T17:49:03.652Z",
     "version": {
         "major": 1,
-        "minor": 5765,
+        "minor": 5766,
         "patch": 0
     },
     "keywords": [
@@ -30168,6 +30168,13 @@
             "name": "CoreMAX",
             "symbol": "CORM",
             "address": "0xc27dbA88bD52b3c14af4c668A0118A3656804b99",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Scaled Agile",
+            "symbol": "SAFE",
+            "address": "0xF7F5541dF38b3Fa94cbdE58e8B20ee88B1f9e112",
             "decimals": 18
         }
     ]
