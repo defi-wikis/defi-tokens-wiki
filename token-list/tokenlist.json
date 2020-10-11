@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T04:16:07.721Z",
+    "timestamp": "2020-10-11T04:16:55.426Z",
     "version": {
         "major": 1,
-        "minor": 5645,
+        "minor": 5646,
         "patch": 0
     },
     "keywords": [
@@ -29328,6 +29328,13 @@
             "name": "NASA",
             "symbol": "NASA",
             "address": "0xfE8D06DD308Ea4b76CD06Ca658eE323fd718E7Ac",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZFI Finance",
+            "symbol": "$ZFI",
+            "address": "0x2B047de61D0D7bf6839880811aB3Dc488Ad8e046",
             "decimals": 18
         }
     ]
