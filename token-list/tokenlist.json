@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T12:58:14.785Z",
+    "timestamp": "2020-10-11T13:05:40.473Z",
     "version": {
         "major": 1,
-        "minor": 5704,
+        "minor": 5705,
         "patch": 0
     },
     "keywords": [
@@ -29741,6 +29741,13 @@
             "name": "UniswapDiamond",
             "symbol": "UNID",
             "address": "0x465db08304c55D833E58a59368f0a48fa39E5FbD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fuck.finance",
+            "symbol": "FYF",
+            "address": "0x229Da872cecA49d039ae5bAe7541e6C9972b6cCB",
             "decimals": 18
         }
     ]
