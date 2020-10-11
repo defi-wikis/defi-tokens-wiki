@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:07:14.926Z",
+    "timestamp": "2020-10-11T03:08:25.331Z",
     "version": {
         "major": 1,
-        "minor": 5632,
+        "minor": 5633,
         "patch": 0
     },
     "keywords": [
@@ -29237,6 +29237,13 @@
             "name": "YearnClassic.Finance",
             "symbol": "YFIC",
             "address": "0x215c6D1C235ffb887A961582F3841ff451455AC7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GBPC",
+            "symbol": "GBPC",
+            "address": "0x7b3AD6001e6b1b8DD8C7fCF34Cd6087FB054017E",
             "decimals": 18
         }
     ]
