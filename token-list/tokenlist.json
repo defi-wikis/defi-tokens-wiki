@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:03:25.650Z",
+    "timestamp": "2020-10-11T20:03:39.662Z",
     "version": {
         "major": 1,
-        "minor": 5792,
+        "minor": 5793,
         "patch": 0
     },
     "keywords": [
@@ -30357,6 +30357,13 @@
             "name": "Tuna",
             "symbol": "TNA",
             "address": "0x5e3c246CCF563f02cbBA0eab142D565E1d840821",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DCoreMAX",
+            "symbol": "DCOR",
+            "address": "0xa113a615a18534Ea056f9AC22B605eDc357E9Baf",
             "decimals": 18
         }
     ]
