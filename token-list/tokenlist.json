@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:25:36.687Z",
+    "timestamp": "2020-10-11T11:33:16.319Z",
     "version": {
         "major": 1,
-        "minor": 5693,
+        "minor": 5694,
         "patch": 0
     },
     "keywords": [
@@ -29664,6 +29664,13 @@
             "name": "Unicorn",
             "symbol": "Unicorn",
             "address": "0x37114773d5D74bd27c8e1167Aeb50A6E0A3A354c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Porsche Token",
+            "symbol": "PSRT",
+            "address": "0x158a7B948bd87f606ecd4bD08Fe0a0c5B3329F58",
             "decimals": 18
         }
     ]
