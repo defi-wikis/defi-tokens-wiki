@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:27:11.455Z",
+    "timestamp": "2020-10-11T17:33:50.259Z",
     "version": {
         "major": 1,
-        "minor": 5760,
+        "minor": 5761,
         "patch": 0
     },
     "keywords": [
@@ -30133,6 +30133,13 @@
             "name": "zorro.network",
             "symbol": "ZORRO",
             "address": "0x4986f05BacA3fE00abBbeB62F2c8692d9812ede7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cofix.io",
+            "symbol": "COFI",
+            "address": "0x5C6bf91a093CBFf43611b2E673b64e400704fA75",
             "decimals": 18
         }
     ]
