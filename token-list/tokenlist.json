@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:33:16.319Z",
+    "timestamp": "2020-10-11T11:43:21.645Z",
     "version": {
         "major": 1,
-        "minor": 5694,
+        "minor": 5695,
         "patch": 0
     },
     "keywords": [
@@ -29671,6 +29671,13 @@
             "name": "Porsche Token",
             "symbol": "PSRT",
             "address": "0x158a7B948bd87f606ecd4bD08Fe0a0c5B3329F58",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dora Protocol",
+            "symbol": "DORA",
+            "address": "0x6bcCDcBe9D19d6A01F17B2dc612b79cC82088638",
             "decimals": 18
         }
     ]
