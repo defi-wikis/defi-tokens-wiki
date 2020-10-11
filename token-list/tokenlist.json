@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T02:46:02.628Z",
+    "timestamp": "2020-10-11T02:50:10.789Z",
     "version": {
         "major": 1,
-        "minor": 5628,
+        "minor": 5629,
         "patch": 0
     },
     "keywords": [
@@ -29209,6 +29209,13 @@
             "name": "daofi.finance",
             "symbol": "DAOfi",
             "address": "0x803f443445e68Cd88F5200Bb71eA2A37418413F5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iyearn.finance/",
+            "symbol": "IYFI",
+            "address": "0x3d50b0bA1dd2B1865b71fB7FDfFeDCeD06a6cd51",
             "decimals": 18
         }
     ]
