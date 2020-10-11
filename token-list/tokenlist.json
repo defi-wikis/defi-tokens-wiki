@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T22:53:40.327Z",
+    "timestamp": "2020-10-11T23:10:44.654Z",
     "version": {
         "major": 1,
-        "minor": 5811,
+        "minor": 5812,
         "patch": 0
     },
     "keywords": [
@@ -30491,6 +30491,13 @@
             "symbol": "ROCKS",
             "address": "0x5B48982c3445B1Aefadf9E477A6C51832dB5d1ff",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Moose",
+            "symbol": "MM",
+            "address": "0xcf0425a35f1FA900bb347Cb996D3094D1dF3Cd48",
+            "decimals": 4
         }
     ]
 }
