@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T10:59:39.660Z",
+    "timestamp": "2020-10-11T11:03:36.385Z",
     "version": {
         "major": 1,
-        "minor": 5683,
+        "minor": 5684,
         "patch": 0
     },
     "keywords": [
@@ -29594,6 +29594,13 @@
             "name": "Star Coin",
             "symbol": "SC",
             "address": "0x6F878C85E1164aAca36AFc2E3839639082781E26",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hot Lips Houlihan",
+            "symbol": "HLH",
+            "address": "0xfb925821eEF8DfaBe2788b322f436088650551cC",
             "decimals": 18
         }
     ]
