@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:25:45.188Z",
+    "timestamp": "2020-10-11T13:28:16.151Z",
     "version": {
         "major": 1,
-        "minor": 5711,
+        "minor": 5712,
         "patch": 0
     },
     "keywords": [
@@ -29790,6 +29790,13 @@
             "name": "Ethereum Uniswap Foundation",
             "symbol": "EUF",
             "address": "0xe627292D6c3BE0453f44E893E7C1c3EC5b53D892",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "First Time Yield",
+            "symbol": "FTY",
+            "address": "0xa86E51f13a5F8d981E7DCE5376E19c37A86D2f53",
             "decimals": 18
         }
     ]
