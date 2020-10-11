@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:25:29.609Z",
+    "timestamp": "2020-10-11T03:26:35.342Z",
     "version": {
         "major": 1,
-        "minor": 5636,
+        "minor": 5637,
         "patch": 0
     },
     "keywords": [
@@ -29265,6 +29265,13 @@
             "name": "Wojak.FEEL",
             "symbol": "WOJAK",
             "address": "0x22238ABf49534Cd90A84309cACe5c0952f68a9d6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BTTycoon",
+            "symbol": "BTY",
+            "address": "0xDC1Ee92e3D23CAA57Ec74734498434b4acfd15D8",
             "decimals": 18
         }
     ]
