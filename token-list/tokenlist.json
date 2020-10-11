@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:54:31.129Z",
+    "timestamp": "2020-10-11T04:14:41.896Z",
     "version": {
         "major": 1,
-        "minor": 5643,
+        "minor": 5644,
         "patch": 0
     },
     "keywords": [
@@ -29314,6 +29314,13 @@
             "name": "Unitrade",
             "symbol": "TRADE",
             "address": "0x777F0D696922c4cA15f9F5743B6F4fbc541171B1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lsvdefi.finance",
+            "symbol": "LFI",
+            "address": "0x76Cd26b301d40b41fB5819ffADa0399271A00826",
             "decimals": 18
         }
     ]
