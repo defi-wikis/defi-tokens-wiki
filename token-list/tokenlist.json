@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:39:03.443Z",
+    "timestamp": "2020-10-11T20:55:25.825Z",
     "version": {
         "major": 1,
-        "minor": 5802,
+        "minor": 5803,
         "patch": 0
     },
     "keywords": [
@@ -30427,6 +30427,13 @@
             "name": "NAKAFinance",
             "symbol": "NAKA",
             "address": "0xCef1710AA758a7D1437A2D31B025e138528F209d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Relaunch",
+            "symbol": "CORER",
+            "address": "0xEc07857510Aa7Dde3ABCA3c369058815d6318d75",
             "decimals": 18
         }
     ]
