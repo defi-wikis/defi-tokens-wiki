@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:25:07.351Z",
+    "timestamp": "2020-10-11T11:25:36.687Z",
     "version": {
         "major": 1,
-        "minor": 5692,
+        "minor": 5693,
         "patch": 0
     },
     "keywords": [
@@ -29657,6 +29657,13 @@
             "name": "YEZICOIN",
             "symbol": "YZC",
             "address": "0x975983d2d001a0D0EAdFC5e62AC46D66aAAaded3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unicorn",
+            "symbol": "Unicorn",
+            "address": "0x37114773d5D74bd27c8e1167Aeb50A6E0A3A354c",
             "decimals": 18
         }
     ]
