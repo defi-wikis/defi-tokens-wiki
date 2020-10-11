@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T01:16:31.585Z",
+    "timestamp": "2020-10-11T01:35:15.796Z",
     "version": {
         "major": 1,
-        "minor": 5618,
+        "minor": 5619,
         "patch": 0
     },
     "keywords": [
@@ -29139,6 +29139,13 @@
             "name": "yfKirby",
             "symbol": "YFK",
             "address": "0xF1B94429B016B6c4c580Ba1f6Ec6ad7256418C0B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cobalt",
+            "symbol": "CBLT",
+            "address": "0x29a99c126596c0Dc96b02A88a9EAab44EcCf511e",
             "decimals": 18
         }
     ]
