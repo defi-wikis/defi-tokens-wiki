@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T00:38:50.619Z",
+    "timestamp": "2020-10-11T00:39:44.758Z",
     "version": {
         "major": 1,
-        "minor": 5616,
+        "minor": 5617,
         "patch": 0
     },
     "keywords": [
@@ -29125,6 +29125,13 @@
             "name": "NYAN V2",
             "symbol": "NYANV2",
             "address": "0x91a08dFCcEDf91297E00f82e8ec6d8536d910Ef9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XRP Proof of Stake Chain",
+            "symbol": "XRPc",
+            "address": "0x515b0D709bF5930E4057Cd3b9110d6BA60E8e015",
             "decimals": 18
         }
     ]
