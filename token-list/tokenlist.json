@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T18:44:41.371Z",
+    "timestamp": "2020-10-11T18:59:59.801Z",
     "version": {
         "major": 1,
-        "minor": 5774,
+        "minor": 5775,
         "patch": 0
     },
     "keywords": [
@@ -30231,6 +30231,13 @@
             "name": "CotiFinance",
             "symbol": "COTI",
             "address": "0xD722BaABd78a6bcdB859531EAb64B76c144B6ee2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SUS COIN",
+            "symbol": "SCAM",
+            "address": "0x1B66A2c00E4EE23Ad0b2Dc4B0B5E396AA8589897",
             "decimals": 18
         }
     ]
