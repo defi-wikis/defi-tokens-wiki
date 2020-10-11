@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T05:34:24.884Z",
+    "timestamp": "2020-10-11T06:15:24.791Z",
     "version": {
         "major": 1,
-        "minor": 5653,
+        "minor": 5654,
         "patch": 0
     },
     "keywords": [
@@ -29384,6 +29384,13 @@
             "name": "woo.network",
             "symbol": "WOO",
             "address": "0x2b97FD8d2b441b4e654ce3ddA395e90c688e5443",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JurassicFarmFinance",
+            "symbol": "JYFFI",
+            "address": "0x37e11EdBa8bBc3a690fBCe984A4b757c81c5488A",
             "decimals": 18
         }
     ]
