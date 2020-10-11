@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:06:04.049Z",
+    "timestamp": "2020-10-11T16:12:10.790Z",
     "version": {
         "major": 1,
-        "minor": 5744,
+        "minor": 5745,
         "patch": 0
     },
     "keywords": [
@@ -30021,6 +30021,13 @@
             "name": "Simpson Finance",
             "symbol": "SIMF",
             "address": "0x47f335A1ba8C93c010F2757cD49eF1Bbf6a7C5A2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "billion years ago",
+            "symbol": "BYA",
+            "address": "0xCE3285cAb1EEcc738CF705e6352C9e3767fb6C23",
             "decimals": 18
         }
     ]
