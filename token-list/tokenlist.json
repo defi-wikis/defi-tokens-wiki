@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:46:45.369Z",
+    "timestamp": "2020-10-11T13:52:11.388Z",
     "version": {
         "major": 1,
-        "minor": 5716,
+        "minor": 5717,
         "patch": 0
     },
     "keywords": [
@@ -29825,6 +29825,13 @@
             "name": "Pikto group ",
             "symbol": "PKP",
             "address": "0x6A532b08c654A1A86069b74C560d8Fa0ff842218",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFHOT.FINANCE",
+            "symbol": "YFH",
+            "address": "0x742653976405CC1295e2390bE76c464D3025AeAF",
             "decimals": 18
         }
     ]
