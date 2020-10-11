@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:59:44.733Z",
+    "timestamp": "2020-10-11T12:04:03.847Z",
     "version": {
         "major": 1,
-        "minor": 5696,
+        "minor": 5697,
         "patch": 0
     },
     "keywords": [
@@ -29685,6 +29685,13 @@
             "name": "GameSwap",
             "symbol": "GSWAP",
             "address": "0x170106BA4fF768F55674bBdAF7F43c4746195097",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoonTools.io",
+            "symbol": "MOONS",
+            "address": "0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56",
             "decimals": 18
         }
     ]
