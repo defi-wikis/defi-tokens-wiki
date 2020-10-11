@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:39:11.838Z",
+    "timestamp": "2020-10-11T19:40:11.303Z",
     "version": {
         "major": 1,
-        "minor": 5784,
+        "minor": 5785,
         "patch": 0
     },
     "keywords": [
@@ -30301,6 +30301,13 @@
             "name": "CocaFinance",
             "symbol": "COCA",
             "address": "0x5605f14bC1c438C5eF55973346672dfdb285f75E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GenesisChain",
+            "symbol": "GENC",
+            "address": "0x3692f1FCBF29629F4241eC9f676219d209B878C0",
             "decimals": 18
         }
     ]
