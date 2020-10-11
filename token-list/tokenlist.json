@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:30:41.496Z",
+    "timestamp": "2020-10-11T16:30:45.929Z",
     "version": {
         "major": 1,
-        "minor": 5749,
+        "minor": 5750,
         "patch": 0
     },
     "keywords": [
@@ -30056,6 +30056,13 @@
             "name": "DokemonMemeFinance",
             "symbol": "DOKE",
             "address": "0xB1e0682cF555a5335B3D4c8F5b32c27cdeC74818",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "OrbMEX",
+            "symbol": "OrbX",
+            "address": "0x6ddAACAd05a2dAEf638880606AD81bdC2db70FB7",
             "decimals": 18
         }
     ]
