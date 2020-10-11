@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T23:23:12.214Z",
+    "timestamp": "2020-10-11T23:24:44.998Z",
     "version": {
         "major": 1,
-        "minor": 5815,
+        "minor": 5816,
         "patch": 0
     },
     "keywords": [
@@ -30518,6 +30518,13 @@
             "name": "Pepemon",
             "symbol": "PPBLZ",
             "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AlphaToken",
+            "symbol": "ALPHA",
+            "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
             "decimals": 18
         }
     ]
