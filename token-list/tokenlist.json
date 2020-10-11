@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T12:04:03.847Z",
+    "timestamp": "2020-10-11T12:09:03.490Z",
     "version": {
         "major": 1,
-        "minor": 5697,
+        "minor": 5698,
         "patch": 0
     },
     "keywords": [
@@ -29692,6 +29692,13 @@
             "name": "MoonTools.io",
             "symbol": "MOONS",
             "address": "0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chad",
+            "symbol": "CHAD",
+            "address": "0x5C888fA2e6f9f0880321683D1eFA12e936fD5051",
             "decimals": 18
         }
     ]
