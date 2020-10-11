@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:12:10.790Z",
+    "timestamp": "2020-10-11T16:21:54.944Z",
     "version": {
         "major": 1,
-        "minor": 5745,
+        "minor": 5746,
         "patch": 0
     },
     "keywords": [
@@ -30029,6 +30029,13 @@
             "symbol": "BYA",
             "address": "0xCE3285cAb1EEcc738CF705e6352C9e3767fb6C23",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Radiation",
+            "symbol": "RIOP",
+            "address": "0x8272c3917cCc842bCF645b732eFA832C17C17827",
+            "decimals": 12
         }
     ]
 }
