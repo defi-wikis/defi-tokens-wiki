@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:10:59.881Z",
+    "timestamp": "2020-10-11T11:13:20.646Z",
     "version": {
         "major": 1,
-        "minor": 5688,
+        "minor": 5689,
         "patch": 0
     },
     "keywords": [
@@ -29629,6 +29629,13 @@
             "name": "DaoFi.Finance",
             "symbol": "DAOFI",
             "address": "0xE8Cb49faad52A5623Ba0AacDcA5239a7F95D5caF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AngryHippoV2",
+            "symbol": "aHIPPOv2",
+            "address": "0xB01862D0830bCD7775a88625253d12d2c51A110a",
             "decimals": 18
         }
     ]
