@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T15:46:20.609Z",
+    "timestamp": "2020-10-11T15:49:10.873Z",
     "version": {
         "major": 1,
-        "minor": 5737,
+        "minor": 5738,
         "patch": 0
     },
     "keywords": [
@@ -29973,6 +29973,13 @@
             "symbol": "MGW",
             "address": "0x79A7F64347edB9d178397cE9503370EED3aB68A7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Motion",
+            "symbol": "MOTION",
+            "address": "0x8634F0689a502B3659f2b3c9E5650d365067B48A",
+            "decimals": 4
         }
     ]
 }
