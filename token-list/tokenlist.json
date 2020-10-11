@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T02:04:08.504Z",
+    "timestamp": "2020-10-11T02:08:24.845Z",
     "version": {
         "major": 1,
-        "minor": 5623,
+        "minor": 5624,
         "patch": 0
     },
     "keywords": [
@@ -29174,6 +29174,13 @@
             "name": "classic.hippo-finance.com",
             "symbol": "HIPPO",
             "address": "0x3FF73DD13f97e6B53Fc74972219E4729f81b656f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZUSE finance",
+            "symbol": "ZUSE",
+            "address": "0xAc2673328Fc97a072643FC4fC523D7Bd22C3e823",
             "decimals": 18
         }
     ]
