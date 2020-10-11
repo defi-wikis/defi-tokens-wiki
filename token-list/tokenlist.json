@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T22:41:08.452Z",
+    "timestamp": "2020-10-11T22:42:25.797Z",
     "version": {
         "major": 1,
-        "minor": 5809,
+        "minor": 5810,
         "patch": 0
     },
     "keywords": [
@@ -30476,6 +30476,13 @@
             "name": "Uniswap Side Chain",
             "symbol": "USC",
             "address": "0x74A01B20163FC4143d5baab511Cc2E53a74a2a02",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Diamond Miner",
+            "symbol": "DDM",
+            "address": "0x4A0A05567Cba8b459C23B7Ef6Dd167A0510c6Dd9",
             "decimals": 18
         }
     ]
