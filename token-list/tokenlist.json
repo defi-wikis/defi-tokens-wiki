@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T12:39:08.402Z",
+    "timestamp": "2020-10-11T12:58:14.785Z",
     "version": {
         "major": 1,
-        "minor": 5703,
+        "minor": 5704,
         "patch": 0
     },
     "keywords": [
@@ -29734,6 +29734,13 @@
             "name": "Lyra Finance",
             "symbol": "LYRA",
             "address": "0xD917287D0423BeB3D2f6620B6EAa590c80600658",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniswapDiamond",
+            "symbol": "UNID",
+            "address": "0x465db08304c55D833E58a59368f0a48fa39E5FbD",
             "decimals": 18
         }
     ]
