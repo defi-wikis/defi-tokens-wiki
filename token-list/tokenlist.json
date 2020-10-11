@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:15:46.028Z",
+    "timestamp": "2020-10-11T11:17:39.736Z",
     "version": {
         "major": 1,
-        "minor": 5690,
+        "minor": 5691,
         "patch": 0
     },
     "keywords": [
@@ -29643,6 +29643,13 @@
             "name": "CryptoLevDotNet",
             "symbol": "LEV",
             "address": "0x3868Bd6e8b392EB8Dbc8Cdcd0c538dC66529ADbE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HUNDER",
+            "symbol": "HUN",
+            "address": "0x282cFecD22cFa0E0D5A9E0348C4670CF8c40142b",
             "decimals": 18
         }
     ]
