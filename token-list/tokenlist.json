@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:01:04.055Z",
+    "timestamp": "2020-10-11T20:03:25.650Z",
     "version": {
         "major": 1,
-        "minor": 5791,
+        "minor": 5792,
         "patch": 0
     },
     "keywords": [
@@ -30350,6 +30350,13 @@
             "name": "Yearn Moon Finance",
             "symbol": "YMF",
             "address": "0x60e3b24F12400BEaEC6E07627dE50726cA01087b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tuna",
+            "symbol": "TNA",
+            "address": "0x5e3c246CCF563f02cbBA0eab142D565E1d840821",
             "decimals": 18
         }
     ]
