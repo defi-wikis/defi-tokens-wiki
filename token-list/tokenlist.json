@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T15:32:15.960Z",
+    "timestamp": "2020-10-11T15:35:27.944Z",
     "version": {
         "major": 1,
-        "minor": 5733,
+        "minor": 5734,
         "patch": 0
     },
     "keywords": [
@@ -29944,6 +29944,13 @@
             "name": "Pepemon Finance",
             "symbol": "PPBLZ",
             "address": "0xB6c36D92A6cC790255CB19C64126C3625Ea885c6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0x0A98031f532c268C6a4D231E015432084C4923C8",
             "decimals": 18
         }
     ]
