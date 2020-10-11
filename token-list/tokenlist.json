@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:23:35.950Z",
+    "timestamp": "2020-10-11T16:30:37.013Z",
     "version": {
         "major": 1,
-        "minor": 5747,
+        "minor": 5748,
         "patch": 0
     },
     "keywords": [
@@ -30043,6 +30043,13 @@
             "symbol": "WAND",
             "address": "0x3922417EBEaE0cEcb6f1fd82F0700c570bd78bDE",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Nano Protocol",
+            "symbol": "NANO",
+            "address": "0x15CB0B9b4eD34189136D82e60CBe10bd6c9cdCcE",
+            "decimals": 18
         }
     ]
 }
