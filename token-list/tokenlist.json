@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:21:26.884Z",
+    "timestamp": "2020-10-11T20:32:08.830Z",
     "version": {
         "major": 1,
-        "minor": 5800,
+        "minor": 5801,
         "patch": 0
     },
     "keywords": [
@@ -30413,6 +30413,13 @@
             "name": "DCoreVault",
             "symbol": "DCV",
             "address": "0xD6bA63a165a6d8A3D3dd4982e47BdD1446Acebc4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "eclypse.finance",
+            "symbol": "ECL",
+            "address": "0x63Ad3139F7eADE0FF207AeA36958dA468F0689d2",
             "decimals": 18
         }
     ]
