@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T09:30:19.291Z",
+    "timestamp": "2020-10-11T09:35:26.862Z",
     "version": {
         "major": 1,
-        "minor": 5674,
+        "minor": 5675,
         "patch": 0
     },
     "keywords": [
@@ -29531,6 +29531,13 @@
             "name": "KIRA.Network",
             "symbol": "KIRA",
             "address": "0x5F5B860b105630bc5c0730342A39e17a74fF4337",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hfgffgfh",
+            "symbol": "1145h4h1",
+            "address": "0xfeCFF8a7788D8Eb157c3703b17238ab224086622",
             "decimals": 18
         }
     ]
