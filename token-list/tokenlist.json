@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T08:57:31.386Z",
+    "timestamp": "2020-10-11T09:02:20.041Z",
     "version": {
         "major": 1,
-        "minor": 5671,
+        "minor": 5672,
         "patch": 0
     },
     "keywords": [
@@ -29511,6 +29511,13 @@
             "symbol": "PAKI",
             "address": "0xB1bAdB3f5b5E4737E1704C0c2A0F30C3E61aecb9",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "Uyty",
+            "symbol": "UYTY",
+            "address": "0xF0B277645e6DB1824781e98bFf456C1F4ec38d26",
+            "decimals": 18
         }
     ]
 }
