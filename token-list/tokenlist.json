@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T15:08:13.465Z",
+    "timestamp": "2020-10-11T15:32:15.960Z",
     "version": {
         "major": 1,
-        "minor": 5732,
+        "minor": 5733,
         "patch": 0
     },
     "keywords": [
@@ -29937,6 +29937,13 @@
             "name": "Pokepo.meme",
             "symbol": "PKPM",
             "address": "0xccEeBbB1382CFE4E97eAd128B1A50Fd96CF57bf7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pepemon Finance",
+            "symbol": "PPBLZ",
+            "address": "0xB6c36D92A6cC790255CB19C64126C3625Ea885c6",
             "decimals": 18
         }
     ]
