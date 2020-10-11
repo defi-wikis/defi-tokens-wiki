@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:16:14.874Z",
+    "timestamp": "2020-10-11T17:23:11.659Z",
     "version": {
         "major": 1,
-        "minor": 5757,
+        "minor": 5758,
         "patch": 0
     },
     "keywords": [
@@ -30112,6 +30112,13 @@
             "name": "Bibcock Coin",
             "symbol": "BC",
             "address": "0x4Bf577C38D4eDCd6992a3521AF75fa21AD49B27F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YTI",
+            "symbol": "YTI",
+            "address": "0x073663105ff5ac3aD070B9b2C91067FafcA07813",
             "decimals": 18
         }
     ]
