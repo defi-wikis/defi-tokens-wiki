@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:17:34.996Z",
+    "timestamp": "2020-10-11T20:21:26.884Z",
     "version": {
         "major": 1,
-        "minor": 5799,
+        "minor": 5800,
         "patch": 0
     },
     "keywords": [
@@ -30406,6 +30406,13 @@
             "name": "Frogger",
             "symbol": "FRGR",
             "address": "0xB811e413920E4A4aD32d41c0Ee34cb2A14873691",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DCoreVault",
+            "symbol": "DCV",
+            "address": "0xD6bA63a165a6d8A3D3dd4982e47BdD1446Acebc4",
             "decimals": 18
         }
     ]
