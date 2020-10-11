@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T15:38:21.368Z",
+    "timestamp": "2020-10-11T15:46:20.609Z",
     "version": {
         "major": 1,
-        "minor": 5736,
+        "minor": 5737,
         "patch": 0
     },
     "keywords": [
@@ -29965,6 +29965,13 @@
             "name": "pinetwork",
             "symbol": "pinetwork",
             "address": "0xe7ad46A6A4FE273845992d5AccbdDBFAbEc71579",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MANGASWAP.JP",
+            "symbol": "MGW",
+            "address": "0x79A7F64347edB9d178397cE9503370EED3aB68A7",
             "decimals": 18
         }
     ]
