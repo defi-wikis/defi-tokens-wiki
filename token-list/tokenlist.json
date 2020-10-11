@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:09:29.683Z",
+    "timestamp": "2020-10-11T03:19:31.379Z",
     "version": {
         "major": 1,
-        "minor": 5634,
+        "minor": 5635,
         "patch": 0
     },
     "keywords": [
@@ -29251,6 +29251,13 @@
             "name": "Lucky Token",
             "symbol": "LT",
             "address": "0x39EEd06ab8A8AD0A5a3FFc165Ca5FD7f442D403b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "najib finance",
+            "symbol": "NJB1",
+            "address": "0x29Ec46AEFF2239D594f2750D4c6D1AE76A20e317",
             "decimals": 18
         }
     ]
