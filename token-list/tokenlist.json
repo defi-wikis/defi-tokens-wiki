@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:03:07.610Z",
+    "timestamp": "2020-10-11T14:08:55.621Z",
     "version": {
         "major": 1,
-        "minor": 5719,
+        "minor": 5720,
         "patch": 0
     },
     "keywords": [
@@ -29846,6 +29846,13 @@
             "name": "UniLend Finance",
             "symbol": "UFT",
             "address": "0x0787441C5E0ee933FaF8CD29de6Cc79341032aA8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Social Rocket",
+            "symbol": "ROCKS",
+            "address": "0x6cE1E3595aa2BF0e69544518b8893312BaeC256D",
             "decimals": 18
         }
     ]
