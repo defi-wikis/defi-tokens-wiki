@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T18:06:54.801Z",
+    "timestamp": "2020-10-11T18:11:51.841Z",
     "version": {
         "major": 1,
-        "minor": 5770,
+        "minor": 5771,
         "patch": 0
     },
     "keywords": [
@@ -30203,6 +30203,13 @@
             "name": "mrTROLL.finance",
             "symbol": "TROLL",
             "address": "0x5292FA62062215839FEc1d8b5b371065dE5ea554",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "B One Payment",
+            "symbol": "B1P",
+            "address": "0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
             "decimals": 18
         }
     ]
