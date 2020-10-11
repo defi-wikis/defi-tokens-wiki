@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:31:24.720Z",
+    "timestamp": "2020-10-11T16:31:56.337Z",
     "version": {
         "major": 1,
-        "minor": 5751,
+        "minor": 5752,
         "patch": 0
     },
     "keywords": [
@@ -30070,6 +30070,13 @@
             "name": "Self-Assessment Questionnaire",
             "symbol": "SAQ",
             "address": "0x5faC401Be6c414E5E1677f3C6d7Bd1cde59204BC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Lending",
+            "symbol": "YFIL",
+            "address": "0xE065dcEd63F39dE77aBc90aa0d25083dED6d25E4",
             "decimals": 18
         }
     ]
