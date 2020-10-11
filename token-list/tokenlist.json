@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T02:20:41.128Z",
+    "timestamp": "2020-10-11T02:43:49.657Z",
     "version": {
         "major": 1,
-        "minor": 5626,
+        "minor": 5627,
         "patch": 0
     },
     "keywords": [
@@ -29195,6 +29195,13 @@
             "name": "hathor.network",
             "symbol": "HTR",
             "address": "0x32760aaA3faFD9D80b15Af0867455d0E40A3d11F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "empowr",
+            "symbol": "EMPR",
+            "address": "0xe7D7b37e72510309Db27C460378f957B1B04Bd5d",
             "decimals": 18
         }
     ]
