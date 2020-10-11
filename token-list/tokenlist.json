@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:06:52.573Z",
+    "timestamp": "2020-10-11T19:09:26.742Z",
     "version": {
         "major": 1,
-        "minor": 5777,
+        "minor": 5778,
         "patch": 0
     },
     "keywords": [
@@ -30252,6 +30252,13 @@
             "name": "BearFinance",
             "symbol": "BEAR",
             "address": "0x6ab3C097B4F0d959775FC9eBb196A8748B93EF3D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xBTC (Official)",
+            "symbol": "xBTC",
+            "address": "0x189051440Be8427705f3A1c1a8b133a33cE386c6",
             "decimals": 18
         }
     ]
