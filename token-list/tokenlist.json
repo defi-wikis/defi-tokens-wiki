@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:32:08.830Z",
+    "timestamp": "2020-10-11T20:39:03.443Z",
     "version": {
         "major": 1,
-        "minor": 5801,
+        "minor": 5802,
         "patch": 0
     },
     "keywords": [
@@ -30420,6 +30420,13 @@
             "name": "eclypse.finance",
             "symbol": "ECL",
             "address": "0x63Ad3139F7eADE0FF207AeA36958dA468F0689d2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NAKAFinance",
+            "symbol": "NAKA",
+            "address": "0xCef1710AA758a7D1437A2D31B025e138528F209d",
             "decimals": 18
         }
     ]
