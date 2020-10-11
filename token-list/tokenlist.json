@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:35:08.311Z",
+    "timestamp": "2020-10-11T13:40:08.132Z",
     "version": {
         "major": 1,
-        "minor": 5713,
+        "minor": 5714,
         "patch": 0
     },
     "keywords": [
@@ -29804,6 +29804,13 @@
             "name": "CoFiX",
             "symbol": "COFI",
             "address": "0x39843519dD0028632f57b15f991fA0D151C0fB3a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DefiToolMoon",
+            "symbol": "DFIM",
+            "address": "0x18E5e5e84143A57e6695200497EE2bC55621f20A",
             "decimals": 18
         }
     ]
