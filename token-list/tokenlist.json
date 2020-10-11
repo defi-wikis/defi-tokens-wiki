@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:34:17.851Z",
+    "timestamp": "2020-10-11T17:36:12.688Z",
     "version": {
         "major": 1,
-        "minor": 5762,
+        "minor": 5763,
         "patch": 0
     },
     "keywords": [
@@ -30147,6 +30147,13 @@
             "name": "ok.dream",
             "symbol": "OKM",
             "address": "0x63B83448Eb2d022656d40642fcD4E2cF789dbc79",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gyudon.farm",
+            "symbol": "GYUD",
+            "address": "0x5Ed5D50F49fD9947ac1e2F97b64C4C24421A1133",
             "decimals": 18
         }
     ]
