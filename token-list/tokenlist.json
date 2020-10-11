@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T10:56:16.901Z",
+    "timestamp": "2020-10-11T10:59:39.660Z",
     "version": {
         "major": 1,
-        "minor": 5682,
+        "minor": 5683,
         "patch": 0
     },
     "keywords": [
@@ -29588,6 +29588,13 @@
             "symbol": "SRIT",
             "address": "0xBec66B0ab8e6a321C39560F6F4B509a5b50be681",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Star Coin",
+            "symbol": "SC",
+            "address": "0x6F878C85E1164aAca36AFc2E3839639082781E26",
+            "decimals": 18
         }
     ]
 }
