@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T04:48:10.511Z",
+    "timestamp": "2020-10-11T04:49:50.524Z",
     "version": {
         "major": 1,
-        "minor": 5647,
+        "minor": 5648,
         "patch": 0
     },
     "keywords": [
@@ -29342,6 +29342,13 @@
             "name": "liquity.org",
             "symbol": "LQTY",
             "address": "0x0D55773FDF2FDE6Eee89288584341d4d3AC30712",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MOO Finance",
+            "symbol": "MOO",
+            "address": "0x042D66554c7D94985CCfc92A0532F7E61CeD7501",
             "decimals": 18
         }
     ]
