@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:15:59.997Z",
+    "timestamp": "2020-10-11T20:17:34.996Z",
     "version": {
         "major": 1,
-        "minor": 5798,
+        "minor": 5799,
         "patch": 0
     },
     "keywords": [
@@ -30399,6 +30399,13 @@
             "name": "CoreVault",
             "symbol": "CORV",
             "address": "0x12114172FDe783Fa26d2B865cc61b354cdB45bD3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Frogger",
+            "symbol": "FRGR",
+            "address": "0xB811e413920E4A4aD32d41c0Ee34cb2A14873691",
             "decimals": 18
         }
     ]
