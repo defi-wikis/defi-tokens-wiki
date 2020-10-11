@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T07:00:22.222Z",
+    "timestamp": "2020-10-11T07:06:40.154Z",
     "version": {
         "major": 1,
-        "minor": 5661,
+        "minor": 5662,
         "patch": 0
     },
     "keywords": [
@@ -29440,6 +29440,13 @@
             "name": "Friendship Coin",
             "symbol": "FSC",
             "address": "0x776F8117498dCc845e25881C14Af6A9151FCE99e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Domain Specific Language",
+            "symbol": "DSL",
+            "address": "0xE7195E246A9a17C10DFbb6898b90F29055f4444F",
             "decimals": 18
         }
     ]
