@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T22:16:50.758Z",
+    "timestamp": "2020-10-11T22:41:08.452Z",
     "version": {
         "major": 1,
-        "minor": 5808,
+        "minor": 5809,
         "patch": 0
     },
     "keywords": [
@@ -30470,6 +30470,13 @@
             "symbol": "FRXT3",
             "address": "0xE81FddC688642a0C58Fa78eD036709E300C3Eb23",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap Side Chain",
+            "symbol": "USC",
+            "address": "0x74A01B20163FC4143d5baab511Cc2E53a74a2a02",
+            "decimals": 18
         }
     ]
 }
