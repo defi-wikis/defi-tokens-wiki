@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T10:45:19.982Z",
+    "timestamp": "2020-10-11T10:45:50.702Z",
     "version": {
         "major": 1,
-        "minor": 5680,
+        "minor": 5681,
         "patch": 0
     },
     "keywords": [
@@ -29573,6 +29573,13 @@
             "name": "Venus Network",
             "symbol": "VNK",
             "address": "0x605a40dad055eeD0b31D8C8435cebdC1393bA9Cb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RAULITO",
+            "symbol": "RAUL",
+            "address": "0xAFb203574bc33e88A870618903FA864118Db7088",
             "decimals": 18
         }
     ]
