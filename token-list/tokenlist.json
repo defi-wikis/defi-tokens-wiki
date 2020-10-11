@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T07:38:46.564Z",
+    "timestamp": "2020-10-11T07:41:20.196Z",
     "version": {
         "major": 1,
-        "minor": 5664,
+        "minor": 5665,
         "patch": 0
     },
     "keywords": [
@@ -29462,6 +29462,13 @@
             "symbol": "LTT",
             "address": "0x5F6bb887C9A4609078A01B2832f37D0F96Fe762f",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "DEUS Finance",
+            "symbol": "DEUS",
+            "address": "0xdf4BBF8a1005e7E6738259c4Ed6225Bd62Dd1189",
+            "decimals": 18
         }
     ]
 }
