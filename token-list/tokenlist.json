@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:21:54.944Z",
+    "timestamp": "2020-10-11T16:23:35.950Z",
     "version": {
         "major": 1,
-        "minor": 5746,
+        "minor": 5747,
         "patch": 0
     },
     "keywords": [
@@ -30036,6 +30036,13 @@
             "symbol": "RIOP",
             "address": "0x8272c3917cCc842bCF645b732eFA832C17C17827",
             "decimals": 12
+        },
+        {
+            "chainId": 1,
+            "name": "WAND MOON",
+            "symbol": "WAND",
+            "address": "0x3922417EBEaE0cEcb6f1fd82F0700c570bd78bDE",
+            "decimals": 8
         }
     ]
 }
