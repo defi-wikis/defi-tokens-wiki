@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T06:56:30.752Z",
+    "timestamp": "2020-10-11T07:00:22.222Z",
     "version": {
         "major": 1,
-        "minor": 5660,
+        "minor": 5661,
         "patch": 0
     },
     "keywords": [
@@ -29433,6 +29433,13 @@
             "name": "WirelessRouter",
             "symbol": "WRT",
             "address": "0xA02F658a470dE033d2b945B394903f592D368c34",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Friendship Coin",
+            "symbol": "FSC",
+            "address": "0x776F8117498dCc845e25881C14Af6A9151FCE99e",
             "decimals": 18
         }
     ]
