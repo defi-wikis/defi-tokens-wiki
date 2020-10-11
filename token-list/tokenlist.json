@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T07:15:55.463Z",
+    "timestamp": "2020-10-11T07:38:46.564Z",
     "version": {
         "major": 1,
-        "minor": 5663,
+        "minor": 5664,
         "patch": 0
     },
     "keywords": [
@@ -29455,6 +29455,13 @@
             "symbol": "YFR",
             "address": "0x8013964A071E6004AaCD14ce19B31eb5F68a65dB",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LiteToken",
+            "symbol": "LTT",
+            "address": "0x5F6bb887C9A4609078A01B2832f37D0F96Fe762f",
+            "decimals": 8
         }
     ]
 }
