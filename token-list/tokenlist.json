@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T02:19:40.276Z",
+    "timestamp": "2020-10-11T02:20:41.128Z",
     "version": {
         "major": 1,
-        "minor": 5625,
+        "minor": 5626,
         "patch": 0
     },
     "keywords": [
@@ -29188,6 +29188,13 @@
             "name": "Dandy.Dego",
             "symbol": "DANDY",
             "address": "0xA0F799137C07ea6Eec4697548998a4d1077bDd50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "hathor.network",
+            "symbol": "HTR",
+            "address": "0x32760aaA3faFD9D80b15Af0867455d0E40A3d11F",
             "decimals": 18
         }
     ]
