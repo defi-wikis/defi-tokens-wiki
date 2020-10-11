@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T04:49:50.524Z",
+    "timestamp": "2020-10-11T04:55:44.984Z",
     "version": {
         "major": 1,
-        "minor": 5648,
+        "minor": 5649,
         "patch": 0
     },
     "keywords": [
@@ -29349,6 +29349,13 @@
             "name": "MOO Finance",
             "symbol": "MOO",
             "address": "0x042D66554c7D94985CCfc92A0532F7E61CeD7501",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "daofi.finance",
+            "symbol": "DAOFI",
+            "address": "0xF3802f89F0CEF5AE466091C4724d1979d6795725",
             "decimals": 18
         }
     ]
