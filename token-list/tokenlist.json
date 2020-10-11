@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T07:06:40.154Z",
+    "timestamp": "2020-10-11T07:15:55.463Z",
     "version": {
         "major": 1,
-        "minor": 5662,
+        "minor": 5663,
         "patch": 0
     },
     "keywords": [
@@ -29447,6 +29447,13 @@
             "name": "Domain Specific Language",
             "symbol": "DSL",
             "address": "0xE7195E246A9a17C10DFbb6898b90F29055f4444F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFarmer",
+            "symbol": "YFR",
+            "address": "0x8013964A071E6004AaCD14ce19B31eb5F68a65dB",
             "decimals": 18
         }
     ]
