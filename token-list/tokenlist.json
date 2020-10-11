@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T08:42:49.926Z",
+    "timestamp": "2020-10-11T08:57:31.386Z",
     "version": {
         "major": 1,
-        "minor": 5670,
+        "minor": 5671,
         "patch": 0
     },
     "keywords": [
@@ -29504,6 +29504,13 @@
             "symbol": "PKGX",
             "address": "0x70F823ed7643Fd7A26FDf8753827d31C16374FDE",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PAKIYEAH",
+            "symbol": "PAKI",
+            "address": "0xB1bAdB3f5b5E4737E1704C0c2A0F30C3E61aecb9",
+            "decimals": 3
         }
     ]
 }
