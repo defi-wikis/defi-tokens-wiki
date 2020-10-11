@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T23:24:44.998Z",
+    "timestamp": "2020-10-11T23:25:31.893Z",
     "version": {
         "major": 1,
-        "minor": 5816,
+        "minor": 5817,
         "patch": 0
     },
     "keywords": [
@@ -30525,6 +30525,13 @@
             "name": "AlphaToken",
             "symbol": "ALPHA",
             "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LTX @ Lattice.Exchange",
+            "symbol": "LTX",
+            "address": "0x55e37905fAbc8B00423fc908716795DA806ded1F",
             "decimals": 18
         }
     ]
