@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T02:08:24.845Z",
+    "timestamp": "2020-10-11T02:19:40.276Z",
     "version": {
         "major": 1,
-        "minor": 5624,
+        "minor": 5625,
         "patch": 0
     },
     "keywords": [
@@ -29181,6 +29181,13 @@
             "name": "ZUSE finance",
             "symbol": "ZUSE",
             "address": "0xAc2673328Fc97a072643FC4fC523D7Bd22C3e823",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dandy.Dego",
+            "symbol": "DANDY",
+            "address": "0xA0F799137C07ea6Eec4697548998a4d1077bDd50",
             "decimals": 18
         }
     ]
