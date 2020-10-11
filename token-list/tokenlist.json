@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T00:08:25.112Z",
+    "timestamp": "2020-10-11T00:16:08.526Z",
     "version": {
         "major": 1,
-        "minor": 5614,
+        "minor": 5615,
         "patch": 0
     },
     "keywords": [
@@ -29111,6 +29111,13 @@
             "name": "Cardano Side Chain",
             "symbol": "ADAS",
             "address": "0xa40C51772f28467628a081CaF8a1dad64E4b6905",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pepemon",
+            "symbol": "PPBLZ",
+            "address": "0x3B8C26A6C4B0E2D4d99a2e177fD06c3d5BCfACa6",
             "decimals": 18
         }
     ]
