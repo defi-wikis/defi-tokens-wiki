@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:08:08.680Z",
+    "timestamp": "2020-10-11T20:08:16.520Z",
     "version": {
         "major": 1,
-        "minor": 5795,
+        "minor": 5796,
         "patch": 0
     },
     "keywords": [
@@ -30378,6 +30378,13 @@
             "name": "Kore",
             "symbol": "KORE",
             "address": "0xA866F0198208Eb07c83081d5136BE7f775c2399e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GEN.FINANCE",
+            "symbol": "GEN",
+            "address": "0x81FA23d719271022C036F725F7ea841E5612b408",
             "decimals": 18
         }
     ]
