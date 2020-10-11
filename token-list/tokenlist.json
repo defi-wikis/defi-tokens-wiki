@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T01:46:50.301Z",
+    "timestamp": "2020-10-11T01:51:44.717Z",
     "version": {
         "major": 1,
-        "minor": 5621,
+        "minor": 5622,
         "patch": 0
     },
     "keywords": [
@@ -29160,6 +29160,13 @@
             "name": "Seal.Finance",
             "symbol": "SEAL",
             "address": "0x483A2CbeFBa9761Ec5F8D6a7180e1dB8E0E41C4E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoonFuel",
+            "symbol": "MOONFUEL",
+            "address": "0x8b4E1De53F310648B07D1ACE328Fa2BEaef0405a",
             "decimals": 18
         }
     ]
