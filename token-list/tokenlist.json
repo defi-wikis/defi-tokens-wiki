@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T15:57:02.248Z",
+    "timestamp": "2020-10-11T16:00:18.266Z",
     "version": {
         "major": 1,
-        "minor": 5741,
+        "minor": 5742,
         "patch": 0
     },
     "keywords": [
@@ -30000,6 +30000,13 @@
             "name": "Directional Movement Index",
             "symbol": "DMI",
             "address": "0xd421eAc84125FA95aE457286fE0E817d1A716665",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DCORE",
+            "symbol": "DCORE",
+            "address": "0x157D3a0E047400423ae0edf2b4a24447972eAbDb",
             "decimals": 18
         }
     ]
