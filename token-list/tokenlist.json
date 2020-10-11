@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:08:55.621Z",
+    "timestamp": "2020-10-11T14:11:45.482Z",
     "version": {
         "major": 1,
-        "minor": 5720,
+        "minor": 5721,
         "patch": 0
     },
     "keywords": [
@@ -29853,6 +29853,13 @@
             "name": "Social Rocket",
             "symbol": "ROCKS",
             "address": "0x6cE1E3595aa2BF0e69544518b8893312BaeC256D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yPixel.Finance",
+            "symbol": "PXL",
+            "address": "0xc9A77Cd890AdE6c9daD496540120791F5977Fe20",
             "decimals": 18
         }
     ]
