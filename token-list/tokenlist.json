@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:05:40.473Z",
+    "timestamp": "2020-10-11T13:06:09.636Z",
     "version": {
         "major": 1,
-        "minor": 5705,
+        "minor": 5706,
         "patch": 0
     },
     "keywords": [
@@ -29749,6 +29749,13 @@
             "symbol": "FYF",
             "address": "0x229Da872cecA49d039ae5bAe7541e6C9972b6cCB",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nerve Network",
+            "symbol": "NVT",
+            "address": "0xccacbf21783E10D4003056Af4973A8c3Fb638154",
+            "decimals": 8
         }
     ]
 }
