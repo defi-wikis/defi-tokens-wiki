@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:56:21.831Z",
+    "timestamp": "2020-10-11T14:59:20.328Z",
     "version": {
         "major": 1,
-        "minor": 5730,
+        "minor": 5731,
         "patch": 0
     },
     "keywords": [
@@ -29923,6 +29923,13 @@
             "name": "SpaceXY Finance",
             "symbol": "SXYFI",
             "address": "0x6ca5711d61cDbBD03758BeDf0260dD1Ae5BC26D4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Peace Coin",
+            "symbol": "PC",
+            "address": "0x5420c41140250C2dE29d39650901aC30E4A7E83e",
             "decimals": 18
         }
     ]
