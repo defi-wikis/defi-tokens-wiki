@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T12:09:03.490Z",
+    "timestamp": "2020-10-11T12:11:03.586Z",
     "version": {
         "major": 1,
-        "minor": 5698,
+        "minor": 5699,
         "patch": 0
     },
     "keywords": [
@@ -29699,6 +29699,13 @@
             "name": "Chad",
             "symbol": "CHAD",
             "address": "0x5C888fA2e6f9f0880321683D1eFA12e936fD5051",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Harmony Coin",
+            "symbol": "HC",
+            "address": "0x9DEBa28b3Ed071F4C8F42FAa5Da24fB09f05A4e6",
             "decimals": 18
         }
     ]
