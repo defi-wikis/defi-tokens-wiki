@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T21:48:35.585Z",
+    "timestamp": "2020-10-11T21:53:49.785Z",
     "version": {
         "major": 1,
-        "minor": 5806,
+        "minor": 5807,
         "patch": 0
     },
     "keywords": [
@@ -30455,6 +30455,13 @@
             "name": "BUDDY",
             "symbol": "BUD",
             "address": "0x146C2c0E2b919C4cCD7E3507F6FDE30b21529AC5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "daofi.finance",
+            "symbol": "DAOfi",
+            "address": "0x6e4B3131F6904211e6Af72138A47A0C7a4C8cA72",
             "decimals": 18
         }
     ]
