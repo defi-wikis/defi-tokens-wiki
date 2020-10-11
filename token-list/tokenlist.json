@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:23:46.718Z",
+    "timestamp": "2020-10-11T19:33:03.503Z",
     "version": {
         "major": 1,
-        "minor": 5782,
+        "minor": 5783,
         "patch": 0
     },
     "keywords": [
@@ -30287,6 +30287,13 @@
             "name": "DragonFinance",
             "symbol": "DRGN",
             "address": "0x3Dc3B3d0859fe7f56A82EEc3EfdeA169494ee74D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DokoFinance",
+            "symbol": "DOKO",
+            "address": "0x8904CC77cA079237014dC92097f31841361Fd004",
             "decimals": 18
         }
     ]
