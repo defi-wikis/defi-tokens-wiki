@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:55:25.825Z",
+    "timestamp": "2020-10-11T21:18:14.831Z",
     "version": {
         "major": 1,
-        "minor": 5803,
+        "minor": 5804,
         "patch": 0
     },
     "keywords": [
@@ -30434,6 +30434,13 @@
             "name": "Core Relaunch",
             "symbol": "CORER",
             "address": "0xEc07857510Aa7Dde3ABCA3c369058815d6318d75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "0xCore",
+            "symbol": "\f",
+            "address": "0x430eA853d742BA88852f0AdCe597d716099E6bf8",
             "decimals": 18
         }
     ]
