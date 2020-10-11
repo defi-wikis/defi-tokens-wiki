@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T07:43:10.401Z",
+    "timestamp": "2020-10-11T07:59:40.418Z",
     "version": {
         "major": 1,
-        "minor": 5666,
+        "minor": 5667,
         "patch": 0
     },
     "keywords": [
@@ -29475,6 +29475,13 @@
             "name": "Dget finance",
             "symbol": "DGET",
             "address": "0xb0806A30b9a30A2186a0ca58d8219689Ac84656A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HIZ Finance",
+            "symbol": "HIZ",
+            "address": "0xc761D1ccb38a94703675d2cDb15F7F1B3dcFF7B7",
             "decimals": 18
         }
     ]
