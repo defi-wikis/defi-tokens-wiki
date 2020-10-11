@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T21:18:14.831Z",
+    "timestamp": "2020-10-11T21:34:40.950Z",
     "version": {
         "major": 1,
-        "minor": 5804,
+        "minor": 5805,
         "patch": 0
     },
     "keywords": [
@@ -30441,6 +30441,13 @@
             "name": "0xCore",
             "symbol": "\f",
             "address": "0x430eA853d742BA88852f0AdCe597d716099E6bf8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoreVIP",
+            "symbol": "CORP",
+            "address": "0x038Ee3f6534fCB5a6b876b346EfB18A797BCa3ED",
             "decimals": 18
         }
     ]
