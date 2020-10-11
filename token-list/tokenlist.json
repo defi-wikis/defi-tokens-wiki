@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T07:59:40.418Z",
+    "timestamp": "2020-10-11T08:01:35.332Z",
     "version": {
         "major": 1,
-        "minor": 5667,
+        "minor": 5668,
         "patch": 0
     },
     "keywords": [
@@ -29482,6 +29482,13 @@
             "name": "HIZ Finance",
             "symbol": "HIZ",
             "address": "0xc761D1ccb38a94703675d2cDb15F7F1B3dcFF7B7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Klever",
+            "symbol": "KLV",
+            "address": "0x22d04af8Ca0a2517d4D9bcDd8e672e8B806BDD4F",
             "decimals": 18
         }
     ]
