@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T21:34:40.950Z",
+    "timestamp": "2020-10-11T21:48:35.585Z",
     "version": {
         "major": 1,
-        "minor": 5805,
+        "minor": 5806,
         "patch": 0
     },
     "keywords": [
@@ -30448,6 +30448,13 @@
             "name": "CoreVIP",
             "symbol": "CORP",
             "address": "0x038Ee3f6534fCB5a6b876b346EfB18A797BCa3ED",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BUDDY",
+            "symbol": "BUD",
+            "address": "0x146C2c0E2b919C4cCD7E3507F6FDE30b21529AC5",
             "decimals": 18
         }
     ]
