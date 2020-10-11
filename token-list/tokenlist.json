@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T06:15:40.860Z",
+    "timestamp": "2020-10-11T06:24:20.809Z",
     "version": {
         "major": 1,
-        "minor": 5655,
+        "minor": 5656,
         "patch": 0
     },
     "keywords": [
@@ -29398,6 +29398,13 @@
             "name": "UniLend Finance Token",
             "symbol": "UFT",
             "address": "0xb371f14a5254932cbF6fD7D1DDCB98C543626005",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EHS",
+            "symbol": "EHS",
+            "address": "0xE5ca68B3cA2e219085914cD2a78f801C2D5EE29a",
             "decimals": 18
         }
     ]
