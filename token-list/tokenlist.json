@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:30:23.067Z",
+    "timestamp": "2020-10-11T03:44:15.692Z",
     "version": {
         "major": 1,
-        "minor": 5638,
+        "minor": 5639,
         "patch": 0
     },
     "keywords": [
@@ -29279,6 +29279,13 @@
             "name": "FarmerToken",
             "symbol": "BAY",
             "address": "0x048f43402b2fB294f363E1D8E9f49474B9fc6Af1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "COREI",
+            "symbol": "COREI",
+            "address": "0x55F05A9572f64a14aD5B0e10B0e43adCf698Fe14",
             "decimals": 18
         }
     ]
