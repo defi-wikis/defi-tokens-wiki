@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T09:11:30.444Z",
+    "timestamp": "2020-10-11T09:30:19.291Z",
     "version": {
         "major": 1,
-        "minor": 5673,
+        "minor": 5674,
         "patch": 0
     },
     "keywords": [
@@ -29524,6 +29524,13 @@
             "name": "Ethereum Gold Finance",
             "symbol": "ETGF",
             "address": "0xd2C4af229728f7ca798b1e2dCee9714efD3CF119",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KIRA.Network",
+            "symbol": "KIRA",
+            "address": "0x5F5B860b105630bc5c0730342A39e17a74fF4337",
             "decimals": 18
         }
     ]
