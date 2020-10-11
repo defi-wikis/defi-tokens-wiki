@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:18:44.953Z",
+    "timestamp": "2020-10-11T13:25:45.188Z",
     "version": {
         "major": 1,
-        "minor": 5710,
+        "minor": 5711,
         "patch": 0
     },
     "keywords": [
@@ -29783,6 +29783,13 @@
             "name": "FileCoin",
             "symbol": "FIL",
             "address": "0xac395F04a0FA837D102e77Ec512f37E495DE000C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Uniswap Foundation",
+            "symbol": "EUF",
+            "address": "0xe627292D6c3BE0453f44E893E7C1c3EC5b53D892",
             "decimals": 18
         }
     ]
