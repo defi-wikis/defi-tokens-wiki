@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T21:53:49.785Z",
+    "timestamp": "2020-10-11T22:16:50.758Z",
     "version": {
         "major": 1,
-        "minor": 5807,
+        "minor": 5808,
         "patch": 0
     },
     "keywords": [
@@ -30463,6 +30463,13 @@
             "symbol": "DAOfi",
             "address": "0x6e4B3131F6904211e6Af72138A47A0C7a4C8cA72",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "FREXA ERC-1404 Test3",
+            "symbol": "FRXT3",
+            "address": "0xE81FddC688642a0C58Fa78eD036709E300C3Eb23",
+            "decimals": 0
         }
     ]
 }
