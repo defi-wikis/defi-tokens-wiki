@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T18:59:59.801Z",
+    "timestamp": "2020-10-11T19:03:51.831Z",
     "version": {
         "major": 1,
-        "minor": 5775,
+        "minor": 5776,
         "patch": 0
     },
     "keywords": [
@@ -30238,6 +30238,13 @@
             "name": "SUS COIN",
             "symbol": "SCAM",
             "address": "0x1B66A2c00E4EE23Ad0b2Dc4B0B5E396AA8589897",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Parametrica",
+            "symbol": "PARAM",
+            "address": "0xE051D159280e0f60ba2239E143a5903A4F0B3095",
             "decimals": 18
         }
     ]
