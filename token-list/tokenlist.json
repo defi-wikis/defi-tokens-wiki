@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:05:26.926Z",
+    "timestamp": "2020-10-11T17:08:59.894Z",
     "version": {
         "major": 1,
-        "minor": 5753,
+        "minor": 5754,
         "patch": 0
     },
     "keywords": [
@@ -30084,6 +30084,13 @@
             "name": "team.finance",
             "symbol": "TEAM",
             "address": "0x2000ECF9CFa5949d942E9a8546D6cCB2f771D4bC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Decraft Finance",
+            "symbol": "CRAFT",
+            "address": "0x408b75131e4BcAc7f9955A38658b5CB7F810f037",
             "decimals": 18
         }
     ]
