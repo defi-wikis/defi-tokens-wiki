@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T00:39:44.758Z",
+    "timestamp": "2020-10-11T01:16:31.585Z",
     "version": {
         "major": 1,
-        "minor": 5617,
+        "minor": 5618,
         "patch": 0
     },
     "keywords": [
@@ -29132,6 +29132,13 @@
             "name": "XRP Proof of Stake Chain",
             "symbol": "XRPc",
             "address": "0x515b0D709bF5930E4057Cd3b9110d6BA60E8e015",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfKirby",
+            "symbol": "YFK",
+            "address": "0xF1B94429B016B6c4c580Ba1f6Ec6ad7256418C0B",
             "decimals": 18
         }
     ]
