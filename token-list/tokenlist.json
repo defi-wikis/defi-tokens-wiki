@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:20:46.113Z",
+    "timestamp": "2020-10-11T14:24:09.329Z",
     "version": {
         "major": 1,
-        "minor": 5724,
+        "minor": 5725,
         "patch": 0
     },
     "keywords": [
@@ -29882,6 +29882,13 @@
             "symbol": "SSK",
             "address": "0x8e7df021bb9287AE6CCF3F0bE751961835f2E7Cb",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiYieldProtocol",
+            "symbol": "DYP",
+            "address": "0x6843dA33A93185C2B586714C90f10c9B5e41Bb90",
+            "decimals": 18
         }
     ]
 }
