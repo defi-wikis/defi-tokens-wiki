@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T09:56:55.624Z",
+    "timestamp": "2020-10-11T10:10:25.026Z",
     "version": {
         "major": 1,
-        "minor": 5676,
+        "minor": 5677,
         "patch": 0
     },
     "keywords": [
@@ -29545,6 +29545,13 @@
             "name": "Yearn Finance Trading",
             "symbol": "YFIT",
             "address": "0x7d8e8321c9a9C47e6B7040aD862e27bb348013a3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EarnPiCoin",
+            "symbol": "EPC",
+            "address": "0xA30727104001Dbb928c29B25D4751ffc37824326",
             "decimals": 18
         }
     ]
