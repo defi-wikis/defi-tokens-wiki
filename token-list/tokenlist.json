@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T09:02:20.041Z",
+    "timestamp": "2020-10-11T09:11:30.444Z",
     "version": {
         "major": 1,
-        "minor": 5672,
+        "minor": 5673,
         "patch": 0
     },
     "keywords": [
@@ -29517,6 +29517,13 @@
             "name": "Uyty",
             "symbol": "UYTY",
             "address": "0xF0B277645e6DB1824781e98bFf456C1F4ec38d26",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Gold Finance",
+            "symbol": "ETGF",
+            "address": "0xd2C4af229728f7ca798b1e2dCee9714efD3CF119",
             "decimals": 18
         }
     ]
