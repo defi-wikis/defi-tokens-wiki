@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:19:31.379Z",
+    "timestamp": "2020-10-11T03:25:29.609Z",
     "version": {
         "major": 1,
-        "minor": 5635,
+        "minor": 5636,
         "patch": 0
     },
     "keywords": [
@@ -29258,6 +29258,13 @@
             "name": "najib finance",
             "symbol": "NJB1",
             "address": "0x29Ec46AEFF2239D594f2750D4c6D1AE76A20e317",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wojak.FEEL",
+            "symbol": "WOJAK",
+            "address": "0x22238ABf49534Cd90A84309cACe5c0952f68a9d6",
             "decimals": 18
         }
     ]
