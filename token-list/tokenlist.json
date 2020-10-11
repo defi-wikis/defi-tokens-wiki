@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:09:26.742Z",
+    "timestamp": "2020-10-11T19:09:30.359Z",
     "version": {
         "major": 1,
-        "minor": 5778,
+        "minor": 5779,
         "patch": 0
     },
     "keywords": [
@@ -30259,6 +30259,13 @@
             "name": "xBTC (Official)",
             "symbol": "xBTC",
             "address": "0x189051440Be8427705f3A1c1a8b133a33cE386c6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiner",
+            "symbol": "FIN",
+            "address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
             "decimals": 18
         }
     ]
