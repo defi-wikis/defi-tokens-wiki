@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:08:11.660Z",
+    "timestamp": "2020-10-11T13:10:15.729Z",
     "version": {
         "major": 1,
-        "minor": 5708,
+        "minor": 5709,
         "patch": 0
     },
     "keywords": [
@@ -29770,6 +29770,13 @@
             "symbol": "MGR",
             "address": "0xdDFb85B7d93FaE72563e7C7f2c4A41453E2c01D7",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Uni Rush",
+            "symbol": "UNIRUSH",
+            "address": "0xdE631deBcA492D597819A68412099b94328edC81",
+            "decimals": 18
         }
     ]
 }
