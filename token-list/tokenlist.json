@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T23:30:21.950Z",
+    "timestamp": "2020-10-11T23:46:37.508Z",
     "version": {
         "major": 1,
-        "minor": 5818,
+        "minor": 5819,
         "patch": 0
     },
     "keywords": [
@@ -30539,6 +30539,13 @@
             "name": "miki.finance",
             "symbol": "$MIKI",
             "address": "0xA3d37E1eD799589307B3Cd0fCB93168eaDbB18C2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Chopstick",
+            "symbol": "SUCH",
+            "address": "0x8Bbe6d72962e19C6A71bC8377094B6bb6E1448B3",
             "decimals": 18
         }
     ]
