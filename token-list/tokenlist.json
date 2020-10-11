@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:48:30.753Z",
+    "timestamp": "2020-10-11T19:50:38.256Z",
     "version": {
         "major": 1,
-        "minor": 5788,
+        "minor": 5789,
         "patch": 0
     },
     "keywords": [
@@ -30329,6 +30329,13 @@
             "name": "YearnCredits",
             "symbol": "YCRDS",
             "address": "0x206C86f34Ce9Bf9Bf5414346a23aEfC41D7Ddf33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LemonFinance",
+            "symbol": "LEMN",
+            "address": "0x8aF5f198650A47Bdb308B810Acabb13F75366dB0",
             "decimals": 18
         }
     ]
