@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:43:21.645Z",
+    "timestamp": "2020-10-11T11:59:44.733Z",
     "version": {
         "major": 1,
-        "minor": 5695,
+        "minor": 5696,
         "patch": 0
     },
     "keywords": [
@@ -29678,6 +29678,13 @@
             "name": "Dora Protocol",
             "symbol": "DORA",
             "address": "0x6bcCDcBe9D19d6A01F17B2dc612b79cC82088638",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GameSwap",
+            "symbol": "GSWAP",
+            "address": "0x170106BA4fF768F55674bBdAF7F43c4746195097",
             "decimals": 18
         }
     ]
