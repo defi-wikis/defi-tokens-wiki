@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:55:16.770Z",
+    "timestamp": "2020-10-11T14:03:07.610Z",
     "version": {
         "major": 1,
-        "minor": 5718,
+        "minor": 5719,
         "patch": 0
     },
     "keywords": [
@@ -29839,6 +29839,13 @@
             "name": "SHAKA.FINANCE",
             "symbol": "SHAKA",
             "address": "0x1DF7E69d7fFb8F9CC62148034265aA481e737517",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLend Finance",
+            "symbol": "UFT",
+            "address": "0x0787441C5E0ee933FaF8CD29de6Cc79341032aA8",
             "decimals": 18
         }
     ]
