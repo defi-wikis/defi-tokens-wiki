@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T18:22:08.727Z",
+    "timestamp": "2020-10-11T18:31:00.068Z",
     "version": {
         "major": 1,
-        "minor": 5772,
+        "minor": 5773,
         "patch": 0
     },
     "keywords": [
@@ -30217,6 +30217,13 @@
             "name": "YGOV.FINANCE",
             "symbol": "YGOV",
             "address": "0x4faeeA5d371aA84a44eb7f338671763753B4f333",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cream.finance",
+            "symbol": "Cream.finance",
+            "address": "0xC3a2fC2d79bF4CFd08389046F04f0B7078A5c1eD",
             "decimals": 18
         }
     ]
