@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:07:49.756Z",
+    "timestamp": "2020-10-11T20:08:08.680Z",
     "version": {
         "major": 1,
-        "minor": 5794,
+        "minor": 5795,
         "patch": 0
     },
     "keywords": [
@@ -30371,6 +30371,13 @@
             "name": "Clover42 Token",
             "symbol": "C42",
             "address": "0x08A840a446baD3269122aBE7f638D969A993Ee64",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Kore",
+            "symbol": "KORE",
+            "address": "0xA866F0198208Eb07c83081d5136BE7f775c2399e",
             "decimals": 18
         }
     ]
