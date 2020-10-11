@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:03:39.662Z",
+    "timestamp": "2020-10-11T20:07:49.756Z",
     "version": {
         "major": 1,
-        "minor": 5793,
+        "minor": 5794,
         "patch": 0
     },
     "keywords": [
@@ -30364,6 +30364,13 @@
             "name": "DCoreMAX",
             "symbol": "DCOR",
             "address": "0xa113a615a18534Ea056f9AC22B605eDc357E9Baf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Clover42 Token",
+            "symbol": "C42",
+            "address": "0x08A840a446baD3269122aBE7f638D969A993Ee64",
             "decimals": 18
         }
     ]
