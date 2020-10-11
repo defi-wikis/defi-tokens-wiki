@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T09:35:26.862Z",
+    "timestamp": "2020-10-11T09:56:55.624Z",
     "version": {
         "major": 1,
-        "minor": 5675,
+        "minor": 5676,
         "patch": 0
     },
     "keywords": [
@@ -29538,6 +29538,13 @@
             "name": "hfgffgfh",
             "symbol": "1145h4h1",
             "address": "0xfeCFF8a7788D8Eb157c3703b17238ab224086622",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Trading",
+            "symbol": "YFIT",
+            "address": "0x7d8e8321c9a9C47e6B7040aD862e27bb348013a3",
             "decimals": 18
         }
     ]
