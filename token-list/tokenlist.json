@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T04:14:41.896Z",
+    "timestamp": "2020-10-11T04:16:07.721Z",
     "version": {
         "major": 1,
-        "minor": 5644,
+        "minor": 5645,
         "patch": 0
     },
     "keywords": [
@@ -29321,6 +29321,13 @@
             "name": "Lsvdefi.finance",
             "symbol": "LFI",
             "address": "0x76Cd26b301d40b41fB5819ffADa0399271A00826",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NASA",
+            "symbol": "NASA",
+            "address": "0xfE8D06DD308Ea4b76CD06Ca658eE323fd718E7Ac",
             "decimals": 18
         }
     ]
