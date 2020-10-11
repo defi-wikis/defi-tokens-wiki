@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:39:34.612Z",
+    "timestamp": "2020-10-11T14:50:35.416Z",
     "version": {
         "major": 1,
-        "minor": 5727,
+        "minor": 5728,
         "patch": 0
     },
     "keywords": [
@@ -29903,6 +29903,13 @@
             "symbol": "BITS",
             "address": "0xB72627650F1149Ea5e54834b2f468E5d430E67bf",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0x5C47016E8A4A3c6a7C46A765f81DCe205D00393e",
+            "decimals": 18
         }
     ]
 }
