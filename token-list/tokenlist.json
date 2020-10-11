@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T08:07:45.690Z",
+    "timestamp": "2020-10-11T08:42:49.926Z",
     "version": {
         "major": 1,
-        "minor": 5669,
+        "minor": 5670,
         "patch": 0
     },
     "keywords": [
@@ -29496,6 +29496,13 @@
             "name": "Hessian Network",
             "symbol": "HSN",
             "address": "0x664A48CC8A9F2acC5Ef76831212BFC280F852068",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PKGX",
+            "symbol": "PKGX",
+            "address": "0x70F823ed7643Fd7A26FDf8753827d31C16374FDE",
             "decimals": 18
         }
     ]
