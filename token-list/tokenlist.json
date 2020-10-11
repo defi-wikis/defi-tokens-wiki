@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:59:20.328Z",
+    "timestamp": "2020-10-11T15:08:13.465Z",
     "version": {
         "major": 1,
-        "minor": 5731,
+        "minor": 5732,
         "patch": 0
     },
     "keywords": [
@@ -29930,6 +29930,13 @@
             "name": "Peace Coin",
             "symbol": "PC",
             "address": "0x5420c41140250C2dE29d39650901aC30E4A7E83e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pokepo.meme",
+            "symbol": "PKPM",
+            "address": "0xccEeBbB1382CFE4E97eAd128B1A50Fd96CF57bf7",
             "decimals": 18
         }
     ]
