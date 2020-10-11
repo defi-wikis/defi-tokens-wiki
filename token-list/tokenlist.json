@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:45:35.183Z",
+    "timestamp": "2020-10-11T19:46:50.120Z",
     "version": {
         "major": 1,
-        "minor": 5786,
+        "minor": 5787,
         "patch": 0
     },
     "keywords": [
@@ -30315,6 +30315,13 @@
             "name": "LeniFinance",
             "symbol": "LENI",
             "address": "0xa49E0d0fEEeA6fD97B2ea37baA0FdC5AD0b1C80b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "vidygold.finance",
+            "symbol": "VIDG",
+            "address": "0x3006aa99e6128b42FE43F5a82bC799dFb1752F98",
             "decimals": 18
         }
     ]
