@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T15:49:10.873Z",
+    "timestamp": "2020-10-11T15:51:45.411Z",
     "version": {
         "major": 1,
-        "minor": 5738,
+        "minor": 5739,
         "patch": 0
     },
     "keywords": [
@@ -29980,6 +29980,13 @@
             "symbol": "MOTION",
             "address": "0x8634F0689a502B3659f2b3c9E5650d365067B48A",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "BitcoinPro",
+            "symbol": "BTCP",
+            "address": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
+            "decimals": 8
         }
     ]
 }
