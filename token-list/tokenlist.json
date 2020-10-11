@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:17:29.804Z",
+    "timestamp": "2020-10-11T14:19:41.389Z",
     "version": {
         "major": 1,
-        "minor": 5722,
+        "minor": 5723,
         "patch": 0
     },
     "keywords": [
@@ -29867,6 +29867,13 @@
             "name": "yfarm.money",
             "symbol": "YFM",
             "address": "0xa532a37386880D08bC65F743e0A8Aa879ac5d7e3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Democracy Coin",
+            "symbol": "DC",
+            "address": "0xaf6853b68375b4763C48FC9aC84dfC5DbE06Fc9b",
             "decimals": 18
         }
     ]
