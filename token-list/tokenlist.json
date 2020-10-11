@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T04:16:55.426Z",
+    "timestamp": "2020-10-11T04:48:10.511Z",
     "version": {
         "major": 1,
-        "minor": 5646,
+        "minor": 5647,
         "patch": 0
     },
     "keywords": [
@@ -29335,6 +29335,13 @@
             "name": "ZFI Finance",
             "symbol": "$ZFI",
             "address": "0x2B047de61D0D7bf6839880811aB3Dc488Ad8e046",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "liquity.org",
+            "symbol": "LQTY",
+            "address": "0x0D55773FDF2FDE6Eee89288584341d4d3AC30712",
             "decimals": 18
         }
     ]
