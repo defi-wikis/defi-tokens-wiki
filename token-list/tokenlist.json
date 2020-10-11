@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:19:41.389Z",
+    "timestamp": "2020-10-11T14:20:46.113Z",
     "version": {
         "major": 1,
-        "minor": 5723,
+        "minor": 5724,
         "patch": 0
     },
     "keywords": [
@@ -29875,6 +29875,13 @@
             "symbol": "DC",
             "address": "0xaf6853b68375b4763C48FC9aC84dfC5DbE06Fc9b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SSK-SunStake",
+            "symbol": "SSK",
+            "address": "0x8e7df021bb9287AE6CCF3F0bE751961835f2E7Cb",
+            "decimals": 0
         }
     ]
 }
