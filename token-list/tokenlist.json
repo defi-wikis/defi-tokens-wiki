@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T12:33:12.062Z",
+    "timestamp": "2020-10-11T12:35:25.336Z",
     "version": {
         "major": 1,
-        "minor": 5701,
+        "minor": 5702,
         "patch": 0
     },
     "keywords": [
@@ -29720,6 +29720,13 @@
             "name": "DFS Finance",
             "symbol": "DFS",
             "address": "0xdAed913658Eed71F05b2597e225602Aa1dFf1697",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DarkHippoV2",
+            "symbol": "dHIPPOv2",
+            "address": "0x90135F6283786E9A9daD174a9A0D646339B7af7D",
             "decimals": 18
         }
     ]
