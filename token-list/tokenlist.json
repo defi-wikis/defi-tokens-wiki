@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T15:52:10.158Z",
+    "timestamp": "2020-10-11T15:57:02.248Z",
     "version": {
         "major": 1,
-        "minor": 5740,
+        "minor": 5741,
         "patch": 0
     },
     "keywords": [
@@ -29993,6 +29993,13 @@
             "name": "Simpson Finance",
             "symbol": "SIMF",
             "address": "0x18bfe544B09587b7f942ae2d3b106889a3C72f3E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Directional Movement Index",
+            "symbol": "DMI",
+            "address": "0xd421eAc84125FA95aE457286fE0E817d1A716665",
             "decimals": 18
         }
     ]
