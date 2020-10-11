@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T06:49:54.855Z",
+    "timestamp": "2020-10-11T06:54:59.828Z",
     "version": {
         "major": 1,
-        "minor": 5658,
+        "minor": 5659,
         "patch": 0
     },
     "keywords": [
@@ -29419,6 +29419,13 @@
             "name": "UniLayer",
             "symbol": "LAYER",
             "address": "0xce841AbB70F8385b78AfF7ce107e9E740A7454Ad",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped UTN",
+            "symbol": "WUTN",
+            "address": "0xd4e7A6E7f9aA5909036338a3C4cD57319d613190",
             "decimals": 18
         }
     ]
