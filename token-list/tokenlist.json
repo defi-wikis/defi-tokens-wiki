@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:52:11.388Z",
+    "timestamp": "2020-10-11T13:55:16.770Z",
     "version": {
         "major": 1,
-        "minor": 5717,
+        "minor": 5718,
         "patch": 0
     },
     "keywords": [
@@ -29832,6 +29832,13 @@
             "name": "YFHOT.FINANCE",
             "symbol": "YFH",
             "address": "0x742653976405CC1295e2390bE76c464D3025AeAF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SHAKA.FINANCE",
+            "symbol": "SHAKA",
+            "address": "0x1DF7E69d7fFb8F9CC62148034265aA481e737517",
             "decimals": 18
         }
     ]
