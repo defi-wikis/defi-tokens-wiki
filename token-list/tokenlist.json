@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T00:03:59.712Z",
+    "timestamp": "2020-10-11T00:08:25.112Z",
     "version": {
         "major": 1,
-        "minor": 5613,
+        "minor": 5614,
         "patch": 0
     },
     "keywords": [
@@ -29104,6 +29104,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x396Fd89795e1e75262A0cD1794dd26EfDf5f0164",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cardano Side Chain",
+            "symbol": "ADAS",
+            "address": "0xa40C51772f28467628a081CaF8a1dad64E4b6905",
             "decimals": 18
         }
     ]
