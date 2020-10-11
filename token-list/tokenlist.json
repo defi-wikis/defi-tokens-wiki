@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:08:25.331Z",
+    "timestamp": "2020-10-11T03:09:29.683Z",
     "version": {
         "major": 1,
-        "minor": 5633,
+        "minor": 5634,
         "patch": 0
     },
     "keywords": [
@@ -29244,6 +29244,13 @@
             "name": "GBPC",
             "symbol": "GBPC",
             "address": "0x7b3AD6001e6b1b8DD8C7fCF34Cd6087FB054017E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lucky Token",
+            "symbol": "LT",
+            "address": "0x39EEd06ab8A8AD0A5a3FFc165Ca5FD7f442D403b",
             "decimals": 18
         }
     ]
