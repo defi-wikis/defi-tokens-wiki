@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T12:35:25.336Z",
+    "timestamp": "2020-10-11T12:39:08.402Z",
     "version": {
         "major": 1,
-        "minor": 5702,
+        "minor": 5703,
         "patch": 0
     },
     "keywords": [
@@ -29727,6 +29727,13 @@
             "name": "DarkHippoV2",
             "symbol": "dHIPPOv2",
             "address": "0x90135F6283786E9A9daD174a9A0D646339B7af7D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lyra Finance",
+            "symbol": "LYRA",
+            "address": "0xD917287D0423BeB3D2f6620B6EAa590c80600658",
             "decimals": 18
         }
     ]
