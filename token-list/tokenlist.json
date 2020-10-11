@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T02:43:49.657Z",
+    "timestamp": "2020-10-11T02:46:02.628Z",
     "version": {
         "major": 1,
-        "minor": 5627,
+        "minor": 5628,
         "patch": 0
     },
     "keywords": [
@@ -29202,6 +29202,13 @@
             "name": "empowr",
             "symbol": "EMPR",
             "address": "0xe7D7b37e72510309Db27C460378f957B1B04Bd5d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "daofi.finance",
+            "symbol": "DAOfi",
+            "address": "0x803f443445e68Cd88F5200Bb71eA2A37418413F5",
             "decimals": 18
         }
     ]
