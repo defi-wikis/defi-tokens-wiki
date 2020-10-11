@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:03:51.831Z",
+    "timestamp": "2020-10-11T19:06:52.573Z",
     "version": {
         "major": 1,
-        "minor": 5776,
+        "minor": 5777,
         "patch": 0
     },
     "keywords": [
@@ -30245,6 +30245,13 @@
             "name": "Parametrica",
             "symbol": "PARAM",
             "address": "0xE051D159280e0f60ba2239E143a5903A4F0B3095",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BearFinance",
+            "symbol": "BEAR",
+            "address": "0x6ab3C097B4F0d959775FC9eBb196A8748B93EF3D",
             "decimals": 18
         }
     ]
