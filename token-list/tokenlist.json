@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T06:24:20.809Z",
+    "timestamp": "2020-10-11T06:26:54.565Z",
     "version": {
         "major": 1,
-        "minor": 5656,
+        "minor": 5657,
         "patch": 0
     },
     "keywords": [
@@ -29405,6 +29405,13 @@
             "name": "EHS",
             "symbol": "EHS",
             "address": "0xE5ca68B3cA2e219085914cD2a78f801C2D5EE29a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "juices.finance",
+            "symbol": "JSF",
+            "address": "0x37E4412C82a69aEc36C41d9f9EaA824f14a3822C",
             "decimals": 18
         }
     ]
