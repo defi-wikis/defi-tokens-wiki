@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T18:11:51.841Z",
+    "timestamp": "2020-10-11T18:22:08.727Z",
     "version": {
         "major": 1,
-        "minor": 5771,
+        "minor": 5772,
         "patch": 0
     },
     "keywords": [
@@ -30210,6 +30210,13 @@
             "name": "B One Payment",
             "symbol": "B1P",
             "address": "0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YGOV.FINANCE",
+            "symbol": "YGOV",
+            "address": "0x4faeeA5d371aA84a44eb7f338671763753B4f333",
             "decimals": 18
         }
     ]
