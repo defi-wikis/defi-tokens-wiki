@@ -1,0 +1,7 @@
+{
+    "name": "XRP Proof of Stake Chain",
+    "symbol": "XRPc",
+    "address": "0x515b0D709bF5930E4057Cd3b9110d6BA60E8e015",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
