@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T06:54:59.828Z",
+    "timestamp": "2020-10-11T06:56:30.752Z",
     "version": {
         "major": 1,
-        "minor": 5659,
+        "minor": 5660,
         "patch": 0
     },
     "keywords": [
@@ -29426,6 +29426,13 @@
             "name": "Wrapped UTN",
             "symbol": "WUTN",
             "address": "0xd4e7A6E7f9aA5909036338a3C4cD57319d613190",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WirelessRouter",
+            "symbol": "WRT",
+            "address": "0xA02F658a470dE033d2b945B394903f592D368c34",
             "decimals": 18
         }
     ]
