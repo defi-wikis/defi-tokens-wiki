@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:10:44.847Z",
+    "timestamp": "2020-10-11T11:10:59.881Z",
     "version": {
         "major": 1,
-        "minor": 5687,
+        "minor": 5688,
         "patch": 0
     },
     "keywords": [
@@ -29622,6 +29622,13 @@
             "name": "ZAC.Finance",
             "symbol": "ZAC",
             "address": "0xFde09A1811fDb0618f6fB33E791b45D6F0D26239",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DaoFi.Finance",
+            "symbol": "DAOFI",
+            "address": "0xE8Cb49faad52A5623Ba0AacDcA5239a7F95D5caF",
             "decimals": 18
         }
     ]
