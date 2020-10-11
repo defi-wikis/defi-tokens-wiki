@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:06:44.996Z",
+    "timestamp": "2020-10-11T13:08:11.660Z",
     "version": {
         "major": 1,
-        "minor": 5707,
+        "minor": 5708,
         "patch": 0
     },
     "keywords": [
@@ -29763,6 +29763,13 @@
             "symbol": "PSWAP",
             "address": "0x9AeEB96044d3eB81F1faC7f81e2A5CF89cf31ee6",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Maguro Token",
+            "symbol": "MGR",
+            "address": "0xdDFb85B7d93FaE72563e7C7f2c4A41453E2c01D7",
+            "decimals": 6
         }
     ]
 }
