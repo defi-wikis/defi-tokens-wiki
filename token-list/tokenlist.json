@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T01:35:15.796Z",
+    "timestamp": "2020-10-11T01:44:08.453Z",
     "version": {
         "major": 1,
-        "minor": 5619,
+        "minor": 5620,
         "patch": 0
     },
     "keywords": [
@@ -29146,6 +29146,13 @@
             "name": "Cobalt",
             "symbol": "CBLT",
             "address": "0x29a99c126596c0Dc96b02A88a9EAab44EcCf511e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TONG",
+            "symbol": "TONG",
+            "address": "0x799AdCEFFF848bd6F97575652aD715c76CBF7181",
             "decimals": 18
         }
     ]
