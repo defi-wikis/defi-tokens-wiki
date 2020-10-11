@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:33:50.259Z",
+    "timestamp": "2020-10-11T17:34:17.851Z",
     "version": {
         "major": 1,
-        "minor": 5761,
+        "minor": 5762,
         "patch": 0
     },
     "keywords": [
@@ -30140,6 +30140,13 @@
             "name": "cofix.io",
             "symbol": "COFI",
             "address": "0x5C6bf91a093CBFf43611b2E673b64e400704fA75",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ok.dream",
+            "symbol": "OKM",
+            "address": "0x63B83448Eb2d022656d40642fcD4E2cF789dbc79",
             "decimals": 18
         }
     ]
