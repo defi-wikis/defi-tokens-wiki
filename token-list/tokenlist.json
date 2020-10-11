@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:51:15.295Z",
+    "timestamp": "2020-10-11T20:01:04.055Z",
     "version": {
         "major": 1,
-        "minor": 5790,
+        "minor": 5791,
         "patch": 0
     },
     "keywords": [
@@ -30343,6 +30343,13 @@
             "name": "RAMP DEFI",
             "symbol": "RAMP",
             "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Moon Finance",
+            "symbol": "YMF",
+            "address": "0x60e3b24F12400BEaEC6E07627dE50726cA01087b",
             "decimals": 18
         }
     ]
