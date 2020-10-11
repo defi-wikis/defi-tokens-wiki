@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:00:18.266Z",
+    "timestamp": "2020-10-11T16:04:45.229Z",
     "version": {
         "major": 1,
-        "minor": 5742,
+        "minor": 5743,
         "patch": 0
     },
     "keywords": [
@@ -30007,6 +30007,13 @@
             "name": "DCORE",
             "symbol": "DCORE",
             "address": "0x157D3a0E047400423ae0edf2b4a24447972eAbDb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dream Train Internet",
+            "symbol": "DTI",
+            "address": "0xaBc9d725B3b14AB1F3efD850BC51eF8FEcB82E2C",
             "decimals": 18
         }
     ]
