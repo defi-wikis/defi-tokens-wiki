@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:13:34.882Z",
+    "timestamp": "2020-10-11T19:23:46.718Z",
     "version": {
         "major": 1,
-        "minor": 5781,
+        "minor": 5782,
         "patch": 0
     },
     "keywords": [
@@ -30280,6 +30280,13 @@
             "name": "WolfFinance",
             "symbol": "WOLF",
             "address": "0x1b4cd63e7f78d9Aa3643AC302bC2bAA716CE3A71",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DragonFinance",
+            "symbol": "DRGN",
+            "address": "0x3Dc3B3d0859fe7f56A82EEc3EfdeA169494ee74D",
             "decimals": 18
         }
     ]
