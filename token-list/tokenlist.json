@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:13:20.646Z",
+    "timestamp": "2020-10-11T11:15:46.028Z",
     "version": {
         "major": 1,
-        "minor": 5689,
+        "minor": 5690,
         "patch": 0
     },
     "keywords": [
@@ -29636,6 +29636,13 @@
             "name": "AngryHippoV2",
             "symbol": "aHIPPOv2",
             "address": "0xB01862D0830bCD7775a88625253d12d2c51A110a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoLevDotNet",
+            "symbol": "LEV",
+            "address": "0x3868Bd6e8b392EB8Dbc8Cdcd0c538dC66529ADbE",
             "decimals": 18
         }
     ]
