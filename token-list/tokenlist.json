@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:24:09.329Z",
+    "timestamp": "2020-10-11T14:38:06.784Z",
     "version": {
         "major": 1,
-        "minor": 5725,
+        "minor": 5726,
         "patch": 0
     },
     "keywords": [
@@ -29888,6 +29888,13 @@
             "name": "DeFiYieldProtocol",
             "symbol": "DYP",
             "address": "0x6843dA33A93185C2B586714C90f10c9B5e41Bb90",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Litecoin Uniswap",
+            "symbol": "LTCu",
+            "address": "0x0091d7884C375c148E5CD7607F463A5da2990B32",
             "decimals": 18
         }
     ]
