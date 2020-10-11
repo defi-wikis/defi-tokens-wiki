@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:59:02.306Z",
+    "timestamp": "2020-10-11T18:00:31.433Z",
     "version": {
         "major": 1,
-        "minor": 5767,
+        "minor": 5768,
         "patch": 0
     },
     "keywords": [
@@ -30182,6 +30182,13 @@
             "name": "LiniFinance",
             "symbol": "LINI",
             "address": "0xa1497239e031A58860603FC53e8138346E2699d5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hippo.Finance",
+            "symbol": "Hippo",
+            "address": "0x30DbB5e8118525Ef1ecDBE9589D6a3A57eFeFC18",
             "decimals": 18
         }
     ]
