@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:50:35.416Z",
+    "timestamp": "2020-10-11T14:54:26.190Z",
     "version": {
         "major": 1,
-        "minor": 5728,
+        "minor": 5729,
         "patch": 0
     },
     "keywords": [
@@ -29909,6 +29909,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0x5C47016E8A4A3c6a7C46A765f81DCe205D00393e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "persistence.one",
+            "symbol": "PERSISTENCE",
+            "address": "0x32FF8F754e3592Ac13B9ae69ef6E14813492792A",
             "decimals": 18
         }
     ]
