@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:07:35.165Z",
+    "timestamp": "2020-10-11T11:08:02.125Z",
     "version": {
         "major": 1,
-        "minor": 5685,
+        "minor": 5686,
         "patch": 0
     },
     "keywords": [
@@ -29608,6 +29608,13 @@
             "name": "NEO Wrapped",
             "symbol": "NEOw",
             "address": "0xF6276daf5580671D8D27D827E6CDf822D886c354",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "gCORE.finance",
+            "symbol": "GCORE",
+            "address": "0x9bFd2f674D18231F3279BCDd20eA88E62d956258",
             "decimals": 18
         }
     ]
