@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:38:43.365Z",
+    "timestamp": "2020-10-11T17:44:26.531Z",
     "version": {
         "major": 1,
-        "minor": 5764,
+        "minor": 5765,
         "patch": 0
     },
     "keywords": [
@@ -30161,6 +30161,13 @@
             "name": "nsure.network",
             "symbol": "NSURE",
             "address": "0xb48F0F9321f491a36CdB4a595211fC84179428Fa",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoreMAX",
+            "symbol": "CORM",
+            "address": "0xc27dbA88bD52b3c14af4c668A0118A3656804b99",
             "decimals": 18
         }
     ]
