@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:54:07.044Z",
+    "timestamp": "2020-10-11T03:54:31.129Z",
     "version": {
         "major": 1,
-        "minor": 5642,
+        "minor": 5643,
         "patch": 0
     },
     "keywords": [
@@ -29307,6 +29307,13 @@
             "name": "UNITED CORE",
             "symbol": "UCORE",
             "address": "0x52e3F3EDAdE06D516533AD679A3b8e061f3b22Ff",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unitrade",
+            "symbol": "TRADE",
+            "address": "0x777F0D696922c4cA15f9F5743B6F4fbc541171B1",
             "decimals": 18
         }
     ]
