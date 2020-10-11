@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:09:35.285Z",
+    "timestamp": "2020-10-11T19:13:34.882Z",
     "version": {
         "major": 1,
-        "minor": 5780,
+        "minor": 5781,
         "patch": 0
     },
     "keywords": [
@@ -30273,6 +30273,13 @@
             "name": "Burn The Cash",
             "symbol": "BASH",
             "address": "0xfd1Ad78718cd3705ebFbF9821821e99045A30e54",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WolfFinance",
+            "symbol": "WOLF",
+            "address": "0x1b4cd63e7f78d9Aa3643AC302bC2bAA716CE3A71",
             "decimals": 18
         }
     ]
