@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:06:56.233Z",
+    "timestamp": "2020-10-11T03:07:14.926Z",
     "version": {
         "major": 1,
-        "minor": 5631,
+        "minor": 5632,
         "patch": 0
     },
     "keywords": [
@@ -29230,6 +29230,13 @@
             "name": "DEA FINANCE",
             "symbol": "DEA",
             "address": "0x205E9656e0B21512158425CCA06Baa46d82fBaF5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnClassic.Finance",
+            "symbol": "YFIC",
+            "address": "0x215c6D1C235ffb887A961582F3841ff451455AC7",
             "decimals": 18
         }
     ]
