@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:54:26.190Z",
+    "timestamp": "2020-10-11T14:56:21.831Z",
     "version": {
         "major": 1,
-        "minor": 5729,
+        "minor": 5730,
         "patch": 0
     },
     "keywords": [
@@ -29916,6 +29916,13 @@
             "name": "persistence.one",
             "symbol": "PERSISTENCE",
             "address": "0x32FF8F754e3592Ac13B9ae69ef6E14813492792A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SpaceXY Finance",
+            "symbol": "SXYFI",
+            "address": "0x6ca5711d61cDbBD03758BeDf0260dD1Ae5BC26D4",
             "decimals": 18
         }
     ]
