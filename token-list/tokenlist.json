@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:28:16.151Z",
+    "timestamp": "2020-10-11T13:35:08.311Z",
     "version": {
         "major": 1,
-        "minor": 5712,
+        "minor": 5713,
         "patch": 0
     },
     "keywords": [
@@ -29797,6 +29797,13 @@
             "name": "First Time Yield",
             "symbol": "FTY",
             "address": "0xa86E51f13a5F8d981E7DCE5376E19c37A86D2f53",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoFiX",
+            "symbol": "COFI",
+            "address": "0x39843519dD0028632f57b15f991fA0D151C0fB3a",
             "decimals": 18
         }
     ]
