@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T05:17:51.247Z",
+    "timestamp": "2020-10-11T05:26:34.785Z",
     "version": {
         "major": 1,
-        "minor": 5651,
+        "minor": 5652,
         "patch": 0
     },
     "keywords": [
@@ -29370,6 +29370,13 @@
             "name": "COREI",
             "symbol": "COREI",
             "address": "0x5dE2E38F0DF05E1837266C21b9bb510609Ff9B5c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yMonster",
+            "symbol": "YMO",
+            "address": "0xbBc7BCE1AA459dfEb53E37d250FB3e326e5AC460",
             "decimals": 18
         }
     ]
