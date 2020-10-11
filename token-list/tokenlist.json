@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T07:41:20.196Z",
+    "timestamp": "2020-10-11T07:43:10.401Z",
     "version": {
         "major": 1,
-        "minor": 5665,
+        "minor": 5666,
         "patch": 0
     },
     "keywords": [
@@ -29468,6 +29468,13 @@
             "name": "DEUS Finance",
             "symbol": "DEUS",
             "address": "0xdf4BBF8a1005e7E6738259c4Ed6225Bd62Dd1189",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dget finance",
+            "symbol": "DGET",
+            "address": "0xb0806A30b9a30A2186a0ca58d8219689Ac84656A",
             "decimals": 18
         }
     ]
