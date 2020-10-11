@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T14:11:45.482Z",
+    "timestamp": "2020-10-11T14:17:29.804Z",
     "version": {
         "major": 1,
-        "minor": 5721,
+        "minor": 5722,
         "patch": 0
     },
     "keywords": [
@@ -29860,6 +29860,13 @@
             "name": "yPixel.Finance",
             "symbol": "PXL",
             "address": "0xc9A77Cd890AdE6c9daD496540120791F5977Fe20",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfarm.money",
+            "symbol": "YFM",
+            "address": "0xa532a37386880D08bC65F743e0A8Aa879ac5d7e3",
             "decimals": 18
         }
     ]
