@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T23:17:46.066Z",
+    "timestamp": "2020-10-11T23:23:12.214Z",
     "version": {
         "major": 1,
-        "minor": 5814,
+        "minor": 5815,
         "patch": 0
     },
     "keywords": [
@@ -30511,6 +30511,13 @@
             "name": "Core Relaunch",
             "symbol": "CORR",
             "address": "0x30Ee84D66673206ff48dCA59Ca463cb8c97Fc5Cc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pepemon",
+            "symbol": "PPBLZ",
+            "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
             "decimals": 18
         }
     ]
