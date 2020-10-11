@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-10T23:55:55.969Z",
+    "timestamp": "2020-10-11T00:03:59.712Z",
     "version": {
         "major": 1,
-        "minor": 5612,
+        "minor": 5613,
         "patch": 0
     },
     "keywords": [
@@ -29097,6 +29097,13 @@
             "name": "Kirby Is Innocent",
             "symbol": "KII",
             "address": "0x2F8703B2Ef8092aE0D596dc2FD595028bC6cce07",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x396Fd89795e1e75262A0cD1794dd26EfDf5f0164",
             "decimals": 18
         }
     ]
