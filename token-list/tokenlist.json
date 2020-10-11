@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:44:15.692Z",
+    "timestamp": "2020-10-11T03:45:18.713Z",
     "version": {
         "major": 1,
-        "minor": 5639,
+        "minor": 5640,
         "patch": 0
     },
     "keywords": [
@@ -29286,6 +29286,13 @@
             "name": "COREI",
             "symbol": "COREI",
             "address": "0x55F05A9572f64a14aD5B0e10B0e43adCf698Fe14",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SNTVT TOKEN",
+            "symbol": "SNTVT",
+            "address": "0xc8dddeFE5762A8C1377b78750799ed442B30C16F",
             "decimals": 18
         }
     ]
