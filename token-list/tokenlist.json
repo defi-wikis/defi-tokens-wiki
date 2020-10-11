@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T06:15:24.791Z",
+    "timestamp": "2020-10-11T06:15:40.860Z",
     "version": {
         "major": 1,
-        "minor": 5654,
+        "minor": 5655,
         "patch": 0
     },
     "keywords": [
@@ -29391,6 +29391,13 @@
             "name": "JurassicFarmFinance",
             "symbol": "JYFFI",
             "address": "0x37e11EdBa8bBc3a690fBCe984A4b757c81c5488A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLend Finance Token",
+            "symbol": "UFT",
+            "address": "0xb371f14a5254932cbF6fD7D1DDCB98C543626005",
             "decimals": 18
         }
     ]
