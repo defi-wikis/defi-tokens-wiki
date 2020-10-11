@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T08:01:35.332Z",
+    "timestamp": "2020-10-11T08:07:45.690Z",
     "version": {
         "major": 1,
-        "minor": 5668,
+        "minor": 5669,
         "patch": 0
     },
     "keywords": [
@@ -29489,6 +29489,13 @@
             "name": "Klever",
             "symbol": "KLV",
             "address": "0x22d04af8Ca0a2517d4D9bcDd8e672e8B806BDD4F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hessian Network",
+            "symbol": "HSN",
+            "address": "0x664A48CC8A9F2acC5Ef76831212BFC280F852068",
             "decimals": 18
         }
     ]
