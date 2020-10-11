@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T01:51:44.717Z",
+    "timestamp": "2020-10-11T02:04:08.504Z",
     "version": {
         "major": 1,
-        "minor": 5622,
+        "minor": 5623,
         "patch": 0
     },
     "keywords": [
@@ -29167,6 +29167,13 @@
             "name": "MoonFuel",
             "symbol": "MOONFUEL",
             "address": "0x8b4E1De53F310648B07D1ACE328Fa2BEaef0405a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "classic.hippo-finance.com",
+            "symbol": "HIPPO",
+            "address": "0x3FF73DD13f97e6B53Fc74972219E4729f81b656f",
             "decimals": 18
         }
     ]
