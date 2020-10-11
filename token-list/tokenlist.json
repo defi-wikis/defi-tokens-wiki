@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T11:03:36.385Z",
+    "timestamp": "2020-10-11T11:07:35.165Z",
     "version": {
         "major": 1,
-        "minor": 5684,
+        "minor": 5685,
         "patch": 0
     },
     "keywords": [
@@ -29601,6 +29601,13 @@
             "name": "Hot Lips Houlihan",
             "symbol": "HLH",
             "address": "0xfb925821eEF8DfaBe2788b322f436088650551cC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NEO Wrapped",
+            "symbol": "NEOw",
+            "address": "0xF6276daf5580671D8D27D827E6CDf822D886c354",
             "decimals": 18
         }
     ]
