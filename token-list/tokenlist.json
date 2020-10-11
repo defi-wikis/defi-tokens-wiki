@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T23:10:44.654Z",
+    "timestamp": "2020-10-11T23:14:55.029Z",
     "version": {
         "major": 1,
-        "minor": 5812,
+        "minor": 5813,
         "patch": 0
     },
     "keywords": [
@@ -30498,6 +30498,13 @@
             "symbol": "MM",
             "address": "0xcf0425a35f1FA900bb347Cb996D3094D1dF3Cd48",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "MIKI Finance",
+            "symbol": "MIKI",
+            "address": "0x0488a7b65e8A07Db4642A1cBe75434b4C4524026",
+            "decimals": 18
         }
     ]
 }
