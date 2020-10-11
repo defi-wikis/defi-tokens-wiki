@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T00:16:08.526Z",
+    "timestamp": "2020-10-11T00:38:50.619Z",
     "version": {
         "major": 1,
-        "minor": 5615,
+        "minor": 5616,
         "patch": 0
     },
     "keywords": [
@@ -29118,6 +29118,13 @@
             "name": "Pepemon",
             "symbol": "PPBLZ",
             "address": "0x3B8C26A6C4B0E2D4d99a2e177fD06c3d5BCfACa6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NYAN V2",
+            "symbol": "NYANV2",
+            "address": "0x91a08dFCcEDf91297E00f82e8ec6d8536d910Ef9",
             "decimals": 18
         }
     ]
