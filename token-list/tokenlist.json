@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T10:16:31.171Z",
+    "timestamp": "2020-10-11T10:45:19.982Z",
     "version": {
         "major": 1,
-        "minor": 5679,
+        "minor": 5680,
         "patch": 0
     },
     "keywords": [
@@ -29566,6 +29566,13 @@
             "name": "ADMX",
             "symbol": "ADMX",
             "address": "0xfF185a49ecea99608B5b248Ae3eaD1811DF94C33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Venus Network",
+            "symbol": "VNK",
+            "address": "0x605a40dad055eeD0b31D8C8435cebdC1393bA9Cb",
             "decimals": 18
         }
     ]
