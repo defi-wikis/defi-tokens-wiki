@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T06:26:54.565Z",
+    "timestamp": "2020-10-11T06:49:54.855Z",
     "version": {
         "major": 1,
-        "minor": 5657,
+        "minor": 5658,
         "patch": 0
     },
     "keywords": [
@@ -29412,6 +29412,13 @@
             "name": "juices.finance",
             "symbol": "JSF",
             "address": "0x37E4412C82a69aEc36C41d9f9EaA824f14a3822C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLayer",
+            "symbol": "LAYER",
+            "address": "0xce841AbB70F8385b78AfF7ce107e9E740A7454Ad",
             "decimals": 18
         }
     ]
