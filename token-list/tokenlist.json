@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:12:35.010Z",
+    "timestamp": "2020-10-11T17:16:14.874Z",
     "version": {
         "major": 1,
-        "minor": 5756,
+        "minor": 5757,
         "patch": 0
     },
     "keywords": [
@@ -30105,6 +30105,13 @@
             "name": "7Day.finance",
             "symbol": "7Day",
             "address": "0x8A0Cc55c455bf83Fed5549f1631D98F4505Fc142",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bibcock Coin",
+            "symbol": "BC",
+            "address": "0x4Bf577C38D4eDCd6992a3521AF75fa21AD49B27F",
             "decimals": 18
         }
     ]
