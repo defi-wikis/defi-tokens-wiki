@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:43:50.458Z",
+    "timestamp": "2020-10-11T13:46:45.369Z",
     "version": {
         "major": 1,
-        "minor": 5715,
+        "minor": 5716,
         "patch": 0
     },
     "keywords": [
@@ -29818,6 +29818,13 @@
             "name": "FUD.Finance",
             "symbol": "FUD",
             "address": "0x28ecB5B75EA220A0B5Fa182d927EDcAfCE1992A5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pikto group ",
+            "symbol": "PKP",
+            "address": "0x6A532b08c654A1A86069b74C560d8Fa0ff842218",
             "decimals": 18
         }
     ]
