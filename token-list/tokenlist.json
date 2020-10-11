@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T12:11:03.586Z",
+    "timestamp": "2020-10-11T12:32:59.949Z",
     "version": {
         "major": 1,
-        "minor": 5699,
+        "minor": 5700,
         "patch": 0
     },
     "keywords": [
@@ -29706,6 +29706,13 @@
             "name": "Harmony Coin",
             "symbol": "HC",
             "address": "0x9DEBa28b3Ed071F4C8F42FAa5Da24fB09f05A4e6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wojak.FEEL",
+            "symbol": "FEEL",
+            "address": "0x12Fff190563b1D1ba73C5bf9B665895978E20B9a",
             "decimals": 18
         }
     ]
