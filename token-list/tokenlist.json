@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T23:14:55.029Z",
+    "timestamp": "2020-10-11T23:17:46.066Z",
     "version": {
         "major": 1,
-        "minor": 5813,
+        "minor": 5814,
         "patch": 0
     },
     "keywords": [
@@ -30504,6 +30504,13 @@
             "name": "MIKI Finance",
             "symbol": "MIKI",
             "address": "0x0488a7b65e8A07Db4642A1cBe75434b4C4524026",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Relaunch",
+            "symbol": "CORR",
+            "address": "0x30Ee84D66673206ff48dCA59Ca463cb8c97Fc5Cc",
             "decimals": 18
         }
     ]
