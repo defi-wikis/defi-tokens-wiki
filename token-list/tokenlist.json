@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T19:46:50.120Z",
+    "timestamp": "2020-10-11T19:48:30.753Z",
     "version": {
         "major": 1,
-        "minor": 5787,
+        "minor": 5788,
         "patch": 0
     },
     "keywords": [
@@ -30322,6 +30322,13 @@
             "name": "vidygold.finance",
             "symbol": "VIDG",
             "address": "0x3006aa99e6128b42FE43F5a82bC799dFb1752F98",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnCredits",
+            "symbol": "YCRDS",
+            "address": "0x206C86f34Ce9Bf9Bf5414346a23aEfC41D7Ddf33",
             "decimals": 18
         }
     ]
