@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T01:44:08.453Z",
+    "timestamp": "2020-10-11T01:46:50.301Z",
     "version": {
         "major": 1,
-        "minor": 5620,
+        "minor": 5621,
         "patch": 0
     },
     "keywords": [
@@ -29153,6 +29153,13 @@
             "name": "TONG",
             "symbol": "TONG",
             "address": "0x799AdCEFFF848bd6F97575652aD715c76CBF7181",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Seal.Finance",
+            "symbol": "SEAL",
+            "address": "0x483A2CbeFBa9761Ec5F8D6a7180e1dB8E0E41C4E",
             "decimals": 18
         }
     ]
