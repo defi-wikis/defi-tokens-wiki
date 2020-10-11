@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:30:37.013Z",
+    "timestamp": "2020-10-11T16:30:41.496Z",
     "version": {
         "major": 1,
-        "minor": 5748,
+        "minor": 5749,
         "patch": 0
     },
     "keywords": [
@@ -30049,6 +30049,13 @@
             "name": "Nano Protocol",
             "symbol": "NANO",
             "address": "0x15CB0B9b4eD34189136D82e60CBe10bd6c9cdCcE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DokemonMemeFinance",
+            "symbol": "DOKE",
+            "address": "0xB1e0682cF555a5335B3D4c8F5b32c27cdeC74818",
             "decimals": 18
         }
     ]
