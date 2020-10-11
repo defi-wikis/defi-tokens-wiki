@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:10:31.353Z",
+    "timestamp": "2020-10-11T20:15:59.997Z",
     "version": {
         "major": 1,
-        "minor": 5797,
+        "minor": 5798,
         "patch": 0
     },
     "keywords": [
@@ -30392,6 +30392,13 @@
             "name": "UniStake",
             "symbol": "UNISTAKE",
             "address": "0x41B0325f8F54E52ADC6723122E59c34088a607d7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoreVault",
+            "symbol": "CORV",
+            "address": "0x12114172FDe783Fa26d2B865cc61b354cdB45bD3",
             "decimals": 18
         }
     ]
