@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T23:25:31.893Z",
+    "timestamp": "2020-10-11T23:30:21.950Z",
     "version": {
         "major": 1,
-        "minor": 5817,
+        "minor": 5818,
         "patch": 0
     },
     "keywords": [
@@ -30532,6 +30532,13 @@
             "name": "LTX @ Lattice.Exchange",
             "symbol": "LTX",
             "address": "0x55e37905fAbc8B00423fc908716795DA806ded1F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "miki.finance",
+            "symbol": "$MIKI",
+            "address": "0xA3d37E1eD799589307B3Cd0fCB93168eaDbB18C2",
             "decimals": 18
         }
     ]
