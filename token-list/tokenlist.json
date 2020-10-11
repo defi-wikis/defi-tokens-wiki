@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T17:36:12.688Z",
+    "timestamp": "2020-10-11T17:38:43.365Z",
     "version": {
         "major": 1,
-        "minor": 5763,
+        "minor": 5764,
         "patch": 0
     },
     "keywords": [
@@ -30154,6 +30154,13 @@
             "name": "Gyudon.farm",
             "symbol": "GYUD",
             "address": "0x5Ed5D50F49fD9947ac1e2F97b64C4C24421A1133",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "nsure.network",
+            "symbol": "NSURE",
+            "address": "0xb48F0F9321f491a36CdB4a595211fC84179428Fa",
             "decimals": 18
         }
     ]
