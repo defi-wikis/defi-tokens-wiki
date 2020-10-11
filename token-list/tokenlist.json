@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T13:06:09.636Z",
+    "timestamp": "2020-10-11T13:06:44.996Z",
     "version": {
         "major": 1,
-        "minor": 5706,
+        "minor": 5707,
         "patch": 0
     },
     "keywords": [
@@ -29756,6 +29756,13 @@
             "symbol": "NVT",
             "address": "0xccacbf21783E10D4003056Af4973A8c3Fb638154",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "PolkaSwap",
+            "symbol": "PSWAP",
+            "address": "0x9AeEB96044d3eB81F1faC7f81e2A5CF89cf31ee6",
+            "decimals": 18
         }
     ]
 }
