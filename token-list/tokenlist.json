@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T16:04:45.229Z",
+    "timestamp": "2020-10-11T16:06:04.049Z",
     "version": {
         "major": 1,
-        "minor": 5743,
+        "minor": 5744,
         "patch": 0
     },
     "keywords": [
@@ -30014,6 +30014,13 @@
             "name": "Dream Train Internet",
             "symbol": "DTI",
             "address": "0xaBc9d725B3b14AB1F3efD850BC51eF8FEcB82E2C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Simpson Finance",
+            "symbol": "SIMF",
+            "address": "0x47f335A1ba8C93c010F2757cD49eF1Bbf6a7C5A2",
             "decimals": 18
         }
     ]
