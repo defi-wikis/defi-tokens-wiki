@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T02:50:10.789Z",
+    "timestamp": "2020-10-11T02:51:10.166Z",
     "version": {
         "major": 1,
-        "minor": 5629,
+        "minor": 5630,
         "patch": 0
     },
     "keywords": [
@@ -29216,6 +29216,13 @@
             "name": "iyearn.finance/",
             "symbol": "IYFI",
             "address": "0x3d50b0bA1dd2B1865b71fB7FDfFeDCeD06a6cd51",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cNYAN Finance",
+            "symbol": "cNYAN",
+            "address": "0xBE369e6A2f735280d67ABb2097011e54dC2c50aB",
             "decimals": 18
         }
     ]
