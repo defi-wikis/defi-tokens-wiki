@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T20:08:16.520Z",
+    "timestamp": "2020-10-11T20:10:31.353Z",
     "version": {
         "major": 1,
-        "minor": 5796,
+        "minor": 5797,
         "patch": 0
     },
     "keywords": [
@@ -30385,6 +30385,13 @@
             "name": "GEN.FINANCE",
             "symbol": "GEN",
             "address": "0x81FA23d719271022C036F725F7ea841E5612b408",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniStake",
+            "symbol": "UNISTAKE",
+            "address": "0x41B0325f8F54E52ADC6723122E59c34088a607d7",
             "decimals": 18
         }
     ]
