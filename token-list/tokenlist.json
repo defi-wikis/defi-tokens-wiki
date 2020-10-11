@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T03:45:18.713Z",
+    "timestamp": "2020-10-11T03:48:09.194Z",
     "version": {
         "major": 1,
-        "minor": 5640,
+        "minor": 5641,
         "patch": 0
     },
     "keywords": [
@@ -29293,6 +29293,13 @@
             "name": "SNTVT TOKEN",
             "symbol": "SNTVT",
             "address": "0xc8dddeFE5762A8C1377b78750799ed442B30C16F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cosmic chain 1.0",
+            "symbol": "CSMC",
+            "address": "0x7108Cf35e9751919fec01340C4b84BDF4370f283",
             "decimals": 18
         }
     ]
