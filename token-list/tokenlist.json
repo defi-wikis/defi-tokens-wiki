@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-11T05:26:34.785Z",
+    "timestamp": "2020-10-11T05:34:24.884Z",
     "version": {
         "major": 1,
-        "minor": 5652,
+        "minor": 5653,
         "patch": 0
     },
     "keywords": [
@@ -29377,6 +29377,13 @@
             "name": "yMonster",
             "symbol": "YMO",
             "address": "0xbBc7BCE1AA459dfEb53E37d250FB3e326e5AC460",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "woo.network",
+            "symbol": "WOO",
+            "address": "0x2b97FD8d2b441b4e654ce3ddA395e90c688e5443",
             "decimals": 18
         }
     ]
