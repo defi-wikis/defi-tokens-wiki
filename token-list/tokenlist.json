@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T16:33:10.574Z",
+    "timestamp": "2020-10-12T16:54:20.204Z",
     "version": {
         "major": 1,
-        "minor": 5947,
+        "minor": 5948,
         "patch": 0
     },
     "keywords": [
@@ -31442,6 +31442,13 @@
             "name": "Zswap.network",
             "symbol": "Zswap",
             "address": "0x1c657DF809668aFBaAAc89ea5D2A955B3EfCC5f5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Boboo Token",
+            "symbol": "BOBT",
+            "address": "0x9F322560A628CBbAFAdF88fc99D6E5b40bB41358",
             "decimals": 18
         }
     ]
