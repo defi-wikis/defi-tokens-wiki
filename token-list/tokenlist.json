@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:12:16.484Z",
+    "timestamp": "2020-10-12T04:13:12.254Z",
     "version": {
         "major": 1,
-        "minor": 5853,
+        "minor": 5854,
         "patch": 0
     },
     "keywords": [
@@ -30784,6 +30784,13 @@
             "name": "Land Lab",
             "symbol": "LAND",
             "address": "0xBBb03dd692aab61F27679E18b2AAE995cA37C090",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cofix.io",
+            "symbol": "cofi",
+            "address": "0x8daf378DB0F46D6Fa43B263485052A2f4DFaA19d",
             "decimals": 18
         }
     ]
