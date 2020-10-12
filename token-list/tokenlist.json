@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T06:59:21.313Z",
+    "timestamp": "2020-10-12T07:09:10.325Z",
     "version": {
         "major": 1,
-        "minor": 5874,
+        "minor": 5875,
         "patch": 0
     },
     "keywords": [
@@ -30931,6 +30931,13 @@
             "name": "Core Relaunch",
             "symbol": "CORL",
             "address": "0x5F8c7b7D7339469B2fd4B42C0f682394e1B56cA5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Ethereum Gold Finance",
+            "symbol": "ETGF",
+            "address": "0x252beeA855108659dF26E833650542198c24D4Be",
             "decimals": 18
         }
     ]
