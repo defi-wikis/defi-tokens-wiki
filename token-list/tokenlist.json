@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T20:25:08.186Z",
+    "timestamp": "2020-10-12T20:25:45.694Z",
     "version": {
         "major": 1,
-        "minor": 5980,
+        "minor": 5981,
         "patch": 0
     },
     "keywords": [
@@ -31674,6 +31674,13 @@
             "symbol": "VN",
             "address": "0x1f8d940578251C7fD00c45A53Abf764d43aC7512",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Rare",
+            "symbol": "RARE",
+            "address": "0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D",
+            "decimals": 4
         }
     ]
 }
