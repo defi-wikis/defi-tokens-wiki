@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T21:19:55.119Z",
+    "timestamp": "2020-10-12T21:25:10.384Z",
     "version": {
         "major": 1,
-        "minor": 5986,
+        "minor": 5987,
         "patch": 0
     },
     "keywords": [
@@ -31715,6 +31715,13 @@
             "name": "POTUS 2020",
             "symbol": "2020",
             "address": "0x010d4007Cb7139515507c11C9388D7AccF049100",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "xunii.finance",
+            "symbol": "XUNII",
+            "address": "0x5a50B3d55e9a1089029824a26caaA8f2abFC4bb0",
             "decimals": 18
         }
     ]
