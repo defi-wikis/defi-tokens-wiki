@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T17:33:49.771Z",
+    "timestamp": "2020-10-12T17:44:35.427Z",
     "version": {
         "major": 1,
-        "minor": 5953,
+        "minor": 5954,
         "patch": 0
     },
     "keywords": [
@@ -31484,6 +31484,13 @@
             "name": "Mini",
             "symbol": "Mini",
             "address": "0xFd9E7AC38610133eA898C08A05B2275Ac647106d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bifrost",
+            "symbol": "BNC",
+            "address": "0xd16370353C62bb7215Cdd50ba0D103BF31c2d088",
             "decimals": 18
         }
     ]
