@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T07:26:14.878Z",
+    "timestamp": "2020-10-12T07:44:39.845Z",
     "version": {
         "major": 1,
-        "minor": 5882,
+        "minor": 5883,
         "patch": 0
     },
     "keywords": [
@@ -30987,6 +30987,13 @@
             "name": "Zorro.Finance",
             "symbol": "ZORRO",
             "address": "0xA2eFa1207A3b06069D7b809C6a4E30B6DfA4d777",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Earnings Coin",
+            "symbol": "EC",
+            "address": "0xA10A906FEb6507Be7F92199222E0B9d942C2c49a",
             "decimals": 18
         }
     ]
