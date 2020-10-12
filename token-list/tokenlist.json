@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T15:03:07.933Z",
+    "timestamp": "2020-10-12T15:13:25.050Z",
     "version": {
         "major": 1,
-        "minor": 5935,
+        "minor": 5936,
         "patch": 0
     },
     "keywords": [
@@ -31358,6 +31358,13 @@
             "name": "iVault",
             "symbol": "iVault",
             "address": "0x4CbfB22DD2a430533F247e8003fC1C997E54fBE6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCore",
+            "symbol": "yCORE",
+            "address": "0x778be930B1f4b0eb215b0107dfe672b17A239371",
             "decimals": 18
         }
     ]
