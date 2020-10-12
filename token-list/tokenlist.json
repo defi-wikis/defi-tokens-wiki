@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T07:47:36.620Z",
+    "timestamp": "2020-10-12T08:26:09.682Z",
     "version": {
         "major": 1,
-        "minor": 5884,
+        "minor": 5885,
         "patch": 0
     },
     "keywords": [
@@ -31002,6 +31002,13 @@
             "symbol": "BREE",
             "address": "0xa020535261521455d398cd243dcdadd3A8a622C9",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "frontrunners.io",
+            "symbol": "SEAT",
+            "address": "0x950e2CC54afD7CC43cC3c36051F07A76E31d86fc",
+            "decimals": 0
         }
     ]
 }
