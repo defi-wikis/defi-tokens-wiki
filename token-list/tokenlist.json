@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T12:35:57.159Z",
+    "timestamp": "2020-10-12T12:55:31.976Z",
     "version": {
         "major": 1,
-        "minor": 5918,
+        "minor": 5919,
         "patch": 0
     },
     "keywords": [
@@ -31239,6 +31239,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0xFe5a0e0709355563c9794A70Cd8A4D84f3af933B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JUST FOR DECENTRALIZATION",
+            "symbol": "JDE",
+            "address": "0xa978B9B772eE1C66f90d4e436E7154d2d87adA46",
             "decimals": 18
         }
     ]
