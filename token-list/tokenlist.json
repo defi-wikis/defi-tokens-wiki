@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T23:26:29.927Z",
+    "timestamp": "2020-10-12T23:30:17.629Z",
     "version": {
         "major": 1,
-        "minor": 5998,
+        "minor": 5999,
         "patch": 0
     },
     "keywords": [
@@ -31800,6 +31800,13 @@
             "symbol": "YOFIX",
             "address": "0x0e6f0508B60b0CB49ebDEfbbAEB2EF85D003eAe7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "arcane bear",
+            "symbol": "BEAR",
+            "address": "0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7",
+            "decimals": 4
         }
     ]
 }
