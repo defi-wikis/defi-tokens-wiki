@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T20:25:45.694Z",
+    "timestamp": "2020-10-12T20:44:00.055Z",
     "version": {
         "major": 1,
-        "minor": 5981,
+        "minor": 5982,
         "patch": 0
     },
     "keywords": [
@@ -31681,6 +31681,13 @@
             "symbol": "RARE",
             "address": "0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Small target Coin",
+            "symbol": "SMC",
+            "address": "0xed51aD7fE72881D8AAc4365050a31e89fF09eF4c",
+            "decimals": 18
         }
     ]
 }
