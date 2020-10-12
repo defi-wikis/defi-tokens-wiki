@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:33:15.651Z",
+    "timestamp": "2020-10-12T02:34:03.803Z",
     "version": {
         "major": 1,
-        "minor": 5838,
+        "minor": 5839,
         "patch": 0
     },
     "keywords": [
@@ -30679,6 +30679,13 @@
             "name": "Uniswap V2",
             "symbol": "UNI-V2",
             "address": "0xf421c3f2e695C2D4C0765379cCace8adE4a480D9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CRO Defi Swap",
+            "symbol": "CRO-SWAP",
+            "address": "0x9EF7e917Fb41cC02f78A5C99b42f497eD8979350",
             "decimals": 18
         }
     ]
