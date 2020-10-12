@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T10:26:04.232Z",
+    "timestamp": "2020-10-12T10:33:46.872Z",
     "version": {
         "major": 1,
-        "minor": 5907,
+        "minor": 5908,
         "patch": 0
     },
     "keywords": [
@@ -31163,6 +31163,13 @@
             "symbol": "VTS",
             "address": "0x125fb7121df1Cb201556d5cDD58a8EdffcA6863b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DIPNET",
+            "symbol": "DPN",
+            "address": "0xFb8Bf095eBcdAd57D2e37573a505E7d3bAFDD3CC",
+            "decimals": 8
         }
     ]
 }
