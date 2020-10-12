@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:38:51.202Z",
+    "timestamp": "2020-10-12T02:57:15.406Z",
     "version": {
         "major": 1,
-        "minor": 5841,
+        "minor": 5842,
         "patch": 0
     },
     "keywords": [
@@ -30700,6 +30700,13 @@
             "name": "Yakisoba",
             "symbol": "YAK",
             "address": "0x8F9a74EfF206A68AC827FA97136Aa239707D6172",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Happy Coin",
+            "symbol": "HC",
+            "address": "0x317EA28Db0d84eEC41774065656497A868f2a69c",
             "decimals": 18
         }
     ]
