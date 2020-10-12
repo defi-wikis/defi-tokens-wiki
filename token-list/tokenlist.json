@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:18:41.315Z",
+    "timestamp": "2020-10-12T02:20:59.646Z",
     "version": {
         "major": 1,
-        "minor": 5834,
+        "minor": 5835,
         "patch": 0
     },
     "keywords": [
@@ -30652,6 +30652,13 @@
             "symbol": "PNS",
             "address": "0x8e29b70964a64387444Bfa29723222fF332feed4",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "TomoChain v2.0",
+            "symbol": "TOMO2",
+            "address": "0x1D0154f79FC8e318b50dc1949BE9Fc4946584026",
+            "decimals": 18
         }
     ]
 }
