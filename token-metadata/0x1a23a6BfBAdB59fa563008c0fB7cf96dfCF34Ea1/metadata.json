@@ -1,0 +1,7 @@
+{
+    "name": "CoFi Token",
+    "symbol": "CoFi",
+    "address": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
