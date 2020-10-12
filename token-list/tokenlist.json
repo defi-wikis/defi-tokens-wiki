@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:15:14.148Z",
+    "timestamp": "2020-10-12T18:18:54.789Z",
     "version": {
         "major": 1,
-        "minor": 5963,
+        "minor": 5964,
         "patch": 0
     },
     "keywords": [
@@ -31554,6 +31554,13 @@
             "name": "Degen PLAY",
             "symbol": "DPLAY",
             "address": "0x016563E493A413eDA6d1b16114085BF0e28B32C0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Landlab",
+            "symbol": "Land",
+            "address": "0x5aA1611daE69EB86100aeB32807D0361e5a18Ac5",
             "decimals": 18
         }
     ]
