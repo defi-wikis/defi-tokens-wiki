@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T15:36:50.043Z",
+    "timestamp": "2020-10-12T15:37:39.853Z",
     "version": {
         "major": 1,
-        "minor": 5942,
+        "minor": 5943,
         "patch": 0
     },
     "keywords": [
@@ -31408,6 +31408,13 @@
             "symbol": "Zswap",
             "address": "0x8b3CCF345f26508C238a21B87C738B4F9218b4c2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPELL MOON",
+            "symbol": "SPEL",
+            "address": "0x4a1bbeAe7890ddA5afC3eF1050429f1e794E337d",
+            "decimals": 8
         }
     ]
 }
