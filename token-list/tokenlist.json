@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:13:21.169Z",
+    "timestamp": "2020-10-12T01:19:30.526Z",
     "version": {
         "major": 1,
-        "minor": 5826,
+        "minor": 5827,
         "patch": 0
     },
     "keywords": [
@@ -30595,6 +30595,13 @@
             "name": "decraft.finance",
             "symbol": "CRAFT",
             "address": "0x8f5341F8ef216b8c2078d77f18E90EBD3C634882",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "STAMP",
+            "symbol": "STAMP",
+            "address": "0x824c68159D5a81A061944616044E93E17A5a3C42",
             "decimals": 18
         }
     ]
