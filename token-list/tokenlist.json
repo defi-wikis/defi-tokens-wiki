@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:20:59.646Z",
+    "timestamp": "2020-10-12T02:25:31.058Z",
     "version": {
         "major": 1,
-        "minor": 5835,
+        "minor": 5836,
         "patch": 0
     },
     "keywords": [
@@ -30658,6 +30658,13 @@
             "name": "TomoChain v2.0",
             "symbol": "TOMO2",
             "address": "0x1D0154f79FC8e318b50dc1949BE9Fc4946584026",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CRAFT V2",
+            "symbol": "CRAFT",
+            "address": "0x0eF8f457De514991AA2530bb85Bdc1f7e1E03C38",
             "decimals": 18
         }
     ]
