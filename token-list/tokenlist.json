@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T15:57:29.962Z",
+    "timestamp": "2020-10-12T15:58:45.957Z",
     "version": {
         "major": 1,
-        "minor": 5944,
+        "minor": 5945,
         "patch": 0
     },
     "keywords": [
@@ -31421,6 +31421,13 @@
             "name": "Filecoin",
             "symbol": "FIL",
             "address": "0xc7216c055FDFa864650e1A55010c8d9AC34b1332",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "New Year Bull Defi",
+            "symbol": "NYBD",
+            "address": "0x9D3a2F281eC3aF3b0fD4C05222cbe168F390b56b",
             "decimals": 18
         }
     ]
