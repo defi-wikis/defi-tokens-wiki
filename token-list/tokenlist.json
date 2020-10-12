@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:53:41.949Z",
+    "timestamp": "2020-10-12T08:54:27.345Z",
     "version": {
         "major": 1,
-        "minor": 5890,
+        "minor": 5891,
         "patch": 0
     },
     "keywords": [
@@ -31043,6 +31043,13 @@
             "name": "RampDefi",
             "symbol": "RAMP",
             "address": "0x0913C5C305540724bbCdAb5E983E277b3cBbc79D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Injective Protocol",
+            "symbol": "INJ",
+            "address": "0xb68eE52208601121703c7FB6c6B3c8b6d15993aC",
             "decimals": 18
         }
     ]
