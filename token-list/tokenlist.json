@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T09:51:26.931Z",
+    "timestamp": "2020-10-12T09:51:39.035Z",
     "version": {
         "major": 1,
-        "minor": 5902,
+        "minor": 5903,
         "patch": 0
     },
     "keywords": [
@@ -31127,6 +31127,13 @@
             "name": "zorro.network",
             "symbol": "ZORRO",
             "address": "0xA1877B5915ef0d17C4686d787DE21d581eF72796",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AlphaDex",
+            "symbol": "DEX",
+            "address": "0x3516415161C478DF10ADBb8bb884Cc83FbD5F11a",
             "decimals": 18
         }
     ]
