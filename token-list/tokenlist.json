@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:10:31.003Z",
+    "timestamp": "2020-10-12T18:14:11.217Z",
     "version": {
         "major": 1,
-        "minor": 5959,
+        "minor": 5960,
         "patch": 0
     },
     "keywords": [
@@ -31526,6 +31526,13 @@
             "name": "CLOE",
             "symbol": "CLOE",
             "address": "0xae029594d445518F76844099a045ebd40332A90f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RCORE",
+            "symbol": "RCORE",
+            "address": "0xB7E948ad09c8182435FC5e55D3aC4F656D791e77",
             "decimals": 18
         }
     ]
