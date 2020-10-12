@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:54:15.228Z",
+    "timestamp": "2020-10-12T02:12:39.080Z",
     "version": {
         "major": 1,
-        "minor": 5832,
+        "minor": 5833,
         "patch": 0
     },
     "keywords": [
@@ -30638,6 +30638,13 @@
             "symbol": "Goblin",
             "address": "0x173Fa4D96257925690EF5EdA31790c969D4581Ef",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YearnDAO.com",
+            "symbol": "YFDAO",
+            "address": "0x740962D379632ad27756624190a8fEe94cf07659",
+            "decimals": 18
         }
     ]
 }
