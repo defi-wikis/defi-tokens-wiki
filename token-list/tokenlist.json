@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T10:12:27.069Z",
+    "timestamp": "2020-10-12T10:16:03.733Z",
     "version": {
         "major": 1,
-        "minor": 5905,
+        "minor": 5906,
         "patch": 0
     },
     "keywords": [
@@ -31149,6 +31149,13 @@
             "symbol": "DFED",
             "address": "0x57f7229Fd3a611542C73BBD4A5FFbB41B0cD6776",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Injective Protocol",
+            "symbol": "INJ",
+            "address": "0x6aE892677397EA4e89702057E53537A2EfA858bF",
+            "decimals": 18
         }
     ]
 }
