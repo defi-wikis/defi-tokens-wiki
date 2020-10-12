@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T21:25:10.384Z",
+    "timestamp": "2020-10-12T21:37:20.309Z",
     "version": {
         "major": 1,
-        "minor": 5987,
+        "minor": 5988,
         "patch": 0
     },
     "keywords": [
@@ -31722,6 +31722,13 @@
             "name": "xunii.finance",
             "symbol": "XUNII",
             "address": "0x5a50B3d55e9a1089029824a26caaA8f2abFC4bb0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "wich.nu",
+            "symbol": "WISH",
+            "address": "0x3B364C3Fbd3997b2d0a9a20aDDd886583D26dF67",
             "decimals": 18
         }
     ]
