@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:50:13.521Z",
+    "timestamp": "2020-10-12T04:53:10.328Z",
     "version": {
         "major": 1,
-        "minor": 5860,
+        "minor": 5861,
         "patch": 0
     },
     "keywords": [
@@ -30833,6 +30833,13 @@
             "name": "Western Finance",
             "symbol": "WFI",
             "address": "0xAEf6d20F9a920C75b65c39d460Eecc21005fF8b5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiner",
+            "symbol": "FIN",
+            "address": "0xafBf69fF61a7Ba0d2beD8E64b627FB17CC91EF03",
             "decimals": 18
         }
     ]
