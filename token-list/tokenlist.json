@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:45:22.128Z",
+    "timestamp": "2020-10-12T08:53:41.949Z",
     "version": {
         "major": 1,
-        "minor": 5889,
+        "minor": 5890,
         "patch": 0
     },
     "keywords": [
@@ -31036,6 +31036,13 @@
             "name": "KEK",
             "symbol": "KEK",
             "address": "0x31AEe7Db3b390bAaD34213C173A9df0dd11D84bd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RampDefi",
+            "symbol": "RAMP",
+            "address": "0x0913C5C305540724bbCdAb5E983E277b3cBbc79D",
             "decimals": 18
         }
     ]
