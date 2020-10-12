@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:14:59.548Z",
+    "timestamp": "2020-10-12T18:15:14.148Z",
     "version": {
         "major": 1,
-        "minor": 5962,
+        "minor": 5963,
         "patch": 0
     },
     "keywords": [
@@ -31547,6 +31547,13 @@
             "name": "ETHWSS Coin",
             "symbol": "WSS",
             "address": "0x1d9a3CeF66B01D44003b9db0e00ec3fd44746988",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Degen PLAY",
+            "symbol": "DPLAY",
+            "address": "0x016563E493A413eDA6d1b16114085BF0e28B32C0",
             "decimals": 18
         }
     ]
