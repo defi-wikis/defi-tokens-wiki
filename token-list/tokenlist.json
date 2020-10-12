@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T23:15:45.132Z",
+    "timestamp": "2020-10-12T23:19:55.031Z",
     "version": {
         "major": 1,
-        "minor": 5996,
+        "minor": 5997,
         "patch": 0
     },
     "keywords": [
@@ -31785,6 +31785,13 @@
             "name": "Social Rocket",
             "symbol": "ROCKS",
             "address": "0xF1ff0665A9E4648c0e6A45d05f395Ef057c510a2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Derelict Dollars",
+            "symbol": "LICT",
+            "address": "0xcE658F51F97363366C8B942CA87DcE96FFDb0636",
             "decimals": 18
         }
     ]
