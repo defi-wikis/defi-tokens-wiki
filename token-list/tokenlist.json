@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T17:18:29.940Z",
+    "timestamp": "2020-10-12T17:31:50.140Z",
     "version": {
         "major": 1,
-        "minor": 5951,
+        "minor": 5952,
         "patch": 0
     },
     "keywords": [
@@ -31470,6 +31470,13 @@
             "name": "Yiel Farming BEER",
             "symbol": "YBEER",
             "address": "0xc95a488A23D702eC278B839bBDa1C8116D051adf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UsdbToken",
+            "symbol": "USDB",
+            "address": "0x4B5EE861a3a713642809b1817A1e79B67b502755",
             "decimals": 18
         }
     ]
