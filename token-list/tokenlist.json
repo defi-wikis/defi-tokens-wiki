@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T13:55:57.568Z",
+    "timestamp": "2020-10-12T14:02:16.579Z",
     "version": {
         "major": 1,
-        "minor": 5927,
+        "minor": 5928,
         "patch": 0
     },
     "keywords": [
@@ -31302,6 +31302,13 @@
             "name": "Testtokken.test",
             "symbol": "TESTT",
             "address": "0xFc22E5127074e5A5E4ADe4ec6287649fdf4ab09e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Definer",
+            "symbol": "FIN",
+            "address": "0xD322eFb616462F3a5dC3D352eb293853096a0dc8",
             "decimals": 18
         }
     ]
