@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:09:54.856Z",
+    "timestamp": "2020-10-12T01:12:36.837Z",
     "version": {
         "major": 1,
-        "minor": 5824,
+        "minor": 5825,
         "patch": 0
     },
     "keywords": [
@@ -30581,6 +30581,13 @@
             "name": "bullet",
             "symbol": "bull",
             "address": "0x34506246D860D53fb41c463213e740F157fa1174",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Xcore",
+            "symbol": "XCORE",
+            "address": "0x79DC7dca75418FcddC952C22475eD660cE4316Ae",
             "decimals": 18
         }
     ]
