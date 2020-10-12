@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T14:59:56.889Z",
+    "timestamp": "2020-10-12T15:03:07.933Z",
     "version": {
         "major": 1,
-        "minor": 5934,
+        "minor": 5935,
         "patch": 0
     },
     "keywords": [
@@ -31351,6 +31351,13 @@
             "name": "AMM",
             "symbol": "AMM",
             "address": "0xeAfaF0AE730711a1da037636106C08571BFfEfE3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iVault",
+            "symbol": "iVault",
+            "address": "0x4CbfB22DD2a430533F247e8003fC1C997E54fBE6",
             "decimals": 18
         }
     ]
