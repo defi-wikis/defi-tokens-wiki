@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T20:07:00.030Z",
+    "timestamp": "2020-10-12T20:08:07.953Z",
     "version": {
         "major": 1,
-        "minor": 5978,
+        "minor": 5979,
         "patch": 0
     },
     "keywords": [
@@ -31660,6 +31660,13 @@
             "symbol": "PJO",
             "address": "0x7E44AADC47A3EcDBf5f88463346460fa9D8875Ca",
             "decimals": 2
+        },
+        {
+            "chainId": 1,
+            "name": "YFKIR.Finance",
+            "symbol": "YFKIR",
+            "address": "0x6b504eD199bA8D0084AFFfc76385BC45F92E9F24",
+            "decimals": 18
         }
     ]
 }
