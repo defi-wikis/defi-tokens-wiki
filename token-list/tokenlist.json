@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T19:31:02.316Z",
+    "timestamp": "2020-10-12T19:34:49.896Z",
     "version": {
         "major": 1,
-        "minor": 5976,
+        "minor": 5977,
         "patch": 0
     },
     "keywords": [
@@ -31645,6 +31645,13 @@
             "name": "PepeYugi",
             "symbol": "YUGI",
             "address": "0xbc0b41A42Fb83f7d0019D82aB5C404fBD29e4f42",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Covesting",
+            "symbol": "COV",
+            "address": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
             "decimals": 18
         }
     ]
