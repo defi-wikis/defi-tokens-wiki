@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T21:15:45.031Z",
+    "timestamp": "2020-10-12T21:16:10.319Z",
     "version": {
         "major": 1,
-        "minor": 5984,
+        "minor": 5985,
         "patch": 0
     },
     "keywords": [
@@ -31701,6 +31701,13 @@
             "name": "potus2020.network",
             "symbol": "2020",
             "address": "0x7009e9fEA45F45F5AB8DD0Fa0d1d4d1D8fAae535",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sira Protocol",
+            "symbol": "SIRA",
+            "address": "0xe338838A789d495540b0d0d5300b89E15EE7c7bE",
             "decimals": 18
         }
     ]
