@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T09:35:12.253Z",
+    "timestamp": "2020-10-12T09:36:15.377Z",
     "version": {
         "major": 1,
-        "minor": 5898,
+        "minor": 5899,
         "patch": 0
     },
     "keywords": [
@@ -31099,6 +31099,13 @@
             "name": "Injective Protocol",
             "symbol": "INJ",
             "address": "0xa0244bE523D561B93979F028f1A423E23958404b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOV.FINANCE",
+            "symbol": "YOV",
+            "address": "0xB16Ba794a4f8dD8195620944e738877bA51908A2",
             "decimals": 18
         }
     ]
