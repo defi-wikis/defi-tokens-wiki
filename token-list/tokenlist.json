@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:44:55.270Z",
+    "timestamp": "2020-10-12T01:54:15.228Z",
     "version": {
         "major": 1,
-        "minor": 5831,
+        "minor": 5832,
         "patch": 0
     },
     "keywords": [
@@ -30631,6 +30631,13 @@
             "symbol": "PPBLZ",
             "address": "0xcA3A56f76d48E0652cb5b7e0b5326c1DC6A4bc97",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Goblin",
+            "symbol": "Goblin",
+            "address": "0x173Fa4D96257925690EF5EdA31790c969D4581Ef",
+            "decimals": 8
         }
     ]
 }
