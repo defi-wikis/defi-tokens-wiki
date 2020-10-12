@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T07:09:10.325Z",
+    "timestamp": "2020-10-12T07:09:16.535Z",
     "version": {
         "major": 1,
-        "minor": 5875,
+        "minor": 5876,
         "patch": 0
     },
     "keywords": [
@@ -30939,6 +30939,13 @@
             "symbol": "ETGF",
             "address": "0x252beeA855108659dF26E833650542198c24D4Be",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "New Yolk Finance",
+            "symbol": "NYF",
+            "address": "0x57D37815D2fFBFB922195794b40662020B74817C",
+            "decimals": 8
         }
     ]
 }
