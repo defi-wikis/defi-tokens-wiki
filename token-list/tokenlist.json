@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:25:31.058Z",
+    "timestamp": "2020-10-12T02:30:25.850Z",
     "version": {
         "major": 1,
-        "minor": 5836,
+        "minor": 5837,
         "patch": 0
     },
     "keywords": [
@@ -30665,6 +30665,13 @@
             "name": "CRAFT V2",
             "symbol": "CRAFT",
             "address": "0x0eF8f457De514991AA2530bb85Bdc1f7e1E03C38",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfrx.finance/",
+            "symbol": "YFRX",
+            "address": "0xB2316103c7D2E149336C10B623AA8Ca207Ba03f1",
             "decimals": 18
         }
     ]
