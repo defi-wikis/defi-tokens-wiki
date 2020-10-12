@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:34:03.803Z",
+    "timestamp": "2020-10-12T02:38:02.373Z",
     "version": {
         "major": 1,
-        "minor": 5839,
+        "minor": 5840,
         "patch": 0
     },
     "keywords": [
@@ -30686,6 +30686,13 @@
             "name": "CRO Defi Swap",
             "symbol": "CRO-SWAP",
             "address": "0x9EF7e917Fb41cC02f78A5C99b42f497eD8979350",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Project Y",
+            "symbol": "YRX",
+            "address": "0x21634B64a6915b879aD13d96418a82b2a48Fcbe9",
             "decimals": 18
         }
     ]
