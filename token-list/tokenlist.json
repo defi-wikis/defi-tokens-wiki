@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T12:58:18.658Z",
+    "timestamp": "2020-10-12T13:01:11.637Z",
     "version": {
         "major": 1,
-        "minor": 5922,
+        "minor": 5923,
         "patch": 0
     },
     "keywords": [
@@ -31268,6 +31268,13 @@
             "symbol": "ECC",
             "address": "0x6f98d5E27a17d923c5FA400FC3d3aF917563cba9",
             "decimals": 5
+        },
+        {
+            "chainId": 1,
+            "name": "JUST FOR DECENTRALIZATION",
+            "symbol": "JDE",
+            "address": "0xc196EAA6706a9f39F446c5f0254921964D698F0c",
+            "decimals": 18
         }
     ]
 }
