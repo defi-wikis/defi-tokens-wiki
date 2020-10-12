@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:36:40.121Z",
+    "timestamp": "2020-10-12T18:40:02.115Z",
     "version": {
         "major": 1,
-        "minor": 5967,
+        "minor": 5968,
         "patch": 0
     },
     "keywords": [
@@ -31582,6 +31582,13 @@
             "name": "Wrapped ERC-1155",
             "symbol": "WMT",
             "address": "0x40ce0A1D8F4999807b92ec266a025F071814b15d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped ERC-1155",
+            "symbol": "WMT",
+            "address": "0x5963FD7cA9b17b85768476019F81CB43d9d1818E",
             "decimals": 18
         }
     ]
