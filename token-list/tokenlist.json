@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T15:13:25.050Z",
+    "timestamp": "2020-10-12T15:14:50.050Z",
     "version": {
         "major": 1,
-        "minor": 5936,
+        "minor": 5937,
         "patch": 0
     },
     "keywords": [
@@ -31365,6 +31365,13 @@
             "name": "yCore",
             "symbol": "yCORE",
             "address": "0x778be930B1f4b0eb215b0107dfe672b17A239371",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SHAKA",
+            "symbol": "SHAKA",
+            "address": "0x6924456C04f8E583E7df7222502dA6CbebdeEBF5",
             "decimals": 18
         }
     ]
