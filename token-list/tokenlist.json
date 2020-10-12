@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T15:31:35.107Z",
+    "timestamp": "2020-10-12T15:31:44.848Z",
     "version": {
         "major": 1,
-        "minor": 5940,
+        "minor": 5941,
         "patch": 0
     },
     "keywords": [
@@ -31393,6 +31393,13 @@
             "name": "Woo Trade @ woo.network",
             "symbol": "WOO",
             "address": "0x3D6A5a87bC086bb99F1E127294027488aFF2fB3d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Liquidity Income",
+            "symbol": "LBI",
+            "address": "0x6E97F48B5161959c87F27e8792322b0AcFC78A85",
             "decimals": 18
         }
     ]
