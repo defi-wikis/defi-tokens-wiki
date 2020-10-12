@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T09:58:14.880Z",
+    "timestamp": "2020-10-12T10:12:27.069Z",
     "version": {
         "major": 1,
-        "minor": 5904,
+        "minor": 5905,
         "patch": 0
     },
     "keywords": [
@@ -31142,6 +31142,13 @@
             "symbol": "BIGC",
             "address": "0x33bF0f03c18D98AB96cf3DC42266da29d6666585",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DFED",
+            "symbol": "DFED",
+            "address": "0x57f7229Fd3a611542C73BBD4A5FFbB41B0cD6776",
+            "decimals": 6
         }
     ]
 }
