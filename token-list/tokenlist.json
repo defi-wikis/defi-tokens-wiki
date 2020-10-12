@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T09:36:15.377Z",
+    "timestamp": "2020-10-12T09:47:02.410Z",
     "version": {
         "major": 1,
-        "minor": 5899,
+        "minor": 5900,
         "patch": 0
     },
     "keywords": [
@@ -31106,6 +31106,13 @@
             "name": "YOV.FINANCE",
             "symbol": "YOV",
             "address": "0xB16Ba794a4f8dD8195620944e738877bA51908A2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XCraft Finance",
+            "symbol": "XCRAFT",
+            "address": "0x784000F98Bb6D4Cc87EB7Bd92502c0205305E41c",
             "decimals": 18
         }
     ]
