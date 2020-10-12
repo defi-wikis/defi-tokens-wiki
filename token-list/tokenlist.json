@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T22:00:30.403Z",
+    "timestamp": "2020-10-12T22:11:50.351Z",
     "version": {
         "major": 1,
-        "minor": 5989,
+        "minor": 5990,
         "patch": 0
     },
     "keywords": [
@@ -31736,6 +31736,13 @@
             "name": "Fox.Finance",
             "symbol": "FOX",
             "address": "0x17b46168551faB5CF1a5824711F018e1e7259d15",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ROMANETTO",
+            "symbol": "ROM",
+            "address": "0x9cDa799efa410115D2D6162a4Bbc5D0C66a7b609",
             "decimals": 18
         }
     ]
