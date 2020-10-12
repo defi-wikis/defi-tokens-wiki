@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T05:52:34.936Z",
+    "timestamp": "2020-10-12T05:54:45.982Z",
     "version": {
         "major": 1,
-        "minor": 5866,
+        "minor": 5867,
         "patch": 0
     },
     "keywords": [
@@ -30875,6 +30875,13 @@
             "name": "DIGI Finance",
             "symbol": "DIGI",
             "address": "0x3b4EAA9Aa78CFF89Bf795ae0E19d08699f1803Ee",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MIRROR WORLD NETWORK",
+            "symbol": "MW",
+            "address": "0x98446E450A21089081504981815E0201EBc4Bb9E",
             "decimals": 18
         }
     ]
