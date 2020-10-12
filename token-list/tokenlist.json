@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T17:03:55.143Z",
+    "timestamp": "2020-10-12T17:18:29.940Z",
     "version": {
         "major": 1,
-        "minor": 5950,
+        "minor": 5951,
         "patch": 0
     },
     "keywords": [
@@ -31463,6 +31463,13 @@
             "name": "Cosmonaut",
             "symbol": "COSMO",
             "address": "0x987976427214E9C04207D109426337ED80083519",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yiel Farming BEER",
+            "symbol": "YBEER",
+            "address": "0xc95a488A23D702eC278B839bBDa1C8116D051adf",
             "decimals": 18
         }
     ]
