@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T12:57:17.844Z",
+    "timestamp": "2020-10-12T12:57:46.927Z",
     "version": {
         "major": 1,
-        "minor": 5920,
+        "minor": 5921,
         "patch": 0
     },
     "keywords": [
@@ -31253,6 +31253,13 @@
             "name": "CoFi Token",
             "symbol": "CoFi",
             "address": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GameSwap",
+            "symbol": "GSWAP",
+            "address": "0x776C22c9127f3bD5f918d3aA66dbC960761BD6c2",
             "decimals": 18
         }
     ]
