@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T15:28:50.289Z",
+    "timestamp": "2020-10-12T15:31:35.107Z",
     "version": {
         "major": 1,
-        "minor": 5939,
+        "minor": 5940,
         "patch": 0
     },
     "keywords": [
@@ -31386,6 +31386,13 @@
             "name": "Woo Trade @ woo.network",
             "symbol": "WOO",
             "address": "0x414726dAa21E635877990c2c26f8FcFe22379c89",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Woo Trade @ woo.network",
+            "symbol": "WOO",
+            "address": "0x3D6A5a87bC086bb99F1E127294027488aFF2fB3d",
             "decimals": 18
         }
     ]
