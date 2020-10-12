@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T22:11:50.351Z",
+    "timestamp": "2020-10-12T22:22:02.444Z",
     "version": {
         "major": 1,
-        "minor": 5990,
+        "minor": 5991,
         "patch": 0
     },
     "keywords": [
@@ -31743,6 +31743,13 @@
             "name": "ROMANETTO",
             "symbol": "ROM",
             "address": "0x9cDa799efa410115D2D6162a4Bbc5D0C66a7b609",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "cVault.finance v2.0",
+            "symbol": "COREv2",
+            "address": "0xF8d55F45a5e7625B4cF262d94B0E8B443109EeE9",
             "decimals": 18
         }
     ]
