@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:29:29.256Z",
+    "timestamp": "2020-10-12T08:36:42.628Z",
     "version": {
         "major": 1,
-        "minor": 5887,
+        "minor": 5888,
         "patch": 0
     },
     "keywords": [
@@ -31022,6 +31022,13 @@
             "name": "PAJEET",
             "symbol": "JEET",
             "address": "0x6a7dcE9B5ab0852D1D69877667d60914E396c4E7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SilkRoadCoin.org",
+            "symbol": "SRC",
+            "address": "0xFb0DE0eFf2D0f75Aa8aD7343CC044f1899f1f046",
             "decimals": 18
         }
     ]
