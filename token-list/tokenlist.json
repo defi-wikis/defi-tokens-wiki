@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T13:01:11.637Z",
+    "timestamp": "2020-10-12T13:17:12.349Z",
     "version": {
         "major": 1,
-        "minor": 5923,
+        "minor": 5924,
         "patch": 0
     },
     "keywords": [
@@ -31275,6 +31275,13 @@
             "symbol": "JDE",
             "address": "0xc196EAA6706a9f39F446c5f0254921964D698F0c",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SNP",
+            "symbol": "SNP",
+            "address": "0x08F1200Ebc66bE827085D715B7214E09c2172f1A",
+            "decimals": 8
         }
     ]
 }
