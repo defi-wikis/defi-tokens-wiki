@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:54:27.345Z",
+    "timestamp": "2020-10-12T08:55:36.909Z",
     "version": {
         "major": 1,
-        "minor": 5891,
+        "minor": 5892,
         "patch": 0
     },
     "keywords": [
@@ -31050,6 +31050,13 @@
             "name": "Injective Protocol",
             "symbol": "INJ",
             "address": "0xb68eE52208601121703c7FB6c6B3c8b6d15993aC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Gold Mine",
+            "symbol": "GM",
+            "address": "0x80c56CD02f22E23d4Ebe1FC4fed7c37217257bf1",
             "decimals": 18
         }
     ]
