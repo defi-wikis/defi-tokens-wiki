@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T14:46:51.988Z",
+    "timestamp": "2020-10-12T14:55:15.234Z",
     "version": {
         "major": 1,
-        "minor": 5932,
+        "minor": 5933,
         "patch": 0
     },
     "keywords": [
@@ -31337,6 +31337,13 @@
             "name": "YFIJ.Finance",
             "symbol": "YFIJ",
             "address": "0x2F5deE146D0f8CeAfeE8b6249B4C9Bb50b83987F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Finance Rebase",
+            "symbol": "CORS",
+            "address": "0x71103728Ab86aB978E12f6fA6D5D1eae2d87eeFe",
             "decimals": 18
         }
     ]
