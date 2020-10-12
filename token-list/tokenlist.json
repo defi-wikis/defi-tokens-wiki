@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:14:11.217Z",
+    "timestamp": "2020-10-12T18:14:39.526Z",
     "version": {
         "major": 1,
-        "minor": 5960,
+        "minor": 5961,
         "patch": 0
     },
     "keywords": [
@@ -31533,6 +31533,13 @@
             "name": "RCORE",
             "symbol": "RCORE",
             "address": "0xB7E948ad09c8182435FC5e55D3aC4F656D791e77",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitMessage",
+            "symbol": "BMG",
+            "address": "0x8948C85c75b73Be21E7ad9cd723Eb4EE2BB7934f",
             "decimals": 18
         }
     ]
