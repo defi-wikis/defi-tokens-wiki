@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T06:18:32.731Z",
+    "timestamp": "2020-10-12T06:40:50.000Z",
     "version": {
         "major": 1,
-        "minor": 5870,
+        "minor": 5871,
         "patch": 0
     },
     "keywords": [
@@ -30903,6 +30903,13 @@
             "name": "Sushi Vaults",
             "symbol": "SUVA",
             "address": "0x1500C406205819F85C45C3ba5d8c42bbc1AeDeF0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Doge-Finance.com",
+            "symbol": "DOGES",
+            "address": "0xf40Adc50f45f65e24726b3e35418d79d737F401F",
             "decimals": 18
         }
     ]
