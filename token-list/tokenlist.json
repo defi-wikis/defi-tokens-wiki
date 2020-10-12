@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T20:08:07.953Z",
+    "timestamp": "2020-10-12T20:25:08.186Z",
     "version": {
         "major": 1,
-        "minor": 5979,
+        "minor": 5980,
         "patch": 0
     },
     "keywords": [
@@ -31666,6 +31666,13 @@
             "name": "YFKIR.Finance",
             "symbol": "YFKIR",
             "address": "0x6b504eD199bA8D0084AFFfc76385BC45F92E9F24",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vendor Network",
+            "symbol": "VN",
+            "address": "0x1f8d940578251C7fD00c45A53Abf764d43aC7512",
             "decimals": 18
         }
     ]
