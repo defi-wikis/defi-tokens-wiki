@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T12:55:31.976Z",
+    "timestamp": "2020-10-12T12:57:17.844Z",
     "version": {
         "major": 1,
-        "minor": 5919,
+        "minor": 5920,
         "patch": 0
     },
     "keywords": [
@@ -31246,6 +31246,13 @@
             "name": "JUST FOR DECENTRALIZATION",
             "symbol": "JDE",
             "address": "0xa978B9B772eE1C66f90d4e436E7154d2d87adA46",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoFi Token",
+            "symbol": "CoFi",
+            "address": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
             "decimals": 18
         }
     ]
