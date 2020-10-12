@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T06:40:50.000Z",
+    "timestamp": "2020-10-12T06:49:21.631Z",
     "version": {
         "major": 1,
-        "minor": 5871,
+        "minor": 5872,
         "patch": 0
     },
     "keywords": [
@@ -30910,6 +30910,13 @@
             "name": "Doge-Finance.com",
             "symbol": "DOGES",
             "address": "0xf40Adc50f45f65e24726b3e35418d79d737F401F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Vampire Sucks",
+            "symbol": "VAMPIRE",
+            "address": "0xf58ed5cA0EC4dD52DDC81536dD87b87c072898fE",
             "decimals": 18
         }
     ]
