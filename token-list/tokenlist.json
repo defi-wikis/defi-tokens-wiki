@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T16:54:20.204Z",
+    "timestamp": "2020-10-12T16:59:50.142Z",
     "version": {
         "major": 1,
-        "minor": 5948,
+        "minor": 5949,
         "patch": 0
     },
     "keywords": [
@@ -31449,6 +31449,13 @@
             "name": "Boboo Token",
             "symbol": "BOBT",
             "address": "0x9F322560A628CBbAFAdF88fc99D6E5b40bB41358",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Liquidity Income",
+            "symbol": "LBI",
+            "address": "0x28832484e8124634a248F2bc520F26E8345a56CD",
             "decimals": 18
         }
     ]
