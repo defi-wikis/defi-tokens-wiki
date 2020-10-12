@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:14:39.526Z",
+    "timestamp": "2020-10-12T18:14:59.548Z",
     "version": {
         "major": 1,
-        "minor": 5961,
+        "minor": 5962,
         "patch": 0
     },
     "keywords": [
@@ -31540,6 +31540,13 @@
             "name": "BitMessage",
             "symbol": "BMG",
             "address": "0x8948C85c75b73Be21E7ad9cd723Eb4EE2BB7934f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ETHWSS Coin",
+            "symbol": "WSS",
+            "address": "0x1d9a3CeF66B01D44003b9db0e00ec3fd44746988",
             "decimals": 18
         }
     ]
