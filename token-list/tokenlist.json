@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T19:34:49.896Z",
+    "timestamp": "2020-10-12T20:07:00.030Z",
     "version": {
         "major": 1,
-        "minor": 5977,
+        "minor": 5978,
         "patch": 0
     },
     "keywords": [
@@ -31653,6 +31653,13 @@
             "symbol": "COV",
             "address": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pjoter",
+            "symbol": "PJO",
+            "address": "0x7E44AADC47A3EcDBf5f88463346460fa9D8875Ca",
+            "decimals": 2
         }
     ]
 }
