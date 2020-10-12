@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:36:42.628Z",
+    "timestamp": "2020-10-12T08:45:22.128Z",
     "version": {
         "major": 1,
-        "minor": 5888,
+        "minor": 5889,
         "patch": 0
     },
     "keywords": [
@@ -31029,6 +31029,13 @@
             "name": "SilkRoadCoin.org",
             "symbol": "SRC",
             "address": "0xFb0DE0eFf2D0f75Aa8aD7343CC044f1899f1f046",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KEK",
+            "symbol": "KEK",
+            "address": "0x31AEe7Db3b390bAaD34213C173A9df0dd11D84bd",
             "decimals": 18
         }
     ]
