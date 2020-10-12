@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T19:00:50.461Z",
+    "timestamp": "2020-10-12T19:12:08.567Z",
     "version": {
         "major": 1,
-        "minor": 5972,
+        "minor": 5973,
         "patch": 0
     },
     "keywords": [
@@ -31617,6 +31617,13 @@
             "name": "OFF-GREEN",
             "symbol": "grn",
             "address": "0xEaFAaf06676D68373b371A091624421B9d95548D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Bulldog Finance",
+            "symbol": "YBDF",
+            "address": "0xD45a58886421e9daC1F7c0357a5214739134A227",
             "decimals": 18
         }
     ]
