@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:57:15.406Z",
+    "timestamp": "2020-10-12T03:00:14.705Z",
     "version": {
         "major": 1,
-        "minor": 5842,
+        "minor": 5843,
         "patch": 0
     },
     "keywords": [
@@ -30707,6 +30707,13 @@
             "name": "Happy Coin",
             "symbol": "HC",
             "address": "0x317EA28Db0d84eEC41774065656497A868f2a69c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CheGuevara",
+            "symbol": "Che",
+            "address": "0x25a1DE1C3eE658FE034B8914a1D8d34110423AF8",
             "decimals": 18
         }
     ]
