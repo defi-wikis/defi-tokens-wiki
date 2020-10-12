@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:01:54.676Z",
+    "timestamp": "2020-10-12T18:10:31.003Z",
     "version": {
         "major": 1,
-        "minor": 5958,
+        "minor": 5959,
         "patch": 0
     },
     "keywords": [
@@ -31519,6 +31519,13 @@
             "name": "Phoswap.io",
             "symbol": "PHO",
             "address": "0x8C26bE416Eca87aA19d1511cE5d675eA4eDc073C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CLOE",
+            "symbol": "CLOE",
+            "address": "0xae029594d445518F76844099a045ebd40332A90f",
             "decimals": 18
         }
     ]
