@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:44:11.516Z",
+    "timestamp": "2020-10-12T04:05:30.371Z",
     "version": {
         "major": 1,
-        "minor": 5851,
+        "minor": 5852,
         "patch": 0
     },
     "keywords": [
@@ -30770,6 +30770,13 @@
             "name": "AME",
             "symbol": "AME",
             "address": "0xdF560bB3711731F949896704aCe17534B28B83DE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BOOTY",
+            "symbol": "BOOTY",
+            "address": "0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5",
             "decimals": 18
         }
     ]
