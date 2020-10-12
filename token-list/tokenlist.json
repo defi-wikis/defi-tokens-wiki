@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:13:12.254Z",
+    "timestamp": "2020-10-12T04:22:51.875Z",
     "version": {
         "major": 1,
-        "minor": 5854,
+        "minor": 5855,
         "patch": 0
     },
     "keywords": [
@@ -30791,6 +30791,13 @@
             "name": "Cofix.io",
             "symbol": "cofi",
             "address": "0x8daf378DB0F46D6Fa43B263485052A2f4DFaA19d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hotpot Swap",
+            "symbol": "HOTS",
+            "address": "0xe370646a8cCE6b4095f149423a89402cBFdC93Cb",
             "decimals": 18
         }
     ]
