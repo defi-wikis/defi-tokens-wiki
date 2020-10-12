@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T13:31:22.490Z",
+    "timestamp": "2020-10-12T13:55:57.568Z",
     "version": {
         "major": 1,
-        "minor": 5926,
+        "minor": 5927,
         "patch": 0
     },
     "keywords": [
@@ -31295,6 +31295,13 @@
             "name": "DeFi Craze Booster Fund",
             "symbol": "DCBF",
             "address": "0x872EdB78000F2975118dB32f4F5a2e9d1a92962C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Testtokken.test",
+            "symbol": "TESTT",
+            "address": "0xFc22E5127074e5A5E4ADe4ec6287649fdf4ab09e",
             "decimals": 18
         }
     ]
