@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T14:02:16.579Z",
+    "timestamp": "2020-10-12T14:05:17.534Z",
     "version": {
         "major": 1,
-        "minor": 5928,
+        "minor": 5929,
         "patch": 0
     },
     "keywords": [
@@ -31309,6 +31309,13 @@
             "name": "Definer",
             "symbol": "FIN",
             "address": "0xD322eFb616462F3a5dC3D352eb293853096a0dc8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DAOfi finance",
+            "symbol": "DAOF",
+            "address": "0x7978b86837B8F76175ed1E181dDF5CFBF15a5dc9",
             "decimals": 18
         }
     ]
