@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T05:54:45.982Z",
+    "timestamp": "2020-10-12T05:59:39.490Z",
     "version": {
         "major": 1,
-        "minor": 5867,
+        "minor": 5868,
         "patch": 0
     },
     "keywords": [
@@ -30882,6 +30882,13 @@
             "name": "MIRROR WORLD NETWORK",
             "symbol": "MW",
             "address": "0x98446E450A21089081504981815E0201EBc4Bb9E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MILKSHAKE",
+            "symbol": "MILK21",
+            "address": "0x824e3eeceD0185A815fCF6547415F85480b69854",
             "decimals": 18
         }
     ]
