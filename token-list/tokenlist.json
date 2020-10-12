@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:26:22.257Z",
+    "timestamp": "2020-10-12T08:29:29.256Z",
     "version": {
         "major": 1,
-        "minor": 5886,
+        "minor": 5887,
         "patch": 0
     },
     "keywords": [
@@ -31015,6 +31015,13 @@
             "name": "COFFEE TREE",
             "symbol": "COFM",
             "address": "0x50A16550DCf587D111Bf81D8A20Ada22F102375E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PAJEET",
+            "symbol": "JEET",
+            "address": "0x6a7dcE9B5ab0852D1D69877667d60914E396c4E7",
             "decimals": 18
         }
     ]
