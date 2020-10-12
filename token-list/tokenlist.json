@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:19:57.447Z",
+    "timestamp": "2020-10-12T03:32:50.185Z",
     "version": {
         "major": 1,
-        "minor": 5849,
+        "minor": 5850,
         "patch": 0
     },
     "keywords": [
@@ -30756,6 +30756,13 @@
             "name": "spaceswap.app",
             "symbol": "SHAKE",
             "address": "0x3D42616Bf78d8BD2541B703a495aecece18EE5cf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hamlos Finance",
+            "symbol": "HAML",
+            "address": "0x79dDD70948aB0b7689547ef68135f387dB820CF8",
             "decimals": 18
         }
     ]
