@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T15:14:50.050Z",
+    "timestamp": "2020-10-12T15:21:35.902Z",
     "version": {
         "major": 1,
-        "minor": 5937,
+        "minor": 5938,
         "patch": 0
     },
     "keywords": [
@@ -31372,6 +31372,13 @@
             "name": "SHAKA",
             "symbol": "SHAKA",
             "address": "0x6924456C04f8E583E7df7222502dA6CbebdeEBF5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Woo Trade @ woo.network",
+            "symbol": "WOO",
+            "address": "0x809BA0a0Da4DE9320bff2Cd570802746A6d3d81A",
             "decimals": 18
         }
     ]
