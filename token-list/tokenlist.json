@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T17:44:35.427Z",
+    "timestamp": "2020-10-12T17:44:50.622Z",
     "version": {
         "major": 1,
-        "minor": 5954,
+        "minor": 5955,
         "patch": 0
     },
     "keywords": [
@@ -31492,6 +31492,13 @@
             "symbol": "BNC",
             "address": "0xd16370353C62bb7215Cdd50ba0D103BF31c2d088",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SWAG.Finance",
+            "symbol": "SWAG",
+            "address": "0x42e8E6884aC25F9c2D02Db9A47E53b86e96D5a40",
+            "decimals": 8
         }
     ]
 }
