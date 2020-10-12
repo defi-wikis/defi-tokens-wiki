@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T22:58:19.889Z",
+    "timestamp": "2020-10-12T23:15:20.135Z",
     "version": {
         "major": 1,
-        "minor": 5994,
+        "minor": 5995,
         "patch": 0
     },
     "keywords": [
@@ -31771,6 +31771,13 @@
             "name": "Fuck You Insider",
             "symbol": "FYI",
             "address": "0x2468Cb33772AfEA44DF88C0F40f4A4E5055CcA44",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JustHodlFinance",
+            "symbol": "JHF",
+            "address": "0x1Da302286eC040AFfb8Fa17Bcd95f2cFc1BFFa20",
             "decimals": 18
         }
     ]
