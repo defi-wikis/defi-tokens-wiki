@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:40:02.115Z",
+    "timestamp": "2020-10-12T18:48:30.298Z",
     "version": {
         "major": 1,
-        "minor": 5968,
+        "minor": 5969,
         "patch": 0
     },
     "keywords": [
@@ -31589,6 +31589,13 @@
             "name": "Wrapped ERC-1155",
             "symbol": "WMT",
             "address": "0x5963FD7cA9b17b85768476019F81CB43d9d1818E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Chellona Coin",
+            "symbol": "CNU",
+            "address": "0x5a3BfDc8FD6FB8b7cFA464bc285460c9af403296",
             "decimals": 18
         }
     ]
