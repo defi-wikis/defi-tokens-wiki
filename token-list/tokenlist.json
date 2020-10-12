@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T14:55:15.234Z",
+    "timestamp": "2020-10-12T14:59:56.889Z",
     "version": {
         "major": 1,
-        "minor": 5933,
+        "minor": 5934,
         "patch": 0
     },
     "keywords": [
@@ -31344,6 +31344,13 @@
             "name": "Core Finance Rebase",
             "symbol": "CORS",
             "address": "0x71103728Ab86aB978E12f6fA6D5D1eae2d87eeFe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AMM",
+            "symbol": "AMM",
+            "address": "0xeAfaF0AE730711a1da037636106C08571BFfEfE3",
             "decimals": 18
         }
     ]
