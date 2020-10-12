@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:05:30.371Z",
+    "timestamp": "2020-10-12T04:12:16.484Z",
     "version": {
         "major": 1,
-        "minor": 5852,
+        "minor": 5853,
         "patch": 0
     },
     "keywords": [
@@ -30777,6 +30777,13 @@
             "name": "BOOTY",
             "symbol": "BOOTY",
             "address": "0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Land Lab",
+            "symbol": "LAND",
+            "address": "0xBBb03dd692aab61F27679E18b2AAE995cA37C090",
             "decimals": 18
         }
     ]
