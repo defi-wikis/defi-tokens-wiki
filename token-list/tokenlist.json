@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:26:09.682Z",
+    "timestamp": "2020-10-12T08:26:22.257Z",
     "version": {
         "major": 1,
-        "minor": 5885,
+        "minor": 5886,
         "patch": 0
     },
     "keywords": [
@@ -31009,6 +31009,13 @@
             "symbol": "SEAT",
             "address": "0x950e2CC54afD7CC43cC3c36051F07A76E31d86fc",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "COFFEE TREE",
+            "symbol": "COFM",
+            "address": "0x50A16550DCf587D111Bf81D8A20Ada22F102375E",
+            "decimals": 18
         }
     ]
 }
