@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T05:59:39.490Z",
+    "timestamp": "2020-10-12T06:14:35.341Z",
     "version": {
         "major": 1,
-        "minor": 5868,
+        "minor": 5869,
         "patch": 0
     },
     "keywords": [
@@ -30889,6 +30889,13 @@
             "name": "MILKSHAKE",
             "symbol": "MILK21",
             "address": "0x824e3eeceD0185A815fCF6547415F85480b69854",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Innovation Defi Coin",
+            "symbol": "IDC",
+            "address": "0xFA4600907Febd3b5E04344E75ECee2b4B2f6aa8d",
             "decimals": 18
         }
     ]
