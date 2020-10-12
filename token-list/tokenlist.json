@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:26:30.338Z",
+    "timestamp": "2020-10-12T01:28:10.190Z",
     "version": {
         "major": 1,
-        "minor": 5828,
+        "minor": 5829,
         "patch": 0
     },
     "keywords": [
@@ -30610,6 +30610,13 @@
             "symbol": "CDS",
             "address": "0x7C877C15c41bCAb64Ec6541cbB5605d98d4191e7",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Core Chain",
+            "symbol": "COSC",
+            "address": "0x4CD122524577C91ec3D9cE5f2C8C8e12790988Bf",
+            "decimals": 18
         }
     ]
 }
