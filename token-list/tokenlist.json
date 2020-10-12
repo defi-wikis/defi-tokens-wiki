@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T20:56:01.956Z",
+    "timestamp": "2020-10-12T21:15:45.031Z",
     "version": {
         "major": 1,
-        "minor": 5983,
+        "minor": 5984,
         "patch": 0
     },
     "keywords": [
@@ -31694,6 +31694,13 @@
             "name": "YFOS.Finance",
             "symbol": "YFOS",
             "address": "0xEdBc1B538FF8631b1fc8F87CAA1800bd0836B3c7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "potus2020.network",
+            "symbol": "2020",
+            "address": "0x7009e9fEA45F45F5AB8DD0Fa0d1d4d1D8fAae535",
             "decimals": 18
         }
     ]
