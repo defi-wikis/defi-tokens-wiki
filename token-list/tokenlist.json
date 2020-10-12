@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T19:12:08.567Z",
+    "timestamp": "2020-10-12T19:27:45.361Z",
     "version": {
         "major": 1,
-        "minor": 5973,
+        "minor": 5974,
         "patch": 0
     },
     "keywords": [
@@ -31624,6 +31624,13 @@
             "name": "Bulldog Finance",
             "symbol": "YBDF",
             "address": "0xD45a58886421e9daC1F7c0357a5214739134A227",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Game.Finance",
+            "symbol": "GFI",
+            "address": "0xa8EaD2304C78f879fC0c2c9C3EabA02c3CCaE4fD",
             "decimals": 18
         }
     ]
