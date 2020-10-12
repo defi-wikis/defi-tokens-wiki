@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T12:57:46.927Z",
+    "timestamp": "2020-10-12T12:58:18.658Z",
     "version": {
         "major": 1,
-        "minor": 5921,
+        "minor": 5922,
         "patch": 0
     },
     "keywords": [
@@ -31261,6 +31261,13 @@
             "symbol": "GSWAP",
             "address": "0x776C22c9127f3bD5f918d3aA66dbC960761BD6c2",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "E-Commerce China",
+            "symbol": "ECC",
+            "address": "0x6f98d5E27a17d923c5FA400FC3d3aF917563cba9",
+            "decimals": 5
         }
     ]
 }
