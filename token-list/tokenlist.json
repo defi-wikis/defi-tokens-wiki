@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T12:04:12.963Z",
+    "timestamp": "2020-10-12T12:07:41.860Z",
     "version": {
         "major": 1,
-        "minor": 5915,
+        "minor": 5916,
         "patch": 0
     },
     "keywords": [
@@ -31218,6 +31218,13 @@
             "name": "AXIA PROTOCOL V3",
             "symbol": "AXIA-V3",
             "address": "0xd25a816338e49ED3e80B6E0406ec80F3e74C3E5f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JHYP",
+            "symbol": "JHYP",
+            "address": "0x07E0Cb72437C5726e006FCd06c26438126412702",
             "decimals": 18
         }
     ]
