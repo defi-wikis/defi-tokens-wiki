@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T12:07:41.860Z",
+    "timestamp": "2020-10-12T12:12:13.327Z",
     "version": {
         "major": 1,
-        "minor": 5916,
+        "minor": 5917,
         "patch": 0
     },
     "keywords": [
@@ -31225,6 +31225,13 @@
             "name": "JHYP",
             "symbol": "JHYP",
             "address": "0x07E0Cb72437C5726e006FCd06c26438126412702",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFBI.Finance",
+            "symbol": "YFBI",
+            "address": "0x51057F72CD9AAd33b508285579387c6E29B8d97C",
             "decimals": 18
         }
     ]
