@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T23:37:59.985Z",
+    "timestamp": "2020-10-12T23:39:40.157Z",
     "version": {
         "major": 1,
-        "minor": 6001,
+        "minor": 6002,
         "patch": 0
     },
     "keywords": [
@@ -31820,6 +31820,13 @@
             "name": "BANCA Token",
             "symbol": "BANCA",
             "address": "0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIXED.FINANCE",
+            "symbol": "YFIXED",
+            "address": "0xaF509dE3b101b96798BAb5b022B0587f70d570Ed",
             "decimals": 18
         }
     ]
