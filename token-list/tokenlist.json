@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T17:44:50.622Z",
+    "timestamp": "2020-10-12T17:46:02.189Z",
     "version": {
         "major": 1,
-        "minor": 5955,
+        "minor": 5956,
         "patch": 0
     },
     "keywords": [
@@ -31499,6 +31499,13 @@
             "symbol": "SWAG",
             "address": "0x42e8E6884aC25F9c2D02Db9A47E53b86e96D5a40",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Georly.finance",
+            "symbol": "GEFI",
+            "address": "0x7cfD7859Ca687ddfBc5c08be6EdE47443cDe8797",
+            "decimals": 18
         }
     ]
 }
