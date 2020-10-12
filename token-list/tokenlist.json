@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T05:08:02.675Z",
+    "timestamp": "2020-10-12T05:12:51.700Z",
     "version": {
         "major": 1,
-        "minor": 5863,
+        "minor": 5864,
         "patch": 0
     },
     "keywords": [
@@ -30854,6 +30854,13 @@
             "name": "Friendcoin007",
             "symbol": "FC007",
             "address": "0x35F82CAa11C2459E179Bc8102cCE439D77C8Ef25",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Vault Chain",
+            "symbol": "COVC",
+            "address": "0x964Ae3bA1314105140Adb51c5D82047BD053cDbb",
             "decimals": 18
         }
     ]
