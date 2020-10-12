@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T07:19:08.653Z",
+    "timestamp": "2020-10-12T07:19:51.078Z",
     "version": {
         "major": 1,
-        "minor": 5879,
+        "minor": 5880,
         "patch": 0
     },
     "keywords": [
@@ -30966,6 +30966,13 @@
             "name": "Filecoin",
             "symbol": "FIL",
             "address": "0x9c75E6fefC396aA9DA477b3c492BCfF30d96d40D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DogDeFiCoin",
+            "symbol": "DDF",
+            "address": "0x02d2585EB37eED44f00c8488541B9d95bc68524E",
             "decimals": 18
         }
     ]
