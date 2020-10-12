@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:19:46.095Z",
+    "timestamp": "2020-10-12T03:19:57.447Z",
     "version": {
         "major": 1,
-        "minor": 5848,
+        "minor": 5849,
         "patch": 0
     },
     "keywords": [
@@ -30749,6 +30749,13 @@
             "name": "DeFiPixel.com",
             "symbol": "DPXL",
             "address": "0xde69bB6e8EB0746016086971216377E7c7bcb286",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "spaceswap.app",
+            "symbol": "SHAKE",
+            "address": "0x3D42616Bf78d8BD2541B703a495aecece18EE5cf",
             "decimals": 18
         }
     ]
