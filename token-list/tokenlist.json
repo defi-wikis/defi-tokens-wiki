@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:53:10.328Z",
+    "timestamp": "2020-10-12T05:03:21.487Z",
     "version": {
         "major": 1,
-        "minor": 5861,
+        "minor": 5862,
         "patch": 0
     },
     "keywords": [
@@ -30840,6 +30840,13 @@
             "name": "DeFiner",
             "symbol": "FIN",
             "address": "0xafBf69fF61a7Ba0d2beD8E64b627FB17CC91EF03",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "world",
+            "symbol": "WORLD",
+            "address": "0x6dabb64c6E66B53de22Cb46A7D0aaCc226d99B40",
             "decimals": 18
         }
     ]
