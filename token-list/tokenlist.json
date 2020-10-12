@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:00:14.705Z",
+    "timestamp": "2020-10-12T03:08:54.855Z",
     "version": {
         "major": 1,
-        "minor": 5843,
+        "minor": 5844,
         "patch": 0
     },
     "keywords": [
@@ -30714,6 +30714,13 @@
             "name": "CheGuevara",
             "symbol": "Che",
             "address": "0x25a1DE1C3eE658FE034B8914a1D8d34110423AF8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KIRA.Network",
+            "symbol": "KIRA",
+            "address": "0x5a6050EF066AAB938C2b34Ad4Fcf23d609FA9f78",
             "decimals": 18
         }
     ]
