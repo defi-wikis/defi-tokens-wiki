@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:35:15.463Z",
+    "timestamp": "2020-10-12T18:36:40.121Z",
     "version": {
         "major": 1,
-        "minor": 5966,
+        "minor": 5967,
         "patch": 0
     },
     "keywords": [
@@ -31575,6 +31575,13 @@
             "name": "BUY BURN MOON",
             "symbol": "BBM",
             "address": "0x8050794AcbDde9135175A29e46dc397dB8473CC9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped ERC-1155",
+            "symbol": "WMT",
+            "address": "0x40ce0A1D8F4999807b92ec266a025F071814b15d",
             "decimals": 18
         }
     ]
