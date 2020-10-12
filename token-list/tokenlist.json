@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T16:59:50.142Z",
+    "timestamp": "2020-10-12T17:03:55.143Z",
     "version": {
         "major": 1,
-        "minor": 5949,
+        "minor": 5950,
         "patch": 0
     },
     "keywords": [
@@ -31456,6 +31456,13 @@
             "name": "Liquidity Income",
             "symbol": "LBI",
             "address": "0x28832484e8124634a248F2bc520F26E8345a56CD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Cosmonaut",
+            "symbol": "COSMO",
+            "address": "0x987976427214E9C04207D109426337ED80083519",
             "decimals": 18
         }
     ]
