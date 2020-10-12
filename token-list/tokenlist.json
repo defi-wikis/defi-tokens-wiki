@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T11:56:14.712Z",
+    "timestamp": "2020-10-12T12:03:12.600Z",
     "version": {
         "major": 1,
-        "minor": 5913,
+        "minor": 5914,
         "patch": 0
     },
     "keywords": [
@@ -31205,6 +31205,13 @@
             "symbol": "JDE",
             "address": "0x58CB2e0E85F5026ba5d3EE4C6C860d9bcD43736d",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "JW.Finance",
+            "symbol": "JWT",
+            "address": "0x7B804B703dd32a549aFe677c90a1f4516642617e",
+            "decimals": 6
         }
     ]
 }
