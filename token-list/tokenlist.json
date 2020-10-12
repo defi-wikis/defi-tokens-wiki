@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:28:10.190Z",
+    "timestamp": "2020-10-12T01:33:47.769Z",
     "version": {
         "major": 1,
-        "minor": 5829,
+        "minor": 5830,
         "patch": 0
     },
     "keywords": [
@@ -30616,6 +30616,13 @@
             "name": "Core Chain",
             "symbol": "COSC",
             "address": "0x4CD122524577C91ec3D9cE5f2C8C8e12790988Bf",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "decraft.finance",
+            "symbol": "Craft",
+            "address": "0xe3168879e18331cF095B741f9D9701d37dCC4413",
             "decimals": 18
         }
     ]
