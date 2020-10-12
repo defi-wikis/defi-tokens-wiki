@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:23:02.156Z",
+    "timestamp": "2020-10-12T18:35:15.463Z",
     "version": {
         "major": 1,
-        "minor": 5965,
+        "minor": 5966,
         "patch": 0
     },
     "keywords": [
@@ -31568,6 +31568,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0xe894635d59B7Ba1F83063d37Be50072658cEbd3b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BUY BURN MOON",
+            "symbol": "BBM",
+            "address": "0x8050794AcbDde9135175A29e46dc397dB8473CC9",
             "decimals": 18
         }
     ]
