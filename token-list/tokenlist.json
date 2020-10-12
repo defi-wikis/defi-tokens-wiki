@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T09:20:47.693Z",
+    "timestamp": "2020-10-12T09:28:55.055Z",
     "version": {
         "major": 1,
-        "minor": 5895,
+        "minor": 5896,
         "patch": 0
     },
     "keywords": [
@@ -31078,6 +31078,13 @@
             "name": "TensorCore Network",
             "symbol": "TCN",
             "address": "0x153eBd2995781269A251b92A17aA494e6Ca2780C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ManguCorp.com",
+            "symbol": "MNGUZ",
+            "address": "0xAFfA2f98238691F74A3FF3C69B3ABDe40348f7A6",
             "decimals": 18
         }
     ]
