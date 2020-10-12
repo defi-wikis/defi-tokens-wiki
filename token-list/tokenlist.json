@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T13:29:17.418Z",
+    "timestamp": "2020-10-12T13:31:22.490Z",
     "version": {
         "major": 1,
-        "minor": 5925,
+        "minor": 5926,
         "patch": 0
     },
     "keywords": [
@@ -31288,6 +31288,13 @@
             "name": "Boss Coin",
             "symbol": "BOSS",
             "address": "0xBC07DF1b6DB22A908D226840223A1E78c6690427",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFi Craze Booster Fund",
+            "symbol": "DCBF",
+            "address": "0x872EdB78000F2975118dB32f4F5a2e9d1a92962C",
             "decimals": 18
         }
     ]
