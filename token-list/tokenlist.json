@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T10:48:16.568Z",
+    "timestamp": "2020-10-12T11:04:17.043Z",
     "version": {
         "major": 1,
-        "minor": 5910,
+        "minor": 5911,
         "patch": 0
     },
     "keywords": [
@@ -31183,6 +31183,13 @@
             "name": "KEK.finance",
             "symbol": "KEK",
             "address": "0x5B604ee6F7D2277E2704e13566a93C97A16B75a7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Jade Coin",
+            "symbol": "JC",
+            "address": "0x4eA87cD0e60BD54F15BF4c412172790f40e906Ba",
             "decimals": 18
         }
     ]
