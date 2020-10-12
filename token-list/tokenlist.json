@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T22:56:45.136Z",
+    "timestamp": "2020-10-12T22:58:19.889Z",
     "version": {
         "major": 1,
-        "minor": 5993,
+        "minor": 5994,
         "patch": 0
     },
     "keywords": [
@@ -31764,6 +31764,13 @@
             "name": "OpticalSwitchToken",
             "symbol": "OST",
             "address": "0x25598FC5186D3911200afd2d0eCa6084C46913f1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Fuck You Insider",
+            "symbol": "FYI",
+            "address": "0x2468Cb33772AfEA44DF88C0F40f4A4E5055CcA44",
             "decimals": 18
         }
     ]
