@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T06:49:21.631Z",
+    "timestamp": "2020-10-12T06:52:15.188Z",
     "version": {
         "major": 1,
-        "minor": 5872,
+        "minor": 5873,
         "patch": 0
     },
     "keywords": [
@@ -30917,6 +30917,13 @@
             "name": "Vampire Sucks",
             "symbol": "VAMPIRE",
             "address": "0xf58ed5cA0EC4dD52DDC81536dD87b87c072898fE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap X",
+            "symbol": "UNIX",
+            "address": "0x5728e59002939074a10D0819732DcFc0bf6b5610",
             "decimals": 18
         }
     ]
