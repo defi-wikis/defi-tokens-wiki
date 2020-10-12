@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T09:16:05.218Z",
+    "timestamp": "2020-10-12T09:20:47.693Z",
     "version": {
         "major": 1,
-        "minor": 5894,
+        "minor": 5895,
         "patch": 0
     },
     "keywords": [
@@ -31071,6 +31071,13 @@
             "name": "CoFiX.io",
             "symbol": "CoFi",
             "address": "0xA2a86694bEd5e9C745EF4c60B145B8dDa7EDbab5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TensorCore Network",
+            "symbol": "TCN",
+            "address": "0x153eBd2995781269A251b92A17aA494e6Ca2780C",
             "decimals": 18
         }
     ]
