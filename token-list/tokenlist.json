@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T00:28:54.588Z",
+    "timestamp": "2020-10-12T00:45:55.191Z",
     "version": {
         "major": 1,
-        "minor": 5820,
+        "minor": 5821,
         "patch": 0
     },
     "keywords": [
@@ -30553,6 +30553,13 @@
             "name": "Casino Royale",
             "symbol": "CARO",
             "address": "0x6F29d81bD0afec6f9FA3F0173456B61D996cc85f",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CorbV2",
+            "symbol": "CORBV2",
+            "address": "0x21Cb6DEA9b3256a27118d3dC4E767207f1C8Ff0B",
             "decimals": 18
         }
     ]
