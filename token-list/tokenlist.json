@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T23:30:17.629Z",
+    "timestamp": "2020-10-12T23:34:09.778Z",
     "version": {
         "major": 1,
-        "minor": 5999,
+        "minor": 6000,
         "patch": 0
     },
     "keywords": [
@@ -31807,6 +31807,13 @@
             "symbol": "BEAR",
             "address": "0xAf162491C0B21900C01F4Cc0F7110238AAcdebE7",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "DoggoNFT",
+            "symbol": "DOGGO",
+            "address": "0x6f84C5e72A91628C8CF638Df72566Ed4699A6675",
+            "decimals": 18
         }
     ]
 }
