@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T21:16:10.319Z",
+    "timestamp": "2020-10-12T21:19:55.119Z",
     "version": {
         "major": 1,
-        "minor": 5985,
+        "minor": 5986,
         "patch": 0
     },
     "keywords": [
@@ -31708,6 +31708,13 @@
             "name": "Sira Protocol",
             "symbol": "SIRA",
             "address": "0xe338838A789d495540b0d0d5300b89E15EE7c7bE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "POTUS 2020",
+            "symbol": "2020",
+            "address": "0x010d4007Cb7139515507c11C9388D7AccF049100",
             "decimals": 18
         }
     ]
