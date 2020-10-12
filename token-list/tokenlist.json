@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T06:14:35.341Z",
+    "timestamp": "2020-10-12T06:18:32.731Z",
     "version": {
         "major": 1,
-        "minor": 5869,
+        "minor": 5870,
         "patch": 0
     },
     "keywords": [
@@ -30896,6 +30896,13 @@
             "name": "Innovation Defi Coin",
             "symbol": "IDC",
             "address": "0xFA4600907Febd3b5E04344E75ECee2b4B2f6aa8d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Vaults",
+            "symbol": "SUVA",
+            "address": "0x1500C406205819F85C45C3ba5d8c42bbc1AeDeF0",
             "decimals": 18
         }
     ]
