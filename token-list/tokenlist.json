@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:12:20.391Z",
+    "timestamp": "2020-10-12T03:19:15.039Z",
     "version": {
         "major": 1,
-        "minor": 5845,
+        "minor": 5846,
         "patch": 0
     },
     "keywords": [
@@ -30728,6 +30728,13 @@
             "name": "yCore.Fi",
             "symbol": "yCORE",
             "address": "0xEe5D8b7461113dd07d718118305a997C41852941",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiner",
+            "symbol": "FIN",
+            "address": "0xA4F7D096b1D26292E10ac83EBEb92A45a89bc792",
             "decimals": 18
         }
     ]
