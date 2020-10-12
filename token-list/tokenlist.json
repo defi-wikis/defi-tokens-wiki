@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T05:49:13.259Z",
+    "timestamp": "2020-10-12T05:52:34.936Z",
     "version": {
         "major": 1,
-        "minor": 5865,
+        "minor": 5866,
         "patch": 0
     },
     "keywords": [
@@ -30868,6 +30868,13 @@
             "name": "Kenn Bosak",
             "symbol": "KENN",
             "address": "0xd1c3918C255e182B356D6e5E82b2c1e677Ae2d33",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DIGI Finance",
+            "symbol": "DIGI",
+            "address": "0x3b4EAA9Aa78CFF89Bf795ae0E19d08699f1803Ee",
             "decimals": 18
         }
     ]
