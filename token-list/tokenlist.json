@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T10:16:03.733Z",
+    "timestamp": "2020-10-12T10:26:04.232Z",
     "version": {
         "major": 1,
-        "minor": 5906,
+        "minor": 5907,
         "patch": 0
     },
     "keywords": [
@@ -31155,6 +31155,13 @@
             "name": "Injective Protocol",
             "symbol": "INJ",
             "address": "0x6aE892677397EA4e89702057E53537A2EfA858bF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Veritas",
+            "symbol": "VTS",
+            "address": "0x125fb7121df1Cb201556d5cDD58a8EdffcA6863b",
             "decimals": 18
         }
     ]
