@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:22:51.875Z",
+    "timestamp": "2020-10-12T04:30:29.803Z",
     "version": {
         "major": 1,
-        "minor": 5855,
+        "minor": 5856,
         "patch": 0
     },
     "keywords": [
@@ -30798,6 +30798,13 @@
             "name": "Hotpot Swap",
             "symbol": "HOTS",
             "address": "0xe370646a8cCE6b4095f149423a89402cBFdC93Cb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TESLA",
+            "symbol": "TESLA",
+            "address": "0x8C29a80b69996959FFBf819C1750CD5126DfF246",
             "decimals": 18
         }
     ]
