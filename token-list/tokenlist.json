@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T23:47:07.279Z",
+    "timestamp": "2020-10-12T23:54:02.419Z",
     "version": {
         "major": 1,
-        "minor": 6003,
+        "minor": 6004,
         "patch": 0
     },
     "keywords": [
@@ -31834,6 +31834,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0xC9627eC7Dc96cCD30f4F2170349fc10FD8574e0D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniqueCraft.finance",
+            "symbol": "UNICRAFT",
+            "address": "0x6dE55CDCCaa749513f47667F9886c5684b4cF70F",
             "decimals": 18
         }
     ]
