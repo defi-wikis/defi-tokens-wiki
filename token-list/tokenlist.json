@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:12:36.837Z",
+    "timestamp": "2020-10-12T01:13:21.169Z",
     "version": {
         "major": 1,
-        "minor": 5825,
+        "minor": 5826,
         "patch": 0
     },
     "keywords": [
@@ -30588,6 +30588,13 @@
             "name": "Xcore",
             "symbol": "XCORE",
             "address": "0x79DC7dca75418FcddC952C22475eD660cE4316Ae",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "decraft.finance",
+            "symbol": "CRAFT",
+            "address": "0x8f5341F8ef216b8c2078d77f18E90EBD3C634882",
             "decimals": 18
         }
     ]
