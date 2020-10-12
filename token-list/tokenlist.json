@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T06:52:15.188Z",
+    "timestamp": "2020-10-12T06:59:21.313Z",
     "version": {
         "major": 1,
-        "minor": 5873,
+        "minor": 5874,
         "patch": 0
     },
     "keywords": [
@@ -30924,6 +30924,13 @@
             "name": "Uniswap X",
             "symbol": "UNIX",
             "address": "0x5728e59002939074a10D0819732DcFc0bf6b5610",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core Relaunch",
+            "symbol": "CORL",
+            "address": "0x5F8c7b7D7339469B2fd4B42C0f682394e1B56cA5",
             "decimals": 18
         }
     ]
