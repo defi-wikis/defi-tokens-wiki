@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:19:15.039Z",
+    "timestamp": "2020-10-12T03:19:26.734Z",
     "version": {
         "major": 1,
-        "minor": 5846,
+        "minor": 5847,
         "patch": 0
     },
     "keywords": [
@@ -30735,6 +30735,13 @@
             "name": "DeFiner",
             "symbol": "FIN",
             "address": "0xA4F7D096b1D26292E10ac83EBEb92A45a89bc792",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BITCOIN PIZZA DAY",
+            "symbol": "PIZZA",
+            "address": "0x9Eb2ED4229E03e087E365c2dB7C5E9C26a2f328e",
             "decimals": 18
         }
     ]
