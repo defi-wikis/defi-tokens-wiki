@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T00:54:10.159Z",
+    "timestamp": "2020-10-12T01:09:54.856Z",
     "version": {
         "major": 1,
-        "minor": 5823,
+        "minor": 5824,
         "patch": 0
     },
     "keywords": [
@@ -30574,6 +30574,13 @@
             "name": "paraswap.io",
             "symbol": "PARA",
             "address": "0xB1c335268a5299006AE1b16cA68924fFD6918902",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "bullet",
+            "symbol": "bull",
+            "address": "0x34506246D860D53fb41c463213e740F157fa1174",
             "decimals": 18
         }
     ]
