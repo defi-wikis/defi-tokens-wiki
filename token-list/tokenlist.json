@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T18:48:30.298Z",
+    "timestamp": "2020-10-12T18:50:21.193Z",
     "version": {
         "major": 1,
-        "minor": 5969,
+        "minor": 5970,
         "patch": 0
     },
     "keywords": [
@@ -31596,6 +31596,13 @@
             "name": "Chellona Coin",
             "symbol": "CNU",
             "address": "0x5a3BfDc8FD6FB8b7cFA464bc285460c9af403296",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BitData",
+            "symbol": "BTD",
+            "address": "0x24576b899c285BEa4744Ca713C973E7190d40D1B",
             "decimals": 18
         }
     ]
