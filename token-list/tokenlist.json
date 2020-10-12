@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T23:19:55.031Z",
+    "timestamp": "2020-10-12T23:26:29.927Z",
     "version": {
         "major": 1,
-        "minor": 5997,
+        "minor": 5998,
         "patch": 0
     },
     "keywords": [
@@ -31792,6 +31792,13 @@
             "name": "Derelict Dollars",
             "symbol": "LICT",
             "address": "0xcE658F51F97363366C8B942CA87DcE96FFDb0636",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YOFIX.FINANCE",
+            "symbol": "YOFIX",
+            "address": "0x0e6f0508B60b0CB49ebDEfbbAEB2EF85D003eAe7",
             "decimals": 18
         }
     ]
