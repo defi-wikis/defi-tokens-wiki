@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T00:45:55.191Z",
+    "timestamp": "2020-10-12T00:50:30.478Z",
     "version": {
         "major": 1,
-        "minor": 5821,
+        "minor": 5822,
         "patch": 0
     },
     "keywords": [
@@ -30560,6 +30560,13 @@
             "name": "CorbV2",
             "symbol": "CORBV2",
             "address": "0x21Cb6DEA9b3256a27118d3dC4E767207f1C8Ff0B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "deCraft.finacne",
+            "symbol": "CRAFT",
+            "address": "0x1bDa90983A576C8Ae7C0Af677932521Cc97B9AAE",
             "decimals": 18
         }
     ]
