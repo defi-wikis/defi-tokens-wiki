@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:19:26.734Z",
+    "timestamp": "2020-10-12T03:19:46.095Z",
     "version": {
         "major": 1,
-        "minor": 5847,
+        "minor": 5848,
         "patch": 0
     },
     "keywords": [
@@ -30742,6 +30742,13 @@
             "name": "BITCOIN PIZZA DAY",
             "symbol": "PIZZA",
             "address": "0x9Eb2ED4229E03e087E365c2dB7C5E9C26a2f328e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DeFiPixel.com",
+            "symbol": "DPXL",
+            "address": "0xde69bB6e8EB0746016086971216377E7c7bcb286",
             "decimals": 18
         }
     ]
