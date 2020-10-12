@@ -1,0 +1,7 @@
+{
+    "name": "UsdbToken",
+    "symbol": "USDB",
+    "address": "0x4B5EE861a3a713642809b1817A1e79B67b502755",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
