@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T00:50:30.478Z",
+    "timestamp": "2020-10-12T00:54:10.159Z",
     "version": {
         "major": 1,
-        "minor": 5822,
+        "minor": 5823,
         "patch": 0
     },
     "keywords": [
@@ -30567,6 +30567,13 @@
             "name": "deCraft.finacne",
             "symbol": "CRAFT",
             "address": "0x1bDa90983A576C8Ae7C0Af677932521Cc97B9AAE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "paraswap.io",
+            "symbol": "PARA",
+            "address": "0xB1c335268a5299006AE1b16cA68924fFD6918902",
             "decimals": 18
         }
     ]
