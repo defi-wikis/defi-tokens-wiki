@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T19:27:45.361Z",
+    "timestamp": "2020-10-12T19:29:15.817Z",
     "version": {
         "major": 1,
-        "minor": 5974,
+        "minor": 5975,
         "patch": 0
     },
     "keywords": [
@@ -31631,6 +31631,13 @@
             "name": "Game.Finance",
             "symbol": "GFI",
             "address": "0xa8EaD2304C78f879fC0c2c9C3EabA02c3CCaE4fD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CorbV2",
+            "symbol": "CorbV2",
+            "address": "0xCe115f0944A835F66b0077e6c689D4eFA2572920",
             "decimals": 18
         }
     ]
