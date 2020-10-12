@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T01:19:30.526Z",
+    "timestamp": "2020-10-12T01:26:30.338Z",
     "version": {
         "major": 1,
-        "minor": 5827,
+        "minor": 5828,
         "patch": 0
     },
     "keywords": [
@@ -30603,6 +30603,13 @@
             "symbol": "STAMP",
             "address": "0x824c68159D5a81A061944616044E93E17A5a3C42",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Commerce Digital Storm",
+            "symbol": "CDS",
+            "address": "0x7C877C15c41bCAb64Ec6541cbB5605d98d4191e7",
+            "decimals": 8
         }
     ]
 }
