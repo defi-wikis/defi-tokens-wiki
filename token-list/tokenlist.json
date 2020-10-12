@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:34:44.598Z",
+    "timestamp": "2020-10-12T04:36:40.310Z",
     "version": {
         "major": 1,
-        "minor": 5857,
+        "minor": 5858,
         "patch": 0
     },
     "keywords": [
@@ -30812,6 +30812,13 @@
             "name": "Mineral Coin",
             "symbol": "MC",
             "address": "0x2b3Cc17B5ABd19d2e63cc9249Bf83ca995f7dD48",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCraft",
+            "symbol": "yCRAFT",
+            "address": "0x48b3EE9F06EaFDd61eAF7d044d5E737de6fb4dbF",
             "decimals": 18
         }
     ]
