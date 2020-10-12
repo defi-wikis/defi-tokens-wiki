@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T02:30:25.850Z",
+    "timestamp": "2020-10-12T02:33:15.651Z",
     "version": {
         "major": 1,
-        "minor": 5837,
+        "minor": 5838,
         "patch": 0
     },
     "keywords": [
@@ -30672,6 +30672,13 @@
             "name": "yfrx.finance/",
             "symbol": "YFRX",
             "address": "0xB2316103c7D2E149336C10B623AA8Ca207Ba03f1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap V2",
+            "symbol": "UNI-V2",
+            "address": "0xf421c3f2e695C2D4C0765379cCace8adE4a480D9",
             "decimals": 18
         }
     ]
