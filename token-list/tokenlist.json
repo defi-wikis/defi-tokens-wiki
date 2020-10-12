@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T03:32:50.185Z",
+    "timestamp": "2020-10-12T03:44:11.516Z",
     "version": {
         "major": 1,
-        "minor": 5850,
+        "minor": 5851,
         "patch": 0
     },
     "keywords": [
@@ -30763,6 +30763,13 @@
             "name": "Hamlos Finance",
             "symbol": "HAML",
             "address": "0x79dDD70948aB0b7689547ef68135f387dB820CF8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AME",
+            "symbol": "AME",
+            "address": "0xdF560bB3711731F949896704aCe17534B28B83DE",
             "decimals": 18
         }
     ]
