@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T07:12:35.177Z",
+    "timestamp": "2020-10-12T07:18:10.829Z",
     "version": {
         "major": 1,
-        "minor": 5877,
+        "minor": 5878,
         "patch": 0
     },
     "keywords": [
@@ -30952,6 +30952,13 @@
             "name": "Raulito",
             "symbol": "RAUL",
             "address": "0x49656B0972395FD04160C23c46D2934a5f267Eb1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Tier",
+            "symbol": "TIER",
+            "address": "0x6Cb074B6Fc73f796C7Eaec44145c4D51Ee1094b4",
             "decimals": 18
         }
     ]
