@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T09:29:10.421Z",
+    "timestamp": "2020-10-12T09:35:12.253Z",
     "version": {
         "major": 1,
-        "minor": 5897,
+        "minor": 5898,
         "patch": 0
     },
     "keywords": [
@@ -31093,6 +31093,13 @@
             "symbol": "COP",
             "address": "0x40D063D409DE5be4FE6aa45048cE68C7AEc8c152",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "Injective Protocol",
+            "symbol": "INJ",
+            "address": "0xa0244bE523D561B93979F028f1A423E23958404b",
+            "decimals": 18
         }
     ]
 }
