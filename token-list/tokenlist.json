@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T17:31:50.140Z",
+    "timestamp": "2020-10-12T17:33:49.771Z",
     "version": {
         "major": 1,
-        "minor": 5952,
+        "minor": 5953,
         "patch": 0
     },
     "keywords": [
@@ -31477,6 +31477,13 @@
             "name": "UsdbToken",
             "symbol": "USDB",
             "address": "0x4B5EE861a3a713642809b1817A1e79B67b502755",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mini",
+            "symbol": "Mini",
+            "address": "0xFd9E7AC38610133eA898C08A05B2275Ac647106d",
             "decimals": 18
         }
     ]
