@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T11:04:17.043Z",
+    "timestamp": "2020-10-12T11:27:50.329Z",
     "version": {
         "major": 1,
-        "minor": 5911,
+        "minor": 5912,
         "patch": 0
     },
     "keywords": [
@@ -31190,6 +31190,13 @@
             "name": "Jade Coin",
             "symbol": "JC",
             "address": "0x4eA87cD0e60BD54F15BF4c412172790f40e906Ba",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Payship.org",
+            "symbol": "PSHP",
+            "address": "0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8",
             "decimals": 18
         }
     ]
