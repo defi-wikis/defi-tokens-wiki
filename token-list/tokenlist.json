@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T04:30:29.803Z",
+    "timestamp": "2020-10-12T04:34:44.598Z",
     "version": {
         "major": 1,
-        "minor": 5856,
+        "minor": 5857,
         "patch": 0
     },
     "keywords": [
@@ -30805,6 +30805,13 @@
             "name": "TESLA",
             "symbol": "TESLA",
             "address": "0x8C29a80b69996959FFBf819C1750CD5126DfF246",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mineral Coin",
+            "symbol": "MC",
+            "address": "0x2b3Cc17B5ABd19d2e63cc9249Bf83ca995f7dD48",
             "decimals": 18
         }
     ]
