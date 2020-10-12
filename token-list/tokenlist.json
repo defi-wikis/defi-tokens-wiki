@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T10:35:36.921Z",
+    "timestamp": "2020-10-12T10:48:16.568Z",
     "version": {
         "major": 1,
-        "minor": 5909,
+        "minor": 5910,
         "patch": 0
     },
     "keywords": [
@@ -31176,6 +31176,13 @@
             "name": "Free USD Faucet Finance",
             "symbol": "DefiUSD",
             "address": "0x2600B84Ad475a9Cbed65e8b7F858EB46e93db0a6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KEK.finance",
+            "symbol": "KEK",
+            "address": "0x5B604ee6F7D2277E2704e13566a93C97A16B75a7",
             "decimals": 18
         }
     ]
