@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T08:55:36.909Z",
+    "timestamp": "2020-10-12T09:01:20.176Z",
     "version": {
         "major": 1,
-        "minor": 5892,
+        "minor": 5893,
         "patch": 0
     },
     "keywords": [
@@ -31057,6 +31057,13 @@
             "name": "Gold Mine",
             "symbol": "GM",
             "address": "0x80c56CD02f22E23d4Ebe1FC4fed7c37217257bf1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SilkRoadCoin.org",
+            "symbol": "SRC",
+            "address": "0x888fcC7996248715ABB918Ff1FB513a278d92145",
             "decimals": 18
         }
     ]
