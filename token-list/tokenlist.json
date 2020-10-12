@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T07:19:51.078Z",
+    "timestamp": "2020-10-12T07:20:51.425Z",
     "version": {
         "major": 1,
-        "minor": 5880,
+        "minor": 5881,
         "patch": 0
     },
     "keywords": [
@@ -30973,6 +30973,13 @@
             "name": "DogDeFiCoin",
             "symbol": "DDF",
             "address": "0x02d2585EB37eED44f00c8488541B9d95bc68524E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Litecoin Finance",
+            "symbol": "LTCF",
+            "address": "0x4A30287888873c41F13978D283C9f38b3cb2120e",
             "decimals": 18
         }
     ]
