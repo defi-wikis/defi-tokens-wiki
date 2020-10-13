@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T17:27:45.483Z",
+    "timestamp": "2020-10-13T17:28:30.635Z",
     "version": {
         "major": 1,
-        "minor": 6156,
+        "minor": 6157,
         "patch": 0
     },
     "keywords": [
@@ -32905,6 +32905,13 @@
             "name": "SWAG.Finance",
             "symbol": "SWAG",
             "address": "0x7D438464938d2862593AB9E81759f7cEad2b30c0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "B SYSTEM TOKEN",
+            "symbol": "BST",
+            "address": "0xe586AEaa45c28a2500f4F72031e69d071480F19A",
             "decimals": 18
         }
     ]
