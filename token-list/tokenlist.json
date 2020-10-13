@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T09:10:25.561Z",
+    "timestamp": "2020-10-13T09:15:14.398Z",
     "version": {
         "major": 1,
-        "minor": 6075,
+        "minor": 6076,
         "patch": 0
     },
     "keywords": [
@@ -32338,6 +32338,13 @@
             "name": "CoFi Token",
             "symbol": "CoFi",
             "address": "0x4468Ca9c19935aD38F5DE3e4300a946dA31c6f34",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "StableDark",
+            "symbol": "SDARK",
+            "address": "0x26c7D50B9f372e1FA9cA078CC054298f36D68B17",
             "decimals": 18
         }
     ]
