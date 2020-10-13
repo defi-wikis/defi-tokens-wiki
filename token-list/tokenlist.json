@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:29:49.809Z",
+    "timestamp": "2020-10-13T07:30:15.662Z",
     "version": {
         "major": 1,
-        "minor": 6064,
+        "minor": 6065,
         "patch": 0
     },
     "keywords": [
@@ -32261,6 +32261,13 @@
             "name": "Liquidity Income",
             "symbol": "LBI",
             "address": "0xa5f67B44C60FB936Ec0b873c3392168d8d9E9762",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "InterPlanetary File System",
+            "symbol": "IPFS",
+            "address": "0xfC117Ea60689d14281Fb8d2A558D404Ae7F3f28d",
             "decimals": 18
         }
     ]
