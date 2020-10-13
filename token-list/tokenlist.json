@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:39:55.592Z",
+    "timestamp": "2020-10-13T02:42:08.672Z",
     "version": {
         "major": 1,
-        "minor": 6025,
+        "minor": 6026,
         "patch": 0
     },
     "keywords": [
@@ -31988,6 +31988,13 @@
             "name": "Sushi Chopsticks",
             "symbol": "SUSHIC",
             "address": "0x63846423335110427068531d46cE5a322c2ADFBc",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "lazarus.finance",
+            "symbol": "LZRS",
+            "address": "0x11d0D57484d52f8c2d5a300b466bAe1769Bd85a9",
             "decimals": 18
         }
     ]
