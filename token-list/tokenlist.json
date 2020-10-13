@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T01:08:40.103Z",
+    "timestamp": "2020-10-13T01:10:25.352Z",
     "version": {
         "major": 1,
-        "minor": 6010,
+        "minor": 6011,
         "patch": 0
     },
     "keywords": [
@@ -31883,6 +31883,13 @@
             "name": "Advanced Reserve Currency",
             "symbol": "ARC",
             "address": "0xf9da614E352Bb727D265F403B1afb009e837cd09",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "National Reserve Currency",
+            "symbol": "NRCT",
+            "address": "0x7Ea482F0Ad6a3f6848B53218dF8865C83a4AaD61",
             "decimals": 18
         }
     ]
