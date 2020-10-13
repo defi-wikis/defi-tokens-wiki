@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T09:58:20.200Z",
+    "timestamp": "2020-10-13T10:04:59.881Z",
     "version": {
         "major": 1,
-        "minor": 6085,
+        "minor": 6086,
         "patch": 0
     },
     "keywords": [
@@ -32409,6 +32409,13 @@
             "symbol": "HERO",
             "address": "0x9a898996F0fCe77B525A2E39E15Fb032A256a5BA",
             "decimals": 0
+        },
+        {
+            "chainId": 1,
+            "name": "BlockFi Network",
+            "symbol": "BLOCKS",
+            "address": "0x78e7b1c2e22Eb7095D4183eD7fb808179D52ED8a",
+            "decimals": 18
         }
     ]
 }
