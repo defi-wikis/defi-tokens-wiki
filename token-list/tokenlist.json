@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:23:06.879Z",
+    "timestamp": "2020-10-13T13:30:18.771Z",
     "version": {
         "major": 1,
-        "minor": 6113,
+        "minor": 6114,
         "patch": 0
     },
     "keywords": [
@@ -32604,6 +32604,13 @@
             "name": "MTV",
             "symbol": "MUSIC",
             "address": "0xAF28f283225B515387D0E35335f353560AF00038",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SPELL MOON 2",
+            "symbol": "SPEL2",
+            "address": "0xD02441D2f0A7C644BBf14d91dD4e57B284D74e7b",
             "decimals": 18
         }
     ]
