@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:14:36.524Z",
+    "timestamp": "2020-10-13T15:15:08.867Z",
     "version": {
         "major": 1,
-        "minor": 6129,
+        "minor": 6130,
         "patch": 0
     },
     "keywords": [
@@ -32716,6 +32716,13 @@
             "name": "Dora.finance",
             "symbol": "Dora",
             "address": "0x55611d79Fe7353005A065A682a066fcA035245a4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0x78cf430a71da423E83972A5E78C8BDDdBD39BcD7",
             "decimals": 18
         }
     ]
