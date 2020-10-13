@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T20:52:24.552Z",
+    "timestamp": "2020-10-13T21:29:11.359Z",
     "version": {
         "major": 1,
-        "minor": 6194,
+        "minor": 6195,
         "patch": 0
     },
     "keywords": [
@@ -33171,6 +33171,13 @@
             "name": "LADA.Finance",
             "symbol": "LADA",
             "address": "0x8E806C80e0c75D332E407503f72431cC73b7EeBe",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Global Digital Currency Network",
+            "symbol": "GDC",
+            "address": "0xf34E916534589e915d46e6bc545a1700d9e1b233",
             "decimals": 18
         }
     ]
