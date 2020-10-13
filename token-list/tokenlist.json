@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T03:26:55.580Z",
+    "timestamp": "2020-10-13T03:29:50.755Z",
     "version": {
         "major": 1,
-        "minor": 6031,
+        "minor": 6032,
         "patch": 0
     },
     "keywords": [
@@ -32030,6 +32030,13 @@
             "name": "YFVAULT.FINANCE",
             "symbol": "YFV",
             "address": "0xC49D111C9C01065b9a88871D022BEa234310517e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mosquito Finance",
+            "symbol": "SUCK",
+            "address": "0x66a9C5D0d2Dd5562608286cE63B2724d2BAaDBF2",
             "decimals": 18
         }
     ]
