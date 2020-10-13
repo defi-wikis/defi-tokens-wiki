@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T10:59:49.687Z",
+    "timestamp": "2020-10-13T11:04:45.622Z",
     "version": {
         "major": 1,
-        "minor": 6092,
+        "minor": 6093,
         "patch": 0
     },
     "keywords": [
@@ -32457,6 +32457,13 @@
             "name": "Justswap.Finance",
             "symbol": "JUST",
             "address": "0xb55C731d09519707022a87c9e09EC8C3bD576D48",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HYVE.works",
+            "symbol": "HYVE",
+            "address": "0xAAD603e981B09Bce8De63654Be7628196C95EE4b",
             "decimals": 18
         }
     ]
