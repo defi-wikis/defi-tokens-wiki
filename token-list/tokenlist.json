@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T18:38:50.224Z",
+    "timestamp": "2020-10-13T18:58:07.373Z",
     "version": {
         "major": 1,
-        "minor": 6171,
+        "minor": 6172,
         "patch": 0
     },
     "keywords": [
@@ -33010,6 +33010,13 @@
             "name": "ThePvPGameReloaded",
             "symbol": "PvP",
             "address": "0x56f5032c2C26b21291CBF08686F72855a389D1AE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Power  Candy",
+            "symbol": "POC",
+            "address": "0xA862f6bd776187a7Be5a8b32bC3F0295865BaCa9",
             "decimals": 18
         }
     ]
