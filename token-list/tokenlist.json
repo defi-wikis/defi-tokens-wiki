@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:13:44.951Z",
+    "timestamp": "2020-10-13T07:18:09.950Z",
     "version": {
         "major": 1,
-        "minor": 6062,
+        "minor": 6063,
         "patch": 0
     },
     "keywords": [
@@ -32247,6 +32247,13 @@
             "name": "Missle Finance",
             "symbol": "MISS",
             "address": "0x94Dd2C8EDd7E180f1e1424740B1EF3dF81Ac2912",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Universal Reserve Currency",
+            "symbol": "URCT",
+            "address": "0x33A3ebC5fF80CeA1B4261eb0f12AadC690a09795",
             "decimals": 18
         }
     ]
