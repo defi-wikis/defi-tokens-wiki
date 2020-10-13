@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:17:21.657Z",
+    "timestamp": "2020-10-13T19:31:02.637Z",
     "version": {
         "major": 1,
-        "minor": 6177,
+        "minor": 6178,
         "patch": 0
     },
     "keywords": [
@@ -33052,6 +33052,13 @@
             "name": "Eco Farm",
             "symbol": "ECO",
             "address": "0x38E0efC80E8B195510aC84bcc6e9ddCa5E67b243",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NICEToken",
+            "symbol": "NICE",
+            "address": "0xDBb094bbF86Ba42315704D7b38F51918cEF0c386",
             "decimals": 18
         }
     ]
