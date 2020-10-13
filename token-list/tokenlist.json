@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:17:19.831Z",
+    "timestamp": "2020-10-13T16:18:29.913Z",
     "version": {
         "major": 1,
-        "minor": 6144,
+        "minor": 6145,
         "patch": 0
     },
     "keywords": [
@@ -32821,6 +32821,13 @@
             "name": "Metarol",
             "symbol": "MET",
             "address": "0x1A761eeF0a146F193bb8cd4E0751d3b849CA7611",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MOOswap.org",
+            "symbol": "MOO",
+            "address": "0xda5F5e63084F2BA6eEf845CEA653913B46c7FE95",
             "decimals": 18
         }
     ]
