@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T18:30:15.607Z",
+    "timestamp": "2020-10-13T18:37:30.516Z",
     "version": {
         "major": 1,
-        "minor": 6169,
+        "minor": 6170,
         "patch": 0
     },
     "keywords": [
@@ -32996,6 +32996,13 @@
             "name": "Core Side Chain",
             "symbol": "CORESC",
             "address": "0x2Dfd7EC5B0bcCfc7d260301f09721355a40b24c7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TEST",
+            "symbol": "TEST",
+            "address": "0x550059505ef05D4c24E681f249c92e072823666B",
             "decimals": 18
         }
     ]
