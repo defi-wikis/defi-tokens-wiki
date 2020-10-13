@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T12:44:45.258Z",
+    "timestamp": "2020-10-13T12:45:14.806Z",
     "version": {
         "major": 1,
-        "minor": 6102,
+        "minor": 6103,
         "patch": 0
     },
     "keywords": [
@@ -32527,6 +32527,13 @@
             "name": "Digital Currency Reserve",
             "symbol": "DCR",
             "address": "0xc15A104b5713Fe6f91994E0D7411B42e2f58d668",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zenfuse",
+            "symbol": "ZEFU",
+            "address": "0x43F26b9ff0aDcAc301c864730c71F7F096b0D5EE",
             "decimals": 18
         }
     ]
