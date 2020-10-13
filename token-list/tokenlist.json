@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T23:53:09.844Z",
+    "timestamp": "2020-10-13T23:57:06.717Z",
     "version": {
         "major": 1,
-        "minor": 6211,
+        "minor": 6212,
         "patch": 0
     },
     "keywords": [
@@ -33290,6 +33290,13 @@
             "name": "Zenfuse",
             "symbol": "ZEFU",
             "address": "0xB8A1f94D932D001fBDC9f3005A84e6B3Edc58a6c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unicore",
+            "symbol": "UCR",
+            "address": "0x4b1a5A41a7C62f3fB44eB2a41Cd51b739daFC73C",
             "decimals": 18
         }
     ]
