@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:43:20.806Z",
+    "timestamp": "2020-10-13T14:57:30.080Z",
     "version": {
         "major": 1,
-        "minor": 6126,
+        "minor": 6127,
         "patch": 0
     },
     "keywords": [
@@ -32696,6 +32696,13 @@
             "symbol": "RUPTR",
             "address": "0x2C64eaD1875C104a7A1C315f9cdf8F498F079373",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "rcore.finance",
+            "symbol": "RCORE",
+            "address": "0x691ACE5e56507C008d836c8c58ed93546bDc81fF",
+            "decimals": 18
         }
     ]
 }
