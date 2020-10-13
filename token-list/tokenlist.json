@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T22:20:36.926Z",
+    "timestamp": "2020-10-13T22:54:36.700Z",
     "version": {
         "major": 1,
-        "minor": 6202,
+        "minor": 6203,
         "patch": 0
     },
     "keywords": [
@@ -33227,6 +33227,13 @@
             "name": "xCore",
             "symbol": "xCore",
             "address": "0xFa13ab05611356fC9f8cF83764a343eD07A7E5Eb",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Finance (New)",
+            "symbol": "SUSN",
+            "address": "0xa8DFEE6A6cf2C163C0797D6769Dc656860a1dfa7",
             "decimals": 18
         }
     ]
