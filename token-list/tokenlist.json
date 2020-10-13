@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T09:58:14.986Z",
+    "timestamp": "2020-10-13T09:58:20.200Z",
     "version": {
         "major": 1,
-        "minor": 6084,
+        "minor": 6085,
         "patch": 0
     },
     "keywords": [
@@ -32402,6 +32402,13 @@
             "symbol": "DIP",
             "address": "0xFbF7679d09A03819002D6a22169671cECb8c7b63",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "HERCULES NFT",
+            "symbol": "HERO",
+            "address": "0x9a898996F0fCe77B525A2E39E15Fb032A256a5BA",
+            "decimals": 0
         }
     ]
 }
