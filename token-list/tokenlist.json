@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:35:40.654Z",
+    "timestamp": "2020-10-13T14:39:24.995Z",
     "version": {
         "major": 1,
-        "minor": 6124,
+        "minor": 6125,
         "patch": 0
     },
     "keywords": [
@@ -32681,6 +32681,13 @@
             "name": "ZeusSwap.finance",
             "symbol": "ZEUS",
             "address": "0x685f02c5c7Cc346e7fd1a4F9d0B06790C8C42A92",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Lattice Exchange",
+            "symbol": "LTX",
+            "address": "0xeFc1136191260e2EDc2F23E21d8e58F3521a90D1",
             "decimals": 18
         }
     ]
