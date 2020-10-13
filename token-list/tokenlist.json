@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:24:06.612Z",
+    "timestamp": "2020-10-13T15:25:20.120Z",
     "version": {
         "major": 1,
-        "minor": 6135,
+        "minor": 6136,
         "patch": 0
     },
     "keywords": [
@@ -32758,6 +32758,13 @@
             "name": "MakeAmericaGreatAgai",
             "symbol": "MAGA",
             "address": "0xeD48eb5B11b0d8d170F8e14e4FFCa99D24cb05eC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Oracle",
+            "symbol": "Oracle",
+            "address": "0xA1B468afb3C1504526A21c1A441517107aDC2c8c",
             "decimals": 18
         }
     ]
