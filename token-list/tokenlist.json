@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T12:45:14.806Z",
+    "timestamp": "2020-10-13T12:47:10.240Z",
     "version": {
         "major": 1,
-        "minor": 6103,
+        "minor": 6104,
         "patch": 0
     },
     "keywords": [
@@ -32534,6 +32534,13 @@
             "name": "Zenfuse",
             "symbol": "ZEFU",
             "address": "0x43F26b9ff0aDcAc301c864730c71F7F096b0D5EE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PLOT",
+            "symbol": "PLOT",
+            "address": "0xc916c2013BA4f7eBA09e2935024B8672A5E0898E",
             "decimals": 18
         }
     ]
