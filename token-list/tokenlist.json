@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T01:16:07.370Z",
+    "timestamp": "2020-10-13T01:27:35.133Z",
     "version": {
         "major": 1,
-        "minor": 6013,
+        "minor": 6014,
         "patch": 0
     },
     "keywords": [
@@ -31904,6 +31904,13 @@
             "name": "Aegis",
             "symbol": "aDAO",
             "address": "0x926dbD499d701C61eABe2d576e770ECCF9c7F4F3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KimchiSwap",
+            "symbol": "KSWAP",
+            "address": "0x7705c572d9cc824fBA4e4EFb40F00916534396d9",
             "decimals": 18
         }
     ]
