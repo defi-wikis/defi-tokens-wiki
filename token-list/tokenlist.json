@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:27:40.115Z",
+    "timestamp": "2020-10-13T15:28:15.580Z",
     "version": {
         "major": 1,
-        "minor": 6137,
+        "minor": 6138,
         "patch": 0
     },
     "keywords": [
@@ -32772,6 +32772,13 @@
             "name": "Yearn Finance Satoshi Vision",
             "symbol": "YFSV",
             "address": "0x27e6152B0Fa3815947aa170eCc582D3d5C345B61",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CORE v2 Fork",
+            "symbol": "COFO",
+            "address": "0x0a0E6981e6D704263d2743c398466667BDdE1419",
             "decimals": 18
         }
     ]
