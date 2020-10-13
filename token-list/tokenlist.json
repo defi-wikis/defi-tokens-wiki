@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:20:36.175Z",
+    "timestamp": "2020-10-13T15:21:36.147Z",
     "version": {
         "major": 1,
-        "minor": 6132,
+        "minor": 6133,
         "patch": 0
     },
     "keywords": [
@@ -32737,6 +32737,13 @@
             "name": "AV Group token",
             "symbol": "AVGT",
             "address": "0x74FeC88946d90B87F40F04165BF64542751F779e",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfgenius.finance",
+            "symbol": "YFGEN",
+            "address": "0x8bF399aF5242E4aaD34fD98d360aB0B0215B429C",
             "decimals": 18
         }
     ]
