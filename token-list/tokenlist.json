@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T18:37:30.516Z",
+    "timestamp": "2020-10-13T18:38:50.224Z",
     "version": {
         "major": 1,
-        "minor": 6170,
+        "minor": 6171,
         "patch": 0
     },
     "keywords": [
@@ -33003,6 +33003,13 @@
             "name": "TEST",
             "symbol": "TEST",
             "address": "0x550059505ef05D4c24E681f249c92e072823666B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ThePvPGameReloaded",
+            "symbol": "PvP",
+            "address": "0x56f5032c2C26b21291CBF08686F72855a389D1AE",
             "decimals": 18
         }
     ]
