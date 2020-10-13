@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T17:28:30.635Z",
+    "timestamp": "2020-10-13T17:30:30.345Z",
     "version": {
         "major": 1,
-        "minor": 6157,
+        "minor": 6158,
         "patch": 0
     },
     "keywords": [
@@ -32912,6 +32912,13 @@
             "name": "B SYSTEM TOKEN",
             "symbol": "BST",
             "address": "0xe586AEaa45c28a2500f4F72031e69d071480F19A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Uniswap   X",
+            "symbol": "UNIX",
+            "address": "0xeb2C9021e1c79D267B632B576E0B81AfEdb17A9b",
             "decimals": 18
         }
     ]
