@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T10:13:01.997Z",
+    "timestamp": "2020-10-13T10:20:19.953Z",
     "version": {
         "major": 1,
-        "minor": 6088,
+        "minor": 6089,
         "patch": 0
     },
     "keywords": [
@@ -32430,6 +32430,13 @@
             "symbol": "FIL 6",
             "address": "0x4b95534C9902D94fC5D472Ebd65C2de74148D30A",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Liquidity Income",
+            "symbol": "LBI",
+            "address": "0x375Da3e307Ef2E1A9D9e1516f80738Ca52cb7B85",
+            "decimals": 18
         }
     ]
 }
