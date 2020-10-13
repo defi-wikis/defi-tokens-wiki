@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T09:40:15.004Z",
+    "timestamp": "2020-10-13T09:43:10.298Z",
     "version": {
         "major": 1,
-        "minor": 6079,
+        "minor": 6080,
         "patch": 0
     },
     "keywords": [
@@ -32366,6 +32366,13 @@
             "name": "Debase",
             "symbol": "DEBASE",
             "address": "0xa059b04F5293DE69fB3CC9ae5EE1E51083111247",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CryptoGold",
+            "symbol": "CrGo",
+            "address": "0xE54459F85FDe32bbbd1560D7086f4f2Fea00DF2C",
             "decimals": 18
         }
     ]
