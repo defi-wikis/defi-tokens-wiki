@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T00:30:40.145Z",
+    "timestamp": "2020-10-13T00:41:14.677Z",
     "version": {
         "major": 1,
-        "minor": 6005,
+        "minor": 6006,
         "patch": 0
     },
     "keywords": [
@@ -31848,6 +31848,13 @@
             "name": "Mobie Pay",
             "symbol": "MBX",
             "address": "0x856728AfCD9FF354A7dd76f1492dEc1615A639b6",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "TomoChain Relaunch",
+            "symbol": "TOMOR",
+            "address": "0xC5f3b89b4c4DA4e7420C3708cD5e9681E89a4027",
             "decimals": 18
         }
     ]
