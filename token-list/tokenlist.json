@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T22:54:36.700Z",
+    "timestamp": "2020-10-13T22:56:35.168Z",
     "version": {
         "major": 1,
-        "minor": 6203,
+        "minor": 6204,
         "patch": 0
     },
     "keywords": [
@@ -33234,6 +33234,13 @@
             "name": "Sushi Finance (New)",
             "symbol": "SUSN",
             "address": "0xa8DFEE6A6cf2C163C0797D6769Dc656860a1dfa7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KingSwap",
+            "symbol": "KING",
+            "address": "0x5f962F7b37781b80e4A626637Fb6BF3593960dB3",
             "decimals": 18
         }
     ]
