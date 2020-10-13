@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:29:10.618Z",
+    "timestamp": "2020-10-13T14:35:40.654Z",
     "version": {
         "major": 1,
-        "minor": 6123,
+        "minor": 6124,
         "patch": 0
     },
     "keywords": [
@@ -32674,6 +32674,13 @@
             "name": "InterPlanetary  File System",
             "symbol": "IPFS",
             "address": "0xb65223f756e479D39e4BE23b045578b2fa41a95C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ZeusSwap.finance",
+            "symbol": "ZEUS",
+            "address": "0x685f02c5c7Cc346e7fd1a4F9d0B06790C8C42A92",
             "decimals": 18
         }
     ]
