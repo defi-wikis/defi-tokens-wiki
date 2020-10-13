@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:42:08.672Z",
+    "timestamp": "2020-10-13T02:47:40.039Z",
     "version": {
         "major": 1,
-        "minor": 6026,
+        "minor": 6027,
         "patch": 0
     },
     "keywords": [
@@ -31995,6 +31995,13 @@
             "name": "lazarus.finance",
             "symbol": "LZRS",
             "address": "0x11d0D57484d52f8c2d5a300b466bAe1769Bd85a9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Token",
+            "symbol": "TOKEN",
+            "address": "0x1260Ddb22858E3a273e2f85957599BAafeA2496f",
             "decimals": 18
         }
     ]
