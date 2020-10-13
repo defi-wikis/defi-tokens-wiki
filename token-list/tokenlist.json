@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:15:08.867Z",
+    "timestamp": "2020-10-13T15:15:29.784Z",
     "version": {
         "major": 1,
-        "minor": 6130,
+        "minor": 6131,
         "patch": 0
     },
     "keywords": [
@@ -32723,6 +32723,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x78cf430a71da423E83972A5E78C8BDDdBD39BcD7",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mia Loin Nng",
+            "symbol": "GLN",
+            "address": "0x03241323E870b4D4dF639F86188FABF256F7Fc57",
             "decimals": 18
         }
     ]
