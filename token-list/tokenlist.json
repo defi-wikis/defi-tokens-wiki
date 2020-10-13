@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T18:23:40.336Z",
+    "timestamp": "2020-10-13T18:28:40.214Z",
     "version": {
         "major": 1,
-        "minor": 6166,
+        "minor": 6167,
         "patch": 0
     },
     "keywords": [
@@ -32975,6 +32975,13 @@
             "name": "Growth Hack",
             "symbol": "GROW",
             "address": "0xAb2EFE93FBE4426F54c3d678279e3033C0f3218F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "",
+            "symbol": "MALTA2",
+            "address": "0x55F044cE437085CA8a0B6eB2BeA500c32C0812c1",
             "decimals": 18
         }
     ]
