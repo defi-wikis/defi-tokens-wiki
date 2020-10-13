@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:49:35.678Z",
+    "timestamp": "2020-10-13T16:54:22.392Z",
     "version": {
         "major": 1,
-        "minor": 6152,
+        "minor": 6153,
         "patch": 0
     },
     "keywords": [
@@ -32877,6 +32877,13 @@
             "name": "Luxochain",
             "symbol": "LUXO",
             "address": "0x833105df9b95be112993111549742C60Eb9a34ec",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pumping speed",
+            "symbol": "PSPE",
+            "address": "0x8BDf4D9e3E26273dF6fa72cD0dFE22ECFfb2E422",
             "decimals": 18
         }
     ]
