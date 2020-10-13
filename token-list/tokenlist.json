@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:02:10.656Z",
+    "timestamp": "2020-10-13T05:05:25.089Z",
     "version": {
         "major": 1,
-        "minor": 6046,
+        "minor": 6047,
         "patch": 0
     },
     "keywords": [
@@ -32135,6 +32135,13 @@
             "name": "Digital Monetary Reserve",
             "symbol": "DMR",
             "address": "0x787707498942D451ec484893972F676d860f7182",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "zionindex",
+            "symbol": "ZNX",
+            "address": "0x22B0181245AFd121b4177aaedbeBa04ff565b62D",
             "decimals": 18
         }
     ]
