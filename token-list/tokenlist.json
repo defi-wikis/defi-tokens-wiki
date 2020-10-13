@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:53:10.488Z",
+    "timestamp": "2020-10-13T07:55:55.066Z",
     "version": {
         "major": 1,
-        "minor": 6067,
+        "minor": 6068,
         "patch": 0
     },
     "keywords": [
@@ -32283,6 +32283,13 @@
             "symbol": "WTON",
             "address": "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2",
             "decimals": 27
+        },
+        {
+            "chainId": 1,
+            "name": "FishToken",
+            "symbol": "FISH",
+            "address": "0x8DDF727Ef892B2c40Cf3bd058bB73168dAe93ddc",
+            "decimals": 18
         }
     ]
 }
