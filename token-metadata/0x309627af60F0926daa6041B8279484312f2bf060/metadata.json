@@ -1,0 +1,7 @@
+{
+    "name": "Bancor USD Token",
+    "symbol": "USDB",
+    "address": "0x309627af60F0926daa6041B8279484312f2bf060",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
