@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T01:32:50.436Z",
+    "timestamp": "2020-10-13T01:56:07.563Z",
     "version": {
         "major": 1,
-        "minor": 6017,
+        "minor": 6018,
         "patch": 0
     },
     "keywords": [
@@ -31932,6 +31932,13 @@
             "name": "Bancor USD Token",
             "symbol": "USDB",
             "address": "0x309627af60F0926daa6041B8279484312f2bf060",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "BARNEY.ARMY",
+            "symbol": "BARNEY",
+            "address": "0xdBD90bdB1447aff29aD6d9A8bFe1214a29A288C3",
             "decimals": 18
         }
     ]
