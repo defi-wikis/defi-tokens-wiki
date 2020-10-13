@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:57:30.080Z",
+    "timestamp": "2020-10-13T15:14:30.850Z",
     "version": {
         "major": 1,
-        "minor": 6127,
+        "minor": 6128,
         "patch": 0
     },
     "keywords": [
@@ -32702,6 +32702,13 @@
             "name": "rcore.finance",
             "symbol": "RCORE",
             "address": "0x691ACE5e56507C008d836c8c58ed93546bDc81fF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zenfuse Trading Platform Token",
+            "symbol": "ZEFU",
+            "address": "0x5273AB28E70f433B4F0C26018ff65332b26C80e2",
             "decimals": 18
         }
     ]
