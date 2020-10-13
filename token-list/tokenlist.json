@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:25:20.120Z",
+    "timestamp": "2020-10-13T15:27:40.115Z",
     "version": {
         "major": 1,
-        "minor": 6136,
+        "minor": 6137,
         "patch": 0
     },
     "keywords": [
@@ -32765,6 +32765,13 @@
             "name": "Oracle",
             "symbol": "Oracle",
             "address": "0xA1B468afb3C1504526A21c1A441517107aDC2c8c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Satoshi Vision",
+            "symbol": "YFSV",
+            "address": "0x27e6152B0Fa3815947aa170eCc582D3d5C345B61",
             "decimals": 18
         }
     ]
