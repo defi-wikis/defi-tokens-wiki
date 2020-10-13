@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T20:36:25.828Z",
+    "timestamp": "2020-10-13T20:37:07.375Z",
     "version": {
         "major": 1,
-        "minor": 6192,
+        "minor": 6193,
         "patch": 0
     },
     "keywords": [
@@ -33157,6 +33157,13 @@
             "name": "Startoken ",
             "symbol": "Star",
             "address": "0x5E6492891De66C0933dF0277Ef87b8b862d51688",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iob.fi DAO",
+            "symbol": "FI",
+            "address": "0xF03d05eD4Cf4E723C04500Ab64281BfA591968F2",
             "decimals": 18
         }
     ]
