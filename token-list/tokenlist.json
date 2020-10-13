@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:13:59.982Z",
+    "timestamp": "2020-10-13T16:17:19.831Z",
     "version": {
         "major": 1,
-        "minor": 6143,
+        "minor": 6144,
         "patch": 0
     },
     "keywords": [
@@ -32814,6 +32814,13 @@
             "name": "Pickle II",
             "symbol": "PICII",
             "address": "0xcf3E08E0875573a78C540cFd00Acb16e87C7E285",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Metarol",
+            "symbol": "MET",
+            "address": "0x1A761eeF0a146F193bb8cd4E0751d3b849CA7611",
             "decimals": 18
         }
     ]
