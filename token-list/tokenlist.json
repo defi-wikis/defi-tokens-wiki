@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T20:33:12.002Z",
+    "timestamp": "2020-10-13T20:36:25.828Z",
     "version": {
         "major": 1,
-        "minor": 6191,
+        "minor": 6192,
         "patch": 0
     },
     "keywords": [
@@ -33151,6 +33151,13 @@
             "symbol": "ZFI",
             "address": "0x649873Aca3cE331359F2A32d7AFe9dcEF5e647Ca",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Startoken ",
+            "symbol": "Star",
+            "address": "0x5E6492891De66C0933dF0277Ef87b8b862d51688",
+            "decimals": 18
         }
     ]
 }
