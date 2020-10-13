@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:23:29.750Z",
+    "timestamp": "2020-10-13T05:24:50.764Z",
     "version": {
         "major": 1,
-        "minor": 6051,
+        "minor": 6052,
         "patch": 0
     },
     "keywords": [
@@ -32170,6 +32170,13 @@
             "name": "Calamari Finance",
             "symbol": "CALF",
             "address": "0x7345D952bFaDD806062303f1084556BBD4612dc4",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YearnFinanceNetwork",
+            "symbol": "YFN",
+            "address": "0x13cea0680b3FFecB835758046CC1dfE9080dBAd5",
             "decimals": 18
         }
     ]
