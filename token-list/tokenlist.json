@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T09:50:15.980Z",
+    "timestamp": "2020-10-13T09:50:30.292Z",
     "version": {
         "major": 1,
-        "minor": 6081,
+        "minor": 6082,
         "patch": 0
     },
     "keywords": [
@@ -32380,6 +32380,13 @@
             "name": "QuiverX",
             "symbol": "QRX",
             "address": "0xA83A9d18D8a6442CCA4c9006a88345854330C222",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SDF Token",
+            "symbol": "SDF",
+            "address": "0x62bfcc7748f7c1d660eb9537C8af778D8BEb2B14",
             "decimals": 18
         }
     ]
