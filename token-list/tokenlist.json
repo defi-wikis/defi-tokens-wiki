@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T06:32:59.733Z",
+    "timestamp": "2020-10-13T06:43:54.963Z",
     "version": {
         "major": 1,
-        "minor": 6057,
+        "minor": 6058,
         "patch": 0
     },
     "keywords": [
@@ -32212,6 +32212,13 @@
             "name": "collective solution",
             "symbol": "CS",
             "address": "0x0971c135fA437e7bD5014BE49d2604474A569612",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Deficliq",
+            "symbol": "CLIQ",
+            "address": "0xa7336f7e99E3bAe3533E5AfD74Cf15c7FDB42F36",
             "decimals": 18
         }
     ]
