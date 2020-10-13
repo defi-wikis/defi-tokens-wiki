@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T01:15:46.167Z",
+    "timestamp": "2020-10-13T01:16:07.370Z",
     "version": {
         "major": 1,
-        "minor": 6012,
+        "minor": 6013,
         "patch": 0
     },
     "keywords": [
@@ -31897,6 +31897,13 @@
             "name": "Advanced Reserve Currency",
             "symbol": "ARC",
             "address": "0x924618606dFe3C86BABe79847407933495AAEC6F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Aegis",
+            "symbol": "aDAO",
+            "address": "0x926dbD499d701C61eABe2d576e770ECCF9c7F4F3",
             "decimals": 18
         }
     ]
