@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:39:24.995Z",
+    "timestamp": "2020-10-13T14:43:20.806Z",
     "version": {
         "major": 1,
-        "minor": 6125,
+        "minor": 6126,
         "patch": 0
     },
     "keywords": [
@@ -32689,6 +32689,13 @@
             "symbol": "LTX",
             "address": "0xeFc1136191260e2EDc2F23E21d8e58F3521a90D1",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "rupture finance",
+            "symbol": "RUPTR",
+            "address": "0x2C64eaD1875C104a7A1C315f9cdf8F498F079373",
+            "decimals": 4
         }
     ]
 }
