@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T03:42:49.813Z",
+    "timestamp": "2020-10-13T03:49:30.440Z",
     "version": {
         "major": 1,
-        "minor": 6034,
+        "minor": 6035,
         "patch": 0
     },
     "keywords": [
@@ -32051,6 +32051,13 @@
             "name": "Binantex",
             "symbol": "BNT",
             "address": "0x139838869D3E1AB94C798917840dA1c079103c84",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AXIA PROTOCOL V3",
+            "symbol": "AXIA-V3",
+            "address": "0xc4DC2031d551e13Ddae76f48f09D92e045dB3a53",
             "decimals": 18
         }
     ]
