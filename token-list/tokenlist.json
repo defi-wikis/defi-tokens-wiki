@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:51:50.579Z",
+    "timestamp": "2020-10-13T20:16:14.977Z",
     "version": {
         "major": 1,
-        "minor": 6186,
+        "minor": 6187,
         "patch": 0
     },
     "keywords": [
@@ -33116,6 +33116,13 @@
             "symbol": "KOIN",
             "address": "0x66d28cb58487a7609877550E1a34691810A6b9FC",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "YESFinance",
+            "symbol": "YESF",
+            "address": "0xAe4A348e2F6f1f5ba5b6b0d5182dc0A0592b4DF5",
+            "decimals": 18
         }
     ]
 }
