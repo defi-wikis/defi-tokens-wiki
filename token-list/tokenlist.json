@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:08:10.494Z",
+    "timestamp": "2020-10-13T04:14:30.350Z",
     "version": {
         "major": 1,
-        "minor": 6038,
+        "minor": 6039,
         "patch": 0
     },
     "keywords": [
@@ -32079,6 +32079,13 @@
             "name": "NYAN FINANCE V2",
             "symbol": "NYANV2",
             "address": "0x264bB245c7E791A65b6D858F9b3e5f9156cE8F9c",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DAOfi",
+            "symbol": "DAOfi",
+            "address": "0x32d5730Fb85763281d459B9022CB247D8e10e0ef",
             "decimals": 18
         }
     ]
