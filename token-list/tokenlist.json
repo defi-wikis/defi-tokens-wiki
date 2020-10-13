@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:05:25.089Z",
+    "timestamp": "2020-10-13T05:06:07.842Z",
     "version": {
         "major": 1,
-        "minor": 6047,
+        "minor": 6048,
         "patch": 0
     },
     "keywords": [
@@ -32142,6 +32142,13 @@
             "name": "zionindex",
             "symbol": "ZNX",
             "address": "0x22B0181245AFd121b4177aaedbeBa04ff565b62D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unistake",
+            "symbol": "UNISTAKE",
+            "address": "0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
             "decimals": 18
         }
     ]
