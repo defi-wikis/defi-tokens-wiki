@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:08:29.939Z",
+    "timestamp": "2020-10-13T16:08:34.912Z",
     "version": {
         "major": 1,
-        "minor": 6140,
+        "minor": 6141,
         "patch": 0
     },
     "keywords": [
@@ -32793,6 +32793,13 @@
             "name": "CSwap.finance",
             "symbol": "CSwap",
             "address": "0x855Cd2C774fC1F7A205d5e3D62b746ef0c5e73Ca",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "RvLuToken",
+            "symbol": "RvLu",
+            "address": "0xB1919A2F09d10eAe80C201ecE3401b8871a6D035",
             "decimals": 18
         }
     ]
