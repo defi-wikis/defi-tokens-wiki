@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:14:30.350Z",
+    "timestamp": "2020-10-13T04:28:30.290Z",
     "version": {
         "major": 1,
-        "minor": 6039,
+        "minor": 6040,
         "patch": 0
     },
     "keywords": [
@@ -32086,6 +32086,13 @@
             "name": "DAOfi",
             "symbol": "DAOfi",
             "address": "0x32d5730Fb85763281d459B9022CB247D8e10e0ef",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "phoenix",
+            "symbol": "PHX",
+            "address": "0x81b56BCab94ac9A51F8D9e6bB125b68d989AD1dF",
             "decimals": 18
         }
     ]
