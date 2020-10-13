@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:35:20.002Z",
+    "timestamp": "2020-10-13T16:35:35.501Z",
     "version": {
         "major": 1,
-        "minor": 6149,
+        "minor": 6150,
         "patch": 0
     },
     "keywords": [
@@ -32856,6 +32856,13 @@
             "name": "xEarn Capital",
             "symbol": "XRN",
             "address": "0x00920fc4b6698e5c7F144C6Ee16cB3ed9d238142",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFScience Labs",
+            "symbol": "YFSI",
+            "address": "0x0879786bFD815dA2Ac194eb7fEfb35b15e1802E6",
             "decimals": 18
         }
     ]
