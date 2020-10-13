@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:35:29.636Z",
+    "timestamp": "2020-10-13T19:35:44.857Z",
     "version": {
         "major": 1,
-        "minor": 6179,
+        "minor": 6180,
         "patch": 0
     },
     "keywords": [
@@ -33066,6 +33066,13 @@
             "name": "ANDRES RUG",
             "symbol": "ANDR",
             "address": "0x2edE6B7FdDB1F1536936F1c22bBc709E8C19e5F3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Soldiers",
+            "symbol": "QANON",
+            "address": "0xF4cf8496f3a4f78203E27778DA95Ab16cACc79a1",
             "decimals": 18
         }
     ]
