@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:14:30.850Z",
+    "timestamp": "2020-10-13T15:14:36.524Z",
     "version": {
         "major": 1,
-        "minor": 6128,
+        "minor": 6129,
         "patch": 0
     },
     "keywords": [
@@ -32709,6 +32709,13 @@
             "name": "Zenfuse Trading Platform Token",
             "symbol": "ZEFU",
             "address": "0x5273AB28E70f433B4F0C26018ff65332b26C80e2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dora.finance",
+            "symbol": "Dora",
+            "address": "0x55611d79Fe7353005A065A682a066fcA035245a4",
             "decimals": 18
         }
     ]
