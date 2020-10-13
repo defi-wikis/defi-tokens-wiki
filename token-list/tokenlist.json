@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:42:35.630Z",
+    "timestamp": "2020-10-13T04:55:19.641Z",
     "version": {
         "major": 1,
-        "minor": 6043,
+        "minor": 6044,
         "patch": 0
     },
     "keywords": [
@@ -32114,6 +32114,13 @@
             "name": "MantiCORE",
             "symbol": "MCORE",
             "address": "0x06715d2e211Cf7a6976FEB348Cb2F6deFdF582f8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlotX",
+            "symbol": "PLOT",
+            "address": "0xce8BA1e4216A68f0ACfFD0364e16115Ed1046877",
             "decimals": 18
         }
     ]
