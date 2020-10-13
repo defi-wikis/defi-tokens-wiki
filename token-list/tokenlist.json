@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T03:49:30.440Z",
+    "timestamp": "2020-10-13T04:01:20.308Z",
     "version": {
         "major": 1,
-        "minor": 6035,
+        "minor": 6036,
         "patch": 0
     },
     "keywords": [
@@ -32058,6 +32058,13 @@
             "name": "AXIA PROTOCOL V3",
             "symbol": "AXIA-V3",
             "address": "0xc4DC2031d551e13Ddae76f48f09D92e045dB3a53",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Minecraft Finance",
+            "symbol": "$MINE",
+            "address": "0xAAd37627159bDEE016Fb56e2EDD2ef3c11Da723D",
             "decimals": 18
         }
     ]
