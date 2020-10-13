@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:13:16.231Z",
+    "timestamp": "2020-10-13T07:13:44.951Z",
     "version": {
         "major": 1,
-        "minor": 6061,
+        "minor": 6062,
         "patch": 0
     },
     "keywords": [
@@ -32240,6 +32240,13 @@
             "name": "NoodleToken",
             "symbol": "NDL",
             "address": "0xFf3401D00a225300d6DDE2Ee1968F4dF795169F0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Missle Finance",
+            "symbol": "MISS",
+            "address": "0x94Dd2C8EDd7E180f1e1424740B1EF3dF81Ac2912",
             "decimals": 18
         }
     ]
