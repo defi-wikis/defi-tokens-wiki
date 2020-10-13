@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:01:10.357Z",
+    "timestamp": "2020-10-13T13:05:35.660Z",
     "version": {
         "major": 1,
-        "minor": 6107,
+        "minor": 6108,
         "patch": 0
     },
     "keywords": [
@@ -32562,6 +32562,13 @@
             "name": "PLOT",
             "symbol": "PLOT",
             "address": "0x4DDa8aD90060335525ec24FF9ef90760B76E3796",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Obelisk Governance Token",
+            "symbol": "OBELISK",
+            "address": "0x86F50209d748D38a985b10Ce3FAbbD9E2b0c61F2",
             "decimals": 18
         }
     ]
