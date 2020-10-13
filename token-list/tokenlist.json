@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T03:41:02.152Z",
+    "timestamp": "2020-10-13T03:42:49.813Z",
     "version": {
         "major": 1,
-        "minor": 6033,
+        "minor": 6034,
         "patch": 0
     },
     "keywords": [
@@ -32044,6 +32044,13 @@
             "name": "Orb v3 (Multi)",
             "symbol": "ORBv3",
             "address": "0x31155dfdeae8A92a05827d2674fF136306430860",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Binantex",
+            "symbol": "BNT",
+            "address": "0x139838869D3E1AB94C798917840dA1c079103c84",
             "decimals": 18
         }
     ]
