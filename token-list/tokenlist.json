@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:28:15.580Z",
+    "timestamp": "2020-10-13T15:55:20.437Z",
     "version": {
         "major": 1,
-        "minor": 6138,
+        "minor": 6139,
         "patch": 0
     },
     "keywords": [
@@ -32779,6 +32779,13 @@
             "name": "CORE v2 Fork",
             "symbol": "COFO",
             "address": "0x0a0E6981e6D704263d2743c398466667BDdE1419",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfgenius.finance",
+            "symbol": "YFGEN",
+            "address": "0xa383F155622eAB52E84849aCEe62B9630747c58B",
             "decimals": 18
         }
     ]
