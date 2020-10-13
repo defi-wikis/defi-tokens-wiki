@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:18:25.624Z",
+    "timestamp": "2020-10-13T13:23:06.879Z",
     "version": {
         "major": 1,
-        "minor": 6112,
+        "minor": 6113,
         "patch": 0
     },
     "keywords": [
@@ -32597,6 +32597,13 @@
             "name": "Zenfuse",
             "symbol": "ZEFU",
             "address": "0xA06cC4A1BF8D0111ddED0e8086B17f935a4A6761",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MTV",
+            "symbol": "MUSIC",
+            "address": "0xAF28f283225B515387D0E35335f353560AF00038",
             "decimals": 18
         }
     ]
