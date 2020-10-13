@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T09:43:10.298Z",
+    "timestamp": "2020-10-13T09:50:15.980Z",
     "version": {
         "major": 1,
-        "minor": 6080,
+        "minor": 6081,
         "patch": 0
     },
     "keywords": [
@@ -32373,6 +32373,13 @@
             "name": "CryptoGold",
             "symbol": "CrGo",
             "address": "0xE54459F85FDe32bbbd1560D7086f4f2Fea00DF2C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "QuiverX",
+            "symbol": "QRX",
+            "address": "0xA83A9d18D8a6442CCA4c9006a88345854330C222",
             "decimals": 18
         }
     ]
