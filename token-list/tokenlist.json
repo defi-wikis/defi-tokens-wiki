@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:13:07.946Z",
+    "timestamp": "2020-10-13T16:13:59.982Z",
     "version": {
         "major": 1,
-        "minor": 6142,
+        "minor": 6143,
         "patch": 0
     },
     "keywords": [
@@ -32807,6 +32807,13 @@
             "name": "Zeta.yearn",
             "symbol": "ZEY",
             "address": "0x74656f0d2F710A0e13855009329f5646e2BBD924",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pickle II",
+            "symbol": "PICII",
+            "address": "0xcf3E08E0875573a78C540cFd00Acb16e87C7E285",
             "decimals": 18
         }
     ]
