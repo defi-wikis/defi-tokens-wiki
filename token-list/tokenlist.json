@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T00:54:45.297Z",
+    "timestamp": "2020-10-13T00:55:27.199Z",
     "version": {
         "major": 1,
-        "minor": 6008,
+        "minor": 6009,
         "patch": 0
     },
     "keywords": [
@@ -31869,6 +31869,13 @@
             "name": "AXIA-V3",
             "symbol": "AXIA",
             "address": "0x11D61210d4B2Cb4C33d72d288e51326bEEFF9d83",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Roubini",
+            "symbol": "MONEY",
+            "address": "0xDb9A01Ce2E3fb211e652B59774f758CCb75b6235",
             "decimals": 18
         }
     ]
