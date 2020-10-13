@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T21:46:10.923Z",
+    "timestamp": "2020-10-13T21:50:30.789Z",
     "version": {
         "major": 1,
-        "minor": 6198,
+        "minor": 6199,
         "patch": 0
     },
     "keywords": [
@@ -33199,6 +33199,13 @@
             "name": "International Reserve Currency",
             "symbol": "IRCT",
             "address": "0x18178f528D3B5F323B458F839D271672c24BD961",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "utu.io",
+            "symbol": "UTU",
+            "address": "0x54FC2C1a1890d3a60A630B8314Eb960f318B9781",
             "decimals": 18
         }
     ]
