@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T17:21:25.394Z",
+    "timestamp": "2020-10-13T17:27:45.483Z",
     "version": {
         "major": 1,
-        "minor": 6155,
+        "minor": 6156,
         "patch": 0
     },
     "keywords": [
@@ -32899,6 +32899,13 @@
             "symbol": "WOIN",
             "address": "0xae28B062726eA7dD445166421440cd5e2E8789C9",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "SWAG.Finance",
+            "symbol": "SWAG",
+            "address": "0x7D438464938d2862593AB9E81759f7cEad2b30c0",
+            "decimals": 18
         }
     ]
 }
