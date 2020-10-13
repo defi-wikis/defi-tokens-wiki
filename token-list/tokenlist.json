@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:08:34.912Z",
+    "timestamp": "2020-10-13T16:13:07.946Z",
     "version": {
         "major": 1,
-        "minor": 6141,
+        "minor": 6142,
         "patch": 0
     },
     "keywords": [
@@ -32800,6 +32800,13 @@
             "name": "RvLuToken",
             "symbol": "RvLu",
             "address": "0xB1919A2F09d10eAe80C201ecE3401b8871a6D035",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zeta.yearn",
+            "symbol": "ZEY",
+            "address": "0x74656f0d2F710A0e13855009329f5646e2BBD924",
             "decimals": 18
         }
     ]
