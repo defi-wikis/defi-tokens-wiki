@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T18:28:40.214Z",
+    "timestamp": "2020-10-13T18:28:46.069Z",
     "version": {
         "major": 1,
-        "minor": 6167,
+        "minor": 6168,
         "patch": 0
     },
     "keywords": [
@@ -32982,6 +32982,13 @@
             "name": "",
             "symbol": "MALTA2",
             "address": "0x55F044cE437085CA8a0B6eB2BeA500c32C0812c1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "",
+            "symbol": "MALTA1",
+            "address": "0xBB6cB01Bbc5F587B6E871B1130C06bb6B0CEaa0d",
             "decimals": 18
         }
     ]
