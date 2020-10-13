@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T18:23:14.954Z",
+    "timestamp": "2020-10-13T18:23:40.336Z",
     "version": {
         "major": 1,
-        "minor": 6165,
+        "minor": 6166,
         "patch": 0
     },
     "keywords": [
@@ -32968,6 +32968,13 @@
             "name": "Newton Protocol",
             "symbol": "NEWTON",
             "address": "0xB38dc05fd3B9A04F41C98fab9D200e1a8aE39500",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Growth Hack",
+            "symbol": "GROW",
+            "address": "0xAb2EFE93FBE4426F54c3d678279e3033C0f3218F",
             "decimals": 18
         }
     ]
