@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:27:10.522Z",
+    "timestamp": "2020-10-13T02:29:20.602Z",
     "version": {
         "major": 1,
-        "minor": 6022,
+        "minor": 6023,
         "patch": 0
     },
     "keywords": [
@@ -31967,6 +31967,13 @@
             "name": "World Reserve Currency",
             "symbol": "WRCT",
             "address": "0xD2B57481677465A83FdB88B1912F626bd0A2EAe1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Adamantx.network",
+            "symbol": "ADMX",
+            "address": "0x9DED21AA7Ca361eaEf5689E6Fa39AdAE7c84B274",
             "decimals": 18
         }
     ]
