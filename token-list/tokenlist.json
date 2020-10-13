@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:04:39.940Z",
+    "timestamp": "2020-10-13T14:05:55.427Z",
     "version": {
         "major": 1,
-        "minor": 6120,
+        "minor": 6121,
         "patch": 0
     },
     "keywords": [
@@ -32653,6 +32653,13 @@
             "name": "worldcoin",
             "symbol": "WLC",
             "address": "0x46ea5E709a27cF6Ed877d16C5Bc131cE01190316",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ADC",
+            "symbol": "ADC",
+            "address": "0xf3586e01767624dF640ed3F58973E19f574b68E9",
             "decimals": 18
         }
     ]
