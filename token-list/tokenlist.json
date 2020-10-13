@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T12:42:11.187Z",
+    "timestamp": "2020-10-13T12:44:45.258Z",
     "version": {
         "major": 1,
-        "minor": 6101,
+        "minor": 6102,
         "patch": 0
     },
     "keywords": [
@@ -32520,6 +32520,13 @@
             "name": "Hope coin",
             "symbol": "HC",
             "address": "0x8d0363393492bCEb7873Edd6fA587c5F6355940D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Currency Reserve",
+            "symbol": "DCR",
+            "address": "0xc15A104b5713Fe6f91994E0D7411B42e2f58d668",
             "decimals": 18
         }
     ]
