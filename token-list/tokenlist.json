@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:40:44.787Z",
+    "timestamp": "2020-10-13T13:54:35.232Z",
     "version": {
         "major": 1,
-        "minor": 6117,
+        "minor": 6118,
         "patch": 0
     },
     "keywords": [
@@ -32633,6 +32633,13 @@
             "symbol": "YGY",
             "address": "0x11b0a8C0FA626627601eD518c3538a39d92D609E",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "FinanceRAINExchange",
+            "symbol": "FRE",
+            "address": "0xB563E4f1825FA3397cC0de85158fbD68feF5F4f3",
+            "decimals": 18
         }
     ]
 }
