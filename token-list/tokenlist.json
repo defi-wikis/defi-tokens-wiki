@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:05:45.520Z",
+    "timestamp": "2020-10-13T19:05:51.081Z",
     "version": {
         "major": 1,
-        "minor": 6173,
+        "minor": 6174,
         "patch": 0
     },
     "keywords": [
@@ -33024,6 +33024,13 @@
             "name": "Orb v3.0 Relaunch",
             "symbol": "ORB3R",
             "address": "0x72acB8ebEF54DEaA7FACbB329830c2582b325AE2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YEAR FINANCE GYM",
+            "symbol": "YGYM",
+            "address": "0x99f0FAa2b4CE5aBCc78762439da07212A05ff6e9",
             "decimals": 18
         }
     ]
