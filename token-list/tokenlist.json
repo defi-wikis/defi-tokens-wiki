@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:06:11.939Z",
+    "timestamp": "2020-10-13T13:11:15.142Z",
     "version": {
         "major": 1,
-        "minor": 6109,
+        "minor": 6110,
         "patch": 0
     },
     "keywords": [
@@ -32576,6 +32576,13 @@
             "name": "EternalDefiToken",
             "symbol": "EDT",
             "address": "0x6edcDcDd72Ae48595228537A0c156BD99F78241D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DarkWebSwap.finance",
+            "symbol": "DWS",
+            "address": "0xE256CF1C7caEff4383DabafEe6Dd53910F97213D",
             "decimals": 18
         }
     ]
