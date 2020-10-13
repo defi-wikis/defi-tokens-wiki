@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:06:07.842Z",
+    "timestamp": "2020-10-13T05:08:00.027Z",
     "version": {
         "major": 1,
-        "minor": 6048,
+        "minor": 6049,
         "patch": 0
     },
     "keywords": [
@@ -32149,6 +32149,13 @@
             "name": "Unistake",
             "symbol": "UNISTAKE",
             "address": "0x9Ed8e7C9604790F7Ec589F99b94361d8AAB64E5E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DegensCasinoToken",
+            "symbol": "DCT",
+            "address": "0x9059C8F2bE28F7573D5B699147A150B9518856EE",
             "decimals": 18
         }
     ]
