@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:40:40.216Z",
+    "timestamp": "2020-10-13T13:40:44.787Z",
     "version": {
         "major": 1,
-        "minor": 6116,
+        "minor": 6117,
         "patch": 0
     },
     "keywords": [
@@ -32625,6 +32625,13 @@
             "name": "Zenfuse Trading Platform Token",
             "symbol": "ZEFU",
             "address": "0xBbBFD95E5B8F1F4bd0694071fb3133BE5B5d1eF6",
+            "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Generation of Yield",
+            "symbol": "YGY",
+            "address": "0x11b0a8C0FA626627601eD518c3538a39d92D609E",
             "decimals": 6
         }
     ]
