@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:23:45.253Z",
+    "timestamp": "2020-10-13T02:27:10.522Z",
     "version": {
         "major": 1,
-        "minor": 6021,
+        "minor": 6022,
         "patch": 0
     },
     "keywords": [
@@ -31960,6 +31960,13 @@
             "name": "yCraft",
             "symbol": "yCRAFT",
             "address": "0x4EBe80FF2C724106cF0859A349f2b2853A525097",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "World Reserve Currency",
+            "symbol": "WRCT",
+            "address": "0xD2B57481677465A83FdB88B1912F626bd0A2EAe1",
             "decimals": 18
         }
     ]
