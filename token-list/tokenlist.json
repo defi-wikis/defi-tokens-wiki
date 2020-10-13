@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:33:24.987Z",
+    "timestamp": "2020-10-13T04:37:15.034Z",
     "version": {
         "major": 1,
-        "minor": 6041,
+        "minor": 6042,
         "patch": 0
     },
     "keywords": [
@@ -32100,6 +32100,13 @@
             "name": "Halloween Gift Toke",
             "symbol": "HLG",
             "address": "0xfC139A703703395Ac9e8e4C61139848aa5527D88",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "People Reserve Currency",
+            "symbol": "PRCT",
+            "address": "0x3d3FC98878F15D5E7f35a3b126524250955aD82B",
             "decimals": 18
         }
     ]
