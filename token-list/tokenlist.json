@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T17:56:12.267Z",
+    "timestamp": "2020-10-13T18:15:21.480Z",
     "version": {
         "major": 1,
-        "minor": 6163,
+        "minor": 6164,
         "patch": 0
     },
     "keywords": [
@@ -32954,6 +32954,13 @@
             "name": "Zenfuse Trading v2",
             "symbol": "ZEFU",
             "address": "0x34f6eEDbf230826922Fa36271E544B4Cca221F9D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Farmageddon",
+            "symbol": "FARMA",
+            "address": "0x9755AC42520e22C1DE4F711B736A340f7c04b697",
             "decimals": 18
         }
     ]
