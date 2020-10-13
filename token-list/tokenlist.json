@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T09:35:45.356Z",
+    "timestamp": "2020-10-13T09:40:15.004Z",
     "version": {
         "major": 1,
-        "minor": 6078,
+        "minor": 6079,
         "patch": 0
     },
     "keywords": [
@@ -32359,6 +32359,13 @@
             "name": "Turtle.Finance",
             "symbol": "TRTL",
             "address": "0x23798598FD69d89dcAA57F3E023e2941fb2587de",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Debase",
+            "symbol": "DEBASE",
+            "address": "0xa059b04F5293DE69fB3CC9ae5EE1E51083111247",
             "decimals": 18
         }
     ]
