@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:05:51.081Z",
+    "timestamp": "2020-10-13T19:09:50.584Z",
     "version": {
         "major": 1,
-        "minor": 6174,
+        "minor": 6175,
         "patch": 0
     },
     "keywords": [
@@ -33031,6 +33031,13 @@
             "name": "YEAR FINANCE GYM",
             "symbol": "YGYM",
             "address": "0x99f0FAa2b4CE5aBCc78762439da07212A05ff6e9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Notarised",
+            "symbol": "NTS",
+            "address": "0xC2D0e87Ca97506e0894Cab3aF3d72fbcE485aD36",
             "decimals": 18
         }
     ]
