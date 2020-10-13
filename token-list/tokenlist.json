@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T01:32:25.424Z",
+    "timestamp": "2020-10-13T01:32:44.946Z",
     "version": {
         "major": 1,
-        "minor": 6015,
+        "minor": 6016,
         "patch": 0
     },
     "keywords": [
@@ -31919,6 +31919,13 @@
             "symbol": "FIL",
             "address": "0x0A272bb530eB5F61A446703eD949347CEd2206fd",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GarySymons TokenSmith Token",
+            "symbol": "BUFFGATE",
+            "address": "0x0B244e01B1B0C9a959b3b0Bc19E3852395319876",
+            "decimals": 4
         }
     ]
 }
