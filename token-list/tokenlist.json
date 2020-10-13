@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T11:04:45.622Z",
+    "timestamp": "2020-10-13T11:04:50.662Z",
     "version": {
         "major": 1,
-        "minor": 6093,
+        "minor": 6094,
         "patch": 0
     },
     "keywords": [
@@ -32464,6 +32464,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0xAAD603e981B09Bce8De63654Be7628196C95EE4b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Finance Diamond Token",
+            "symbol": "YFDT",
+            "address": "0x124001e12CcaE397DA651c8793C42e14AB72076E",
             "decimals": 18
         }
     ]
