@@ -1,0 +1,7 @@
+{
+    "name": "Token",
+    "symbol": "TOKEN",
+    "address": "0x1260Ddb22858E3a273e2f85957599BAafeA2496f",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
