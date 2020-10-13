@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:58:25.846Z",
+    "timestamp": "2020-10-13T03:10:52.826Z",
     "version": {
         "major": 1,
-        "minor": 6029,
+        "minor": 6030,
         "patch": 0
     },
     "keywords": [
@@ -32016,6 +32016,13 @@
             "name": "Filecoin",
             "symbol": "FIL",
             "address": "0x902BE08bb28C06a940267e259aA44Ac7B75FF422",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Luigi Finance",
+            "symbol": "LUIGI",
+            "address": "0x4DCC9b9EFFE1675a304C4C563Ea54CC0ef43b303",
             "decimals": 18
         }
     ]
