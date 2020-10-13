@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T22:56:35.168Z",
+    "timestamp": "2020-10-13T23:14:24.850Z",
     "version": {
         "major": 1,
-        "minor": 6204,
+        "minor": 6205,
         "patch": 0
     },
     "keywords": [
@@ -33241,6 +33241,13 @@
             "name": "KingSwap",
             "symbol": "KING",
             "address": "0x5f962F7b37781b80e4A626637Fb6BF3593960dB3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "apy.finance",
+            "symbol": "$APY",
+            "address": "0x753B4Bc18c27B572Dc0D106735212faEAf857382",
             "decimals": 18
         }
     ]
