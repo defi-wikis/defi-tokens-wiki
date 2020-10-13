@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:37:54.950Z",
+    "timestamp": "2020-10-13T02:39:55.592Z",
     "version": {
         "major": 1,
-        "minor": 6024,
+        "minor": 6025,
         "patch": 0
     },
     "keywords": [
@@ -31981,6 +31981,13 @@
             "name": "iyearn.finance",
             "symbol": "IYFI",
             "address": "0xBe6E093016Ad88e0A8632be1bB183C6c69D5EF19",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Sushi Chopsticks",
+            "symbol": "SUSHIC",
+            "address": "0x63846423335110427068531d46cE5a322c2ADFBc",
             "decimals": 18
         }
     ]
