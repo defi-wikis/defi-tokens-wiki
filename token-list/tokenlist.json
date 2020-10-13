@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:42:55.612Z",
+    "timestamp": "2020-10-13T19:42:59.948Z",
     "version": {
         "major": 1,
-        "minor": 6181,
+        "minor": 6182,
         "patch": 0
     },
     "keywords": [
@@ -33080,6 +33080,13 @@
             "name": "Vox.Finance",
             "symbol": "VOX",
             "address": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nutshell Exchange Token",
+            "symbol": "NSHT",
+            "address": "0xd8a2e77F267e7F321d2078A012DfDe93FDF0C6B5",
             "decimals": 18
         }
     ]
