@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T21:29:11.359Z",
+    "timestamp": "2020-10-13T21:39:02.206Z",
     "version": {
         "major": 1,
-        "minor": 6195,
+        "minor": 6196,
         "patch": 0
     },
     "keywords": [
@@ -33178,6 +33178,13 @@
             "name": "Global Digital Currency Network",
             "symbol": "GDC",
             "address": "0xf34E916534589e915d46e6bc545a1700d9e1b233",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Unirelay - ver2",
+            "symbol": "UNRL",
+            "address": "0x40b0b0E1b4cDe9924c206a19289Ce3f6e879af4C",
             "decimals": 18
         }
     ]
