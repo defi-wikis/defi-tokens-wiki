@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:30:15.662Z",
+    "timestamp": "2020-10-13T07:32:59.910Z",
     "version": {
         "major": 1,
-        "minor": 6065,
+        "minor": 6066,
         "patch": 0
     },
     "keywords": [
@@ -32268,6 +32268,13 @@
             "name": "InterPlanetary File System",
             "symbol": "IPFS",
             "address": "0xfC117Ea60689d14281Fb8d2A558D404Ae7F3f28d",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MAMA",
+            "symbol": "MAMA",
+            "address": "0xdb2d49eb16cDa801458158272b0a46aC19aE27C5",
             "decimals": 18
         }
     ]
