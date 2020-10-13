@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:42:59.948Z",
+    "timestamp": "2020-10-13T19:44:50.437Z",
     "version": {
         "major": 1,
-        "minor": 6182,
+        "minor": 6183,
         "patch": 0
     },
     "keywords": [
@@ -33087,6 +33087,13 @@
             "name": "Nutshell Exchange Token",
             "symbol": "NSHT",
             "address": "0xd8a2e77F267e7F321d2078A012DfDe93FDF0C6B5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "KIMO.Finance",
+            "symbol": "KIMO",
+            "address": "0x8059B2741747449B0ed87311aded6171c74A02e4",
             "decimals": 18
         }
     ]
