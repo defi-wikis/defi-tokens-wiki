@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:49:25.023Z",
+    "timestamp": "2020-10-13T02:58:25.846Z",
     "version": {
         "major": 1,
-        "minor": 6028,
+        "minor": 6029,
         "patch": 0
     },
     "keywords": [
@@ -32009,6 +32009,13 @@
             "name": "GoodX.network",
             "symbol": "OOX",
             "address": "0x3A3f22225276ABDDA233FbafD226011C6FDD5cD1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Filecoin",
+            "symbol": "FIL",
+            "address": "0x902BE08bb28C06a940267e259aA44Ac7B75FF422",
             "decimals": 18
         }
     ]
