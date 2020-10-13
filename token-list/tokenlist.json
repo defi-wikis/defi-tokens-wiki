@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:55:20.437Z",
+    "timestamp": "2020-10-13T16:08:29.939Z",
     "version": {
         "major": 1,
-        "minor": 6139,
+        "minor": 6140,
         "patch": 0
     },
     "keywords": [
@@ -32786,6 +32786,13 @@
             "name": "yfgenius.finance",
             "symbol": "YFGEN",
             "address": "0xa383F155622eAB52E84849aCEe62B9630747c58B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CSwap.finance",
+            "symbol": "CSwap",
+            "address": "0x855Cd2C774fC1F7A205d5e3D62b746ef0c5e73Ca",
             "decimals": 18
         }
     ]
