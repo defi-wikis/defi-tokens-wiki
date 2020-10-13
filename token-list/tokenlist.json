@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:05:55.427Z",
+    "timestamp": "2020-10-13T14:27:56.497Z",
     "version": {
         "major": 1,
-        "minor": 6121,
+        "minor": 6122,
         "patch": 0
     },
     "keywords": [
@@ -32660,6 +32660,13 @@
             "name": "ADC",
             "symbol": "ADC",
             "address": "0xf3586e01767624dF640ed3F58973E19f574b68E9",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GrapeDefiToken",
+            "symbol": "GDT",
+            "address": "0xb93e5aD2A5B9C9f5383F5E03094700CdC0A45734",
             "decimals": 18
         }
     ]
