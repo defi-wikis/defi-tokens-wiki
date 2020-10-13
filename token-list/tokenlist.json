@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T00:44:14.978Z",
+    "timestamp": "2020-10-13T00:54:45.297Z",
     "version": {
         "major": 1,
-        "minor": 6007,
+        "minor": 6008,
         "patch": 0
     },
     "keywords": [
@@ -31862,6 +31862,13 @@
             "name": "Booster Finance",
             "symbol": "BOOST",
             "address": "0x213FdDC033bb44ecd00e591d8745dE6d7D9CeCAC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AXIA-V3",
+            "symbol": "AXIA",
+            "address": "0x11D61210d4B2Cb4C33d72d288e51326bEEFF9d83",
             "decimals": 18
         }
     ]
