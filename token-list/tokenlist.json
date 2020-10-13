@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:17:02.607Z",
+    "timestamp": "2020-10-13T13:18:25.624Z",
     "version": {
         "major": 1,
-        "minor": 6111,
+        "minor": 6112,
         "patch": 0
     },
     "keywords": [
@@ -32590,6 +32590,13 @@
             "name": "gMAK Crypto",
             "symbol": "gMAK",
             "address": "0xEa6dD45d244a83fDAD23F6270844ce8b93C97A76",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zenfuse",
+            "symbol": "ZEFU",
+            "address": "0xA06cC4A1BF8D0111ddED0e8086B17f935a4A6761",
             "decimals": 18
         }
     ]
