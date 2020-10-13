@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T17:55:25.009Z",
+    "timestamp": "2020-10-13T17:56:12.267Z",
     "version": {
         "major": 1,
-        "minor": 6162,
+        "minor": 6163,
         "patch": 0
     },
     "keywords": [
@@ -32947,6 +32947,13 @@
             "name": "Apollo Fintech",
             "symbol": "APL",
             "address": "0x7Ee7CD8f9dD010D0cd38550E2ea5AA34170d102C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zenfuse Trading v2",
+            "symbol": "ZEFU",
+            "address": "0x34f6eEDbf230826922Fa36271E544B4Cca221F9D",
             "decimals": 18
         }
     ]
