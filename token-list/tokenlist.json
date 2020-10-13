@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:29:20.602Z",
+    "timestamp": "2020-10-13T02:37:54.950Z",
     "version": {
         "major": 1,
-        "minor": 6023,
+        "minor": 6024,
         "patch": 0
     },
     "keywords": [
@@ -31974,6 +31974,13 @@
             "name": "Adamantx.network",
             "symbol": "ADMX",
             "address": "0x9DED21AA7Ca361eaEf5689E6Fa39AdAE7c84B274",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "iyearn.finance",
+            "symbol": "IYFI",
+            "address": "0xBe6E093016Ad88e0A8632be1bB183C6c69D5EF19",
             "decimals": 18
         }
     ]
