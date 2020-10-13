@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T23:57:06.717Z",
+    "timestamp": "2020-10-13T23:59:30.489Z",
     "version": {
         "major": 1,
-        "minor": 6212,
+        "minor": 6213,
         "patch": 0
     },
     "keywords": [
@@ -33297,6 +33297,13 @@
             "name": "Unicore",
             "symbol": "UCR",
             "address": "0x4b1a5A41a7C62f3fB44eB2a41Cd51b739daFC73C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core BitCash Finance",
+            "symbol": "YFICC",
+            "address": "0x055F22AEcdC166089E5d4DbaE8B897d2FCC1f59a",
             "decimals": 18
         }
     ]
