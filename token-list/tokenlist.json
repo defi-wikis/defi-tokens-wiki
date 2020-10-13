@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:37:15.034Z",
+    "timestamp": "2020-10-13T04:42:35.630Z",
     "version": {
         "major": 1,
-        "minor": 6042,
+        "minor": 6043,
         "patch": 0
     },
     "keywords": [
@@ -32107,6 +32107,13 @@
             "name": "People Reserve Currency",
             "symbol": "PRCT",
             "address": "0x3d3FC98878F15D5E7f35a3b126524250955aD82B",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MantiCORE",
+            "symbol": "MCORE",
+            "address": "0x06715d2e211Cf7a6976FEB348Cb2F6deFdF582f8",
             "decimals": 18
         }
     ]
