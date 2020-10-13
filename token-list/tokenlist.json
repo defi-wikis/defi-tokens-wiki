@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T06:55:35.745Z",
+    "timestamp": "2020-10-13T07:13:16.231Z",
     "version": {
         "major": 1,
-        "minor": 6060,
+        "minor": 6061,
         "patch": 0
     },
     "keywords": [
@@ -32233,6 +32233,13 @@
             "name": "DCL Plazas",
             "symbol": "DCL",
             "address": "0x489222eA529114219a51a166f130fAf1F1f0FD4a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NoodleToken",
+            "symbol": "NDL",
+            "address": "0xFf3401D00a225300d6DDE2Ee1968F4dF795169F0",
             "decimals": 18
         }
     ]
