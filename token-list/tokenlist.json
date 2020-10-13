@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T21:45:16.909Z",
+    "timestamp": "2020-10-13T21:46:10.923Z",
     "version": {
         "major": 1,
-        "minor": 6197,
+        "minor": 6198,
         "patch": 0
     },
     "keywords": [
@@ -33192,6 +33192,13 @@
             "name": "Apollo Fintech Gold Secured Currency",
             "symbol": "GSX",
             "address": "0x86e0A1D7E11E969C73E743D58fBAb349eC0686a3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "International Reserve Currency",
+            "symbol": "IRCT",
+            "address": "0x18178f528D3B5F323B458F839D271672c24BD961",
             "decimals": 18
         }
     ]
