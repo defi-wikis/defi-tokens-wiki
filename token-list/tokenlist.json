@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T08:21:49.731Z",
+    "timestamp": "2020-10-13T08:21:55.659Z",
     "version": {
         "major": 1,
-        "minor": 6071,
+        "minor": 6072,
         "patch": 0
     },
     "keywords": [
@@ -32310,6 +32310,13 @@
             "name": "Strong Education",
             "symbol": "STED",
             "address": "0x6baE0a045e4B9C720F1a7b89Ee87Ef42784Ba613",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Thugs Finance",
+            "symbol": "THUGS",
+            "address": "0xc62C11BE1DFbe4E7E46D274176d1626dbB5AD0f9",
             "decimals": 18
         }
     ]
