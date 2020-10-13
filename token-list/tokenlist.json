@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T06:43:54.963Z",
+    "timestamp": "2020-10-13T06:52:40.645Z",
     "version": {
         "major": 1,
-        "minor": 6058,
+        "minor": 6059,
         "patch": 0
     },
     "keywords": [
@@ -32219,6 +32219,13 @@
             "name": "Deficliq",
             "symbol": "CLIQ",
             "address": "0xa7336f7e99E3bAe3533E5AfD74Cf15c7FDB42F36",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFFProtocol",
+            "symbol": "YFFP",
+            "address": "0xD274D633E734Af99C7D5880CF088B34C414938E5",
             "decimals": 18
         }
     ]
