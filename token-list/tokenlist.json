@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:55:55.066Z",
+    "timestamp": "2020-10-13T08:00:13.881Z",
     "version": {
         "major": 1,
-        "minor": 6068,
+        "minor": 6069,
         "patch": 0
     },
     "keywords": [
@@ -32290,6 +32290,13 @@
             "symbol": "FISH",
             "address": "0x8DDF727Ef892B2c40Cf3bd058bB73168dAe93ddc",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Dynamic Trading Rights",
+            "symbol": "DTR",
+            "address": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
+            "decimals": 8
         }
     ]
 }
