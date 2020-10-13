@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T03:10:52.826Z",
+    "timestamp": "2020-10-13T03:26:55.580Z",
     "version": {
         "major": 1,
-        "minor": 6030,
+        "minor": 6031,
         "patch": 0
     },
     "keywords": [
@@ -32023,6 +32023,13 @@
             "name": "Luigi Finance",
             "symbol": "LUIGI",
             "address": "0x4DCC9b9EFFE1675a304C4C563Ea54CC0ef43b303",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFVAULT.FINANCE",
+            "symbol": "YFV",
+            "address": "0xC49D111C9C01065b9a88871D022BEa234310517e",
             "decimals": 18
         }
     ]
