@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:08:00.031Z",
+    "timestamp": "2020-10-13T02:17:30.010Z",
     "version": {
         "major": 1,
-        "minor": 6019,
+        "minor": 6020,
         "patch": 0
     },
     "keywords": [
@@ -31946,6 +31946,13 @@
             "name": "Pickle Finance v2",
             "symbol": "PICv2",
             "address": "0xdDc5e8c3c0BC8f27640917a49b276EeC09781Dde",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yearncoin.finance",
+            "symbol": "YCFI",
+            "address": "0x2B88880F3E44b56910707952133C28F8150B3694",
             "decimals": 18
         }
     ]
