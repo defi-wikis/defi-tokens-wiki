@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T11:12:45.139Z",
+    "timestamp": "2020-10-13T11:16:02.331Z",
     "version": {
         "major": 1,
-        "minor": 6095,
+        "minor": 6096,
         "patch": 0
     },
     "keywords": [
@@ -32478,6 +32478,13 @@
             "name": "Dior Finance",
             "symbol": "DIOR",
             "address": "0x6939dfa358021De8824949Cc56E2a30688C6885F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Yearn Recovery",
+            "symbol": "YFIR",
+            "address": "0xDfaB75f3bc6FDfa21FBfaA801c60E3d942B1002f",
             "decimals": 18
         }
     ]
