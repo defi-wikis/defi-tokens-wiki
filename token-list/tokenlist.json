@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T11:58:59.853Z",
+    "timestamp": "2020-10-13T12:03:55.737Z",
     "version": {
         "major": 1,
-        "minor": 6099,
+        "minor": 6100,
         "patch": 0
     },
     "keywords": [
@@ -32506,6 +32506,13 @@
             "name": "Resurrection Coin",
             "symbol": "RC",
             "address": "0xa0EFD8ca051c8297d86BdE3F93ad966FB9494FEB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Currency Reserve",
+            "symbol": "DCR",
+            "address": "0xA54C095731bD49a72A2CC3d07976435374323999",
             "decimals": 18
         }
     ]
