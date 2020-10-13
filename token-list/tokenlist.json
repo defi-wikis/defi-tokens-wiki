@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T20:37:07.375Z",
+    "timestamp": "2020-10-13T20:52:24.552Z",
     "version": {
         "major": 1,
-        "minor": 6193,
+        "minor": 6194,
         "patch": 0
     },
     "keywords": [
@@ -33164,6 +33164,13 @@
             "name": "iob.fi DAO",
             "symbol": "FI",
             "address": "0xF03d05eD4Cf4E723C04500Ab64281BfA591968F2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "LADA.Finance",
+            "symbol": "LADA",
+            "address": "0x8E806C80e0c75D332E407503f72431cC73b7EeBe",
             "decimals": 18
         }
     ]
