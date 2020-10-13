@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:00:17.643Z",
+    "timestamp": "2020-10-13T05:02:10.656Z",
     "version": {
         "major": 1,
-        "minor": 6045,
+        "minor": 6046,
         "patch": 0
     },
     "keywords": [
@@ -32129,6 +32129,13 @@
             "symbol": "ICE",
             "address": "0x709846adbbc0fA3BD5A27BC9cEf83E2Ba5091Dc0",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Digital Monetary Reserve",
+            "symbol": "DMR",
+            "address": "0x787707498942D451ec484893972F676d860f7182",
+            "decimals": 18
         }
     ]
 }
