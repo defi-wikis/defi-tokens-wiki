@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:54:35.232Z",
+    "timestamp": "2020-10-13T14:04:00.042Z",
     "version": {
         "major": 1,
-        "minor": 6118,
+        "minor": 6119,
         "patch": 0
     },
     "keywords": [
@@ -32639,6 +32639,13 @@
             "name": "FinanceRAINExchange",
             "symbol": "FRE",
             "address": "0xB563E4f1825FA3397cC0de85158fbD68feF5F4f3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "GlobalCoinContentZeusNetwork",
+            "symbol": "GCZ",
+            "address": "0x570D91067c4CdA94F371f62F465505369a917488",
             "decimals": 18
         }
     ]
