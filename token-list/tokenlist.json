@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T06:32:24.819Z",
+    "timestamp": "2020-10-13T06:32:59.733Z",
     "version": {
         "major": 1,
-        "minor": 6056,
+        "minor": 6057,
         "patch": 0
     },
     "keywords": [
@@ -32205,6 +32205,13 @@
             "name": "YCloud.Finance",
             "symbol": "YCLF",
             "address": "0xc05f1D7Dbe7D190D0ed94AaFb35325B3aB3AEdA1",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "collective solution",
+            "symbol": "CS",
+            "address": "0x0971c135fA437e7bD5014BE49d2604474A569612",
             "decimals": 18
         }
     ]
