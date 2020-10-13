@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T17:30:30.345Z",
+    "timestamp": "2020-10-13T17:41:25.592Z",
     "version": {
         "major": 1,
-        "minor": 6158,
+        "minor": 6159,
         "patch": 0
     },
     "keywords": [
@@ -32919,6 +32919,13 @@
             "name": "Uniswap   X",
             "symbol": "UNIX",
             "address": "0xeb2C9021e1c79D267B632B576E0B81AfEdb17A9b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "UniLend Finance Token",
+            "symbol": "UFT",
+            "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
             "decimals": 18
         }
     ]
