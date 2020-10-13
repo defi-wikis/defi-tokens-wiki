@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:38:07.365Z",
+    "timestamp": "2020-10-13T06:02:45.151Z",
     "version": {
         "major": 1,
-        "minor": 6053,
+        "minor": 6054,
         "patch": 0
     },
     "keywords": [
@@ -32184,6 +32184,13 @@
             "name": "YFIKey",
             "symbol": "YFIK",
             "address": "0x97cD43949B699fFa2a87FA888847f36b41ccdF50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Nado Network",
+            "symbol": "NADO",
+            "address": "0xe4e540904E2D9796b2e3836880D7404673C84199",
             "decimals": 18
         }
     ]
