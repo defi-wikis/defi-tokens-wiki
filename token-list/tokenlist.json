@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:32:59.910Z",
+    "timestamp": "2020-10-13T07:53:10.488Z",
     "version": {
         "major": 1,
-        "minor": 6066,
+        "minor": 6067,
         "patch": 0
     },
     "keywords": [
@@ -32276,6 +32276,13 @@
             "symbol": "MAMA",
             "address": "0xdb2d49eb16cDa801458158272b0a46aC19aE27C5",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Wrapped TON",
+            "symbol": "WTON",
+            "address": "0xc4A11aaf6ea915Ed7Ac194161d2fC9384F15bff2",
+            "decimals": 27
         }
     ]
 }
