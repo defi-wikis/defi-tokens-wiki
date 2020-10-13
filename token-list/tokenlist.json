@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T01:32:44.946Z",
+    "timestamp": "2020-10-13T01:32:50.436Z",
     "version": {
         "major": 1,
-        "minor": 6016,
+        "minor": 6017,
         "patch": 0
     },
     "keywords": [
@@ -31926,6 +31926,13 @@
             "symbol": "BUFFGATE",
             "address": "0x0B244e01B1B0C9a959b3b0Bc19E3852395319876",
             "decimals": 4
+        },
+        {
+            "chainId": 1,
+            "name": "Bancor USD Token",
+            "symbol": "USDB",
+            "address": "0x309627af60F0926daa6041B8279484312f2bf060",
+            "decimals": 18
         }
     ]
 }
