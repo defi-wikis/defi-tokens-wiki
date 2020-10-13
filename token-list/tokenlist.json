@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T01:56:07.563Z",
+    "timestamp": "2020-10-13T02:08:00.031Z",
     "version": {
         "major": 1,
-        "minor": 6018,
+        "minor": 6019,
         "patch": 0
     },
     "keywords": [
@@ -31939,6 +31939,13 @@
             "name": "BARNEY.ARMY",
             "symbol": "BARNEY",
             "address": "0xdBD90bdB1447aff29aD6d9A8bFe1214a29A288C3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Pickle Finance v2",
+            "symbol": "PICv2",
+            "address": "0xdDc5e8c3c0BC8f27640917a49b276EeC09781Dde",
             "decimals": 18
         }
     ]
