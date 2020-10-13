@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:01:20.308Z",
+    "timestamp": "2020-10-13T04:05:20.425Z",
     "version": {
         "major": 1,
-        "minor": 6036,
+        "minor": 6037,
         "patch": 0
     },
     "keywords": [
@@ -32065,6 +32065,13 @@
             "name": "Minecraft Finance",
             "symbol": "$MINE",
             "address": "0xAAd37627159bDEE016Fb56e2EDD2ef3c11Da723D",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "luigi.finance",
+            "symbol": "LUIGI",
+            "address": "0xA2829832f4a1d9B886a112c2DC87f9f546F69Af8",
             "decimals": 18
         }
     ]
