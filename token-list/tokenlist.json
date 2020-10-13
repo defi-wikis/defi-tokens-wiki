@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:54:22.392Z",
+    "timestamp": "2020-10-13T17:10:19.670Z",
     "version": {
         "major": 1,
-        "minor": 6153,
+        "minor": 6154,
         "patch": 0
     },
     "keywords": [
@@ -32884,6 +32884,13 @@
             "name": "Pumping speed",
             "symbol": "PSPE",
             "address": "0x8BDf4D9e3E26273dF6fa72cD0dFE22ECFfb2E422",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Power   Candy",
+            "symbol": "POC",
+            "address": "0x2164551C3Eb6e7B69c829cf21FD1Ac197468184C",
             "decimals": 18
         }
     ]
