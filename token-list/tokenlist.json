@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T11:22:19.659Z",
+    "timestamp": "2020-10-13T11:58:59.853Z",
     "version": {
         "major": 1,
-        "minor": 6098,
+        "minor": 6099,
         "patch": 0
     },
     "keywords": [
@@ -32500,6 +32500,13 @@
             "symbol": "ZMP",
             "address": "0x004e53AEd4a41981F61FFf1a227635bdEb5a0D65",
             "decimals": 6
+        },
+        {
+            "chainId": 1,
+            "name": "Resurrection Coin",
+            "symbol": "RC",
+            "address": "0xa0EFD8ca051c8297d86BdE3F93ad966FB9494FEB",
+            "decimals": 18
         }
     ]
 }
