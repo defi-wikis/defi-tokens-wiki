@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T02:17:30.010Z",
+    "timestamp": "2020-10-13T02:23:45.253Z",
     "version": {
         "major": 1,
-        "minor": 6020,
+        "minor": 6021,
         "patch": 0
     },
     "keywords": [
@@ -31953,6 +31953,13 @@
             "name": "yearncoin.finance",
             "symbol": "YCFI",
             "address": "0x2B88880F3E44b56910707952133C28F8150B3694",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yCraft",
+            "symbol": "yCRAFT",
+            "address": "0x4EBe80FF2C724106cF0859A349f2b2853A525097",
             "decimals": 18
         }
     ]
