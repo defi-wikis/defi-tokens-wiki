@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:05:35.660Z",
+    "timestamp": "2020-10-13T13:06:11.939Z",
     "version": {
         "major": 1,
-        "minor": 6108,
+        "minor": 6109,
         "patch": 0
     },
     "keywords": [
@@ -32569,6 +32569,13 @@
             "name": "Obelisk Governance Token",
             "symbol": "OBELISK",
             "address": "0x86F50209d748D38a985b10Ce3FAbbD9E2b0c61F2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "EternalDefiToken",
+            "symbol": "EDT",
+            "address": "0x6edcDcDd72Ae48595228537A0c156BD99F78241D",
             "decimals": 18
         }
     ]
