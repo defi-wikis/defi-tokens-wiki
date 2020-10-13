@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T15:15:29.784Z",
+    "timestamp": "2020-10-13T15:20:36.175Z",
     "version": {
         "major": 1,
-        "minor": 6131,
+        "minor": 6132,
         "patch": 0
     },
     "keywords": [
@@ -32730,6 +32730,13 @@
             "name": "Mia Loin Nng",
             "symbol": "GLN",
             "address": "0x03241323E870b4D4dF639F86188FABF256F7Fc57",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "AV Group token",
+            "symbol": "AVGT",
+            "address": "0x74FeC88946d90B87F40F04165BF64542751F779e",
             "decimals": 18
         }
     ]
