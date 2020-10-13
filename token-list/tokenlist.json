@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T20:18:11.068Z",
+    "timestamp": "2020-10-13T20:30:00.081Z",
     "version": {
         "major": 1,
-        "minor": 6188,
+        "minor": 6189,
         "patch": 0
     },
     "keywords": [
@@ -33129,6 +33129,13 @@
             "name": "ONE MOON TOKEN",
             "symbol": "OMOON",
             "address": "0x2F98365Db2B13593b066F7776071Be0B0E4CC996",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Core v3 Rebase",
+            "symbol": "COREA",
+            "address": "0x6F24FEa312713EbD25EF0E628D796bDc8DB3C652",
             "decimals": 18
         }
     ]
