@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:48:37.866Z",
+    "timestamp": "2020-10-13T19:51:50.579Z",
     "version": {
         "major": 1,
-        "minor": 6185,
+        "minor": 6186,
         "patch": 0
     },
     "keywords": [
@@ -33109,6 +33109,13 @@
             "symbol": "YFIV-ADMIN",
             "address": "0xbA7721c982AA153A2a349D64E81bfb85f20B578a",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Koinos",
+            "symbol": "KOIN",
+            "address": "0x66d28cb58487a7609877550E1a34691810A6b9FC",
+            "decimals": 8
         }
     ]
 }
