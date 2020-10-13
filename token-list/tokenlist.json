@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:48:30.820Z",
+    "timestamp": "2020-10-13T19:48:37.866Z",
     "version": {
         "major": 1,
-        "minor": 6184,
+        "minor": 6185,
         "patch": 0
     },
     "keywords": [
@@ -33101,6 +33101,13 @@
             "name": "YEARN FINANCE VALUE",
             "symbol": "YFIV",
             "address": "0x519083fc539F23131C3b7046992584592772D12A",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YEARN FINANCE VALUE ADMIN",
+            "symbol": "YFIV-ADMIN",
+            "address": "0xbA7721c982AA153A2a349D64E81bfb85f20B578a",
             "decimals": 18
         }
     ]
