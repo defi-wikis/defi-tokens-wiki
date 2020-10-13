@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T23:14:24.850Z",
+    "timestamp": "2020-10-13T23:32:39.905Z",
     "version": {
         "major": 1,
-        "minor": 6205,
+        "minor": 6206,
         "patch": 0
     },
     "keywords": [
@@ -33248,6 +33248,13 @@
             "name": "apy.finance",
             "symbol": "$APY",
             "address": "0x753B4Bc18c27B572Dc0D106735212faEAf857382",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Hot Pot Points",
+            "symbol": "HPP",
+            "address": "0x734b73cE38D771b1509645589f9F57Fa6f8c530D",
             "decimals": 18
         }
     ]
