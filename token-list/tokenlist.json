@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-12T23:54:02.419Z",
+    "timestamp": "2020-10-13T00:30:40.145Z",
     "version": {
         "major": 1,
-        "minor": 6004,
+        "minor": 6005,
         "patch": 0
     },
     "keywords": [
@@ -31841,6 +31841,13 @@
             "name": "UniqueCraft.finance",
             "symbol": "UNICRAFT",
             "address": "0x6dE55CDCCaa749513f47667F9886c5684b4cF70F",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Mobie Pay",
+            "symbol": "MBX",
+            "address": "0x856728AfCD9FF354A7dd76f1492dEc1615A639b6",
             "decimals": 18
         }
     ]
