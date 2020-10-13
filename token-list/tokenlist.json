@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T10:49:45.315Z",
+    "timestamp": "2020-10-13T10:59:49.687Z",
     "version": {
         "major": 1,
-        "minor": 6091,
+        "minor": 6092,
         "patch": 0
     },
     "keywords": [
@@ -32451,6 +32451,13 @@
             "symbol": "ACPC",
             "address": "0xC116b756F02b8654a4623A7d679a70700B1Fecd5",
             "decimals": 3
+        },
+        {
+            "chainId": 1,
+            "name": "Justswap.Finance",
+            "symbol": "JUST",
+            "address": "0xb55C731d09519707022a87c9e09EC8C3bD576D48",
+            "decimals": 18
         }
     ]
 }
