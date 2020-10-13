@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T08:43:07.178Z",
+    "timestamp": "2020-10-13T08:45:54.991Z",
     "version": {
         "major": 1,
-        "minor": 6073,
+        "minor": 6074,
         "patch": 0
     },
     "keywords": [
@@ -32324,6 +32324,13 @@
             "name": "Curry",
             "symbol": "CURRY",
             "address": "0x89494C685E06d18ff0c65F9e756976EdAa6E806a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YKK Token",
+            "symbol": "YKK",
+            "address": "0xBd1520961bE128914957055786A3b588E95E4Bb8",
             "decimals": 18
         }
     ]
