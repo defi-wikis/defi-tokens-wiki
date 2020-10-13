@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T08:06:50.193Z",
+    "timestamp": "2020-10-13T08:21:49.731Z",
     "version": {
         "major": 1,
-        "minor": 6070,
+        "minor": 6071,
         "patch": 0
     },
     "keywords": [
@@ -32303,6 +32303,13 @@
             "name": "PayPie",
             "symbol": "PPP",
             "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Strong Education",
+            "symbol": "STED",
+            "address": "0x6baE0a045e4B9C720F1a7b89Ee87Ef42784Ba613",
             "decimals": 18
         }
     ]
