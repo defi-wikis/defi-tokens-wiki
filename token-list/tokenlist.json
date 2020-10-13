@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T00:41:14.677Z",
+    "timestamp": "2020-10-13T00:44:14.978Z",
     "version": {
         "major": 1,
-        "minor": 6006,
+        "minor": 6007,
         "patch": 0
     },
     "keywords": [
@@ -31855,6 +31855,13 @@
             "name": "TomoChain Relaunch",
             "symbol": "TOMOR",
             "address": "0xC5f3b89b4c4DA4e7420C3708cD5e9681E89a4027",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Booster Finance",
+            "symbol": "BOOST",
+            "address": "0x213FdDC033bb44ecd00e591d8745dE6d7D9CeCAC",
             "decimals": 18
         }
     ]
