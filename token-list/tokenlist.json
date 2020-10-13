@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T21:39:02.206Z",
+    "timestamp": "2020-10-13T21:45:16.909Z",
     "version": {
         "major": 1,
-        "minor": 6196,
+        "minor": 6197,
         "patch": 0
     },
     "keywords": [
@@ -33185,6 +33185,13 @@
             "name": "Unirelay - ver2",
             "symbol": "UNRL",
             "address": "0x40b0b0E1b4cDe9924c206a19289Ce3f6e879af4C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Apollo Fintech Gold Secured Currency",
+            "symbol": "GSX",
+            "address": "0x86e0A1D7E11E969C73E743D58fBAb349eC0686a3",
             "decimals": 18
         }
     ]
