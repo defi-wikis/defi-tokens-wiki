@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T19:12:20.374Z",
+    "timestamp": "2020-10-13T19:17:21.657Z",
     "version": {
         "major": 1,
-        "minor": 6176,
+        "minor": 6177,
         "patch": 0
     },
     "keywords": [
@@ -33045,6 +33045,13 @@
             "name": "Toku",
             "symbol": "Tokv1",
             "address": "0xD358231F9028545A50aD4C39c2D35e02bA65Ed63",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Eco Farm",
+            "symbol": "ECO",
+            "address": "0x38E0efC80E8B195510aC84bcc6e9ddCa5E67b243",
             "decimals": 18
         }
     ]
