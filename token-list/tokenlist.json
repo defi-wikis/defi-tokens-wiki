@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:05:20.425Z",
+    "timestamp": "2020-10-13T04:08:10.494Z",
     "version": {
         "major": 1,
-        "minor": 6037,
+        "minor": 6038,
         "patch": 0
     },
     "keywords": [
@@ -32072,6 +32072,13 @@
             "name": "luigi.finance",
             "symbol": "LUIGI",
             "address": "0xA2829832f4a1d9B886a112c2DC87f9f546F69Af8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "NYAN FINANCE V2",
+            "symbol": "NYANV2",
+            "address": "0x264bB245c7E791A65b6D858F9b3e5f9156cE8F9c",
             "decimals": 18
         }
     ]
