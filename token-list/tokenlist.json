@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T14:04:00.042Z",
+    "timestamp": "2020-10-13T14:04:39.940Z",
     "version": {
         "major": 1,
-        "minor": 6119,
+        "minor": 6120,
         "patch": 0
     },
     "keywords": [
@@ -32646,6 +32646,13 @@
             "name": "GlobalCoinContentZeusNetwork",
             "symbol": "GCZ",
             "address": "0x570D91067c4CdA94F371f62F465505369a917488",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "worldcoin",
+            "symbol": "WLC",
+            "address": "0x46ea5E709a27cF6Ed877d16C5Bc131cE01190316",
             "decimals": 18
         }
     ]
