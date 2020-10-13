@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T03:29:50.755Z",
+    "timestamp": "2020-10-13T03:41:02.152Z",
     "version": {
         "major": 1,
-        "minor": 6032,
+        "minor": 6033,
         "patch": 0
     },
     "keywords": [
@@ -32037,6 +32037,13 @@
             "name": "Mosquito Finance",
             "symbol": "SUCK",
             "address": "0x66a9C5D0d2Dd5562608286cE63B2724d2BAaDBF2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Orb v3 (Multi)",
+            "symbol": "ORBv3",
+            "address": "0x31155dfdeae8A92a05827d2674fF136306430860",
             "decimals": 18
         }
     ]
