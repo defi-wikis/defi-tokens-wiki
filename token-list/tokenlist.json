@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T12:47:10.240Z",
+    "timestamp": "2020-10-13T12:53:24.874Z",
     "version": {
         "major": 1,
-        "minor": 6104,
+        "minor": 6105,
         "patch": 0
     },
     "keywords": [
@@ -32541,6 +32541,13 @@
             "name": "PLOT",
             "symbol": "PLOT",
             "address": "0xc916c2013BA4f7eBA09e2935024B8672A5E0898E",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PLOT",
+            "symbol": "PLOT",
+            "address": "0xF316425Ab0eE4EA947A5BD874EfC0F82C6FA10f9",
             "decimals": 18
         }
     ]
