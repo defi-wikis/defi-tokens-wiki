@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T10:33:29.868Z",
+    "timestamp": "2020-10-13T10:49:45.315Z",
     "version": {
         "major": 1,
-        "minor": 6090,
+        "minor": 6091,
         "patch": 0
     },
     "keywords": [
@@ -32444,6 +32444,13 @@
             "symbol": "YFIXED",
             "address": "0xcdBb37f84bf94492b44e26d1F990285401e5423e",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ANIMECREAMPIECOIN",
+            "symbol": "ACPC",
+            "address": "0xC116b756F02b8654a4623A7d679a70700B1Fecd5",
+            "decimals": 3
         }
     ]
 }
