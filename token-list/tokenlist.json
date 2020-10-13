@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T11:17:40.166Z",
+    "timestamp": "2020-10-13T11:22:19.659Z",
     "version": {
         "major": 1,
-        "minor": 6097,
+        "minor": 6098,
         "patch": 0
     },
     "keywords": [
@@ -32493,6 +32493,13 @@
             "symbol": "NYF",
             "address": "0x9c3C73F3E014F4A03844050ceF9D644455EbA06c",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Zero Moment Point Token",
+            "symbol": "ZMP",
+            "address": "0x004e53AEd4a41981F61FFf1a227635bdEb5a0D65",
+            "decimals": 6
         }
     ]
 }
