@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T17:10:19.670Z",
+    "timestamp": "2020-10-13T17:21:25.394Z",
     "version": {
         "major": 1,
-        "minor": 6154,
+        "minor": 6155,
         "patch": 0
     },
     "keywords": [
@@ -32892,6 +32892,13 @@
             "symbol": "POC",
             "address": "0x2164551C3Eb6e7B69c829cf21FD1Ac197468184C",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "WoInwol.com",
+            "symbol": "WOIN",
+            "address": "0xae28B062726eA7dD445166421440cd5e2E8789C9",
+            "decimals": 6
         }
     ]
 }
