@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T13:30:18.771Z",
+    "timestamp": "2020-10-13T13:30:30.718Z",
     "version": {
         "major": 1,
-        "minor": 6114,
+        "minor": 6115,
         "patch": 0
     },
     "keywords": [
@@ -32611,6 +32611,13 @@
             "name": "SPELL MOON 2",
             "symbol": "SPEL2",
             "address": "0xD02441D2f0A7C644BBf14d91dD4e57B284D74e7b",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Injective Protocol",
+            "symbol": "INJ",
+            "address": "0x142246c60CA8E6aa7Ad107d5536c99FEe31404b8",
             "decimals": 18
         }
     ]
