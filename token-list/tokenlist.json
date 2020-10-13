@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:24:50.764Z",
+    "timestamp": "2020-10-13T05:38:07.365Z",
     "version": {
         "major": 1,
-        "minor": 6052,
+        "minor": 6053,
         "patch": 0
     },
     "keywords": [
@@ -32177,6 +32177,13 @@
             "name": "YearnFinanceNetwork",
             "symbol": "YFN",
             "address": "0x13cea0680b3FFecB835758046CC1dfE9080dBAd5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIKey",
+            "symbol": "YFIK",
+            "address": "0x97cD43949B699fFa2a87FA888847f36b41ccdF50",
             "decimals": 18
         }
     ]
