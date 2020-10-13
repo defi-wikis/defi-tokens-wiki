@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T20:31:35.142Z",
+    "timestamp": "2020-10-13T20:33:12.002Z",
     "version": {
         "major": 1,
-        "minor": 6190,
+        "minor": 6191,
         "patch": 0
     },
     "keywords": [
@@ -33144,6 +33144,13 @@
             "symbol": "JP13",
             "address": "0x92491028DA84b02B2849098C3b1e558B901E399b",
             "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Z Finance",
+            "symbol": "ZFI",
+            "address": "0x649873Aca3cE331359F2A32d7AFe9dcEF5e647Ca",
+            "decimals": 6
         }
     ]
 }
