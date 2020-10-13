@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T10:05:25.122Z",
+    "timestamp": "2020-10-13T10:13:01.997Z",
     "version": {
         "major": 1,
-        "minor": 6087,
+        "minor": 6088,
         "patch": 0
     },
     "keywords": [
@@ -32423,6 +32423,13 @@
             "symbol": "XNC",
             "address": "0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "Filecoin",
+            "symbol": "FIL 6",
+            "address": "0x4b95534C9902D94fC5D472Ebd65C2de74148D30A",
+            "decimals": 6
         }
     ]
 }
