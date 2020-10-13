@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T08:45:54.991Z",
+    "timestamp": "2020-10-13T09:10:25.561Z",
     "version": {
         "major": 1,
-        "minor": 6074,
+        "minor": 6075,
         "patch": 0
     },
     "keywords": [
@@ -32331,6 +32331,13 @@
             "name": "YKK Token",
             "symbol": "YKK",
             "address": "0xBd1520961bE128914957055786A3b588E95E4Bb8",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "CoFi Token",
+            "symbol": "CoFi",
+            "address": "0x4468Ca9c19935aD38F5DE3e4300a946dA31c6f34",
             "decimals": 18
         }
     ]
