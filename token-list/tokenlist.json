@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T23:45:40.080Z",
+    "timestamp": "2020-10-13T23:51:44.919Z",
     "version": {
         "major": 1,
-        "minor": 6208,
+        "minor": 6209,
         "patch": 0
     },
     "keywords": [
@@ -33269,6 +33269,13 @@
             "name": "HYVE.works",
             "symbol": "HYVE",
             "address": "0x816a14E149761869eF98409083c84b6179B0972C",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "MoneyToken IMT Token (promo)",
+            "symbol": "IMT",
+            "address": "0x3035F3049900fd5f4Dfbc35D4110c2e0C7f11Fc4",
             "decimals": 18
         }
     ]
