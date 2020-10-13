@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T23:51:50.686Z",
+    "timestamp": "2020-10-13T23:53:09.844Z",
     "version": {
         "major": 1,
-        "minor": 6210,
+        "minor": 6211,
         "patch": 0
     },
     "keywords": [
@@ -33283,6 +33283,13 @@
             "name": "Blowjob",
             "symbol": "BLOW",
             "address": "0xbb81e70d20C46F31ab4A8B533c2239A3b0b1A894",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Zenfuse",
+            "symbol": "ZEFU",
+            "address": "0xB8A1f94D932D001fBDC9f3005A84e6B3Edc58a6c",
             "decimals": 18
         }
     ]
