@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T08:00:13.881Z",
+    "timestamp": "2020-10-13T08:06:50.193Z",
     "version": {
         "major": 1,
-        "minor": 6069,
+        "minor": 6070,
         "patch": 0
     },
     "keywords": [
@@ -32297,6 +32297,13 @@
             "symbol": "DTR",
             "address": "0xd234BF2410a0009dF9c3C63b610c09738f18ccD7",
             "decimals": 8
+        },
+        {
+            "chainId": 1,
+            "name": "PayPie",
+            "symbol": "PPP",
+            "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
+            "decimals": 18
         }
     ]
 }
