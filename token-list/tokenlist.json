@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T20:16:14.977Z",
+    "timestamp": "2020-10-13T20:18:11.068Z",
     "version": {
         "major": 1,
-        "minor": 6187,
+        "minor": 6188,
         "patch": 0
     },
     "keywords": [
@@ -33122,6 +33122,13 @@
             "name": "YESFinance",
             "symbol": "YESF",
             "address": "0xAe4A348e2F6f1f5ba5b6b0d5182dc0A0592b4DF5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "ONE MOON TOKEN",
+            "symbol": "OMOON",
+            "address": "0x2F98365Db2B13593b066F7776071Be0B0E4CC996",
             "decimals": 18
         }
     ]
