@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T16:33:34.932Z",
+    "timestamp": "2020-10-13T16:34:25.296Z",
     "version": {
         "major": 1,
-        "minor": 6147,
+        "minor": 6148,
         "patch": 0
     },
     "keywords": [
@@ -32842,6 +32842,13 @@
             "name": "BASH",
             "symbol": "BSHR",
             "address": "0x96BbfE32C529A3878b9209fDaf1F67383E606557",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "YFIII.finances",
+            "symbol": "YFIIII",
+            "address": "0xa34a50AAAF937C34E050278Fa7FC5D303430F8f1",
             "decimals": 18
         }
     ]
