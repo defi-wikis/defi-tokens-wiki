@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T21:53:39.923Z",
+    "timestamp": "2020-10-13T22:03:45.142Z",
     "version": {
         "major": 1,
-        "minor": 6200,
+        "minor": 6201,
         "patch": 0
     },
     "keywords": [
@@ -33213,6 +33213,13 @@
             "name": "iswap.money",
             "symbol": "ISWAP",
             "address": "0x2bfc1D3ABA5Bc82ed3f0AD668fE497f655A7BA50",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PRIA",
+            "symbol": "PRIA",
+            "address": "0xb9871cB10738eADA636432E86FC0Cb920Dc3De24",
             "decimals": 18
         }
     ]
