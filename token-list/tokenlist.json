@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T10:20:19.953Z",
+    "timestamp": "2020-10-13T10:33:29.868Z",
     "version": {
         "major": 1,
-        "minor": 6089,
+        "minor": 6090,
         "patch": 0
     },
     "keywords": [
@@ -32436,6 +32436,13 @@
             "name": "Liquidity Income",
             "symbol": "LBI",
             "address": "0x375Da3e307Ef2E1A9D9e1516f80738Ca52cb7B85",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "yfix.finance",
+            "symbol": "YFIXED",
+            "address": "0xcdBb37f84bf94492b44e26d1F990285401e5423e",
             "decimals": 18
         }
     ]
