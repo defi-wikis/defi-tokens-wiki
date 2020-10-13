@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T06:52:40.645Z",
+    "timestamp": "2020-10-13T06:55:35.745Z",
     "version": {
         "major": 1,
-        "minor": 6059,
+        "minor": 6060,
         "patch": 0
     },
     "keywords": [
@@ -32226,6 +32226,13 @@
             "name": "YFFProtocol",
             "symbol": "YFFP",
             "address": "0xD274D633E734Af99C7D5880CF088B34C414938E5",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "DCL Plazas",
+            "symbol": "DCL",
+            "address": "0x489222eA529114219a51a166f130fAf1F1f0FD4a",
             "decimals": 18
         }
     ]
