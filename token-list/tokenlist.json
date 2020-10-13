@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T05:08:00.027Z",
+    "timestamp": "2020-10-13T05:17:07.934Z",
     "version": {
         "major": 1,
-        "minor": 6049,
+        "minor": 6050,
         "patch": 0
     },
     "keywords": [
@@ -32156,6 +32156,13 @@
             "name": "DegensCasinoToken",
             "symbol": "DCT",
             "address": "0x9059C8F2bE28F7573D5B699147A150B9518856EE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "PlotX.io",
+            "symbol": "PLOT",
+            "address": "0xE56Ead95c9Caa9454263fd8d6dd421662392946a",
             "decimals": 18
         }
     ]
