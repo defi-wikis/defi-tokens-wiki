@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T04:28:30.290Z",
+    "timestamp": "2020-10-13T04:33:24.987Z",
     "version": {
         "major": 1,
-        "minor": 6040,
+        "minor": 6041,
         "patch": 0
     },
     "keywords": [
@@ -32093,6 +32093,13 @@
             "name": "phoenix",
             "symbol": "PHX",
             "address": "0x81b56BCab94ac9A51F8D9e6bB125b68d989AD1dF",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Halloween Gift Toke",
+            "symbol": "HLG",
+            "address": "0xfC139A703703395Ac9e8e4C61139848aa5527D88",
             "decimals": 18
         }
     ]
