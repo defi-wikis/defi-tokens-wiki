@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T07:18:09.950Z",
+    "timestamp": "2020-10-13T07:29:49.809Z",
     "version": {
         "major": 1,
-        "minor": 6063,
+        "minor": 6064,
         "patch": 0
     },
     "keywords": [
@@ -32254,6 +32254,13 @@
             "name": "Universal Reserve Currency",
             "symbol": "URCT",
             "address": "0x33A3ebC5fF80CeA1B4261eb0f12AadC690a09795",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Liquidity Income",
+            "symbol": "LBI",
+            "address": "0xa5f67B44C60FB936Ec0b873c3392168d8d9E9762",
             "decimals": 18
         }
     ]
