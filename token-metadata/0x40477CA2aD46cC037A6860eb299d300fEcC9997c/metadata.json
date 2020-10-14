@@ -1,0 +1,7 @@
+{
+    "name": "Dollar",
+    "symbol": "USD",
+    "address": "0x40477CA2aD46cC037A6860eb299d300fEcC9997c",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
