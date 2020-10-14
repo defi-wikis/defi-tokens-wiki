@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-13T23:59:30.489Z",
+    "timestamp": "2020-10-14T00:04:19.983Z",
     "version": {
         "major": 1,
-        "minor": 6213,
+        "minor": 6214,
         "patch": 0
     },
     "keywords": [
@@ -33304,6 +33304,13 @@
             "name": "Core BitCash Finance",
             "symbol": "YFICC",
             "address": "0x055F22AEcdC166089E5d4DbaE8B897d2FCC1f59a",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "XRP Finance",
+            "symbol": "XRPF",
+            "address": "0x5b9A467a91F0A92DC6605725777a96Ef6478dD37",
             "decimals": 18
         }
     ]
