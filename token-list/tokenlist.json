@@ -1,9 +1,9 @@
 {
     "name": "DeFi Token List",
-    "timestamp": "2020-10-14T00:04:19.983Z",
+    "timestamp": "2020-10-14T00:12:34.960Z",
     "version": {
         "major": 1,
-        "minor": 6214,
+        "minor": 6215,
         "patch": 0
     },
     "keywords": [
@@ -33311,6 +33311,13 @@
             "name": "XRP Finance",
             "symbol": "XRPF",
             "address": "0x5b9A467a91F0A92DC6605725777a96Ef6478dD37",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "Valve Cion",
+            "symbol": "VV",
+            "address": "0x6C74E16acEEca1796FdCecBAb71cf30d5934c936",
             "decimals": 18
         }
     ]
