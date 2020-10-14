@@ -1,0 +1,7 @@
+{
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "address": "0x016B6E79347Fb12310e3a2ab83284F0581127EFb",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
