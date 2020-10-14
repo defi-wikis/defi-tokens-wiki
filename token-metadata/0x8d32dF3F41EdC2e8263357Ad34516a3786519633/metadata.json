@@ -1,0 +1,7 @@
+{
+    "name": "MetaMask Swap Token",
+    "symbol": "META",
+    "address": "0x8d32dF3F41EdC2e8263357Ad34516a3786519633",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
