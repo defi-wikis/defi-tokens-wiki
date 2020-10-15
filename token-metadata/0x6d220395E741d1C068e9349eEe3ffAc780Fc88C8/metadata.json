@@ -1,0 +1,7 @@
+{
+    "name": "VTPay Token",
+    "symbol": "VTP",
+    "address": "0x6d220395E741d1C068e9349eEe3ffAc780Fc88C8",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
