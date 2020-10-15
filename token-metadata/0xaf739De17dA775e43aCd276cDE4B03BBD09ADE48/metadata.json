@@ -1,0 +1,7 @@
+{
+    "name": "AaveToken",
+    "symbol": "AAVE",
+    "address": "0xaf739De17dA775e43aCd276cDE4B03BBD09ADE48",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
