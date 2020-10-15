@@ -1,0 +1,7 @@
+{
+    "name": "BNB",
+    "symbol": "BNB",
+    "address": "0x3C9e54bC523F04B424de9134dF4cC0301bDECdBb",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
