@@ -1,0 +1,7 @@
+{
+    "name": "FishToken",
+    "symbol": "FISH",
+    "address": "0x63209CFF50EbA8A160Cf9201c55Bb2B3E9c37038",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
