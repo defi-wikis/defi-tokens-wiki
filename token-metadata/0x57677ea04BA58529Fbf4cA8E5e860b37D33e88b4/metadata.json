@@ -1,0 +1,7 @@
+{
+    "name": "SafetyToken",
+    "symbol": "Safety",
+    "address": "0x57677ea04BA58529Fbf4cA8E5e860b37D33e88b4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
