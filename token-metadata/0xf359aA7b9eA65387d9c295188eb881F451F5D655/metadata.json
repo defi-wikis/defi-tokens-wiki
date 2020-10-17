@@ -1,0 +1,7 @@
+{
+    "name": "Matic Uniswap Token",
+    "symbol": "MUT",
+    "address": "0xf359aA7b9eA65387d9c295188eb881F451F5D655",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
