@@ -1,0 +1,7 @@
+{
+    "name": "btctoken",
+    "symbol": "btct",
+    "address": "0x53C02b22e524C19E5246006B3BB1E7d5515107Fc",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
