@@ -1,0 +1,7 @@
+{
+    "name": "MVP Token",
+    "symbol": "MVP",
+    "address": "0x65fC94d99Cb301C5630c485D312e6Ff5EDdE13d0",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
