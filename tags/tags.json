@@ -97,6 +97,7 @@
     },
     "social": {
         "name": "Social",
-        "description": "Tokens that involve attention"
+        "description": "Tokens that involve attention",
+        "emoji": "👍"
     }
 }
