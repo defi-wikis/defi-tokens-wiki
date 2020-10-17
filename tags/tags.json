@@ -94,5 +94,9 @@
     "farming": {
         "name": "Farming",
         "description": null
+    },
+    "social": {
+        "name": "Social",
+        "description": "Tokens that involve attention"
     }
 }
