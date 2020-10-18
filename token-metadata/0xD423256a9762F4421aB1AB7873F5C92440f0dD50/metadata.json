@@ -1,0 +1,7 @@
+{
+    "name": "GBP British Pound Safe",
+    "symbol": "GBP Peg",
+    "address": "0xD423256a9762F4421aB1AB7873F5C92440f0dD50",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
