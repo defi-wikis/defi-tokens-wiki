@@ -1,0 +1,7 @@
+{
+    "name": "finance",
+    "symbol": "BNK",
+    "address": "0x18d61965728c448f8B1Bb6983965E2b08859BAeC",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
