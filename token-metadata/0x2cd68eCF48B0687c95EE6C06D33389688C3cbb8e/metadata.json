@@ -1,0 +1,7 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x2cd68eCF48B0687c95EE6C06D33389688C3cbb8e",
+    "decimals": 6,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
