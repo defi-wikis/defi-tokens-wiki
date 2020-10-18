@@ -1,0 +1,7 @@
+{
+    "name": "peer Token",
+    "symbol": "peer",
+    "address": "0x6308088B7e724cbb69eb28f22756C3B5f170EBC7",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
