@@ -1,0 +1,7 @@
+{
+    "name": "POS Token V1",
+    "symbol": "POS",
+    "address": "0x34C79a44F2b5f893BE0a872A3E92B8218E72fc02",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
