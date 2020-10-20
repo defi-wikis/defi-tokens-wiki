@@ -1,0 +1,7 @@
+{
+    "name": "Bitcoin Uncle",
+    "symbol": "BTCU",
+    "address": "0x5585af18dCb44a732bA959fbC9e31968B3666a6f",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
