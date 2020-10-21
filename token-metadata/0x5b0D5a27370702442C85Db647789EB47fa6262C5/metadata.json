@@ -1,0 +1,7 @@
+{
+    "name": "Fidelity Token",
+    "symbol": "FDT",
+    "address": "0x5b0D5a27370702442C85Db647789EB47fa6262C5",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
