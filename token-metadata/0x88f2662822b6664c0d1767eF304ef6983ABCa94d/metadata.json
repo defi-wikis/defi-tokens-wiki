@@ -1,0 +1,7 @@
+{
+    "name": "West German Bank Token",
+    "symbol": "WGBT",
+    "address": "0x88f2662822b6664c0d1767eF304ef6983ABCa94d",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
