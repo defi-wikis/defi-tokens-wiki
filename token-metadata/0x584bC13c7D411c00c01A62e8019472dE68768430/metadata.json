@@ -4,5 +4,25 @@
     "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED",
-    "tags": ["options"]
+    "description": "Hegic is a decentralized, censorship-resistant platform for American options, built on Ethereum. It uses a pool model to provide liquidity to option buyers, diversifying the risk of underwriting options contracts across a group of liquidity providers.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/HegicOptions"
+        },
+        {
+            "type": "website",
+            "value": "https://hegic.co"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/znjdj8q"
+        }
+    ],
+    "tags": [
+        "defi",
+        "yield-farming",
+        "staking",
+        "options"
+    ]
 }
