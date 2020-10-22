@@ -1,0 +1,7 @@
+{
+    "name": "RapidPumpToken",
+    "symbol": "RPT",
+    "address": "0xa0C448256e38647db5e44326A219146cEAF3576F",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
