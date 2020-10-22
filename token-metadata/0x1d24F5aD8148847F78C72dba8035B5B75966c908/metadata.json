@@ -1,0 +1,7 @@
+{
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "address": "0x1d24F5aD8148847F78C72dba8035B5B75966c908",
+    "decimals": 13,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
