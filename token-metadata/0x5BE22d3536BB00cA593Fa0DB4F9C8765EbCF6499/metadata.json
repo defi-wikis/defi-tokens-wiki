@@ -1,0 +1,7 @@
+{
+    "name": "DEFI infrastructure",
+    "symbol": "DEFIIF",
+    "address": "0x5BE22d3536BB00cA593Fa0DB4F9C8765EbCF6499",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
