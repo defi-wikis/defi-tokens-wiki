@@ -1,0 +1,7 @@
+{
+    "name": "PayPal Token",
+    "symbol": "PPT",
+    "address": "0x774aD745cc9D9D04097d69BB40421cCdf6D995eb",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
