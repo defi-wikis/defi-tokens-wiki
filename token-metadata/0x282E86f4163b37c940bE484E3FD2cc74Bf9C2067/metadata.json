@@ -1,0 +1,7 @@
+{
+    "name": "coreBTC",
+    "symbol": "coreBTC",
+    "address": "0x282E86f4163b37c940bE484E3FD2cc74Bf9C2067",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
