@@ -1,0 +1,7 @@
+{
+    "name": "MattCoin",
+    "symbol": "MattCoin",
+    "address": "0x80F282A3b452aA75C9199F649C5513C29cFf79b0",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
