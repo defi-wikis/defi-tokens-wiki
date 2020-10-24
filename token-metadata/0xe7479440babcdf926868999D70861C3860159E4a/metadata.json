@@ -1,0 +1,7 @@
+{
+    "name": "idt",
+    "symbol": "IDT",
+    "address": "0xe7479440babcdf926868999D70861C3860159E4a",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
