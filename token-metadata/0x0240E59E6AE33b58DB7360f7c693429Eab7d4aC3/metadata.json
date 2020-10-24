@@ -1,0 +1,7 @@
+{
+    "name": "BTC",
+    "symbol": "BTC",
+    "address": "0x0240E59E6AE33b58DB7360f7c693429Eab7d4aC3",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
