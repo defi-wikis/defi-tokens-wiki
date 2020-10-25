@@ -1,0 +1,7 @@
+{
+    "name": "PoolTogether Dai Ticket (Compound)",
+    "symbol": "PcDAI",
+    "address": "0x334cBb5858417Aee161B53Ee0D5349cCF54514CF",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
