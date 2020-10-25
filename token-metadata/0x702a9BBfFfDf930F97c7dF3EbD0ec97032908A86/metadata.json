@@ -1,0 +1,7 @@
+{
+    "name": "VaultToken",
+    "symbol": "VAULT",
+    "address": "0x702a9BBfFfDf930F97c7dF3EbD0ec97032908A86",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
