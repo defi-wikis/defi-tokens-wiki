@@ -1,0 +1,7 @@
+{
+    "name": "Bitfinexswap",
+    "symbol": "BITSP",
+    "address": "0x0BA3866b168D64aB83F85C86671f3b39A6059f24",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
