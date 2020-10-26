@@ -1,0 +1,7 @@
+{
+    "name": "MFA coin",
+    "symbol": "MFA",
+    "address": "0x32fb0C10a630B78e277371c1837820E1be0CdFfa",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
