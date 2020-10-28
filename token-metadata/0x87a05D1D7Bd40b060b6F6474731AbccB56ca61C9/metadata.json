@@ -1,0 +1,7 @@
+{
+    "name": "Banana Token",
+    "symbol": "BANANA",
+    "address": "0x87a05D1D7Bd40b060b6F6474731AbccB56ca61C9",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
