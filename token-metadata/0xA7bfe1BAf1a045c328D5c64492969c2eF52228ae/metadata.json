@@ -1,0 +1,7 @@
+{
+    "name": "btctest",
+    "symbol": "BTCTEST",
+    "address": "0xA7bfe1BAf1a045c328D5c64492969c2eF52228ae",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
