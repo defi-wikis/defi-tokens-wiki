@@ -1,0 +1,7 @@
+{
+    "name": "DC Bank",
+    "symbol": "DCB",
+    "address": "0x12FEe6126917A3832B8aDBFD015f90f461381F50",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
