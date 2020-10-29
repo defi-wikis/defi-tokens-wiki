@@ -1,0 +1,7 @@
+{
+    "name": "LCD",
+    "symbol": "LCD",
+    "address": "0x871C65dd6686EC393b2f41392383ED2A7b030A5d",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
