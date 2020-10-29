@@ -1,0 +1,7 @@
+{
+    "name": "SOL token",
+    "symbol": "SOL",
+    "address": "0x34A674F4C5cEA205D705b19bD5Fe3aaC0B673E31",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
