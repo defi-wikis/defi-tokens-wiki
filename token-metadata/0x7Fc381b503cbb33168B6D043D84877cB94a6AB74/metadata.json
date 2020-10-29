@@ -1,0 +1,7 @@
+{
+    "name": "XRP Token",
+    "symbol": "XRPT",
+    "address": "0x7Fc381b503cbb33168B6D043D84877cB94a6AB74",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
