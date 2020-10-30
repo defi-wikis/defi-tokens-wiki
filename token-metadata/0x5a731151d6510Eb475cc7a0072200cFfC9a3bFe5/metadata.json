@@ -1,0 +1,7 @@
+{
+    "name": "KingToken",
+    "symbol": "$KING",
+    "address": "0x5a731151d6510Eb475cc7a0072200cFfC9a3bFe5",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
