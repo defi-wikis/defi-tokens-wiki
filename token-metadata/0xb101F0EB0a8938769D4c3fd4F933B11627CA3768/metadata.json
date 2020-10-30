@@ -1,0 +1,7 @@
+{
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "address": "0xb101F0EB0a8938769D4c3fd4F933B11627CA3768",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
