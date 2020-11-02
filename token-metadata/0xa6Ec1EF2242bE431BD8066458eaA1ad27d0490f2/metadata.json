@@ -1,0 +1,7 @@
+{
+    "name": "PEPEToken",
+    "symbol": "PEPE",
+    "address": "0xa6Ec1EF2242bE431BD8066458eaA1ad27d0490f2",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
