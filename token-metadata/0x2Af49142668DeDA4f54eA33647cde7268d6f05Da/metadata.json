@@ -1,0 +1,7 @@
+{
+    "name": "Yahoo Token",
+    "symbol": "YAHOO",
+    "address": "0x2Af49142668DeDA4f54eA33647cde7268d6f05Da",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
