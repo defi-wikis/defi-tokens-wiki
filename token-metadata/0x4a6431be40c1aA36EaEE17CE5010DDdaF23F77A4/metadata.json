@@ -1,0 +1,7 @@
+{
+    "name": "PizzaToken",
+    "symbol": "PZ",
+    "address": "0x4a6431be40c1aA36EaEE17CE5010DDdaF23F77A4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
