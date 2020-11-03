@@ -1,0 +1,7 @@
+{
+    "name": "JNPR Quant Yield DEX v1",
+    "symbol": "JNPRQ",
+    "address": "0x3Fd2487054D44613c7D7cF7640A4385aE980bfC3",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
