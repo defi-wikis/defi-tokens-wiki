@@ -1,0 +1,7 @@
+{
+    "name": "ETH WBTC Yield Farm",
+    "symbol": "WBTCAPY",
+    "address": "0xF059aFA5239eD6463a00FC06a447c14Fe26406e1",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
