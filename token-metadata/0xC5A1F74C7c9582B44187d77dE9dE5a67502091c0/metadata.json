@@ -1,0 +1,7 @@
+{
+    "name": "TestToken",
+    "symbol": "QWERT",
+    "address": "0xC5A1F74C7c9582B44187d77dE9dE5a67502091c0",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
