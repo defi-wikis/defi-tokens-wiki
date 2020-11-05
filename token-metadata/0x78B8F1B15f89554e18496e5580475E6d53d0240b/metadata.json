@@ -1,0 +1,7 @@
+{
+    "name": "GamExToken",
+    "symbol": "GMX",
+    "address": "0x78B8F1B15f89554e18496e5580475E6d53d0240b",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
