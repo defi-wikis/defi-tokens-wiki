@@ -1,0 +1,7 @@
+{
+    "name": "SG20 Token",
+    "symbol": "SG20",
+    "address": "0x826e90a0E25447A34491C6fF48a43b4609903a80",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
