@@ -1,0 +1,7 @@
+{
+    "name": "bondly.finance",
+    "symbol": "BOND",
+    "address": "0x85689478E85E06fC824B3fd4eA7fAd608C5D6e20",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
