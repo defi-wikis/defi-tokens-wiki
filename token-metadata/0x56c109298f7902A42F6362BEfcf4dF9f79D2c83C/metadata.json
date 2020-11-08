@@ -1,0 +1,7 @@
+{
+    "name": "MoneyToken",
+    "symbol": "MNT",
+    "address": "0x56c109298f7902A42F6362BEfcf4dF9f79D2c83C",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
