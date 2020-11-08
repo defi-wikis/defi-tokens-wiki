@@ -1,0 +1,7 @@
+{
+    "name": "SPAM Token",
+    "symbol": "SPAM",
+    "address": "0xe888730325620bCaB4dF7852222D3b041c8479A8",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
