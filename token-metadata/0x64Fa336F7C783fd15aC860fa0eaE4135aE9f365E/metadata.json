@@ -1,0 +1,7 @@
+{
+    "name": "test [Wrapped Ether]",
+    "symbol": "t:WETH",
+    "address": "0x64Fa336F7C783fd15aC860fa0eaE4135aE9f365E",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
