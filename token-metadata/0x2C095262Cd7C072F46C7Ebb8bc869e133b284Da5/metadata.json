@@ -1,0 +1,7 @@
+{
+    "name": "GenesisToken",
+    "symbol": "GS",
+    "address": "0x2C095262Cd7C072F46C7Ebb8bc869e133b284Da5",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
