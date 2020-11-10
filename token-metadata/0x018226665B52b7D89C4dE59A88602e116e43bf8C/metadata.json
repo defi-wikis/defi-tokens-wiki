@@ -1,0 +1,7 @@
+{
+    "name": "TEST ERC20",
+    "symbol": "TEST",
+    "address": "0x018226665B52b7D89C4dE59A88602e116e43bf8C",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
