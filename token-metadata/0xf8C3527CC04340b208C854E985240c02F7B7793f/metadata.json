@@ -3,5 +3,23 @@
     "symbol": "FRONT",
     "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. In short, the Frontier core mission is to bring the essential pieces of DeFi to users across whichever platforms they prefer.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/FrontierDotXYZ"
+        },
+        {
+            "type": "website",
+            "value": "https://frontier.xyz/"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/FrontierDotXYZ"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
 }
