@@ -1,0 +1,7 @@
+{
+    "name": "testnet",
+    "symbol": "TEST",
+    "address": "0xa725e110168dc4a49dDe2B986207E9CcbBd600da",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
