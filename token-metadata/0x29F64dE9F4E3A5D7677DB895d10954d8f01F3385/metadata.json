@@ -1,0 +1,7 @@
+{
+    "name": "MineToken",
+    "symbol": "MINT",
+    "address": "0x29F64dE9F4E3A5D7677DB895d10954d8f01F3385",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
