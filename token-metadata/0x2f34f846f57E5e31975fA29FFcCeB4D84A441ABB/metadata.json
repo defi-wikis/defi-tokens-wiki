@@ -1,0 +1,7 @@
+{
+    "name": "USDToken",
+    "symbol": "USDT",
+    "address": "0x2f34f846f57E5e31975fA29FFcCeB4D84A441ABB",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
