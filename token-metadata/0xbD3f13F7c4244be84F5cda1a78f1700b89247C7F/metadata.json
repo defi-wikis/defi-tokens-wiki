@@ -1,0 +1,7 @@
+{
+    "name": "Bitcoin",
+    "symbol": "FBTC",
+    "address": "0xbD3f13F7c4244be84F5cda1a78f1700b89247C7F",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
