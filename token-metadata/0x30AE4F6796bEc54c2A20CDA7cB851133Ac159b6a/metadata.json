@@ -1,0 +1,7 @@
+{
+    "name": "Paypal",
+    "symbol": "PYPL",
+    "address": "0x30AE4F6796bEc54c2A20CDA7cB851133Ac159b6a",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
