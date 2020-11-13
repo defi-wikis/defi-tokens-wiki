@@ -1,0 +1,7 @@
+{
+    "name": "TickToken",
+    "symbol": "TICK",
+    "address": "0x83D18EBa17D5A37DD5ac68d303772cc447c0A6EE",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
