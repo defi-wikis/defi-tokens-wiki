@@ -1,0 +1,7 @@
+{
+    "name": "BetaExchangeToken",
+    "symbol": "BET",
+    "address": "0x3BAC6ff769e535D081db3D6c6a3DAFD53742031E",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
