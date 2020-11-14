@@ -1,0 +1,7 @@
+{
+    "name": "Swiss Token",
+    "symbol": "SWISS",
+    "address": "0x692eb773E0b5B7A79EFac5A015C8b36A2577F65c",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
