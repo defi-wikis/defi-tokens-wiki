@@ -1,0 +1,7 @@
+{
+    "name": "BossToken",
+    "symbol": "BOSS",
+    "address": "0x2deb358960C929207641ED03C8E781F4C213C609",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
