@@ -1,0 +1,7 @@
+{
+    "name": "Yearn.finance",
+    "symbol": "YEARN",
+    "address": "0x0A1eBb50A8c184F9B800fd319Dd268209C09a28F",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
