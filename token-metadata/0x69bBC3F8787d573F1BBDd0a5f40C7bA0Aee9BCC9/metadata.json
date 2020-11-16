@@ -3,5 +3,24 @@
     "symbol": "YUP",
     "address": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "description": "Yup is a social consensus protocol that facilitates the measurement, capture, and exchange of influence in a pseudonymous opinion-based economy. It identifies content and distributes rewards according to the value of the opinions associated with that content. We define content as any specific data online that user(s) deem worth judging, including but not limited to texts, images, videos, locations, accounts, and links. The value of each action depends on a users' influence.",
+    "dharmaVerificationStatus": "VERIFIED",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/yup_io"
+        },
+        {
+            "type": "website",
+            "value": "https://yup.io/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/8gnwfbz"
+        }
+    ],
+    "tags": [
+        "yield-farming", 
+        "social"
+    ]
 }
