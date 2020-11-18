@@ -1,0 +1,7 @@
+{
+    "name": "My Token",
+    "symbol": "MYTKN",
+    "address": "0x3D6BAfA95A4A07FfbB7C1Bd1Ab37Ff7fe0cb8bB4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
