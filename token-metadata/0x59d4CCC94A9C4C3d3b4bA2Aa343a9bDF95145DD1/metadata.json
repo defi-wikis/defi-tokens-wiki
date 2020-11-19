@@ -1,0 +1,7 @@
+{
+    "name": "QUSD Stablecoin",
+    "symbol": "QUSD",
+    "address": "0x59d4CCC94A9C4C3d3b4bA2Aa343a9bDF95145DD1",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
