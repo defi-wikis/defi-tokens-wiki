@@ -1,0 +1,7 @@
+{
+    "name": "SampleToken",
+    "symbol": "TOK",
+    "address": "0x2736ab9aD4541356Be4a5842D9d6834f40e6ea7d",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
