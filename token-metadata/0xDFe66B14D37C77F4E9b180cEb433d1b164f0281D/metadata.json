@@ -1,0 +1,7 @@
+{
+    "name": "stakedETH",
+    "symbol": "stETH",
+    "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
