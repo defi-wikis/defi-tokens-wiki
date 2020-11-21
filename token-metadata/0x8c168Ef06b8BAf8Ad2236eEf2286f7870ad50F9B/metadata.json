@@ -1,0 +1,7 @@
+{
+    "name": "Santa Token",
+    "symbol": "SANTA",
+    "address": "0x8c168Ef06b8BAf8Ad2236eEf2286f7870ad50F9B",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
