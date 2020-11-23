@@ -1,0 +1,7 @@
+{
+    "name": "Bitfex",
+    "symbol": "BFX",
+    "address": "0x25901F2a5A4bb0aaAbe2CDb24E0E15A0d49B015d",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
