@@ -1,0 +1,7 @@
+{
+    "name": "HBTToken",
+    "symbol": "HBT",
+    "address": "0x32fd949E1953b21b7a8232EF4259Cd708B4e0847",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
