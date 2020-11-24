@@ -1,0 +1,7 @@
+{
+    "name": "CanETH Rewards",
+    "symbol": "CReth",
+    "address": "0x7A75FC866c09927aA3e4619FD529173d81283102",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
