@@ -1,0 +1,7 @@
+{
+    "name": "CityToken",
+    "symbol": "CITY",
+    "address": "0x2aF0A40e6b6920bF8FF42A3ff998A6Ea349d8B9F",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
