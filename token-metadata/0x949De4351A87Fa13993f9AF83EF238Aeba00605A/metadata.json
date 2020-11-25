@@ -1,0 +1,7 @@
+{
+    "name": "CoinExchange",
+    "symbol": "CNE",
+    "address": "0x949De4351A87Fa13993f9AF83EF238Aeba00605A",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
