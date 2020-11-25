@@ -1,0 +1,7 @@
+{
+    "name": "Sora Validator Token",
+    "symbol": "VAL",
+    "address": "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
