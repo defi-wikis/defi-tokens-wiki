@@ -1,0 +1,7 @@
+{
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "address": "0x7981eE3c58a415b808100Fa3bea8689cF15Dfbf5",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
