@@ -1,0 +1,7 @@
+{
+    "name": "TIKToken",
+    "symbol": "TIK",
+    "address": "0x72bf6BA0B4DD9aE2e9b989c10f133aAbf892e1DC",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
