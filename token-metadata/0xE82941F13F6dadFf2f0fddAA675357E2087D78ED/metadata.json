@@ -1,0 +1,7 @@
+{
+    "name": "Test Token",
+    "symbol": "TTT",
+    "address": "0xE82941F13F6dadFf2f0fddAA675357E2087D78ED",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
