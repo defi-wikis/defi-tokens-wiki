@@ -1,0 +1,7 @@
+{
+    "name": "Federal Reserve Test",
+    "symbol": "FDR",
+    "address": "0x1Fd767e52ffc14555C80932b2f5d6B15e20f0209",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
