@@ -1,0 +1,7 @@
+{
+    "name": "Aave V2 Token",
+    "symbol": "Aave V2",
+    "address": "0xc3a9f8D8721b587C2c7BdfEd62aB891987bBd5bA",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
