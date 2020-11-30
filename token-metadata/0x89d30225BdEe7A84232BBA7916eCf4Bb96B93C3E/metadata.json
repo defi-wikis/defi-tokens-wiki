@@ -1,0 +1,7 @@
+{
+    "name": "Base Protocol (test)",
+    "symbol": "BTEST",
+    "address": "0x89d30225BdEe7A84232BBA7916eCf4Bb96B93C3E",
+    "decimals": 9,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
