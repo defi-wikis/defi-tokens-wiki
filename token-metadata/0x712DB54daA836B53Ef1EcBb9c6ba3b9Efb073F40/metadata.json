@@ -1,0 +1,7 @@
+{
+    "name": "Aave Interest bearing ENJ",
+    "symbol": "aENJ",
+    "address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
