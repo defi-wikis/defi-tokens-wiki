@@ -3,5 +3,28 @@
     "symbol": "TKN",
     "address": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
     "decimals": 8,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Monolith is a decentralised banking alternative, powered by Ethereum. Monolith provides a non-custodial DeFi contract wallet to store Ethereum-based tokens securely. Users can then exchange them to fiat and load them onto their Monolith Visa debit card.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/monolith_web3"
+        },
+        {
+            "type": "website",
+            "value": "https://monolith.xyz"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/Monolith_Web3"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/xXpJcZ3tSY"
+        }
+    ],
+    "tags": [
+        "defi",
+        "payments"
+    ]
 }
