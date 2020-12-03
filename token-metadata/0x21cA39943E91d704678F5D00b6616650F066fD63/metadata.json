@@ -1,0 +1,7 @@
+{
+    "name": "Wrapped Mirror TSLA Token",
+    "symbol": "mTSLA",
+    "address": "0x21cA39943E91d704678F5D00b6616650F066fD63",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
