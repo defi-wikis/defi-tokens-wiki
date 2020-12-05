@@ -1,0 +1,7 @@
+{
+    "name": "Base Protocol",
+    "symbol": "BASE",
+    "address": "0x5EDd490AFE78e8eF153FA8c4cdD35C06d09200dF",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
