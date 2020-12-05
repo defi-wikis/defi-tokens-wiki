@@ -1,0 +1,7 @@
+{
+    "name": "terra.money",
+    "symbol": "UST",
+    "address": "0x40Ea466ed4362Fb7606Be9A83b9B6CE7df0A4a0a",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
