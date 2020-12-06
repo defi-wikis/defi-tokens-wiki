@@ -1,0 +1,7 @@
+{
+    "name": "Stable USD",
+    "symbol": "SUSD",
+    "address": "0x314fDC725ba9028Af758f8A23270d84eBBD1E9e6",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
