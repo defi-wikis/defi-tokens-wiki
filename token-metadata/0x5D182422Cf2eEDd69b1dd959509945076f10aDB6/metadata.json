@@ -1,0 +1,7 @@
+{
+    "name": "cointoken",
+    "symbol": "COIN",
+    "address": "0x5D182422Cf2eEDd69b1dd959509945076f10aDB6",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
