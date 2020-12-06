@@ -1,0 +1,7 @@
+{
+    "name": "{{Token Name}}",
+    "symbol": "{{Token Symbol}}",
+    "address": "0x8a35f1F49559Da5EB122B6B1DB968aCF61903326",
+    "decimals": 0,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
