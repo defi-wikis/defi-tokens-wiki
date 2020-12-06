@@ -21,11 +21,11 @@
         {
             "type": "website",
             "value": "https://plotx.io/",
-        }
+        },
     ],
     "tags": [
         "defi",
         "amm",
         "yield-farming",
-    ]
+    ],
 }
