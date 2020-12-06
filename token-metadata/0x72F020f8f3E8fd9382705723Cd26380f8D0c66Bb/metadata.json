@@ -8,24 +8,24 @@
     "socialLinks": [
         {
             "type": "discord",
-            "value": "https://discord.com/invite/8CWNQnG",
+            "value": "https://discord.com/invite/8CWNQnG"
         },
         {
             "type": "twitter",
-            "value": "https://twitter.com/TryPlotX",
+            "value": "https://twitter.com/TryPlotX"
         },
         {
             "type": "telegram",
-            "value": "https://t.me/plotx_official",
+            "value": "https://t.me/plotx_official"
         },
         {
             "type": "website",
-            "value": "https://plotx.io/",
-        },
+            "value": "https://plotx.io/"
+        }
     ],
     "tags": [
         "defi",
         "amm",
-        "yield-farming",
-    ],
+        "yield-farming"
+    ]
 }
