@@ -1,0 +1,7 @@
+{
+    "name": "UNIC Token",
+    "symbol": "UNIC",
+    "address": "0x39B948d3f844BB9e0E3b375901bb43D4866ef4BB",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
