@@ -94,5 +94,9 @@
     "farming": {
         "name": "Farming",
         "description": null
+    },
+    "lending": {
+        "name": "Lending",
+        "description": null
     }
 }
