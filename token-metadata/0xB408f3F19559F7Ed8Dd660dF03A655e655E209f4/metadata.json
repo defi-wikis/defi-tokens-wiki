@@ -1,0 +1,7 @@
+{
+    "name": "yearn.deriswap",
+    "symbol": "yDERI",
+    "address": "0xB408f3F19559F7Ed8Dd660dF03A655e655E209f4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
