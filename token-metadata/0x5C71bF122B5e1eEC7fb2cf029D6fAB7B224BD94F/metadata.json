@@ -1,0 +1,7 @@
+{
+    "name": "DeFi-X USD",
+    "symbol": "xUSD",
+    "address": "0x5C71bF122B5e1eEC7fb2cf029D6fAB7B224BD94F",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
