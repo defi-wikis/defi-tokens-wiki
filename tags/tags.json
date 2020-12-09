@@ -98,5 +98,9 @@
     "lending": {
         "name": "Lending",
         "description": null
+    },
+    "payment": {
+        "name": "Payment",
+        "description": null
     }
 }
