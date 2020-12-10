@@ -1,0 +1,7 @@
+{
+    "name": "PPAY Token",
+    "symbol": "PPAY",
+    "address": "0x5ee5a68b48bE185B6daAAfE446C3A4AA7E6c58F4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
