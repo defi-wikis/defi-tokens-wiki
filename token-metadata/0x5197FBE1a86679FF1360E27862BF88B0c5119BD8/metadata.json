@@ -1,0 +1,24 @@
+{
+    "name": "BITPIF",
+    "symbol": "BPF",
+    "address": "0x5197FBE1a86679FF1360E27862BF88B0c5119BD8",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "A platform to swap, stake, and farm tokens.",
+    "socialLinks": [
+        {
+            "type": "website",
+            "value": "https://bitpif.com/"
+        },
+        {
+
+            "type": "twitter",
+            "value": "https://twitter.com/bitpif"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/bitpif"
+        }
+    ],
+    "tags": ["dex", "defi"]
+}
