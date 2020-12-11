@@ -1,0 +1,7 @@
+{
+    "name": "EON-erc20",
+    "symbol": "EON",
+    "address": "0x3F466b86Ed18d0713B373A463E5951a4f4c32Fba",
+    "decimals": 6,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
