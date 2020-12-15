@@ -1,0 +1,7 @@
+{
+    "name": "BentoToken",
+    "symbol": "BENTO",
+    "address": "0x683f59aFf1D52bD6d405Cd45c3b5c105Ef42882B",
+    "decimals": 10,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
