@@ -1,0 +1,7 @@
+{
+    "name": "Minimal USD",
+    "symbol": "USM",
+    "address": "0x03eb7Ce2907e202bB70BAE3D7B0C588573d3cECC",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
