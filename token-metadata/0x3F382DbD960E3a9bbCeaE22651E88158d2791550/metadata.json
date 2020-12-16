@@ -1,7 +1,51 @@
 {
-    "name": "Aavegotchi",
+    "name": "Aavegotchi GHST Token",
     "symbol": "GHST",
-    "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "address": " 0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Aavegotchi is a DeFi-Staked Crypto Collectibles for the ultimate gamified DeFi experience! Powered by Aave.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/aavegotchi"
+        },
+        {
+            "type": "website",
+            "value": "https://aavegotchi.com"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/JTfnw4x"
+        }
+        {
+            "type": "etherscan",
+            "value": "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/aavegotchi"
+        }
+        {
+            "type": "coinmarketcap",
+            "value": "https://coinmarketcap.com/currencies/aavegotchi-ghst-token/"
+        },
+        {
+            "type": "coingecko",
+            "value": "https://www.coingecko.com/en/coins/aavegotchi/"
+        }
+        {
+            "type": "uniswap",
+            "value": "https://info.uniswap.org/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550/"
+        }
+    ],
+    "tags": [
+        "defi",
+        "nft",
+        "definft",
+        "yield-farming",
+        "rarity-farming",
+        "gaming",
+        "pixelart"
+    ]
 }
