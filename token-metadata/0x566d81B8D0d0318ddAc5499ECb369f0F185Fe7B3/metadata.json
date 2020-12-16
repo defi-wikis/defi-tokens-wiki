@@ -1,0 +1,7 @@
+{
+    "name": "BeeToken",
+    "symbol": "BEE",
+    "address": "0x566d81B8D0d0318ddAc5499ECb369f0F185Fe7B3",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
