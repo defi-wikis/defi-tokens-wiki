@@ -1,0 +1,41 @@
+{
+    "name": "Statera",
+    "symbol": "STA",
+    "address": "0xa7de087329bfcda5639247f96140f9dabe3deed1",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Statera (STA) is a smart contract powered Indexed Deflationary Token (IDT), which synergizes with a trustless and community driven portfolio of class-leading cryptocurrencies.
+
+Every trade for Statera creates an arbitrage opportunity. Trading attracts liquidity, which in-turn attracts trading. Liquidity ripples and the supply of Statera decreases.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/StateraProject"
+        },
+        {
+            "type": "website",
+            "value": https://stateratoken.com/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/jgqwUx4"
+           
+        },
+        { 
+            "type": "telegram",
+            "value": "https://t.me/stateratoken"
+        },
+        { 
+            "type": "Etherscan",
+            "value": "https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1"
+        },
+        { 
+            "type": "Uniswap",
+            "value": "https://info.uniswap.org/pair/0x59f96b8571e3b11f859a09eaf5a790a138fc64d0"
+        },
+    ],
+    "tags": [
+        "defi",
+        "Indexed Deflationary Token",
+        "Investing"
+    ]
