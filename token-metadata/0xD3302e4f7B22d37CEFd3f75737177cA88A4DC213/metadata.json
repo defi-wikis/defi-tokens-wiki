@@ -1,0 +1,7 @@
+{
+    "name": "BitPay",
+    "symbol": "BTP",
+    "address": "0xD3302e4f7B22d37CEFd3f75737177cA88A4DC213",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
