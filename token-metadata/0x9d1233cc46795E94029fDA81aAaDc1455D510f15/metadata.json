@@ -1,0 +1,7 @@
+{
+    "name": "Zero Collateral Dai",
+    "symbol": "ZAI",
+    "address": "0x9d1233cc46795E94029fDA81aAaDc1455D510f15",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
