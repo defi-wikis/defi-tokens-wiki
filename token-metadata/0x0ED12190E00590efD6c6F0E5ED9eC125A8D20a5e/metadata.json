@@ -1,0 +1,7 @@
+{
+    "name": "BogToken",
+    "symbol": "BOG",
+    "address": "0x0ED12190E00590efD6c6F0E5ED9eC125A8D20a5e",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
