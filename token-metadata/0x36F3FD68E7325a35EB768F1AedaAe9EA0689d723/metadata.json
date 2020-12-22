@@ -3,5 +3,28 @@
     "symbol": "ESD",
     "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Empty Set Dollar (ESD) is an algorithmic stablecoin built to be the reserve currency of Decentralized Finance. The protocol is centred around an ERC-20 token: ESD. This token acts both as the stabilized dollar and as the governance token for the protocol. In order to self-stabilize, the protocol uses voluntary supply expansions and contractions around a Time Weighted Average Price (TWAP) oracle from the incentivized trading pool on Uniswap.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/emptysetdollar"
+        },
+        {
+            "type": "website",
+            "value": "https://www.emptyset.finance/"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/emptysetdollar"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/vPws9Vp"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}
 }
