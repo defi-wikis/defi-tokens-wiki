@@ -1,0 +1,7 @@
+{
+    "name": "BitcashPay",
+    "symbol": "BCP",
+    "address": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
