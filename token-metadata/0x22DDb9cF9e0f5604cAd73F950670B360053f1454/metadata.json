@@ -1,0 +1,7 @@
+{
+    "name": "BonePaymentToken",
+    "symbol": "BXD",
+    "address": "0x22DDb9cF9e0f5604cAd73F950670B360053f1454",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
