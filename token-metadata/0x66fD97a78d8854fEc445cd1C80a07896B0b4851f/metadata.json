@@ -3,5 +3,24 @@
     "symbol": "LMY",
     "address": "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "A decentralized app that rewards restaurant patrons with Lunch Money and other cryptocurrencies when they successfully submit feedback via their platform.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/LunchToken"
+        },
+        {
+            "type": "website",
+            "value": "https://lunchmoney.io"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/lunchmoneytoken"
+        }
+    ],
+    "tags": [
+        "defi",
+        "payments"
+    ]
 }
