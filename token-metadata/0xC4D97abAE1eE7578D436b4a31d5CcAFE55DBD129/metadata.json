@@ -1,0 +1,7 @@
+{
+    "name": "FTSE Market Index Equivalent",
+    "symbol": "FTSE",
+    "address": "0xC4D97abAE1eE7578D436b4a31d5CcAFE55DBD129",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
