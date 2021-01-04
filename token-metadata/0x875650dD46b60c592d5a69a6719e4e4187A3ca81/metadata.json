@@ -1,0 +1,7 @@
+{
+    "name": "XUSD Share",
+    "symbol": "XUS",
+    "address": "0x875650dD46b60c592d5a69a6719e4e4187A3ca81",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
