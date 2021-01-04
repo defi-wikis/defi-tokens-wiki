@@ -1,0 +1,7 @@
+{
+    "name": "DOW DJIA Market Index Equivalent",
+    "symbol": "DOW",
+    "address": "0x6033427e6F892aE6044eF36bFf488Db6F34E47df",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

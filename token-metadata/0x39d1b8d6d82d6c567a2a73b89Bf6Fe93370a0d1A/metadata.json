@@ -1,0 +1,7 @@
+{
+    "name": "Nikkei 225 Japanese Market Index Equivalent",
+    "symbol": "NIKKEI",
+    "address": "0x39d1b8d6d82d6c567a2a73b89Bf6Fe93370a0d1A",
+    "decimals": 8,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

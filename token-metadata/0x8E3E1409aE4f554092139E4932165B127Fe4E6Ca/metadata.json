@@ -1,0 +1,7 @@
+{
+    "name": "XUSD Stablecoin",
+    "symbol": "XUSD",
+    "address": "0x8E3E1409aE4f554092139E4932165B127Fe4E6Ca",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
