@@ -1,0 +1,7 @@
+{
+    "name": "Yearn Ecosystem Token Index",
+    "symbol": "YETI",
+    "address": "0x2e1f58C99F6a68D06129cf0aafc3d570d3cAd186",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

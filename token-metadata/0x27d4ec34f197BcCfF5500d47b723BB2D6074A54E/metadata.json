@@ -1,0 +1,7 @@
+{
+    "name": "BaoToken",
+    "symbol": "BAO",
+    "address": "0x27d4ec34f197BcCfF5500d47b723BB2D6074A54E",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

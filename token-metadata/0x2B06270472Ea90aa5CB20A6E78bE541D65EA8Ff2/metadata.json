@@ -1,0 +1,7 @@
+{
+    "name": "Yearn Loans Stake",
+    "symbol": "YLS",
+    "address": "0x2B06270472Ea90aa5CB20A6E78bE541D65EA8Ff2",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

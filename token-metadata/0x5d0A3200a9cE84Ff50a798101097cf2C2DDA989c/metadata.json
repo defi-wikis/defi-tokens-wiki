@@ -1,0 +1,7 @@
+{
+    "name": "Tux Bitcoin",
+    "symbol": "tBTC",
+    "address": "0x5d0A3200a9cE84Ff50a798101097cf2C2DDA989c",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

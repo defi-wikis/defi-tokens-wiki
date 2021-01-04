@@ -94,5 +94,13 @@
     "farming": {
         "name": "Farming",
         "description": null
+    },
+    "lending": {
+        "name": "Lending",
+        "description": null
+    },
+    "payment": {
+        "name": "Payment",
+        "description": null
     }
 }

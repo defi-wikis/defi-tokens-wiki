@@ -3,5 +3,24 @@
     "symbol": "DSD",
     "address": "0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "description": "Dynamic Set Dollar (DSD) is an ERC-20 self-stabilizing decentralized censorship-resistant non-collateral backed USD stablecoin.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/dsdproject"
+        },
+        {
+            "type": "website",
+            "value": "https://dsd.finance/"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/dynamicsetdollar"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/jpewZM6PY9"
+        }
+    ],
+    "dharmaVerificationStatus": "VERIFIED"
 }

@@ -1,0 +1,7 @@
+{
+    "name": "Base.Fund",
+    "symbol": "FBASE",
+    "address": "0x7A6d40979E3FA0FD0320F0BA1b43110785F2888d",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

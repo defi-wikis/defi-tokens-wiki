@@ -1,0 +1,7 @@
+{
+    "name": "PolkaOracle",
+    "symbol": "POT",
+    "address": "0xAc755775eF15AA006BDf3050629A0eEfBD33a763",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "DIN token",
+    "symbol": "DIN",
+    "address": "0x956d7588BCa0D06a5B410f9a61E5ACafF850Ae2B",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

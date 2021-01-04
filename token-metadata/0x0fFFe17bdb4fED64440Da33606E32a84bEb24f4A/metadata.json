@@ -1,0 +1,7 @@
+{
+    "name": "dydxprotocol",
+    "symbol": "DYDX",
+    "address": "0x0fFFe17bdb4fED64440Da33606E32a84bEb24f4A",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

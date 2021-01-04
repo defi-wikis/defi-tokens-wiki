@@ -1,7 +1,22 @@
 {
-    "name": "BAC",
+    "name": "Basis Cash",
     "symbol": "BAC",
     "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "description": "Basis is an algorithmic stablecoin protocol where the money supply is dynamically adjusted to meet changes in money demand.  Basis Cash is the stablecoin produced and regulated by the Basis protocol, and Basis Share is an ownership token which receives inflationary rewards from Basis Cash, deriving value from the increased adoption of Basis Cash.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/BasisCash"
+        },
+        {
+            "type": "website",
+            "value": "https://basis.cash"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/qtB83nVYFX"
+        }
+    ],
+    "dharmaVerificationStatus": "VERIFIED"
 }

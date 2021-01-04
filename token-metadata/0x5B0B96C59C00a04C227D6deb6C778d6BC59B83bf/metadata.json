@@ -1,0 +1,7 @@
+{
+    "name": "AUSDTESTtoken",
+    "symbol": "AUSDTEST",
+    "address": "0x5B0B96C59C00a04C227D6deb6C778d6BC59B83bf",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

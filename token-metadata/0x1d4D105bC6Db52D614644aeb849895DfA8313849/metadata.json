@@ -1,0 +1,7 @@
+{
+    "name": "Uniswap V2",
+    "symbol": "UNI-V2",
+    "address": "0x1d4D105bC6Db52D614644aeb849895DfA8313849",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

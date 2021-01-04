@@ -1,0 +1,7 @@
+{
+    "name": "Gold",
+    "symbol": "GLD",
+    "address": "0x33BfA0bfCC1e3060cb40B3127300B355b6eb2261",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

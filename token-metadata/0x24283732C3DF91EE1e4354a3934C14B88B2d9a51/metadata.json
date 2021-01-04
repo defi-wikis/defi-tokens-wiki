@@ -1,0 +1,31 @@
+{
+    "name": "Ternio",
+    "symbol": "TERN",
+    "address": "0x24283732C3DF91EE1e4354a3934C14B88B2d9a51",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Ternio’s platform connects traditional enterprise, fintech, banking, systems with blockchain infrastructure giving real-world utility to digital assets. Ternio’s BlockCard gives users a crypto debit card and FDIC insured bank account. BlockCard Account holders are able to spend crypto easily with the card, or convert FIAT currency into Bitcoin and other cryptocurrencies with the bank account. ",
+    "socialLinks": [
+        {
+            "type": "website",
+            "value": "https://ternio.io/"
+        },
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/terniotoken"
+        },
+        {
+            "type": "telegram",
+            "value": "http://t.me/ternio_token"
+        }
+	   
+	    
+    ],
+    "tags": [
+        "defi",
+        "yield-farming",
+        "lending",
+	    "payment",
+	    "staking"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "SpiderDAO Token",
+    "symbol": "SPDR",
+    "address": "0x1049202A7C848A2E4Edf3F977c1795E2b01C386c",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
