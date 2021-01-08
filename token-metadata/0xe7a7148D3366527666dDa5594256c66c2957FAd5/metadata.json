@@ -1,0 +1,7 @@
+{
+    "name": "KYCDefi Token",
+    "symbol": "KYCD",
+    "address": "0xe7a7148D3366527666dDa5594256c66c2957FAd5",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "PointPay Token",
+    "symbol": "PXP",
+    "address": "0x8f179114235842978D8917e08721541072C46584",
+    "decimals": 3,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

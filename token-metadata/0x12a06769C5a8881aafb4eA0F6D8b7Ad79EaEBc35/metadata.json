@@ -1,0 +1,7 @@
+{
+    "name": "Uniswap LP [WETH/ROOT]",
+    "symbol": "RLP:WETH",
+    "address": "0x12a06769C5a8881aafb4eA0F6D8b7Ad79EaEBc35",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
