@@ -3,5 +3,24 @@
     "symbol": "MM",
     "address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Mushrooms Finance is another crypto earning vault with focus on seeking sustainable profit in DeFi universe.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/MushroomsFinan1"
+        },
+        {
+            "type": "website",
+            "value": "https://mushrooms.finance"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/azeHDXA4BF"
+        }
+    ],
+    "tags": [
+        "defi",
+        "yield-farming"
+    ]
 }
