@@ -1,7 +1,31 @@
 {
-    "name": "Ocean Token",
-    "symbol": "OCEAN",
-    "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
-    "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+  "name": "Ocean Token",
+  "symbol": "OCEAN",
+  "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+  "decimals": 18,
+  "dharmaVerificationStatus": "VERIFIED",
+  "description": "Ocean Protocol is a decentralised data exchange protocol which enables data providers to monetise their private data using compute-to-data technology. Ocean Protocol's datatokens acts as on-ramp and off-ramp for data assets into DeFi.",
+  "socialLinks": [
+    {
+      "type": "twitter",
+      "value": "https://twitter.com/oceanprotocol"
+    },
+    {
+      "type": "website",
+      "value": "https://oceanprotocol.com"
+    },
+    {
+      "type": "discord",
+      "value": "https://discord.gg/TnXjkR5"
+    },
+    {
+      "type": "github",
+      "value": "https://github.com/oceanprotocol"
+    },
+    {
+      "type": "telegram",
+      "value": "https://t.me/OceanProtocol_Community"
+    }
+  ],
+  "tags": ["data", "compute", "ai", "dex", "defi"]
 }

@@ -1,0 +1,7 @@
+{
+    "name": "YUSDToken",
+    "symbol": "yUSDTest",
+    "address": "0x616E919814b5194611Db9Ff45F3D4300992fD3e1",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

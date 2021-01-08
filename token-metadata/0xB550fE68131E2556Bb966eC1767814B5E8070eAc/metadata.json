@@ -1,0 +1,7 @@
+{
+    "name": "Global USD Token",
+    "symbol": "GUSDT",
+    "address": "0xB550fE68131E2556Bb966eC1767814B5E8070eAc",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
