@@ -3,5 +3,28 @@
     "symbol": "DEFI5",
     "address": "0xfa6de2697D59E88Ed7Fc4dFE5A33daC43565ea41",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "description": "DEFI5 is a passively managed index that tracks the top 5 DeFi tokens by market cap.",
+    "dharmaVerificationStatus": "VERIFIED",
+    "socialLinks": [
+      {
+        "type": "website",
+        "value": "https://indexed.finance/index/defi5"
+      },
+      {
+        "type": "discord",
+        "value": "https://discord.gg/jaeSTNPNt9"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/ndxfi"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/ndxfi"
+      }
+    ],
+    "tags": [
+      "defi",
+      "index"
+    ]
 }
