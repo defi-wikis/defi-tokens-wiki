@@ -1,7 +1,27 @@
 {
-    "name": "Rari Governance Token",
-    "symbol": "RGT",
-    "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
-    "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+	"name": "Rari Governance Token",
+	"symbol": "RGT",
+	"address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+	"decimals": 18,
+	"dharmaVerificationStatus": "VERIFIED",
+	"description": "The Rari Governance Token manages the Rari Protocol, a DeFi robo-advisor that enables users to autonomously earn yield.",
+	"socialLinks": [
+		{
+			"type": "twitter",
+			"value": "https://twitter.com/RariCapital"
+		},
+		{
+			"type": "website",
+			"value": "https://www.rari.capital/"
+		},
+		{
+			"type": "discord",
+			"value": "https://discord.gg/mtb6W57Ap6"
+		}
+	],
+	"tags": [
+		"defi",
+		"yield-farming",
+		"lending"
+	]
 }
