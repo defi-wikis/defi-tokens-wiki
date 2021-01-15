@@ -13,10 +13,6 @@
         {
             "type": "website",
             "value": "https://benchmarkprotocol.finance/"
-        },
-        {
-            "type": "discord",
-            "value": "https://discord.com/invite/HcxAEaHG3X"
         }
     ],
     "tags": [
