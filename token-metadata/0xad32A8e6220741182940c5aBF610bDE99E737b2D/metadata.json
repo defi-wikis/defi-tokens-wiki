@@ -3,5 +3,24 @@
     "symbol": "DOUGH",
     "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "DOUGH is PieDAO’s governance token. Anybody can be a member of PieDAO by holding it, and participate in the DAO governance.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/PieDAO_DeFi"
+        },
+        {
+            "type": "website",
+            "value": "https://www.piedao.org/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/pRUMSCH"
+        }
+    ],
+    "tags": [
+        "defi",
+        "yield-farming"
+    ]
 }
