@@ -1,7 +1,23 @@
 {
-    "name": "Reef.finance",
-    "symbol": "REEF",
-    "address": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
-    "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+	"name": "Reef",
+	"symbol": "REEF",
+	"address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+	"decimals": 18,
+	"dharmaVerificationStatus": "UNVERIFIED",
+	"description": "Reef is a smart liquidity aggregator and yield engine that enables trading with access to liquidity from both CEXs and DEXs while offering smart lending, borrowing, staking, mining through AI driven personalized Reef Yield Engine.",
+	"socialLinks": [
+		{
+			"type": "twitter",
+			"value": "https://twitter.com/ReefDeFi"
+		},
+		{
+			"type": "website",
+			"value": "https://reef.finance/"
+		}
+	],
+	"tags": [
+		"defi",
+		"yield-farming",
+		"lending"
+	]
 }
