@@ -1,0 +1,7 @@
+{
+    "name": "chainlink",
+    "symbol": "LINK",
+    "address": "0x8AB54CeCA6A92280a0d48A234F95b9fFC4f3ed87",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Inverse.Finance DAI to WBTC Yield Token",
+    "symbol": "inDAI->WBTC",
+    "address": "0xc8f2E91dC9d198edEd1b2778F6f2a7fd5bBeac34",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x6070C2215a18Cd8eFaF340166876aC9ce4d1e79b",
+    "decimals": 6,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

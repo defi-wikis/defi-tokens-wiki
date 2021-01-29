@@ -3,5 +3,20 @@
     "symbol": "0XBTC",
     "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
     "decimals": 8,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "A faithful implementation of Bitcoin as an immutable smart contract.",
+    "socialLinks": [
+        {
+            "type": "website",
+            "value": "https://0xbitcoin.org/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discordapp.com/invite/JGEqqmS"
+        }
+    ],
+    "tags": [
+        "defi",
+        "payment"
+    ]
 }

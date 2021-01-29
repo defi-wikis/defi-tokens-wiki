@@ -1,0 +1,7 @@
+{
+    "name": "BIO Token",
+    "symbol": "BIO",
+    "address": "0x25F7a27a9F1F63eda379D8D1475570eA84dc3e2c",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}

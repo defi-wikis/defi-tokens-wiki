@@ -1,0 +1,7 @@
+{
+    "name": "BTC Base",
+    "symbol": "BTCB",
+    "address": "0x30046D396AC284CCD9D1f4A13dCfaE51E0cE5d46",
+    "decimals": 18,
+    "dharmaVerificationStatus": "UNVERIFIED"
+}
