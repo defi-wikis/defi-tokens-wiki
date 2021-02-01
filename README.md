@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/defi-wikis/defi-tokens-wiki)
+
 ![Banner](https://dharma-assets.s3-us-west-2.amazonaws.com/defi-asset-wiki-banner.png)
 # DeFi Tokens Wiki
 
