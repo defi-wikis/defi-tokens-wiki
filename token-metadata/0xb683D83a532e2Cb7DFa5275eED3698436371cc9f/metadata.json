@@ -3,5 +3,16 @@
     "symbol": "BTU",
     "address": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "BTU digital currency is an universal reward. BTU is used by businesses to give back purchasing power to their customers, distribution partners and employees.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/btuprotocol"
+        },
+        {
+            "type": "website",
+            "value": "https://btu-protocol.com"
+        }
+    ]        
 }
