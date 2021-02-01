@@ -1,0 +1,28 @@
+{
+	"name": "Holyheld",
+	"symbol": "HH",
+	"address": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
+	"decimals": 18,
+	"dharmaVerificationStatus": "VERIFIED",
+	"description": "Holyheld (or HH) is a governance token of a group of services on Ethereum which allow users to combine a debit card with the savings account using DeFi. Holyheld optimizes interest rates using best lending and trading protocols to provide safe, secure and stable interest rates.",
+	"socialLinks": [
+		{
+			"type": "twitter",
+			"value": "https://twitter.com/holyheld"
+		},
+		{
+			"type": "website",
+			"value": "https://holyheld.com"
+		},
+		{
+			"type": "discord",
+			"value": "https://discord.gg/z2YMqPWbrF"
+		}
+	],
+	"tags": [
+		"defi",
+		"yield-farming",
+		"lending",
+    "cryptocard"
+	]
+}
