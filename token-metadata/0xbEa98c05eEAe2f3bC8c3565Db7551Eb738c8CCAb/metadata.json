@@ -3,5 +3,30 @@
     "symbol": "GYSR",
     "address": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "GYSR is a generalized, configurable, and 100% decentralized platform for on-chain incentives.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/gysr_io"
+        },
+        {
+            "type": "website",
+            "value": "https://gysr.io"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.gg/qjWa7JB"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/gysr_io"
+        }
+    ],
+    "tags": [
+        "defi",
+        "yield-farming",
+        "staking",
+        "farming"
+    ]
 }
