@@ -7178,8 +7178,7 @@
             "name": "YAM v1",
             "symbol": "YAMV1",
             "address": "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16",
-            "decimals": 18,
-            "logoURI": "https://tokens.dharma.io/assets/0x0e2298e3b3390e3b945a5456fbf59ecc3f55da16/icon.png"
+            "decimals": 18
         },
         {
             "chainId": 1,
@@ -13819,13 +13818,6 @@
             "name": "ABSOLUTELY NO DUMPS",
             "symbol": "AND",
             "address": "0xC64F78Ef3B16AD516F9064fc2E6E90f49be6422B",
-            "decimals": 18
-        },
-        {
-            "chainId": 1,
-            "name": "yamv3.a.finance",
-            "symbol": "YAMv3",
-            "address": "0xE87a4e0B92AfF4F84D1291438E920149B9F9ffb3",
             "decimals": 18
         },
         {
