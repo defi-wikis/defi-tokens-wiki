@@ -1,7 +1,27 @@
 {
-    "name": "DefiDollar DAO",
-    "symbol": "DFD",
-    "address": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
-    "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+  "name": "DefiDollar DAO",
+  "symbol": "DFD",
+  "address": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+  "decimals": 18,
+  "dharmaVerificationStatus": "UNVERIFIED",
+  "description": "DFD is DefiDollar's governance token in which holders will be able to participate in protocol governance and act as a backstop for $DUSD to mitigate large peg deviations.",
+  "socialLinks": [
+    {
+      "type": "twitter",
+      "value": "https://twitter.com/defidollar"
+    },
+    {
+      "type": "website",
+      "value": "https://dusd.finance"
+    },
+    {
+      "type": "discord",
+      "value": "https://discord.gg/RN8NabumHZ"
+    },
+    {
+      "type": "telegram",
+      "value": "https://t.me/defidollar_community"
+    }
+  ],
+  "tags": ["defi", "daos"]
 }

@@ -1,7 +1,27 @@
 {
-    "name": "DefiDollar",
-    "symbol": "DUSD",
-    "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
-    "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+  "name": "DefiDollar",
+  "symbol": "DUSD",
+  "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
+  "decimals": 18,
+  "dharmaVerificationStatus": "VERIFIED",
+  "description": "DefiDollar ($DUSD) aspires to be a risk-insured stablecoin layer for DeFi. It aims to provide a safe and stable way for users to hold their assets. $DUSD is a stablecoin optimized for peg safety, yield, and diversification.",
+  "socialLinks": [
+    {
+      "type": "twitter",
+      "value": "https://twitter.com/defidollar"
+    },
+    {
+      "type": "website",
+      "value": "https://dusd.finance"
+    },
+    {
+      "type": "discord",
+      "value": "https://discord.gg/RN8NabumHZ"
+    },
+    {
+      "type": "telegram",
+      "value": "https://t.me/defidollar_community"
+    }
+  ],
+  "tags": ["defi", "stablecoin"]
 }
