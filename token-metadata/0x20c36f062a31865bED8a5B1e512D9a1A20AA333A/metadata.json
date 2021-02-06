@@ -4,7 +4,7 @@
   "address": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
   "decimals": 18,
   "dharmaVerificationStatus": "UNVERIFIED",
-  "description": "DFD is DefiDollar's governance token in which holders will be able to participate in protocol governance and act as a backstop for $DUSD to mitigate large peg deviations.",
+  "description": "DFD is DefiDollar's governance token using which holders will be able to participate in protocol governance and it will also act as a backstop of last resort to mitigate large peg deviations for $DUSD.",
   "socialLinks": [
     {
       "type": "twitter",
