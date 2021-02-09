@@ -3,5 +3,25 @@
     "symbol": "RARE",
     "address": "0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "$RARE token represents being part of the Unique family. HODL-ers get special privileges such as ability to vote on governance decisions, ability to vote in contests, ability to mine $RARE as a liquidity provider, share of platform fees.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/UniqueOne_UO"
+        },
+        {
+            "type": "website",
+            "value": "https://unique.one/"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/unique_one_rare"
+        }
+    ],
+    "tags": [
+        "nft",
+        "daos",
+        "staking"
+    ]
 }
