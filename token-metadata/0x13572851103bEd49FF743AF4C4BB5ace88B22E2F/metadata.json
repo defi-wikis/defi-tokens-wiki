@@ -1,0 +1,28 @@
+{
+  "name": "R3FI.finance",
+  "symbol": "R3FI",
+  "address": "0x13572851103bEd49FF743AF4C4BB5ace88B22E2F",
+  "decimals": 9,
+  "description": "R3FI is a yield generating ERC-20 token that requires no lockup and no gas to claim your rewards. R3FI works by applying a 5% fee to each transaction and instantly splitting that fee among all holders of the token.",
+  "socialLinks": [
+    {
+      "type": "twitter",
+      "value": "https://twitter.com/R3fiToken"
+    },
+    {
+      "type": "website",
+      "value": "https://r3fi.finance"
+    },
+    {
+      "type": "telegram",
+      "value": "https://t.me/r3fifinance"
+    }
+  ],
+  "tags": [
+    "defi",
+    "yield-farming",
+    "staking",
+    "farming"
+  ],
+  "dharmaVerificationStatus": "UNVERIFIED"
+}
