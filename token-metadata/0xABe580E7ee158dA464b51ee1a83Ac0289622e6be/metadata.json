@@ -4,4 +4,24 @@
     "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED"
+    "description": "Offshift is a PriFi (Private DeFi) protocol on Ethereum and Polkadot. Its native token, XFT, enables the creation of private, synthetic zkAssets that can be pegged to a variety of both digital and real-world assets. zkAssets can be stored and staked privately, and are backed by and redeemable for their value in XFT.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/offshiftxft"
+        },
+        {
+            "type": "website",
+            "value": "https://offshift.io"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/OffshiftXFT"
+        }
+    ],
+    "tags": [
+        "defi",
+        "privacy",
+        "synthetics"
+    ]
 }
