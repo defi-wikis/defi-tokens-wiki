@@ -1,0 +1,34 @@
+{
+    "name": "Streamix",
+    "symbol": "MIXS",
+    "address": "0xB0BFB1E2F72511cF8b4D004852E2054d7b9a76e1",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Streamix is an ERC20 token that aims to gamify social network & streaming platform. Streamix is where decentralized finance meets content creators, streamers, gamers, and mass adoption of cryptocurrency begins.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/streamixio"
+        },
+        {
+            "type": "website",
+            "value": "https://streamix.io"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/Streamix"
+        },
+		{
+            "type": "discord",
+            "value": "https://discord.gg/rkZ7nyv4VK"
+        }
+    ],
+    "tags": [
+        "streaming",
+		"defi",
+        "yield-farming",
+        "NFTs",
+		"marketplace",
+		"social media"
+    ]
+}
