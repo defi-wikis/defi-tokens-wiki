@@ -3,5 +3,32 @@
     "symbol": "CFi",
     "address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "Cyberfi's mission is to create a user-friendly DeFi experience and add a new layer of features available. Users of our platform will experience zero-stress, automated DeFi trading and farming, smaller fees and tools for Impermanent Loss mitigation",
+    "socialLinks": [
+{
+"type": "twitter",
+"value": "https://twitter.com/cyberfi_tech"
+},
+{
+"type": "website",
+"value": "https://cyberfi.tech/"
+},
+{
+"type": "Discord",
+"value": "https://discord.com/invite/S4M6KQx"
+},
+{
+"type": "Telegram",
+"value": "https://t.me/cyberfi_tech"
+},
+{
+"type": "Uniswap",
+"value": "https://info.uniswap.org/pair/0x36938d1419b717c97ebdb273702806ca73f89a4c"
+},
+{
+"type": "Etherscan",
+"value": "https://etherscan.io/token/0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4"
+}
+]
 }
