@@ -1,0 +1,29 @@
+{
+    "name": "SharedStake Governance Token",
+    "symbol": "SGT",
+    "address": "0x84810bcf08744d5862b8181f12d17bfd57d3b078",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "SharedStake is a decentralized Ethereum-2 staking solution that allows users to stake any amount of Ether and earn additional yield on top of their ETH2 rewards.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/sharedstake"
+        },
+        {
+            "type": "website",
+            "value": "https://www.sharedstake.org/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/channels/779046626236563487/802241514566582292"
+        }
+    ],
+    "tags": [
+        "defi",
+        "yield-farming",
+        "staking",
+        "daos",
+        "yield-bearing"   
+    ]
+}
