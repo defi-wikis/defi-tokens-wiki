@@ -1,0 +1,24 @@
+{
+    "name": "DeFi Token List",
+    "timestamp": "2020-10-14T00:04:19.983Z",
+    "timestamp": "2020-10-14T00:12:34.960Z",
+    "version": {
+        "major": 1,
+        "minor": 6214,
+        "minor": 6215,
+        "patch": 0
+    },
+    "keywords": [
+            "symbol": "SGT",
+            "address": "0x84810bcf08744d5862b8181f12d17bfd57d3b078",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "name": "SharedStake Governance Token",
+            "symbol": "SGT",
+            "address": "0x84810bcf08744d5862b8181f12d17bfd57d3b078",
+            "decimals": 18
+        }
+    ]
+} 
