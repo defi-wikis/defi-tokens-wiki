@@ -4,4 +4,30 @@
     "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED"
+	"socialLinks": [
+{
+"type": "twitter",
+"value": "https://twitter.com/akropolisio"
+},
+{
+"type": "website",
+"value": "https://akropolis.io"
+},
+{
+"type": "Discord",
+"value": "https://discord.com/invite/Y58CGUW"
+},
+{
+"type": "Telegram",
+"value": "https://t.me/akropolis_official"
+},
+{
+"type": "Uniswap",
+"value": "https://info.uniswap.org/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+},
+{
+"type": "Etherscan",
+"value": "https://etherscan.io/token/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+}
+]
 }
