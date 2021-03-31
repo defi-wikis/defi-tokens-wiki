@@ -4,6 +4,7 @@
     "address": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
     "decimals": 18,
     "dharmaVerificationStatus": "VERIFIED"
+	"description": "Akropolis is an Ethereum based platform that enables users to automate earning yield on their crypto-assets. Akropolis is built on Yearn’s vaults and acts as a front-end to the Yearn ecosystem."
 	"socialLinks": [
 {
 "type": "twitter",
