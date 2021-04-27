@@ -1,0 +1,29 @@
+{
+    "name": "CarCoin",
+    "symbol": "CARS",
+    "address": "0xc6CF3C3c693fb0a2c8aE69ec4c199a4BA285A594",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "CarCoin X West Coast Customs is the Social Token that brings you everything automotive. From original WCC artwork NFTs to historic moments, one of a kind experiences, and classic builds featured on “Inside West Coast Customs”, and that’s just the beginning!",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/nftcar"
+        },
+        {
+            "type": "website",
+            "value": "https://carcoinnft.com"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/X87pbKdjFA"
+        }
+    ],
+    "tags": [
+        "nft",
+        "cars",
+        "wcc",
+		"west coast customs",
+		"carcoin"
+    ]
+}
