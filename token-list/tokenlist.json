@@ -33319,6 +33319,13 @@
             "symbol": "VV",
             "address": "0x6C74E16acEEca1796FdCecBAb71cf30d5934c936",
             "decimals": 18
+        },
+		{
+            "chainId": 1,
+            "name": "CarCoin",
+            "symbol": "CARS",
+            "address": "0xc6CF3C3c693fb0a2c8aE69ec4c199a4BA285A594",
+            "decimals": 18
         }
     ]
 }
