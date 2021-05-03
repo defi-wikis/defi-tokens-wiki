@@ -1,0 +1,25 @@
+{
+  "name": "Lendefi",
+  "symbol": "LDFI",
+  "address": "0x5479d565E549f3ECdBDe4aB836d02D86e0D6A8C7",
+  "decimals": 18,
+  "dharmaVerificationStatus": "VERIFIED",
+  "socialLinks": [
+    {
+      "type": "twitter",
+      "value": "https://twitter.com/lendefi_io"
+    },
+    {
+      "type": "telegram",
+      "value": "https://t.me/lendefi_io"
+    },
+    {
+      "type": "website",
+      "value": "https://lendefi.finance/"
+    }
+  ],
+  "tags": [
+    "lending",
+    "bsc"
+  ]
+}
