@@ -1,0 +1,32 @@
+{
+    "name": "Total Crypto Market Cap",
+    "symbol": "TCAP",
+    "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
+    "decimals": 18,
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "TCAP is a fully decentralized ERC-20 compatible smart contract that tokenizes real-time Total Market Capitalization from ALL cryptocurrencies and tokens listed on the largest crypto data providers in the world.",
+    "socialLinks": [
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/cryptexfinance"
+        },
+        {
+            "type": "website",
+            "value": "https://cryptex.finance/"
+        },
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/N5zEq6b"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/totalcryptomarketcap"
+        }
+    ],
+    "tags": [
+        "defi",
+        "farming",
+        "staking",
+        "synthetics"
+    ]
+}
