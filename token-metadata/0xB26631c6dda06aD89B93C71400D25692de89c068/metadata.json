@@ -3,5 +3,23 @@
     "symbol": "MINDS",
     "address": "0xB26631c6dda06aD89B93C71400D25692de89c068",
     "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED"
+    "description": "Minds is a crypto social network where users earn MINDS tokens for contributing to the network. Our mission is to bring Internet freedom back to social media.",
+    "dharmaVerificationStatus": "VERIFIED",
+    "socialLinks": [
+        {
+			"type": "Website",
+			"value": "https://www.minds.com/"
+		},
+        {
+			"type": "Twitter",
+			"value": "https://twitter.com/minds"
+		}
+	],
+    "tags": [
+        "defi",
+        "payments",
+        "payment",
+        "staking",
+        "farming"
+    ]
 }
