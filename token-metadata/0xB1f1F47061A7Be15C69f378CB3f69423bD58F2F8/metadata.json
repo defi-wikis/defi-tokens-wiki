@@ -1,28 +1,28 @@
 {
-    "name": "Flashstake",
-    "symbol": "FLASH",
-    "address": "0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8",
-    "decimals": 18,
-    "dharmaVerificationStatus": "VERIFIED",
-    "description": "The Flashstake protocol is a novel financial infrastructure that allows users to receive instant yield on deposited assets by locking up principal for a chosen duration. The 
+   "name":"Flashstake",
+   "symbol":"FLASH",
+   "address":"0xB1f1F47061A7Be15C69f378CB3f69423bD58F2F8",
+   "decimals":18,
+   "dharmaVerificationStatus":"VERIFIED",
+   "description":"The Flashstake protocol is a novel financial infrastructure that allows users to receive instant yield on deposited assets by locking up principal for a chosen duration. The 
 protocol is made possible by Flash Strategies, which utilize underlying protocols such as AAVE, Yearn, etc. to generate yield. For more information visit the documentation: 
 https://docs.flashstake.io/",
-    "socialLinks": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Flashstake"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/flashstake"
-        },
-        {
-            "name": "website",
-            "url": "https://flashstake.io/"
-        }
-    ],
-    "tags": [
-        "defi",
-        "yield-farming"
-    ]
+   "socialLinks":[
+      {
+         "name":"twitter",
+         "url":"https://twitter.com/Flashstake"
+      },
+      {
+         "name":"discord",
+         "url":"https://discord.com/flashstake"
+      },
+      {
+         "name":"website",
+         "url":"https://flashstake.io/"
+      }
+   ],
+   "tags":[
+      "defi",
+      "yield-farming"
+   ]
 }
