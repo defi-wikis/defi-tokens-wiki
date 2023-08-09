@@ -1,7 +1,31 @@
 {
-    "name": "PLOT",
+    "name": "PlotX",
     "symbol": "PLOT",
     "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
     "decimals": 18,
-    "dharmaVerificationStatus": "UNVERIFIED"
+    "dharmaVerificationStatus": "VERIFIED",
+    "description": "PlotX is a non-custodial prediction market protocol that enables users to earn rewards on high-yield prediction markets. Dubbed as the Uniswap of Prediction Markets, PlotX uses an Automated Market Making algorithm to settle markets and distribute rewards on the Ethereum Blockchain without any counterparty risk. Markets are focused on crypto-pairs like BTC-USD & ETH-USD and created in intervals of 4h, 1d and 1w.",
+    "socialLinks": [
+        {
+            "type": "discord",
+            "value": "https://discord.com/invite/8CWNQnG"
+        },
+        {
+            "type": "twitter",
+            "value": "https://twitter.com/TryPlotX"
+        },
+        {
+            "type": "telegram",
+            "value": "https://t.me/plotx_official"
+        },
+        {
+            "type": "website",
+            "value": "https://plotx.io/"
+        }
+    ],
+    "tags": [
+        "defi",
+        "amm",
+        "yield-farming"
+    ]
 }
